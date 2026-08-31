@@ -13,7 +13,6 @@ MAX_NEWS = 500
 # ============================================================
 # مصادر الأخبار
 # ============================================================
-
 RSS_SOURCES = [
     {
         "name": "BBC Sport Football",
@@ -22,8 +21,14 @@ RSS_SOURCES = [
     },
 
     {
-        "name": "Al-Jazirah Sports",
-        "url": "https://www.al-jazirah.com/rss/",
+        "name": "Al-Anba Arabic Sports",
+        "url": "https://www.alanba.com.kw/rss/arabic-sports",
+        "language": "ar",
+    },
+
+    {
+        "name": "Al Jadeed Football",
+        "url": "https://www.aljadeed.tv/Rss/News/1065/كرة-القدم/ar",
         "language": "ar",
     },
 ]
