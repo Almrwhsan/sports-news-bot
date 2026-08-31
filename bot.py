@@ -109,7 +109,7 @@ FOOTBALL_KEYWORDS = [
 
 
 # ============================================================
-# محتوى رياضي لا نريد اعتباره خبرًا للنشر
+# محتوى رياضي لا نريد اعتباره خبرًا
 # ============================================================
 
 NON_NEWS_KEYWORDS = [
@@ -224,9 +224,10 @@ def clean_text(text):
     # HTML entities الشائعة
     text = (
         text.replace("&nbsp;", " ")
-            .replace("&amp;", "&")
-            .replace("&quot;", '"')
-            .replace("&#39;", "'")
+        .replace("&amp;", "&")
+        .replace("&quot;", '"')
+        .replace("&#39;", "'")
+        .replace("&apos;", "'")
     )
 
     # إزالة المسافات الزائدة
@@ -250,7 +251,6 @@ def clean_summary(text):
     if not text:
         return ""
 
-    # عبارات RSS الشائعة
     unwanted = [
         "Read more",
         "اقرأ المزيد",
@@ -274,7 +274,7 @@ def clean_summary(text):
         flags=re.IGNORECASE
     )
 
-    # تنظيف علامات الترقيم الزائدة في النهاية
+    # إزالة علامات الترقيم الزائدة من النهاية
     text = re.sub(
         r"[\s\-–—|:،]+$",
         "",
@@ -383,10 +383,6 @@ def detect_category(title, summary):
 
     text = f"{title} {summary}".lower()
 
-    # --------------------------------------------------------
-    # انتقالات
-    # --------------------------------------------------------
-
     transfer_words = [
         "transfer",
         "transfers",
@@ -402,10 +398,6 @@ def detect_category(title, summary):
         "ينتقل",
     ]
 
-    # --------------------------------------------------------
-    # إصابات
-    # --------------------------------------------------------
-
     injury_words = [
         "injury",
         "injured",
@@ -416,20 +408,12 @@ def detect_category(title, summary):
         "غياب",
     ]
 
-    # --------------------------------------------------------
-    # منتخبات
-    # --------------------------------------------------------
-
     national_team_words = [
         "national team",
         "world cup",
         "منتخب",
         "كأس العالم",
     ]
-
-    # --------------------------------------------------------
-    # مباريات
-    # --------------------------------------------------------
 
     match_words = [
         "match",
@@ -554,7 +538,10 @@ def build_post(
     # الخبر العربي
     # --------------------------------------------------------
 
-    if language == "ar" or contains_arabic(title):
+    if (
+        language == "ar"
+        or contains_arabic(title)
+    ):
 
         post_title = clean_arabic_title(
             title
@@ -565,8 +552,8 @@ def build_post(
     # --------------------------------------------------------
     # الخبر الإنجليزي
     #
+    # Gemini غير مستخدم حاليًا.
     # الترجمة ستضاف لاحقًا.
-    # Gemini لا يعمل هنا.
     # --------------------------------------------------------
 
     else:
@@ -738,7 +725,10 @@ def main():
     # --------------------------------------------------------
 
     old_titles = [
-        item.get("title", "")
+        item.get(
+            "title",
+            ""
+        )
         for item in old_news
         if item.get("title")
     ]
@@ -760,7 +750,7 @@ def main():
             entries
         )
 
-        # لا نعالج عددًا ضخمًا من عناصر RSS
+        # معالجة أحدث 10 أخبار من كل مصدر
         entries = entries[
             :MAX_NEWS_PER_SOURCE
         ]
@@ -925,7 +915,7 @@ def main():
 
                 "published": published,
 
-                # المصدر داخلي
+                # المصدر
                 "source": source["name"],
 
                 "language": source["language"],
@@ -934,17 +924,11 @@ def main():
                 "category": category,
 
                 # بيانات المنشور
-                "post_title": post[
-                    "post_title"
-                ],
+                "post_title": post["post_title"],
 
-                "post_body": post[
-                    "post_body"
-                ],
+                "post_body": post["post_body"],
 
-                "post_text": post[
-                    "post_text"
-                ],
+                "post_text": post["post_text"],
 
                 # حالة المعالجة
                 "processed": False,
@@ -957,4 +941,30 @@ def main():
                 "image_source": None,
 
                 "image_license": None,
-    }
+            }
+
+            # ------------------------------------------------
+            # إضافة الخبر
+            # ------------------------------------------------
+
+            new_news.append(
+                news_item
+            )
+
+            old_urls.add(
+                url
+            )
+
+            old_titles.append(
+                title
+            )
+
+            source_added += 1
+
+        print(
+            f"New football news from "
+            f"{source['name']}: "
+            f"{source_added}"
+        )
+
+    # ========
