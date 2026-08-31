@@ -29,12 +29,18 @@ jobs:
       - name: Run bot
         run: python bot.py
 
-      - name: Save news database
-        run: |
-          git config user.name "Sports News Bot"
-          git config user.email "actions@github.com"
+      - name: Prepare news database
+        run: git add news.json
 
-          git add news.json
+      - name: Commit news database
+        run: |
+          git diff --cached --quiet && echo "No changes to save." || git commit -m "Update football news database"
+
+      - name: Update repository
+        run: git pull --rebase origin main
+
+      - name: Push news database
+        run: git push origin HEAD:main          git add news.json
 
           if git diff --cached --quiet; then
             echo "No changes to save."
