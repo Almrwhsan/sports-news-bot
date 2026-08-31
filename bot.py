@@ -1,26 +1,42 @@
-name: Sports News Bot    
-    
-on:    
-  workflow_dispatch:    
-    
-permissions:    
-  contents: read    
-    
-jobs:    
-  test-bot:    
-    runs-on: ubuntu-latest    
-    
-    steps:    
-      - name: Download repository    
-        uses: actions/checkout@v4    
-    
-      - name: Setup Python    
-        uses: actions/setup-python@v5    
-        with:    
-          python-version: "3.12"    
-    
-      - name: Install dependencies    
-        run: pip install -r requirements.txt    
-    
-      - name: Run bot    
+name: Sports News Bot
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python bot.py
+
+      - name: Save news database
+        run: |
+          git config user.name "Sports News Bot"
+          git config user.email "actions@github.com"
+
+          git add news.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update football news database"
+            git push
+          fi
