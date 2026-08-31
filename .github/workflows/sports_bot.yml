@@ -1,9 +1,6 @@
 name: Sports News Bot
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -35,6 +32,14 @@ jobs:
           git config user.name "Sports News Bot"
           git config user.email "actions@github.com"
 
+          git add news.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update football news database"
+            git push
+          fi
           git add news.json
 
           if git diff --cached --quiet; then
