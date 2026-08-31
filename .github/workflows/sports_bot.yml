@@ -29,6 +29,11 @@ jobs:
       - name: Run bot
         run: python bot.py
 
+      - name: Configure Git
+        run: |
+          git config user.name "Sports News Bot"
+          git config user.email "actions@github.com"
+
       - name: Prepare news database
         run: git add news.json
 
@@ -40,20 +45,4 @@ jobs:
         run: git pull --rebase origin main
 
       - name: Push news database
-        run: git push origin HEAD:main          git add news.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to save."
-            exit 0
-          fi
-
-          git commit -m "Update football news database"
-
-          git pull --rebase origin main
-
-          git push origin HEAD:main          if git diff --cached --quiet; then
-            echo "No changes to save."
-          else
-            git commit -m "Update football news database"
-            git push
-          fi
+        run: git push origin HEAD:main
