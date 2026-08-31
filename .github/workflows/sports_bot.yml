@@ -3,6 +3,10 @@ name: Sports News Bot
 on:
   workflow_dispatch:
 
+concurrency:
+  group: sports-news-bot
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -23,8 +27,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run bot
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python bot.py
 
       - name: Save news database
@@ -35,6 +37,15 @@ jobs:
           git add news.json
 
           if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+
+          git commit -m "Update football news database"
+
+          git pull --rebase origin main
+
+          git push origin HEAD:main          if git diff --cached --quiet; then
             echo "No changes to save."
           else
             git commit -m "Update football news database"
