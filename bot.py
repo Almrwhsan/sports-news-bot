@@ -965,43 +965,44 @@ def main():
                 "image_source": None,
 
                 "image_license": None,
-            }
+                        }
+
             # ------------------------------------------------
-# تحميل صورة الخبر
-# ------------------------------------------------
+            # تحميل صورة الخبر
+            # ------------------------------------------------
 
-print()
-print(
-    "Searching for news image..."
-)
+            print()
+            print(
+                "Searching for news image..."
+            )
 
-image_result = fetch_news_image(
-    title=title
-)
+            image_result = fetch_news_image(
+                title=title
+            )
 
-if image_result:
+            if image_result:
 
-    news_item["image"] = image_result[
-        "image_path"
-    ]
+                news_item["image"] = image_result[
+                    "image_path"
+                ]
 
-    news_item["image_source"] = image_result[
-        "source_url"
-    ]
+                news_item["image_source"] = image_result[
+                    "source_url"
+                ]
 
-    news_item["image_license"] = image_result[
-        "license"
-    ]
+                news_item["image_license"] = image_result[
+                    "license"
+                ]
 
-    print(
-        "News image attached successfully."
-    )
+                print(
+                    "News image attached successfully."
+                )
 
-else:
+            else:
 
-    print(
-        "No image found for this news."
-    )
+                print(
+                    "No image found for this news."
+                )
 
             # ------------------------------------------------
             # إضافة الخبر
