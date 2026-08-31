@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   test-image:
@@ -29,4 +29,20 @@ jobs:
 
       - name: Check generated image
         run: |
+          echo "Generated images:"
           ls -lah generated_images
+
+      - name: Save generated images
+        run: |
+          git config user.name "Sports News Bot"
+          git config user.email "actions@github.com"
+
+          git add generated_images/
+
+          if git diff --cached --quiet; then
+            echo "No new images to save."
+          else
+            git commit -m "Add generated news images"
+            git pull --rebase origin main
+            git push origin main
+          fi
