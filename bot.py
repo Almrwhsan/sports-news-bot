@@ -5,6 +5,7 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone
 
 import feedparser
+from image_fetcher import fetch_news_image
 
 
 # ============================================================
@@ -965,6 +966,42 @@ def main():
 
                 "image_license": None,
             }
+            # ------------------------------------------------
+# تحميل صورة الخبر
+# ------------------------------------------------
+
+print()
+print(
+    "Searching for news image..."
+)
+
+image_result = fetch_news_image(
+    title=title
+)
+
+if image_result:
+
+    news_item["image"] = image_result[
+        "image_path"
+    ]
+
+    news_item["image_source"] = image_result[
+        "source_url"
+    ]
+
+    news_item["image_license"] = image_result[
+        "license"
+    ]
+
+    print(
+        "News image attached successfully."
+    )
+
+else:
+
+    print(
+        "No image found for this news."
+    )
 
             # ------------------------------------------------
             # إضافة الخبر
