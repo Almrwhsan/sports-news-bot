@@ -40,11 +40,3 @@ jobs:
             git commit -m "Update football news database"
             git push
           fi
-          git add news.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to save."
-          else
-            git commit -m "Update football news database"
-            git push
-          fi
