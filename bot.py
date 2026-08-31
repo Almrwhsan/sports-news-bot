@@ -1,21 +1,42 @@
-from datetime import datetime, timezone
-from database import init_database
+import feedparser
+
+
+RSS_URL = "https://feeds.bbci.co.uk/sport/football/rss.xml"
+
+
+def get_football_news():
+    print("Fetching football news...")
+    print()
+
+    feed = feedparser.parse(RSS_URL)
+
+    if feed.bozo:
+        print("Warning: RSS feed may have a problem.")
+
+    print(f"Source: BBC Sport Football")
+    print(f"News found: {len(feed.entries)}")
+    print()
+
+    for index, article in enumerate(feed.entries[:10], start=1):
+        title = article.get("title", "No title")
+        url = article.get("link", "No URL")
+        published = article.get("published", "Unknown time")
+
+        print(f"{index}. {title}")
+        print(f"   URL: {url}")
+        print(f"   Published: {published}")
+        print()
 
 
 def main():
     print("===================================")
-    print("   SPORTS NEWS BOT")
+    print("      SPORTS NEWS BOT")
     print("===================================")
 
-    init_database()
+    get_football_news()
 
-    print("Database initialized successfully!")
-    print("Bot is working successfully!")
-    print(
-        "UTC time:",
-        datetime.now(timezone.utc).isoformat()
-    )
-
+    print("===================================")
+    print("Bot finished successfully!")
     print("===================================")
 
 
