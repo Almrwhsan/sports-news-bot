@@ -924,11 +924,17 @@ def main():
                 "category": category,
 
                 # بيانات المنشور
-                "post_title": post["post_title"],
+                "post_title": post[
+                    "post_title"
+                ],
 
-                "post_body": post["post_body"],
+                "post_body": post[
+                    "post_body"
+                ],
 
-                "post_text": post["post_text"],
+                "post_text": post[
+                    "post_text"
+                ],
 
                 # حالة المعالجة
                 "processed": False,
@@ -962,9 +968,101 @@ def main():
             source_added += 1
 
         print(
-            f"New football news from "
+             f"New football news from "
             f"{source['name']}: "
             f"{source_added}"
         )
 
-    # ========
+    # ========================================================
+    # النتائج
+    # ========================================================
+
+    print()
+    print("===================================")
+    print(
+        f"NEW FOOTBALL NEWS: "
+        f"{len(new_news)}"
+    )
+    print("===================================")
+
+    if new_news:
+
+        for index, article in enumerate(
+            new_news,
+            start=1
+        ):
+
+            print()
+            print(
+                f"🆕 NEWS #{index}"
+            )
+
+            print(
+                f"Source: "
+                f"{article['source']}"
+            )
+
+            print(
+                f"Original title: "
+                f"{article['title']}"
+            )
+
+            print(
+                f"Category: "
+                f"{article['category']}"
+            )
+
+            print()
+            print(
+                "POST PREVIEW:"
+            )
+
+            print(
+                article["post_text"]
+            )
+
+            print()
+            print(
+                f"Internal URL: "
+                f"{article['url']}"
+            )
+
+    else:
+
+        print(
+            "No new football news."
+        )
+
+    # ========================================================
+    # دمج الأخبار الجديدة مع القديمة
+    # ========================================================
+
+    combined_news = (
+        new_news +
+        old_news
+    )
+
+    # ========================================================
+    # حفظ الأخبار
+    # ========================================================
+
+    save_news(
+        combined_news
+    )
+
+    print()
+    print("===================================")
+    print("Bot finished successfully!")
+    print(
+        "Saved news:",
+        len(combined_news[:MAX_NEWS])
+    )
+    print("===================================")
+
+
+# ============================================================
+# تشغيل البرنامج
+# ============================================================
+
+if __name__ == "__main__":
+    main()
