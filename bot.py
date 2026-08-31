@@ -50,6 +50,87 @@ def main():
     new_news = []
 
     for article in entries:
+
+        title = article.get("title", "").strip()
+        url = article.get("link", "").strip()
+        published = article.get("published", "Unknown time").strip()
+
+        # RSS قد يسمي الملخص description أو summary
+        summary = article.get("summary", "").strip()
+
+        if not title or not url:
+            continue
+
+        if url in old_urls:
+            continue
+
+        news_item = {
+            "title": title,
+            "summary": summary,
+            "url": url,
+            "published": published,
+            "source": "BBC Sport Football",
+            "language": "en",
+            "processed": False
+        }
+
+        new_news.append(news_item)
+        old_urls.add(url)
+
+    print(f"Total RSS news: {len(entries)}")
+    print(f"Previously saved: {len(old_news)}")
+    print(f"NEW NEWS: {len(new_news)}")
+    print()
+
+    if new_news:
+
+        print("🆕 New football news:")
+        print()
+
+        for index, article in enumerate(new_news, start=1):
+
+            print(f"{index}. {article['title']}")
+            print(f"   Source: {article['source']}")
+            print(f"   Published: {article['published']}")
+
+            if article["summary"]:
+                print(f"   Summary: {article['summary'][:300]}")
+            else:
+                print("   Summary: No summary available")
+
+            print(f"   URL: {article['url']}")
+            print()
+
+    else:
+        print("No new news.")
+
+    combined_news = new_news + old_news
+
+    save_news(combined_news)
+
+    print("===================================")
+    print("Bot finished successfully!")
+    print("Saved news:", len(combined_news[:MAX_NEWS]))
+    print("===================================")
+
+
+if __name__ == "__main__":
+    main()    return feed.entries
+
+
+def main():
+    print("===================================")
+    print("      SPORTS NEWS BOT")
+    print("===================================")
+
+    old_news = load_news()
+    old_urls = {item["url"] for item in old_news}
+
+    entries = get_football_news()
+
+    new_news = []
+
+    for article in entries:
         title = article.get("title", "").strip()
         url = article.get("link", "").strip()
         published = article.get("published", "Unknown time")
