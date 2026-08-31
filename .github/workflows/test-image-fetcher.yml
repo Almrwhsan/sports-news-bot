@@ -27,9 +27,26 @@ jobs:
         run: |
           python image_fetcher.py
 
+      - name: Check fetched images
+        run: |
+          echo "==================================="
+          echo "Fetched images:"
+          echo "==================================="
+          ls -lah news_images || true
+
+      - name: Run image generator
+        run: |
+          python image_generator.py
+
       - name: Check generated images
         run: |
           echo "==================================="
           echo "Generated images:"
           echo "==================================="
-          ls -lah news_images || true
+          ls -lah generated_images || true
+
+      - name: Upload generated images
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-images
+          path: generated_images/
