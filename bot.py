@@ -8,23 +8,20 @@ import feedparser
 
 
 # ============================================================
-# إعدادات البوت
+# إعدادات
 # ============================================================
 
 NEWS_FILE = "news.json"
 
-# الحد الأقصى لكل مصدر في كل تشغيل
 MAX_NEWS_PER_SOURCE = 10
-
-# الحد الأقصى لإجمالي الأخبار الجديدة في التشغيل الواحد
 MAX_NEW_NEWS = 20
-
-# الحد الأقصى للأخبار المحفوظة
 MAX_NEWS = 500
+
+MAX_SUMMARY_LENGTH = 450
 
 
 # ============================================================
-# مصادر الأخبار
+# المصادر
 # ============================================================
 
 RSS_SOURCES = [
@@ -53,7 +50,6 @@ RSS_SOURCES = [
 # ============================================================
 
 FOOTBALL_KEYWORDS = [
-    # English
     "football",
     "soccer",
     "premier league",
@@ -77,7 +73,6 @@ FOOTBALL_KEYWORDS = [
     "league",
     "cup",
 
-    # Arabic
     "كرة القدم",
     "الدوري الإنجليزي",
     "الدوري الإسباني",
@@ -115,11 +110,18 @@ FOOTBALL_KEYWORDS = [
 # ============================================================
 
 def load_news():
+
     if not os.path.exists(NEWS_FILE):
         return []
 
     try:
-        with open(NEWS_FILE, "r", encoding="utf-8") as file:
+
+        with open(
+            NEWS_FILE,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
             data = json.load(file)
 
             if isinstance(data, list):
@@ -127,7 +129,11 @@ def load_news():
 
             return []
 
-    except (json.JSONDecodeError, OSError):
+    except (
+        json.JSONDecodeError,
+        OSError
+    ):
+
         return []
 
 
@@ -139,7 +145,12 @@ def save_news(news):
 
     news = news[:MAX_NEWS]
 
-    with open(NEWS_FILE, "w", encoding="utf-8") as file:
+    with open(
+        NEWS_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
         json.dump(
             news,
             file,
@@ -149,7 +160,7 @@ def save_news(news):
 
 
 # ============================================================
-# تنظيف النص
+# تنظيف HTML
 # ============================================================
 
 def clean_text(text):
@@ -157,17 +168,35 @@ def clean_text(text):
     if not text:
         return ""
 
-    # إزالة HTML
-    text = re.sub(r"<[^>]+>", " ", str(text))
+    text = str(text)
 
-    # إزالة المسافات الزائدة
-    text = re.sub(r"\s+", " ", text)
+    # HTML
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
+
+    # HTML entities الشائعة
+    text = (
+        text.replace("&nbsp;", " ")
+            .replace("&amp;", "&")
+            .replace("&quot;", '"')
+            .replace("&#39;", "'")
+    )
+
+    # مسافات متعددة
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
 
     return text.strip()
 
 
 # ============================================================
-# تنظيف النص من بعض العناصر غير المرغوبة
+# تنظيف ملخص RSS
 # ============================================================
 
 def clean_summary(text):
@@ -177,43 +206,57 @@ def clean_summary(text):
     if not text:
         return ""
 
-    # إزالة بعض العبارات الشائعة في خلاصات RSS
-    unwanted_patterns = [
-        r"Read more",
-        r"اقرأ المزيد",
-        r"تابع المزيد",
-        r"المزيد",
+    # إزالة عبارات RSS الشائعة
+    unwanted = [
+        "Read more",
+        "اقرأ المزيد",
+        "تابع المزيد",
+        "المزيد",
     ]
 
-    for pattern in unwanted_patterns:
+    for phrase in unwanted:
+
         text = re.sub(
-            pattern,
+            re.escape(phrase),
             "",
             text,
             flags=re.IGNORECASE
         )
 
-    text = re.sub(r"\s+", " ", text)
+    # إزالة كلمة news التي تظهر أحيانًا كجزء زائد
+    text = re.sub(
+        r"\s+(news|النيوز)\s*$",
+        "",
+        text,
+        flags=re.IGNORECASE
+    )
+
+    # تنظيف علامات زائدة في النهاية
+    text = re.sub(
+        r"[\s\-–—|:،]+$",
+        "",
+        text
+    )
 
     return text.strip()
 
 
 # ============================================================
-# تطبيع العنوان للمقارنة
+# تطبيع العنوان
 # ============================================================
 
 def normalize_title(title):
 
     title = clean_text(title).lower()
 
-    # إزالة التشكيل العربي
+    # إزالة التشكيل
     title = re.sub(
         r"[\u064B-\u065F\u0670]",
         "",
         title
     )
 
-    # توحيد بعض الحروف العربية
+    # توحيد الحروف
     title = title.replace("أ", "ا")
     title = title.replace("إ", "ا")
     title = title.replace("آ", "ا")
@@ -227,13 +270,17 @@ def normalize_title(title):
         title
     )
 
-    title = re.sub(r"\s+", " ", title)
+    title = re.sub(
+        r"\s+",
+        " ",
+        title
+    )
 
     return title.strip()
 
 
 # ============================================================
-# مقارنة الأخبار
+# تشابه العناوين
 # ============================================================
 
 def similar_titles(title1, title2):
@@ -244,7 +291,6 @@ def similar_titles(title1, title2):
     if not a or not b:
         return False
 
-    # تطابق مباشر
     if a == b:
         return True
 
@@ -258,95 +304,97 @@ def similar_titles(title1, title2):
 
 
 # ============================================================
-# اكتشاف هل الخبر عن كرة القدم
+# فلترة كرة القدم
 # ============================================================
 
 def is_football_news(title, summary):
 
     text = f"{title} {summary}".lower()
 
-    for keyword in FOOTBALL_KEYWORDS:
-
-        if keyword.lower() in text:
-            return True
-
-    return False
+    return any(
+        keyword.lower() in text
+        for keyword in FOOTBALL_KEYWORDS
+    )
 
 
 # ============================================================
-# تحديد تصنيف الخبر
+# التصنيف
 # ============================================================
 
 def detect_category(title, summary):
 
     text = f"{title} {summary}".lower()
 
-    transfer_words = [
-        "transfer",
-        "transfers",
-        "signing",
-        "deal",
-        "joins",
-        "join",
-        "move",
-        "انتقال",
-        "صفقة",
-        "تعاقد",
-        "ينضم",
-        "ينتقل",
-    ]
-
-    injury_words = [
-        "injury",
-        "injured",
-        "fitness",
-        "إصابة",
-        "مصاب",
-        "يغيب",
-        "غياب",
-    ]
-
-    match_words = [
-        "match",
-        "fixture",
-        "result",
-        "win",
-        "draw",
-        "defeat",
-        "مباراة",
-        "نتيجة",
-        "فوز",
-        "تعادل",
-        "خسارة",
-    ]
-
-    national_team_words = [
-        "national team",
-        "world cup",
-        "منتخب",
-        "كأس العالم",
-    ]
-
-    if any(word in text for word in transfer_words):
+    if any(
+        word in text
+        for word in [
+            "transfer",
+            "transfers",
+            "signing",
+            "deal",
+            "joins",
+            "join",
+            "move",
+            "انتقال",
+            "صفقة",
+            "تعاقد",
+            "ينضم",
+            "ينتقل",
+        ]
+    ):
         return "transfers"
 
-    if any(word in text for word in injury_words):
+    if any(
+        word in text
+        for word in [
+            "injury",
+            "injured",
+            "fitness",
+            "إصابة",
+            "مصاب",
+            "يغيب",
+            "غياب",
+        ]
+    ):
         return "injuries"
 
-    if any(word in text for word in national_team_words):
+    if any(
+        word in text
+        for word in [
+            "national team",
+            "world cup",
+            "منتخب",
+            "كأس العالم",
+        ]
+    ):
         return "national_teams"
 
-    if any(word in text for word in match_words):
+    if any(
+        word in text
+        for word in [
+            "match",
+            "fixture",
+            "result",
+            "win",
+            "draw",
+            "defeat",
+            "مباراة",
+            "نتيجة",
+            "فوز",
+            "تعادل",
+            "خسارة",
+        ]
+    ):
         return "matches"
 
     return "football"
 
 
 # ============================================================
-# اسم التصنيف بالعربية
+# اسم التصنيف
 # ============================================================
 
-def get_category_label(category):
+def category_label(category):
 
     labels = {
         "transfers": "انتقالات",
@@ -363,35 +411,76 @@ def get_category_label(category):
 
 
 # ============================================================
-# إنشاء المنشور
-#
-# Gemini غير مستخدم هنا.
-# الترجمة الإنجليزية ستضاف في مرحلة مستقلة لاحقًا.
+# تحديد ما إذا كان النص عربيًا
 # ============================================================
 
-def build_arabic_post(
+def contains_arabic(text):
+
+    if not text:
+        return False
+
+    return bool(
+        re.search(
+            r"[\u0600-\u06FF]",
+            text
+        )
+    )
+
+
+# ============================================================
+# تنظيف العنوان العربي
+# ============================================================
+
+def clean_arabic_title(title):
+
+    title = clean_text(title)
+
+    if not title:
+        return ""
+
+    title = re.sub(
+        r"\s+",
+        " ",
+        title
+    )
+
+    return title.strip()
+
+
+# ============================================================
+# إنشاء المنشور
+# ============================================================
+
+def build_post(
     title,
     summary,
     category,
     language
 ):
 
-    label = get_category_label(category)
+    label = category_label(category)
+
+    title = clean_text(title)
+
+    summary = clean_summary(summary)
 
     # --------------------------------------------------------
     # خبر عربي
     # --------------------------------------------------------
 
-    if language == "ar":
+    if language == "ar" or contains_arabic(title):
 
-        post_title = title
+        post_title = clean_arabic_title(
+            title
+        )
+
         body = summary
 
     # --------------------------------------------------------
     # خبر إنجليزي
     #
-    # حاليًا نحتفظ بالنص الأصلي.
-    # لا نستخدم ترجمة آلية رديئة.
+    # لا نترجمه هنا.
+    # سنضيف محرك الترجمة في المرحلة التالية.
     # --------------------------------------------------------
 
     else:
@@ -400,27 +489,28 @@ def build_arabic_post(
         body = summary
 
     # --------------------------------------------------------
-    # إذا لم يوجد ملخص
+    # حماية من الملخصات الطويلة
     # --------------------------------------------------------
+
+    if len(body) > MAX_SUMMARY_LENGTH:
+
+        body = (
+            body[:MAX_SUMMARY_LENGTH - 3]
+            .rstrip()
+            + "..."
+        )
 
     if not body:
 
-        body = "تطور جديد في عالم كرة القدم."
+        body = (
+            "تطور جديد في عالم كرة القدم."
+        )
 
     # --------------------------------------------------------
-    # تقليل طول الملخص
+    # المنشور النهائي
     # --------------------------------------------------------
 
-    if len(body) > 500:
-
-        body = body[:497].rstrip() + "..."
-
-    # --------------------------------------------------------
-    # بناء المنشور
-    # --------------------------------------------------------
-
-    post = (
-        f"⚽ {label}\n\n"
+    post_text = (
         f"🔴 {post_title}\n\n"
         f"{body}\n\n"
         f"⚽ {label}"
@@ -429,7 +519,7 @@ def build_arabic_post(
     return {
         "post_title": post_title,
         "post_body": body,
-        "post_text": post,
+        "post_text": post_text,
     }
 
 
@@ -439,11 +529,10 @@ def build_arabic_post(
 
 def get_entry_timestamp(article):
 
-    # feedparser يوفر parsed time غالبًا
-    parsed_time = article.get("published_parsed")
-
-    if not parsed_time:
-        parsed_time = article.get("updated_parsed")
+    parsed_time = (
+        article.get("published_parsed")
+        or article.get("updated_parsed")
+    )
 
     if parsed_time:
 
@@ -461,21 +550,27 @@ def get_entry_timestamp(article):
 
             return dt.timestamp()
 
-        except (ValueError, TypeError):
+        except (
+            ValueError,
+            TypeError
+        ):
+
             pass
 
     return 0
 
 
 # ============================================================
-# جلب مصدر واحد
+# جلب المصدر
 # ============================================================
 
 def fetch_source(source):
 
     print()
     print("-----------------------------------")
-    print(f"Fetching: {source['name']}")
+    print(
+        f"Fetching: {source['name']}"
+    )
     print("-----------------------------------")
 
     try:
@@ -507,7 +602,7 @@ def fetch_source(source):
 
 
 # ============================================================
-# ترتيب الأخبار من الأحدث إلى الأقدم
+# ترتيب الأخبار
 # ============================================================
 
 def sort_entries(entries):
@@ -536,19 +631,11 @@ def main():
         f"{len(old_news)}"
     )
 
-    # --------------------------------------------------------
-    # الروابط القديمة
-    # --------------------------------------------------------
-
     old_urls = {
         item.get("url")
         for item in old_news
         if item.get("url")
     }
-
-    # --------------------------------------------------------
-    # عناوين الأخبار القديمة
-    # --------------------------------------------------------
 
     old_titles = [
         item.get("title", "")
@@ -559,22 +646,14 @@ def main():
     new_news = []
 
     # ========================================================
-    # معالجة المصادر
+    # المصادر
     # ========================================================
 
     for source in RSS_SOURCES:
 
         entries = fetch_source(source)
 
-        # ----------------------------------------------------
-        # الأحدث أولًا
-        # ----------------------------------------------------
-
         entries = sort_entries(entries)
-
-        # ----------------------------------------------------
-        # الحد الأقصى لكل مصدر
-        # ----------------------------------------------------
 
         entries = entries[
             :MAX_NEWS_PER_SOURCE
@@ -582,16 +661,14 @@ def main():
 
         source_added = 0
 
-        # ----------------------------------------------------
-        # الأخبار
-        # ----------------------------------------------------
-
         for article in entries:
 
-            # إذا وصلنا للحد الإجمالي
             if len(new_news) >= MAX_NEW_NEWS:
-
                 break
+
+            # ------------------------------------------------
+            # البيانات
+            # ------------------------------------------------
 
             title = clean_text(
                 article.get(
@@ -625,54 +702,42 @@ def main():
             )
 
             # ------------------------------------------------
-            # بيانات أساسية ناقصة
+            # تحقق
             # ------------------------------------------------
 
             if not title or not url:
-
                 continue
-
-            # ------------------------------------------------
-            # منع تكرار الرابط
-            # ------------------------------------------------
 
             if url in old_urls:
-
                 continue
-
-            # ------------------------------------------------
-            # فلترة كرة القدم
-            # ------------------------------------------------
 
             if not is_football_news(
                 title,
                 summary
             ):
-
                 continue
 
             # ------------------------------------------------
-            # منع التكرار مع الأخبار القديمة
+            # تكرار مع الأخبار القديمة
             # ------------------------------------------------
 
             duplicate = False
 
-            for existing_title in old_titles:
+            for old_title in old_titles:
 
                 if similar_titles(
                     title,
-                    existing_title
+                    old_title
                 ):
 
                     duplicate = True
                     break
 
             if duplicate:
-
                 continue
 
             # ------------------------------------------------
-            # منع التكرار بين الأخبار الجديدة
+            # تكرار داخل التشغيل الحالي
             # ------------------------------------------------
 
             for existing in new_news:
@@ -689,7 +754,6 @@ def main():
                     break
 
             if duplicate:
-
                 continue
 
             # ------------------------------------------------
@@ -702,10 +766,10 @@ def main():
             )
 
             # ------------------------------------------------
-            # بناء المنشور
+            # المنشور
             # ------------------------------------------------
 
-            post = build_arabic_post(
+            post = build_post(
                 title,
                 summary,
                 category,
@@ -713,38 +777,24 @@ def main():
             )
 
             # ------------------------------------------------
-            # الخبر النهائي
+            # الخبر
             # ------------------------------------------------
 
             news_item = {
 
-                # ============================================
-                # البيانات الأصلية
-                # ============================================
-
                 "title": title,
+
                 "summary": summary,
+
                 "url": url,
+
                 "published": published,
 
-                # ============================================
-                # المصدر
-                #
-                # للاستخدام الداخلي فقط
-                # ============================================
-
                 "source": source["name"],
+
                 "language": source["language"],
 
-                # ============================================
-                # التصنيف
-                # ============================================
-
                 "category": category,
-
-                # ============================================
-                # المنشور
-                # ============================================
 
                 "post_title": post[
                     "post_title"
@@ -758,19 +808,9 @@ def main():
                     "post_text"
                 ],
 
-                # ============================================
-                # حالة المعالجة
-                # ============================================
-
                 "processed": False,
 
                 "published_to_facebook": False,
-
-                # ============================================
-                # الصورة
-                #
-                # سنستخدمها لاحقًا
-                # ============================================
 
                 "image": None,
 
@@ -854,7 +894,7 @@ def main():
         )
 
     # ========================================================
-    # الحفظ
+    # حفظ
     # ========================================================
 
     combined_news = (
@@ -875,10 +915,6 @@ def main():
     )
     print("===================================")
 
-
-# ============================================================
-# تشغيل البرنامج
-# ============================================================
 
 if __name__ == "__main__":
     main()
