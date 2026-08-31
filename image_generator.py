@@ -843,7 +843,6 @@ def re_safe_filename(text):
 # ============================================================
 # اختبار مستقل
 # ============================================================
-
 if __name__ == "__main__":
 
     TEST_TITLE = (
@@ -853,7 +852,10 @@ if __name__ == "__main__":
 
     TEST_CATEGORY = "matches"
 
+    TEST_IMAGE = "news_images/Real_Madrid_football.jpg"
+
     generate_news_image(
         title=TEST_TITLE,
-        category=TEST_CATEGORY
+        category=TEST_CATEGORY,
+        image_path=TEST_IMAGE
     )
