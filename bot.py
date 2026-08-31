@@ -914,7 +914,7 @@ def main():
             # إنشاء سجل الخبر
             # ------------------------------------------------
 
-            news_item = {
+                        news_item = {
 
                 # البيانات الأصلية
                 "title": title,
@@ -952,4 +952,9 @@ def main():
                 "published_to_facebook": False,
 
                 # الصور ستضاف لاحقًا
-                "i
+                "image": None,
+
+                "image_source": None,
+
+                "image_license": None,
+    }
