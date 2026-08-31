@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   test-bot:
     runs-on: ubuntu-latest
@@ -24,3 +27,17 @@ jobs:
 
       - name: Run bot
         run: python bot.py
+
+      - name: Save news database
+        run: |
+          git config user.name "Sports News Bot"
+          git config user.email "actions@github.com"
+
+          git add news.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update football news database"
+            git push
+          fi
