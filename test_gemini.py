@@ -10,16 +10,16 @@ def main():
 
     client = genai.Client(api_key=api_key)
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents="اكتب جملة عربية قصيرة جدًا عن كرة القدم."
+    interaction = client.interactions.create(
+        model="gemini-3.6-flash",
+        input="اكتب جملة عربية قصيرة جدًا عن كرة القدم."
     )
 
     print("===================================")
-    print("       GEMINI TEST")
+    print("          GEMINI TEST")
     print("===================================")
     print("Gemini response:")
-    print(response.text)
+    print(interaction.output_text)
     print("===================================")
 
 
