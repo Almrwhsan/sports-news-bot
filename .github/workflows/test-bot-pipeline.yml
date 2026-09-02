@@ -1,0 +1,33 @@
+name: Test Bot Pipeline
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "test_bot_pipeline.py"
+      - "sources/**"
+      - "image_fetcher.py"
+      - "image_generator.py"
+      - ".github/workflows/test-bot-pipeline.yml"
+
+jobs:
+  test-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run bot pipeline test
+        run: |
+          python test_bot_pipeline.py
