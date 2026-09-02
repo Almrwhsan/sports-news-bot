@@ -20,4 +20,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Test global sources
-        run: python sources/test_sources.py
+        run: python test_sources.py
