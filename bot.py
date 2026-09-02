@@ -1,12 +1,23 @@
+# ============================================================
+# SPORTS NEWS BOT
+# ============================================================
+
 import json
 import os
 import re
-from difflib import SequenceMatcher
-from datetime import datetime, timezone
 
-import feedparser
+from sources.sources_config import ALL_SOURCES
+from sources.source_manager import fetch_all_sources
+from sources.news_filter import filter_news
+from sources.news_deduplicator import deduplicate_news
+from sources.news_translator import translate_news
+from sources.news_formatter import format_news
+
 from image_fetcher import fetch_news_image
+from image_generator import generate_news_image
+
 from facebook_publisher import publish_text_post
+
 
 # ============================================================
 # إعدادات
@@ -19,135 +30,6 @@ MAX_NEW_NEWS = 20
 MAX_NEWS = 500
 
 MAX_SUMMARY_LENGTH = 450
-
-
-# ============================================================
-# مصادر الأخبار
-# ============================================================
-
-RSS_SOURCES = [
-    {
-        "name": "BBC Sport Football",
-        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-        "language": "en",
-    },
-
-    {
-        "name": "Al-Anba Arabic Sports",
-        "url": "https://www.alanba.com.kw/rss/arabic-sports",
-        "language": "ar",
-    },
-
-    {
-        "name": "Al Jadeed Football",
-        "url": "https://www.aljadeed.tv/Rss/News/1065/كرة-القدم/ar",
-        "language": "ar",
-    },
-]
-
-
-# ============================================================
-# كلمات تساعد على التأكد أن الخبر متعلق بكرة القدم
-# ============================================================
-
-FOOTBALL_KEYWORDS = [
-
-    # English
-    "football",
-    "soccer",
-    "premier league",
-    "champions league",
-    "europa league",
-    "conference league",
-    "world cup",
-    "transfer",
-    "transfers",
-    "signing",
-    "contract",
-    "manager",
-    "coach",
-    "striker",
-    "midfielder",
-    "defender",
-    "goalkeeper",
-    "match",
-    "fixture",
-    "club",
-    "league",
-    "cup",
-
-    # Arabic
-    "كرة القدم",
-    "الدوري الإنجليزي",
-    "الدوري الإسباني",
-    "الدوري الإيطالي",
-    "الدوري الألماني",
-    "الدوري الفرنسي",
-    "الدوري السعودي",
-    "الدوري الإماراتي",
-    "الدوري القطري",
-    "الدوري المصري",
-    "الدوري المغربي",
-    "الدوري التونسي",
-    "دوري أبطال أوروبا",
-    "الدوري الأوروبي",
-    "دوري المؤتمر",
-    "كأس العالم",
-    "انتقال",
-    "صفقة",
-    "تعاقد",
-    "ينضم",
-    "ينتقل",
-    "مباراة",
-    "هدف",
-    "مدرب",
-    "لاعب",
-    "نادي",
-    "إصابة",
-    "دوري",
-    "كأس",
-]
-
-
-# ============================================================
-# محتوى رياضي لا نريد اعتباره خبرًا
-# ============================================================
-
-NON_NEWS_KEYWORDS = [
-
-    # English
-    "watch:",
-    "watch ",
-    "highlights",
-    "highlight",
-    "quiz",
-    "quizzes",
-    "podcast",
-    "podcasts",
-    "live:",
-    "live ",
-    "live stream",
-    "listen:",
-    "listen ",
-    "video:",
-    "video ",
-    "sportscene",
-    "preview:",
-    "preview ",
-
-    # Arabic
-    "شاهد",
-    "فيديو",
-    "فيديو:",
-    "ملخص",
-    "ملخصات",
-    "أهداف",
-    "استمع",
-    "بودكاست",
-    "اختبار",
-    "اختبارات",
-    "بث مباشر",
-]
 
 
 # ============================================================
@@ -242,7 +124,7 @@ def clean_text(text):
 
 
 # ============================================================
-# تنظيف ملخص RSS
+# تنظيف الملخص
 # ============================================================
 
 def clean_summary(text):
@@ -286,461 +168,57 @@ def clean_summary(text):
 
 
 # ============================================================
-# تطبيع العنوان للمقارنة
+# تحديد الحد الأقصى لكل مصدر
 # ============================================================
 
-def normalize_title(title):
-
-    title = clean_text(title).lower()
-
-    # إزالة التشكيل العربي
-    title = re.sub(
-        r"[\u064B-\u065F\u0670]",
-        "",
-        title
-    )
-
-    # توحيد بعض الحروف العربية
-    title = title.replace("أ", "ا")
-    title = title.replace("إ", "ا")
-    title = title.replace("آ", "ا")
-    title = title.replace("ى", "ي")
-    title = title.replace("ة", "ه")
-
-    # إزالة علامات الترقيم
-    title = re.sub(
-        r"[^a-zA-Z0-9\u0600-\u06FF\s]",
-        " ",
-        title
-    )
-
-    # مسافات متعددة
-    title = re.sub(
-        r"\s+",
-        " ",
-        title
-    )
-
-    return title.strip()
-
-
-# ============================================================
-# مقارنة الأخبار
-# ============================================================
-
-def similar_titles(title1, title2):
-
-    a = normalize_title(title1)
-    b = normalize_title(title2)
-
-    if not a or not b:
-        return False
-
-    if a == b:
-        return True
-
-    similarity = SequenceMatcher(
-        None,
-        a,
-        b
-    ).ratio()
-
-    return similarity >= 0.82
-
-
-# ============================================================
-# التأكد أن المحتوى خبر كرة قدم
-# ============================================================
-
-def is_football_news(title, summary):
-
-    text = f"{title} {summary}".lower()
-
-    return any(
-        keyword.lower() in text
-        for keyword in FOOTBALL_KEYWORDS
-    )
-
-
-# ============================================================
-# استبعاد المحتوى غير الإخباري
-# ============================================================
-
-def is_non_news_content(title, summary):
-
-    text = f"{title} {summary}".lower()
-
-    return any(
-        keyword.lower() in text
-        for keyword in NON_NEWS_KEYWORDS
-    )
-
-
-# ============================================================
-# تحديد تصنيف الخبر
-# ============================================================
-
-def detect_category(title, summary):
-
-    text = f"{title} {summary}".lower()
-
-    transfer_words = [
-        "transfer",
-        "transfers",
-        "signing",
-        "deal",
-        "joins",
-        "join",
-        "move",
-        "انتقال",
-        "صفقة",
-        "تعاقد",
-        "ينضم",
-        "ينتقل",
-    ]
-
-    injury_words = [
-        "injury",
-        "injured",
-        "fitness",
-        "إصابة",
-        "مصاب",
-        "يغيب",
-        "غياب",
-    ]
-
-    national_team_words = [
-        "national team",
-        "world cup",
-        "منتخب",
-        "كأس العالم",
-    ]
-
-    match_words = [
-        "match",
-        "fixture",
-        "result",
-        "win",
-        "draw",
-        "defeat",
-        "مباراة",
-        "نتيجة",
-        "فوز",
-        "تعادل",
-        "خسارة",
-    ]
-
-    if any(
-        word in text
-        for word in transfer_words
-    ):
-        return "transfers"
-
-    if any(
-        word in text
-        for word in injury_words
-    ):
-        return "injuries"
-
-    if any(
-        word in text
-        for word in national_team_words
-    ):
-        return "national_teams"
-
-    if any(
-        word in text
-        for word in match_words
-    ):
-        return "matches"
-
-    return "football"
-
-
-# ============================================================
-# اسم التصنيف بالعربية
-# ============================================================
-
-def category_label(category):
-
-    labels = {
-        "transfers": "انتقالات",
-        "injuries": "إصابات",
-        "matches": "مباريات",
-        "national_teams": "منتخبات",
-        "football": "كرة القدم",
-    }
-
-    return labels.get(
-        category,
-        "كرة القدم"
-    )
-
-
-# ============================================================
-# التحقق من وجود اللغة العربية
-# ============================================================
-
-def contains_arabic(text):
-
-    if not text:
-        return False
-
-    return bool(
-        re.search(
-            r"[\u0600-\u06FF]",
-            text
-        )
-    )
-
-
-# ============================================================
-# تنظيف العنوان العربي
-# ============================================================
-
-def clean_arabic_title(title):
-
-    title = clean_text(title)
-
-    if not title:
-        return ""
-
-    title = re.sub(
-        r"\s+",
-        " ",
-        title
-    )
-
-    return title.strip()
-
-
-# ============================================================
-# بناء المنشور
-# ============================================================
-
-
-    # ============================================================
-# بناء المنشور النهائي
-# ============================================================
-
-def build_post(
-    title,
-    summary,
-    category,
-    language
+def limit_news_per_source(
+    news_list,
+    max_per_source=MAX_NEWS_PER_SOURCE
 ):
 
-    # --------------------------------------------------------
-    # اسم التصنيف بالعربية
-    # --------------------------------------------------------
+    counters = {}
+    limited = []
 
-    label = category_label(
-        category
-    )
+    for news in news_list:
 
-    # --------------------------------------------------------
-    # تنظيف العنوان
-    # --------------------------------------------------------
-
-    title = clean_text(
-        title
-    )
-
-    # --------------------------------------------------------
-    # تنظيف الملخص
-    # --------------------------------------------------------
-
-    summary = clean_summary(
-        summary
-    )
-
-    # --------------------------------------------------------
-    # العنوان
-    #
-    # حاليًا نحتفظ بالعنوان كما جاء من المصدر.
-    # لا توجد ترجمة آلية في هذه المرحلة.
-    # --------------------------------------------------------
-
-    post_title = title
-
-    # --------------------------------------------------------
-    # الملخص
-    # --------------------------------------------------------
-
-    body = summary
-
-    # --------------------------------------------------------
-    # حماية من الملخصات الطويلة
-    # --------------------------------------------------------
-
-    if len(body) > MAX_SUMMARY_LENGTH:
-
-        body = (
-            body[
-                :MAX_SUMMARY_LENGTH - 3
-            ].rstrip()
-            + "..."
+        source = news.get(
+            "source",
+            "Unknown"
         )
 
-    # --------------------------------------------------------
-    # في حالة عدم وجود ملخص
-    # --------------------------------------------------------
-
-    if not body:
-
-        body = (
-            "تطور جديد في عالم كرة القدم."
+        current_count = counters.get(
+            source,
+            0
         )
 
-    # --------------------------------------------------------
-    # اسم الصفحة
-    # --------------------------------------------------------
+        if current_count >= max_per_source:
+            continue
 
-    page_name = "نبض مدريد"
-
-    # --------------------------------------------------------
-    # بناء المنشور النهائي
-    # --------------------------------------------------------
-
-    post_text = (
-        f"🔴 {post_title}\n\n"
-        f"{body}\n\n"
-        f"⚽ {label}\n\n"
-        f"📍 {page_name}"
-    )
-
-    # --------------------------------------------------------
-    # إرجاع بيانات المنشور
-    # --------------------------------------------------------
-
-    return {
-        "post_title": post_title,
-        "post_body": body,
-        "post_text": post_text,
-    }
-
-
-# ============================================================
-# استخراج وقت الخبر
-# ============================================================
-
-def get_entry_timestamp(article):
-
-    parsed_time = (
-        article.get("published_parsed")
-        or article.get("updated_parsed")
-    )
-
-    if parsed_time:
-
-        try:
-
-            dt = datetime(
-                parsed_time.tm_year,
-                parsed_time.tm_mon,
-                parsed_time.tm_mday,
-                parsed_time.tm_hour,
-                parsed_time.tm_min,
-                parsed_time.tm_sec,
-                tzinfo=timezone.utc
-            )
-
-            return dt.timestamp()
-
-        except (
-            ValueError,
-            TypeError
-        ):
-
-            pass
-
-    return 0
-
-
-# ============================================================
-# جلب مصدر واحد
-# ============================================================
-
-def fetch_source(source):
-
-    print()
-    print("-----------------------------------")
-    print(
-        f"Fetching: {source['name']}"
-    )
-    print("-----------------------------------")
-
-    try:
-
-        feed = feedparser.parse(
-            source["url"]
+        limited.append(
+            news
         )
 
-        if feed.bozo:
-
-            print(
-                "Warning: RSS feed may have a problem."
-            )
-
-        print(
-            f"Entries received: "
-            f"{len(feed.entries)}"
+        counters[source] = (
+            current_count + 1
         )
 
-        return feed.entries
-
-    except Exception as error:
-
-        print(
-            f"Source error: {error}"
-        )
-
-        return []
+    return limited
 
 
 # ============================================================
-# ترتيب الأخبار من الأحدث إلى الأقدم
+# منع الأخبار الموجودة مسبقًا
 # ============================================================
 
-def sort_entries(entries):
-
-    return sorted(
-        entries,
-        key=get_entry_timestamp,
-        reverse=True
-    )
-
-
-# ============================================================
-# البرنامج الرئيسي
-# ============================================================
-
-def main():
-
-    print("===================================")
-    print("      SPORTS NEWS BOT")
-    print("===================================")
-
-    old_news = load_news()
-
-    print(
-        f"Previously saved: "
-        f"{len(old_news)}"
-    )
-
-    # --------------------------------------------------------
-    # الروابط الموجودة
-    # --------------------------------------------------------
+def remove_existing_news(
+    news_list,
+    old_news
+):
 
     old_urls = {
         item.get("url")
         for item in old_news
         if item.get("url")
     }
-
-    # --------------------------------------------------------
-    # عناوين الأخبار القديمة
-    # --------------------------------------------------------
 
     old_titles = [
         item.get(
@@ -751,363 +229,864 @@ def main():
         if item.get("title")
     ]
 
-    new_news = []
+    result = []
 
-    # ========================================================
-    # جلب المصادر
-    # ========================================================
+    for news in news_list:
 
-    for source in RSS_SOURCES:
-
-        entries = fetch_source(
-            source
+        url = clean_text(
+            news.get(
+                "url",
+                ""
+            )
         )
 
-        # الأحدث أولًا
-        entries = sort_entries(
-            entries
+        title = clean_text(
+            news.get(
+                "title",
+                ""
+            )
         )
 
-        # معالجة أحدث 10 أخبار من كل مصدر
-        entries = entries[
-            :MAX_NEWS_PER_SOURCE
-        ]
+        if not title or not url:
+            continue
 
-        source_added = 0
+        # ----------------------------------------------------
+        # الرابط موجود مسبقًا
+        # ----------------------------------------------------
 
-        # ====================================================
-        # معالجة الأخبار
-        # ====================================================
+        if url in old_urls:
+            continue
 
-        for article in entries:
+        # ----------------------------------------------------
+        # العنوان موجود مسبقًا
+        # ----------------------------------------------------
 
-            if len(new_news) >= MAX_NEW_NEWS:
+        from sources.news_deduplicator import title_similarity
+
+        duplicate = False
+
+        for old_title in old_titles:
+
+            if title_similarity(
+                title,
+                old_title
+            ) >= 0.82:
+
+                duplicate = True
                 break
 
-            # ------------------------------------------------
-            # البيانات الأساسية
-            # ------------------------------------------------
-
-            title = clean_text(
-                article.get(
-                    "title",
-                    ""
-                )
-            )
-
-            url = clean_text(
-                article.get(
-                    "link",
-                    ""
-                )
-            )
-
-            summary = clean_summary(
-                article.get(
-                    "summary",
-                    ""
-                )
-            )
-
-            published = clean_text(
-                article.get(
-                    "published",
-                    article.get(
-                        "updated",
-                        "Unknown time"
-                    )
-                )
-            )
-
-            # ------------------------------------------------
-            # التحقق من البيانات
-            # ------------------------------------------------
-
-            if not title or not url:
-                continue
-
-            # ------------------------------------------------
-            # منع تكرار الرابط
-            # ------------------------------------------------
-
-            if url in old_urls:
-                continue
-
-            # ------------------------------------------------
-            # فلترة كرة القدم
-            # ------------------------------------------------
-
-            if not is_football_news(
-                title,
-                summary
-            ):
-                continue
-
-            # ------------------------------------------------
-            # استبعاد المحتوى غير الإخباري
-            # ------------------------------------------------
-
-            if is_non_news_content(
-                title,
-                summary
-            ):
-
-                print(
-                    f"Skipped non-news content: "
-                    f"{title}"
-                )
-
-                continue
-
-            # ------------------------------------------------
-            # منع التكرار مع الأخبار القديمة
-            # ------------------------------------------------
-
-            duplicate = False
-
-            for old_title in old_titles:
-
-                if similar_titles(
-                    title,
-                    old_title
-                ):
-
-                    duplicate = True
-                    break
-
-            if duplicate:
-                continue
-
-            # ------------------------------------------------
-            # منع التكرار داخل التشغيل الحالي
-            # ------------------------------------------------
-
-            for existing in new_news:
-
-                if similar_titles(
-                    title,
-                    existing.get(
-                        "title",
-                        ""
-                    )
-                ):
-
-                    duplicate = True
-                    break
-
-            if duplicate:
-                continue
-
-            # ------------------------------------------------
-            # تحديد التصنيف
-            # ------------------------------------------------
-
-            category = detect_category(
-                title,
-                summary
-            )
-
-            # ------------------------------------------------
-            # بناء المنشور
-            # ------------------------------------------------
-
-            post = build_post(
-                title,
-                summary,
-                category,
-                source["language"]
-            )
-
-            # ------------------------------------------------
-            # إنشاء سجل الخبر
-            # ------------------------------------------------
-
-            news_item = {
-
-                # البيانات الأصلية
-                "title": title,
-
-                "summary": summary,
-
-                "url": url,
-
-                "published": published,
-
-                # المصدر
-                "source": source["name"],
-
-                "language": source["language"],
-
-                # التصنيف
-                "category": category,
-
-                # بيانات المنشور
-                "post_title": post[
-                    "post_title"
-                ],
-
-                "post_body": post[
-                    "post_body"
-                ],
-
-                "post_text": post[
-                    "post_text"
-                ],
-
-                # حالة المعالجة
-                "processed": False,
-
-                "published_to_facebook": False,
-
-                "facebook_post_id": None,
-
-                "facebook_error": None,
-
-                # الصور ستضاف لاحقًا
-                "image": None,
-
-                "image_source": None,
-
-                "image_license": None,
-                        }
-
-            # ------------------------------------------------
-            # تحميل صورة الخبر
-            # ------------------------------------------------
-
-            print()
-            print(
-                "Searching for news image..."
-            )
-
-            image_result = fetch_news_image(
-                title=title
-            )
-
-            if image_result:
-
-                news_item["image"] = image_result[
-                    "image_path"
-                ]
-
-                news_item["image_source"] = image_result[
-                    "source_url"
-                ]
-
-                news_item["image_license"] = image_result[
-                    "license"
-                ]
-
-                print(
-                    "News image attached successfully."
-                )
-
-            else:
-
-                print(
-                    "No image found for this news."
-                )
-
-            # ------------------------------------------------
-            # نشر الخبر على Facebook
-            # ------------------------------------------------
-
-            print()
-            print(
-                "Publishing news to Facebook..."
-            )
-
-            facebook_result = publish_text_post(
-                news_item["post_text"]
-            )
-
-            # ------------------------------------------------
-            # معالجة نتيجة النشر
-            # ------------------------------------------------
-
-            if facebook_result.get("success"):
-
-                news_item["processed"] = True
-
-                news_item["published_to_facebook"] = True
-
-                news_item["facebook_post_id"] = (
-                    facebook_result.get("post_id")
-                )
-
-                news_item["facebook_error"] = None
-
-                print()
-                print(
-                    "✅ News published to Facebook."
-                )
-
-                print(
-                    f"Facebook Post ID: "
-                    f"{facebook_result.get('post_id')}"
-                )
-
-            else:
-
-                news_item["processed"] = False
-
-                news_item["published_to_facebook"] = False
-
-                news_item["facebook_post_id"] = None
-
-                news_item["facebook_error"] = (
-                    facebook_result.get("error")
-                )
-
-                print()
-                print(
-                    "❌ Facebook publishing failed."
-                )
-
-                print(
-                    f"Facebook error: "
-                    f"{facebook_result.get('error')}"
-                )
-
-                continue
-
-            # ------------------------------------------------
-            # إضافة الخبر بعد نجاح النشر
-            # ------------------------------------------------
-
-            new_news.append(
-                news_item
-            )
-
-            old_urls.add(
-                url
-            )
-
-            old_titles.append(
-                title
-            )
-
-            source_added += 1
-
-        print(
-                    f"New football news from "
-            f"{source['name']}: "
-            f"{source_added}"
+        if duplicate:
+            continue
+
+        result.append(
+            news
         )
 
+    return result
+
+
+# ============================================================
+# تجهيز بيانات الخبر الأساسية
+# ============================================================
+
+def prepare_news_item(news):
+
+    item = dict(
+        news
+    )
+
+    item["title"] = clean_text(
+        item.get(
+            "title",
+            ""
+        )
+    )
+
+    item["summary"] = clean_summary(
+        item.get(
+            "summary",
+            ""
+        )
+    )
+
+    item["url"] = clean_text(
+        item.get(
+            "url",
+            ""
+        )
+    )
+
+    item["published"] = clean_text(
+        item.get(
+            "published",
+            "Unknown time"
+        )
+    )
+
+    item["source"] = clean_text(
+        item.get(
+            "source",
+            ""
+        )
+    )
+
+    item["language"] = clean_text(
+        item.get(
+            "language",
+            ""
+        )
+    )
+
+    return item
+
+
+# ============================================================
+# إنشاء حالة الخبر
+# ============================================================
+
+def initialize_news_state(news):
+
+    item = dict(
+        news
+    )
+
+    # --------------------------------------------------------
+    # حالة المعالجة
+    # --------------------------------------------------------
+
+    item.setdefault(
+        "processed",
+        False
+    )
+
+    item.setdefault(
+        "published_to_facebook",
+        False
+    )
+
+    item.setdefault(
+        "facebook_post_id",
+        None
+    )
+
+    item.setdefault(
+        "facebook_error",
+        None
+    )
+
+    # --------------------------------------------------------
+    # بيانات الصورة
+    # --------------------------------------------------------
+
+    item.setdefault(
+        "image",
+        None
+    )
+
+    item.setdefault(
+        "image_type",
+        None
+    )
+
+    item.setdefault(
+        "image_source",
+        None
+    )
+
+    item.setdefault(
+        "image_license",
+        None
+    )
+
+    item.setdefault(
+        "image_artist",
+        None
+    )
+
+    return item
+
+
+# ============================================================
+# تجهيز صورة الخبر
+# ============================================================
+
+def prepare_news_image(news):
+
+    title = (
+        news.get(
+            "arabic_title"
+        )
+        or news.get(
+            "title"
+        )
+        or "Football News"
+    )
+
+    category = news.get(
+        "category",
+        "football"
+    )
+
+    print()
+    print("-----------------------------------")
+    print("IMAGE PIPELINE")
+    print("-----------------------------------")
+
+    print(
+        "Searching for real news image..."
+    )
+
     # ========================================================
-    # النتائج
+    # المحاولة الأولى: صورة حقيقية
+    # ========================================================
+
+    real_image = fetch_news_image(
+        title=title
+    )
+
+    if real_image:
+
+        real_image_path = real_image.get(
+            "image_path"
+        )
+
+        print()
+        print(
+            "✅ Real image found."
+        )
+
+        print(
+            "Image:",
+            real_image_path
+        )
+
+        # ----------------------------------------------------
+        # إدخال الصورة الحقيقية في التصميم النهائي
+        # ----------------------------------------------------
+
+        print()
+        print(
+            "Generating final news image..."
+        )
+
+        final_image = generate_news_image(
+            title=title,
+            category=category,
+            image_path=real_image_path,
+        )
+
+        if final_image:
+
+            print()
+            print(
+                "✅ Final image generated."
+            )
+
+            print(
+                "Final image:",
+                final_image
+            )
+
+            news["image"] = final_image
+            news["image_type"] = "real"
+
+        else:
+
+            # ------------------------------------------------
+            # إذا فشل التصميم، نستخدم الصورة الحقيقية
+            # ------------------------------------------------
+
+            print()
+            print(
+                "⚠️ Final image generation failed."
+            )
+
+            print(
+                "Using real image directly."
+            )
+
+            news["image"] = real_image_path
+            news["image_type"] = "real"
+
+        news["image_source"] = real_image.get(
+            "source_url"
+        )
+
+        news["image_license"] = real_image.get(
+            "license"
+        )
+
+        news["image_artist"] = real_image.get(
+            "artist"
+        )
+
+        return news
+
+    # ========================================================
+    # المحاولة الثانية: توليد صورة
+    # ========================================================
+
+    print()
+    print(
+        "⚠️ No real image found."
+    )
+
+    print(
+        "Trying generated fallback..."
+    )
+
+    generated_image = generate_news_image(
+        title=title,
+        category=category,
+        image_path=None,
+    )
+
+    if generated_image:
+
+        print()
+        print(
+            "✅ Generated fallback image created."
+        )
+
+        print(
+            "Image:",
+            generated_image
+        )
+
+        news["image"] = generated_image
+        news["image_type"] = "generated"
+
+        news["image_source"] = None
+        news["image_license"] = None
+        news["image_artist"] = None
+
+        return news
+
+    # ========================================================
+    # المحاولة الثالثة: بدون صورة
+    # ========================================================
+
+    print()
+    print(
+        "❌ Image generation failed."
+    )
+
+    print(
+        "Continuing with text-only news."
+    )
+
+    news["image"] = None
+    news["image_type"] = "text_only"
+
+    news["image_source"] = None
+    news["image_license"] = None
+    news["image_artist"] = None
+
+    return news
+
+
+# ============================================================
+# البرنامج الرئيسي
+# ============================================================
+
+def main():
+
+    print()
+    print("===================================")
+    print("      SPORTS NEWS BOT")
+    print("===================================")
+
+    # ========================================================
+    # 1. تحميل الحالة القديمة
+    # ========================================================
+
+    old_news = load_news()
+
+    print()
+    print(
+        f"Previously saved: "
+        f"{len(old_news)}"
+    )
+
+    # ========================================================
+    # 2. جلب جميع المصادر
     # ========================================================
 
     print()
     print("===================================")
-    print(
-        f"NEW FOOTBALL NEWS: "
-        f"{len(new_news)}"
-    )
+    print("1. FETCHING SOURCES")
     print("===================================")
 
+    raw_news = fetch_all_sources(
+        ALL_SOURCES
+    )
+
+    print()
+    print(
+        f"Raw news received: "
+        f"{len(raw_news)}"
+    )
+
+    if not raw_news:
+
+        print()
+        print(
+            "❌ No news received from sources."
+        )
+
+        return
+
+    # ========================================================
+    # 3. الحد الأقصى لكل مصدر
+    # ========================================================
+
+    limited_news = limit_news_per_source(
+        raw_news,
+        MAX_NEWS_PER_SOURCE
+    )
+
+    print()
+    print(
+        f"After source limits: "
+        f"{len(limited_news)}"
+    )
+
+    # ========================================================
+    # 4. تجهيز البيانات
+    # ========================================================
+
+    prepared_news = []
+
+    for news in limited_news:
+
+        prepared_news.append(
+            prepare_news_item(
+                news
+            )
+        )
+
+    # ========================================================
+    # 5. إزالة الأخبار الموجودة مسبقًا
+    # ========================================================
+
+    new_candidate_news = remove_existing_news(
+        prepared_news,
+        old_news
+    )
+
+    print()
+    print(
+        f"New candidates: "
+        f"{len(new_candidate_news)}"
+    )
+
+    if not new_candidate_news:
+
+        print()
+        print(
+            "No new candidate news."
+        )
+
+        # نحافظ على الأخبار القديمة
+        save_news(
+            old_news
+        )
+
+        print()
+        print(
+            "==================================="
+        )
+        print(
+            "Bot finished successfully!"
+        )
+        print(
+            "==================================="
+        )
+
+        return
+
+    # ========================================================
+    # 6. فلترة الأخبار
+    # ========================================================
+
+    print()
+    print("===================================")
+    print("2. FILTERING")
+    print("===================================")
+
+    filtered_news = filter_news(
+        new_candidate_news
+    )
+
+    print()
+    print(
+        f"Filtered football news: "
+        f"{len(filtered_news)}"
+    )
+
+    if not filtered_news:
+
+        print()
+        print(
+            "No football news remained."
+        )
+
+        return
+
+    # ========================================================
+    # 7. إزالة التكرار
+    # ========================================================
+
+    print()
+    print("===================================")
+    print("3. DEDUPLICATION")
+    print("===================================")
+
+    unique_news = deduplicate_news(
+        filtered_news
+    )
+
+    print()
+    print(
+        f"Unique news: "
+        f"{len(unique_news)}"
+    )
+
+    print(
+        f"Duplicates removed: "
+        f"{len(filtered_news) - len(unique_news)}"
+    )
+
+    if not unique_news:
+
+        print()
+        print(
+            "No unique news remained."
+        )
+
+        return
+
+    # ========================================================
+    # 8. الحد الأقصى للأخبار الجديدة
+    # ========================================================
+
+    unique_news = unique_news[
+        :MAX_NEW_NEWS
+    ]
+
+    print()
+    print(
+        f"News selected for processing: "
+        f"{len(unique_news)}"
+    )
+
+    # ========================================================
+    # 9. الترجمة
+    # ========================================================
+
+    print()
+    print("===================================")
+    print("4. TRANSLATION")
+    print("===================================")
+
+    translated_news = translate_news(
+        unique_news
+    )
+
+    print()
+    print(
+        f"Translated news: "
+        f"{len(translated_news)}"
+    )
+
+    # ========================================================
+    # 10. تنسيق المنشورات
+    # ========================================================
+
+    print()
+    print("===================================")
+    print("5. FORMATTING")
+    print("===================================")
+
+    formatted_news = format_news(
+        translated_news
+    )
+
+    print()
+    print(
+        f"Formatted news: "
+        f"{len(formatted_news)}"
+    )
+
+    if not formatted_news:
+
+        print()
+        print(
+            "❌ No formatted news."
+        )
+
+        return
+
+    # ========================================================
+    # 11. معالجة كل خبر
+    # ========================================================
+
+    new_news = []
+
+    print()
+    print("===================================")
+    print("6. PROCESSING NEWS")
+    print("===================================")
+
+    for index, formatted_news_item in enumerate(
+        formatted_news,
+        start=1
+    ):
+
+        print()
+        print()
+        print("===================================")
+        print(
+            f"NEWS #{index}"
+        )
+        print("===================================")
+
+        news_item = initialize_news_state(
+            formatted_news_item
+        )
+
+        # ----------------------------------------------------
+        # عرض بيانات الخبر
+        # ----------------------------------------------------
+
+        print()
+        print(
+            "Source:",
+            news_item.get(
+                "source",
+                ""
+            )
+        )
+
+        print(
+            "Original title:",
+            news_item.get(
+                "title",
+                ""
+            )
+        )
+
+        print(
+            "Arabic title:",
+            news_item.get(
+                "arabic_title",
+                ""
+            )
+        )
+
+        print(
+            "Category:",
+            news_item.get(
+                "category",
+                ""
+            )
+        )
+
+        # ----------------------------------------------------
+        # معالجة الصورة
+        # ----------------------------------------------------
+
+        news_item = prepare_news_image(
+            news_item
+        )
+
+        # ----------------------------------------------------
+        # نشر النص على Facebook
+        #
+        # ملاحظة:
+        # هذه المرحلة تستخدم وظيفة النشر الحالية
+        # بدون تغيير facebook_publisher.py.
+        # ----------------------------------------------------
+
+        print()
+        print("-----------------------------------")
+        print(
+            "Publishing news to Facebook..."
+        )
+        print("-----------------------------------")
+
+        facebook_result = publish_text_post(
+            news_item.get(
+                "post_text",
+                ""
+            )
+        )
+
+        # ====================================================
+        # نجاح النشر
+        # ====================================================
+
+        if facebook_result.get(
+            "success"
+        ):
+
+            news_item["processed"] = True
+
+            news_item[
+                "published_to_facebook"
+            ] = True
+
+            news_item[
+                "facebook_post_id"
+            ] = facebook_result.get(
+                "post_id"
+            )
+
+            news_item[
+                "facebook_error"
+            ] = None
+
+            print()
+            print(
+                "✅ News published to Facebook."
+            )
+
+            print(
+                "Facebook Post ID:",
+                facebook_result.get(
+                    "post_id"
+                )
+            )
+
+            # ------------------------------------------------
+            # إضافة الخبر إلى الحالة
+            # ------------------------------------------------
+
+             new_news.append(
+                news_item
+            )
+
+            # ------------------------------------------------
+            # حفظ الحالة بعد كل نشر ناجح
+            #
+            # هذا يمنع فقدان الأخبار المنشورة إذا توقف
+            # البرنامج أثناء معالجة خبر لاحق.
+            # ------------------------------------------------
+
+            current_state = (
+                new_news +
+                old_news
+            )
+
+            save_news(
+                current_state
+            )
+
+            print()
+            print(
+                "✅ State saved."
+            )
+
+        # ====================================================
+        # فشل النشر
+        # ====================================================
+
+        else:
+
+            news_item["processed"] = False
+
+            news_item[
+                "published_to_facebook"
+            ] = False
+
+            news_item[
+                "facebook_post_id"
+            ] = None
+
+            news_item[
+                "facebook_error"
+            ] = facebook_result.get(
+                "error"
+            )
+
+            print()
+            print(
+                "❌ Facebook publishing failed."
+            )
+
+            print(
+                "Facebook error:",
+                facebook_result.get(
+                    "error"
+                )
+            )
+
+            # ------------------------------------------------
+            # لا نضيف الخبر إلى الأخبار المنشورة
+            # ------------------------------------------------
+
+            continue
+
+    # ========================================================
+    # 12. النتائج النهائية
+    # ========================================================
+
+    print()
+    print("===================================")
+    print("FINAL RESULTS")
+    print("===================================")
+
+    print()
+    print(
+        f"Raw news: "
+        f"{len(raw_news)}"
+    )
+
+    print(
+        f"After source limits: "
+        f"{len(limited_news)}"
+    )
+
+    print(
+        f"Candidates: "
+        f"{len(new_candidate_news)}"
+    )
+
+    print(
+        f"Filtered: "
+        f"{len(filtered_news)}"
+    )
+
+    print(
+        f"Unique: "
+        f"{len(unique_news)}"
+    )
+
+    print(
+        f"Translated: "
+        f"{len(translated_news)}"
+    )
+
+    print(
+        f"Formatted: "
+        f"{len(formatted_news)}"
+    )
+
+    print(
+        f"Successfully published: "
+        f"{len(new_news)}"
+    )
+
+    # ========================================================
+    # 13. عرض الأخبار المنشورة
+    # ========================================================
+
     if new_news:
+
+        print()
+        print("===================================")
+        print("PUBLISHED NEWS")
+        print("===================================")
 
         for index, article in enumerate(
             new_news,
@@ -1121,17 +1100,32 @@ def main():
 
             print(
                 f"Source: "
-                f"{article['source']}"
+                f"{article.get('source', '')}"
             )
 
             print(
                 f"Original title: "
-                f"{article['title']}"
+                f"{article.get('title', '')}"
+            )
+
+            print(
+                f"Arabic title: "
+                f"{article.get('arabic_title', '')}"
             )
 
             print(
                 f"Category: "
-                f"{article['category']}"
+                f"{article.get('category', '')}"
+            )
+
+            print(
+                f"Image type: "
+                f"{article.get('image_type', '')}"
+            )
+
+            print(
+                f"Image path: "
+                f"{article.get('image', '')}"
             )
 
             print()
@@ -1140,23 +1134,33 @@ def main():
             )
 
             print(
-                article["post_text"]
+                article.get(
+                    "post_text",
+                    ""
+                )
             )
 
             print()
             print(
                 f"Internal URL: "
-                f"{article['url']}"
+                f"{article.get('url', '')}"
+            )
+
+            print()
+            print(
+                f"Facebook Post ID: "
+                f"{article.get('facebook_post_id', '')}"
             )
 
     else:
 
+        print()
         print(
-            "No new football news."
+            "No new football news were published."
         )
 
     # ========================================================
-    # دمج الأخبار الجديدة مع القديمة
+    # 14. الحالة النهائية
     # ========================================================
 
     combined_news = (
@@ -1164,13 +1168,13 @@ def main():
         old_news
     )
 
-    # ========================================================
-    # حفظ الأخبار
-    # ========================================================
-
     save_news(
         combined_news
     )
+
+    # ========================================================
+    # 15. النهاية
+    # ========================================================
 
     print()
     print("===================================")
