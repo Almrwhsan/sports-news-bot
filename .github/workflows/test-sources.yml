@@ -20,16 +20,16 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Show global sources file
-        run: |
-          echo "==================================="
-          echo "     GLOBAL SOURCES FILE"
-          echo "==================================="
-          nl -ba sources/global_sources.py
-
       - name: Test global sources
         run: |
           echo "==================================="
           echo "       TESTING GLOBAL SOURCES"
           echo "==================================="
           python test_sources.py
+
+      - name: Test source manager
+        run: |
+          echo "==================================="
+          echo "       TESTING SOURCE MANAGER"
+          echo "==================================="
+          python sources/test_source_manager.py
