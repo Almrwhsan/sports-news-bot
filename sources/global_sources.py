@@ -93,21 +93,4 @@ GLOBAL_SOURCES = [
         ),
     },
 
-    # --------------------------------------------------------
-    # MARCA - Real Madrid
-    # --------------------------------------------------------
-
-    {
-        "name": "MARCA Real Madrid",
-        "language": "es",
-        "type": "club",
-        "category": "real_madrid",
-        "priority": 1,
-        "enabled": True,
-        "feed": (
-            "https://www.marca.com/"
-            "rss/real-madrid.xml"
-        ),
-    },
-
 ]
