@@ -24,5 +24,6 @@ jobs:
         env:
           FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
+          FACEBOOK_ENABLED: ${{ vars.FACEBOOK_ENABLED }}
         run: |
           python test_facebook.py
