@@ -15,7 +15,10 @@ FACEBOOK_PAGE_ID = os.getenv(
 FACEBOOK_PAGE_ACCESS_TOKEN = os.getenv(
     "FACEBOOK_PAGE_ACCESS_TOKEN"
 )
-
+FACEBOOK_ENABLED = os.getenv(
+    "FACEBOOK_ENABLED",
+    "false"
+).lower() == "true"
 
 # ============================================================
 # حالة النشر
