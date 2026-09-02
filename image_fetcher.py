@@ -1,5 +1,6 @@
 import os
 import re
+import time
 import requests
 
 
@@ -18,8 +19,15 @@ USER_AGENT = (
 
 SEARCH_LIMIT = 10
 IMAGE_WIDTH = 1200
+
 REQUEST_TIMEOUT = 30
 DOWNLOAD_TIMEOUT = 60
+
+# عدد محاولات البحث القصوى للخبر الواحد
+MAX_SEARCH_ATTEMPTS = 3
+
+# تأخير بسيط بين طلبات Wikimedia
+REQUEST_DELAY = 1.5
 
 
 # ============================================================
@@ -71,102 +79,270 @@ def clean_search_text(text):
 
 
 # ============================================================
+# استخراج أسماء الأندية من العنوان
+# ============================================================
+
+def extract_club_terms(title):
+
+    title = clean_search_text(
+        title
+    )
+
+    lower_title = title.lower()
+
+    clubs = [
+
+        (
+            "real madrid",
+            "Real Madrid football"
+        ),
+
+        (
+            "madrid",
+            "Real Madrid football"
+        ),
+
+        (
+            "ريال مدريد",
+            "Real Madrid football"
+        ),
+
+        (
+            "barcelona",
+            "FC Barcelona football"
+        ),
+
+        (
+            "barca",
+            "FC Barcelona football"
+        ),
+
+        (
+            "برشلونة",
+            "FC Barcelona football"
+        ),
+
+        (
+            "atletico madrid",
+            "Atletico Madrid football"
+        ),
+
+        (
+            "atlético madrid",
+            "Atletico Madrid football"
+        ),
+
+        (
+            "أتلتيكو مدريد",
+            "Atletico Madrid football"
+        ),
+
+        (
+            "أتليتكو مدريد",
+            "Atletico Madrid football"
+        ),
+
+        (
+            "manchester united",
+            "Manchester United football"
+        ),
+
+        (
+            "manchester city",
+            "Manchester City football"
+        ),
+
+        (
+            "liverpool",
+            "Liverpool FC football"
+        ),
+
+        (
+            "arsenal",
+            "Arsenal FC football"
+        ),
+
+        (
+            "chelsea",
+            "Chelsea FC football"
+        ),
+
+        (
+            "tottenham",
+            "Tottenham Hotspur football"
+        ),
+
+        (
+            "bayern",
+            "Bayern Munich football"
+        ),
+
+        (
+            "borussia dortmund",
+            "Borussia Dortmund football"
+        ),
+
+        (
+            "dortmund",
+            "Borussia Dortmund football"
+        ),
+
+        (
+            "juventus",
+            "Juventus football"
+        ),
+
+        (
+            "psg",
+            "Paris Saint-Germain football"
+        ),
+
+        (
+            "paris saint-germain",
+            "Paris Saint-Germain football"
+        ),
+
+        (
+            "ac milan",
+            "AC Milan football"
+        ),
+
+        (
+            "milan",
+            "AC Milan football"
+        ),
+
+        (
+            "inter milan",
+            "Inter Milan football"
+        ),
+    ]
+
+    found = []
+
+    for keyword, query in clubs:
+
+        if keyword in lower_title:
+
+            if query not in found:
+
+                found.append(
+                    query
+                )
+
+    return found
+
+
+# ============================================================
 # استخراج كلمات مهمة من العنوان
 # ============================================================
 
-def extract_search_terms(title):
+def extract_person_terms(title):
 
-    title = clean_search_text(title)
+    title = clean_search_text(
+        title
+    )
 
     if not title:
         return []
 
+    terms = []
+
     # --------------------------------------------------------
-    # أسماء الأندية والبطولات المهمة
+    # أسماء معروفة تظهر كثيرًا في أخبار كرة القدم
     # --------------------------------------------------------
 
-    important_terms = [
+    known_people = [
 
-        # Real Madrid
-        "Real Madrid",
-        "Madrid",
-        "ريال مدريد",
+        "Benzema",
+        "Karim Benzema",
 
-        # Barcelona
-        "Barcelona",
-        "Barca",
-        "برشلونة",
+        "Pogba",
+        "Paul Pogba",
 
-        # Atletico
-        "Atletico Madrid",
-        "Atlético Madrid",
-        "Atletico",
-        "أتلتيكو مدريد",
-        "أتليتكو مدريد",
+        "Coutinho",
+        "Philippe Coutinho",
 
-        # Manchester
-        "Manchester United",
-        "Manchester City",
+        "Mbappe",
+        "Mbappé",
+        "Kylian Mbappe",
 
-        # Liverpool
-        "Liverpool",
+        "Vinicius",
+        "Vinicius Junior",
 
-        # Arsenal
-        "Arsenal",
+        "Bellingham",
+        "Jude Bellingham",
 
-        # Chelsea
-        "Chelsea",
+        "Rodrygo",
 
-        # Tottenham
-        "Tottenham",
+        "Modric",
+        "Luka Modric",
 
-        # Bayern
-        "Bayern Munich",
-        "Bayern",
+        "Kroos",
+        "Toni Kroos",
 
-        # Dortmund
-        "Borussia Dortmund",
-        "Dortmund",
+        "De Bruyne",
+        "Kevin De Bruyne",
 
-        # PSG
-        "Paris Saint-Germain",
-        "PSG",
+        "Haaland",
+        "Erling Haaland",
 
-        # Juventus
-        "Juventus",
+        "Foden",
+        "Phil Foden",
 
-        # Inter
-        "Inter Milan",
+        "Salah",
+        "Mohamed Salah",
 
-        # AC Milan
-        "AC Milan",
-        "Milan",
+        "Ronaldo",
+        "Cristiano Ronaldo",
 
-        # football
-        "football",
-        "soccer",
-        "كرة القدم",
+        "Messi",
+        "Lionel Messi",
+
+        "Deco",
+
+        "Lewandowski",
+        "Robert Lewandowski",
+
+        "Pedri",
+
+        "Gavi",
+
+        "Yamal",
+        "Lamine Yamal",
+
+        "Neymar",
+
+        "Kane",
+        "Harry Kane",
+
+        "Guardiola",
+        "Pep Guardiola",
+
+        "Mourinho",
+        "Jose Mourinho",
+
+        "Ancelotti",
+        "Carlo Ancelotti",
     ]
-
-    found_terms = []
 
     lower_title = title.lower()
 
-    for term in important_terms:
+    for person in known_people:
 
-        if term.lower() in lower_title:
+        if person.lower() in lower_title:
 
-            if term not in found_terms:
+            if person not in terms:
 
-                found_terms.append(
-                    term
+                terms.append(
+                    person
                 )
 
-    return found_terms
+    return terms
 
 
 # ============================================================
-# بناء استعلامات متعددة
+# بناء استعلامات البحث
 # ============================================================
 
 def build_search_queries(
@@ -174,7 +350,9 @@ def build_search_queries(
     keywords=None
 ):
 
-    title = clean_search_text(title)
+    title = clean_search_text(
+        title
+    )
 
     queries = []
 
@@ -199,28 +377,47 @@ def build_search_queries(
         )
 
     # --------------------------------------------------------
-    # 3. الكلمات المهمة
+    # 3. النادي
     # --------------------------------------------------------
 
-    important_terms = extract_search_terms(
+    club_queries = extract_club_terms(
         title
     )
 
-    if important_terms:
-
-        query = (
-            " ".join(
-                important_terms
-            )
-            + " football"
-        )
+    for query in club_queries:
 
         queries.append(
             query
         )
 
     # --------------------------------------------------------
-    # 4. keywords إضافية
+    # 4. اللاعب
+    # --------------------------------------------------------
+
+    person_terms = extract_person_terms(
+        title
+    )
+
+    for person in person_terms:
+
+        queries.append(
+            f"{person} football"
+        )
+
+    # --------------------------------------------------------
+    # 5. اللاعب + النادي
+    # --------------------------------------------------------
+
+    for person in person_terms:
+
+        for club_query in club_queries:
+
+            queries.append(
+                f"{person} {club_query}"
+            )
+
+    # --------------------------------------------------------
+    # 6. الكلمات الإضافية
     # --------------------------------------------------------
 
     if keywords:
@@ -232,97 +429,11 @@ def build_search_queries(
         if keyword_text:
 
             queries.append(
-                f"{title} {keyword_text}"
-            )
-
-            queries.append(
                 f"{keyword_text} football"
             )
 
     # --------------------------------------------------------
-    # 5. إذا وجد نادي، ابحث عنه بشكل مباشر
-    # --------------------------------------------------------
-
-    club_queries = [
-
-        (
-            "Real Madrid",
-            "Real Madrid football"
-        ),
-
-        (
-            "Barcelona",
-            "Barcelona football"
-        ),
-
-        (
-            "Manchester United",
-            "Manchester United football"
-        ),
-
-        (
-            "Manchester City",
-            "Manchester City football"
-        ),
-
-        (
-            "Liverpool",
-            "Liverpool FC football"
-        ),
-
-        (
-            "Arsenal",
-            "Arsenal FC football"
-        ),
-
-        (
-            "Chelsea",
-            "Chelsea FC football"
-        ),
-
-        (
-            "Tottenham",
-            "Tottenham Hotspur football"
-        ),
-
-        (
-            "Bayern",
-            "Bayern Munich football"
-        ),
-
-        (
-            "Dortmund",
-            "Borussia Dortmund football"
-        ),
-
-        (
-            "Juventus",
-            "Juventus football"
-        ),
-
-        (
-            "Milan",
-            "AC Milan football"
-        ),
-
-        (
-            "PSG",
-            "Paris Saint-Germain football"
-        ),
-    ]
-
-    lower_title = title.lower()
-
-    for club_name, club_query in club_queries:
-
-        if club_name.lower() in lower_title:
-
-            queries.append(
-                club_query
-            )
-
-    # --------------------------------------------------------
-    # إزالة الاستعلامات المتكررة
+    # إزالة التكرار
     # --------------------------------------------------------
 
     unique_queries = []
@@ -396,6 +507,46 @@ def search_commons(query):
             headers=headers,
             timeout=REQUEST_TIMEOUT
         )
+
+        # ----------------------------------------------------
+        # معالجة 429 بشكل صحيح
+        # ----------------------------------------------------
+
+        if response.status_code == 429:
+
+            retry_after = (
+                response.headers
+                .get(
+                    "Retry-After"
+                )
+            )
+
+            if retry_after:
+
+                try:
+                    wait_seconds = int(
+                        retry_after
+                    )
+                except ValueError:
+                    wait_seconds = 5
+
+            else:
+
+                wait_seconds = 5
+
+            print(
+                "⚠️ Wikimedia rate limit reached."
+            )
+
+            print(
+                f"Waiting {wait_seconds} seconds..."
+            )
+
+            time.sleep(
+                wait_seconds
+            )
+
+            return []
 
         response.raise_for_status()
 
@@ -508,6 +659,15 @@ def search_commons(query):
 
         return results
 
+    except requests.exceptions.HTTPError as error:
+
+        print(
+            "Commons HTTP error:",
+            error
+        )
+
+        return []
+
     except Exception as error:
 
         print(
@@ -519,7 +679,7 @@ def search_commons(query):
 
 
 # ============================================================
-# البحث باستخدام عدة استعلامات
+# البحث باستخدام استعلامات متعددة
 # ============================================================
 
 def search_commons_multiple(
@@ -548,28 +708,39 @@ def search_commons_multiple(
 
     all_results = []
 
+    attempts = 0
+
     for query in queries:
+
+        if attempts >= MAX_SEARCH_ATTEMPTS:
+
+            break
+
+        attempts += 1
 
         results = search_commons(
             query
         )
 
-        if not results:
-
-            continue
-
-        all_results.extend(
-            results
-        )
-
         # ----------------------------------------------------
-        # إذا وجدنا نتائج، لا نحتاج غالبًا
-        # للاستمرار في البحث العشوائي
+        # إذا حصلنا على نتائج نكتفي بها
         # ----------------------------------------------------
 
-        if len(all_results) >= SEARCH_LIMIT:
+        if results:
+
+            all_results.extend(
+                results
+            )
 
             break
+
+        # ----------------------------------------------------
+        # تأخير قبل الطلب التالي
+        # ----------------------------------------------------
+
+        time.sleep(
+            REQUEST_DELAY
+        )
 
     # --------------------------------------------------------
     # إزالة الصور المكررة
@@ -612,7 +783,7 @@ def search_commons_multiple(
 
 
 # ============================================================
-# اختيار صورة مناسبة
+# اختيار الصورة المناسبة
 # ============================================================
 
 def choose_image(results):
@@ -620,10 +791,6 @@ def choose_image(results):
     if not results:
 
         return None
-
-    # --------------------------------------------------------
-    # الأفضلية للتراخيص المفتوحة
-    # --------------------------------------------------------
 
     preferred_results = []
 
@@ -658,11 +825,6 @@ def choose_image(results):
     if preferred_results:
 
         return preferred_results[0]
-
-    # --------------------------------------------------------
-    # إذا لم توجد صورة بترخيص مفضل
-    # نستخدم أول نتيجة
-    # --------------------------------------------------------
 
     return results[0]
 
@@ -846,7 +1008,7 @@ def fetch_news_image(
         return None
 
     # --------------------------------------------------------
-    # البحث بعدة طرق
+    # البحث
     # --------------------------------------------------------
 
     results = search_commons_multiple(
@@ -930,7 +1092,7 @@ def fetch_news_image(
     )
 
     # --------------------------------------------------------
-    # تنزيل الصورة
+    # تنزيل
     # --------------------------------------------------------
 
     success = download_image(
@@ -1032,11 +1194,11 @@ if __name__ == "__main__":
         )
 
         print(
-            "===================================",
+            "==================================="
         )
 
     else:
 
         print(
             "IMAGE FETCH FAILED"
-            )
+    )
