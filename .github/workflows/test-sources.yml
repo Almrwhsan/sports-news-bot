@@ -17,7 +17,19 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+
+      - name: Show global sources file
+        run: |
+          echo "==================================="
+          echo "     GLOBAL SOURCES FILE"
+          echo "==================================="
+          nl -ba sources/global_sources.py
 
       - name: Test global sources
-        run: python test_sources.py
+        run: |
+          echo "==================================="
+          echo "       TESTING GLOBAL SOURCES"
+          echo "==================================="
+          python test_sources.py
