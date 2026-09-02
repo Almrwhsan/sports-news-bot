@@ -221,3 +221,24 @@ def translate_news_item(news):
     )
 
     return translated_news
+
+
+# ============================================================
+# ترجمة قائمة الأخبار
+# ============================================================
+
+def translate_news(news_list):
+
+    translated = []
+
+    for news in news_list:
+
+        result = translate_news_item(
+            news
+        )
+
+        translated.append(
+            result
+        )
+
+    return translated
