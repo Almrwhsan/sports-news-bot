@@ -1,0 +1,39 @@
+name: Test Real News Images
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-real-news-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Test real news images
+        run: |
+          python test_real_news_images.py
+
+      - name: Show downloaded images
+        run: |
+          echo "==================================="
+          echo "Downloaded real-news images:"
+          echo "==================================="
+          ls -lah news_images || true
+
+      - name: Upload test images
+        uses: actions/upload-artifact@v4
+        with:
+          name: real-news-images
+          path: news_images/
+          if-no-files-found: ignore
