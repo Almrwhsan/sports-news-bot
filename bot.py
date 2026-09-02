@@ -1002,7 +1002,7 @@ def main():
                     "News image attached successfully."
                 )
 
-                        else:
+            else:
 
                 print(
                     "No image found for this news."
