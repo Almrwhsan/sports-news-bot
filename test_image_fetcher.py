@@ -11,20 +11,16 @@ def main():
     print("       IMAGE FETCHER TEST")
     print("===================================")
 
-    test_titles = [
-
+    titles = [
         "Real Madrid signs a new midfielder",
-
         "Barcelona announce new signing",
-
         "Manchester City complete major transfer",
-
     ]
 
     successful = 0
 
     for index, title in enumerate(
-        test_titles,
+        titles,
         start=1
     ):
 
@@ -64,13 +60,8 @@ def main():
         except Exception as error:
 
             print(
-                f"❌ Image fetch failed: "
-                f"{error}"
+                f"❌ Error: {error}"
             )
-
-    # --------------------------------------------------------
-    # النتيجة
-    # --------------------------------------------------------
 
     print()
     print("===================================")
@@ -83,16 +74,16 @@ def main():
         f"{successful}/3"
     )
 
-    print()
-
     if successful > 0:
 
+        print()
         print(
             "✅ IMAGE FETCHER IS WORKING"
         )
 
     else:
 
+        print()
         print(
             "❌ NO IMAGE RESULTS FOUND"
         )
