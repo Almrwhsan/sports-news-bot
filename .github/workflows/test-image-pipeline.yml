@@ -1,0 +1,46 @@
+name: Test Image Pipeline
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-image-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run image pipeline test
+        run: |
+          python test_image_pipeline.py
+
+      - name: Show image directories
+        run: |
+          echo "==================================="
+          echo "Real images:"
+          echo "==================================="
+          ls -lah news_images || true
+
+          echo "==================================="
+          echo "Generated images:"
+          echo "==================================="
+          ls -lah generated_images || true
+
+      - name: Upload image test results
+        uses: actions/upload-artifact@v4
+        with:
+          name: image-pipeline-results
+          path: |
+            news_images/
+            generated_images/
+          if-no-files-found: warn
