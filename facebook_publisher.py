@@ -23,7 +23,7 @@ FACEBOOK_ENABLED = os.getenv(
 
 
 # ============================================================
-# حالة النشر
+# التحقق من إعداد Facebook
 # ============================================================
 
 def is_facebook_configured():
@@ -41,29 +41,33 @@ def is_facebook_configured():
 def publish_text_post(message):
 
     # --------------------------------------------------------
-    # مفتاح التشغيل والإيقاف
+    # مفتاح تشغيل / إيقاف النشر
     # --------------------------------------------------------
 
     if not FACEBOOK_ENABLED:
 
         return {
             "success": False,
+            "published": False,
+            "post_id": None,
             "error": "Facebook publishing is disabled."
         }
 
     # --------------------------------------------------------
-    # التحقق من إعداد Facebook
+    # التحقق من الإعدادات
     # --------------------------------------------------------
 
     if not is_facebook_configured():
 
         return {
             "success": False,
+            "published": False,
+            "post_id": None,
             "error": "Facebook is not configured."
         }
 
     # --------------------------------------------------------
-    # رابط Facebook Graph API
+    # Facebook Graph API
     # --------------------------------------------------------
 
     url = (
@@ -71,10 +75,6 @@ def publish_text_post(message):
         f"{FACEBOOK_GRAPH_VERSION}/"
         f"{FACEBOOK_PAGE_ID}/feed"
     )
-
-    # --------------------------------------------------------
-    # بيانات الطلب
-    # --------------------------------------------------------
 
     payload = {
         "message": message,
@@ -99,6 +99,8 @@ def publish_text_post(message):
 
         return {
             "success": False,
+            "published": False,
+            "post_id": None,
             "error": str(error)
         }
 
@@ -106,26 +108,32 @@ def publish_text_post(message):
 
         return {
             "success": False,
+            "published": False,
+            "post_id": None,
             "error": "Invalid JSON response from Facebook."
         }
 
     # --------------------------------------------------------
-    # نجاح
+    # نجاح النشر
     # --------------------------------------------------------
 
     if response.ok and "id" in data:
 
         return {
             "success": True,
-            "post_id": data["id"]
+            "published": True,
+            "post_id": data["id"],
+            "error": None
         }
 
     # --------------------------------------------------------
-    # فشل
+    # فشل النشر
     # --------------------------------------------------------
 
     return {
         "success": False,
+        "published": False,
+        "post_id": None,
         "error": data.get(
             "error",
             data
