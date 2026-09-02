@@ -220,4 +220,4 @@ def translate_news_item(news):
         or summary
     )
 
-    return
+    return translated_news
