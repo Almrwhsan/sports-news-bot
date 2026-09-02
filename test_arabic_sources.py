@@ -1,72 +1,54 @@
 # ============================================================
-# تشخيص مصادر FilGoal
+# اختبار المصادر العربية
 # ============================================================
 
-import requests
-
 from sources.arabic_sources import ARABIC_SOURCES
+from sources.source_manager import fetch_source
 
 
 def main():
 
     print("===================================")
-    print("     FILGOAL RSS DIAGNOSTIC")
+    print("     ARABIC SOURCES TEST")
     print("===================================")
+
+    total = 0
 
     for source in ARABIC_SOURCES:
 
         print()
         print("-----------------------------------")
         print(f"Source: {source['name']}")
-        print(f"URL: {source['feed']}")
+        print(f"Feed: {source['feed']}")
 
-        try:
+        news = fetch_source(source)
 
-            response = requests.get(
-                source["feed"],
-                timeout=30,
-                headers={
-                    "User-Agent": (
-                        "Mozilla/5.0 "
-                        "(Windows NT 10.0; Win64; x64) "
-                        "AppleWebKit/537.36 "
-                        "(KHTML, like Gecko) "
-                        "Chrome/131.0 Safari/537.36"
-                    )
-                }
-            )
+        print(
+            f"Entries received: {len(news)}"
+        )
 
-            print(
-                f"HTTP Status: "
-                f"{response.status_code}"
-            )
+        if news:
 
-            print(
-                f"Content-Type: "
-                f"{response.headers.get('content-type')}"
-            )
+            total += len(news)
 
-            print(
-                f"Content-Length: "
-                f"{len(response.content)}"
-            )
+            print("Status: ✅ WORKING")
 
             print()
-            print("Response preview:")
+            print("Latest title:")
 
             print(
-                response.text[:500]
+                news[0]["title"]
             )
 
-        except requests.RequestException as error:
+        else:
 
-            print(
-                f"❌ Request failed: {error}"
-            )
+            print("Status: ❌ NO NEWS")
 
     print()
     print("===================================")
-    print("          DIAGNOSTIC END")
+    print(
+        f"TOTAL ARABIC NEWS: {total}"
+    )
     print("===================================")
 
 
