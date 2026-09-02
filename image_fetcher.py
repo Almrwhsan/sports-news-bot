@@ -16,6 +16,11 @@ USER_AGENT = (
     "(football news image fetcher)"
 )
 
+SEARCH_LIMIT = 10
+IMAGE_WIDTH = 1200
+REQUEST_TIMEOUT = 30
+DOWNLOAD_TIMEOUT = 60
+
 
 # ============================================================
 # تنظيف اسم الملف
@@ -46,24 +51,336 @@ def safe_filename(text):
 
 
 # ============================================================
+# تنظيف نص البحث
+# ============================================================
+
+def clean_search_text(text):
+
+    if not text:
+        return ""
+
+    text = str(text)
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
+
+    return text.strip()
+
+
+# ============================================================
+# استخراج كلمات مهمة من العنوان
+# ============================================================
+
+def extract_search_terms(title):
+
+    title = clean_search_text(title)
+
+    if not title:
+        return []
+
+    # --------------------------------------------------------
+    # أسماء الأندية والبطولات المهمة
+    # --------------------------------------------------------
+
+    important_terms = [
+
+        # Real Madrid
+        "Real Madrid",
+        "Madrid",
+        "ريال مدريد",
+
+        # Barcelona
+        "Barcelona",
+        "Barca",
+        "برشلونة",
+
+        # Atletico
+        "Atletico Madrid",
+        "Atlético Madrid",
+        "Atletico",
+        "أتلتيكو مدريد",
+        "أتليتكو مدريد",
+
+        # Manchester
+        "Manchester United",
+        "Manchester City",
+
+        # Liverpool
+        "Liverpool",
+
+        # Arsenal
+        "Arsenal",
+
+        # Chelsea
+        "Chelsea",
+
+        # Tottenham
+        "Tottenham",
+
+        # Bayern
+        "Bayern Munich",
+        "Bayern",
+
+        # Dortmund
+        "Borussia Dortmund",
+        "Dortmund",
+
+        # PSG
+        "Paris Saint-Germain",
+        "PSG",
+
+        # Juventus
+        "Juventus",
+
+        # Inter
+        "Inter Milan",
+
+        # AC Milan
+        "AC Milan",
+        "Milan",
+
+        # football
+        "football",
+        "soccer",
+        "كرة القدم",
+    ]
+
+    found_terms = []
+
+    lower_title = title.lower()
+
+    for term in important_terms:
+
+        if term.lower() in lower_title:
+
+            if term not in found_terms:
+
+                found_terms.append(
+                    term
+                )
+
+    return found_terms
+
+
+# ============================================================
+# بناء استعلامات متعددة
+# ============================================================
+
+def build_search_queries(
+    title,
+    keywords=None
+):
+
+    title = clean_search_text(title)
+
+    queries = []
+
+    # --------------------------------------------------------
+    # 1. العنوان الكامل
+    # --------------------------------------------------------
+
+    if title:
+
+        queries.append(
+            title
+        )
+
+    # --------------------------------------------------------
+    # 2. العنوان + football
+    # --------------------------------------------------------
+
+    if title:
+
+        queries.append(
+            f"{title} football"
+        )
+
+    # --------------------------------------------------------
+    # 3. الكلمات المهمة
+    # --------------------------------------------------------
+
+    important_terms = extract_search_terms(
+        title
+    )
+
+    if important_terms:
+
+        query = (
+            " ".join(
+                important_terms
+            )
+            + " football"
+        )
+
+        queries.append(
+            query
+        )
+
+    # --------------------------------------------------------
+    # 4. keywords إضافية
+    # --------------------------------------------------------
+
+    if keywords:
+
+        keyword_text = clean_search_text(
+            keywords
+        )
+
+        if keyword_text:
+
+            queries.append(
+                f"{title} {keyword_text}"
+            )
+
+            queries.append(
+                f"{keyword_text} football"
+            )
+
+    # --------------------------------------------------------
+    # 5. إذا وجد نادي، ابحث عنه بشكل مباشر
+    # --------------------------------------------------------
+
+    club_queries = [
+
+        (
+            "Real Madrid",
+            "Real Madrid football"
+        ),
+
+        (
+            "Barcelona",
+            "Barcelona football"
+        ),
+
+        (
+            "Manchester United",
+            "Manchester United football"
+        ),
+
+        (
+            "Manchester City",
+            "Manchester City football"
+        ),
+
+        (
+            "Liverpool",
+            "Liverpool FC football"
+        ),
+
+        (
+            "Arsenal",
+            "Arsenal FC football"
+        ),
+
+        (
+            "Chelsea",
+            "Chelsea FC football"
+        ),
+
+        (
+            "Tottenham",
+            "Tottenham Hotspur football"
+        ),
+
+        (
+            "Bayern",
+            "Bayern Munich football"
+        ),
+
+        (
+            "Dortmund",
+            "Borussia Dortmund football"
+        ),
+
+        (
+            "Juventus",
+            "Juventus football"
+        ),
+
+        (
+            "Milan",
+            "AC Milan football"
+        ),
+
+        (
+            "PSG",
+            "Paris Saint-Germain football"
+        ),
+    ]
+
+    lower_title = title.lower()
+
+    for club_name, club_query in club_queries:
+
+        if club_name.lower() in lower_title:
+
+            queries.append(
+                club_query
+            )
+
+    # --------------------------------------------------------
+    # إزالة الاستعلامات المتكررة
+    # --------------------------------------------------------
+
+    unique_queries = []
+
+    for query in queries:
+
+        query = clean_search_text(
+            query
+        )
+
+        if not query:
+            continue
+
+        if query not in unique_queries:
+
+            unique_queries.append(
+                query
+            )
+
+    return unique_queries
+
+
+# ============================================================
 # البحث في Wikimedia Commons
 # ============================================================
 
 def search_commons(query):
 
     print()
-    print("Searching Wikimedia Commons...")
-    print("Query:", query)
+    print(
+        "Searching Wikimedia Commons..."
+    )
+
+    print(
+        "Query:",
+        query
+    )
 
     params = {
+
         "action": "query",
+
         "generator": "search",
+
         "gsrsearch": query,
+
         "gsrnamespace": 6,
-        "gsrlimit": 10,
+
+        "gsrlimit": SEARCH_LIMIT,
+
         "prop": "imageinfo",
-        "iiprop": "url|mime|size|extmetadata",
-        "iiurlwidth": 1200,
+
+        "iiprop": (
+            "url|mime|size|extmetadata"
+        ),
+
+        "iiurlwidth": IMAGE_WIDTH,
+
         "format": "json",
     }
 
@@ -77,7 +394,7 @@ def search_commons(query):
             COMMONS_API,
             params=params,
             headers=headers,
-            timeout=30
+            timeout=REQUEST_TIMEOUT
         )
 
         response.raise_for_status()
@@ -100,6 +417,7 @@ def search_commons(query):
             )
 
             if not imageinfo:
+
                 continue
 
             info = imageinfo[0]
@@ -109,7 +427,10 @@ def search_commons(query):
                 ""
             )
 
-            if not mime.startswith("image/"):
+            if not mime.startswith(
+                "image/"
+            ):
+
                 continue
 
             metadata = info.get(
@@ -119,40 +440,65 @@ def search_commons(query):
 
             license_name = (
                 metadata
-                .get("LicenseShortName", {})
-                .get("value", "")
+                .get(
+                    "LicenseShortName",
+                    {}
+                )
+                .get(
+                    "value",
+                    ""
+                )
             )
 
             artist = (
                 metadata
-                .get("Artist", {})
-                .get("value", "")
+                .get(
+                    "Artist",
+                    {}
+                )
+                .get(
+                    "value",
+                    ""
+                )
             )
 
             description_url = (
                 "https://commons.wikimedia.org/wiki/"
-                + page.get("title", "").replace(
+                + page.get(
+                    "title",
+                    ""
+                ).replace(
                     " ",
                     "_"
                 )
             )
 
             results.append({
+
                 "title": page.get(
                     "title",
                     ""
                 ),
+
                 "image_url": info.get(
                     "thumburl",
-                    info.get("url", "")
+                    info.get(
+                        "url",
+                        ""
+                    )
                 ),
+
                 "original_url": info.get(
                     "url",
                     ""
                 ),
+
                 "license": license_name,
+
                 "artist": artist,
+
                 "source_url": description_url,
+
             })
 
         print(
@@ -173,13 +519,113 @@ def search_commons(query):
 
 
 # ============================================================
+# البحث باستخدام عدة استعلامات
+# ============================================================
+
+def search_commons_multiple(
+    title,
+    keywords=None
+):
+
+    queries = build_search_queries(
+        title,
+        keywords
+    )
+
+    print()
+    print(
+        "Search queries:"
+    )
+
+    for index, query in enumerate(
+        queries,
+        start=1
+    ):
+
+        print(
+            f"{index}. {query}"
+        )
+
+    all_results = []
+
+    for query in queries:
+
+        results = search_commons(
+            query
+        )
+
+        if not results:
+
+            continue
+
+        all_results.extend(
+            results
+        )
+
+        # ----------------------------------------------------
+        # إذا وجدنا نتائج، لا نحتاج غالبًا
+        # للاستمرار في البحث العشوائي
+        # ----------------------------------------------------
+
+        if len(all_results) >= SEARCH_LIMIT:
+
+            break
+
+    # --------------------------------------------------------
+    # إزالة الصور المكررة
+    # --------------------------------------------------------
+
+    unique_results = []
+
+    seen_urls = set()
+
+    for result in all_results:
+
+        image_url = result.get(
+            "image_url",
+            ""
+        )
+
+        if not image_url:
+
+            continue
+
+        if image_url in seen_urls:
+
+            continue
+
+        seen_urls.add(
+            image_url
+        )
+
+        unique_results.append(
+            result
+        )
+
+    print()
+    print(
+        "Total unique images:",
+        len(unique_results)
+    )
+
+    return unique_results
+
+
+# ============================================================
 # اختيار صورة مناسبة
 # ============================================================
 
 def choose_image(results):
 
     if not results:
+
         return None
+
+    # --------------------------------------------------------
+    # الأفضلية للتراخيص المفتوحة
+    # --------------------------------------------------------
+
+    preferred_results = []
 
     for result in results:
 
@@ -192,13 +638,31 @@ def choose_image(results):
         )
 
         if (
-            "public domain" in license_name
-            or "cc0" in license_name
-            or "cc by" in license_name
-            or "cc-by" in license_name
+            "public domain"
+            in license_name
+
+            or "cc0"
+            in license_name
+
+            or "cc by"
+            in license_name
+
+            or "cc-by"
+            in license_name
         ):
 
-            return result
+            preferred_results.append(
+                result
+            )
+
+    if preferred_results:
+
+        return preferred_results[0]
+
+    # --------------------------------------------------------
+    # إذا لم توجد صورة بترخيص مفضل
+    # نستخدم أول نتيجة
+    # --------------------------------------------------------
 
     return results[0]
 
@@ -225,10 +689,29 @@ def download_image(
         response = requests.get(
             image_url,
             headers=headers,
-            timeout=60
+            timeout=DOWNLOAD_TIMEOUT
         )
 
         response.raise_for_status()
+
+        content_type = (
+            response.headers
+            .get(
+                "Content-Type",
+                ""
+            )
+            .lower()
+        )
+
+        if not content_type.startswith(
+            "image/"
+        ):
+
+            print(
+                "Downloaded file is not an image."
+            )
+
+            return False
 
         with open(
             output_path,
@@ -257,6 +740,86 @@ def download_image(
 
 
 # ============================================================
+# حفظ معلومات الصورة
+# ============================================================
+
+def save_image_metadata(
+    output_path,
+    selected
+):
+
+    metadata_path = (
+        output_path
+        + ".txt"
+    )
+
+    try:
+
+        with open(
+            metadata_path,
+            "w",
+            encoding="utf-8"
+        ) as file:
+
+            file.write(
+                "Title: "
+                + selected.get(
+                    "title",
+                    ""
+                )
+                + "\n"
+            )
+
+            file.write(
+                "License: "
+                + selected.get(
+                    "license",
+                    ""
+                )
+                + "\n"
+            )
+
+            file.write(
+                "Artist: "
+                + selected.get(
+                    "artist",
+                    ""
+                )
+                + "\n"
+            )
+
+            file.write(
+                "Source: "
+                + selected.get(
+                    "source_url",
+                    ""
+                )
+                + "\n"
+            )
+
+            file.write(
+                "Original URL: "
+                + selected.get(
+                    "original_url",
+                    ""
+                )
+                + "\n"
+            )
+
+        print(
+            "Image metadata saved:",
+            metadata_path
+        )
+
+    except Exception as error:
+
+        print(
+            "Metadata save error:",
+            error
+        )
+
+
+# ============================================================
 # الوظيفة الرئيسية
 # ============================================================
 
@@ -270,25 +833,25 @@ def fetch_news_image(
         exist_ok=True
     )
 
-    # --------------------------------------------------------
-    # بناء عبارة البحث
-    # --------------------------------------------------------
+    title = clean_search_text(
+        title
+    )
 
-    query = title
+    if not title:
 
-    if keywords:
-
-        query = (
-            f"{title} "
-            f"{keywords}"
+        print(
+            "Empty title. Cannot search for image."
         )
 
+        return None
+
     # --------------------------------------------------------
-    # البحث
+    # البحث بعدة طرق
     # --------------------------------------------------------
 
-    results = search_commons(
-        query
+    results = search_commons_multiple(
+        title,
+        keywords
     )
 
     if not results:
@@ -322,22 +885,34 @@ def fetch_news_image(
 
     print(
         "Title:",
-        selected["title"]
+        selected.get(
+            "title",
+            ""
+        )
     )
 
     print(
         "License:",
-        selected["license"]
+        selected.get(
+            "license",
+            ""
+        )
     )
 
     print(
         "Artist:",
-        selected["artist"]
+        selected.get(
+            "artist",
+            ""
+        )
     )
 
     print(
         "Source:",
-        selected["source_url"]
+        selected.get(
+            "source_url",
+            ""
+        )
     )
 
     # --------------------------------------------------------
@@ -355,11 +930,14 @@ def fetch_news_image(
     )
 
     # --------------------------------------------------------
-    # تنزيل
+    # تنزيل الصورة
     # --------------------------------------------------------
 
     success = download_image(
-        selected["image_url"],
+        selected.get(
+            "image_url",
+            ""
+        ),
         output_path
     )
 
@@ -371,56 +949,39 @@ def fetch_news_image(
     # حفظ معلومات المصدر
     # --------------------------------------------------------
 
-    metadata_path = (
-        output_path
-        + ".txt"
+    save_image_metadata(
+        output_path,
+        selected
     )
 
-    try:
-
-        with open(
-            metadata_path,
-            "w",
-            encoding="utf-8"
-        ) as file:
-
-            file.write(
-                "Title: "
-                + selected["title"]
-                + "\n"
-            )
-
-            file.write(
-                "License: "
-                + selected["license"]
-                + "\n"
-            )
-
-            file.write(
-                "Artist: "
-                + selected["artist"]
-                + "\n"
-            )
-
-            file.write(
-                "Source: "
-                + selected["source_url"]
-                + "\n"
-            )
-
-    except Exception as error:
-
-        print(
-            "Metadata save error:",
-            error
-        )
+    # --------------------------------------------------------
+    # النتيجة
+    # --------------------------------------------------------
 
     return {
+
         "image_path": output_path,
-        "license": selected["license"],
-        "artist": selected["artist"],
-        "source_url": selected["source_url"],
-        "title": selected["title"],
+
+        "license": selected.get(
+            "license",
+            ""
+        ),
+
+        "artist": selected.get(
+            "artist",
+            ""
+        ),
+
+        "source_url": selected.get(
+            "source_url",
+            ""
+        ),
+
+        "title": selected.get(
+            "title",
+            ""
+        ),
+
     }
 
 
@@ -431,7 +992,7 @@ def fetch_news_image(
 if __name__ == "__main__":
 
     TEST_TITLE = (
-        "Real Madrid football"
+        "Real Madrid signs a new midfielder"
     )
 
     result = fetch_news_image(
@@ -471,11 +1032,11 @@ if __name__ == "__main__":
         )
 
         print(
-            "==================================="
+            "===================================",
         )
 
     else:
 
         print(
             "IMAGE FETCH FAILED"
-        )
+            )
