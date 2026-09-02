@@ -15,10 +15,12 @@ FACEBOOK_PAGE_ID = os.getenv(
 FACEBOOK_PAGE_ACCESS_TOKEN = os.getenv(
     "FACEBOOK_PAGE_ACCESS_TOKEN"
 )
+
 FACEBOOK_ENABLED = os.getenv(
     "FACEBOOK_ENABLED",
     "false"
 ).lower() == "true"
+
 
 # ============================================================
 # حالة النشر
@@ -38,6 +40,21 @@ def is_facebook_configured():
 
 def publish_text_post(message):
 
+    # --------------------------------------------------------
+    # مفتاح التشغيل والإيقاف
+    # --------------------------------------------------------
+
+    if not FACEBOOK_ENABLED:
+
+        return {
+            "success": False,
+            "error": "Facebook publishing is disabled."
+        }
+
+    # --------------------------------------------------------
+    # التحقق من إعداد Facebook
+    # --------------------------------------------------------
+
     if not is_facebook_configured():
 
         return {
@@ -45,16 +62,28 @@ def publish_text_post(message):
             "error": "Facebook is not configured."
         }
 
+    # --------------------------------------------------------
+    # رابط Facebook Graph API
+    # --------------------------------------------------------
+
     url = (
         f"https://graph.facebook.com/"
         f"{FACEBOOK_GRAPH_VERSION}/"
         f"{FACEBOOK_PAGE_ID}/feed"
     )
 
+    # --------------------------------------------------------
+    # بيانات الطلب
+    # --------------------------------------------------------
+
     payload = {
         "message": message,
         "access_token": FACEBOOK_PAGE_ACCESS_TOKEN,
     }
+
+    # --------------------------------------------------------
+    # إرسال الطلب
+    # --------------------------------------------------------
 
     try:
 
