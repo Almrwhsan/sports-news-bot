@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 import feedparser
 from image_fetcher import fetch_news_image
-
+from facebook_publisher import publish_text_post
 
 # ============================================================
 # إعدادات
@@ -959,6 +959,10 @@ def main():
 
                 "published_to_facebook": False,
 
+                "facebook_post_id": None,
+
+                "facebook_error": None,
+
                 # الصور ستضاف لاحقًا
                 "image": None,
 
@@ -998,14 +1002,77 @@ def main():
                     "News image attached successfully."
                 )
 
-            else:
+                        else:
 
                 print(
                     "No image found for this news."
                 )
 
             # ------------------------------------------------
-            # إضافة الخبر
+            # نشر الخبر على Facebook
+            # ------------------------------------------------
+
+            print()
+            print(
+                "Publishing news to Facebook..."
+            )
+
+            facebook_result = publish_text_post(
+                news_item["post_text"]
+            )
+
+            # ------------------------------------------------
+            # معالجة نتيجة النشر
+            # ------------------------------------------------
+
+            if facebook_result.get("success"):
+
+                news_item["processed"] = True
+
+                news_item["published_to_facebook"] = True
+
+                news_item["facebook_post_id"] = (
+                    facebook_result.get("post_id")
+                )
+
+                news_item["facebook_error"] = None
+
+                print()
+                print(
+                    "✅ News published to Facebook."
+                )
+
+                print(
+                    f"Facebook Post ID: "
+                    f"{facebook_result.get('post_id')}"
+                )
+
+            else:
+
+                news_item["processed"] = False
+
+                news_item["published_to_facebook"] = False
+
+                news_item["facebook_post_id"] = None
+
+                news_item["facebook_error"] = (
+                    facebook_result.get("error")
+                )
+
+                print()
+                print(
+                    "❌ Facebook publishing failed."
+                )
+
+                print(
+                    f"Facebook error: "
+                    f"{facebook_result.get('error')}"
+                )
+
+                continue
+
+            # ------------------------------------------------
+            # إضافة الخبر بعد نجاح النشر
             # ------------------------------------------------
 
             new_news.append(
