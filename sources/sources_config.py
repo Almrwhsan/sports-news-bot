@@ -2,8 +2,8 @@
 # إعداد وتجميع جميع مصادر الأخبار
 # ============================================================
 
-from global_sources import GLOBAL_SOURCES
-from arabic_sources import ARABIC_SOURCES
+from .global_sources import GLOBAL_SOURCES
+from .arabic_sources import ARABIC_SOURCES
 
 
 # ============================================================
