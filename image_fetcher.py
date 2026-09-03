@@ -1,33 +1,119 @@
+# ============================================================
+# جالب صور الأخبار
+# ============================================================
+#
+# المنطق:
+#
+# 1) استخدام الصورة القادمة من RSS إن وجدت.
+# 2) إذا لم توجد صورة في RSS:
+#       فحص صفحة الخبر الأصلية بحثًا عن:
+#       - og:image
+#       - twitter:image
+#       - JSON-LD image
+#       - image_src
+#       - صور المقال
+# 3) إذا كان الخبر فيديو فقط أو لا توجد صورة:
+#       إرجاع None
+#
+# لا يوجد Wikimedia Commons
+# لا يوجد بحث عن صور خارج مصدر الخبر
+# ============================================================
+
 import os
 import re
-import time
+import json
+import hashlib
+from io import BytesIO
+from html.parser import HTMLParser
+from urllib.parse import urljoin, urlparse
+
 import requests
+from PIL import Image
 
 
 # ============================================================
 # إعدادات
 # ============================================================
 
-IMAGE_DIR = "news_images"
-
-COMMONS_API = "https://commons.wikimedia.org/w/api.php"
-
-USER_AGENT = (
-    "SportsNewsBot/1.0 "
-    "(football news image fetcher)"
+BASE_DIR = os.path.dirname(
+    os.path.abspath(__file__)
 )
 
-SEARCH_LIMIT = 10
-IMAGE_WIDTH = 1200
+IMAGE_DIR = os.path.join(
+    BASE_DIR,
+    "news_images"
+)
 
-REQUEST_TIMEOUT = 30
-DOWNLOAD_TIMEOUT = 60
+REQUEST_TIMEOUT = 15
 
-# عدد محاولات البحث القصوى للخبر الواحد
-MAX_SEARCH_ATTEMPTS = 3
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/131.0.0.0 Safari/537.36"
+)
 
-# تأخير بسيط بين طلبات Wikimedia
-REQUEST_DELAY = 1.5
+
+# ============================================================
+# امتدادات الصور
+# ============================================================
+
+IMAGE_EXTENSIONS = (
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".webp",
+    ".gif",
+    ".bmp",
+    ".avif",
+)
+
+
+# ============================================================
+# امتدادات الفيديو
+# ============================================================
+
+VIDEO_EXTENSIONS = (
+    ".mp4",
+    ".webm",
+    ".mov",
+    ".m4v",
+    ".avi",
+    ".mkv",
+    ".m3u8",
+)
+
+
+# ============================================================
+# كلمات تدل غالبًا على صور غير مناسبة
+# ============================================================
+
+IGNORED_IMAGE_WORDS = (
+    "logo",
+    "favicon",
+    "icon",
+    "avatar",
+    "placeholder",
+    "sprite",
+    "default-image",
+    "default_image",
+    "defaultimage",
+    "advert",
+    "advertisement",
+    "banner-ad",
+    "banner_ad",
+)
+
+
+# ============================================================
+# إنشاء مجلد الصور
+# ============================================================
+
+def ensure_image_directory():
+
+    os.makedirs(
+        IMAGE_DIR,
+        exist_ok=True
+    )
 
 
 # ============================================================
@@ -36,833 +122,761 @@ REQUEST_DELAY = 1.5
 
 def safe_filename(text):
 
+    if not text:
+        text = "news"
+
     text = str(text)
 
     text = re.sub(
-        r'[\\/*?:"<>|]',
-        "",
-        text
-    )
-
-    text = re.sub(
-        r"\s+",
+        r"[^\w\-]+",
         "_",
-        text
+        text,
+        flags=re.UNICODE
     )
 
-    text = text[:80]
+    text = text.strip("_")
 
     if not text:
-        text = "football_image"
+        text = "news"
 
-    return text
+    return text[:100]
 
 
 # ============================================================
-# تنظيف نص البحث
+# التحقق من رابط فيديو
 # ============================================================
 
-def clean_search_text(text):
+def is_video_url(url):
 
-    if not text:
-        return ""
+    if not url:
+        return False
 
-    text = str(text)
+    try:
+        path = urlparse(url).path.lower()
+    except Exception:
+        path = url.lower()
 
-    text = re.sub(
-        r"\s+",
-        " ",
-        text
+    return path.endswith(
+        VIDEO_EXTENSIONS
     )
 
-    return text.strip()
-
 
 # ============================================================
-# استخراج أسماء الأندية من العنوان
+# التحقق من رابط صورة
 # ============================================================
 
-def extract_club_terms(title):
+def is_image_url(url):
 
-    title = clean_search_text(
-        title
+    if not url:
+        return False
+
+    try:
+        path = urlparse(url).path.lower()
+    except Exception:
+        path = url.lower()
+
+    return path.endswith(
+        IMAGE_EXTENSIONS
     )
 
-    lower_title = title.lower()
 
-    clubs = [
+# ============================================================
+# التحقق من صورة غير مرغوبة
+# ============================================================
 
-        (
-            "real madrid",
-            "Real Madrid football"
-        ),
+def is_ignored_image(url):
 
-        (
-            "madrid",
-            "Real Madrid football"
-        ),
+    if not url:
+        return True
 
-        (
-            "ريال مدريد",
-            "Real Madrid football"
-        ),
+    lowered = url.lower()
 
-        (
-            "barcelona",
-            "FC Barcelona football"
-        ),
+    for word in IGNORED_IMAGE_WORDS:
 
-        (
-            "barca",
-            "FC Barcelona football"
-        ),
+        if word in lowered:
+            return True
 
-        (
-            "برشلونة",
-            "FC Barcelona football"
-        ),
-
-        (
-            "atletico madrid",
-            "Atletico Madrid football"
-        ),
-
-        (
-            "atlético madrid",
-            "Atletico Madrid football"
-        ),
-
-        (
-            "أتلتيكو مدريد",
-            "Atletico Madrid football"
-        ),
-
-        (
-            "أتليتكو مدريد",
-            "Atletico Madrid football"
-        ),
-
-        (
-            "manchester united",
-            "Manchester United football"
-        ),
-
-        (
-            "manchester city",
-            "Manchester City football"
-        ),
-
-        (
-            "liverpool",
-            "Liverpool FC football"
-        ),
-
-        (
-            "arsenal",
-            "Arsenal FC football"
-        ),
-
-        (
-            "chelsea",
-            "Chelsea FC football"
-        ),
-
-        (
-            "tottenham",
-            "Tottenham Hotspur football"
-        ),
-
-        (
-            "bayern",
-            "Bayern Munich football"
-        ),
-
-        (
-            "borussia dortmund",
-            "Borussia Dortmund football"
-        ),
-
-        (
-            "dortmund",
-            "Borussia Dortmund football"
-        ),
-
-        (
-            "juventus",
-            "Juventus football"
-        ),
-
-        (
-            "psg",
-            "Paris Saint-Germain football"
-        ),
-
-        (
-            "paris saint-germain",
-            "Paris Saint-Germain football"
-        ),
-
-        (
-            "ac milan",
-            "AC Milan football"
-        ),
-
-        (
-            "milan",
-            "AC Milan football"
-        ),
-
-        (
-            "inter milan",
-            "Inter Milan football"
-        ),
-    ]
-
-    found = []
-
-    for keyword, query in clubs:
-
-        if keyword in lower_title:
-
-            if query not in found:
-
-                found.append(
-                    query
-                )
-
-    return found
+    return False
 
 
 # ============================================================
-# استخراج كلمات مهمة من العنوان
+# تحويل الرابط إلى رابط مطلق
 # ============================================================
 
-def extract_person_terms(title):
-
-    title = clean_search_text(
-        title
-    )
-
-    if not title:
-        return []
-
-    terms = []
-
-    # --------------------------------------------------------
-    # أسماء معروفة تظهر كثيرًا في أخبار كرة القدم
-    # --------------------------------------------------------
-
-    known_people = [
-
-        "Benzema",
-        "Karim Benzema",
-
-        "Pogba",
-        "Paul Pogba",
-
-        "Coutinho",
-        "Philippe Coutinho",
-
-        "Mbappe",
-        "Mbappé",
-        "Kylian Mbappe",
-
-        "Vinicius",
-        "Vinicius Junior",
-
-        "Bellingham",
-        "Jude Bellingham",
-
-        "Rodrygo",
-
-        "Modric",
-        "Luka Modric",
-
-        "Kroos",
-        "Toni Kroos",
-
-        "De Bruyne",
-        "Kevin De Bruyne",
-
-        "Haaland",
-        "Erling Haaland",
-
-        "Foden",
-        "Phil Foden",
-
-        "Salah",
-        "Mohamed Salah",
-
-        "Ronaldo",
-        "Cristiano Ronaldo",
-
-        "Messi",
-        "Lionel Messi",
-
-        "Deco",
-
-        "Lewandowski",
-        "Robert Lewandowski",
-
-        "Pedri",
-
-        "Gavi",
-
-        "Yamal",
-        "Lamine Yamal",
-
-        "Neymar",
-
-        "Kane",
-        "Harry Kane",
-
-        "Guardiola",
-        "Pep Guardiola",
-
-        "Mourinho",
-        "Jose Mourinho",
-
-        "Ancelotti",
-        "Carlo Ancelotti",
-    ]
-
-    lower_title = title.lower()
-
-    for person in known_people:
-
-        if person.lower() in lower_title:
-
-            if person not in terms:
-
-                terms.append(
-                    person
-                )
-
-    return terms
-
-
-# ============================================================
-# بناء استعلامات البحث
-# ============================================================
-
-def build_search_queries(
-    title,
-    keywords=None
+def make_absolute_url(
+    image_url,
+    article_url=None
 ):
 
-    title = clean_search_text(
-        title
-    )
+    if not image_url:
+        return None
 
-    queries = []
+    image_url = str(
+        image_url
+    ).strip()
 
-    # --------------------------------------------------------
-    # 1. العنوان الكامل
-    # --------------------------------------------------------
+    if not image_url:
+        return None
 
-    if title:
+    if image_url.startswith(
+        "//"
+    ):
 
-        queries.append(
-            title
+        return "https:" + image_url
+
+    if article_url:
+
+        image_url = urljoin(
+            article_url,
+            image_url
         )
 
-    # --------------------------------------------------------
-    # 2. العنوان + football
-    # --------------------------------------------------------
+    return image_url
 
-    if title:
 
-        queries.append(
-            f"{title} football"
+# ============================================================
+# Parser بسيط لاستخراج بيانات HTML
+# ============================================================
+
+class SourceImageParser(HTMLParser):
+
+    def __init__(self):
+
+        super().__init__(
+            convert_charrefs=True
         )
 
+        self.meta_images = []
+
+        self.link_images = []
+
+        self.img_images = []
+
+        self.json_ld_blocks = []
+
+        self.current_script_type = None
+
+        self.current_script_data = []
+
+        self.og_type = ""
+
+        self.has_video = False
+
+        self.in_article = 0
+
     # --------------------------------------------------------
-    # 3. النادي
+    # بداية العنصر
     # --------------------------------------------------------
 
-    club_queries = extract_club_terms(
-        title
-    )
+    def handle_starttag(
+        self,
+        tag,
+        attrs
+    ):
 
-    for query in club_queries:
-
-        queries.append(
-            query
+        attrs_dict = dict(
+            attrs
         )
 
+        tag = tag.lower()
+
+        # ----------------------------------------------------
+        # Meta
+        # ----------------------------------------------------
+
+        if tag == "meta":
+
+            property_name = (
+                attrs_dict.get(
+                    "property",
+                    ""
+                )
+                or attrs_dict.get(
+                    "name",
+                    ""
+                )
+            ).lower().strip()
+
+            content = (
+                attrs_dict.get(
+                    "content",
+                    ""
+                )
+                or ""
+            ).strip()
+
+            # og:image
+            if property_name in (
+                "og:image",
+                "og:image:url",
+                "og:image:secure_url",
+                "twitter:image",
+                "twitter:image:src",
+            ):
+
+                if content:
+
+                    self.meta_images.append(
+                        content
+                    )
+
+            # og:type
+            if property_name == "og:type":
+
+                self.og_type = (
+                    content.lower()
+                )
+
+        # ----------------------------------------------------
+        # Link image_src
+        # ----------------------------------------------------
+
+        elif tag == "link":
+
+            rel = (
+                attrs_dict.get(
+                    "rel",
+                    ""
+                )
+                or ""
+            ).lower()
+
+            href = (
+                attrs_dict.get(
+                    "href",
+                    ""
+                )
+                or ""
+            ).strip()
+
+            if (
+                "image_src" in rel
+                and href
+            ):
+
+                self.link_images.append(
+                    href
+                )
+
+        # ----------------------------------------------------
+        # صور HTML
+        # ----------------------------------------------------
+
+        elif tag == "img":
+
+            src = (
+                attrs_dict.get(
+                    "src"
+                )
+                or attrs_dict.get(
+                    "data-src"
+                )
+                or attrs_dict.get(
+                    "data-original"
+                )
+                or attrs_dict.get(
+                    "data-lazy-src"
+                )
+                or attrs_dict.get(
+                    "data-lazy"
+                )
+                or ""
+            ).strip()
+
+            if src:
+
+                self.img_images.append(
+                    src
+                )
+
+        # ----------------------------------------------------
+        # فيديو
+        # ----------------------------------------------------
+
+        elif tag in (
+            "video",
+            "iframe",
+            "source",
+        ):
+
+            self.has_video = True
+
+        # ----------------------------------------------------
+        # Article
+        # ----------------------------------------------------
+
+        elif tag in (
+            "article",
+            "main",
+        ):
+
+            self.in_article += 1
+
+        # ----------------------------------------------------
+        # JSON-LD
+        # ----------------------------------------------------
+
+        elif tag == "script":
+
+            script_type = (
+                attrs_dict.get(
+                    "type",
+                    ""
+                )
+                or ""
+            ).lower().strip()
+
+            if (
+                "ld+json"
+                in script_type
+            ):
+
+                self.current_script_type = (
+                    script_type
+                )
+
+                self.current_script_data = []
+
     # --------------------------------------------------------
-    # 4. اللاعب
+    # نص داخل العنصر
     # --------------------------------------------------------
 
-    person_terms = extract_person_terms(
-        title
-    )
+    def handle_data(
+        self,
+        data
+    ):
 
-    for person in person_terms:
+        if self.current_script_type:
 
-        queries.append(
-            f"{person} football"
-        )
-
-    # --------------------------------------------------------
-    # 5. اللاعب + النادي
-    # --------------------------------------------------------
-
-    for person in person_terms:
-
-        for club_query in club_queries:
-
-            queries.append(
-                f"{person} {club_query}"
+            self.current_script_data.append(
+                data
             )
 
     # --------------------------------------------------------
-    # 6. الكلمات الإضافية
+    # نهاية العنصر
     # --------------------------------------------------------
 
-    if keywords:
+    def handle_endtag(
+        self,
+        tag
+    ):
 
-        keyword_text = clean_search_text(
-            keywords
-        )
+        tag = tag.lower()
 
-        if keyword_text:
+        if tag == "script":
 
-            queries.append(
-                f"{keyword_text} football"
+            if self.current_script_type:
+
+                content = "".join(
+                    self.current_script_data
+                ).strip()
+
+                if content:
+
+                    self.json_ld_blocks.append(
+                        content
+                    )
+
+            self.current_script_type = None
+
+            self.current_script_data = []
+
+        elif tag in (
+            "article",
+            "main",
+        ):
+
+            if self.in_article > 0:
+
+                self.in_article -= 1
+
+
+# ============================================================
+# استخراج الصور من JSON-LD
+# ============================================================
+
+def extract_json_ld_images(
+    json_blocks
+):
+
+    images = []
+
+    def collect_images(
+        value
+    ):
+
+        # ----------------------------------------------------
+        # String
+        # ----------------------------------------------------
+
+        if isinstance(
+            value,
+            str
+        ):
+
+            value = value.strip()
+
+            if (
+                value.startswith(
+                    "http://"
+                )
+                or value.startswith(
+                    "https://"
+                )
+                or value.startswith(
+                    "//"
+                )
+                or value.startswith(
+                    "/"
+                )
+            ):
+
+                images.append(
+                    value
+                )
+
+            return
+
+        # ----------------------------------------------------
+        # List
+        # ----------------------------------------------------
+
+        if isinstance(
+            value,
+            list
+        ):
+
+            for item in value:
+
+                collect_images(
+                    item
+                )
+
+            return
+
+        # ----------------------------------------------------
+        # Dictionary
+        # ----------------------------------------------------
+
+        if isinstance(
+            value,
+            dict
+        ):
+
+            # image
+            if "image" in value:
+
+                collect_images(
+                    value["image"]
+                )
+
+            # thumbnailUrl
+            if "thumbnailUrl" in value:
+
+                collect_images(
+                    value["thumbnailUrl"]
+                )
+
+            # contentUrl
+            if "contentUrl" in value:
+
+                collect_images(
+                    value["contentUrl"]
+                )
+
+            return
+
+    for block in json_blocks:
+
+        try:
+
+            data = json.loads(
+                block
             )
 
-    # --------------------------------------------------------
-    # إزالة التكرار
-    # --------------------------------------------------------
+            collect_images(
+                data
+            )
 
-    unique_queries = []
+        except Exception:
 
-    for query in queries:
-
-        query = clean_search_text(
-            query
-        )
-
-        if not query:
             continue
 
-        if query not in unique_queries:
-
-            unique_queries.append(
-                query
-            )
-
-    return unique_queries
+    return images
 
 
 # ============================================================
-# البحث في Wikimedia Commons
+# اختيار صورة مناسبة من HTML
 # ============================================================
 
-def search_commons(query):
+def extract_page_image(
+    html,
+    article_url
+):
 
-    print()
-    print(
-        "Searching Wikimedia Commons..."
-    )
-
-    print(
-        "Query:",
-        query
-    )
-
-    params = {
-
-        "action": "query",
-
-        "generator": "search",
-
-        "gsrsearch": query,
-
-        "gsrnamespace": 6,
-
-        "gsrlimit": SEARCH_LIMIT,
-
-        "prop": "imageinfo",
-
-        "iiprop": (
-            "url|mime|size|extmetadata"
-        ),
-
-        "iiurlwidth": IMAGE_WIDTH,
-
-        "format": "json",
-    }
-
-    headers = {
-        "User-Agent": USER_AGENT
-    }
+    parser = SourceImageParser()
 
     try:
 
-        response = requests.get(
-            COMMONS_API,
-            params=params,
-            headers=headers,
-            timeout=REQUEST_TIMEOUT
+        parser.feed(
+            html
         )
-
-        # ----------------------------------------------------
-        # معالجة 429 بشكل صحيح
-        # ----------------------------------------------------
-
-        if response.status_code == 429:
-
-            retry_after = (
-                response.headers
-                .get(
-                    "Retry-After"
-                )
-            )
-
-            if retry_after:
-
-                try:
-                    wait_seconds = int(
-                        retry_after
-                    )
-                except ValueError:
-                    wait_seconds = 5
-
-            else:
-
-                wait_seconds = 5
-
-            print(
-                "⚠️ Wikimedia rate limit reached."
-            )
-
-            print(
-                f"Waiting {wait_seconds} seconds..."
-            )
-
-            time.sleep(
-                wait_seconds
-            )
-
-            return []
-
-        response.raise_for_status()
-
-        data = response.json()
-
-        pages = (
-            data
-            .get("query", {})
-            .get("pages", {})
-        )
-
-        results = []
-
-        for page in pages.values():
-
-            imageinfo = page.get(
-                "imageinfo",
-                []
-            )
-
-            if not imageinfo:
-
-                continue
-
-            info = imageinfo[0]
-
-            mime = info.get(
-                "mime",
-                ""
-            )
-
-            if not mime.startswith(
-                "image/"
-            ):
-
-                continue
-
-            metadata = info.get(
-                "extmetadata",
-                {}
-            )
-
-            license_name = (
-                metadata
-                .get(
-                    "LicenseShortName",
-                    {}
-                )
-                .get(
-                    "value",
-                    ""
-                )
-            )
-
-            artist = (
-                metadata
-                .get(
-                    "Artist",
-                    {}
-                )
-                .get(
-                    "value",
-                    ""
-                )
-            )
-
-            description_url = (
-                "https://commons.wikimedia.org/wiki/"
-                + page.get(
-                    "title",
-                    ""
-                ).replace(
-                    " ",
-                    "_"
-                )
-            )
-
-            results.append({
-
-                "title": page.get(
-                    "title",
-                    ""
-                ),
-
-                "image_url": info.get(
-                    "thumburl",
-                    info.get(
-                        "url",
-                        ""
-                    )
-                ),
-
-                "original_url": info.get(
-                    "url",
-                    ""
-                ),
-
-                "license": license_name,
-
-                "artist": artist,
-
-                "source_url": description_url,
-
-            })
-
-        print(
-            "Images found:",
-            len(results)
-        )
-
-        return results
-
-    except requests.exceptions.HTTPError as error:
-
-        print(
-            "Commons HTTP error:",
-            error
-        )
-
-        return []
 
     except Exception as error:
 
         print(
-            "Commons search error:",
+            "⚠️ HTML parsing warning:",
             error
         )
 
-        return []
+    # --------------------------------------------------------
+    # إذا كانت الصفحة فيديو بوضوح
+    # --------------------------------------------------------
 
-
-# ============================================================
-# البحث باستخدام استعلامات متعددة
-# ============================================================
-
-def search_commons_multiple(
-    title,
-    keywords=None
-):
-
-    queries = build_search_queries(
-        title,
-        keywords
+    is_video_page = (
+        parser.og_type.startswith(
+            "video"
+        )
+        or parser.og_type in (
+            "video",
+            "video.other",
+            "video.movie",
+            "video.episode",
+            "video.tv_show",
+        )
     )
 
-    print()
-    print(
-        "Search queries:"
+    # --------------------------------------------------------
+    # JSON-LD
+    # --------------------------------------------------------
+
+    json_ld_images = (
+        extract_json_ld_images(
+            parser.json_ld_blocks
+        )
     )
 
-    for index, query in enumerate(
-        queries,
-        start=1
-    ):
+    # --------------------------------------------------------
+    # الأولوية:
+    #
+    # og:image
+    # twitter:image
+    # JSON-LD
+    # image_src
+    # img
+    # --------------------------------------------------------
 
-        print(
-            f"{index}. {query}"
+    candidates = []
+
+    # إذا كانت الصفحة فيديو فقط
+    # لا نستخدم poster أو og:image الخاص بالفيديو.
+    if not is_video_page:
+
+        candidates.extend(
+            parser.meta_images
         )
 
-    all_results = []
-
-    attempts = 0
-
-    for query in queries:
-
-        if attempts >= MAX_SEARCH_ATTEMPTS:
-
-            break
-
-        attempts += 1
-
-        results = search_commons(
-            query
+        candidates.extend(
+            json_ld_images
         )
 
-        # ----------------------------------------------------
-        # إذا حصلنا على نتائج نكتفي بها
-        # ----------------------------------------------------
+        candidates.extend(
+            parser.link_images
+        )
 
-        if results:
+        candidates.extend(
+            parser.img_images
+        )
 
-            all_results.extend(
-                results
+    # --------------------------------------------------------
+    # تنظيف واختيار أول صورة صالحة
+    # --------------------------------------------------------
+
+    unique_candidates = []
+
+    for candidate in candidates:
+
+        candidate = make_absolute_url(
+            candidate,
+            article_url
+        )
+
+        if not candidate:
+            continue
+
+        if is_video_url(
+            candidate
+        ):
+            continue
+
+        if is_ignored_image(
+            candidate
+        ):
+            continue
+
+        if candidate not in unique_candidates:
+
+            unique_candidates.append(
+                candidate
             )
 
-            break
-
-        # ----------------------------------------------------
-        # تأخير قبل الطلب التالي
-        # ----------------------------------------------------
-
-        time.sleep(
-            REQUEST_DELAY
-        )
-
     # --------------------------------------------------------
-    # إزالة الصور المكررة
+    # إرجاع أول صورة
     # --------------------------------------------------------
 
-    unique_results = []
+    if unique_candidates:
 
-    seen_urls = set()
+        return unique_candidates[0]
 
-    for result in all_results:
+    # --------------------------------------------------------
+    # إذا لم توجد صورة وكان هناك فيديو
+    # --------------------------------------------------------
 
-        image_url = result.get(
-            "image_url",
-            ""
-        )
-
-        if not image_url:
-
-            continue
-
-        if image_url in seen_urls:
-
-            continue
-
-        seen_urls.add(
-            image_url
-        )
-
-        unique_results.append(
-            result
-        )
-
-    print()
-    print(
-        "Total unique images:",
-        len(unique_results)
-    )
-
-    return unique_results
-
-
-# ============================================================
-# اختيار الصورة المناسبة
-# ============================================================
-
-def choose_image(results):
-
-    if not results:
+    if (
+        is_video_page
+        or parser.has_video
+    ):
 
         return None
 
-    preferred_results = []
-
-    for result in results:
-
-        license_name = (
-            result.get(
-                "license",
-                ""
-            )
-            .lower()
-        )
-
-        if (
-            "public domain"
-            in license_name
-
-            or "cc0"
-            in license_name
-
-            or "cc by"
-            in license_name
-
-            or "cc-by"
-            in license_name
-        ):
-
-            preferred_results.append(
-                result
-            )
-
-    if preferred_results:
-
-        return preferred_results[0]
-
-    return results[0]
+    return None
 
 
 # ============================================================
-# تنزيل الصورة
+# جلب صفحة الخبر
 # ============================================================
 
-def download_image(
-    image_url,
-    output_path
+def fetch_article_page(
+    article_url
 ):
 
-    print(
-        "Downloading image..."
-    )
+    if not article_url:
 
-    headers = {
-        "User-Agent": USER_AGENT
-    }
+        return None
 
     try:
 
         response = requests.get(
-            image_url,
-            headers=headers,
-            timeout=DOWNLOAD_TIMEOUT
+            article_url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": (
+                    "text/html,"
+                    "application/xhtml+xml,"
+                    "application/xml;q=0.9,"
+                    "*/*;q=0.8"
+                ),
+                "Accept-Language": (
+                    "en-US,en;q=0.9"
+                ),
+            },
+            timeout=REQUEST_TIMEOUT,
+            allow_redirects=True,
         )
 
         response.raise_for_status()
 
         content_type = (
-            response.headers
-            .get(
+            response.headers.get(
                 "Content-Type",
                 ""
+            ).lower()
+        )
+
+        if (
+            "text/html"
+            not in content_type
+            and "application/xhtml"
+            not in content_type
+        ):
+
+            print(
+                "⚠️ Source page is not HTML."
             )
-            .lower()
+
+            return None
+
+        return response.text
+
+    except requests.RequestException as error:
+
+        print(
+            "⚠️ Failed to fetch article page:",
+            error
+        )
+
+        return None
+
+    except Exception as error:
+
+        print(
+            "⚠️ Unexpected article page error:",
+            error
+        )
+
+        return None
+
+
+# ============================================================
+# تنزيل الصورة والتحقق منها
+# ============================================================
+
+def download_image(
+    image_url,
+    title
+):
+
+    if not image_url:
+
+        return None
+
+    if is_video_url(
+        image_url
+    ):
+
+        print(
+            "⚠️ Media URL is a video."
+        )
+
+        return None
+
+    if is_ignored_image(
+        image_url
+    ):
+
+        print(
+            "⚠️ Ignored image URL."
+        )
+
+        return None
+
+    try:
+
+        response = requests.get(
+            image_url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": (
+                    "image/avif,image/webp,"
+                    "image/apng,image/svg+xml,"
+                    "image/*,*/*;q=0.8"
+                ),
+            },
+            timeout=REQUEST_TIMEOUT,
+            allow_redirects=True,
+        )
+
+        response.raise_for_status()
+
+        # ----------------------------------------------------
+        # التحقق من Content-Type
+        # ----------------------------------------------------
+
+        content_type = (
+            response.headers.get(
+                "Content-Type",
+                ""
+            ).lower()
         )
 
         if not content_type.startswith(
@@ -870,335 +884,353 @@ def download_image(
         ):
 
             print(
-                "Downloaded file is not an image."
+                "⚠️ URL did not return an image."
             )
 
-            return False
+            return None
 
-        with open(
+        # ----------------------------------------------------
+        # فتح الصورة بواسطة Pillow
+        # ----------------------------------------------------
+
+        image_data = response.content
+
+        if not image_data:
+
+            return None
+
+        try:
+
+            image = Image.open(
+                BytesIO(image_data)
+            )
+
+            image.load()
+
+        except Exception as error:
+
+            print(
+                "⚠️ Invalid image:",
+                error
+            )
+
+            return None
+
+        # ----------------------------------------------------
+        # التحقق من الحجم
+        # ----------------------------------------------------
+
+        width, height = image.size
+
+        if (
+            width < 200
+            or height < 120
+        ):
+
+            print(
+                f"⚠️ Image too small: "
+                f"{width}x{height}"
+            )
+
+            return None
+
+        # ----------------------------------------------------
+        # تجهيز الصورة
+        # ----------------------------------------------------
+
+        if image.mode in (
+            "RGBA",
+            "LA",
+            "P",
+        ):
+
+            background = Image.new(
+                "RGB",
+                image.size,
+                "white"
+            )
+
+            if image.mode == "P":
+
+                image = image.convert(
+                    "RGBA"
+                )
+
+            background.paste(
+                image,
+                mask=(
+                    image.getchannel("A")
+                    if "A" in image.getbands()
+                    else None
+                ),
+            )
+
+            image = background
+
+        else:
+
+            image = image.convert(
+                "RGB"
+            )
+
+        # ----------------------------------------------------
+        # اسم فريد للصورة
+        # ----------------------------------------------------
+
+        title_part = safe_filename(
+            title
+        )
+
+        url_hash = hashlib.sha1(
+            image_url.encode(
+                "utf-8",
+                errors="ignore"
+            )
+        ).hexdigest()[:12]
+
+        filename = (
+            f"{title_part}_"
+            f"{url_hash}.jpg"
+        )
+
+        ensure_image_directory()
+
+        output_path = os.path.join(
+            IMAGE_DIR,
+            filename
+        )
+
+        # ----------------------------------------------------
+        # حفظ JPEG
+        # ----------------------------------------------------
+
+        image.save(
             output_path,
-            "wb"
-        ) as file:
+            "JPEG",
+            quality=92,
+            optimize=True
+        )
 
-            file.write(
-                response.content
-            )
+        # ----------------------------------------------------
+        # التأكد من وجود الملف
+        # ----------------------------------------------------
 
-        print(
-            "Image downloaded:",
+        if not os.path.exists(
             output_path
+        ):
+
+            return None
+
+        print(
+            f"✅ Source image downloaded: "
+            f"{output_path}"
         )
 
-        return True
+        print(
+            f"   Size: {width}x{height}"
+        )
+
+        return output_path
+
+    except requests.RequestException as error:
+
+        print(
+            "⚠️ Failed to download image:",
+            error
+        )
+
+        return None
 
     except Exception as error:
 
         print(
-            "Image download error:",
+            "⚠️ Image processing error:",
             error
         )
 
-        return False
+        return None
 
 
 # ============================================================
-# حفظ معلومات الصورة
-# ============================================================
-
-def save_image_metadata(
-    output_path,
-    selected
-):
-
-    metadata_path = (
-        output_path
-        + ".txt"
-    )
-
-    try:
-
-        with open(
-            metadata_path,
-            "w",
-            encoding="utf-8"
-        ) as file:
-
-            file.write(
-                "Title: "
-                + selected.get(
-                    "title",
-                    ""
-                )
-                + "\n"
-            )
-
-            file.write(
-                "License: "
-                + selected.get(
-                    "license",
-                    ""
-                )
-                + "\n"
-            )
-
-            file.write(
-                "Artist: "
-                + selected.get(
-                    "artist",
-                    ""
-                )
-                + "\n"
-            )
-
-            file.write(
-                "Source: "
-                + selected.get(
-                    "source_url",
-                    ""
-                )
-                + "\n"
-            )
-
-            file.write(
-                "Original URL: "
-                + selected.get(
-                    "original_url",
-                    ""
-                )
-                + "\n"
-            )
-
-        print(
-            "Image metadata saved:",
-            metadata_path
-        )
-
-    except Exception as error:
-
-        print(
-            "Metadata save error:",
-            error
-        )
-
-
-# ============================================================
-# الوظيفة الرئيسية
+# الدالة الرئيسية
 # ============================================================
 
 def fetch_news_image(
     title,
-    keywords=None
+    keywords=None,
+    article_url=None,
+    image_url=None,
+    media_type=None
 ):
 
-    os.makedirs(
-        IMAGE_DIR,
-        exist_ok=True
-    )
-
-    title = clean_search_text(
-        title
-    )
-
-    if not title:
-
-        print(
-            "Empty title. Cannot search for image."
-        )
-
-        return None
-
-    # --------------------------------------------------------
-    # البحث
-    # --------------------------------------------------------
-
-    results = search_commons_multiple(
-        title,
-        keywords
-    )
-
-    if not results:
-
-        print(
-            "No suitable images found."
-        )
-
-        return None
-
-    # --------------------------------------------------------
-    # اختيار الصورة
-    # --------------------------------------------------------
-
-    selected = choose_image(
-        results
-    )
-
-    if not selected:
-
-        print(
-            "Could not select an image."
-        )
-
-        return None
-
     print()
     print(
-        "Selected image:"
+        "==================================="
+    )
+    print(
+        "SOURCE IMAGE FETCHER"
+    )
+    print(
+        "==================================="
     )
 
     print(
-        "Title:",
-        selected.get(
-            "title",
-            ""
-        )
-    )
-
-    print(
-        "License:",
-        selected.get(
-            "license",
-            ""
-        )
-    )
-
-    print(
-        "Artist:",
-        selected.get(
-            "artist",
-            ""
-        )
-    )
-
-    print(
-        "Source:",
-        selected.get(
-            "source_url",
-            ""
-        )
+        f"📰 Title: {title}"
     )
 
     # --------------------------------------------------------
-    # اسم الملف
+    # المرحلة الأولى:
+    # صورة RSS
     # --------------------------------------------------------
 
-    filename = (
-        safe_filename(title)
-        + ".jpg"
-    )
+    if image_url:
 
-    output_path = os.path.join(
-        IMAGE_DIR,
-        filename
-    )
+        print(
+            "📡 RSS image found."
+        )
+
+        image_url = make_absolute_url(
+            image_url,
+            article_url
+        )
+
+        # ----------------------------------------------------
+        # إذا كانت RSS تشير إلى فيديو
+        # ----------------------------------------------------
+
+        if (
+            media_type == "video"
+            and not image_url
+        ):
+
+            print(
+                "🎥 RSS item is video only."
+            )
+
+            return None
+
+        # ----------------------------------------------------
+        # إذا كان الرابط نفسه فيديو
+        # ----------------------------------------------------
+
+        if is_video_url(
+            image_url
+        ):
+
+            print(
+                "🎥 RSS media is video."
+            )
+
+            return None
+
+        # ----------------------------------------------------
+        # محاولة تنزيل صورة RSS
+        # ----------------------------------------------------
+
+        downloaded_path = download_image(
+            image_url=image_url,
+            title=title,
+        )
+
+        if downloaded_path:
+
+            return {
+                "image_path": downloaded_path,
+                "image_url": image_url,
+                "source_url": article_url,
+                "license": None,
+                "artist": None,
+                "title": title,
+            }
+
+        print(
+            "⚠️ RSS image could not be downloaded."
+        )
 
     # --------------------------------------------------------
-    # تنزيل
+    # المرحلة الثانية:
+    # إذا كان RSS يقول فيديو ولا توجد صورة
     # --------------------------------------------------------
 
-    success = download_image(
-        selected.get(
-            "image_url",
-            ""
-        ),
-        output_path
-    )
+    if (
+        media_type == "video"
+        and not image_url
+    ):
 
-    if not success:
+        print(
+            "🎥 Source contains video only."
+        )
+
+        print(
+            "➡️ No external image search will be used."
+        )
 
         return None
 
     # --------------------------------------------------------
-    # حفظ معلومات المصدر
+    # المرحلة الثالثة:
+    # فحص صفحة الخبر الأصلية
     # --------------------------------------------------------
 
-    save_image_metadata(
-        output_path,
-        selected
-    )
+    if article_url:
+
+        print(
+            "🌐 Checking original article page..."
+        )
+
+        html = fetch_article_page(
+            article_url
+        )
+
+        if html:
+
+            page_image_url = extract_page_image(
+                html,
+                article_url
+            )
+
+            if page_image_url:
+
+                print(
+                    "🖼️ Image found on original article page."
+                )
+
+                downloaded_path = download_image(
+                    image_url=page_image_url,
+                    title=title,
+                )
+
+                if downloaded_path:
+
+                    return {
+                        "image_path": downloaded_path,
+                        "image_url": page_image_url,
+                        "source_url": article_url,
+                        "license": None,
+                        "artist": None,
+                        "title": title,
+                    }
+
+                print(
+                    "⚠️ Article image could not be downloaded."
+                )
+
+            else:
+
+                print(
+                    "⚠️ No suitable image found on article page."
+                )
 
     # --------------------------------------------------------
-    # النتيجة
+    # لا توجد صورة
     # --------------------------------------------------------
 
-    return {
-
-        "image_path": output_path,
-
-        "license": selected.get(
-            "license",
-            ""
-        ),
-
-        "artist": selected.get(
-            "artist",
-            ""
-        ),
-
-        "source_url": selected.get(
-            "source_url",
-            ""
-        ),
-
-        "title": selected.get(
-            "title",
-            ""
-        ),
-
-    }
-
-
-# ============================================================
-# اختبار مستقل
-# ============================================================
-
-if __name__ == "__main__":
-
-    TEST_TITLE = (
-        "Real Madrid signs a new midfielder"
+    print(
+        "❌ No source image available."
     )
 
-    result = fetch_news_image(
-        title=TEST_TITLE
+    print(
+        "➡️ Returning None for logo fallback."
     )
 
-    print()
-
-    if result:
-
-        print(
-            "==================================="
-        )
-
-        print(
-            "IMAGE FETCH SUCCESS"
-        )
-
-        print(
-            "Image:",
-            result["image_path"]
-        )
-
-        print(
-            "License:",
-            result["license"]
-        )
-
-        print(
-            "Artist:",
-            result["artist"]
-        )
-
-        print(
-            "Source:",
-            result["source_url"]
-        )
-
-        print(
-            "==================================="
-        )
-
-    else:
-
-        print(
-            "IMAGE FETCH FAILED"
-    )
+    return None
