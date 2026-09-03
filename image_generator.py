@@ -1,6 +1,5 @@
 import os
 import re
-import urllib.request
 from PIL import (
     Image,
     ImageDraw,
@@ -25,16 +24,6 @@ PAGE_NAME = "نبض مدريد"
 LOGO_PATH = "logo.jpg"
 FONT_FILE = "Cairo-Bold.ttf"
 
-# تنزيل خط Cairo-Bold تلقائياً في حال عدم وجوده بالمجلد
-if not os.path.exists(FONT_FILE):
-    try:
-        print("📥 جاري تنزيل خط Cairo-Bold الاحترافي...")
-        font_url = "https://github.com/google/fonts/raw/main/ofl/cairo/static/Cairo-Bold.ttf"
-        urllib.request.urlretrieve(font_url, FONT_FILE)
-        print("✅ تم تنزيل الخط بنجاح!")
-    except Exception as e:
-        print(f"⚠️ تعذر تنزيل الخط تلقائياً: {e}")
-
 
 # ============================================================
 # 2. الألوان
@@ -53,7 +42,7 @@ MUTED_TEXT = (140, 145, 160)
 
 
 # ============================================================
-# 3. تحميل الخطوط
+# 3. تحميل الخطوط (محلياً وبشكل أولي)
 # ============================================================
 
 FONT_PATHS_BOLD = [
@@ -72,6 +61,14 @@ FONT_PATHS_NORMAL = [
 
 
 def load_font(size, bold=True):
+    # 1. تجربة تحميل الملف المحلي Cairo-Bold أولاً
+    if os.path.exists(FONT_FILE):
+        try:
+            return ImageFont.truetype(FONT_FILE, size)
+        except Exception as e:
+            print(f"⚠️ تعذر تحميل الخط المحلي {FONT_FILE}: {e}")
+
+    # 2. البحث في باقي القوائم الاحتياطية
     paths = FONT_PATHS_BOLD if bold else FONT_PATHS_NORMAL
     for path in paths:
         if os.path.exists(path):
@@ -79,6 +76,7 @@ def load_font(size, bold=True):
                 return ImageFont.truetype(path, size)
             except Exception:
                 pass
+
     return ImageFont.load_default()
 
 
@@ -354,5 +352,5 @@ if __name__ == "__main__":
     generate_news_image(
         title="خبر هام وعاجل: تفاصيل تفاصيل جديدة تظهر اليوم",
         category="football"
-    )
+            )
     
