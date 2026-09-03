@@ -18,7 +18,6 @@ from image_generator import generate_news_image
 
 from facebook_publisher import publish_text_post
 
-
 # ============================================================
 # إعدادات
 # ============================================================
