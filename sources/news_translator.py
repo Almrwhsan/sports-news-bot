@@ -7,6 +7,7 @@ import urllib.parse
 import urllib.request
 import json
 import html
+import time
 
 
 # ============================================================
@@ -14,6 +15,7 @@ import html
 # ============================================================
 
 TRANSLATION_TIMEOUT = 15
+TRANSLATION_RETRIES = 2
 
 
 # ============================================================
@@ -23,32 +25,14 @@ TRANSLATION_TIMEOUT = 15
 def clean_text(text):
 
     if not text:
-
         return ""
-
-    # --------------------------------------------------------
-    # التأكد من أن القيمة نص
-    # --------------------------------------------------------
 
     text = str(text)
 
-    # --------------------------------------------------------
-    # فك HTML entities
-    #
-    # مثال:
-    # &lt;div&gt;  -> <div>
-    # &amp;      -> &
-    # &quot;     -> "
-    # --------------------------------------------------------
+    # فك ترميز HTML
+    text = html.unescape(text)
 
-    text = html.unescape(
-        text
-    )
-
-    # --------------------------------------------------------
-    # تحويل وسوم HTML الخاصة بالفواصل إلى مسافة
-    # --------------------------------------------------------
-
+    # تحويل BR إلى مسافة
     text = re.sub(
         r"<\s*(br|br/|br\s*/)\s*>",
         " ",
@@ -56,48 +40,24 @@ def clean_text(text):
         flags=re.IGNORECASE
     )
 
-    # --------------------------------------------------------
-    # إزالة وسوم HTML المتبقية
-    #
-    # مثال:
-    # <div style="direction: rtl;">
-    # </div>
-    # <p>...</p>
-    # --------------------------------------------------------
-
+    # إزالة HTML
     text = re.sub(
         r"<[^>]+>",
         " ",
         text
     )
 
-    # --------------------------------------------------------
-    # فك HTML entities مرة ثانية
-    #
-    # لأن بعض المصادر قد تحتوي على:
-    # &lt;div&gt;
-    # وبعد فكها تصبح:
-    # <div>
-    # --------------------------------------------------------
+    # فك الترميز مرة أخرى
+    text = html.unescape(text)
 
-    text = html.unescape(
-        text
-    )
-
-    # --------------------------------------------------------
-    # إزالة أي وسوم HTML متبقية بعد الفك
-    # --------------------------------------------------------
-
+    # إزالة أي HTML متبقٍ
     text = re.sub(
         r"<[^>]+>",
         " ",
         text
     )
 
-    # --------------------------------------------------------
-    # تنظيف المسافات والأسطر الزائدة
-    # --------------------------------------------------------
-
+    # توحيد المسافات
     text = re.sub(
         r"\s+",
         " ",
@@ -105,6 +65,57 @@ def clean_text(text):
     ).strip()
 
     return text
+
+
+# ============================================================
+# التحقق من وجود أحرف عربية
+# ============================================================
+
+def contains_arabic(text):
+
+    if not text:
+        return False
+
+    return bool(
+        re.search(
+            r"[\u0600-\u06FF"
+            r"\u0750-\u077F"
+            r"\u08A0-\u08FF"
+            r"\uFB50-\uFDFF"
+            r"\uFE70-\uFEFF]",
+            str(text)
+        )
+    )
+
+
+# ============================================================
+# تحديد لغة المصدر
+# ============================================================
+
+def normalize_source_language(language):
+
+    if not language:
+        return "auto"
+
+    language = str(
+        language
+    ).lower().strip()
+
+    # أمثلة:
+    # es-ES -> es
+    # en-US -> en
+    # ar-SA -> ar
+
+    if language.startswith("es"):
+        return "es"
+
+    if language.startswith("en"):
+        return "en"
+
+    if language.startswith("ar"):
+        return "ar"
+
+    return "auto"
 
 
 # ============================================================
@@ -122,10 +133,134 @@ def needs_translation(news):
         .strip()
     )
 
-    return language not in (
-        "",
+    # إذا كان الخبر عربيًا فلا يحتاج ترجمة
+    if language in (
         "ar",
         "arabic",
+    ):
+        return False
+
+    # إذا لم يتم تحديد اللغة،
+    # نتحقق من النص نفسه
+    if not language:
+
+        title = clean_text(
+            news.get(
+                "title",
+                ""
+            )
+        )
+
+        summary = clean_text(
+            news.get(
+                "summary",
+                ""
+            )
+        )
+
+        if (
+            contains_arabic(title)
+            or contains_arabic(summary)
+        ):
+            return False
+
+    return True
+
+
+# ============================================================
+# التحقق من صحة الترجمة
+# ============================================================
+
+def is_valid_translation(
+    original,
+    translated,
+    target_language="ar"
+):
+
+    original = clean_text(
+        original
+    )
+
+    translated = clean_text(
+        translated
+    )
+
+    if not translated:
+        return False
+
+    # الترجمة العربية يجب أن تحتوي على أحرف عربية
+    if target_language == "ar":
+
+        if not contains_arabic(
+            translated
+        ):
+            return False
+
+    # إذا كانت الترجمة مطابقة تمامًا للنص الأصلي
+    # وكان النص الأصلي غير عربي، فهذا ليس ترجمة
+    if (
+        original
+        and translated.casefold()
+        == original.casefold()
+        and not contains_arabic(original)
+    ):
+        return False
+
+    return True
+
+
+# ============================================================
+# استخراج الترجمة من استجابة Google
+# ============================================================
+
+def extract_translation(data):
+
+    if not data:
+        return ""
+
+    try:
+
+        parts = data[0]
+
+    except (
+        IndexError,
+        TypeError,
+    ):
+        return ""
+
+    translated_parts = []
+
+    if not isinstance(
+        parts,
+        list
+    ):
+        return ""
+
+    for part in parts:
+
+        if not part:
+            continue
+
+        if not isinstance(
+            part,
+            list
+        ):
+            continue
+
+        if len(part) < 2:
+            continue
+
+        translated_part = part[0]
+
+        if translated_part:
+            translated_parts.append(
+                str(translated_part)
+            )
+
+    return clean_text(
+        " ".join(
+            translated_parts
+        )
     )
 
 
@@ -139,84 +274,148 @@ def translate_text(
     target_language="ar"
 ):
 
-    # --------------------------------------------------------
-    # تنظيف النص قبل الترجمة
-    # --------------------------------------------------------
-
     text = clean_text(
         text
     )
 
     if not text:
-
         return ""
 
-    # --------------------------------------------------------
-    # Google Translate endpoint
-    # --------------------------------------------------------
+    # إذا كان النص عربيًا بالفعل
+    if (
+        target_language == "ar"
+        and contains_arabic(text)
+    ):
+        return text
+
+    normalized_source = (
+        normalize_source_language(
+            source_language
+        )
+    )
 
     encoded_text = urllib.parse.quote(
         text
     )
 
-    url = (
-        "https://translate.googleapis.com/"
-        "translate_a/single"
-        "?client=gtx"
-        f"&sl={source_language}"
-        f"&tl={target_language}"
-        "&dt=t"
-        f"&q={encoded_text}"
+    # ========================================================
+    # المحاولة الأولى
+    # ========================================================
+
+    source_languages = [
+        normalized_source
+    ]
+
+    # إذا كانت اللغة غير معروفة،
+    # نستخدم auto مباشرة
+    if normalized_source == "ar":
+
+        return text
+
+    # في حالة تحديد لغة معينة،
+    # نضيف auto كمحاولة احتياطية
+    if normalized_source != "auto":
+
+        source_languages.append(
+            "auto"
+        )
+
+    for current_source in source_languages:
+
+        for attempt in range(
+            TRANSLATION_RETRIES
+        ):
+
+            url = (
+                "https://translate.googleapis.com/"
+                "translate_a/single"
+                "?client=gtx"
+                f"&sl={current_source}"
+                f"&tl={target_language}"
+                "&dt=t"
+                f"&q={encoded_text}"
+            )
+
+            try:
+
+                request = urllib.request.Request(
+                    url,
+                    headers={
+                        "User-Agent":
+                            "Mozilla/5.0"
+                    }
+                )
+
+                with urllib.request.urlopen(
+                    request,
+                    timeout=TRANSLATION_TIMEOUT
+                ) as response:
+
+                    raw_data = response.read()
+
+                    data = json.loads(
+                        raw_data.decode(
+                            "utf-8"
+                        )
+                    )
+
+                translated = (
+                    extract_translation(
+                        data
+                    )
+                )
+
+                # =================================================
+                # التحقق الحقيقي من النتيجة
+                # =================================================
+
+                if is_valid_translation(
+                    text,
+                    translated,
+                    target_language
+                ):
+
+                    return translated
+
+                print(
+                    "⚠️ Translation returned "
+                    "an invalid/non-Arabic result "
+                    f"(source={current_source}, "
+                    f"attempt={attempt + 1})"
+                )
+
+            except Exception as error:
+
+                print(
+                    "⚠️ Translation attempt failed: "
+                    f"{error} "
+                    f"(source={current_source}, "
+                    f"attempt={attempt + 1})"
+                )
+
+            # انتظار بسيط قبل إعادة المحاولة
+            if attempt < (
+                TRANSLATION_RETRIES - 1
+            ):
+
+                time.sleep(1)
+
+    # ========================================================
+    # فشل نهائي
+    # ========================================================
+
+    print(
+        "❌ Translation failed after "
+        "all attempts."
     )
 
-    try:
-
-        request = urllib.request.Request(
-            url,
-            headers={
-                "User-Agent": "Mozilla/5.0"
-            }
-        )
-
-        with urllib.request.urlopen(
-            request,
-            timeout=TRANSLATION_TIMEOUT
-        ) as response:
-
-            data = json.loads(
-                response.read().decode(
-                    "utf-8"
-                )
-            )
-
-        translated_parts = []
-
-        for part in data[0]:
-
-            if part and part[0]:
-
-                translated_parts.append(
-                    part[0]
-                )
-
-        # ----------------------------------------------------
-        # تنظيف الترجمة أيضًا
-        # ----------------------------------------------------
-
-        return clean_text(
-            " ".join(
-                translated_parts
-            )
-        )
-
-    except Exception as error:
-
-        print(
-            f"❌ Translation failed: "
-            f"{error}"
-        )
-
-        return ""
+    # مهم جدًا:
+    # لا نعيد النص الأصلي هنا.
+    #
+    # لأن إعادة النص الأصلي كانت سبب المشكلة
+    # التي جعلت الإسبانية تظهر في arabic_title
+    # و arabic_summary.
+    return ""
 
 
 # ============================================================
@@ -229,81 +428,187 @@ def translate_news_item(news):
         news
     )
 
-    # --------------------------------------------------------
+    title = clean_text(
+        news.get(
+            "title",
+            ""
+        )
+    )
+
+    summary = clean_text(
+        news.get(
+            "summary",
+            ""
+        )
+    )
+
+    # ========================================================
     # الخبر عربي أصلًا
-    # --------------------------------------------------------
+    # ========================================================
 
     if not needs_translation(
         news
     ):
 
-        translated_news["arabic_title"] = (
-            clean_text(
-                news.get(
-                    "title",
-                    ""
-                )
-            )
-        )
+        translated_news[
+            "arabic_title"
+        ] = title
 
-        translated_news["arabic_summary"] = (
-            clean_text(
-                news.get(
-                    "summary",
-                    ""
-                )
-            )
-        )
+        translated_news[
+            "arabic_summary"
+        ] = summary
+
+        translated_news[
+            "translation_failed"
+        ] = False
 
         return translated_news
 
-    # --------------------------------------------------------
-    # ترجمة العنوان
-    # --------------------------------------------------------
+    # ========================================================
+    # تحديد لغة المصدر
+    # ========================================================
 
-    title = news.get(
-        "title",
-        ""
+    source_language = (
+        normalize_source_language(
+            news.get(
+                "language",
+                ""
+            )
+        )
     )
+
+    # ========================================================
+    # ترجمة العنوان
+    # ========================================================
 
     translated_title = translate_text(
         title,
-        source_language="auto",
+        source_language=source_language,
         target_language="ar"
     )
 
-    # --------------------------------------------------------
+    # ========================================================
     # ترجمة الملخص
-    # --------------------------------------------------------
-
-    summary = news.get(
-        "summary",
-        ""
-    )
+    # ========================================================
 
     translated_summary = translate_text(
         summary,
-        source_language="auto",
+        source_language=source_language,
         target_language="ar"
     )
 
-    # --------------------------------------------------------
-    # تنظيف النتائج النهائية
-    # --------------------------------------------------------
+    # ========================================================
+    # التحقق من العنوان
+    # ========================================================
 
-    translated_news["arabic_title"] = (
-        clean_text(
+    title_valid = is_valid_translation(
+        title,
+        translated_title,
+        "ar"
+    )
+
+    # ========================================================
+    # التحقق من الملخص
+    # ========================================================
+
+    summary_valid = True
+
+    # إذا كان هناك ملخص أصلًا،
+    # فيجب أن تكون ترجمته صحيحة
+    if summary:
+
+        summary_valid = is_valid_translation(
+            summary,
+            translated_summary,
+            "ar"
+        )
+
+    # ========================================================
+    # التعامل مع فشل الترجمة
+    # ========================================================
+
+    if not title_valid:
+
+        print(
+            "❌ Arabic title translation "
+            "failed."
+        )
+
+        print(
+            f"Original title: {title}"
+        )
+
+        translated_news[
+            "arabic_title"
+        ] = ""
+
+    else:
+
+        translated_news[
+            "arabic_title"
+        ] = clean_text(
             translated_title
-            or title
         )
-    )
 
-    translated_news["arabic_summary"] = (
-        clean_text(
-            translated_summary
-            or summary
+    # ========================================================
+    # التعامل مع فشل ترجمة الملخص
+    # ========================================================
+
+    if not summary:
+
+        translated_news[
+            "arabic_summary"
+        ] = ""
+
+    elif not summary_valid:
+
+        print(
+            "❌ Arabic summary translation "
+            "failed."
         )
-    )
+
+        print(
+            f"Original summary: {summary}"
+        )
+
+        translated_news[
+            "arabic_summary"
+        ] = ""
+
+    else:
+
+        translated_news[
+            "arabic_summary"
+        ] = clean_text(
+            translated_summary
+        )
+
+    # ========================================================
+    # حالة الترجمة
+    # ========================================================
+
+    translated_news[
+        "translation_failed"
+    ] = not title_valid
+
+    # ========================================================
+    # تشخيص إضافي
+    # ========================================================
+
+    if translated_news[
+        "translation_failed"
+    ]:
+
+        print(
+            "⚠️ News translation was "
+            "not accepted."
+        )
+
+        print(
+            "⚠️ The original non-Arabic "
+            "title will NOT be stored "
+            "as arabic_title."
+        )
 
     return translated_news
 
