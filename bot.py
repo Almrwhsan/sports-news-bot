@@ -914,12 +914,15 @@ def main():
         )
         print("-----------------------------------")
 
-        facebook_result = publish_text_post(
-            news_item.get(
+                facebook_result = publish_post(
+            message=news_item.get(
                 "post_text",
                 ""
+            ),
+            image_path=news_item.get(
+                "image"
             )
-        )
+                )
 
         # ====================================================
         # نجاح النشر
