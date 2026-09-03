@@ -14,7 +14,7 @@ from bidi.algorithm import get_display
 
 
 # ============================================================
-# 1. المسارات الأساسية
+# 1. المسارات والإعدادات
 # ============================================================
 
 BASE_DIR = os.path.dirname(
@@ -36,26 +36,23 @@ FONT_FILE = os.path.join(
     "Cairo-Bold.ttf"
 )
 
-LOGO_FILE = os.path.join(
-    BASE_DIR,
-    "logo.jpg"
-)
-
 
 # ============================================================
 # 2. الألوان
 # ============================================================
 
-BACKGROUND_DARK = (10, 12, 18)
+BACKGROUND_DARK = (8, 10, 16)
 BACKGROUND_MID = (17, 21, 30)
-BACKGROUND_CARD = (20, 24, 34)
+BACKGROUND_CARD = (18, 22, 32)
 
 ACCENT_RED = (220, 20, 50)
 ACCENT_GOLD = (235, 180, 45)
 
 WHITE = (255, 255, 255)
-LIGHT_GRAY = (210, 215, 225)
-MUTED_TEXT = (140, 145, 160)
+LIGHT_GRAY = (215, 218, 225)
+MUTED_TEXT = (145, 150, 165)
+
+BORDER = (75, 80, 95)
 
 
 # ============================================================
@@ -64,7 +61,7 @@ MUTED_TEXT = (140, 145, 160)
 
 def load_font(size):
     """
-    تحميل Cairo-Bold الموجود بجانب bot.py.
+    تحميل Cairo-Bold.ttf من نفس مجلد المشروع.
     """
 
     if os.path.isfile(FONT_FILE):
@@ -75,23 +72,24 @@ def load_font(size):
             )
         except Exception as error:
             print(
-                f"⚠️ تعذر تحميل Cairo-Bold.ttf: {error}"
+                f"⚠️ تعذر تحميل الخط: {error}"
             )
 
     print(
-        "⚠️ لم يتم العثور على Cairo-Bold.ttf"
+        f"⚠️ الخط غير موجود: {FONT_FILE}"
     )
 
     return ImageFont.load_default()
 
 
 # ============================================================
-# 4. معالجة النص العربي
+# 4. معالجة العربية
 # ============================================================
 
 def fix_arabic(text):
     """
-    تحويل النص العربي إلى الشكل المناسب للرسم بواسطة Pillow.
+    تجهيز النص العربي للرسم باستخدام:
+    arabic_reshaper + python-bidi
     """
 
     if text is None:
@@ -111,34 +109,90 @@ def fix_arabic(text):
 
     except Exception as error:
         print(
-            f"⚠️ خطأ في معالجة النص العربي: {error}"
+            f"⚠️ خطأ في معالجة العربية: {error}"
         )
 
         return text
 
 
 # ============================================================
-# 5. رسم النص من اليمين إلى اليسار
+# 5. تنظيف النص
 # ============================================================
 
-def draw_rtl_text(
+def clean_text(text):
+
+    if text is None:
+        return ""
+
+    text = str(text)
+
+    # إزالة المسافات الزائدة
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    ).strip()
+
+    return text
+
+
+# ============================================================
+# 6. حساب عرض النص العربي بعد المعالجة
+# ============================================================
+
+def get_text_size(
     draw,
     text,
-    x,
-    y,
+    font
+):
+
+    fixed_text = fix_arabic(
+        text
+    )
+
+    if not fixed_text:
+        return 0, 0
+
+    bbox = draw.textbbox(
+        (0, 0),
+        fixed_text,
+        font=font
+    )
+
+    width = (
+        bbox[2] - bbox[0]
+    )
+
+    height = (
+        bbox[3] - bbox[1]
+    )
+
+    return width, height
+
+
+# ============================================================
+# 7. رسم النص العربي من اليمين
+# ============================================================
+
+def draw_arabic_text(
+    draw,
+    text,
+    right_x,
+    top_y,
     font,
     fill=WHITE
 ):
-    """
-    رسم النص العربي بمحاذاة يمين ثابتة.
-    لا نعتمد على anchor=ra لأن بعض بيئات Pillow/Linux
-    قد تتعامل معه بشكل غير متوقع مع النص المعالج بـ Bidi.
-    """
 
-    fixed_text = fix_arabic(text)
+    text = clean_text(
+        text
+    )
 
-    if not fixed_text:
+    if not text:
         return
+
+    fixed_text = fix_arabic(
+        text
+    )
 
     bbox = draw.textbbox(
         (0, 0),
@@ -150,24 +204,33 @@ def draw_rtl_text(
         bbox[2] - bbox[0]
     )
 
+    # محاذاة يدوية من اليمين
+    x = (
+        right_x
+        -
+        text_width
+    )
+
     draw.text(
         (
-            x - text_width,
-            y
+            x,
+            top_y
         ),
         fixed_text,
-        fill=fill,
-        font=font
+        font=font,
+        fill=fill
     )
 
 
 # ============================================================
-# 6. اسم ملف آمن
+# 8. اسم ملف آمن
 # ============================================================
 
 def safe_filename(text):
 
-    text = str(text)
+    text = clean_text(
+        text
+    )
 
     text = re.sub(
         r'[\\/*?:"<>|]',
@@ -187,15 +250,14 @@ def safe_filename(text):
         text
     )
 
-    return (
-        text[:80]
-        if text
-        else "news_card"
-    )
+    if not text:
+        text = "news_card"
+
+    return text[:80]
 
 
 # ============================================================
-# 7. الخلفية الحديثة
+# 9. الخلفية
 # ============================================================
 
 def create_modern_background():
@@ -209,13 +271,17 @@ def create_modern_background():
         BACKGROUND_DARK
     )
 
-    draw = ImageDraw.Draw(image)
+    draw = ImageDraw.Draw(
+        image
+    )
 
     # --------------------------------------------------------
-    # التدرج الرأسي
+    # تدرج الخلفية
     # --------------------------------------------------------
 
-    for y in range(IMAGE_HEIGHT):
+    for y in range(
+        IMAGE_HEIGHT
+    ):
 
         ratio = (
             y /
@@ -230,7 +296,8 @@ def create_modern_background():
                 -
                 BACKGROUND_DARK[0]
             )
-            * ratio
+            *
+            ratio
         )
 
         g = int(
@@ -241,7 +308,8 @@ def create_modern_background():
                 -
                 BACKGROUND_DARK[1]
             )
-            * ratio
+            *
+            ratio
         )
 
         b = int(
@@ -252,15 +320,22 @@ def create_modern_background():
                 -
                 BACKGROUND_DARK[2]
             )
-            * ratio
+            *
+            ratio
         )
 
         draw.line(
-            [
-                (0, y),
-                (IMAGE_WIDTH, y)
-            ],
-            fill=(r, g, b)
+            (
+                0,
+                y,
+                IMAGE_WIDTH,
+                y
+            ),
+            fill=(
+                r,
+                g,
+                b
+            )
         )
 
     # --------------------------------------------------------
@@ -273,16 +348,28 @@ def create_modern_background():
             IMAGE_WIDTH,
             IMAGE_HEIGHT
         ),
-        (0, 0, 0, 0)
+        (
+            0,
+            0,
+            0,
+            0
+        )
     )
 
-    glow_draw = ImageDraw.Draw(glow)
+    glow_draw = ImageDraw.Draw(
+        glow
+    )
 
     glow_draw.ellipse(
-        (-250, -250, 500, 500),
+        (
+            -250,
+            -250,
+            500,
+            500
+        ),
         fill=(
             *ACCENT_RED,
-            55
+            50
         )
     )
 
@@ -295,7 +382,7 @@ def create_modern_background():
         ),
         fill=(
             *ACCENT_RED,
-            40
+            35
         )
     )
 
@@ -308,12 +395,14 @@ def create_modern_background():
         ),
         fill=(
             *ACCENT_GOLD,
-            20
+            18
         )
     )
 
     glow = glow.filter(
-        ImageFilter.GaussianBlur(110)
+        ImageFilter.GaussianBlur(
+            110
+        )
     )
 
     image = Image.alpha_composite(
@@ -325,7 +414,9 @@ def create_modern_background():
     # الخطوط الهندسية
     # --------------------------------------------------------
 
-    draw = ImageDraw.Draw(image)
+    draw = ImageDraw.Draw(
+        image
+    )
 
     for x in range(
         -400,
@@ -334,60 +425,44 @@ def create_modern_background():
     ):
 
         draw.line(
-            [
-                (x, 0),
-                (x - 420, IMAGE_HEIGHT)
-            ],
+            (
+                x,
+                0,
+                x - 420,
+                IMAGE_HEIGHT
+            ),
             fill=(
-                255,
-                255,
-                255
+                45,
+                49,
+                60
             ),
             width=1
         )
-
-    # --------------------------------------------------------
-    # طبقة داكنة
-    # --------------------------------------------------------
-
-    overlay = Image.new(
-        "RGBA",
-        (
-            IMAGE_WIDTH,
-            IMAGE_HEIGHT
-        ),
-        (
-            10,
-            12,
-            18,
-            190
-        )
-    )
-
-    image = Image.alpha_composite(
-        image.convert("RGBA"),
-        overlay
-    ).convert("RGB")
 
     return image
 
 
 # ============================================================
-# 8. إيجاد الشعار
+# 10. العثور على الشعار
 # ============================================================
 
 def find_logo_file():
 
-    possible_files = [
-        os.path.join(BASE_DIR, "logo.jpg"),
-        os.path.join(BASE_DIR, "logo.png"),
-        os.path.join(BASE_DIR, "logo.jpeg"),
-        os.path.join(BASE_DIR, "logo.webp"),
-        os.path.join(BASE_DIR, "LOGO.JPG"),
-        os.path.join(BASE_DIR, "LOGO.PNG"),
+    candidates = [
+        "logo.jpg",
+        "logo.jpeg",
+        "logo.png",
+        "logo.webp",
+        "LOGO.JPG",
+        "LOGO.PNG",
     ]
 
-    for path in possible_files:
+    for filename in candidates:
+
+        path = os.path.join(
+            BASE_DIR,
+            filename
+        )
 
         if os.path.isfile(path):
             return path
@@ -396,47 +471,10 @@ def find_logo_file():
 
 
 # ============================================================
-# 9. تجهيز الشعار كصورة مربعة
+# 11. تحميل صورة الخبر
 # ============================================================
 
-def prepare_logo(size):
-
-    logo_path = find_logo_file()
-
-    if not logo_path:
-        return None
-
-    try:
-
-        logo = Image.open(
-            logo_path
-        ).convert("RGBA")
-
-        logo = ImageOps.contain(
-            logo,
-            (
-                size,
-                size
-            ),
-            method=Image.Resampling.LANCZOS
-        )
-
-        return logo
-
-    except Exception as error:
-
-        print(
-            f"⚠️ خطأ في تحميل الشعار: {error}"
-        )
-
-        return None
-
-
-# ============================================================
-# 10. صورة الخبر الحقيقية
-# ============================================================
-
-def load_real_image(
+def load_news_image(
     image_path,
     width,
     height
@@ -445,16 +483,18 @@ def load_real_image(
     if not image_path:
         return None
 
-    # إذا كان المسار نسبيًا
-    if not os.path.isabs(image_path):
+    if not os.path.isabs(
+        image_path
+    ):
 
         image_path = os.path.join(
             BASE_DIR,
             image_path
         )
 
-    if not os.path.isfile(image_path):
-
+    if not os.path.isfile(
+        image_path
+    ):
         print(
             f"⚠️ الصورة غير موجودة: {image_path}"
         )
@@ -481,14 +521,49 @@ def load_real_image(
     except Exception as error:
 
         print(
-            f"⚠️ خطأ في فتح صورة الخبر: {error}"
+            f"⚠️ تعذر فتح صورة الخبر: {error}"
         )
 
         return None
 
 
 # ============================================================
-# 11. مربع الصورة الرئيسي
+# 12. إنشاء قناع دائري للشعار
+# ============================================================
+
+def create_circle_mask(
+    width,
+    height
+):
+
+    mask = Image.new(
+        "L",
+        (
+            width,
+            height
+        ),
+        0
+    )
+
+    draw = ImageDraw.Draw(
+        mask
+    )
+
+    draw.ellipse(
+        (
+            0,
+            0,
+            width - 1,
+            height - 1
+        ),
+        fill=255
+    )
+
+    return mask
+
+
+# ============================================================
+# 13. مربع الصورة الرئيسي
 # ============================================================
 
 def add_main_content_image(
@@ -497,7 +572,7 @@ def add_main_content_image(
 ):
 
     x1 = 60
-    y1 = 160
+    y1 = 155
     x2 = 1020
     y2 = 640
 
@@ -505,16 +580,17 @@ def add_main_content_image(
     height = y2 - y1
 
     # ========================================================
-    # الحالة الأولى: صورة الخبر موجودة
+    # الحالة الأولى:
+    # توجد صورة حقيقية للخبر
     # ========================================================
 
-    photo = load_real_image(
+    news_photo = load_news_image(
         image_path,
         width,
         height
     )
 
-    if photo is not None:
+    if news_photo is not None:
 
         mask = Image.new(
             "L",
@@ -525,23 +601,21 @@ def add_main_content_image(
             0
         )
 
-        mask_draw = ImageDraw.Draw(
+        ImageDraw.Draw(
             mask
-        )
-
-        mask_draw.rounded_rectangle(
+        ).rounded_rectangle(
             (
                 0,
                 0,
                 width,
                 height
             ),
-            radius=28,
+            radius=30,
             fill=255
         )
 
         image.paste(
-            photo,
+            news_photo,
             (
                 x1,
                 y1
@@ -553,7 +627,6 @@ def add_main_content_image(
             image
         )
 
-        # إطار الصورة
         draw.rounded_rectangle(
             (
                 x1,
@@ -561,21 +634,17 @@ def add_main_content_image(
                 x2,
                 y2
             ),
-            radius=28,
-            outline=(
-                100,
-                105,
-                120
-            ),
+            radius=30,
+            outline=BORDER,
             width=2
         )
 
-        # شريط أحمر صغير
+        # شريط أحمر علوي
         draw.rounded_rectangle(
             (
                 x1,
                 y1,
-                x1 + 155,
+                x1 + 170,
                 y1 + 8
             ),
             radius=4,
@@ -583,19 +652,23 @@ def add_main_content_image(
         )
 
         print(
-            "🖼️ تم استخدام صورة الخبر الأصلية."
+            "🖼️ تم استخدام صورة الخبر."
         )
 
         return
 
     # ========================================================
-    # الحالة الثانية: لا توجد صورة
-    #
-    # نستخدم شعار الصفحة داخل نفس مربع الصورة
+    # الحالة الثانية:
+    # لا توجد صورة
+    # نستخدم شعار الصفحة
     # ========================================================
 
     print(
-        "ℹ️ لا توجد صورة للخبر، سيتم استخدام شعار الصفحة."
+        "ℹ️ لا توجد صورة للخبر."
+    )
+
+    print(
+        "🛡️ سيتم استخدام شعار الصفحة."
     )
 
     card = Image.new(
@@ -608,135 +681,193 @@ def add_main_content_image(
     )
 
     # --------------------------------------------------------
-    # خلفية بسيطة للشعار
+    # Glow خلف الشعار
     # --------------------------------------------------------
 
-    card_overlay = Image.new(
+    glow = Image.new(
         "RGBA",
         (
             width,
             height
         ),
-        (0, 0, 0, 0)
-    )
-
-    overlay_draw = ImageDraw.Draw(
-        card_overlay
-    )
-
-    overlay_draw.ellipse(
         (
-            width // 2 - 250,
-            height // 2 - 250,
-            width // 2 + 250,
-            height // 2 + 250
-        ),
-        fill=(
-            *ACCENT_RED,
-            30
+            0,
+            0,
+            0,
+            0
         )
     )
 
-    card_overlay = card_overlay.filter(
-        ImageFilter.GaussianBlur(80)
+    glow_draw = ImageDraw.Draw(
+        glow
+    )
+
+    glow_draw.ellipse(
+        (
+            width // 2 - 260,
+            height // 2 - 260,
+            width // 2 + 260,
+            height // 2 + 260
+        ),
+        fill=(
+            *ACCENT_RED,
+            35
+        )
+    )
+
+    glow = glow.filter(
+        ImageFilter.GaussianBlur(
+            80
+        )
     )
 
     card = Image.alpha_composite(
         card.convert("RGBA"),
-        card_overlay
+        glow
     ).convert("RGB")
 
     # --------------------------------------------------------
     # الشعار
     # --------------------------------------------------------
 
-    logo = prepare_logo(300)
+    logo_path = find_logo_file()
 
-    if logo is not None:
+    if logo_path:
 
-        logo_x = (
-            x1
-            +
-            (width - logo.width) // 2
-        )
+        try:
 
-        logo_y = (
-            y1
-            +
-            (height - logo.height) // 2
-        )
+            logo = Image.open(
+                logo_path
+            ).convert("RGBA")
 
-        # ظل خفيف
-        shadow = Image.new(
-            "RGBA",
-            (
-                logo.width + 30,
-                logo.height + 30
-            ),
-            (0, 0, 0, 0)
-        )
+            # نريد الشعار واضحًا وكبيرًا
+            max_logo_size = min(
+                width,
+                height
+            ) - 90
 
-        shadow_blur = Image.new(
-            "RGBA",
-            shadow.size,
-            (0, 0, 0, 0)
-        )
-
-        shadow_draw = ImageDraw.Draw(
-            shadow_blur
-        )
-
-        shadow_draw.rounded_rectangle(
-            (
-                8,
-                8,
-                shadow.width - 8,
-                shadow.height - 8
-            ),
-            radius=20,
-            fill=(
-                0,
-                0,
-                0,
-                120
+            logo = ImageOps.contain(
+                logo,
+                (
+                    max_logo_size,
+                    max_logo_size
+                ),
+                method=Image.Resampling.LANCZOS
             )
-        )
 
-        shadow_blur = shadow_blur.filter(
-            ImageFilter.GaussianBlur(15)
-        )
+            # ------------------------------------------------
+            # إذا كان الشعار أصغر من المطلوب،
+            # نضمن أن يكون حجمه واضحًا
+            # ------------------------------------------------
 
-        card.paste(
-            shadow_blur,
-            (
-                logo_x - 15,
-                logo_y - 15
-            ),
-            shadow_blur
-        )
+            min_logo_size = 260
 
-        card.paste(
-            logo,
-            (
-                logo_x,
-                logo_y
-            ),
-            logo
-        )
+            if logo.width < min_logo_size:
+
+                target = min_logo_size
+
+                logo = ImageOps.contain(
+                    logo,
+                    (
+                        target,
+                        target
+                    ),
+                    method=Image.Resampling.LANCZOS
+                )
+
+            logo_x = (
+                (width - logo.width)
+                // 2
+            )
+
+            logo_y = (
+                (height - logo.height)
+                // 2
+            )
+
+            # ------------------------------------------------
+            # ظل الشعار
+            # ------------------------------------------------
+
+            shadow = Image.new(
+                "RGBA",
+                logo.size,
+                (
+                    0,
+                    0,
+                    0,
+                    0
+                )
+            )
+
+            shadow_draw = ImageDraw.Draw(
+                shadow
+            )
+
+            shadow_draw.rectangle(
+                (
+                    10,
+                    10,
+                    logo.width - 10,
+                    logo.height - 10
+                ),
+                fill=(
+                    0,
+                    0,
+                    0,
+                    120
+                )
+            )
+
+            shadow = shadow.filter(
+                ImageFilter.GaussianBlur(
+                    18
+                )
+            )
+
+            card.paste(
+                shadow,
+                (
+                    logo_x + 8,
+                    logo_y + 12
+                ),
+                shadow
+            )
+
+            # ------------------------------------------------
+            # الشعار
+            # ------------------------------------------------
+
+            card.paste(
+                logo,
+                (
+                    logo_x,
+                    logo_y
+                ),
+                logo
+            )
+
+        except Exception as error:
+
+            print(
+                f"⚠️ خطأ في الشعار: {error}"
+            )
 
     else:
 
         # ----------------------------------------------------
-        # إذا لم يوجد logo.jpg إطلاقًا
+        # fallback أخير
         # ----------------------------------------------------
 
         print(
-            "⚠️ لم يتم العثور على logo.jpg"
+            "⚠️ logo.jpg غير موجود."
         )
 
-        font = load_font(42)
+        font = load_font(
+            52
+        )
 
-        placeholder = fix_arabic(
+        text = fix_arabic(
             PAGE_NAME
         )
 
@@ -744,15 +875,15 @@ def add_main_content_image(
             card
         ).textbbox(
             (0, 0),
-            placeholder,
+            text,
             font=font
         )
 
-        text_width = (
+        tw = (
             bbox[2] - bbox[0]
         )
 
-        text_height = (
+        th = (
             bbox[3] - bbox[1]
         )
 
@@ -760,24 +891,47 @@ def add_main_content_image(
             card
         ).text(
             (
-                (width - text_width) // 2,
-                (height - text_height) // 2
+                (width - tw) // 2,
+                (height - th) // 2
             ),
-            placeholder,
-            fill=WHITE,
-            font=font
+            text,
+            font=font,
+            fill=WHITE
         )
 
     # --------------------------------------------------------
-    # وضع البطاقة داخل التصميم
+    # وضع البطاقة
     # --------------------------------------------------------
+
+    mask = Image.new(
+        "L",
+        (
+            width,
+            height
+        ),
+        0
+    )
+
+    ImageDraw.Draw(
+        mask
+    ).rounded_rectangle(
+        (
+            0,
+            0,
+            width,
+            height
+        ),
+        radius=30,
+        fill=255
+    )
 
     image.paste(
         card,
         (
             x1,
             y1
-        )
+        ),
+        mask
     )
 
     draw = ImageDraw.Draw(
@@ -791,12 +945,8 @@ def add_main_content_image(
             x2,
             y2
         ),
-        radius=28,
-        outline=(
-            80,
-            85,
-            100
-        ),
+        radius=30,
+        outline=BORDER,
         width=2
     )
 
@@ -804,7 +954,7 @@ def add_main_content_image(
         (
             x1,
             y1,
-            x1 + 155,
+            x1 + 170,
             y1 + 8
         ),
         radius=4,
@@ -813,25 +963,27 @@ def add_main_content_image(
 
 
 # ============================================================
-# 12. الهيدر والشعار
+# 14. الهيدر
 # ============================================================
 
-def draw_header_and_brand(image):
+def draw_header(
+    image
+):
 
     draw = ImageDraw.Draw(
         image
     )
 
+    # --------------------------------------------------------
+    # الشعار العلوي
+    # --------------------------------------------------------
+
     logo_size = 64
 
     logo_x = 952
-    logo_y = 50
+    logo_y = 45
 
     logo_path = find_logo_file()
-
-    # --------------------------------------------------------
-    # الشعار الدائري
-    # --------------------------------------------------------
 
     if logo_path:
 
@@ -850,33 +1002,17 @@ def draw_header_and_brand(image):
                 method=Image.Resampling.LANCZOS
             )
 
-            mask = Image.new(
-                "L",
-                (
-                    logo_size,
-                    logo_size
-                ),
-                0
-            )
-
-            ImageDraw.Draw(
-                mask
-            ).ellipse(
-                (
-                    0,
-                    0,
-                    logo_size,
-                    logo_size
-                ),
-                fill=255
+            mask = create_circle_mask(
+                logo_size,
+                logo_size
             )
 
             draw.ellipse(
                 (
-                    logo_x - 3,
-                    logo_y - 3,
-                    logo_x + logo_size + 3,
-                    logo_y + logo_size + 3
+                    logo_x - 4,
+                    logo_y - 4,
+                    logo_x + logo_size + 4,
+                    logo_y + logo_size + 4
                 ),
                 outline=ACCENT_GOLD,
                 width=2
@@ -894,47 +1030,36 @@ def draw_header_and_brand(image):
         except Exception as error:
 
             print(
-                f"⚠️ خطأ في قراءة الشعار: {error}"
+                f"⚠️ خطأ في شعار الهيدر: {error}"
             )
-
-    else:
-
-        draw.ellipse(
-            (
-                logo_x,
-                logo_y,
-                logo_x + logo_size,
-                logo_y + logo_size
-            ),
-            outline=ACCENT_GOLD,
-            width=3
-        )
 
     # --------------------------------------------------------
     # اسم الصفحة
     # --------------------------------------------------------
 
-    page_font = load_font(38)
+    page_font = load_font(
+        38
+    )
 
-    draw_rtl_text(
+    draw_arabic_text(
         draw,
         PAGE_NAME,
         930,
-        58,
+        53,
         page_font,
         WHITE
     )
 
     # --------------------------------------------------------
-    # الزخرفة العلوية
+    # الزخرفة
     # --------------------------------------------------------
 
     draw.rounded_rectangle(
         (
             60,
-            65,
+            62,
             180,
-            73
+            70
         ),
         radius=4,
         fill=ACCENT_RED
@@ -943,33 +1068,23 @@ def draw_header_and_brand(image):
     draw.ellipse(
         (
             190,
-            61,
+            58,
             202,
-            73
+            70
         ),
         fill=ACCENT_GOLD
     )
 
 
 # ============================================================
-# 13. تصنيف الخبر
+# 15. تصنيف الخبر
 # ============================================================
 
-def get_category_label(category):
+def get_category_label(
+    category
+):
 
     labels = {
-
-        "transfers":
-            "انتقالات",
-
-        "injuries":
-            "إصابات",
-
-        "matches":
-            "مباريات",
-
-        "breaking":
-            "عاجل",
 
         "football":
             "كرة القدم",
@@ -985,6 +1100,18 @@ def get_category_label(category):
 
         "world_football":
             "كرة عالمية",
+
+        "transfers":
+            "انتقالات",
+
+        "injuries":
+            "إصابات",
+
+        "matches":
+            "مباريات",
+
+        "breaking":
+            "عاجل",
     }
 
     return labels.get(
@@ -994,10 +1121,10 @@ def get_category_label(category):
 
 
 # ============================================================
-# 14. تقسيم العنوان العربي
+# 16. بناء سطور العنوان
 # ============================================================
 
-def split_title_into_lines(
+def build_title_lines(
     draw,
     title,
     font,
@@ -1005,78 +1132,139 @@ def split_title_into_lines(
     max_lines=3
 ):
 
-    words = str(title).split()
+    title = clean_text(
+        title
+    )
 
-    if not words:
+    if not title:
         return []
+
+    words = title.split()
 
     lines = []
 
-    current_line = ""
+    current = ""
 
     for word in words:
 
-        test_line = (
-            word
-            if not current_line
-            else
-            current_line
-            + " "
-            + word
-        )
+        if not current:
 
-        fixed_line = fix_arabic(
-            test_line
-        )
-
-        bbox = draw.textbbox(
-            (0, 0),
-            fixed_line,
-            font=font
-        )
-
-        line_width = (
-            bbox[2] - bbox[0]
-        )
-
-        if line_width <= max_width:
-
-            current_line = test_line
+            candidate = word
 
         else:
 
-            if current_line:
+            candidate = (
+                current
+                +
+                " "
+                +
+                word
+            )
+
+        width, _ = get_text_size(
+            draw,
+            candidate,
+            font
+        )
+
+        if width <= max_width:
+
+            current = candidate
+
+        else:
+
+            if current:
+
                 lines.append(
-                    current_line
+                    current
                 )
 
-            current_line = word
+            current = word
 
-    if current_line:
+    if current:
+
         lines.append(
-            current_line
+            current
         )
 
     # --------------------------------------------------------
-    # إذا تجاوز 3 أسطر، نختصر السطر الأخير
+    # لا نتجاوز 3 أسطر
     # --------------------------------------------------------
 
-    if len(lines) > max_lines:
+    if len(lines) <= max_lines:
 
-        lines = lines[:max_lines]
+        return lines
 
-        last = lines[-1].strip()
+    # --------------------------------------------------------
+    # دمج ما تبقى في السطر الثالث
+    # --------------------------------------------------------
 
-        if not last.endswith("..."):
-            last += "..."
+    first_lines = lines[
+        :max_lines - 1
+    ]
 
-        lines[-1] = last
+    remaining = " ".join(
+        lines[
+            max_lines - 1:
+        ]
+    )
 
-    return lines
+    # حاول إدخال أكبر قدر ممكن
+    # من السطر الأخير
+    last_line = ""
+
+    for word in remaining.split():
+
+        candidate = (
+            word
+            if not last_line
+            else
+            last_line
+            +
+            " "
+            +
+            word
+        )
+
+        width, _ = get_text_size(
+            draw,
+            candidate,
+            font
+        )
+
+        if width <= max_width:
+
+            last_line = candidate
+
+        else:
+
+            break
+
+    if not last_line:
+
+        last_line = (
+            remaining
+        )
+
+    if len(
+        " ".join(
+            first_lines
+            +
+            [last_line]
+        )
+    ) < len(title):
+
+        last_line += "…"
+
+    return (
+        first_lines
+        +
+        [last_line]
+    )
 
 
 # ============================================================
-# 15. جسم الخبر
+# 17. جسم الخبر
 # ============================================================
 
 def draw_news_body(
@@ -1097,15 +1285,20 @@ def draw_news_body(
         category
     )
 
-    category_font = load_font(26)
+    category_font = load_font(
+        25
+    )
 
-    fixed_category = fix_arabic(
+    category_fixed = fix_arabic(
         category_text
     )
 
     bbox = draw.textbbox(
-        (0, 0),
-        fixed_category,
+        (
+            0,
+            0
+        ),
+        category_fixed,
         font=category_font
     )
 
@@ -1132,36 +1325,36 @@ def draw_news_body(
         padding_y * 2
     )
 
-    badge_x2 = 1020
-    badge_x1 = (
-        badge_x2
+    badge_right = 1020
+    badge_left = (
+        badge_right
         -
         badge_width
     )
 
-    badge_y1 = 675
-    badge_y2 = (
-        badge_y1
+    badge_top = 675
+    badge_bottom = (
+        badge_top
         +
         badge_height
     )
 
     draw.rounded_rectangle(
         (
-            badge_x1,
-            badge_y1,
-            badge_x2,
-            badge_y2
+            badge_left,
+            badge_top,
+            badge_right,
+            badge_bottom
         ),
         radius=16,
         fill=ACCENT_RED
     )
 
-    draw_rtl_text(
+    draw_arabic_text(
         draw,
         category_text,
-        badge_x2 - padding_x,
-        badge_y1 + padding_y - 2,
+        badge_right - padding_x,
+        badge_top + padding_y - 2,
         category_font,
         WHITE
     )
@@ -1170,33 +1363,33 @@ def draw_news_body(
     # العنوان
     # --------------------------------------------------------
 
-    max_width = 940
+    max_width = 920
 
-    font_sizes = [
+    font_candidates = [
         46,
         42,
         38,
-        34
+        35,
+        32
     ]
 
     selected_font = None
     selected_lines = []
 
-    for font_size in font_sizes:
+    for size in font_candidates:
 
         font = load_font(
-            font_size
+            size
         )
 
-        lines = split_title_into_lines(
+        lines = build_title_lines(
             draw,
             title,
             font,
             max_width,
-            max_lines=3
+            3
         )
 
-        # نستخدم أول حجم يعطي نتيجة مناسبة
         if len(lines) <= 3:
 
             selected_font = font
@@ -1207,32 +1400,32 @@ def draw_news_body(
     if selected_font is None:
 
         selected_font = load_font(
-            34
+            32
         )
 
-        selected_lines = split_title_into_lines(
+        selected_lines = build_title_lines(
             draw,
             title,
             selected_font,
             max_width,
-            max_lines=3
+            3
         )
 
     # --------------------------------------------------------
     # رسم العنوان
     # --------------------------------------------------------
 
-    font_size = selected_font.size
-
-    line_spacing = int(
-        font_size * 1.35
+    line_height = int(
+        selected_font.size
+        *
+        1.45
     )
 
     start_y = 755
 
     for line in selected_lines:
 
-        draw_rtl_text(
+        draw_arabic_text(
             draw,
             line,
             1020,
@@ -1241,20 +1434,22 @@ def draw_news_body(
             WHITE
         )
 
-        start_y += line_spacing
+        start_y += line_height
 
 
 # ============================================================
-# 16. التذييل
+# 18. التذييل
 # ============================================================
 
-def draw_footer(image):
+def draw_footer(
+    image
+):
 
     draw = ImageDraw.Draw(
         image
     )
 
-    y = 1000
+    y = 995
 
     draw.line(
         (
@@ -1282,26 +1477,28 @@ def draw_footer(image):
         fill=ACCENT_RED
     )
 
-    font = load_font(22)
+    footer_font = load_font(
+        21
+    )
 
-    footer_text = (
+    footer = (
         PAGE_NAME
         +
         " • المصدر الرسمي"
     )
 
-    draw_rtl_text(
+    draw_arabic_text(
         draw,
-        footer_text,
+        footer,
         1020,
         y + 15,
-        font,
+        footer_font,
         MUTED_TEXT
     )
 
 
 # ============================================================
-# 17. الدالة الرئيسية
+# 19. الدالة الرئيسية
 # ============================================================
 
 def generate_news_image(
@@ -1311,8 +1508,16 @@ def generate_news_image(
     output_path=None
 ):
 
+    title = clean_text(
+        title
+    )
+
+    if not title:
+
+        title = "خبر رياضي"
+
     # --------------------------------------------------------
-    # إنشاء الخلفية
+    # الخلفية
     # --------------------------------------------------------
 
     image = create_modern_background()
@@ -1321,12 +1526,12 @@ def generate_news_image(
     # الهيدر
     # --------------------------------------------------------
 
-    draw_header_and_brand(
+    draw_header(
         image
     )
 
     # --------------------------------------------------------
-    # صورة الخبر أو الشعار
+    # الصورة أو الشعار
     # --------------------------------------------------------
 
     add_main_content_image(
@@ -1335,7 +1540,7 @@ def generate_news_image(
     )
 
     # --------------------------------------------------------
-    # عنوان وتصنيف الخبر
+    # النص
     # --------------------------------------------------------
 
     draw_news_body(
@@ -1345,7 +1550,7 @@ def generate_news_image(
     )
 
     # --------------------------------------------------------
-    # Footer
+    # التذييل
     # --------------------------------------------------------
 
     draw_footer(
@@ -1353,7 +1558,7 @@ def generate_news_image(
     )
 
     # --------------------------------------------------------
-    # إنشاء مجلد الصور
+    # مجلد الإخراج
     # --------------------------------------------------------
 
     os.makedirs(
@@ -1365,7 +1570,7 @@ def generate_news_image(
     # اسم الملف
     # --------------------------------------------------------
 
-    if not output_path:
+    if output_path is None:
 
         filename = (
             safe_filename(title)
@@ -1388,7 +1593,7 @@ def generate_news_image(
         )
 
     # --------------------------------------------------------
-    # الحفظ
+    # حفظ الصورة
     # --------------------------------------------------------
 
     image.save(
@@ -1398,20 +1603,25 @@ def generate_news_image(
     )
 
     print(
-        f"✅ تم إنشاء الصورة بنجاح: {output_path}"
+        f"✅ تم إنشاء الصورة: {output_path}"
     )
 
     return output_path
 
 
 # ============================================================
-# 18. اختبار مباشر
+# 20. اختبار الملف
 # ============================================================
 
 if __name__ == "__main__":
 
+    test_title = (
+        "ريال مدريد يستعد لمواجهة قوية "
+        "في الدوري الإسباني"
+    )
+
     generate_news_image(
-        title="ريال مدريد يستعد لمواجهة قوية في الدوري الإسباني",
+        title=test_title,
         category="real_madrid",
         image_path=None
     )
