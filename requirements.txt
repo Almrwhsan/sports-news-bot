@@ -2,3 +2,5 @@ feedparser==6.0.11
 google-genai
 Pillow
 requests
+arabic-reshaper
+python-bidi
