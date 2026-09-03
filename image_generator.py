@@ -11,7 +11,6 @@ from PIL import (
 import arabic_reshaper
 from bidi.algorithm import get_display
 
-
 # ============================================================
 # 1. إعدادات التصميم الأساسية
 # ============================================================
@@ -21,9 +20,7 @@ IMAGE_HEIGHT = 1080
 
 OUTPUT_DIR = "generated_images"
 PAGE_NAME = "نبض مدريد"
-LOGO_PATH = "logo.jpg"
 FONT_FILE = "Cairo-Bold.ttf"
-
 
 # ============================================================
 # 2. الألوان
@@ -40,69 +37,40 @@ WHITE = (255, 255, 255)
 LIGHT_GRAY = (210, 215, 225)
 MUTED_TEXT = (140, 145, 160)
 
-
 # ============================================================
-# 3. تحميل الخطوط (محلياً وبشكل أولي)
+# 3. تحميل الخط المحلي
 # ============================================================
-
-FONT_PATHS_BOLD = [
-    FONT_FILE,
-    "Cairo-Bold.ttf",
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-    "arialbd.ttf",
-]
-
-FONT_PATHS_NORMAL = [
-    FONT_FILE,
-    "Cairo-Regular.ttf",
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
-    "arial.ttf",
-]
-
 
 def load_font(size, bold=True):
-    # 1. تجربة تحميل الملف المحلي Cairo-Bold أولاً
     if os.path.exists(FONT_FILE):
         try:
             return ImageFont.truetype(FONT_FILE, size)
-        except Exception as e:
-            print(f"⚠️ تعذر تحميل الخط المحلي {FONT_FILE}: {e}")
-
-    # 2. البحث في باقي القوائم الاحتياطية
-    paths = FONT_PATHS_BOLD if bold else FONT_PATHS_NORMAL
-    for path in paths:
-        if os.path.exists(path):
-            try:
-                return ImageFont.truetype(path, size)
-            except Exception:
-                pass
-
+        except Exception:
+            pass
     return ImageFont.load_default()
 
-
 # ============================================================
-# 4. معالجة النص العربي
+# 4. معالجة النص العربي الاحترافية (حل مشكلة النصوص المقلوبة)
 # ============================================================
 
 def fix_arabic(text):
     if not text:
         return ""
-    text = str(text)
+    text = str(text).strip()
     try:
-        reshaped = arabic_reshaper.reshape(text)
-        return get_display(reshaped)
+        # إعداد تشكيل النصوص العربية بشكل صحيح لبيئات Linux/Gasp
+        reshaped_text = arabic_reshaper.reshape(text)
+        bidi_text = get_display(reshaped_text)
+        return bidi_text
     except Exception:
         return text
-
 
 def safe_filename(text):
     text = str(text)
     text = re.sub(r'[\\/*?:"<>|]', "", text)
     text = re.sub(r"\s+", "_", text)
     text = re.sub(r"_+", "_", text)
-    text = text[:100]
-    return text if text else "news_card"
-
+    return text[:60] if text else "news_card"
 
 # ============================================================
 # 5. الخلفية الهندسية
@@ -140,7 +108,6 @@ def create_modern_background():
 
     return image
 
-
 # ============================================================
 # 6. بطاقة الصورة الرئيسية
 # ============================================================
@@ -172,7 +139,7 @@ def add_main_content_image(image, image_path=None):
     draw_card = ImageDraw.Draw(card_bg)
     
     placeholder_text = fix_arabic("صورة الخبر")
-    font = load_font(52, bold=True)
+    font = load_font(48, bold=True)
     
     bbox = draw_card.textbbox((0, 0), placeholder_text, font=font)
     tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
@@ -182,21 +149,27 @@ def add_main_content_image(image, image_path=None):
     draw = ImageDraw.Draw(image)
     draw.rounded_rectangle((x1, y1, x2, y2), radius=28, outline=(80, 85, 100), width=2)
 
+# ============================================================
+# 7. الهيدر واللوجو (البحث عن الشعار بكافة الامتدادات)
+# ============================================================
 
-# ============================================================
-# 7. الهيدر واللوجو
-# ============================================================
+def find_logo_file():
+    possible_names = ["logo.jpg", "logo.png", "logo.jpeg", "LOGO.JPG", "LOGO.PNG", "logo.webp"]
+    for name in possible_names:
+        if os.path.exists(name):
+            return name
+    return None
 
 def draw_header_and_brand(image):
     draw = ImageDraw.Draw(image)
 
-    # اللوجو الدائري
     logo_size = 64
     logo_x, logo_y = 952, 50
+    logo_path = find_logo_file()
 
-    if os.path.exists(LOGO_PATH):
+    if logo_path:
         try:
-            logo = Image.open(LOGO_PATH).convert("RGBA")
+            logo = Image.open(logo_path).convert("RGBA")
             logo = ImageOps.fit(logo, (logo_size, logo_size), method=Image.Resampling.LANCZOS)
 
             mask = Image.new("L", (logo_size, logo_size), 0)
@@ -204,23 +177,20 @@ def draw_header_and_brand(image):
 
             draw.ellipse((logo_x - 3, logo_y - 3, logo_x + logo_size + 3, logo_y + logo_size + 3), outline=ACCENT_GOLD, width=2)
             image.paste(logo, (logo_x, logo_y), mask)
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"⚠️ خطأ في قراءة الشعار: {e}")
+            draw.ellipse((logo_x, logo_y, logo_x + logo_size, logo_y + logo_size), outline=ACCENT_GOLD, width=3)
     else:
-        # دائرة شعار افتراضية
         draw.ellipse((logo_x, logo_y, logo_x + logo_size, logo_y + logo_size), outline=ACCENT_GOLD, width=3)
-        font_logo = load_font(20, bold=True)
-        draw.text((logo_x + 12, logo_y + 18), "logo", fill=WHITE, font=font_logo)
 
     # اسم الصفحة
     font_page = load_font(38, bold=True)
     page_text = fix_arabic(PAGE_NAME)
-    draw.text((925, 62), page_text, fill=WHITE, font=font_page, anchor="ra")
+    draw.text((930, 62), page_text, fill=WHITE, font=font_page, anchor="ra")
 
     # الزخرفة الأفقية العليا
     draw.rounded_rectangle((60, 65, 180, 73), radius=4, fill=ACCENT_RED)
     draw.ellipse((190, 61, 202, 73), fill=ACCENT_GOLD)
-
 
 # ============================================================
 # 8. شارة التصنيف والعنوان بالتكيف الاحترافي
@@ -237,11 +207,10 @@ def get_category_label(category):
     }
     return labels.get(category, "كرة القدم")
 
-
 def draw_news_body(image, title, category):
     draw = ImageDraw.Draw(image)
 
-    # 1. شارة التصنيف (Category Badge)
+    # 1. شارة التصنيف
     category_text = fix_arabic(get_category_label(category))
     category_font = load_font(26, bold=True)
 
@@ -258,18 +227,17 @@ def draw_news_body(image, title, category):
     badge_y1 = 675
     badge_y2 = badge_y1 + badge_height
 
-    # رسم الشارة الحمراء
     draw.rounded_rectangle((badge_x1, badge_y1, badge_x2, badge_y2), radius=16, fill=ACCENT_RED)
     draw.text((badge_x2 - padding_x, badge_y1 + padding_y - 2), category_text, fill=WHITE, font=category_font, anchor="ra")
 
-    # 2. العنوان الرئيسي (Dynamic Title Multiline)
+    # 2. العنوان الرئيسي (Dynamic Multiline)
     max_width = 940
     words = str(title).split()
 
-    font_sizes = [48, 42, 36, 30]
+    font_sizes = [44, 38, 32]
     selected_font = None
     selected_lines = []
-    selected_spacing = 72
+    selected_spacing = 65
 
     for font_size in font_sizes:
         test_font = load_font(font_size, bold=True)
@@ -278,7 +246,8 @@ def draw_news_body(image, title, category):
 
         for word in words:
             test_line = word if not current_line else current_line + " " + word
-            bbox = draw.textbbox((0, 0), fix_arabic(test_line), font=test_font)
+            fixed_test = fix_arabic(test_line)
+            bbox = draw.textbbox((0, 0), fixed_test, font=test_font)
 
             if (bbox[2] - bbox[0]) <= max_width:
                 current_line = test_line
@@ -290,23 +259,18 @@ def draw_news_body(image, title, category):
         if current_line:
             test_lines.append(current_line)
 
-        spacing = int(font_size * 1.4)
-        if len(test_lines) * spacing <= 220 or font_size == font_sizes[-1]:
+        spacing = int(font_size * 1.35)
+        if len(test_lines) <= 3 or font_size == font_sizes[-1]:
             selected_font = test_font
             selected_lines = test_lines
             selected_spacing = spacing
             break
 
-    # رسم أسطر العنوان مع ظل ناعم للمظهر الرياضي
     start_y = 760
     for line in selected_lines:
         fixed_line = fix_arabic(line)
-        # ظل النص
-        draw.text((1022, start_y + 2), fixed_line, fill=(0, 0, 0, 180), font=selected_font, anchor="ra")
-        # النص الأصلي
         draw.text((1020, start_y), fixed_line, fill=WHITE, font=selected_font, anchor="ra")
         start_y += selected_spacing
-
 
 # ============================================================
 # 9. التذييل (Footer)
@@ -323,7 +287,6 @@ def draw_footer(image):
     footer_text = fix_arabic(f"{PAGE_NAME} • المصدر الرسمي")
 
     draw.text((1020, y + 18), footer_text, fill=MUTED_TEXT, font=font, anchor="ra")
-
 
 # ============================================================
 # 10. الدالة الرئيسية لتوليد الصورة
@@ -343,14 +306,12 @@ def generate_news_image(title, category="football", image_path=None, output_path
         output_path = os.path.join(OUTPUT_DIR, filename)
 
     image.save(output_path, "PNG", optimize=True)
-    print(f"✅ تم إنشاء الصورة المطابقة بنجاح: {output_path}")
+    print(f"✅ تم إنشاء الصورة بنجاح: {output_path}")
     return output_path
 
-
-# تجربة إنشاء صورة اختبارية مباشرة
 if __name__ == "__main__":
     generate_news_image(
-        title="خبر هام وعاجل: تفاصيل تفاصيل جديدة تظهر اليوم",
+        title="اختبار النص العربي والصورة",
         category="football"
             )
-    
+            
