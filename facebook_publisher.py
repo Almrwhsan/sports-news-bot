@@ -40,10 +40,6 @@ def is_facebook_configured():
 
 def publish_text_post(message):
 
-    # --------------------------------------------------------
-    # مفتاح تشغيل / إيقاف النشر
-    # --------------------------------------------------------
-
     if not FACEBOOK_ENABLED:
 
         return {
@@ -53,10 +49,6 @@ def publish_text_post(message):
             "error": "Facebook publishing is disabled."
         }
 
-    # --------------------------------------------------------
-    # التحقق من الإعدادات
-    # --------------------------------------------------------
-
     if not is_facebook_configured():
 
         return {
@@ -65,10 +57,6 @@ def publish_text_post(message):
             "post_id": None,
             "error": "Facebook is not configured."
         }
-
-    # --------------------------------------------------------
-    # Facebook Graph API
-    # --------------------------------------------------------
 
     url = (
         f"https://graph.facebook.com/"
@@ -80,10 +68,6 @@ def publish_text_post(message):
         "message": message,
         "access_token": FACEBOOK_PAGE_ACCESS_TOKEN,
     }
-
-    # --------------------------------------------------------
-    # إرسال الطلب
-    # --------------------------------------------------------
 
     try:
 
@@ -113,10 +97,6 @@ def publish_text_post(message):
             "error": "Invalid JSON response from Facebook."
         }
 
-    # --------------------------------------------------------
-    # نجاح النشر
-    # --------------------------------------------------------
-
     if response.ok and "id" in data:
 
         return {
@@ -125,10 +105,6 @@ def publish_text_post(message):
             "post_id": data["id"],
             "error": None
         }
-
-    # --------------------------------------------------------
-    # فشل النشر
-    # --------------------------------------------------------
 
     return {
         "success": False,
@@ -139,3 +115,173 @@ def publish_text_post(message):
             data
         )
     }
+
+
+# ============================================================
+# نشر صورة + نص على الصفحة
+# ============================================================
+
+def publish_image_post(image_path, caption):
+
+    if not FACEBOOK_ENABLED:
+
+        return {
+            "success": False,
+            "published": False,
+            "post_id": None,
+            "error": "Facebook publishing is disabled."
+        }
+
+    if not is_facebook_configured():
+
+        return {
+            "success": False,
+            "published": False,
+            "post_id": None,
+            "error": "Facebook is not configured."
+        }
+
+    if not image_path:
+
+        return {
+            "success": False,
+            "published": False,
+            "post_id": None,
+            "error": "Image path is empty."
+        }
+
+    if not os.path.isfile(image_path):
+
+        return {
+            "success": False,
+            "published": False,
+            "post_id": None,
+            "error": f"Image file not found: {image_path}"
+        }
+
+    url = (
+        f"https://graph.facebook.com/"
+        f"{FACEBOOK_GRAPH_VERSION}/"
+        f"{FACEBOOK_PAGE_ID}/photos"
+    )
+
+    try:
+
+        with open(
+            image_path,
+            "rb"
+        ) as image_file:
+
+            files = {
+                "source": image_file
+            }
+
+            payload = {
+                "caption": caption,
+                "access_token": FACEBOOK_PAGE_ACCESS_TOKEN,
+            }
+
+            response = requests.post(
+                url,
+                files=files,
+                data=payload,
+                timeout=120
+            )
+
+        data = response.json()
+
+    except requests.RequestException as error:
+
+        return {
+            "success": False,
+            "published": False,
+            "post_id": None,
+            "error": str(error)
+        }
+
+    except ValueError:
+
+        return {
+            "success": False,
+            "published": False,
+            "post_id": None,
+            "error": "Invalid JSON response from Facebook."
+        }
+
+    if response.ok and "id" in data:
+
+        return {
+            "success": True,
+            "published": True,
+            "post_id": data["id"],
+            "error": None
+        }
+
+    return {
+        "success": False,
+        "published": False,
+        "post_id": None,
+        "error": data.get(
+            "error",
+            data
+        )
+    }
+
+
+# ============================================================
+# النشر النهائي
+# ============================================================
+
+def publish_post(
+    message,
+    image_path=None
+):
+
+    # --------------------------------------------------------
+    # إذا توجد صورة
+    # --------------------------------------------------------
+
+    if image_path:
+
+        print()
+        print(
+            f"📸 Image path: {image_path}"
+        )
+
+        result = publish_image_post(
+            image_path=image_path,
+            caption=message
+        )
+
+        if result.get("success"):
+
+            print(
+                "✅ Image published successfully."
+            )
+
+            return result
+
+        # ----------------------------------------------------
+        # إذا فشل نشر الصورة
+        # ----------------------------------------------------
+
+        print(
+            "⚠️ Image publishing failed."
+        )
+
+        print(
+            "Facebook image error:",
+            result.get("error")
+        )
+
+        print(
+            "📝 Falling back to text-only post..."
+        )
+
+    # --------------------------------------------------------
+    # لا توجد صورة أو فشل نشر الصورة
+    # --------------------------------------------------------
+
+    return publish_text_post(
+        message
+    )
