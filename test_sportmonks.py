@@ -6,294 +6,485 @@ from datetime import datetime, timezone
 BASE_URL = "https://api.sportmonks.com/v3/football"
 
 
-def api_get(endpoint, params=None):
-    token = os.getenv("SPORTMONKS_TOKEN")
+def get_token():
+    token = os.getenv("SPORTMONKS_API_TOKEN")
 
     if not token:
-        print("ERROR: SPORTMONKS_TOKEN is not configured.")
+        print("ERROR: SPORTMONKS_API_TOKEN is not set.")
         return None
+
+    return token
+
+
+def api_get(endpoint, params=None):
+    token = get_token()
+
+    if not token:
+        return None
+
+    url = f"{BASE_URL}/{endpoint}"
+
+    headers = {
+        "Authorization": token,
+        "Accept": "application/json",
+    }
 
     try:
         response = requests.get(
-            f"{BASE_URL}/{endpoint}",
+            url,
+            headers=headers,
             params=params or {},
-            headers={
-                "Authorization": token,
-                "Accept": "application/json",
-            },
-            timeout=20,
+            timeout=30,
         )
 
-    except requests.RequestException as exc:
-        print(f"REQUEST ERROR: {exc}")
-        return None
+        print(f"\nHTTP {response.status_code}: {endpoint}")
 
-    print(f"HTTP {response.status_code}: {endpoint}")
+        if response.status_code != 200:
+            print(response.text[:2000])
+            return None
 
-    if response.status_code != 200:
-        print(response.text[:3000])
-        return None
-
-    try:
         return response.json()
 
-    except ValueError:
-        print("ERROR: Invalid JSON response.")
-        print(response.text[:3000])
+    except requests.RequestException as e:
+        print(f"REQUEST ERROR: {e}")
         return None
 
 
-def test_leagues():
-    print()
+# ============================================================
+# TEST 1 — EVENT TYPES
+# ============================================================
+
+def test_event_types():
+    print("\n" + "=" * 70)
+    print("TEST 1 — EVENT TYPES")
     print("=" * 70)
-    print("TEST 1 — AVAILABLE LEAGUES")
-    print("=" * 70)
 
-    payload = api_get("leagues")
+    data = api_get("types")
 
-    if payload is None:
-        return []
+    if not data:
+        print("Could not retrieve event types.")
+        return {}
 
-    leagues = payload.get("data", [])
+    items = data.get("data", [])
 
-    print(f"Leagues returned: {len(leagues)}")
-    print()
+    print(f"Event types received: {len(items)}")
 
-    for league in leagues:
+    event_types = {}
+
+    for item in items:
+        type_id = item.get("id")
+        name = item.get("name")
+        code = item.get("code")
+
+        event_types[type_id] = {
+            "name": name,
+            "code": code,
+        }
+
         print(
-            f"League ID: {league.get('id')} | "
-            f"Name: {league.get('name')} | "
-            f"Country ID: {league.get('country_id')}"
+            f"TYPE {type_id}: "
+            f"name={name!r}, "
+            f"code={code!r}"
         )
 
-    return leagues
+    return event_types
 
 
-def test_upcoming_fixtures():
-    print()
+# ============================================================
+# TEST 2 — RECENT FIXTURES
+# ============================================================
+
+def test_recent_fixtures():
+    print("\n" + "=" * 70)
+    print("TEST 2 — RECENT FIXTURES")
     print("=" * 70)
-    print("TEST 2 — UPCOMING FIXTURES")
-    print("=" * 70)
 
-    today = datetime.now(timezone.utc).date().isoformat()
+    now = datetime.now(timezone.utc)
 
-    payload = api_get(
+    today = now.strftime("%Y-%m-%d")
+
+    data = api_get(
         f"fixtures/date/{today}",
         params={
-            "include": (
-                "participants;"
-                "scores;"
-                "events;"
-                "state;"
-                "league"
-            )
+            "include": "participants,state,scores,events",
+            "per_page": 50,
         },
     )
 
-    if payload is None:
-        return
+    if not data:
+        print("Could not retrieve today's fixtures.")
+        return []
 
-    fixtures = payload.get("data", [])
+    fixtures = data.get("data", [])
 
     print(f"Fixtures today: {len(fixtures)}")
-    print()
-
-    if not fixtures:
-        print("No fixtures returned for today.")
-        return
 
     for fixture in fixtures[:20]:
 
-        print("-" * 70)
+        fixture_id = fixture.get("id")
+        name = fixture.get("name")
+        starting_at = fixture.get("starting_at")
+        state = fixture.get("state")
 
-        print(f"Fixture ID: {fixture.get('id')}")
-        print(f"Name: {fixture.get('name')}")
-        print(f"Starting At: {fixture.get('starting_at')}")
-        print(f"State ID: {fixture.get('state_id')}")
+        state_name = None
 
-        league = fixture.get("league") or {}
-
-        print(
-            f"League: "
-            f"{league.get('name')} "
-            f"(ID: {league.get('id')})"
-        )
-
-        participants = fixture.get("participants") or []
-
-        print()
-        print("Participants:")
-
-        for team in participants:
-            print(
-                f"  - {team.get('name')} "
-                f"(ID: {team.get('id')})"
+        if isinstance(state, dict):
+            state_name = (
+                state.get("name")
+                or state.get("short_name")
+                or state.get("developer_name")
             )
 
-        scores = fixture.get("scores") or []
+        print("\n----------------------------------------")
+        print(f"Fixture ID: {fixture_id}")
+        print(f"Name: {name}")
+        print(f"Starting: {starting_at}")
+        print(f"State: {state_name}")
 
-        print()
-        print(f"Scores: {len(scores)}")
-
-        for score in scores:
-            print(
-                f"  - "
-                f"Participant ID: {score.get('participant_id')} | "
-                f"Goals: {score.get('goals')} | "
-                f"Description: {score.get('description')}"
-            )
-
-        events = fixture.get("events") or []
-
-        print()
-        print(f"Events: {len(events)}")
-
-        for event in events:
-            print(
-                "  EVENT:",
-                {
-                    "id": event.get("id"),
-                    "type_id": event.get("type_id"),
-                    "minute": event.get("minute"),
-                    "extra_minute": event.get(
-                        "extra_minute"
-                    ),
-                    "player_name": event.get(
-                        "player_name"
-                    ),
-                    "related_player_name": event.get(
-                        "related_player_name"
-                    ),
-                    "result": event.get("result"),
-                }
-            )
+    return fixtures
 
 
-def test_live():
-    print()
-    print("=" * 70)
-    print("TEST 3 — LIVE MATCHES")
+# ============================================================
+# TEST 3 — LATEST UPDATED FIXTURES
+# ============================================================
+
+def test_latest_updated():
+    print("\n" + "=" * 70)
+    print("TEST 3 — LATEST UPDATED FIXTURES")
     print("=" * 70)
 
-    payload = api_get(
-        "livescores",
+    data = api_get(
+        "fixtures/latest",
         params={
-            "include": (
-                "participants;"
-                "scores;"
-                "events;"
-                "state;"
-                "league"
-            )
+            "include": "participants,state,scores,events",
         },
     )
 
-    if payload is None:
-        return
+    if not data:
+        print("Could not retrieve latest updated fixtures.")
+        return []
 
-    matches = payload.get("data", [])
+    fixtures = data.get("data", [])
 
-    print(f"Live matches: {len(matches)}")
-    print()
+    print(
+        "Fixtures updated within Sportmonks "
+        "latest-update window: "
+        f"{len(fixtures)}"
+    )
 
-    if not matches:
-        print("No live matches are currently available.")
-        return
+    for fixture in fixtures[:20]:
 
-    for match in matches:
+        fixture_id = fixture.get("id")
+        name = fixture.get("name")
+        starting_at = fixture.get("starting_at")
 
-        print("-" * 70)
+        state = fixture.get("state")
+        scores = fixture.get("scores")
+        events = fixture.get("events")
 
-        print(f"Fixture ID: {match.get('id')}")
-        print(f"Name: {match.get('name')}")
-        print(f"Starting At: {match.get('starting_at')}")
-        print(f"State ID: {match.get('state_id')}")
+        print("\n----------------------------------------")
+        print(f"Fixture ID: {fixture_id}")
+        print(f"Name: {name}")
+        print(f"Starting: {starting_at}")
 
-        league = match.get("league") or {}
+        if isinstance(state, dict):
+            print(
+                "State:",
+                state.get("name")
+                or state.get("short_name")
+                or state.get("developer_name")
+            )
+        else:
+            print("State:", state)
 
         print(
-            f"League: "
-            f"{league.get('name')} "
-            f"(ID: {league.get('id')})"
+            "Scores:",
+            len(scores) if isinstance(scores, list) else 0
         )
 
-        participants = match.get("participants") or []
+        print(
+            "Events:",
+            len(events) if isinstance(events, list) else 0
+        )
 
-        print()
-        print("Participants:")
+    return fixtures
 
-        for team in participants:
+
+# ============================================================
+# TEST 4 — DETAILED FIXTURE
+# ============================================================
+
+def test_detailed_fixture(fixtures, event_types):
+    print("\n" + "=" * 70)
+    print("TEST 4 — DETAILED FIXTURE")
+    print("=" * 70)
+
+    if not fixtures:
+        print("No fixture available for detailed testing.")
+        return
+
+    fixture = fixtures[0]
+
+    fixture_id = fixture.get("id")
+
+    if not fixture_id:
+        print("Fixture has no ID.")
+        return
+
+    print(f"Testing fixture ID: {fixture_id}")
+
+    data = api_get(
+        f"fixtures/{fixture_id}",
+        params={
+            "include": "participants,state,scores,events",
+        },
+    )
+
+    if not data:
+        print("Could not retrieve fixture details.")
+        return
+
+    fixture = data.get("data")
+
+    if not fixture:
+        print("No fixture data returned.")
+        return
+
+    print("\nMATCH INFORMATION")
+    print("----------------------------------------")
+
+    print("ID:", fixture.get("id"))
+    print("Name:", fixture.get("name"))
+    print("Starting:", fixture.get("starting_at"))
+    print("Result:", fixture.get("result_info"))
+
+    # --------------------------------------------------------
+    # STATE
+    # --------------------------------------------------------
+
+    state = fixture.get("state")
+
+    print("\nSTATE")
+    print("----------------------------------------")
+
+    if isinstance(state, dict):
+        print("ID:", state.get("id"))
+        print("Name:", state.get("name"))
+        print("Short:", state.get("short_name"))
+        print("Developer:", state.get("developer_name"))
+    else:
+        print(state)
+
+    # --------------------------------------------------------
+    # PARTICIPANTS
+    # --------------------------------------------------------
+
+    participants = fixture.get("participants")
+
+    print("\nPARTICIPANTS")
+    print("----------------------------------------")
+
+    if isinstance(participants, list):
+
+        for participant in participants:
+
             print(
-                f"  - {team.get('name')} "
-                f"(ID: {team.get('id')})"
+                "Team:",
+                participant.get("name"),
+                "| ID:",
+                participant.get("id"),
+                "| Meta:",
+                participant.get("meta"),
             )
 
-        scores = match.get("scores") or []
+    else:
+        print("No participants.")
 
-        print()
-        print(f"Scores: {len(scores)}")
+    # --------------------------------------------------------
+    # SCORES
+    # --------------------------------------------------------
+
+    scores = fixture.get("scores")
+
+    print("\nSCORES")
+    print("----------------------------------------")
+
+    if isinstance(scores, list):
 
         for score in scores:
-            print(
-                f"  - "
-                f"Participant ID: {score.get('participant_id')} | "
-                f"Goals: {score.get('goals')} | "
-                f"Description: {score.get('description')}"
-            )
-
-        events = match.get("events") or []
-
-        print()
-        print(f"Events: {len(events)}")
-
-        for event in events:
 
             print(
-                "  EVENT:",
-                {
-                    "id": event.get("id"),
-                    "type_id": event.get("type_id"),
-                    "minute": event.get("minute"),
-                    "extra_minute": event.get(
-                        "extra_minute"
-                    ),
-                    "player_name": event.get(
-                        "player_name"
-                    ),
-                    "related_player_name": event.get(
-                        "related_player_name"
-                    ),
-                    "result": event.get("result"),
-                }
+                "Score:",
+                score
             )
 
+    else:
+        print("No scores.")
+
+    # --------------------------------------------------------
+    # EVENTS
+    # --------------------------------------------------------
+
+    events = fixture.get("events")
+
+    print("\nEVENTS")
+    print("----------------------------------------")
+
+    if not isinstance(events, list) or not events:
+        print("No events.")
+        return
+
+    print(f"Total events: {len(events)}")
+
+    for event in events:
+
+        event_id = event.get("id")
+        type_id = event.get("type_id")
+        minute = event.get("minute")
+        extra_minute = event.get("extra_minute")
+        player_name = event.get("player_name")
+        related_player_name = event.get("related_player_name")
+        result = event.get("result")
+
+        event_info = event_types.get(type_id, {})
+
+        type_name = event_info.get("name")
+        type_code = event_info.get("code")
+
+        print("\nEVENT")
+        print("----------------------------------------")
+        print("ID:", event_id)
+        print("Type ID:", type_id)
+        print("Type name:", type_name)
+        print("Type code:", type_code)
+        print("Minute:", minute)
+        print("Extra minute:", extra_minute)
+        print("Player:", player_name)
+        print("Related player:", related_player_name)
+        print("Result:", result)
+
+
+# ============================================================
+# TEST 5 — LIVE SCORE
+# ============================================================
+
+def test_live_scores():
+    print("\n" + "=" * 70)
+    print("TEST 5 — LIVE SCORES")
+    print("=" * 70)
+
+    data = api_get(
+        "livescores",
+        params={
+            "include": "participants,state,scores,events",
+        },
+    )
+
+    if not data:
+        print("Could not retrieve livescores.")
+        return []
+
+    fixtures = data.get("data", [])
+
+    print(f"Live matches currently available: {len(fixtures)}")
+
+    if not fixtures:
+        print("No live matches currently available.")
+        return []
+
+    for fixture in fixtures[:20]:
+
+        print("\n----------------------------------------")
+
+        print("Fixture ID:", fixture.get("id"))
+        print("Name:", fixture.get("name"))
+        print("Starting:", fixture.get("starting_at"))
+
+        state = fixture.get("state")
+
+        if isinstance(state, dict):
+            print(
+                "State:",
+                state.get("name")
+                or state.get("short_name")
+                or state.get("developer_name")
+            )
+
+        scores = fixture.get("scores")
+
+        print(
+            "Scores:",
+            scores if scores else "None"
+        )
+
+        events = fixture.get("events")
+
+        print(
+            "Events:",
+            len(events) if isinstance(events, list) else 0
+        )
+
+    return fixtures
+
+
+# ============================================================
+# MAIN
+# ============================================================
 
 def main():
 
     print("=" * 70)
-    print("SPORTMONKS FREE PLAN DEEP TEST")
+    print("SPORTMONKS DEEP TEST")
     print("=" * 70)
+
+    now = datetime.now(timezone.utc)
 
     print(
-        "UTC:",
-        datetime.now(timezone.utc).isoformat()
+        "Current UTC:",
+        now.strftime("%Y-%m-%d %H:%M:%S")
     )
 
-    leagues = test_leagues()
+    # --------------------------------------------------------
+    # 1. EVENT TYPES
+    # --------------------------------------------------------
 
-    if not leagues:
-        print()
-        print("WARNING: No leagues returned.")
+    event_types = test_event_types()
 
-    test_upcoming_fixtures()
+    # --------------------------------------------------------
+    # 2. TODAY'S FIXTURES
+    # --------------------------------------------------------
 
-    test_live()
+    fixtures = test_recent_fixtures()
 
-    print()
-    print("=" * 70)
-    print("SPORTMONKS TEST FINISHED")
+    # --------------------------------------------------------
+    # 3. LATEST UPDATED
+    # --------------------------------------------------------
+
+    latest = test_latest_updated()
+
+    # --------------------------------------------------------
+    # 4. DETAILED FIXTURE
+    # --------------------------------------------------------
+
+    detailed_source = latest if latest else fixtures
+
+    test_detailed_fixture(
+        detailed_source,
+        event_types,
+    )
+
+    # --------------------------------------------------------
+    # 5. LIVE
+    # --------------------------------------------------------
+
+    test_live_scores()
+
+    # --------------------------------------------------------
+
+    print("\n" + "=" * 70)
+    print("SPORTMONKS DEEP TEST FINISHED")
     print("=" * 70)
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()
