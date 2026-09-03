@@ -16,7 +16,7 @@ from sources.news_formatter import format_news
 from image_fetcher import fetch_news_image
 from image_generator import generate_news_image
 
-from facebook_publisher import publish_text_post
+from facebook_publisher import publish_post
 
 # ============================================================
 # إعدادات
