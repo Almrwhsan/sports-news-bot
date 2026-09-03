@@ -6,15 +6,23 @@ from datetime import datetime, timezone
 BASE_URL = "https://api.sportmonks.com/v3/football"
 
 
+# ============================================================
+# TOKEN
+# ============================================================
+
 def get_token():
-    token = os.getenv("SPORTMONKS_API_TOKEN")
+    token = os.getenv("SPORTMONKS_TOKEN")
 
     if not token:
-        print("ERROR: SPORTMONKS_API_TOKEN is not set.")
+        print("ERROR: SPORTMONKS_TOKEN is not set.")
         return None
 
     return token
 
+
+# ============================================================
+# API REQUEST
+# ============================================================
 
 def api_get(endpoint, params=None):
     token = get_token()
@@ -91,7 +99,7 @@ def test_event_types():
 
 
 # ============================================================
-# TEST 2 — RECENT FIXTURES
+# TEST 2 — TODAY'S FIXTURES
 # ============================================================
 
 def test_recent_fixtures():
@@ -167,8 +175,7 @@ def test_latest_updated():
     fixtures = data.get("data", [])
 
     print(
-        "Fixtures updated within Sportmonks "
-        "latest-update window: "
+        "Fixtures updated within latest-update window: "
         f"{len(fixtures)}"
     )
 
@@ -250,6 +257,10 @@ def test_detailed_fixture(fixtures, event_types):
         print("No fixture data returned.")
         return
 
+    # --------------------------------------------------------
+    # MATCH INFORMATION
+    # --------------------------------------------------------
+
     print("\nMATCH INFORMATION")
     print("----------------------------------------")
 
@@ -312,11 +323,7 @@ def test_detailed_fixture(fixtures, event_types):
     if isinstance(scores, list):
 
         for score in scores:
-
-            print(
-                "Score:",
-                score
-            )
+            print("Score:", score)
 
     else:
         print("No scores.")
@@ -365,7 +372,7 @@ def test_detailed_fixture(fixtures, event_types):
 
 
 # ============================================================
-# TEST 5 — LIVE SCORE
+# TEST 5 — LIVE SCORES
 # ============================================================
 
 def test_live_scores():
@@ -386,7 +393,9 @@ def test_live_scores():
 
     fixtures = data.get("data", [])
 
-    print(f"Live matches currently available: {len(fixtures)}")
+    print(
+        f"Live matches currently available: {len(fixtures)}"
+    )
 
     if not fixtures:
         print("No live matches currently available.")
@@ -445,25 +454,25 @@ def main():
     )
 
     # --------------------------------------------------------
-    # 1. EVENT TYPES
+    # TEST 1
     # --------------------------------------------------------
 
     event_types = test_event_types()
 
     # --------------------------------------------------------
-    # 2. TODAY'S FIXTURES
+    # TEST 2
     # --------------------------------------------------------
 
     fixtures = test_recent_fixtures()
 
     # --------------------------------------------------------
-    # 3. LATEST UPDATED
+    # TEST 3
     # --------------------------------------------------------
 
     latest = test_latest_updated()
 
     # --------------------------------------------------------
-    # 4. DETAILED FIXTURE
+    # TEST 4
     # --------------------------------------------------------
 
     detailed_source = latest if latest else fixtures
@@ -474,7 +483,7 @@ def main():
     )
 
     # --------------------------------------------------------
-    # 5. LIVE
+    # TEST 5
     # --------------------------------------------------------
 
     test_live_scores()
