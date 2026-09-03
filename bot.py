@@ -336,6 +336,19 @@ def prepare_news_item(news):
         )
     )
 
+    # --------------------------------------------------------
+    # بيانات صورة الخبر القادمة من المصدر
+    # --------------------------------------------------------
+
+    item["image_url"] = item.get(
+        "image_url",
+        ""
+    )
+
+    item["media_type"] = item.get(
+        "media_type"
+    )
+
     return item
 
 
@@ -432,15 +445,24 @@ def prepare_news_image(news):
     print("-----------------------------------")
 
     print(
-        "Searching for real news image..."
+        "Fetching image from original news source..."
     )
 
     # ========================================================
-    # المحاولة الأولى: صورة حقيقية
+    # المحاولة الأولى: صورة حقيقية من نفس المصدر
     # ========================================================
 
     real_image = fetch_news_image(
-        title=title
+        title=title,
+        article_url=news.get(
+            "url"
+        ),
+        image_url=news.get(
+            "image_url"
+        ),
+        media_type=news.get(
+            "media_type"
+        ),
     )
 
     if real_image:
@@ -898,6 +920,7 @@ def main():
         news_item = prepare_news_image(
             news_item
         )
+
         # ----------------------------------------------------
         # نشر الخبر على Facebook
         # مع الصورة النهائية إن وُجدت
