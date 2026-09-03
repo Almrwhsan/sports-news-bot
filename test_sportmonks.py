@@ -18,11 +18,12 @@ def api_get(endpoint, params=None):
             f"{BASE_URL}/{endpoint}",
             params=params or {},
             headers={
-                "Authorization": f"Bearer {token}",
+                "Authorization": token,
                 "Accept": "application/json",
             },
             timeout=20,
         )
+
     except requests.RequestException as exc:
         print(f"REQUEST ERROR: {exc}")
         return None
@@ -35,6 +36,7 @@ def api_get(endpoint, params=None):
 
     try:
         return response.json()
+
     except ValueError:
         print("ERROR: Invalid JSON response.")
         print(response.text[:3000])
@@ -96,6 +98,10 @@ def test_upcoming_fixtures():
     print(f"Fixtures today: {len(fixtures)}")
     print()
 
+    if not fixtures:
+        print("No fixtures returned for today.")
+        return
+
     for fixture in fixtures[:20]:
 
         print("-" * 70)
@@ -115,6 +121,7 @@ def test_upcoming_fixtures():
 
         participants = fixture.get("participants") or []
 
+        print()
         print("Participants:")
 
         for team in participants:
@@ -125,11 +132,41 @@ def test_upcoming_fixtures():
 
         scores = fixture.get("scores") or []
 
+        print()
         print(f"Scores: {len(scores)}")
+
+        for score in scores:
+            print(
+                f"  - "
+                f"Participant ID: {score.get('participant_id')} | "
+                f"Goals: {score.get('goals')} | "
+                f"Description: {score.get('description')}"
+            )
 
         events = fixture.get("events") or []
 
+        print()
         print(f"Events: {len(events)}")
+
+        for event in events:
+            print(
+                "  EVENT:",
+                {
+                    "id": event.get("id"),
+                    "type_id": event.get("type_id"),
+                    "minute": event.get("minute"),
+                    "extra_minute": event.get(
+                        "extra_minute"
+                    ),
+                    "player_name": event.get(
+                        "player_name"
+                    ),
+                    "related_player_name": event.get(
+                        "related_player_name"
+                    ),
+                    "result": event.get("result"),
+                }
+            )
 
 
 def test_live():
@@ -159,6 +196,10 @@ def test_live():
     print(f"Live matches: {len(matches)}")
     print()
 
+    if not matches:
+        print("No live matches are currently available.")
+        return
+
     for match in matches:
 
         print("-" * 70)
@@ -176,13 +217,39 @@ def test_live():
             f"(ID: {league.get('id')})"
         )
 
+        participants = match.get("participants") or []
+
+        print()
+        print("Participants:")
+
+        for team in participants:
+            print(
+                f"  - {team.get('name')} "
+                f"(ID: {team.get('id')})"
+            )
+
+        scores = match.get("scores") or []
+
+        print()
+        print(f"Scores: {len(scores)}")
+
+        for score in scores:
+            print(
+                f"  - "
+                f"Participant ID: {score.get('participant_id')} | "
+                f"Goals: {score.get('goals')} | "
+                f"Description: {score.get('description')}"
+            )
+
         events = match.get("events") or []
 
+        print()
         print(f"Events: {len(events)}")
 
         for event in events:
 
             print(
+                "  EVENT:",
                 {
                     "id": event.get("id"),
                     "type_id": event.get("type_id"),
@@ -202,6 +269,7 @@ def test_live():
 
 
 def main():
+
     print("=" * 70)
     print("SPORTMONKS FREE PLAN DEEP TEST")
     print("=" * 70)
@@ -218,6 +286,7 @@ def main():
         print("WARNING: No leagues returned.")
 
     test_upcoming_fixtures()
+
     test_live()
 
     print()
@@ -227,4 +296,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
