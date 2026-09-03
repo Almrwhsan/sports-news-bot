@@ -93,4 +93,21 @@ GLOBAL_SOURCES = [
         ),
     },
 
+    # --------------------------------------------------------
+    # BBC Sport - Football
+    # --------------------------------------------------------
+
+    {
+        "name": "BBC Sport Football",
+        "language": "en",
+        "type": "global",
+        "category": "football",
+        "priority": 1,
+        "enabled": True,
+        "feed": (
+            "https://feeds.bbci.co.uk/"
+            "sport/football/rss.xml"
+        ),
+    },
+
 ]
