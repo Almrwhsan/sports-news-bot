@@ -898,13 +898,9 @@ def main():
         news_item = prepare_news_image(
             news_item
         )
-
         # ----------------------------------------------------
-        # نشر النص على Facebook
-        #
-        # ملاحظة:
-        # هذه المرحلة تستخدم وظيفة النشر الحالية
-        # بدون تغيير facebook_publisher.py.
+        # نشر الخبر على Facebook
+        # مع الصورة النهائية إن وُجدت
         # ----------------------------------------------------
 
         print()
@@ -914,7 +910,7 @@ def main():
         )
         print("-----------------------------------")
 
-                facebook_result = publish_post(
+        facebook_result = publish_post(
             message=news_item.get(
                 "post_text",
                 ""
@@ -922,7 +918,7 @@ def main():
             image_path=news_item.get(
                 "image"
             )
-                )
+        )
 
         # ====================================================
         # نجاح النشر
