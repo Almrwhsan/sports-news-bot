@@ -1,5 +1,31 @@
 [
   {
+    "title": "Brugts y Kika, refuerzos para Sevilla",
+    "url": "https://as.com/futbol/femenino/brugts-y-kika-refuerzos-para-sevilla-f202609-n/",
+    "summary": "Romeu recupera a ambas futbolistas unos días antes de tiempo. “El día que me levante pensando que no puedo puntuar, me retiro”, dijo Losada en la previa.",
+    "published": "Fri, 04 Sep 2026 22:52:32 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OIJGYUUVT5BC3L5DPF36ONOH4A.jpg?auth=960c6ae51498f9714d54077cd61bc4d210dc946000657694072338a3009830f1",
+    "media_type": "image",
+    "arabic_title": "بروتس وكيكا تعزيزات لإشبيلية",
+    "arabic_summary": "يستعيد روميو كلا اللاعبين قبل أيام قليلة من الموعد المحدد. وقال لوسادا في المعاينة: \"في اليوم الذي أستيقظ فيه وأنا أفكر في أنني لا أستطيع التسجيل، سأعتزل\".",
+    "post_title": "بروتس وكيكا تعزيزات لإشبيلية",
+    "post_text": "🚨 بروتس وكيكا تعزيزات لإشبيلية\n\n📰 يستعيد روميو كلا اللاعبين قبل أيام قليلة من الموعد المحدد. وقال لوسادا في المعاينة: \"في اليوم الذي أستيقظ فيه وأنا أفكر في أنني لا أستطيع التسجيل، سأعتزل\".\n\n🏷️ كرة القدم\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042742071724437",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بروتس_وكيكا_تعزيزات_لإشبيلية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/femenino/brugts-y-kika-refuerzos-para-sevilla-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Valles tenía estudiados los penaltis de Mbappé: \"Tenía claro dónde me iba a tirar si él lanzaba...\"",
     "url": "https://www.marca.com/futbol/betis/2026/09/04/valles-tenia-estudiados-penaltis-mbappe-tenia-claro-me-iba-tirar-lanzaba.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -10059,12 +10085,6 @@
     "title": "Tech trouble leaves Chelsea game ref without comms",
     "url": "https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 17:41:22 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 19:08:36 GMT",
     "source": "BBC Sport Football"
   }
 ]
