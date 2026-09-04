@@ -1,5 +1,57 @@
 [
   {
+    "title": "Haier anuncia una alianza global con la UEFA Champions League",
+    "url": "https://www.marca.com/futbol/champions-league/2026/09/04/haier-anuncia-alianza-global-uefa-champions-league.html",
+    "summary": "El acuerdo, vigente desde el 1 de julio de 2027 hasta el 30 de junio de 2031, incluye también la Supercopa europea y las finales de la Youth League y la Futsal Champions League.",
+    "published": "Fri, 04 Sep 2026 18:43:09 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "champions_league",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9af50dcf5da.jpeg",
+    "media_type": "image",
+    "arabic_title": "شركة هاير تعلن عن تحالف عالمي مع دوري أبطال أوروبا",
+    "arabic_summary": "ويشمل الاتفاق، الذي يسري من 1 يوليو 2027 إلى 30 يونيو 2031، أيضًا كأس السوبر الأوروبي ونهائي دوري الشباب ودوري أبطال كرة الصالات.",
+    "post_title": "شركة هاير تعلن عن تحالف عالمي مع دوري أبطال أوروبا",
+    "post_text": "🚨 شركة هاير تعلن عن تحالف عالمي مع دوري أبطال أوروبا\n\n📰 ويشمل الاتفاق، الذي يسري من 1 يوليو 2027 إلى 30 يونيو 2031، أيضًا كأس السوبر الأوروبي ونهائي دوري الشباب ودوري أبطال كرة الصالات.\n\n🏷️ دوري أبطال أوروبا\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042531381745506",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شركة_هاير_تعلن_عن_تحالف_عالمي_مع_دوري_أبطال_أوروبا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/09/04/haier-anuncia-alianza-global-uefa-champions-league.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
+    "title": "Betis - Real Madrid en directo | Última hora de LALIGA EA Sports hoy en vivo",
+    "url": "https://www.marca.com/futbol/primera-division/2026/09/04/01-0101-20260904-185-186.html",
+    "summary": "Sigue en vivo y en directo el Betis - Real Madrid de LALIGA EA Sports con todos los goles y estadísticas del partido",
+    "published": "Fri, 04 Sep 2026 18:34:00 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/17884581258561.jpeg",
+    "media_type": "image",
+    "arabic_title": "بيتيس - ريال مدريد مباشر | آخر الأخبار من LALIGA EA Sports اليوم على الهواء مباشرة",
+    "arabic_summary": "تابع بيتيس - ريال مدريد من LALIGA EA Sports بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة",
+    "post_title": "بيتيس - ريال مدريد مباشر | آخر الأخبار من LALIGA EA Sports اليوم على الهواء مباشرة",
+    "post_text": "🚨 بيتيس - ريال مدريد مباشر | آخر الأخبار من LALIGA EA Sports اليوم على الهواء مباشرة\n\n📰 تابع بيتيس - ريال مدريد من LALIGA EA Sports بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة\n\n🏷️ ريال مدريد\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042531435078834",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيتيس_-_ريال_مدريد_مباشر_آخر_الأخبار_من_LALIGA_EA_Sports_اليوم_على_الهواء_مباشرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/2026/09/04/01-0101-20260904-185-186.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "De la Rosa puede dejar el Cádiz a pesar del cierre del mercado español",
     "url": "https://www.marca.com/futbol/cadiz/2026/09/04/rosa-dejar-cadiz-pesar-cierre-mercado-espanol.html",
     "summary": "El periodo de inscripciones continúa abierto en Polonia y su traspaso al Wieczysta Cracovia está muy avanzado",
@@ -9233,18 +9285,6 @@
     "title": "Why one of sport's most iconic images resonates 70 years on",
     "url": "https://www.bbc.co.uk/news/articles/c33kv5gjeedo?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 29 Aug 2026 06:26:01 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Division, drama and power - what next for Infantino and Uefa?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 15:00:20 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Why Herrera is playing for free in Spanish third division",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 07:02:50 GMT",
     "source": "BBC Sport Football"
   }
 ]
