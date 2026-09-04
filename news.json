@@ -1,5 +1,31 @@
 [
   {
+    "title": "La derrota del Real Madrid ante el Betis en imágenes",
+    "url": "https://as.com/futbol/fotorrelato/la-derrota-del-real-madrid-ante-el-betis-en-imagenes-f202609-f/",
+    "summary": "Los de Mourinho caen 1-0 con un tanto de Troy Parrot. Noche aciaga para Mbappé, que falla muchas ocasiones y un penalti en el descuento. Tremanda actuación del portero Álvaro Valles.",
+    "published": "Fri, 04 Sep 2026 22:07:33 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/H5TREYIDMBC6BKANCBECYBFC2Q.JPG?auth=9b0abbb6d46be46edfc92f758e8e4512f5c220ebb2ea6114ee4aa952995e7363",
+    "media_type": "image",
+    "arabic_title": "هزيمة ريال مدريد أمام بيتيس بالصور",
+    "arabic_summary": "وخسر فريق مورينيو بنتيجة 1-0 بهدف من تروي باروت. ليلة غير موفقة لمبابي الذي يهدر العديد من الفرص وركلة جزاء في الوقت بدل الضائع. أداء هائل لحارس المرمى ألفارو فاليس.",
+    "post_title": "هزيمة ريال مدريد أمام بيتيس بالصور",
+    "post_text": "🚨 هزيمة ريال مدريد أمام بيتيس بالصور\n\n📰 وخسر فريق مورينيو بنتيجة 1-0 بهدف من تروي باروت. ليلة غير موفقة لمبابي الذي يهدر العديد من الفرص وركلة جزاء في الوقت بدل الضائع. أداء هائل لحارس المرمى ألفارو فاليس.\n\n🏷️ ريال مدريد\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042721518393159",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هزيمة_ريال_مدريد_أمام_بيتيس_بالصور.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/fotorrelato/la-derrota-del-real-madrid-ante-el-betis-en-imagenes-f202609-f/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "La Supercopa abre en el Palau Blaugrana la temporada de la Liga Prime Futsal",
     "url": "https://www.marca.com/futbol/futbol-sala/2026/09/05/supercopa-abre-palau-blaugrana-temporada-liga-prime-futsal.html",
     "summary": "ElPozo Murcia-Illes Balears Palma Futsal (13:30, TDP) y F. C. Barcelona-Jaén Paraíso Interior (16:15, TDP), las semifinales",
@@ -9899,12 +9925,6 @@
     "title": "Barcelona close to deal for Arsenal's Jesus",
     "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 16:01:28 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Abdulmalik breaks Vardy's non-league transfer record",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 09:19:27 GMT",
     "source": "BBC Sport Football"
   }
 ]
