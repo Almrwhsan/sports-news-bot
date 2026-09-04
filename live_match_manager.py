@@ -421,6 +421,7 @@ class LiveMatchManager:
 
         print(f"Home       : {home}")
         print(f"Away       : {away}")
+
         print(
             f"Score      : "
             f"{home_score} - {away_score}"
@@ -524,7 +525,7 @@ class LiveMatchManager:
             "away": away,
 
             "home_score": home_score,
-            "away_score": away_score,
+            "away_score": away,
 
             "status": status,
             "status_text": status_text,
@@ -566,19 +567,35 @@ class LiveMatchManager:
         )
 
         # ----------------------------------------------------
-        # الأحداث القديمة
+        # الأحداث الموجودة قبل تشغيل البوت
+        #
+        # مهم جدًا:
+        #
+        # LiveEventManager.bootstrap()
+        # يحتاج Snapshot المباراة كاملًا،
+        # وليس قائمة incidents فقط.
+        #
+        # هذا يمنع إعادة نشر الأحداث القديمة
+        # عند إعادة تشغيل GitHub Actions.
         # ----------------------------------------------------
 
         if incidents:
 
             self.event_manager.bootstrap(
-                incidents
+                match
             )
 
             print(
                 f"Bootstrapped "
                 f"{len(incidents)} "
                 f"existing incidents."
+            )
+
+        else:
+
+            print(
+                "No existing incidents "
+                "to bootstrap."
             )
 
         # ----------------------------------------------------
@@ -891,6 +908,117 @@ def self_test():
     assert (
         is_live(snapshot_3)
         is False
+    )
+
+    # ========================================================
+    # اختبار Bootstrap
+    # ========================================================
+
+    print()
+    print(
+        "TEST 4 — BOOTSTRAP EVENT STATE"
+    )
+
+    test_event_manager = LiveEventManager()
+
+    test_manager = LiveMatchManager(
+        slug="real-betis-vs-real-madrid",
+        poll_interval=1,
+        event_manager=test_event_manager,
+    )
+
+    bootstrap_snapshot = {
+
+        "home": {
+            "name": "Real Betis"
+        },
+
+        "away": {
+            "name": "Real Madrid"
+        },
+
+        "home_score": 0,
+        "away_score": 0,
+
+        "status": "live",
+
+        "status_text": "Live",
+
+        "live_minute": 60,
+
+        "incidents": [
+            {
+                "time": 39,
+                "type": "Substitution",
+                "type_id": 9,
+                "side": "home",
+                "player": "",
+                "is_goal": None,
+                "home_score": 0,
+                "away_score": 0,
+            },
+            {
+                "time": 48,
+                "type": "Yellow card",
+                "type_id": 3,
+                "side": "away",
+                "player": "Arda Güler",
+                "is_goal": None,
+                "home_score": 0,
+                "away_score": 0,
+            },
+        ],
+    }
+
+    # محاكاة bootstrap مباشرة بدون الاتصال بـ SportScore
+    bootstrap_incidents = get_incidents(
+        bootstrap_snapshot
+    )
+
+    test_event_manager.bootstrap(
+        bootstrap_snapshot
+    )
+
+    processed_ids = (
+        test_event_manager.get_processed_ids()
+    )
+
+    assert (
+        len(processed_ids)
+        == len(bootstrap_incidents)
+    )
+
+    # بعد Bootstrap يجب ألا تعتبر
+    # الأحداث الموجودة أحداثًا جديدة.
+
+    new_events = (
+        test_event_manager.process_snapshot(
+            bootstrap_snapshot
+        )
+    )
+
+    assert (
+        len(new_events)
+        == 0
+    )
+
+    print(
+        "Existing incidents:",
+        len(bootstrap_incidents)
+    )
+
+    print(
+        "Processed IDs:",
+        len(processed_ids)
+    )
+
+    print(
+        "New events after bootstrap:",
+        len(new_events)
+    )
+
+    print(
+        "PASS: Existing events are suppressed."
     )
 
     # ========================================================
