@@ -977,14 +977,15 @@ def test_real_madrid_betis_live():
 
     # --------------------------------------------------------
     # الخطوة 1
-    # جلب قائمة المباريات
+    # استخدام endpoint الخاص بريال مدريد
     # --------------------------------------------------------
 
     data = request_api(
-        "matches",
+        "team",
         {
             "sport": "football",
-            "limit": 100,
+            "slug": "real-madrid",
+            "limit": 20,
             "src": "nabd-madrid",
         },
     )
@@ -993,13 +994,13 @@ def test_real_madrid_betis_live():
 
         print(
             "\nTEST 7 FAILED — "
-            "Could not retrieve matches."
+            "Could not retrieve Real Madrid team data."
         )
 
         return False
 
     # --------------------------------------------------------
-    # البحث داخل الاستجابة
+    # البحث عن المباريات داخل استجابة الفريق
     # --------------------------------------------------------
 
     candidates = extract_match_candidates(
@@ -1033,7 +1034,7 @@ def test_real_madrid_betis_live():
         print("-" * 70)
         print(
             "TARGET MATCH NOT FOUND "
-            "IN CURRENT MATCH LIST"
+            "IN REAL MADRID TEAM DATA"
         )
         print("-" * 70)
 
@@ -1042,8 +1043,9 @@ def test_real_madrid_betis_live():
         )
 
         print(
-            "The match may not currently be included "
-            "in the matches endpoint."
+            "The team endpoint responded successfully, "
+            "but the target fixture was not found "
+            "in the returned data."
         )
 
         print(
