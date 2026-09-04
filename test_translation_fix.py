@@ -1,94 +1,35 @@
 # ============================================================
-# تشخيص مشكلة ترجمة الأخبار
+# اختبار قرار الترجمة فقط
 # ============================================================
 
 from sources.news_translator import (
-    clean_text,
     needs_translation,
-    translate_news_item,
 )
 
 
 # ============================================================
-# طباعة نتيجة التشخيص
+# تشغيل اختبار واحد
 # ============================================================
 
-def debug_news(name, news):
+def run_test(name, news, expected):
 
-    print("\n" + "=" * 70)
+    result = needs_translation(news)
+
+    status = "PASS" if result == expected else "FAIL"
+
+    print()
+    print("=" * 70)
     print(name)
     print("=" * 70)
 
-    print("Language      :", repr(news.get("language")))
-    print("Source        :", repr(news.get("source")))
-    print("URL           :", repr(news.get("url")))
+    print("Language           :", repr(news.get("language")))
+    print("Title              :", news.get("title", ""))
+    print("Summary            :", news.get("summary", ""))
+    print("Expected           :", expected)
+    print("Actual             :", result)
+    print("Result             :", status)
 
-    print("\nOriginal title:")
-    print(news.get("title", ""))
-
-    print("\nOriginal summary:")
-    print(news.get("summary", ""))
-
-    # --------------------------------------------------------
-    # تنظيف النص
-    # --------------------------------------------------------
-
-    title = clean_text(
-        news.get("title", "")
-    )
-
-    summary = clean_text(
-        news.get("summary", "")
-    )
-
-    print("\n--- CLEANED TEXT ---")
-
-    print("Title:")
-    print(title)
-
-    print("\nSummary:")
-    print(summary)
-
-    # --------------------------------------------------------
-    # قرار الترجمة
-    # --------------------------------------------------------
-
-    print("\n--- TRANSLATION DECISION ---")
-
-    should_translate = needs_translation(
-        news
-    )
-
-    print(
-        "needs_translation:",
-        should_translate
-    )
-
-    # --------------------------------------------------------
-    # تنفيذ الترجمة
-    # --------------------------------------------------------
-
-    print("\n--- TRANSLATION RESULT ---")
-
-    result = translate_news_item(
-        news
-    )
-
-    print("\nArabic title:")
-    print(
-        result.get(
-            "arabic_title",
-            ""
-        )
-    )
-
-    print("\nArabic summary:")
-    print(
-        result.get(
-            "arabic_summary",
-            ""
-        )
-    )
+    return result == expected
 
 
 # ============================================================
@@ -97,23 +38,20 @@ def debug_news(name, news):
 
 def main():
 
+    passed = 0
+    total = 0
+
     # ========================================================
     # TEST 1
-    # نفس خبر AS الذي فشل سابقًا
+    # إسباني + language خاطئة = ar
     # ========================================================
 
-    debug_news(
-        "TEST 1 — Original Spanish AS failure",
+    total += 1
+
+    if run_test(
+        "TEST 1 — Spanish with language=ar",
         {
             "language": "ar",
-
-            "source": "AS Real Madrid",
-
-            "url": (
-                "https://as.com/futbol/"
-                "la-cartuja-el-estadio-en-el-que-nacio-"
-                "la-leyenda-de-jose-mourinho-f202609-n/"
-            ),
 
             "title": (
                 "La Cartuja: el estadio en el que nació "
@@ -122,30 +60,48 @@ def main():
 
             "summary": (
                 "El portugués levantó en el recinto "
-                "sevillano su primer título europeo, "
-                "la UEFA, en 2003. El Real Madrid ganó "
-                "allí la final de Copa 2023 y luego perdió "
-                "la de 2025, ante el Barcelona."
+                "sevillano su primer título europeo."
             ),
-        }
-    )
+        },
+        True
+    ):
+        passed += 1
 
     # ========================================================
     # TEST 2
-    # نفس خبر BBC الذي نجح
+    # إسباني + language خاطئة = arabic
     # ========================================================
 
-    debug_news(
-        "TEST 2 — Original English BBC success",
+    total += 1
+
+    if run_test(
+        "TEST 2 — Spanish with language=arabic",
+        {
+            "language": "arabic",
+
+            "title": (
+                "El Real Madrid prepara su próximo partido"
+            ),
+
+            "summary": (
+                "El equipo trabaja para llegar preparado."
+            ),
+        },
+        True
+    ):
+        passed += 1
+
+    # ========================================================
+    # TEST 3
+    # إنجليزي + language=en
+    # ========================================================
+
+    total += 1
+
+    if run_test(
+        "TEST 3 — English",
         {
             "language": "en",
-
-            "source": "BBC Sport Football",
-
-            "url": (
-                "https://www.bbc.co.uk/sport/football/"
-                "articles/c3v49617lzko"
-            ),
 
             "title": (
                 "David Moyes admits he wanted to do more "
@@ -154,24 +110,24 @@ def main():
 
             "summary": (
                 "David Moyes says he has to live with "
-                "the disappointment after wanting to do more."
+                "the disappointment."
             ),
-        }
-    )
+        },
+        True
+    ):
+        passed += 1
 
     # ========================================================
-    # TEST 3
-    # خبر عربي
+    # TEST 4
+    # عربي + language=ar
     # ========================================================
 
-    debug_news(
-        "TEST 3 — Arabic news",
+    total += 1
+
+    if run_test(
+        "TEST 4 — Arabic",
         {
             "language": "ar",
-
-            "source": "BBC Sport Football",
-
-            "url": "",
 
             "title": (
                 "مويز يعيش بخيبة أمل بعد يوم الموعد النهائي"
@@ -181,32 +137,108 @@ def main():
                 "اعترف ديفيد مويس بأنه يتعين عليه "
                 "التعايش مع خيبات الأمل."
             ),
-        }
-    )
+        },
+        False
+    ):
+        passed += 1
 
     # ========================================================
-    # TEST 4
-    # إسباني مع language خاطئة
+    # TEST 5
+    # عربي + language=arabic
     # ========================================================
 
-    debug_news(
-        "TEST 4 — Spanish with incorrect language field",
+    total += 1
+
+    if run_test(
+        "TEST 5 — Arabic with language=arabic",
         {
             "language": "arabic",
 
-            "source": "AS Real Madrid",
-
-            "url": "",
-
             "title": (
-                "El Real Madrid prepara su próximo partido"
+                "ريال مدريد يستعد لمباراته القادمة"
             ),
 
             "summary": (
-                "El equipo trabaja para llegar preparado."
+                "يواصل الفريق استعداداته للمباراة."
             ),
-        }
+        },
+        False
+    ):
+        passed += 1
+
+    # ========================================================
+    # TEST 6
+    # إسباني قصير جدًا
+    # ========================================================
+
+    total += 1
+
+    if run_test(
+        "TEST 6 — Short Spanish text",
+        {
+            "language": "ar",
+
+            "title": "Real Madrid gana",
+
+            "summary": "El equipo ganó el partido.",
+        },
+        True
+    ):
+        passed += 1
+
+    # ========================================================
+    # TEST 7
+    # اسم أجنبي داخل نص عربي
+    #
+    # يجب ألا يعتبر الخبر أجنبيًا بسبب اسم واحد.
+    # ========================================================
+
+    total += 1
+
+    if run_test(
+        "TEST 7 — Arabic text with foreign name",
+        {
+            "language": "ar",
+
+            "title": (
+                "جوزيه مورينيو يتحدث عن ريال مدريد"
+            ),
+
+            "summary": (
+                "قال José Mourinho إن النادي يملك "
+                "تاريخًا كبيرًا في البطولة."
+            ),
+        },
+        False
+    ):
+        passed += 1
+
+    # ========================================================
+    # النتيجة النهائية
+    # ========================================================
+
+    print()
+    print("=" * 70)
+    print("FINAL RESULT")
+    print("=" * 70)
+
+    print(
+        f"Passed: {passed}/{total}"
     )
+
+    if passed == total:
+
+        print(
+            "✅ ALL TESTS PASSED"
+        )
+
+    else:
+
+        print(
+            "❌ SOME TESTS FAILED"
+        )
+
+    print("=" * 70)
 
 
 # ============================================================
