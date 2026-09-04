@@ -1,5 +1,31 @@
 [
   {
+    "title": "Gol de Parrott (1-0) en el Betis 1-0 Real Madrid",
+    "url": "https://www.marca.com/futbol/primera-division/2026/09/04/gol-parrott-1-0-betis-1-0-real-madr-video.html",
+    "summary": "",
+    "published": "Fri, 04 Sep 2026 23:09:46 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9b33901a48c.jpeg",
+    "media_type": "image",
+    "arabic_title": "هدف باروت (1-0) في بيتيس 1-0 ريال مدريد",
+    "arabic_summary": "",
+    "post_title": "هدف باروت (1-0) في بيتيس 1-0 ريال مدريد",
+    "post_text": "🚨 هدف باروت (1-0) في بيتيس 1-0 ريال مدريد\n\n🏷️ ريال مدريد\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042695428395768",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_باروت_(1-0)_في_بيتيس_1-0_ريال_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/2026/09/04/gol-parrott-1-0-betis-1-0-real-madr-video.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Próximo partido del Real Madrid: fecha, rival, horario y contra quién juega el equipo de Mourinho",
     "url": "https://as.com/futbol/real-madrid/proximo-partido-del-real-madrid-fecha-rival-horario-y-contra-quien-juega-el-equipo-de-mourinho-f202609-n/",
     "summary": "El conjunto blanco aparca LaLiga y piensa en el debut en su competición fetiche, la Champions League, ante un durísimo contrincante",
@@ -9759,12 +9785,6 @@
     "title": "Can Chelsea win the league with three at the back? - Given's verdict",
     "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 22:59:49 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 16:37:02 GMT",
     "source": "BBC Sport Football"
   }
 ]
