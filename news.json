@@ -1,5 +1,31 @@
 [
   {
+    "title": "PSG - Mónaco, en directo | Última hora de la Ligue 1 hoy en vivo",
+    "url": "https://www.marca.com/futbol/liga-francesa/2026/09/04/01-0109-20260904-149-146.html",
+    "summary": "Sigue en vivo y en directo el PSG - Mónaco de la Ligue 1 con todos los goles y estadísticas del partido",
+    "published": "Fri, 04 Sep 2026 19:35:00 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "ligue_1",
+    "priority": 1,
+    "image_url": "",
+    "media_type": null,
+    "arabic_title": "باريس سان جيرمان - موناكو مباشر | آخر أخبار الدوري الفرنسي اليوم مباشر",
+    "arabic_summary": "تابع باريس سان جيرمان - موناكو من الدوري الفرنسي بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة",
+    "post_title": "باريس سان جيرمان - موناكو مباشر | آخر أخبار الدوري الفرنسي اليوم مباشر",
+    "post_text": "🚨 باريس سان جيرمان - موناكو مباشر | آخر أخبار الدوري الفرنسي اليوم مباشر\n\n📰 تابع باريس سان جيرمان - موناكو من الدوري الفرنسي بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة\n\n🏷️ الدوري الفرنسي\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042577925074185",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باريس_سان_جيرمان_-_موناكو_مباشر_آخر_أخبار_الدوري_الفرنسي_اليوم_مباشر.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Obed Vargas se mantiene en el aire",
     "url": "https://as.com/futbol/primera/obed-vargas-se-mantiene-en-el-aire-f202609-n/",
     "summary": "El mexicano vuelve a quedarse fuera de la convocatoria. Carlos Martín ha salido con el mercado español cerrado. Concentró ofertas de la Liga sin éxito.",
@@ -9339,12 +9365,6 @@
     "title": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
     "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 29 Aug 2026 18:03:52 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "How to follow Transfer Deadline Day on the BBC",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 09:12:46 GMT",
     "source": "BBC Sport Football"
   }
 ]
