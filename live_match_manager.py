@@ -1,6 +1,5 @@
 import time
 import requests
-from datetime import datetime, timezone
 
 from live_event_manager import LiveEventManager
 
@@ -9,7 +8,9 @@ from live_event_manager import LiveEventManager
 # إعدادات SportScore
 # ============================================================
 
-SPORTSCORE_MATCH_URL = "https://sportscore.com/api/widget/match/"
+SPORTSCORE_MATCH_URL = (
+    "https://sportscore.com/api/widget/match/"
+)
 
 DEFAULT_TIMEOUT = 20
 DEFAULT_POLL_INTERVAL = 65
@@ -20,20 +21,20 @@ DEFAULT_POLL_INTERVAL = 65
 # ============================================================
 
 def safe_int(value):
+
     try:
+
         if value is None:
             return None
 
         return int(value)
 
     except (TypeError, ValueError):
+
         return None
 
 
 def normalize_status(value):
-    """
-    توحيد حالة المباراة.
-    """
 
     if value is None:
         return ""
@@ -42,9 +43,6 @@ def normalize_status(value):
 
 
 def extract_match(data):
-    """
-    استخراج كائن المباراة من استجابة SportScore.
-    """
 
     if not isinstance(data, dict):
         return None
@@ -58,9 +56,6 @@ def extract_match(data):
 
 
 def get_match_teams(match):
-    """
-    استخراج أسماء الفريقين.
-    """
 
     if not isinstance(match, dict):
         return None, None
@@ -72,30 +67,33 @@ def get_match_teams(match):
     away_name = None
 
     if isinstance(home, dict):
+
         home_name = (
             home.get("name")
             or home.get("title")
             or home.get("short_name")
         )
+
     elif isinstance(home, str):
+
         home_name = home
 
     if isinstance(away, dict):
+
         away_name = (
             away.get("name")
             or away.get("title")
             or away.get("short_name")
         )
+
     elif isinstance(away, str):
+
         away_name = away
 
     return home_name, away_name
 
 
 def get_score(match):
-    """
-    استخراج النتيجة الحالية.
-    """
 
     if not isinstance(match, dict):
         return None, None
@@ -112,16 +110,13 @@ def get_score(match):
         else match.get("awayScore")
     )
 
-    return safe_int(home_score), safe_int(away_score)
+    return (
+        safe_int(home_score),
+        safe_int(away_score),
+    )
 
 
 def get_status(match):
-    """
-    استخراج الحالة مع تجنب الخطأ الشهير:
-
-    "started" in "not started"
-
-    """
 
     if not isinstance(match, dict):
         return ""
@@ -129,6 +124,7 @@ def get_status(match):
     status = match.get("status")
 
     if isinstance(status, dict):
+
         status = (
             status.get("type")
             or status.get("name")
@@ -140,9 +136,6 @@ def get_status(match):
 
 
 def get_status_text(match):
-    """
-    استخراج النص البشري للحالة.
-    """
 
     if not isinstance(match, dict):
         return ""
@@ -156,6 +149,7 @@ def get_status_text(match):
         value = match.get("status")
 
     if isinstance(value, dict):
+
         value = (
             value.get("text")
             or value.get("name")
@@ -167,9 +161,6 @@ def get_status_text(match):
 
 
 def is_finished(match):
-    """
-    هل المباراة انتهت؟
-    """
 
     status = get_status(match)
     text = get_status_text(match).lower()
@@ -194,13 +185,13 @@ def is_finished(match):
         "match ended",
     )
 
-    return any(word in text for word in finished_words)
+    return any(
+        word in text
+        for word in finished_words
+    )
 
 
 def is_not_started(match):
-    """
-    هل المباراة لم تبدأ؟
-    """
 
     status = get_status(match)
     text = get_status_text(match).lower()
@@ -223,19 +214,13 @@ def is_not_started(match):
         "starts at",
     )
 
-    return any(word in text for word in not_started_words)
+    return any(
+        word in text
+        for word in not_started_words
+    )
 
 
 def is_live(match):
-    """
-    تحديد ما إذا كانت المباراة حية.
-
-    الأولوية:
-    1. المباراة المنتهية -> ليست حية
-    2. المباراة التي لم تبدأ -> ليست حية
-    3. الحالة المباشرة -> حية
-    4. الدقيقة الحالية -> حية
-    """
 
     if is_finished(match):
         return False
@@ -268,7 +253,10 @@ def is_live(match):
         "half time",
     )
 
-    if any(word in text for word in live_words):
+    if any(
+        word in text
+        for word in live_words
+    ):
         return True
 
     minute = (
@@ -278,8 +266,10 @@ def is_live(match):
     )
 
     if minute is not None:
+
         try:
             return int(minute) > 0
+
         except (TypeError, ValueError):
             pass
 
@@ -287,9 +277,6 @@ def is_live(match):
 
 
 def get_live_minute(match):
-    """
-    استخراج الدقيقة الحالية.
-    """
 
     if not isinstance(match, dict):
         return None
@@ -301,11 +288,13 @@ def get_live_minute(match):
     )
 
     for value in possible_values:
+
         if value is None:
             continue
 
         try:
             return int(value)
+
         except (TypeError, ValueError):
             continue
 
@@ -313,13 +302,6 @@ def get_live_minute(match):
 
 
 def get_incidents(match):
-    """
-    استخراج أحداث المباراة.
-
-    SportScore الفعلي يستخدم:
-
-        match.incidents
-    """
 
     if not isinstance(match, dict):
         return []
@@ -345,34 +327,41 @@ class LiveMatchManager:
         timeout=DEFAULT_TIMEOUT,
         event_manager=None,
     ):
+
         self.slug = slug
         self.poll_interval = poll_interval
         self.timeout = timeout
 
-        self.event_manager = event_manager or LiveEventManager()
+        # يحتفظ به للتوافق مع النظام الحالي.
+        # معالجة الأحداث الفعلية تتم في live_bot.py.
+        self.event_manager = (
+            event_manager
+            or LiveEventManager()
+        )
 
         self.session = requests.Session()
 
         self.session.headers.update({
+
             "User-Agent": (
                 "Mozilla/5.0 "
                 "(compatible; NabdMadridLiveBot/1.0)"
             ),
+
             "Accept": "application/json",
         })
 
         self.previous_score = None
+
         self.match_started = False
+
         self.match_finished = False
 
-    # --------------------------------------------------------
-    # طلب بيانات المباراة
-    # --------------------------------------------------------
+    # ========================================================
+    # جلب المباراة
+    # ========================================================
 
     def fetch_match(self):
-        """
-        جلب بيانات المباراة من SportScore.
-        """
 
         params = {
             "sport": "football",
@@ -393,31 +382,34 @@ class LiveMatchManager:
         match = extract_match(data)
 
         if match is None:
+
             raise ValueError(
-                "SportScore response does not contain match object."
+                "SportScore response does not contain "
+                "match object."
             )
 
         return match
 
-    # --------------------------------------------------------
-    # قراءة Snapshot
-    # --------------------------------------------------------
+    # ========================================================
+    # تحليل Snapshot
+    # ========================================================
 
     def inspect_match(self, match):
-        """
-        تحليل Snapshot واحدة.
-        """
 
         home, away = get_match_teams(match)
+
         home_score, away_score = get_score(match)
 
         status = get_status(match)
+
         status_text = get_status_text(match)
 
         minute = get_live_minute(match)
 
         live = is_live(match)
+
         not_started = is_not_started(match)
+
         finished = is_finished(match)
 
         incidents = get_incidents(match)
@@ -429,94 +421,128 @@ class LiveMatchManager:
 
         print(f"Home       : {home}")
         print(f"Away       : {away}")
-        print(f"Score      : {home_score} - {away_score}")
+        print(
+            f"Score      : "
+            f"{home_score} - {away_score}"
+        )
+
         print(f"Status     : {status}")
-        print(f"Status text: {status_text}")
-        print(f"Minute     : {minute}")
-        print(f"Incidents  : {len(incidents)}")
+
+        print(
+            f"Status text: "
+            f"{status_text}"
+        )
+
+        print(
+            f"Minute     : "
+            f"{minute}"
+        )
+
+        print(
+            f"Incidents  : "
+            f"{len(incidents)}"
+        )
 
         print()
         print("STATUS ANALYSIS")
-        print(f"Not started: {not_started}")
-        print(f"Live       : {live}")
-        print(f"Finished   : {finished}")
+
+        print(
+            f"Not started: "
+            f"{not_started}"
+        )
+
+        print(
+            f"Live       : "
+            f"{live}"
+        )
+
+        print(
+            f"Finished   : "
+            f"{finished}"
+        )
 
         # ----------------------------------------------------
-        # تحديث حالة المدير
+        # تحديث حالة المباراة فقط
         # ----------------------------------------------------
 
         if live:
+
             self.match_started = True
 
         if finished:
+
             self.match_finished = True
 
         # ----------------------------------------------------
-        # النتيجة
+        # مراقبة تغير النتيجة فقط
         # ----------------------------------------------------
 
-        current_score = (home_score, away_score)
+        current_score = (
+            home_score,
+            away_score,
+        )
 
         if current_score != self.previous_score:
 
             if self.previous_score is not None:
+
                 print()
+
                 print(
-                    f"SCORE CHANGED: "
-                    f"{self.previous_score} -> {current_score}"
+                    "SCORE CHANGED: "
+                    f"{self.previous_score} "
+                    f"-> "
+                    f"{current_score}"
                 )
 
             self.previous_score = current_score
 
         # ----------------------------------------------------
-        # الأحداث
+        # ملاحظة الأحداث بدون معالجتها
         # ----------------------------------------------------
 
         if incidents:
-            new_events = self.event_manager.process_snapshot(
-                incidents
-            )
 
             print()
-            print(f"New events: {len(new_events)}")
+            print(
+                "Incident data available:"
+                f" {len(incidents)}"
+            )
 
-            for event in new_events:
-
-                print(
-                    f"- {self.event_manager.event_label(event)}"
-                    f" | {self.event_manager.describe_event(event)}"
-                )
+            print(
+                "Event processing is handled "
+                "by live_bot.py."
+            )
 
         else:
+
             print()
             print("No incidents.")
 
         return {
             "home": home,
             "away": away,
+
             "home_score": home_score,
             "away_score": away_score,
+
             "status": status,
             "status_text": status_text,
+
             "minute": minute,
+
             "live": live,
             "not_started": not_started,
             "finished": finished,
+
             "incidents": incidents,
         }
 
-    # --------------------------------------------------------
+    # ========================================================
     # Bootstrap
-    # --------------------------------------------------------
+    # ========================================================
 
     def bootstrap(self):
-        """
-        تشغيل أول Snapshot.
-
-        إذا كانت المباراة بدأت بالفعل، يتم اعتبار
-        الأحداث الموجودة مسبقًا أحداثًا قديمة حتى لا
-        يعيد البوت نشرها.
-        """
 
         print()
         print("=" * 70)
@@ -529,19 +555,39 @@ class LiveMatchManager:
 
         live = is_live(match)
 
-        print(f"Current incidents: {len(incidents)}")
-        print(f"Match live       : {live}")
+        print(
+            f"Current incidents: "
+            f"{len(incidents)}"
+        )
+
+        print(
+            f"Match live       : "
+            f"{live}"
+        )
+
+        # ----------------------------------------------------
+        # الأحداث القديمة
+        # ----------------------------------------------------
 
         if incidents:
 
-            self.event_manager.bootstrap(incidents)
-
-            print(
-                f"Bootstrapped {len(incidents)} "
-                "existing incidents."
+            self.event_manager.bootstrap(
+                incidents
             )
 
-        home_score, away_score = get_score(match)
+            print(
+                f"Bootstrapped "
+                f"{len(incidents)} "
+                f"existing incidents."
+            )
+
+        # ----------------------------------------------------
+        # حفظ النتيجة الحالية
+        # ----------------------------------------------------
+
+        home_score, away_score = get_score(
+            match
+        )
 
         self.previous_score = (
             home_score,
@@ -549,28 +595,25 @@ class LiveMatchManager:
         )
 
         if live:
+
             self.match_started = True
 
         if is_finished(match):
+
             self.match_finished = True
 
         print()
-        print("BOOTSTRAP COMPLETE")
+        print(
+            "BOOTSTRAP COMPLETE"
+        )
 
         return match
 
-    # --------------------------------------------------------
-    # مراقبة مستمرة
-    # --------------------------------------------------------
+    # ========================================================
+    # مراقبة اختيارية
+    # ========================================================
 
     def monitor(self, max_polls=None):
-        """
-        مراقبة المباراة.
-
-        max_polls:
-            للاختبار فقط.
-            None = تشغيل مستمر.
-        """
 
         self.bootstrap()
 
@@ -589,7 +632,9 @@ class LiveMatchManager:
 
                 match = self.fetch_match()
 
-                result = self.inspect_match(match)
+                result = self.inspect_match(
+                    match
+                )
 
                 if result["finished"]:
 
@@ -604,7 +649,8 @@ class LiveMatchManager:
 
                 print()
                 print(
-                    f"ERROR while monitoring: {exc}"
+                    f"ERROR while monitoring: "
+                    f"{exc}"
                 )
 
             if max_polls is not None:
@@ -620,10 +666,14 @@ class LiveMatchManager:
 
             print()
             print(
-                f"Waiting {self.poll_interval} seconds..."
+                f"Waiting "
+                f"{self.poll_interval} "
+                f"seconds..."
             )
 
-            time.sleep(self.poll_interval)
+            time.sleep(
+                self.poll_interval
+            )
 
 
 # ============================================================
@@ -641,26 +691,34 @@ def self_test():
         poll_interval=1,
     )
 
-    # --------------------------------------------------------
-    # Fake snapshot 1
-    # --------------------------------------------------------
+    # ========================================================
+    # TEST 1
+    # ========================================================
 
     snapshot_1 = {
+
         "home": {
             "name": "Real Betis"
         },
+
         "away": {
             "name": "Real Madrid"
         },
+
         "home_score": 0,
         "away_score": 0,
+
         "status": "upcoming",
+
         "status_text": "Not started",
+
         "incidents": [],
     }
 
     print()
-    print("TEST 1 — NOT STARTED")
+    print(
+        "TEST 1 — NOT STARTED"
+    )
 
     print(
         "is_not_started:",
@@ -672,25 +730,39 @@ def self_test():
         is_live(snapshot_1)
     )
 
-    assert is_not_started(snapshot_1) is True
-    assert is_live(snapshot_1) is False
+    assert (
+        is_not_started(snapshot_1)
+        is True
+    )
 
-    # --------------------------------------------------------
-    # Fake snapshot 2
-    # --------------------------------------------------------
+    assert (
+        is_live(snapshot_1)
+        is False
+    )
+
+    # ========================================================
+    # TEST 2
+    # ========================================================
 
     snapshot_2 = {
+
         "home": {
             "name": "Real Betis"
         },
+
         "away": {
             "name": "Real Madrid"
         },
+
         "home_score": 1,
         "away_score": 0,
+
         "status": "live",
+
         "status_text": "Live",
+
         "live_minute": 6,
+
         "incidents": [
             {
                 "time": 6,
@@ -706,7 +778,9 @@ def self_test():
     }
 
     print()
-    print("TEST 2 — LIVE MATCH")
+    print(
+        "TEST 2 — LIVE MATCH"
+    )
 
     print(
         "is_not_started:",
@@ -723,37 +797,63 @@ def self_test():
         is_finished(snapshot_2)
     )
 
-    assert is_not_started(snapshot_2) is False
-    assert is_live(snapshot_2) is True
-    assert is_finished(snapshot_2) is False
+    assert (
+        is_not_started(snapshot_2)
+        is False
+    )
 
-    # --------------------------------------------------------
-    # Test event processing
-    # --------------------------------------------------------
+    assert (
+        is_live(snapshot_2)
+        is True
+    )
+
+    assert (
+        is_finished(snapshot_2)
+        is False
+    )
 
     result = manager.inspect_match(
         snapshot_2
     )
 
     assert result["live"] is True
-    assert result["home_score"] == 1
-    assert result["away_score"] == 0
 
-    # --------------------------------------------------------
-    # Fake snapshot 3
-    # --------------------------------------------------------
+    assert (
+        result["home_score"]
+        == 1
+    )
+
+    assert (
+        result["away_score"]
+        == 0
+    )
+
+    assert (
+        len(result["incidents"])
+        == 1
+    )
+
+    # ========================================================
+    # TEST 3
+    # ========================================================
 
     snapshot_3 = {
+
         "home": {
             "name": "Real Betis"
         },
+
         "away": {
             "name": "Real Madrid"
         },
+
         "home_score": 1,
         "away_score": 0,
+
         "status": "finished",
+
         "status_text": "Finished",
+
         "incidents": [
             {
                 "time": 6,
@@ -769,7 +869,9 @@ def self_test():
     }
 
     print()
-    print("TEST 3 — FINISHED")
+    print(
+        "TEST 3 — FINISHED"
+    )
 
     print(
         "is_finished:",
@@ -781,17 +883,30 @@ def self_test():
         is_live(snapshot_3)
     )
 
-    assert is_finished(snapshot_3) is True
-    assert is_live(snapshot_3) is False
+    assert (
+        is_finished(snapshot_3)
+        is True
+    )
+
+    assert (
+        is_live(snapshot_3)
+        is False
+    )
+
+    # ========================================================
+    # النتيجة
+    # ========================================================
 
     print()
     print("=" * 70)
-    print("SELF TEST PASSED")
+    print(
+        "SELF TEST PASSED"
+    )
     print("=" * 70)
 
 
 # ============================================================
-# تشغيل الملف
+# تشغيل الاختبار
 # ============================================================
 
 if __name__ == "__main__":
