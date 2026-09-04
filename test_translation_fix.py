@@ -4,7 +4,6 @@
 
 from sources.news_translator import (
     clean_text,
-    is_arabic_text,
     needs_translation,
     translate_news_item,
 )
@@ -24,13 +23,15 @@ def debug_news(name, news):
     print("Source        :", repr(news.get("source")))
     print("URL           :", repr(news.get("url")))
 
-    print("Original title:")
+    print("\nOriginal title:")
     print(news.get("title", ""))
 
     print("\nOriginal summary:")
     print(news.get("summary", ""))
 
-    print("\n--- LANGUAGE DIAGNOSIS ---")
+    # --------------------------------------------------------
+    # تنظيف النص
+    # --------------------------------------------------------
 
     title = clean_text(
         news.get("title", "")
@@ -40,32 +41,31 @@ def debug_news(name, news):
         news.get("summary", "")
     )
 
-    combined = (
-        f"{title} {summary}"
-    ).strip()
+    print("\n--- CLEANED TEXT ---")
 
-    print(
-        "is_arabic_text(title):",
-        is_arabic_text(title)
-    )
+    print("Title:")
+    print(title)
 
-    print(
-        "is_arabic_text(summary):",
-        is_arabic_text(summary)
-    )
+    print("\nSummary:")
+    print(summary)
 
-    print(
-        "is_arabic_text(combined):",
-        is_arabic_text(combined)
+    # --------------------------------------------------------
+    # قرار الترجمة
+    # --------------------------------------------------------
+
+    print("\n--- TRANSLATION DECISION ---")
+
+    should_translate = needs_translation(
+        news
     )
 
     print(
         "needs_translation:",
-        needs_translation(news)
+        should_translate
     )
 
     # --------------------------------------------------------
-    # الترجمة الفعلية
+    # تنفيذ الترجمة
     # --------------------------------------------------------
 
     print("\n--- TRANSLATION RESULT ---")
@@ -74,10 +74,7 @@ def debug_news(name, news):
         news
     )
 
-    print(
-        "Arabic title:"
-    )
-
+    print("\nArabic title:")
     print(
         result.get(
             "arabic_title",
@@ -85,10 +82,7 @@ def debug_news(name, news):
         )
     )
 
-    print(
-        "\nArabic summary:"
-    )
-
+    print("\nArabic summary:")
     print(
         result.get(
             "arabic_summary",
@@ -98,14 +92,14 @@ def debug_news(name, news):
 
 
 # ============================================================
-# الاختبار
+# الاختبارات
 # ============================================================
 
 def main():
 
     # ========================================================
     # TEST 1
-    # نفس الخبر الإسباني الذي فشل في البوت
+    # نفس خبر AS الذي فشل سابقًا
     # ========================================================
 
     debug_news(
@@ -167,7 +161,7 @@ def main():
 
     # ========================================================
     # TEST 3
-    # خبر عربي حقيقي
+    # خبر عربي
     # ========================================================
 
     debug_news(
