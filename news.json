@@ -1,5 +1,57 @@
 [
   {
+    "title": "Huijsen se rehabilita para el Real Madrid",
+    "url": "https://as.com/opinion/huijsen-se-rehabilita-para-el-real-madrid-f202609-n/",
+    "summary": "El central refrendó en La Cartuja su buen arranque de temporada. La pasada y el palo de no ir al Mundial, están olvidados.",
+    "published": "Fri, 04 Sep 2026 21:31:08 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/35KRC3TCE5BQRLGS2LW3V5Q6JY.jpg?auth=51b2ca2bf04591ed0753c21ad6b228b8d14df15b2f3cee5e2f1089800c737af3",
+    "media_type": "image",
+    "arabic_title": "Huijsen يعيد تأهيله لريال مدريد",
+    "arabic_summary": "أكد قلب الدفاع بدايته الجيدة للموسم في لا كارتوجا. لقد تم نسيان الماضي وعصا عدم الذهاب إلى كأس العالم.",
+    "post_title": "Huijsen يعيد تأهيله لريال مدريد",
+    "post_text": "🚨 Huijsen يعيد تأهيله لريال مدريد\n\n📰 أكد قلب الدفاع بدايته الجيدة للموسم في لا كارتوجا. لقد تم نسيان الماضي وعصا عدم الذهاب إلى كأس العالم.\n\n🏷️ ريال مدريد\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042704808394830",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Huijsen_يعيد_تأهيله_لريال_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/huijsen-se-rehabilita-para-el-real-madrid-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
+    "title": "FA to canvas England players in World Cup review",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Football Association's review into England's World Cup campaign will canvas the opinions of players involved in the tournament.",
+    "published": "Fri, 04 Sep 2026 21:28:23 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1311/live/a28680b0-a8a5-11f1-9c70-ad33bdfbef33.jpg",
+    "media_type": "image",
+    "arabic_title": "الاتحاد الإنجليزي يراجع لاعبي إنجلترا في كأس العالم",
+    "arabic_summary": "ستشمل مراجعة اتحاد كرة القدم لحملة إنجلترا في كأس العالم آراء اللاعبين المشاركين في البطولة.",
+    "post_title": "الاتحاد الإنجليزي يراجع لاعبي إنجلترا في كأس العالم",
+    "post_text": "🚨 الاتحاد الإنجليزي يراجع لاعبي إنجلترا في كأس العالم\n\n📰 ستشمل مراجعة اتحاد كرة القدم لحملة إنجلترا في كأس العالم آراء اللاعبين المشاركين في البطولة.\n\n🏷️ كرة القدم\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042704895061488",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الاتحاد_الإنجليزي_يراجع_لاعبي_إنجلترا_في_كأس_العالم.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Betis 1-0 Real Madrid | Resumen LaLiga",
     "url": "https://www.marca.com/futbol/primera-division/2026/09/04/betis-1-0-real-madrid-resumen-laliga-video.html",
     "summary": "",
@@ -9833,18 +9885,6 @@
     "title": "Joao Pedro and debutant Yalcouye star - Chelsea v Brighton player ratings",
     "url": "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 15:02:57 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 16:30:05 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Everton call off Armstrong sale after fan backlash",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 08:58:28 GMT",
     "source": "BBC Sport Football"
   }
 ]
