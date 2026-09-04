@@ -7,37 +7,44 @@ from collections import Counter
 
 
 # ============================================================
-# SPORTScore API
+# SportScore API
 # ============================================================
 
 BASE_URL = "https://sportscore.com/api/widget"
 
-HEADERS = {
-    "User-Agent": "Nabd-Madrid-Live-Test/1.0",
-    "Accept": "application/json",
-}
-
 
 # ============================================================
-# طلب API
+# Helpers
 # ============================================================
 
-def request_api(endpoint, params):
+def request_api(endpoint, params=None):
+    """
+    إرسال طلب إلى SportScore API
+    """
     url = f"{BASE_URL}/{endpoint}/"
 
-    print("\n" + "=" * 70)
-    print(f"REQUEST: {url}")
-    print(f"PARAMS : {params}")
-
     try:
+        print()
+        print("REQUEST:", url)
+        print("PARAMS :", params)
+
         response = requests.get(
             url,
-            params=params,
-            headers=HEADERS,
-            timeout=20,
+            params=params or {},
+            timeout=30,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 "
+                    "(Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) "
+                    "Chrome/140 Safari/537.36"
+                ),
+                "Accept": "application/json",
+            },
         )
 
-        print(f"HTTP   : {response.status_code}")
+        print("HTTP   :", response.status_code)
 
         response.raise_for_status()
 
@@ -48,665 +55,450 @@ def request_api(endpoint, params):
         return data
 
     except requests.RequestException as exc:
-        print(f"REQUEST ERROR: {exc}")
+        print("REQUEST ERROR:", exc)
         return None
 
     except ValueError as exc:
-        print(f"JSON ERROR: {exc}")
+        print("JSON ERROR:", exc)
         return None
 
 
-# ============================================================
-# طباعة بنية الاستجابة
-# ============================================================
+def print_structure(obj, path="root", depth=0, max_depth=5):
+    """
+    طباعة بنية JSON بشكل مختصر.
+    """
 
-def print_structure(data, name, max_chars=12000):
-
-    print("\n" + "-" * 70)
-    print(f"{name} RESPONSE STRUCTURE")
-    print("-" * 70)
-
-    if data is None:
-        print("No data.")
+    if depth > max_depth:
         return
 
-    print(f"Top-level type: {type(data).__name__}")
+    indent = "  " * depth
 
-    if isinstance(data, dict):
+    if isinstance(obj, dict):
 
-        print("Top-level keys:")
-
-        for key in data.keys():
-            print(f"  - {key}")
-
-    elif isinstance(data, list):
-
-        print(f"List length: {len(data)}")
-
-    print("\nSample JSON:")
-
-    try:
-
-        formatted = json.dumps(
-            data,
-            ensure_ascii=False,
-            indent=2,
+        print(
+            f"{indent}{path}: DICT "
+            f"({len(obj)} keys)"
         )
 
-        print(formatted[:max_chars])
+        for key, value in obj.items():
 
-        if len(formatted) > max_chars:
+            if isinstance(value, dict):
 
-            print(
-                f"\n... OUTPUT TRUNCATED "
-                f"(showing first {max_chars} characters)"
+                print_structure(
+                    value,
+                    f"{path}.{key}",
+                    depth + 1,
+                    max_depth,
+                )
+
+            elif isinstance(value, list):
+
+                print(
+                    f"{indent}  {key}: "
+                    f"LIST ({len(value)} items)"
+                )
+
+                if value:
+                    print_structure(
+                        value[0],
+                        f"{path}.{key}[0]",
+                        depth + 2,
+                        max_depth,
+                    )
+
+            else:
+
+                print(
+                    f"{indent}  {key}: "
+                    f"{repr(value)}"
+                )
+
+    elif isinstance(obj, list):
+
+        print(
+            f"{indent}{path}: LIST "
+            f"({len(obj)} items)"
+        )
+
+        if obj:
+
+            print_structure(
+                obj[0],
+                f"{path}[0]",
+                depth + 1,
+                max_depth,
             )
 
-    except Exception as exc:
+    else:
 
-        print(f"Could not format JSON: {exc}")
+        print(
+            f"{indent}{path}: "
+            f"{repr(obj)}"
+        )
 
 
 # ============================================================
 # TEST 1
-# المباريات المباشرة
+# Matches
 # ============================================================
 
-def test_live_matches():
+print()
+print("=" * 70)
+print("TEST 1 — MATCHES")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
-    print("TEST 1 — LIVE FOOTBALL MATCHES")
-    print("#" * 70)
+matches_data = request_api(
+    "matches",
+    {
+        "sport": "football",
+        "limit": 10,
+        "src": "nabd-madrid",
+    },
+)
 
-    data = request_api(
-        "matches",
-        {
-            "sport": "football",
-            "limit": 50,
-            "src": "nabd-madrid",
-        },
-    )
+if matches_data is not None:
+
+    print()
+    print("MATCHES STRUCTURE")
+    print("-" * 70)
 
     print_structure(
-        data,
-        "LIVE MATCHES",
+        matches_data,
+        max_depth=4,
     )
-
-    return data
 
 
 # ============================================================
 # TEST 2
-# ريال مدريد
+# Real Madrid
 # ============================================================
 
-def test_real_madrid():
+print()
+print("=" * 70)
+print("TEST 2 — REAL MADRID")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
-    print("TEST 2 — REAL MADRID")
-    print("#" * 70)
+real_madrid_data = request_api(
+    "team",
+    {
+        "sport": "football",
+        "slug": "real-madrid",
+        "limit": 20,
+        "src": "nabd-madrid",
+    },
+)
 
-    data = request_api(
-        "team",
-        {
-            "sport": "football",
-            "slug": "real-madrid",
-            "limit": 10,
-            "src": "nabd-madrid",
-        },
-    )
+if real_madrid_data is not None:
+
+    print()
+    print("REAL MADRID STRUCTURE")
+    print("-" * 70)
 
     print_structure(
-        data,
-        "REAL MADRID",
+        real_madrid_data,
+        max_depth=4,
     )
-
-    return data
 
 
 # ============================================================
 # TEST 3
-# برشلونة
+# Barcelona
 # ============================================================
 
-def test_barcelona():
+print()
+print("=" * 70)
+print("TEST 3 — BARCELONA")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
-    print("TEST 3 — BARCELONA")
-    print("#" * 70)
+barcelona_data = request_api(
+    "team",
+    {
+        "sport": "football",
+        "slug": "barcelona",
+        "limit": 20,
+        "src": "nabd-madrid",
+    },
+)
 
-    data = request_api(
-        "team",
-        {
-            "sport": "football",
-            "slug": "barcelona",
-            "limit": 10,
-            "src": "nabd-madrid",
-        },
-    )
+if barcelona_data is not None:
+
+    print()
+    print("BARCELONA STRUCTURE")
+    print("-" * 70)
 
     print_structure(
-        data,
-        "BARCELONA",
+        barcelona_data,
+        max_depth=4,
     )
-
-    return data
 
 
 # ============================================================
 # TEST 4
-# دوري أبطال أوروبا
+# UEFA Champions League
 # ============================================================
 
-def test_ucl():
+print()
+print("=" * 70)
+print("TEST 4 — UEFA CHAMPIONS LEAGUE BRACKET")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
-    print("TEST 4 — UEFA CHAMPIONS LEAGUE")
-    print("#" * 70)
+ucl_data = request_api(
+    "bracket",
+    {
+        "sport": "football",
+        "slug": "uefa-champions-league",
+        "src": "nabd-madrid",
+    },
+)
 
-    data = request_api(
-        "bracket",
-        {
-            "sport": "football",
-            "slug": "uefa-champions-league",
-            "src": "nabd-madrid",
-        },
-    )
+if ucl_data is not None:
+
+    print()
+    print("UCL STRUCTURE")
+    print("-" * 70)
 
     print_structure(
-        data,
-        "UEFA CHAMPIONS LEAGUE",
+        ucl_data,
+        max_depth=5,
     )
-
-    return data
 
 
 # ============================================================
 # TEST 5
-# الدوري الإسباني
+# La Liga standings
 # ============================================================
 
-def test_la_liga():
+print()
+print("=" * 70)
+print("TEST 5 — LA LIGA STANDINGS")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
-    print("TEST 5 — LA LIGA")
-    print("#" * 70)
+laliga_data = request_api(
+    "standings",
+    {
+        "sport": "football",
+        "slug": "laliga",
+        "src": "nabd-madrid",
+    },
+)
 
-    data = request_api(
-        "standings",
-        {
-            "sport": "football",
-            "slug": "spanish-la-liga",
-            "src": "nabd-madrid",
-        },
-    )
+if laliga_data is not None:
+
+    print()
+    print("LA LIGA STRUCTURE")
+    print("-" * 70)
 
     print_structure(
-        data,
-        "LA LIGA",
-    )
-
-    return data
-
-
-# ============================================================
-# أدوات تحليل الأحداث
-# ============================================================
-
-def normalize_event_type(event):
-
-    if not isinstance(event, dict):
-        return "UNKNOWN"
-
-    event_type = event.get("type")
-
-    if event_type is None:
-        return "UNKNOWN"
-
-    return str(event_type).strip() or "UNKNOWN"
-
-
-def print_event_sample(event_type, event):
-
-    print("\n" + "-" * 70)
-    print(f"EVENT TYPE: {event_type}")
-    print("-" * 70)
-
-    if not isinstance(event, dict):
-
-        print(event)
-
-        return
-
-    print("Fields:")
-
-    for key in event.keys():
-        print(f"  - {key}")
-
-    print("\nSample:")
-
-    try:
-
-        print(
-            json.dumps(
-                event,
-                ensure_ascii=False,
-                indent=2,
-            )
-        )
-
-    except Exception as exc:
-
-        print(f"Could not format event: {exc}")
-
-
-# ============================================================
-# تحليل incidents
-# ============================================================
-
-def analyze_incidents(match):
-
-    print("\n\n")
-    print("#" * 70)
-    print("INCIDENTS ANALYSIS")
-    print("#" * 70)
-
-    if not isinstance(match, dict):
-
-        print("Match data is not a dictionary.")
-
-        return
-
-    incidents = match.get("incidents")
-
-    if incidents is None:
-
-        print("No 'incidents' field found.")
-
-        print("\nAvailable match fields:")
-
-        for key in match.keys():
-            print(f"  - {key}")
-
-        return
-
-    if not isinstance(incidents, list):
-
-        print(
-            "The 'incidents' field exists but is not a list."
-        )
-
-        print(
-            f"Type: {type(incidents).__name__}"
-        )
-
-        return
-
-    # --------------------------------------------------------
-    # العدد الإجمالي
-    # --------------------------------------------------------
-
-    print(
-        f"\nTotal incidents: {len(incidents)}"
-    )
-
-    if not incidents:
-
-        print("No incidents found.")
-
-        return
-
-    # --------------------------------------------------------
-    # عد الأحداث حسب النوع
-    # --------------------------------------------------------
-
-    event_counter = Counter()
-
-    for incident in incidents:
-
-        event_type = normalize_event_type(
-            incident
-        )
-
-        event_counter[event_type] += 1
-
-    print("\nEVENT TYPES:")
-    print("-" * 70)
-
-    for event_type, count in event_counter.most_common():
-
-        print(
-            f"- {event_type}: {count}"
-        )
-
-    # --------------------------------------------------------
-    # جميع الحقول الموجودة في incidents
-    # --------------------------------------------------------
-
-    all_fields = set()
-
-    for incident in incidents:
-
-        if isinstance(incident, dict):
-
-            all_fields.update(
-                incident.keys()
-            )
-
-    print("\nINCIDENT FIELDS:")
-    print("-" * 70)
-
-    for field in sorted(all_fields):
-
-        print(f"- {field}")
-
-    # --------------------------------------------------------
-    # أول عينة من كل نوع
-    # --------------------------------------------------------
-
-    print("\n\n")
-    print("#" * 70)
-    print("ONE SAMPLE FROM EACH EVENT TYPE")
-    print("#" * 70)
-
-    samples = {}
-
-    for incident in incidents:
-
-        event_type = normalize_event_type(
-            incident
-        )
-
-        if event_type not in samples:
-
-            samples[event_type] = incident
-
-    for event_type in sorted(samples):
-
-        print_event_sample(
-            event_type,
-            samples[event_type],
-        )
-
-    # --------------------------------------------------------
-    # الأحداث المرتبطة بالأهداف
-    # --------------------------------------------------------
-
-    goals = []
-
-    for incident in incidents:
-
-        if not isinstance(incident, dict):
-            continue
-
-        if incident.get("is_goal") is True:
-
-            goals.append(incident)
-
-        elif str(
-            incident.get("type", "")
-        ).lower() == "goal":
-
-            goals.append(incident)
-
-    print("\n\n")
-    print("#" * 70)
-    print("GOALS SUMMARY")
-    print("#" * 70)
-
-    print(
-        f"Detected goals: {len(goals)}"
-    )
-
-    for goal in goals:
-
-        if not isinstance(goal, dict):
-            continue
-
-        print(
-            f"- Minute: {goal.get('time')}"
-        )
-
-        print(
-            f"  Player: {goal.get('player')}"
-        )
-
-        print(
-            f"  Side: {goal.get('side')}"
-        )
-
-        print(
-            f"  Score: "
-            f"{goal.get('home_score')} - "
-            f"{goal.get('away_score')}"
-        )
-
-    # --------------------------------------------------------
-    # الملخص النهائي
-    # --------------------------------------------------------
-
-    print("\n\n")
-    print("#" * 70)
-    print("INCIDENTS TEST SUMMARY")
-    print("#" * 70)
-
-    print(
-        f"Total incidents : {len(incidents)}"
-    )
-
-    print(
-        f"Event types     : {len(event_counter)}"
-    )
-
-    print(
-        f"Goals detected  : {len(goals)}"
-    )
-
-    print(
-        "Status          : INCIDENT DATA AVAILABLE"
+        laliga_data,
+        max_depth=5,
     )
 
 
 # ============================================================
 # TEST 6
-# تفاصيل مباراة + الأحداث
+# Match detail test
 # ============================================================
 
-def test_match_detail():
+print()
+print("=" * 70)
+print("TEST 6 — MATCH DETAIL")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
-    print("TEST 6 — MATCH DETAIL + TIMELINE / EVENTS")
-    print("#" * 70)
+detail_data = request_api(
+    "match",
+    {
+        "sport": "football",
+        "slug": "platense-vs-cd-olimpia",
+        "src": "nabd-madrid",
+    },
+)
 
-    # هذه المباراة ظهرت فعليًا في TEST 1
-    match_slug = "platense-vs-cd-olimpia"
+if detail_data is not None:
 
-    print(
-        f"\nMATCH SLUG: {match_slug}"
-    )
-
-    data = request_api(
-        "match",
-        {
-            "sport": "football",
-            "slug": match_slug,
-            "src": "nabd-madrid",
-        },
-    )
-
-    # --------------------------------------------------------
-    # التحقق من الاستجابة الأساسية
-    # --------------------------------------------------------
-
-    if data is None:
-
-        print(
-            "\nTEST 6 FAILED — No response."
-        )
-
-        return None
-
-    print("\n")
-    print("-" * 70)
-    print("MATCH RESPONSE")
+    print()
+    print("MATCH DETAIL STRUCTURE")
     print("-" * 70)
 
-    print(
-        f"Top-level type: "
-        f"{type(data).__name__}"
+    print_structure(
+        detail_data,
+        max_depth=6,
     )
-
-    if isinstance(data, dict):
-
-        print("Top-level keys:")
-
-        for key in data.keys():
-
-            print(f"  - {key}")
-
-    # --------------------------------------------------------
-    # استخراج match
-    # --------------------------------------------------------
-
-    match = data.get("match")
-
-    if not isinstance(match, dict):
-
-        print(
-            "\nTEST 6 FAILED — "
-            "'match' object not found."
-        )
-
-        return data
-
-    # --------------------------------------------------------
-    # معلومات المباراة الأساسية
-    # --------------------------------------------------------
-
-    print("\n")
-    print("#" * 70)
-    print("MATCH BASIC INFORMATION")
-    print("#" * 70)
-
-    print(
-        f"Home       : {match.get('home')}"
-    )
-
-    print(
-        f"Away       : {match.get('away')}"
-    )
-
-    print(
-        f"Score      : "
-        f"{match.get('home_score')} - "
-        f"{match.get('away_score')}"
-    )
-
-    print(
-        f"Status     : {match.get('status')}"
-    )
-
-    print(
-        f"Status text: {match.get('status_text')}"
-    )
-
-    print(
-        f"Time       : {match.get('time')}"
-    )
-
-    print(
-        f"Live minute: {match.get('live_minute')}"
-    )
-
-    print(
-        f"Competition: {match.get('competition')}"
-    )
-
-    # --------------------------------------------------------
-    # الحقول الموجودة في match
-    # --------------------------------------------------------
-
-    print("\n")
-    print("#" * 70)
-    print("MATCH FIELDS")
-    print("#" * 70)
-
-    for key in match.keys():
-
-        print(f"- {key}")
-
-    # --------------------------------------------------------
-    # تحليل الأحداث
-    # --------------------------------------------------------
-
-    analyze_incidents(match)
-
-    return data
 
 
 # ============================================================
-# أدوات TEST 7
+# TEST 7 HELPERS
 # ============================================================
+
+TARGET_DATE = "2026-09-04"
+TARGET_HOME = "Real Betis"
+TARGET_AWAY = "Real Madrid"
+
 
 def normalize_name(value):
+    """
+    توحيد أسماء الفرق للمقارنة.
+    """
 
     if value is None:
         return ""
 
-    value = str(value).lower().strip()
+    value = str(value).strip().lower()
 
     value = re.sub(
-        r"[^a-z0-9\u00C0-\u024F\u0600-\u06FF]+",
-        "",
+        r"\s+",
+        " ",
         value,
     )
 
-    return value
+    replacements = {
+        "real betis seville": "real betis",
+        "real betis sevilla": "real betis",
+        "real betis": "real betis",
+        "real madrid": "real madrid",
+    }
+
+    return replacements.get(
+        value,
+        value,
+    )
 
 
-def is_real_madrid_betis_match(match):
+def get_team_name(match, side):
+    """
+    محاولة استخراج اسم الفريق من عدة صيغ محتملة.
+    """
+
+    if not isinstance(match, dict):
+        return ""
+
+    if side == "home":
+
+        keys = [
+            "home",
+            "home_team",
+            "homeTeam",
+            "home_name",
+            "homeName",
+            "homeTeamName",
+        ]
+
+    else:
+
+        keys = [
+            "away",
+            "away_team",
+            "awayTeam",
+            "away_name",
+            "awayName",
+            "awayTeamName",
+        ]
+
+    for key in keys:
+
+        value = match.get(key)
+
+        if isinstance(value, str) and value.strip():
+            return value.strip()
+
+        if isinstance(value, dict):
+
+            for nested_key in [
+                "name",
+                "title",
+                "team_name",
+                "shortName",
+            ]:
+
+                nested_value = value.get(
+                    nested_key
+                )
+
+                if (
+                    isinstance(
+                        nested_value,
+                        str,
+                    )
+                    and nested_value.strip()
+                ):
+                    return nested_value.strip()
+
+    return ""
+
+
+def get_match_time(match):
+    """
+    استخراج وقت المباراة.
+    """
+
+    if not isinstance(match, dict):
+        return None
+
+    keys = [
+        "time",
+        "start_time",
+        "startTime",
+        "date",
+        "datetime",
+        "timestamp",
+    ]
+
+    for key in keys:
+
+        value = match.get(key)
+
+        if value is not None:
+
+            if isinstance(
+                value,
+                (str, int, float),
+            ):
+                return value
+
+    return None
+
+
+def is_target_match(match):
+    """
+    التحقق من أن الكائن يمثل مباراة بيتيس وريال مدريد.
+    """
 
     if not isinstance(match, dict):
         return False
 
     home = normalize_name(
-        match.get("home")
+        get_team_name(
+            match,
+            "home",
+        )
     )
 
     away = normalize_name(
-        match.get("away")
+        get_team_name(
+            match,
+            "away",
+        )
     )
 
-    teams = f"{home} {away}"
-
-    madrid_found = (
-        "realmadrid" in teams
-        or "realmadrid" in home
-        or "realmadrid" in away
+    target_home = normalize_name(
+        TARGET_HOME
     )
 
-    betis_found = (
-        "realbetis" in teams
-        or "betisseville" in teams
-        or "realbetisseville" in teams
-        or "betis" in home
-        or "betis" in away
+    target_away = normalize_name(
+        TARGET_AWAY
     )
 
-    return madrid_found and betis_found
+    return (
+        home == target_home
+        and away == target_away
+    ) or (
+        home == target_away
+        and away == target_home
+    )
 
 
-def extract_match_candidates(data):
-
+def extract_match_candidates(obj):
     """
-    يحاول استخراج عناصر المباريات من أكثر من شكل
-    محتمل للاستجابة دون افتراض بنية واحدة.
+    البحث recursively عن جميع كائنات المباراة.
     """
 
     candidates = []
@@ -715,843 +507,1456 @@ def extract_match_candidates(data):
 
         if isinstance(value, dict):
 
-            # إذا كان الكائن يبدو كمباراة
-            if (
-                "home" in value
-                and "away" in value
-            ):
-
+            if is_target_match(value):
                 candidates.append(value)
 
             for child in value.values():
-
                 walk(child)
 
         elif isinstance(value, list):
 
-            for child in value:
+            for item in value:
+                walk(item)
 
-                walk(child)
-
-    walk(data)
+    walk(obj)
 
     return candidates
 
 
 def extract_slug_from_match(match):
+    """
+    استخراج slug المباراة.
+    """
 
     if not isinstance(match, dict):
         return None
 
-    # --------------------------------------------------------
-    # الأفضل: استخراج slug من url
-    # --------------------------------------------------------
+    possible_urls = [
+        match.get("url"),
+        match.get("match_url"),
+        match.get("matchUrl"),
+        match.get("link"),
+        match.get("href"),
+    ]
 
-    url = match.get("url")
+    for url in possible_urls:
 
-    if url:
+        if not url:
+            continue
 
-        url = str(url).strip()
+        url = (
+            str(url)
+            .strip()
+            .rstrip("/")
+        )
 
-        parts = [
-            part
-            for part in url.rstrip("/").split("/")
-            if part
-        ]
+        if "/football/match/" in url:
 
-        if parts:
+            slug = (
+                url
+                .split("/football/match/")[-1]
+                .split("?")[0]
+                .strip("/")
+            )
 
-            return parts[-1]
+            if slug:
+                return slug
 
-    # --------------------------------------------------------
-    # إذا كان API يعيد slug مباشرة
-    # --------------------------------------------------------
+    possible_slugs = [
+        match.get("slug"),
+        match.get("match_slug"),
+        match.get("matchSlug"),
+    ]
 
-    slug = match.get("slug")
+    for slug in possible_slugs:
 
-    if slug:
+        if slug:
 
-        return str(slug).strip()
+            return (
+                str(slug)
+                .strip()
+                .strip("/")
+            )
 
     return None
 
 
 def extract_match_object(data):
+    """
+    محاولة استخراج الكائن الرئيسي للمباراة.
+    """
 
-    if not isinstance(data, dict):
-        return None
+    if isinstance(data, dict):
 
-    match = data.get("match")
+        possible_keys = [
+            "match",
+            "data",
+            "fixture",
+            "game",
+        ]
 
-    if isinstance(match, dict):
-        return match
+        for key in possible_keys:
 
-    # إذا كانت الاستجابة نفسها تمثل المباراة
-    if (
-        "home" in data
-        and "away" in data
-    ):
+            value = data.get(key)
 
-        return data
+            if isinstance(value, dict):
+
+                if (
+                    is_target_match(value)
+                    or key in [
+                        "match",
+                        "fixture",
+                        "game",
+                    ]
+                ):
+                    return value
+
+        if is_target_match(data):
+            return data
 
     return None
 
 
-def summarize_live_match(match):
+def summarize_live_match(data):
+    """
+    استخراج ملخص المباراة من البيانات.
+    """
 
-    if not isinstance(match, dict):
-
-        return {
-            "status": None,
-            "status_text": None,
-            "minute": None,
-            "home_score": None,
-            "away_score": None,
-            "incidents": [],
-        }
-
-    incidents = match.get(
-        "incidents",
-        []
+    match = extract_match_object(
+        data
     )
 
-    if not isinstance(incidents, list):
+    if match is None:
+        match = data
 
-        incidents = []
+    if not isinstance(match, dict):
+        return {}
+
+    home = get_team_name(
+        match,
+        "home",
+    )
+
+    away = get_team_name(
+        match,
+        "away",
+    )
+
+    score_home = None
+    score_away = None
+
+    score_objects = [
+        match.get("score"),
+        match.get("scores"),
+    ]
+
+    for score in score_objects:
+
+        if isinstance(score, dict):
+
+            for key in [
+                "home",
+                "home_score",
+                "homeScore",
+            ]:
+
+                if key in score:
+                    score_home = score.get(key)
+                    break
+
+            for key in [
+                "away",
+                "away_score",
+                "awayScore",
+            ]:
+
+                if key in score:
+                    score_away = score.get(key)
+                    break
+
+    if score_home is None:
+
+        for key in [
+            "home_score",
+            "homeScore",
+            "score_home",
+        ]:
+
+            if key in match:
+                score_home = match.get(key)
+                break
+
+    if score_away is None:
+
+        for key in [
+            "away_score",
+            "awayScore",
+            "score_away",
+        ]:
+
+            if key in match:
+                score_away = match.get(key)
+                break
+
+    status = (
+        match.get("status")
+        or match.get("state")
+        or match.get("match_status")
+    )
+
+    status_text = (
+        match.get("status_text")
+        or match.get("statusText")
+        or match.get("state_text")
+        or match.get("stateText")
+    )
+
+    minute = (
+        match.get("minute")
+        or match.get("match_minute")
+        or match.get("matchMinute")
+        or match.get("elapsed")
+    )
+
+    match_time = get_match_time(
+        match
+    )
+
+    incidents = []
+
+    for key in [
+        "incidents",
+        "events",
+        "timeline",
+        "commentary",
+    ]:
+
+        value = match.get(key)
+
+        if isinstance(value, list):
+
+            incidents = value
+            break
 
     return {
-        "status": match.get("status"),
-        "status_text": match.get("status_text"),
-        "minute": match.get("live_minute"),
-        "home_score": match.get("home_score"),
-        "away_score": match.get("away_score"),
+        "home": home,
+        "away": away,
+        "score_home": score_home,
+        "score_away": score_away,
+        "status": status,
+        "status_text": status_text,
+        "time": match_time,
+        "minute": minute,
         "incidents": incidents,
     }
 
 
-def incident_signature(incident):
+def find_event_containers(obj):
+    """
+    البحث عن جميع القوائم التي قد تحتوي
+    على أحداث المباراة.
+    """
 
-    if not isinstance(incident, dict):
+    found = []
 
-        return str(incident)
+    def walk(value, path="root"):
 
-    return (
-        str(incident.get("type", "")),
-        str(incident.get("type_id", "")),
-        str(incident.get("time", "")),
-        str(incident.get("side", "")),
-        str(incident.get("player", "")),
-        str(incident.get("player_in", "")),
-        str(incident.get("player_out", "")),
-        str(incident.get("home_score", "")),
-        str(incident.get("away_score", "")),
+        if isinstance(value, dict):
+
+            for key, child in value.items():
+
+                key_lower = str(
+                    key
+                ).lower()
+
+                if any(
+                    word in key_lower
+                    for word in [
+                        "events",
+                        "event",
+                        "incidents",
+                        "incident",
+                        "timeline",
+                        "commentary",
+                    ]
+                ):
+
+                    if isinstance(
+                        child,
+                        list,
+                    ):
+
+                        found.append(
+                            {
+                                "path": (
+                                    f"{path}.{key}"
+                                ),
+                                "key": key,
+                                "items": child,
+                            }
+                        )
+
+                if isinstance(
+                    child,
+                    (dict, list),
+                ):
+
+                    walk(
+                        child,
+                        f"{path}.{key}",
+                    )
+
+        elif isinstance(value, list):
+
+            for index, item in enumerate(
+                value
+            ):
+
+                if isinstance(
+                    item,
+                    (dict, list),
+                ):
+
+                    walk(
+                        item,
+                        f"{path}[{index}]",
+                    )
+
+    walk(obj)
+
+    return found
+
+
+def print_event_structure(
+    obj,
+    path="root",
+    depth=0,
+    max_depth=8,
+):
+    """
+    طباعة بنية البيانات المتعلقة بالأحداث.
+    """
+
+    if depth > max_depth:
+        return
+
+    indent = "  " * depth
+
+    if isinstance(obj, dict):
+
+        print(
+            f"{indent}{path} -> "
+            f"DICT ({len(obj)} keys)"
+        )
+
+        for key, value in obj.items():
+
+            key_lower = str(
+                key
+            ).lower()
+
+            interesting = any(
+                word in key_lower
+                for word in [
+                    "event",
+                    "incident",
+                    "timeline",
+                    "goal",
+                    "card",
+                    "yellow",
+                    "red",
+                    "substitution",
+                    "score",
+                    "status",
+                    "minute",
+                    "time",
+                    "player",
+                    "team",
+                    "assist",
+                ]
+            )
+
+            if interesting:
+
+                if isinstance(
+                    value,
+                    (dict, list),
+                ):
+
+                    print(
+                        f"{indent}  KEY: "
+                        f"{key} -> "
+                        f"{type(value).__name__}"
+                    )
+
+                else:
+
+                    print(
+                        f"{indent}  KEY: "
+                        f"{key} -> "
+                        f"{repr(value)}"
+                    )
+
+            if isinstance(
+                value,
+                (dict, list),
+            ):
+
+                print_event_structure(
+                    value,
+                    f"{path}.{key}",
+                    depth + 1,
+                    max_depth,
+                )
+
+    elif isinstance(obj, list):
+
+        print(
+            f"{indent}{path} -> "
+            f"LIST ({len(obj)} items)"
+        )
+
+        for index, item in enumerate(
+            obj[:10]
+        ):
+
+            if isinstance(
+                item,
+                (dict, list),
+            ):
+
+                print_event_structure(
+                    item,
+                    f"{path}[{index}]",
+                    depth + 1,
+                    max_depth,
+                )
+
+            else:
+
+                print(
+                    f"{indent}  "
+                    f"[{index}] "
+                    f"{repr(item)}"
+                )
+
+
+def incident_signature(event):
+    """
+    إنشاء توقيع ثابت للحدث.
+    هذا سيكون مهمًا لاحقًا لمنع التكرار.
+    """
+
+    if not isinstance(event, dict):
+        return str(event)
+
+    important_keys = [
+        "id",
+        "event_id",
+        "eventId",
+        "incident_id",
+        "incidentId",
+        "type",
+        "event_type",
+        "eventType",
+        "incident_type",
+        "incidentType",
+        "minute",
+        "time",
+        "player",
+        "player_id",
+        "playerId",
+        "team",
+        "team_id",
+        "teamId",
+    ]
+
+    parts = []
+
+    for key in important_keys:
+
+        if key in event:
+
+            value = event.get(key)
+
+            if isinstance(
+                value,
+                (dict, list),
+            ):
+
+                value = json.dumps(
+                    value,
+                    ensure_ascii=False,
+                    sort_keys=True,
+                )
+
+            parts.append(
+                f"{key}={value}"
+            )
+
+    if parts:
+        return "|".join(parts)
+
+    return json.dumps(
+        event,
+        ensure_ascii=False,
+        sort_keys=True,
     )
 
 
-def compare_live_snapshots(first, second):
+def compare_live_snapshots(
+    first,
+    second,
+):
+    """
+    مقارنة لقطتين من المباراة.
+    """
 
-    print("\n")
-    print("-" * 70)
-    print("LIVE SNAPSHOT COMPARISON")
-    print("-" * 70)
-
-    print(
-        f"First score : "
-        f"{first.get('home_score')} - "
-        f"{first.get('away_score')}"
+    first_summary = summarize_live_match(
+        first
     )
 
-    print(
-        f"Second score: "
-        f"{second.get('home_score')} - "
-        f"{second.get('away_score')}"
+    second_summary = summarize_live_match(
+        second
     )
 
-    print(
-        f"First minute : {first.get('minute')}"
+    first_incidents = (
+        first_summary.get(
+            "incidents",
+            [],
+        )
     )
 
-    print(
-        f"Second minute: {second.get('minute')}"
+    second_incidents = (
+        second_summary.get(
+            "incidents",
+            [],
+        )
     )
 
-    first_incidents = {
-        incident_signature(item)
-        for item in first.get("incidents", [])
+    first_signatures = {
+        incident_signature(event)
+        for event in first_incidents
     }
 
-    second_incidents = {
-        incident_signature(item)
-        for item in second.get("incidents", [])
+    second_signatures = {
+        incident_signature(event)
+        for event in second_incidents
     }
 
-    new_incidents = (
-        second_incidents
-        - first_incidents
+    new_events = (
+        second_signatures
+        - first_signatures
     )
 
-    print(
-        f"First incidents : "
-        f"{len(first_incidents)}"
-    )
-
-    print(
-        f"Second incidents: "
-        f"{len(second_incidents)}"
-    )
-
-    print(
-        f"New incidents   : "
-        f"{len(new_incidents)}"
-    )
-
-    if (
-        first.get("home_score")
-        != second.get("home_score")
-        or
-        first.get("away_score")
-        != second.get("away_score")
-    ):
-
-        print(
-            "CHANGE DETECTED: SCORE CHANGED"
-        )
-
-    elif (
-        first.get("minute")
-        != second.get("minute")
-    ):
-
-        print(
-            "CHANGE DETECTED: LIVE MINUTE CHANGED"
-        )
-
-    elif new_incidents:
-
-        print(
-            "CHANGE DETECTED: NEW INCIDENTS"
-        )
-
-    else:
-
-        print(
-            "NO DATA CHANGE DETECTED"
-        )
-
-        print(
-            "This does NOT necessarily mean "
-            "the source is not live."
-        )
-
-        print(
-            "SportScore responses may be cached."
-        )
+    return {
+        "score_changed": (
+            first_summary.get(
+                "score_home"
+            )
+            != second_summary.get(
+                "score_home"
+            )
+            or
+            first_summary.get(
+                "score_away"
+            )
+            != second_summary.get(
+                "score_away"
+            )
+        ),
+        "minute_changed": (
+            first_summary.get(
+                "minute"
+            )
+            != second_summary.get(
+                "minute"
+            )
+        ),
+        "status_changed": (
+            first_summary.get(
+                "status"
+            )
+            != second_summary.get(
+                "status"
+            )
+        ),
+        "new_events": new_events,
+    }
 
 
 # ============================================================
 # TEST 7
-# مباراة ريال بيتيس × ريال مدريد
+# Real Betis vs Real Madrid
+# FULL LIVE MATCH / EVENTS INSPECTION
 # ============================================================
 
-def test_real_madrid_betis_live():
+print()
+print("=" * 70)
+print("TEST 7 — REAL BETIS vs REAL MADRID")
+print("FULL LIVE MATCH / EVENTS INSPECTION")
+print("=" * 70)
 
-    print("\n\n")
-    print("#" * 70)
+print()
+print("TARGET:")
+print(f"Home : {TARGET_HOME}")
+print(f"Away : {TARGET_AWAY}")
+print(f"Date : {TARGET_DATE}")
+
+
+# ============================================================
+# STEP 1
+# Find target match
+# ============================================================
+
+print()
+print("-" * 70)
+print("STEP 1 — FIND TARGET MATCH")
+print("-" * 70)
+
+data = request_api(
+    "team",
+    {
+        "sport": "football",
+        "slug": "real-madrid",
+        "limit": 30,
+        "src": "nabd-madrid",
+    },
+)
+
+if data is None:
+
+    print()
     print(
-        "TEST 7 — REAL BETIS vs REAL MADRID "
-        "LIVE MONITOR"
-    )
-    print("#" * 70)
-
-    print(
-        "\nTarget:"
+        "ERROR: Could not retrieve "
+        "Real Madrid team data."
     )
 
-    print(
-        "Real Betis Seville vs Real Madrid"
-    )
-
-    print(
-        "Date: 2026-09-04"
-    )
-
-    # --------------------------------------------------------
-    # الخطوة 1
-    # استخدام endpoint الخاص بريال مدريد
-    # --------------------------------------------------------
-
-    data = request_api(
-        "team",
-        {
-            "sport": "football",
-            "slug": "real-madrid",
-            "limit": 20,
-            "src": "nabd-madrid",
-        },
-    )
-
-    if data is None:
-
-        print(
-            "\nTEST 7 FAILED — "
-            "Could not retrieve Real Madrid team data."
-        )
-
-        return False
-
-    # --------------------------------------------------------
-    # البحث عن المباريات داخل استجابة الفريق
-    # --------------------------------------------------------
+else:
 
     candidates = extract_match_candidates(
         data
     )
 
+    print()
     print(
-        f"\nMatch objects detected: "
-        f"{len(candidates)}"
+        "Target match candidates found:",
+        len(candidates),
     )
 
-    target_match = None
+    if not candidates:
 
-    for candidate in candidates:
-
-        if is_real_madrid_betis_match(
-            candidate
-        ):
-
-            target_match = candidate
-
-            break
-
-    # --------------------------------------------------------
-    # لم يتم العثور على المباراة
-    # --------------------------------------------------------
-
-    if target_match is None:
-
-        print("\n")
-        print("-" * 70)
+        print()
         print(
-            "TARGET MATCH NOT FOUND "
-            "IN REAL MADRID TEAM DATA"
-        )
-        print("-" * 70)
-
-        print(
-            "\nThis is not treated as an API failure."
-        )
-
-        print(
-            "The team endpoint responded successfully, "
-            "but the target fixture was not found "
-            "in the returned data."
-        )
-
-        print(
-            "\nTEST 7 STATUS: NOT AVAILABLE YET"
-        )
-
-        return True
-
-    # --------------------------------------------------------
-    # معلومات المباراة المكتشفة
-    # --------------------------------------------------------
-
-    print("\n")
-    print("#" * 70)
-    print("TARGET MATCH FOUND")
-    print("#" * 70)
-
-    print(
-        f"Home       : "
-        f"{target_match.get('home')}"
-    )
-
-    print(
-        f"Away       : "
-        f"{target_match.get('away')}"
-    )
-
-    print(
-        f"Score      : "
-        f"{target_match.get('home_score')} - "
-        f"{target_match.get('away_score')}"
-    )
-
-    print(
-        f"Status     : "
-        f"{target_match.get('status')}"
-    )
-
-    print(
-        f"Status text: "
-        f"{target_match.get('status_text')}"
-    )
-
-    print(
-        f"Time       : "
-        f"{target_match.get('time')}"
-    )
-
-    print(
-        f"Live minute: "
-        f"{target_match.get('live_minute')}"
-    )
-
-    print(
-        f"URL        : "
-        f"{target_match.get('url')}"
-    )
-
-    # --------------------------------------------------------
-    # استخراج slug
-    # --------------------------------------------------------
-
-    match_slug = extract_slug_from_match(
-        target_match
-    )
-
-    print(
-        f"\nMATCH SLUG: {match_slug}"
-    )
-
-    if not match_slug:
-
-        print(
-            "\nTEST 7 FAILED — "
-            "Could not extract match slug."
-        )
-
-        return False
-
-    # --------------------------------------------------------
-    # الخطوة 2
-    # جلب تفاصيل المباراة
-    # --------------------------------------------------------
-
-    detail_data = request_api(
-        "match",
-        {
-            "sport": "football",
-            "slug": match_slug,
-            "src": "nabd-madrid",
-        },
-    )
-
-    if detail_data is None:
-
-        print(
-            "\nTEST 7 FAILED — "
-            "Could not retrieve match details."
-        )
-
-        return False
-
-    match = extract_match_object(
-        detail_data
-    )
-
-    if match is None:
-
-        print(
-            "\nTEST 7 FAILED — "
-            "Match object not found."
-        )
-
-        return False
-
-    # --------------------------------------------------------
-    # المعلومات الحالية
-    # --------------------------------------------------------
-
-    print("\n")
-    print("#" * 70)
-    print("CURRENT MATCH STATUS")
-    print("#" * 70)
-
-    print(
-        f"Home       : {match.get('home')}"
-    )
-
-    print(
-        f"Away       : {match.get('away')}"
-    )
-
-    print(
-        f"Score      : "
-        f"{match.get('home_score')} - "
-        f"{match.get('away_score')}"
-    )
-
-    print(
-        f"Status     : {match.get('status')}"
-    )
-
-    print(
-        f"Status text: {match.get('status_text')}"
-    )
-
-    print(
-        f"Time       : {match.get('time')}"
-    )
-
-    print(
-        f"Live minute: {match.get('live_minute')}"
-    )
-
-    incidents = match.get(
-        "incidents",
-        []
-    )
-
-    if isinstance(incidents, list):
-
-        print(
-            f"Incidents  : {len(incidents)}"
+            "TARGET MATCH NOT FOUND"
         )
 
     else:
 
-        print(
-            "Incidents  : unavailable"
-        )
+        # ----------------------------------------------------
+        # Display candidates
+        # ----------------------------------------------------
 
-    # --------------------------------------------------------
-    # تحديد حالة المباراة
-    # --------------------------------------------------------
+        for index, candidate in enumerate(
+            candidates,
+            start=1,
+        ):
 
-    status = str(
-        match.get(
-            "status",
-            ""
-        )
-    ).lower().strip()
-
-    status_text = str(
-        match.get(
-            "status_text",
-            ""
-        )
-    ).lower().strip()
-
-    combined_status = (
-        f"{status} {status_text}"
-    )
-
-    live_keywords = (
-        "live",
-        "inprogress",
-        "in progress",
-        "playing",
-        "started",
-    )
-
-    finished_keywords = (
-        "finished",
-        "ended",
-        "complete",
-        "completed",
-        "cancelled",
-        "postponed",
-    )
-
-    is_live = any(
-        keyword in combined_status
-        for keyword in live_keywords
-    )
-
-    is_finished = any(
-        keyword in combined_status
-        for keyword in finished_keywords
-    )
-
-    # --------------------------------------------------------
-    # المباراة لم تبدأ
-    # --------------------------------------------------------
-
-    if not is_live and not is_finished:
-
-        print("\n")
-        print("-" * 70)
-        print(
-            "MATCH HAS NOT STARTED YET"
-        )
-        print("-" * 70)
-
-        print(
-            "This is expected before kickoff."
-        )
-
-        print(
-            "\nTEST 7 STATUS: READY"
-        )
-
-        print(
-            "SportScore can locate the target "
-            "match and retrieve its details."
-        )
-
-        return True
-
-    # --------------------------------------------------------
-    # المباراة انتهت
-    # --------------------------------------------------------
-
-    if is_finished:
-
-        print("\n")
-        print("-" * 70)
-        print(
-            "MATCH IS FINISHED"
-        )
-        print("-" * 70)
-
-        print(
-            "Final score:"
-        )
-
-        print(
-            f"{match.get('home')} "
-            f"{match.get('home_score')} - "
-            f"{match.get('away_score')} "
-            f"{match.get('away')}"
-        )
-
-        print(
-            "\nTEST 7 STATUS: MATCH DATA AVAILABLE"
-        )
-
-        analyze_incidents(
-            match
-        )
-
-        return True
-
-    # --------------------------------------------------------
-    # المباراة حية
-    # --------------------------------------------------------
-
-    print("\n")
-    print("#" * 70)
-    print(
-        "LIVE MATCH DETECTED"
-    )
-    print("#" * 70)
-
-    print(
-        f"Live minute: "
-        f"{match.get('live_minute')}"
-    )
-
-    print(
-        f"Score: "
-        f"{match.get('home_score')} - "
-        f"{match.get('away_score')}"
-    )
-
-    print(
-        f"Incidents: "
-        f"{len(incidents) if isinstance(incidents, list) else 0}"
-    )
-
-    # --------------------------------------------------------
-    # تحليل الأحداث الحالية
-    # --------------------------------------------------------
-
-    analyze_incidents(
-        match
-    )
-
-    # --------------------------------------------------------
-    # Snapshot 1
-    # --------------------------------------------------------
-
-    first_snapshot = summarize_live_match(
-        match
-    )
-
-    # --------------------------------------------------------
-    # الانتظار أكثر من مدة الكاش
-    # --------------------------------------------------------
-
-    wait_seconds = 65
-
-    print("\n")
-    print("#" * 70)
-    print(
-        f"WAITING {wait_seconds} SECONDS "
-        "BEFORE SECOND LIVE CHECK"
-    )
-    print("#" * 70)
-
-    print(
-        "\nReason:"
-    )
-
-    print(
-        "SportScore responses may be cached "
-        "for approximately 60 seconds."
-    )
-
-    print(
-        "Waiting longer gives the second request "
-        "a better chance of receiving refreshed data."
-    )
-
-    for remaining in range(
-        wait_seconds,
-        0,
-        -5
-    ):
-
-        print(
-            f"Remaining: {remaining}s"
-        )
-
-        time.sleep(
-            min(
-                5,
-                remaining
+            print()
+            print(
+                f"CANDIDATE #{index}"
             )
+
+            print(
+                "Home:",
+                get_team_name(
+                    candidate,
+                    "home",
+                ),
+            )
+
+            print(
+                "Away:",
+                get_team_name(
+                    candidate,
+                    "away",
+                ),
+            )
+
+            print(
+                "Time:",
+                get_match_time(
+                    candidate
+                ),
+            )
+
+            print(
+                "Status:",
+                candidate.get(
+                    "status"
+                ),
+            )
+
+            print(
+                "URL:",
+                candidate.get(
+                    "url"
+                ),
+            )
+
+        # ----------------------------------------------------
+        # Prefer exact target date
+        # ----------------------------------------------------
+
+        selected_candidate = None
+
+        for candidate in candidates:
+
+            candidate_time = get_match_time(
+                candidate
+            )
+
+            if candidate_time:
+
+                candidate_time_text = str(
+                    candidate_time
+                )
+
+                if TARGET_DATE in candidate_time_text:
+
+                    selected_candidate = candidate
+                    break
+
+        # ----------------------------------------------------
+        # Fallback
+        # ----------------------------------------------------
+
+        if selected_candidate is None:
+
+            selected_candidate = candidates[0]
+
+            print()
+            print(
+                "WARNING:"
+            )
+            print(
+                "No candidate contained "
+                "the exact target date."
+            )
+
+            print(
+                "Using first matching candidate "
+                "to obtain slug."
+            )
+
+        else:
+
+            print()
+            print(
+                "Exact target-date candidate selected."
+            )
+
+        # ----------------------------------------------------
+        # Extract slug
+        # ----------------------------------------------------
+
+        slug = extract_slug_from_match(
+            selected_candidate
         )
 
-    # --------------------------------------------------------
-    # Snapshot 2
-    # --------------------------------------------------------
-
-    print("\n")
-    print("#" * 70)
-    print(
-        "SECOND LIVE CHECK"
-    )
-    print("#" * 70)
-
-    second_data = request_api(
-        "match",
-        {
-            "sport": "football",
-            "slug": match_slug,
-            "src": "nabd-madrid",
-        },
-    )
-
-    if second_data is None:
-
+        print()
         print(
-            "\nTEST 7 FAILED — "
-            "Second live request failed."
+            "MATCH SLUG:"
         )
+        print(slug)
 
-        return False
+        if not slug:
 
-    second_match = extract_match_object(
-        second_data
-    )
+            print()
+            print(
+                "ERROR: Could not extract "
+                "match slug."
+            )
 
-    if second_match is None:
+        else:
 
-        print(
-            "\nTEST 7 FAILED — "
-            "Second match object not found."
-        )
+            # =================================================
+            # STEP 2
+            # Full match detail
+            # =================================================
 
-        return False
+            print()
+            print("-" * 70)
+            print(
+                "STEP 2 — GET FULL MATCH DETAIL"
+            )
+            print("-" * 70)
 
-    second_snapshot = summarize_live_match(
-        second_match
-    )
+            match_data = request_api(
+                "match",
+                {
+                    "sport": "football",
+                    "slug": slug,
+                    "src": "nabd-madrid",
+                },
+            )
 
-    # --------------------------------------------------------
-    # المقارنة
-    # --------------------------------------------------------
+            if match_data is None:
 
-    compare_live_snapshots(
-        first_snapshot,
-        second_snapshot
-    )
+                print()
+                print(
+                    "ERROR: Could not retrieve "
+                    "full match data."
+                )
 
-    # --------------------------------------------------------
-    # نتيجة الاختبار
-    # --------------------------------------------------------
+            else:
 
-    print("\n")
-    print("#" * 70)
-    print("TEST 7 FINAL STATUS")
-    print("#" * 70)
+                # =================================================
+                # STEP 3
+                # Match summary
+                # =================================================
 
-    print(
-        "STATUS: SPORTScore LIVE DATA AVAILABLE"
-    )
+                print()
+                print("-" * 70)
+                print(
+                    "STEP 3 — CURRENT MATCH SUMMARY"
+                )
+                print("-" * 70)
 
-    print(
-        "The target match can be located and "
-        "its live match details can be retrieved."
-    )
+                summary = summarize_live_match(
+                    match_data
+                )
 
-    return True
+                print()
+                print(
+                    "Home       :",
+                    summary.get(
+                        "home"
+                    ),
+                )
 
+                print(
+                    "Away       :",
+                    summary.get(
+                        "away"
+                    ),
+                )
 
-# ============================================================
-# MAIN
-# ============================================================
+                print(
+                    "Score      :",
+                    summary.get(
+                        "score_home"
+                    ),
+                    "-",
+                    summary.get(
+                        "score_away"
+                    ),
+                )
 
-def main():
+                print(
+                    "Status     :",
+                    summary.get(
+                        "status"
+                    ),
+                )
 
-    print("=" * 70)
-    print("NABD MADRID — SPORTScore API TEST")
-    print("=" * 70)
+                print(
+                    "Status text:",
+                    summary.get(
+                        "status_text"
+                    ),
+                )
 
-    print(
-        "UTC:",
-        datetime.now(timezone.utc).strftime(
-            "%Y-%m-%d %H:%M:%S"
-        ),
-    )
+                print(
+                    "Time       :",
+                    summary.get(
+                        "time"
+                    ),
+                )
 
-    print(
-        "\nNo API key is required for this test."
-    )
+                print(
+                    "Live minute:",
+                    summary.get(
+                        "minute"
+                    ),
+                )
 
-    # ========================================================
-    # الاختبارات الحالية
-    # ========================================================
+                print(
+                    "Incidents  :",
+                    len(
+                        summary.get(
+                            "incidents",
+                            [],
+                        )
+                    ),
+                )
 
-    test_live_matches()
+                # =================================================
+                # STEP 4
+                # Status analysis
+                # =================================================
 
-    test_real_madrid()
+                print()
+                print("-" * 70)
+                print(
+                    "STEP 4 — STATUS ANALYSIS"
+                )
+                print("-" * 70)
 
-    test_barcelona()
+                raw_status = str(
+                    summary.get(
+                        "status"
+                    )
+                    or ""
+                ).strip().lower()
 
-    test_ucl()
+                raw_status_text = str(
+                    summary.get(
+                        "status_text"
+                    )
+                    or ""
+                ).strip().lower()
 
-    test_la_liga()
+                combined_status = (
+                    f"{raw_status} "
+                    f"{raw_status_text}"
+                )
 
-    # ========================================================
-    # TEST 6
-    # ========================================================
+                is_not_started = (
+                    "not started"
+                    in combined_status
+                    or
+                    "upcoming"
+                    in combined_status
+                    or
+                    "scheduled"
+                    in combined_status
+                )
 
-    test_match_detail()
+                live_keywords = (
+                    "live",
+                    "inprogress",
+                    "in progress",
+                    "playing",
+                    "ongoing",
+                )
 
-    # ========================================================
-    # TEST 7
-    # ========================================================
+                is_live = (
+                    not is_not_started
+                    and any(
+                        keyword
+                        in combined_status
+                        for keyword
+                        in live_keywords
+                    )
+                )
 
-    test_real_madrid_betis_live()
+                finished_keywords = (
+                    "finished",
+                    "full time",
+                    "completed",
+                    "complete",
+                    "ended",
+                )
 
-    # ========================================================
-    # النهاية
-    # ========================================================
+                is_finished = any(
+                    keyword
+                    in combined_status
+                    for keyword in finished_keywords
+                )
 
-    print("\n\n")
-    print("=" * 70)
-    print("SPORTSCORE TEST FINISHED")
-    print("=" * 70)
+                print()
+                print(
+                    "Normalized status:",
+                    combined_status,
+                )
 
+                print(
+                    "Not started:",
+                    is_not_started,
+                )
 
-# ============================================================
-# تشغيل البرنامج
-# ============================================================
+                print(
+                    "Live:",
+                    is_live,
+                )
 
-if __name__ == "__main__":
-    main()
+                print(
+                    "Finished:",
+                    is_finished,
+                )
+
+                # =================================================
+                # STEP 5
+                # Event containers
+                # =================================================
+
+                print()
+                print("-" * 70)
+                print(
+                    "STEP 5 — EVENT CONTAINERS"
+                )
+                print("-" * 70)
+
+                containers = find_event_containers(
+                    match_data
+                )
+
+                print(
+                    "Event containers found:",
+                    len(containers),
+                )
+
+                for index, container in enumerate(
+                    containers,
+                    start=1,
+                ):
+
+                    print()
+                    print(
+                        f"EVENT CONTAINER #{index}"
+                    )
+
+                    print(
+                        "Path:",
+                        container[
+                            "path"
+                        ],
+                    )
+
+                    print(
+                        "Key:",
+                        container[
+                            "key"
+                        ],
+                    )
+
+                    print(
+                        "Items:",
+                        len(
+                            container[
+                                "items"
+                            ]
+                        ),
+                    )
+
+                    for event_index, event in enumerate(
+                        container[
+                            "items"
+                        ][:20],
+                        start=1,
+                    ):
+
+                        print()
+                        print(
+                            f"EVENT #{event_index}"
+                        )
+
+                        if isinstance(
+                            event,
+                            dict,
+                        ):
+
+                            print(
+                                json.dumps(
+                                    event,
+                                    ensure_ascii=False,
+                                    indent=2,
+                                )[:5000]
+                            )
+
+                        else:
+
+                            print(
+                                repr(event)
+                            )
+
+                # =================================================
+                # STEP 6
+                # Event structure
+                # =================================================
+
+                print()
+                print("-" * 70)
+                print(
+                    "STEP 6 — EVENT DATA STRUCTURE"
+                )
+                print("-" * 70)
+
+                print_event_structure(
+                    match_data,
+                    max_depth=7,
+                )
+
+                # =================================================
+                # STEP 7
+                # Raw JSON
+                # =================================================
+
+                print()
+                print("-" * 70)
+                print(
+                    "STEP 7 — RAW MATCH JSON"
+                )
+                print("-" * 70)
+
+                raw_json = json.dumps(
+                    match_data,
+                    ensure_ascii=False,
+                    indent=2,
+                )
+
+                print(
+                    raw_json[:40000]
+                )
+
+                if len(raw_json) > 40000:
+
+                    print()
+                    print(
+                        "... RAW JSON TRUNCATED ..."
+                    )
+
+                # =================================================
+                # STEP 8
+                # Initial live monitoring
+                # =================================================
+
+                print()
+                print("-" * 70)
+                print(
+                    "STEP 8 — LIVE MONITOR PRECHECK"
+                )
+                print("-" * 70)
+
+                if is_not_started:
+
+                    print()
+                    print(
+                        "MATCH STATUS:"
+                    )
+
+                    print(
+                        "NOT STARTED"
+                    )
+
+                    print()
+                    print(
+                        "The monitor is READY."
+                    )
+
+                    print(
+                        "It will wait for the "
+                        "match to become live."
+                    )
+
+                    print()
+                    print(
+                        "IMPORTANT:"
+                    )
+
+                    print(
+                        "'Not started' is NOT "
+                        "treated as live."
+                    )
+
+                elif is_live:
+
+                    print()
+                    print(
+                        "LIVE MATCH DETECTED"
+                    )
+
+                    print(
+                        "Live minute:",
+                        summary.get(
+                            "minute"
+                        ),
+                    )
+
+                    print(
+                        "Score:",
+                        summary.get(
+                            "score_home"
+                        ),
+                        "-",
+                        summary.get(
+                            "score_away"
+                        ),
+                    )
+
+                    print(
+                        "Incidents:",
+                        len(
+                            summary.get(
+                                "incidents",
+                                [],
+                            )
+                        ),
+                    )
+
+                    print()
+                    print(
+                        "The match can be "
+                        "monitored immediately."
+                    )
+
+                elif is_finished:
+
+                    print()
+                    print(
+                        "MATCH FINISHED"
+                    )
+
+                    print(
+                        "Final score:",
+                        summary.get(
+                            "score_home"
+                        ),
+                        "-",
+                        summary.get(
+                            "score_away"
+                        ),
+                    )
+
+                else:
+
+                    print()
+                    print(
+                        "UNKNOWN MATCH STATUS"
+                    )
+
+                    print(
+                        "The raw status values "
+                        "were printed above."
+                    )
+
+                # =================================================
+                # STEP 9
+                # Optional second snapshot
+                # =================================================
+
+                if is_live:
+
+                    print()
+                    print("-" * 70)
+                    print(
+                        "STEP 9 — SECOND LIVE SNAPSHOT"
+                    )
+                    print("-" * 70)
+
+                    print()
+                    print(
+                        "WAITING 65 SECONDS..."
+                    )
+
+                    time.sleep(65)
+
+                    second_data = request_api(
+                        "match",
+                        {
+                            "sport": "football",
+                            "slug": slug,
+                            "src": "nabd-madrid",
+                        },
+                    )
+
+                    if second_data is not None:
+
+                        comparison = compare_live_snapshots(
+                            match_data,
+                            second_data,
+                        )
+
+                        second_summary = summarize_live_match(
+                            second_data
+                        )
+
+                        print()
+                        print(
+                            "FIRST SNAPSHOT"
+                        )
+
+                        print(
+                            "Score:",
+                            summary.get(
+                                "score_home"
+                            ),
+                            "-",
+                            summary.get(
+                                "score_away"
+                            ),
+                        )
+
+                        print(
+                            "Minute:",
+                            summary.get(
+                                "minute"
+                            ),
+                        )
+
+                        print(
+                            "Incidents:",
+                            len(
+                                summary.get(
+                                    "incidents",
+                                    [],
+                                )
+                            ),
+                        )
+
+                        print()
+                        print(
+                            "SECOND SNAPSHOT"
+                        )
+
+                        print(
+                            "Score:",
+                            second_summary.get(
+                                "score_home"
+                            ),
+                            "-",
+                            second_summary.get(
+                                "score_away"
+                            ),
+                        )
+
+                        print(
+                            "Minute:",
+                            second_summary.get(
+                                "minute"
+                            ),
+                        )
+
+                        print(
+                            "Incidents:",
+                            len(
+                                second_summary.get(
+                                    "incidents",
+                                    [],
+                                )
+                            ),
+                        )
+
+                        print()
+                        print(
+                            "COMPARISON"
+                        )
+
+                        print(
+                            "Score changed:",
+                            comparison[
+                                "score_changed"
+                            ],
+                        )
+
+                        print(
+                            "Minute changed:",
+                            comparison[
+                                "minute_changed"
+                            ],
+                        )
+
+                        print(
+                            "Status changed:",
+                            comparison[
+                                "status_changed"
+                            ],
+                        )
+
+                        print(
+                            "New events:",
+                            len(
+                                comparison[
+                                    "new_events"
+                                ]
+                            ),
+                        )
+
+                        if comparison[
+                            "new_events"
+                        ]:
+
+                            print()
+                            print(
+                                "NEW EVENT SIGNATURES:"
+                            )
+
+                            for event in comparison[
+                                "new_events"
+                            ]:
+
+                                print(
+                                    event
+                                )
+
+                    else:
+
+                        print(
+                            "SECOND SNAPSHOT "
+                            "COULD NOT BE RETRIEVED"
+                        )
+
+                # =================================================
+                # FINAL STATUS
+                # =================================================
+
+                print()
+                print("=" * 70)
+                print(
+                    "TEST 7 FINAL STATUS"
+                )
+                print("=" * 70)
+
+                print()
+                print(
+                    "STATUS: FULL MATCH DATA RETRIEVED"
+                )
+
+                print(
+                    "Match:",
+                    summary.get(
+                        "home"
+                    ),
+                    "vs",
+                    summary.get(
+                        "away"
+                    ),
+                )
+
+                print(
+                    "Time:",
+                    summary.get(
+                        "time"
+                    ),
+                )
+
+                print(
+                    "Status:",
+                    summary.get(
+                        "status"
+                    ),
+                )
+
+                print(
+                    "Events:",
+                    len(
+                        summary.get(
+                            "incidents",
+                            [],
+                        )
+                    ),
+                )
+
+                print()
+                print(
+                    "NEXT STEP:"
+                )
+
+                print(
+                    "Build live_event_manager.py "
+                    "from the actual SportScore "
+                    "event structure above."
+                )
+
+                print("=" * 70)
