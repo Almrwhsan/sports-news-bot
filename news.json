@@ -1,5 +1,57 @@
 [
   {
+    "title": "Terzic: “¿Atlético? No hay ningún equipo invencible?",
+    "url": "https://as.com/futbol/terzic-atletico-no-hay-ningun-equipo-invencible-f202609-n/",
+    "summary": "El técnico alemán ya ganó a Simeone con el Dortmund.",
+    "published": "Fri, 04 Sep 2026 12:31:44 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LPAZKHJNFZLGXJIKQZPYEMR4DY.jpg?auth=b67a6873e2c0f72217348a26f1c154a0940aa07f12f5efd22fb62dd13833580b",
+    "media_type": "image",
+    "arabic_title": "Terzic: “¿Atlético? No hay ningún equipo invencible?",
+    "arabic_summary": "El técnico alemán ya ganó a Simeone con el Dortmund.",
+    "post_title": "Terzic: “¿Atlético? No hay ningún equipo invencible?",
+    "post_text": "🚨 Terzic: “¿Atlético? No hay ningún equipo invencible?\n\n📰 El técnico alemán ya ganó a Simeone con el Dortmund.\n\n🏷️ كرة القدم\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042351468430164",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Terzic_“¿Atlético_No_hay_ningún_equipo_invencible.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/terzic-atletico-no-hay-ningun-equipo-invencible-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
+    "title": "La afición del Valencia prepara protestas en Mestalla durante el partido ante el Barcelona: \"El último gran servicio a nuestro club\"",
+    "url": "https://www.marca.com/futbol/valencia/2026/09/04/aficion-valencia-prepara-protestas-mestalla-durante-partido-barcelona-ultimo-gran-servicio-nuestro-club.html",
+    "summary": "El mal arranque del equipo y el mercado de verano, activa propuestas para vaciar la grada hasta el minuto 19 y otras que proponen \"rugir\" desde dentro",
+    "published": "Fri, 04 Sep 2026 14:31:34 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9ab8522a3bb.jpeg",
+    "media_type": "image",
+    "arabic_title": "La afición del Valencia prepara protestas en Mestalla durante el partido ante el Barcelona: \"El último gran servicio a nuestro club\"",
+    "arabic_summary": "El mal arranque del equipo y el mercado de verano, activa propuestas para vaciar la grada hasta el minuto 19 y otras que proponen \"rugir\" desde dentro",
+    "post_title": "La afición del Valencia prepara protestas en Mestalla durante el partido ante el Barcelona: \"El último gran servicio a nuestro club\"",
+    "post_text": "🚨 La afición del Valencia prepara protestas en Mestalla durante el partido ante el Barcelona: \"El último gran servicio a nuestro club\"\n\n📰 El mal arranque del equipo y el mercado de verano, activa propuestas para vaciar la grada hasta el minuto 19 y otras que proponen \"rugir\" desde dentro\n\n🏷️ برشلونة\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042351578430153",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/La_afición_del_Valencia_prepara_protestas_en_Mestalla_durante_el_partido_ante_el.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/09/04/aficion-valencia-prepara-protestas-mestalla-durante-partido-barcelona-ultimo-gran-servicio-nuestro-club.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Sara Tamarit: \"Vamos a sudar sangre para dejar al Valencia en Liga F\"",
     "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/09/04/sara-tamarit-sudar-sangre-dejar-valencia-liga-f.html",
     "summary": "La capitana del equipo cree que es fundamental arrancar con victoria en el Antonio Puchades",
@@ -8791,18 +8843,6 @@
     "title": "Life as a Wag in the transfer window",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 08 Aug 2026 05:15:34 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "A secret invite and other 'pinch-me' moments before Leicester woke up",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:41:51 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "The summer that changed Welsh football",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ced4lq94ldvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 05:17:17 GMT",
     "source": "BBC Sport Football"
   }
 ]
