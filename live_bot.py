@@ -11,15 +11,10 @@ from facebook_publisher import publish_post
 
 MATCH_SLUG = "real-betis-vs-real-madrid"
 
-# SportScore قد يحتفظ بالبيانات مؤقتًا لنحو دقيقة.
 POLL_INTERVAL = 65
 
-# ============================================================
-# وضع الاختبار
-# ============================================================
-
-# False = يعرض الأحداث فقط ولا ينشر على Facebook
-# True  = ينشر الأحداث المكتشفة على Facebook
+# مهم جدًا:
+# False = اختبار فقط، لا يوجد نشر على Facebook
 PUBLISH_TO_FACEBOOK = False
 
 
@@ -39,7 +34,7 @@ class LiveBot:
         )
 
     # --------------------------------------------------------
-    # إنشاء نص الحدث
+    # إنشاء رسالة الحدث
     # --------------------------------------------------------
 
     def format_event_message(self, event):
@@ -61,15 +56,12 @@ class LiveBot:
 
         message = self.format_event_message(event)
 
+        print()
         print("=" * 70)
         print("EVENT READY FOR FACEBOOK")
         print("=" * 70)
         print(message)
         print("=" * 70)
-
-        # ----------------------------------------------------
-        # Dry Run
-        # ----------------------------------------------------
 
         if not PUBLISH_TO_FACEBOOK:
 
@@ -83,10 +75,6 @@ class LiveBot:
                 "post_id": None,
                 "error": "Dry run mode.",
             }
-
-        # ----------------------------------------------------
-        # Facebook
-        # ----------------------------------------------------
 
         print("📤 Publishing event to Facebook...")
 
@@ -108,25 +96,48 @@ class LiveBot:
         return result
 
     # --------------------------------------------------------
-    # تشغيل دورة واحدة
+    # اختبار دورة واحدة
     # --------------------------------------------------------
 
     def run_once(self):
 
         print()
         print("=" * 70)
-        print("LIVE BOT — CHECK")
+        print("LIVE BOT — ONE TIME TEST")
         print("=" * 70)
 
+        print("Match:", MATCH_SLUG)
+
+        # ----------------------------------------------------
         # جلب المباراة
+        # ----------------------------------------------------
+
+        print()
+        print("STEP 1 — FETCH MATCH")
+
         match = self.match_manager.fetch_match()
 
+        if not match:
+
+            print("❌ Failed to fetch match.")
+
+            return None
+
+        print("✅ Match data received.")
+
+        # ----------------------------------------------------
         # تحليل المباراة
+        # ----------------------------------------------------
+
+        print()
+        print("STEP 2 — INSPECT MATCH")
+
         result = self.match_manager.inspect_match(match)
 
         if not result:
 
             print("❌ Failed to inspect match.")
+
             return None
 
         # ----------------------------------------------------
@@ -134,7 +145,8 @@ class LiveBot:
         # ----------------------------------------------------
 
         print()
-        print("MATCH STATUS:")
+        print("STEP 3 — MATCH STATUS")
+
         print("Home      :", result.get("home"))
         print("Away      :", result.get("away"))
         print("Score     :", result.get("home_score"), "-", result.get("away_score"))
@@ -149,9 +161,14 @@ class LiveBot:
 
         print("Incidents :", len(incidents))
 
+        # ----------------------------------------------------
+        # لا توجد أحداث
+        # ----------------------------------------------------
+
         if not incidents:
 
-            print("No incidents found.")
+            print()
+            print("ℹ️ No incidents found.")
 
             return result
 
@@ -159,16 +176,31 @@ class LiveBot:
         # اكتشاف الأحداث الجديدة
         # ----------------------------------------------------
 
+        print()
+        print("STEP 4 — EVENT DETECTION")
+
         new_events = self.event_manager.process_snapshot(
             incidents
         )
 
-        print()
-        print("NEW EVENTS:", len(new_events))
+        print("New events:", len(new_events))
+
+        # ----------------------------------------------------
+        # الأحداث الجديدة
+        # ----------------------------------------------------
+
+        if not new_events:
+
+            print("ℹ️ No new events.")
+
+            return result
 
         # ----------------------------------------------------
         # معالجة الأحداث
         # ----------------------------------------------------
+
+        print()
+        print("STEP 5 — EVENT OUTPUT")
 
         for event in new_events:
 
@@ -177,76 +209,16 @@ class LiveBot:
 
             self.publish_event(event)
 
+        # ----------------------------------------------------
+        # النهاية
+        # ----------------------------------------------------
+
+        print()
+        print("=" * 70)
+        print("ONE TIME TEST COMPLETE")
+        print("=" * 70)
+
         return result
-
-    # --------------------------------------------------------
-    # التشغيل المستمر
-    # --------------------------------------------------------
-
-    def run(self):
-
-        print("=" * 70)
-        print("LIVE FOOTBALL BOT")
-        print("=" * 70)
-
-        print("Match:", MATCH_SLUG)
-        print("Poll interval:", POLL_INTERVAL)
-        print(
-            "Facebook publishing:",
-            "ENABLED" if PUBLISH_TO_FACEBOOK else "DISABLED",
-        )
-
-        print()
-
-        # ----------------------------------------------------
-        # Bootstrap
-        # ----------------------------------------------------
-
-        print("Initializing live event state...")
-
-        self.match_manager.bootstrap()
-
-        print("Bootstrap complete.")
-
-        print()
-
-        # ----------------------------------------------------
-        # مراقبة المباراة
-        # ----------------------------------------------------
-
-        while True:
-
-            result = self.run_once()
-
-            if result is None:
-
-                print("⚠️ No match data.")
-                time.sleep(POLL_INTERVAL)
-                continue
-
-            # ------------------------------------------------
-            # المباراة انتهت
-            # ------------------------------------------------
-
-            if result.get("finished"):
-
-                print()
-                print("=" * 70)
-                print("🏁 MATCH FINISHED")
-                print("=" * 70)
-
-                break
-
-            # ------------------------------------------------
-            # الانتظار
-            # ------------------------------------------------
-
-            print()
-            print(
-                f"⏳ Waiting {POLL_INTERVAL} seconds for next update..."
-            )
-
-            time.sleep(POLL_INTERVAL)
 
 
 # ============================================================
@@ -257,4 +229,4 @@ if __name__ == "__main__":
 
     bot = LiveBot()
 
-    bot.run()
+    bot.run_once()
