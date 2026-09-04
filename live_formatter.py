@@ -1,190 +1,268 @@
 # ============================================================
 # LIVE FORMATTER
+# تنسيق أحداث المباريات المباشرة
 # SportScore Football
-# Arabic Facebook Live Events
 # ============================================================
 
 from __future__ import annotations
 
 import re
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 
 # ============================================================
-# Helpers
+# أدوات مساعدة
 # ============================================================
 
 def safe_text(value: Any, default: str = "") -> str:
     """
-    تحويل القيمة إلى نص نظيف.
+    تحويل القيمة إلى نص آمن.
     """
-
     if value is None:
         return default
 
     text = str(value).strip()
 
-    return text if text else default
-
-
-def safe_int(value: Any, default: int | None = None) -> int | None:
-    """
-    تحويل القيمة إلى integer عند الإمكان.
-    """
-
-    if value is None:
+    if not text:
         return default
+
+    return text
+
+
+def safe_int(value: Any) -> Optional[int]:
+    """
+    تحويل القيمة إلى integer بدون التسبب بخطأ.
+    """
+    if value is None:
+        return None
 
     try:
         return int(value)
     except (TypeError, ValueError):
-        return default
+        return None
 
 
-def normalize_team_name(name: Any) -> str:
+def normalize_text(value: Any) -> str:
     """
-    تنظيف اسم الفريق فقط.
-    لا نقوم بترجمة الاسم تلقائيًا هنا.
+    تطبيع النص للمقارنة.
     """
+    text = safe_text(value)
 
-    text = safe_text(name)
+    text = text.lower()
 
-    text = re.sub(
-        r"\s+",
-        " ",
-        text,
-    )
+    text = re.sub(r"\s+", " ", text)
 
-    return text
-
-
-def normalize_player_name(name: Any) -> str:
-    """
-    تنظيف اسم اللاعب.
-    """
-
-    text = safe_text(name)
-
-    text = re.sub(
-        r"\s+",
-        " ",
-        text,
-    )
-
-    return text
+    return text.strip()
 
 
 # ============================================================
-# Arabic Name Mapping
-# ============================================================
-#
-# سنوسع هذه القائمة لاحقًا.
-# لا نريد ترجمة أسماء اللاعبين آليًا بطريقة خاطئة.
+# أسماء الفرق
 # ============================================================
 
 TEAM_NAMES = {
+
+    # --------------------------------------------------------
+    # إسبانيا
+    # --------------------------------------------------------
+
     "real madrid": "ريال مدريد",
+    "real madrid cf": "ريال مدريد",
+    "realmadrid": "ريال مدريد",
+
     "real betis": "ريال بيتيس",
+    "real betis balompie": "ريال بيتيس",
+    "real betis balompié": "ريال بيتيس",
+
     "barcelona": "برشلونة",
     "fc barcelona": "برشلونة",
+
     "atletico madrid": "أتلتيكو مدريد",
     "atlético madrid": "أتلتيكو مدريد",
+    "atletico de madrid": "أتلتيكو مدريد",
+
     "sevilla": "إشبيلية",
+    "sevilla fc": "إشبيلية",
+
+    # --------------------------------------------------------
+    # إنجلترا
+    # --------------------------------------------------------
+
     "manchester city": "مانشستر سيتي",
     "manchester united": "مانشستر يونايتد",
+
     "liverpool": "ليفربول",
+    "liverpool fc": "ليفربول",
+
     "arsenal": "أرسنال",
+    "arsenal fc": "أرسنال",
+
     "chelsea": "تشيلسي",
+    "chelsea fc": "تشيلسي",
+
     "tottenham": "توتنهام",
+    "tottenham hotspur": "توتنهام",
+
+    # --------------------------------------------------------
+    # ألمانيا
+    # --------------------------------------------------------
+
     "bayern munich": "بايرن ميونخ",
+    "fc bayern munich": "بايرن ميونخ",
+    "bayern münchen": "بايرن ميونخ",
+
     "borussia dortmund": "بوروسيا دورتموند",
-    "inter": "إنتر",
+    "dortmund": "بوروسيا دورتموند",
+
+    # --------------------------------------------------------
+    # إيطاليا
+    # --------------------------------------------------------
+
+    "inter": "إنتر ميلان",
     "inter milan": "إنتر ميلان",
+    "internazionale": "إنتر ميلان",
+
     "ac milan": "ميلان",
+    "milan": "ميلان",
+
     "juventus": "يوفنتوس",
+    "juventus fc": "يوفنتوس",
+
+    # --------------------------------------------------------
+    # فرنسا
+    # --------------------------------------------------------
+
     "paris saint-germain": "باريس سان جيرمان",
+    "paris saint germain": "باريس سان جيرمان",
     "psg": "باريس سان جيرمان",
 }
 
 
+# ============================================================
+# أسماء اللاعبين
+# ============================================================
+
+# ============================================================
+# ملاحظة مهمة:
+#
+# لا نضع أسماء اللاعبين هنا إلا إذا كان لدينا اسم موثوق.
+#
+# SportScore قد يعيد الاسم بالإنجليزية أو بصيغة مختلفة.
+# لذلك إذا لم يوجد اللاعب في هذه القائمة، سيتم استخدام
+# الاسم القادم من المصدر كما هو بدل اختراع ترجمة.
+# ============================================================
+
 PLAYER_NAMES = {
-    # يمكن إضافة الأسماء المؤكدة هنا لاحقًا.
-    #
-    # "kylian mbappe": "كيليان مبابي",
+
+    # --------------------------------------------------------
+    # Real Madrid
+    # --------------------------------------------------------
+
+    "kylian mbappe": "كيليان مبابي",
+    "kylian mbappé": "كيليان مبابي",
+
+    "arda güler": "أردا غولر",
+    "arda guler": "أردا غولر",
+
+    "vinicius junior": "فينيسيوس جونيور",
+    "vinicius jr": "فينيسيوس جونيور",
+    "vinícius júnior": "فينيسيوس جونيور",
+
+    "rodrygo": "رودريغو",
+
+    "jude bellingham": "جود بيلينغهام",
+
+    "federico valverde": "فيديريكو فالفيردي",
+
+    "aurélien tchouaméni": "أوريلين تشواميني",
+    "aurelien tchouameni": "أوريلين تشواميني",
+
+    "eduardo camavinga": "إدواردو كامافينغا",
+
+    "dani carvajal": "داني كارفاخال",
+
+    "antonio rudiger": "أنطونيو روديغر",
+    "antonio rüdiger": "أنطونيو روديغر",
+
+    "thibaut courtois": "تيبو كورتوا",
+
+    # --------------------------------------------------------
+    # Real Betis
+    # --------------------------------------------------------
+
+    "jorge benguché": "خورخي بينغوتشي",
+    "jorge benguche": "خورخي بينغوتشي",
 }
 
 
-def arabic_team_name(name: Any) -> str:
+# ============================================================
+# ترجمة اسم الفريق
+# ============================================================
+
+def arabic_team_name(team: Any) -> str:
     """
-    إرجاع الاسم العربي المعروف للفريق.
-    إذا لم يوجد في القاموس، نستخدم الاسم الأصلي.
-    """
+    تحويل اسم الفريق إلى العربية إذا كان معروفًا.
 
-    original = normalize_team_name(name)
-
-    if not original:
-        return ""
-
-    key = original.lower()
-
-    return TEAM_NAMES.get(
-        key,
-        original,
-    )
-
-
-def arabic_player_name(name: Any) -> str:
-    """
-    إرجاع الاسم العربي المعروف للاعب.
-
-    لا نحاول ترجمة الاسم آليًا هنا حتى لا ننتج
-    أخطاء في أسماء اللاعبين.
+    إذا لم يكن الفريق موجودًا في القائمة، نعيد الاسم الأصلي.
     """
 
-    original = normalize_player_name(name)
+    text = safe_text(team)
 
-    if not original:
-        return ""
+    if not text:
+        return "الفريق"
 
-    key = original.lower()
+    normalized = normalize_text(text)
 
-    return PLAYER_NAMES.get(
-        key,
-        original,
-    )
+    return TEAM_NAMES.get(normalized, text)
 
 
 # ============================================================
-# Score
+# ترجمة اسم اللاعب
+# ============================================================
+
+def arabic_player_name(player: Any) -> str:
+    """
+    تحويل اسم اللاعب إلى العربية إذا كان معروفًا.
+
+    إذا لم يكن موجودًا في القائمة:
+    نستخدم الاسم الأصلي القادم من المصدر.
+    """
+
+    text = safe_text(player)
+
+    if not text:
+        return "اللاعب"
+
+    normalized = normalize_text(text)
+
+    return PLAYER_NAMES.get(normalized, text)
+
+
+# ============================================================
+# تنسيق النتيجة
 # ============================================================
 
 def format_score(
     home_score: Any,
     away_score: Any,
 ) -> str:
-    """
-    تنسيق النتيجة.
-    """
 
     home = safe_int(home_score)
     away = safe_int(away_score)
 
-    if home is None or away is None:
-        return ""
+    if home is None:
+        home = 0
+
+    if away is None:
+        away = 0
 
     return f"{home}️⃣-{away}️⃣"
 
 
 # ============================================================
-# Match Line
+# سطر المباراة
 # ============================================================
 
-def format_match_line(
-    event: Dict[str, Any],
-) -> str:
-    """
-    سطر المباراة.
-    """
+def format_match_line(event: Dict[str, Any]) -> str:
 
     home = arabic_team_name(
         event.get("home_team")
@@ -199,25 +277,16 @@ def format_match_line(
         event.get("away_score"),
     )
 
-    if not home and not away:
-        return ""
-
-    if score:
-        return f"🇪🇸 {home} {score} {away} 🇪🇸"
-
-    return f"🇪🇸 {home} - {away} 🇪🇸"
+    return (
+        f"🇪🇸 {home} {score} {away} 🇪🇸"
+    )
 
 
 # ============================================================
-# Minute
+# الدقيقة
 # ============================================================
 
-def format_minute(
-    event: Dict[str, Any],
-) -> str:
-    """
-    تنسيق الدقيقة.
-    """
+def format_minute(event: Dict[str, Any]) -> str:
 
     minute = safe_int(
         event.get("minute")
@@ -230,435 +299,356 @@ def format_minute(
 
 
 # ============================================================
-# Goal
+# اللاعب
 # ============================================================
 
-def format_goal(
-    event: Dict[str, Any],
-) -> str:
+def format_player(event: Dict[str, Any]) -> str:
 
-    home = arabic_team_name(
-        event.get("home_team")
+    player = event.get("player")
+
+    if not player:
+        return ""
+
+    return (
+        f"👤 {arabic_player_name(player)}"
     )
 
-    away = arabic_team_name(
-        event.get("away_team")
-    )
 
-    player = arabic_player_name(
-        event.get("player")
-    )
+# ============================================================
+# تنسيق الهدف
+# ============================================================
 
-    minute = format_minute(
-        event
-    )
+def format_goal(event: Dict[str, Any]) -> str:
 
-    score = format_score(
-        event.get("home_score"),
-        event.get("away_score"),
-    )
+    minute = format_minute(event)
 
-    side = safe_text(
-        event.get("side")
-    ).lower()
+    player = format_player(event)
 
-    scoring_team = ""
-
-    if side == "home":
-        scoring_team = home
-
-    elif side == "away":
-        scoring_team = away
+    match_line = format_match_line(event)
 
     lines = [
         "🚨⚽️ جــــووووول!",
         "",
+        match_line,
     ]
-
-    if scoring_team:
-        lines[0] = (
-            f"🚨⚽️ جــــووووول "
-            f"لـ{scoring_team}!"
-        )
-
-    if home and away and score:
-        lines.extend([
-            f"🇪🇸 {home} {score} {away} 🇪🇸",
-            "",
-        ])
 
     if player:
-        lines.append(
-            f"👤 {player}"
-        )
-
-    if minute:
-        lines.append(
-            minute
-        )
-
-    lines.extend([
-        "",
-        "🔥 يا لها من لحظة!",
-        "",
-        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
-    ])
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# Own Goal
-# ============================================================
-
-def format_own_goal(
-    event: Dict[str, Any],
-) -> str:
-
-    player = arabic_player_name(
-        event.get("player")
-    )
-
-    match_line = format_match_line(
-        event
-    )
-
-    minute = format_minute(
-        event
-    )
-
-    lines = [
-        "🚨⚽️ هدف عكسي!",
-        "",
-    ]
-
-    if match_line:
         lines.extend([
-            match_line,
             "",
-        ])
-
-    if player:
-        lines.append(
-            f"👤 {player}"
-        )
-
-    if minute:
-        lines.append(
-            minute
-        )
-
-    lines.extend([
-        "",
-        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
-    ])
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# Yellow Card
-# ============================================================
-
-def format_yellow_card(
-    event: Dict[str, Any],
-) -> str:
-
-    player = arabic_player_name(
-        event.get("player")
-    )
-
-    match_line = format_match_line(
-        event
-    )
-
-    minute = format_minute(
-        event
-    )
-
-    lines = [
-        "🟨 بطاقة صفراء",
-        "",
-    ]
-
-    if match_line:
-        lines.extend([
-            match_line,
-            "",
-        ])
-
-    if player:
-        lines.append(
-            f"👤 {player}"
-        )
-
-    if minute:
-        lines.append(
-            minute
-        )
-
-    lines.extend([
-        "",
-        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
-    ])
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# Red Card
-# ============================================================
-
-def format_red_card(
-    event: Dict[str, Any],
-) -> str:
-
-    player = arabic_player_name(
-        event.get("player")
-    )
-
-    match_line = format_match_line(
-        event
-    )
-
-    minute = format_minute(
-        event
-    )
-
-    lines = [
-        "🟥 بطاقة حمراء",
-        "",
-    ]
-
-    if match_line:
-        lines.extend([
-            match_line,
-            "",
-        ])
-
-    if player:
-        lines.append(
-            f"👤 {player}"
-        )
-
-    if minute:
-        lines.append(
-            minute
-        )
-
-    lines.extend([
-        "",
-        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
-    ])
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# Penalty
-# ============================================================
-
-def format_penalty(
-    event: Dict[str, Any],
-) -> str:
-
-    match_line = format_match_line(
-        event
-    )
-
-    player = arabic_player_name(
-        event.get("player")
-    )
-
-    minute = format_minute(
-        event
-    )
-
-    lines = [
-        "⚽️ ركلة جزاء",
-        "",
-    ]
-
-    if match_line:
-        lines.extend([
-            match_line,
-            "",
-        ])
-
-    if player:
-        lines.append(
-            f"👤 {player}"
-        )
-
-    if minute:
-        lines.append(
-            minute
-        )
-
-    lines.extend([
-        "",
-        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
-    ])
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# Substitution
-# ============================================================
-
-def format_substitution(
-    event: Dict[str, Any],
-) -> str:
-
-    match_line = format_match_line(
-        event
-    )
-
-    minute = format_minute(
-        event
-    )
-
-    player = arabic_player_name(
-        event.get("player")
-    )
-
-    lines = [
-        "🔄 تبديل",
-        "",
-    ]
-
-    if match_line:
-        lines.extend([
-            match_line,
-            "",
+            player,
         ])
 
     if minute:
         lines.extend([
             minute,
-            "",
         ])
+
+    lines.extend([
+        "",
+        "🔥 ريال مدريد يتقدم!",
+        "",
+        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
+    ])
+
+    return "\n".join(lines)
+
+
+# ============================================================
+# الهدف العكسي
+# ============================================================
+
+def format_own_goal(event: Dict[str, Any]) -> str:
+
+    minute = format_minute(event)
+
+    player = format_player(event)
+
+    match_line = format_match_line(event)
+
+    lines = [
+        "🚨⚽️ جــــووووول عكسي!",
+        "",
+        match_line,
+    ]
 
     if player:
-        lines.append(
-            f"👤 اللاعب: {player}"
-        )
-
-    lines.extend([
-        "",
-        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
-    ])
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# Cancelled Goal
-# ============================================================
-
-def format_goal_cancelled(
-    event: Dict[str, Any],
-) -> str:
-
-    match_line = format_match_line(
-        event
-    )
-
-    minute = format_minute(
-        event
-    )
-
-    lines = [
-        "🚫⚽️ هدف ملغى",
-        "",
-    ]
-
-    if match_line:
         lines.extend([
-            match_line,
             "",
+            player,
         ])
 
     if minute:
-        lines.append(
-            minute
-        )
+        lines.append(minute)
 
     lines.extend([
         "",
         "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
     ])
 
-    return "\n".join(
-        lines
-    )
+    return "\n".join(lines)
 
 
 # ============================================================
-# Unknown
+# البطاقة الصفراء
 # ============================================================
 
-def format_unknown(
-    event: Dict[str, Any],
-) -> str:
+def format_yellow_card(event: Dict[str, Any]) -> str:
 
-    match_line = format_match_line(
-        event
-    )
+    minute = format_minute(event)
 
-    minute = format_minute(
-        event
-    )
+    player = format_player(event)
+
+    match_line = format_match_line(event)
 
     lines = [
-        "📢 تحديث من المباراة",
+        "🟨 بطاقة صفراء!",
         "",
+        match_line,
     ]
 
-    if match_line:
+    if player:
         lines.extend([
-            match_line,
             "",
+            player,
         ])
 
     if minute:
-        lines.append(
-            minute
-        )
+        lines.append(minute)
 
     lines.extend([
         "",
         "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
     ])
 
-    return "\n".join(
-        lines
+    return "\n".join(lines)
+
+
+# ============================================================
+# البطاقة الحمراء
+# ============================================================
+
+def format_red_card(event: Dict[str, Any]) -> str:
+
+    minute = format_minute(event)
+
+    player = format_player(event)
+
+    match_line = format_match_line(event)
+
+    lines = [
+        "🟥 بطاقة حمراء!",
+        "",
+        match_line,
+    ]
+
+    if player:
+        lines.extend([
+            "",
+            player,
+        ])
+
+    if minute:
+        lines.append(minute)
+
+    lines.extend([
+        "",
+        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
+    ])
+
+    return "\n".join(lines)
+
+
+# ============================================================
+# ركلة الجزاء
+# ============================================================
+
+def format_penalty(event: Dict[str, Any]) -> str:
+
+    minute = format_minute(event)
+
+    player = format_player(event)
+
+    match_line = format_match_line(event)
+
+    lines = [
+        "⚽️ ركلة جزاء!",
+        "",
+        match_line,
+    ]
+
+    if player:
+        lines.extend([
+            "",
+            player,
+        ])
+
+    if minute:
+        lines.append(minute)
+
+    lines.extend([
+        "",
+        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
+    ])
+
+    return "\n".join(lines)
+
+
+# ============================================================
+# الهدف الملغى
+# ============================================================
+
+def format_goal_cancelled(event: Dict[str, Any]) -> str:
+
+    minute = format_minute(event)
+
+    player = format_player(event)
+
+    match_line = format_match_line(event)
+
+    lines = [
+        "🚫⚽️ هدف ملغى!",
+        "",
+        match_line,
+    ]
+
+    if player:
+        lines.extend([
+            "",
+            player,
+        ])
+
+    if minute:
+        lines.append(minute)
+
+    lines.extend([
+        "",
+        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
+    ])
+
+    return "\n".join(lines)
+
+
+# ============================================================
+# التبديل
+# ============================================================
+
+def format_substitution(event: Dict[str, Any]) -> str:
+
+    minute = format_minute(event)
+
+    match_line = format_match_line(event)
+
+    player = safe_text(
+        event.get("player")
     )
 
+    player_in = safe_text(
+        event.get("player_in")
+    )
+
+    player_out = safe_text(
+        event.get("player_out")
+    )
+
+    lines = [
+        "🔄 تبديل",
+        "",
+        match_line,
+    ]
+
+    if minute:
+        lines.extend([
+            "",
+            minute,
+        ])
+
+    # --------------------------------------------------------
+    # إذا كانت بيانات الدخول والخروج متوفرة
+    # --------------------------------------------------------
+
+    if player_out:
+        lines.extend([
+            "",
+            f"⬅️ خروج: {arabic_player_name(player_out)}",
+        ])
+
+    if player_in:
+        lines.append(
+            f"➡️ دخول: {arabic_player_name(player_in)}"
+        )
+
+    # --------------------------------------------------------
+    # fallback
+    #
+    # إذا كان المصدر يعيد لاعبًا واحدًا فقط
+    # --------------------------------------------------------
+
+    if (
+        not player_out
+        and not player_in
+        and player
+    ):
+        lines.extend([
+            "",
+            f"👤 {arabic_player_name(player)}",
+        ])
+
+    lines.extend([
+        "",
+        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
+    ])
+
+    return "\n".join(lines)
+
 
 # ============================================================
-# Main Formatter
+# حدث غير معروف
 # ============================================================
 
-def format_live_event(
-    event: Dict[str, Any],
-) -> str:
+def format_unknown(event: Dict[str, Any]) -> str:
+
+    minute = format_minute(event)
+
+    match_line = format_match_line(event)
+
+    event_type = safe_text(
+        event.get("type"),
+        "حدث جديد",
+    )
+
+    lines = [
+        f"📢 {event_type}",
+        "",
+        match_line,
+    ]
+
+    if minute:
+        lines.extend([
+            "",
+            minute,
+        ])
+
+    lines.extend([
+        "",
+        "#ريال_مدريد #ريال_بيتيس #نبض_مدريد",
+    ])
+
+    return "\n".join(lines)
+
+
+# ============================================================
+# الدالة الرئيسية
+# ============================================================
+
+def format_live_event(event: Dict[str, Any]) -> str:
     """
-    اختيار الصيغة المناسبة حسب نوع الحدث.
+    تنسيق الحدث حسب نوعه.
+
+    هذه هي الدالة الوحيدة التي يحتاجها live_bot.py.
     """
+
+    if not isinstance(event, dict):
+        return ""
 
     event_type = safe_text(
         event.get("event_type")
@@ -679,66 +669,168 @@ def format_live_event(
     if event_type == "penalty":
         return format_penalty(event)
 
-    if event_type == "substitution":
-        return format_substitution(event)
-
     if event_type == "goal_cancelled":
         return format_goal_cancelled(event)
+
+    if event_type == "substitution":
+        return format_substitution(event)
 
     return format_unknown(event)
 
 
 # ============================================================
-# Self Test
+# SELF TEST
 # ============================================================
 
-if __name__ == "__main__":
+def self_test():
 
     print("=" * 70)
     print("LIVE FORMATTER — SELF TEST")
     print("=" * 70)
 
+    # --------------------------------------------------------
+    # Goal
+    # --------------------------------------------------------
+
     goal_event = {
         "event_type": "goal",
         "minute": 20,
-        "side": "away",
-        "player": "Kylian Mbappé",
+        "player": "Kylian Mbappe",
         "home_score": 0,
         "away_score": 1,
         "home_team": "Real Betis",
         "away_team": "Real Madrid",
     }
 
-    yellow_event = {
-        "event_type": "yellow_card",
-        "minute": 32,
-        "side": "home",
-        "player": "Player Test",
-        "home_score": 0,
-        "away_score": 1,
-        "home_team": "Real Betis",
-        "away_team": "Real Madrid",
-    }
+    goal_message = format_live_event(
+        goal_event
+    )
 
     print()
     print("TEST 1 — GOAL")
     print("-" * 70)
-    print(
-        format_live_event(
-            goal_event
-        )
+    print(goal_message)
+
+    assert "جــــووووول" in goal_message
+    assert "ريال بيتيس" in goal_message
+    assert "ريال مدريد" in goal_message
+    assert "كيليان مبابي" in goal_message
+    assert "الدقيقة 20" in goal_message
+
+    # --------------------------------------------------------
+    # Yellow card
+    # --------------------------------------------------------
+
+    yellow_event = {
+        "event_type": "yellow_card",
+        "minute": 48,
+        "player": "Arda Güler",
+        "home_score": 0,
+        "away_score": 0,
+        "home_team": "Real Betis",
+        "away_team": "Real Madrid",
+    }
+
+    yellow_message = format_live_event(
+        yellow_event
     )
 
     print()
     print("TEST 2 — YELLOW CARD")
     print("-" * 70)
-    print(
-        format_live_event(
-            yellow_event
-        )
+    print(yellow_message)
+
+    assert "🟨 بطاقة صفراء!" in yellow_message
+    assert "أردا غولر" in yellow_message
+    assert "الدقيقة 48" in yellow_message
+
+    # --------------------------------------------------------
+    # Red card
+    # --------------------------------------------------------
+
+    red_event = {
+        "event_type": "red_card",
+        "minute": 74,
+        "player": "Arda Güler",
+        "home_score": 0,
+        "away_score": 1,
+        "home_team": "Real Betis",
+        "away_team": "Real Madrid",
+    }
+
+    red_message = format_live_event(
+        red_event
     )
 
     print()
+    print("TEST 3 — RED CARD")
+    print("-" * 70)
+    print(red_message)
+
+    assert "🟥 بطاقة حمراء!" in red_message
+
+    # --------------------------------------------------------
+    # Substitution
+    # --------------------------------------------------------
+
+    substitution_event = {
+        "event_type": "substitution",
+        "minute": 67,
+        "player_in": "Rodrygo",
+        "player_out": "Vinicius Junior",
+        "home_score": 0,
+        "away_score": 1,
+        "home_team": "Real Betis",
+        "away_team": "Real Madrid",
+    }
+
+    substitution_message = format_live_event(
+        substitution_event
+    )
+
+    print()
+    print("TEST 4 — SUBSTITUTION")
+    print("-" * 70)
+    print(substitution_message)
+
+    assert "🔄 تبديل" in substitution_message
+    assert "خروج" in substitution_message
+    assert "دخول" in substitution_message
+
+    # --------------------------------------------------------
+    # Unknown
+    # --------------------------------------------------------
+
+    unknown_event = {
+        "event_type": "unknown",
+        "type": "VAR",
+        "minute": 55,
+        "home_score": 0,
+        "away_score": 1,
+        "home_team": "Real Betis",
+        "away_team": "Real Madrid",
+    }
+
+    unknown_message = format_live_event(
+        unknown_event
+    )
+
+    print()
+    print("TEST 5 — UNKNOWN EVENT")
+    print("-" * 70)
+    print(unknown_message)
+
+    assert unknown_message
+
+    print()
     print("=" * 70)
-    print("SELF TEST PASSED")
+    print("✅ LIVE FORMATTER SELF TEST PASSED")
     print("=" * 70)
+
+
+# ============================================================
+# تشغيل الاختبار
+# ============================================================
+
+if __name__ == "__main__":
+    self_test()
