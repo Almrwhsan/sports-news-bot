@@ -1,5 +1,57 @@
 [
   {
+    "title": "Obed Vargas se mantiene en el aire",
+    "url": "https://as.com/futbol/primera/obed-vargas-se-mantiene-en-el-aire-f202609-n/",
+    "summary": "El mexicano vuelve a quedarse fuera de la convocatoria. Carlos Martín ha salido con el mercado español cerrado. Concentró ofertas de la Liga sin éxito.",
+    "published": "Fri, 04 Sep 2026 17:42:07 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WERIYV5WCRNG5HR5RZ5YTQ5FKI.jpg?auth=e59f7dcb5dc760792d63c91ab414b6df7266a93ab1fd314328d5a894f8b7a85e",
+    "media_type": "image",
+    "arabic_title": "عوبيد فارغاس يبقى في الهواء",
+    "arabic_summary": "تم استبعاد المكسيكي مرة أخرى من المكالمة. غادر كارلوس مارتن مع إغلاق السوق الإسبانية. ركز العروض من الدوري دون جدوى.",
+    "post_title": "عوبيد فارغاس يبقى في الهواء",
+    "post_text": "🚨 عوبيد فارغاس يبقى في الهواء\n\n📰 تم استبعاد المكسيكي مرة أخرى من المكالمة. غادر كارلوس مارتن مع إغلاق السوق الإسبانية. ركز العروض من الدوري دون جدوى.\n\n🏷️ سوق الانتقالات\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042571835074794",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عوبيد_فارغاس_يبقى_في_الهواء.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/obed-vargas-se-mantiene-en-el-aire-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
+    "title": "Guendouzi recibe una sanción de dos partidos tras sus provocaciones contra la afición del Lyon",
+    "url": "https://www.marca.com/futbol/champions-league/2026/09/04/guendouzi-recibe-sancion-dos-partidos-provocaciones-aficion-lyon.html",
+    "summary": "No estará en el retorno del Fenerbahçe a la Champions League",
+    "published": "Fri, 04 Sep 2026 19:40:47 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "champions_league",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9b017c8c720.jpeg",
+    "media_type": "image",
+    "arabic_title": "إيقاف جندوزي مباراتين بعد استفزازاته لجماهير ليون",
+    "arabic_summary": "ولن يكون ضمن عودة فنربخشة إلى دوري أبطال أوروبا",
+    "post_title": "إيقاف جندوزي مباراتين بعد استفزازاته لجماهير ليون",
+    "post_text": "🚨 إيقاف جندوزي مباراتين بعد استفزازاته لجماهير ليون\n\n📰 ولن يكون ضمن عودة فنربخشة إلى دوري أبطال أوروبا\n\n🏷️ دوري أبطال أوروبا\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042571941741450",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيقاف_جندوزي_مباراتين_بعد_استفزازاته_لجماهير_ليون.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/09/04/guendouzi-recibe-sancion-dos-partidos-provocaciones-aficion-lyon.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Ipswich - Liverpool en directo",
     "url": "https://www.marca.com/futbol/premier-league/2026/09/04/01-0106-20260904-40-14.html",
     "summary": "Sigue en vivo y en directo el Ipswich Town - Liverpool en directo de Premier League con todos los goles y estadísticas del partido",
@@ -9293,18 +9345,6 @@
     "title": "How to follow Transfer Deadline Day on the BBC",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 28 Aug 2026 09:12:46 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Sutton's predictions v Royal Blood drummer Ben Thatcher",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 16:04:56 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 18:59:28 GMT",
     "source": "BBC Sport Football"
   }
 ]
