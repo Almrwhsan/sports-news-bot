@@ -1,5 +1,31 @@
 [
   {
+    "title": "La vida sin uruguayos",
+    "url": "https://as.com/futbol/primera/la-vida-sin-uruguayos-f202609-n/",
+    "summary": "El Atlético afronta su primer curso sin un charrúa en su plantilla desde la llegada de Forlán en 2007. Giménez, heredero de Godín, deja huérfano el vestuario.",
+    "published": "Fri, 04 Sep 2026 23:19:50 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/3QRRFWYIEFKPFP7JCHZD23DIFU.jpg?auth=a7dc6f45ee01bc7d308bf45fcba6424b1ad7b96d56d58b7519004b9bf5104b35",
+    "media_type": "image",
+    "arabic_title": "الحياة بدون الأوروغواي",
+    "arabic_summary": "يواجه أتلتيكو موسمه الأول بدون لاعب أوروغواياني في فريقه منذ وصول فورلان في عام 2007. ويترك خيمينيز، وريث جودين، غرفة خلع الملابس يتيمًا.",
+    "post_title": "الحياة بدون الأوروغواي",
+    "post_text": "🚨 الحياة بدون الأوروغواي\n\n📰 يواجه أتلتيكو موسمه الأول بدون لاعب أوروغواياني في فريقه منذ وصول فورلان في عام 2007. ويترك خيمينيز، وريث جودين، غرفة خلع الملابس يتيمًا.\n\n🏷️ كرة القدم\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042753958389915",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحياة_بدون_الأوروغواي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/la-vida-sin-uruguayos-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Brugts y Kika, refuerzos para Sevilla",
     "url": "https://as.com/futbol/femenino/brugts-y-kika-refuerzos-para-sevilla-f202609-n/",
     "summary": "Romeu recupera a ambas futbolistas unos días antes de tiempo. “El día que me levante pensando que no puedo puntuar, me retiro”, dijo Losada en la previa.",
@@ -10079,12 +10105,6 @@
     "title": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckgwz6g45lpo?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 16:38:50 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Tech trouble leaves Chelsea game ref without comms",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 17:41:22 GMT",
     "source": "BBC Sport Football"
   }
 ]
