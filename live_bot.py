@@ -2,7 +2,8 @@ import os
 import time
 
 from live_match_manager import LiveMatchManager
-from facebook_publisher import FacebookPublisher
+from live_event_manager import LiveEventManager
+from facebook_publisher import publish_post
 
 
 # ============================================================
@@ -13,75 +14,14 @@ MATCH_SLUG = "real-betis-vs-real-madrid"
 
 POLL_INTERVAL = 65
 
-# مهم:
-# False = مراقبة فقط بدون نشر
-# True  = السماح بالنشر على فيسبوك
+
+# ============================================================
+# إعداد النشر
+# ============================================================
+
+# False = اختبار بدون نشر
+# True  = نشر فعلي على Facebook
 PUBLISH_TO_FACEBOOK = False
-
-
-# ============================================================
-# Facebook
-# ============================================================
-
-def create_facebook_publisher():
-    page_id = os.getenv("FACEBOOK_PAGE_ID")
-    access_token = os.getenv("FACEBOOK_PAGE_ACCESS_TOKEN")
-
-    if not page_id or not access_token:
-        raise RuntimeError(
-            "Facebook credentials are missing."
-        )
-
-    return FacebookPublisher(
-        page_id=page_id,
-        access_token=access_token,
-    )
-
-
-# ============================================================
-# نشر الحدث
-# ============================================================
-
-def publish_event(publisher, event, event_manager):
-    """
-    تجهيز نص الحدث ونشره على Facebook.
-    """
-
-    label = event_manager.event_label(event)
-    description = event_manager.describe_event(event)
-
-    message = f"🚨 {label}\n\n{description}"
-
-    print()
-    print("=" * 70)
-    print("FACEBOOK EVENT")
-    print("=" * 70)
-    print(message)
-
-    if not PUBLISH_TO_FACEBOOK:
-        print()
-        print("PUBLISH_TO_FACEBOOK = False")
-        print("DRY RUN — NOTHING WAS PUBLISHED.")
-
-        return False
-
-    try:
-
-        result = publisher.publish_text(message)
-
-        print()
-        print("FACEBOOK PUBLISH RESULT:")
-        print(result)
-
-        return True
-
-    except Exception as exc:
-
-        print()
-        print("FACEBOOK PUBLISH ERROR:")
-        print(exc)
-
-        return False
 
 
 # ============================================================
@@ -92,38 +32,118 @@ class LiveBot:
 
     def __init__(self):
 
-        self.event_manager = None
-        self.match_manager = None
-        self.facebook = None
-
-    # --------------------------------------------------------
-    # إنشاء النظام
-    # --------------------------------------------------------
-
-    def setup(self):
-
-        print("=" * 70)
-        print("NABD MADRID — LIVE BOT")
-        print("=" * 70)
-
-        print()
-        print(f"Match slug: {MATCH_SLUG}")
-        print(f"Poll interval: {POLL_INTERVAL}s")
-        print(
-            "Facebook publishing:",
-            PUBLISH_TO_FACEBOOK
-        )
-
-        self.facebook = create_facebook_publisher()
+        self.event_manager = LiveEventManager()
 
         self.match_manager = LiveMatchManager(
             slug=MATCH_SLUG,
             poll_interval=POLL_INTERVAL,
+            event_manager=self.event_manager,
         )
 
-        self.event_manager = (
-            self.match_manager.event_manager
+    # --------------------------------------------------------
+    # تجهيز رسالة الحدث
+    # --------------------------------------------------------
+
+    def format_event_message(self, event):
+
+        label = self.event_manager.event_label(
+            event
         )
+
+        description = (
+            self.event_manager.describe_event(
+                event
+            )
+        )
+
+        return (
+            f"🚨 {label}\n\n"
+            f"{description}\n\n"
+            f"نبض مدريد"
+        )
+
+    # --------------------------------------------------------
+    # نشر حدث
+    # --------------------------------------------------------
+
+    def publish_event(self, event):
+
+        message = self.format_event_message(
+            event
+        )
+
+        print()
+        print("=" * 70)
+        print("EVENT READY FOR FACEBOOK")
+        print("=" * 70)
+
+        print(message)
+
+        # ----------------------------------------------------
+        # وضع الاختبار
+        # ----------------------------------------------------
+
+        if not PUBLISH_TO_FACEBOOK:
+
+            print()
+            print(
+                "🧪 DRY RUN"
+            )
+
+            print(
+                "Facebook publishing is disabled."
+            )
+
+            print(
+                "Nothing was published."
+            )
+
+            return {
+                "success": False,
+                "published": False,
+                "post_id": None,
+                "error": "Dry run mode."
+            }
+
+        # ----------------------------------------------------
+        # النشر الحقيقي
+        # ----------------------------------------------------
+
+        print()
+        print(
+            "📤 Publishing event to Facebook..."
+        )
+
+        result = publish_post(
+            message=message,
+            image_path=None,
+        )
+
+        if result.get("success"):
+
+            print()
+            print(
+                "✅ EVENT PUBLISHED SUCCESSFULLY"
+            )
+
+            print(
+                "Post ID:",
+                result.get("post_id")
+            )
+
+        else:
+
+            print()
+            print(
+                "❌ EVENT PUBLISH FAILED"
+            )
+
+            print(
+                "Error:",
+                result.get("error")
+            )
+
+        return result
 
     # --------------------------------------------------------
     # تشغيل Snapshot واحدة
@@ -133,7 +153,7 @@ class LiveBot:
 
         print()
         print("=" * 70)
-        print("FETCHING LIVE MATCH")
+        print("FETCHING SPORTScore MATCH")
         print("=" * 70)
 
         match = self.match_manager.fetch_match()
@@ -142,17 +162,26 @@ class LiveBot:
             match
         )
 
-        incidents = result["incidents"]
+        # ----------------------------------------------------
+        # الأحداث
+        # ----------------------------------------------------
+
+        incidents = result.get(
+            "incidents",
+            []
+        )
 
         if not incidents:
 
             print()
-            print("No incidents found.")
+            print(
+                "No incidents found."
+            )
 
             return result
 
         # ----------------------------------------------------
-        # الأحداث الجديدة
+        # اكتشاف الأحداث الجديدة
         # ----------------------------------------------------
 
         new_events = (
@@ -163,50 +192,84 @@ class LiveBot:
 
         print()
         print(
-            f"NEW EVENTS FOR PUBLISHING: "
-            f"{len(new_events)}"
+            f"NEW EVENTS: {len(new_events)}"
         )
+
+        # ----------------------------------------------------
+        # نشر كل حدث جديد
+        # ----------------------------------------------------
 
         for event in new_events:
 
-            publish_event(
-                self.facebook,
-                event,
-                self.event_manager,
+            self.publish_event(
+                event
             )
 
         return result
 
     # --------------------------------------------------------
-    # تشغيل
+    # التشغيل الرئيسي
     # --------------------------------------------------------
 
     def run(self):
 
-        self.setup()
+        print("=" * 70)
+        print("NABD MADRID — LIVE FOOTBALL BOT")
+        print("=" * 70)
 
         print()
-        print("=" * 70)
-        print("LIVE BOT STARTED")
-        print("=" * 70)
+        print(
+            f"Match: {MATCH_SLUG}"
+        )
+
+        print(
+            f"Poll interval: {POLL_INTERVAL} seconds"
+        )
+
+        print(
+            "Facebook:",
+            "ENABLED"
+            if PUBLISH_TO_FACEBOOK
+            else "DRY RUN"
+        )
 
         # ----------------------------------------------------
         # Bootstrap
         # ----------------------------------------------------
 
         print()
+        print("=" * 70)
         print("BOOTSTRAP")
+        print("=" * 70)
 
-        self.match_manager.bootstrap()
+        try:
+
+            self.match_manager.bootstrap()
+
+        except Exception as exc:
+
+            print()
+            print(
+                "❌ Bootstrap failed:"
+            )
+
+            print(exc)
+
+            return
 
         print()
         print(
-            "Existing events will NOT be published."
+            "Existing incidents will NOT be published."
         )
 
         # ----------------------------------------------------
-        # مراقبة مستمرة
+        # مراقبة المباراة
         # ----------------------------------------------------
+
+        print()
+        print("=" * 70)
+        print("LIVE MONITOR STARTED")
+        print("=" * 70)
 
         while True:
 
@@ -214,11 +277,11 @@ class LiveBot:
 
                 result = self.run_once()
 
-                if result["finished"]:
+                if result.get("finished"):
 
                     print()
                     print(
-                        "MATCH FINISHED."
+                        "🏁 MATCH FINISHED"
                     )
 
                     break
@@ -227,16 +290,19 @@ class LiveBot:
 
                 print()
                 print(
-                    "LIVE BOT ERROR:"
+                    "❌ LIVE BOT ERROR:"
                 )
+
                 print(exc)
 
             print()
             print(
-                f"Waiting {POLL_INTERVAL} seconds..."
+                f"⏳ Waiting {POLL_INTERVAL} seconds..."
             )
 
-            time.sleep(POLL_INTERVAL)
+            time.sleep(
+                POLL_INTERVAL
+            )
 
 
 # ============================================================
