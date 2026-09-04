@@ -4,8 +4,8 @@ from live_match_manager import LiveMatchManager
 from live_event_manager import (
     LiveEventManager,
     event_label,
-    describe_event,
 )
+from live_formatter import format_live_event
 from facebook_publisher import publish_post
 
 
@@ -50,14 +50,7 @@ class LiveBot:
 
     def format_event_message(self, event):
 
-        label = event_label(event)
-        description = describe_event(event)
-
-        return (
-            f"🚨 {label}\n\n"
-            f"{description}\n\n"
-            f"نبض مدريد"
-        )
+        return format_live_event(event)
 
     # --------------------------------------------------------
     # نشر الحدث
@@ -66,6 +59,18 @@ class LiveBot:
     def publish_event(self, event):
 
         message = self.format_event_message(event)
+
+        if not message:
+
+            print()
+            print("❌ Failed to format event message.")
+
+            return {
+                "success": False,
+                "published": False,
+                "post_id": None,
+                "error": "Empty formatted event message.",
+            }
 
         print()
         print("=" * 70)
@@ -112,7 +117,10 @@ class LiveBot:
 
             print()
             print("❌ EVENT PUBLISHING FAILED")
-            print("Facebook error:", result.get("error"))
+            print(
+                "Facebook error:",
+                result.get("error"),
+            )
 
         return result
 
@@ -201,7 +209,10 @@ class LiveBot:
         print()
         print("STEP 4 — INCIDENT INSPECTION")
 
-        for index, incident in enumerate(incidents, start=1):
+        for index, incident in enumerate(
+            incidents,
+            start=1,
+        ):
 
             print()
             print(f"INCIDENT #{index}")
@@ -209,18 +220,52 @@ class LiveBot:
 
             if not isinstance(incident, dict):
 
-                print("Invalid incident:", incident)
+                print(
+                    "Invalid incident:",
+                    incident,
+                )
 
                 continue
 
-            print("Time       :", incident.get("time"))
-            print("Type       :", incident.get("type"))
-            print("Type ID    :", incident.get("type_id"))
-            print("Side       :", incident.get("side"))
-            print("Player     :", incident.get("player"))
-            print("Is goal    :", incident.get("is_goal"))
-            print("Home score :", incident.get("home_score"))
-            print("Away score :", incident.get("away_score"))
+            print(
+                "Time       :",
+                incident.get("time"),
+            )
+
+            print(
+                "Type       :",
+                incident.get("type"),
+            )
+
+            print(
+                "Type ID    :",
+                incident.get("type_id"),
+            )
+
+            print(
+                "Side       :",
+                incident.get("side"),
+            )
+
+            print(
+                "Player     :",
+                incident.get("player"),
+            )
+
+            print(
+                "Is goal    :",
+                incident.get("is_goal"),
+            )
+
+            print(
+                "Home score :",
+                incident.get("home_score"),
+            )
+
+            print(
+                "Away score :",
+                incident.get("away_score"),
+            )
 
         # ----------------------------------------------------
         # اكتشاف الأحداث الجديدة
@@ -229,22 +274,21 @@ class LiveBot:
         print()
         print("STEP 5 — EVENT DETECTION")
 
-        # مهم جدًا:
+        # مهم:
+        #
         # process_snapshot() يحتاج snapshot المباراة
         # وليس قائمة incidents فقط.
         #
-        # إرسال incidents مباشرة كان سببًا رئيسيًا في:
-        #
-        # Incidents: 1
-        # New events: 0
-        #
-        # لأن LiveEventManager يستخرج incidents من الـ snapshot.
+        # لا نغيّر هذا السلوك لأنه تم اختباره بنجاح.
 
         new_events = self.event_manager.process_snapshot(
             result
         )
 
-        print("New events:", len(new_events))
+        print(
+            "New events:",
+            len(new_events),
+        )
 
         if not new_events:
 
@@ -266,10 +310,26 @@ class LiveBot:
             print("🆕 NEW EVENT DETECTED")
             print("=" * 70)
 
-            print("Event type :", event.get("event_type"))
-            print("Label      :", event_label(event))
-            print("Minute     :", event.get("minute"))
-            print("Player     :", event.get("player"))
+            print(
+                "Event type :",
+                event.get("event_type"),
+            )
+
+            print(
+                "Label      :",
+                event_label(event),
+            )
+
+            print(
+                "Minute     :",
+                event.get("minute"),
+            )
+
+            print(
+                "Player     :",
+                event.get("player"),
+            )
+
             print(
                 "Score      :",
                 event.get("home_score"),
@@ -278,14 +338,17 @@ class LiveBot:
             )
 
             # ------------------------------------------------
-            # محاولة النشر
+            # تجهيز ونشر الرسالة
             # ------------------------------------------------
 
-            publish_result = self.publish_event(event)
+            publish_result = self.publish_event(
+                event
+            )
 
             # ------------------------------------------------
             # تسجيل الحدث كمُعالج
-            # بعد نجاح النشر فقط
+            #
+            # فقط بعد نجاح Facebook
             # ------------------------------------------------
 
             if publish_result.get("success"):
@@ -295,8 +358,13 @@ class LiveBot:
                 )
 
                 print()
-                print("✅ Event completed successfully.")
-                print("✅ Event marked as processed.")
+                print(
+                    "✅ Event completed successfully."
+                )
+
+                print(
+                    "✅ Event marked as processed."
+                )
 
             else:
 
@@ -325,12 +393,23 @@ class LiveBot:
         print("LIVE FOOTBALL BOT")
         print("=" * 70)
 
-        print("Match:", MATCH_SLUG)
-        print("Poll interval:", POLL_INTERVAL)
+        print(
+            "Match:",
+            MATCH_SLUG,
+        )
+
+        print(
+            "Poll interval:",
+            POLL_INTERVAL,
+        )
 
         print(
             "Facebook publishing:",
-            "ENABLED" if PUBLISH_TO_FACEBOOK else "DISABLED",
+            (
+                "ENABLED"
+                if PUBLISH_TO_FACEBOOK
+                else "DISABLED"
+            ),
         )
 
         print()
@@ -339,14 +418,20 @@ class LiveBot:
         # تهيئة الأحداث الموجودة قبل بدء المراقبة
         # ----------------------------------------------------
 
-        print("Initializing live event state...")
+        print(
+            "Initializing live event state..."
+        )
 
         self.match_manager.bootstrap()
 
-        print("Bootstrap complete.")
+        print(
+            "Bootstrap complete."
+        )
 
         print()
-        print("🚀 LIVE MONITOR STARTED")
+        print(
+            "🚀 LIVE MONITOR STARTED"
+        )
 
         # ----------------------------------------------------
         # المراقبة المستمرة
@@ -365,15 +450,21 @@ class LiveBot:
                 print("❌ LIVE BOT ERROR")
                 print("=" * 70)
 
-                print(type(error).__name__)
+                print(
+                    type(error).__name__
+                )
+
                 print(error)
 
                 print()
                 print(
-                    f"⏳ Retrying in {POLL_INTERVAL} seconds..."
+                    f"⏳ Retrying in "
+                    f"{POLL_INTERVAL} seconds..."
                 )
 
-                time.sleep(POLL_INTERVAL)
+                time.sleep(
+                    POLL_INTERVAL
+                )
 
                 continue
 
@@ -386,10 +477,13 @@ class LiveBot:
                 print()
                 print(
                     f"⚠️ No valid match data. "
-                    f"Retrying in {POLL_INTERVAL} seconds..."
+                    f"Retrying in "
+                    f"{POLL_INTERVAL} seconds..."
                 )
 
-                time.sleep(POLL_INTERVAL)
+                time.sleep(
+                    POLL_INTERVAL
+                )
 
                 continue
 
@@ -420,11 +514,14 @@ class LiveBot:
             print()
             print("=" * 70)
             print(
-                f"⏳ Waiting {POLL_INTERVAL} seconds..."
+                f"⏳ Waiting "
+                f"{POLL_INTERVAL} seconds..."
             )
             print("=" * 70)
 
-            time.sleep(POLL_INTERVAL)
+            time.sleep(
+                POLL_INTERVAL
+            )
 
 
 # ============================================================
