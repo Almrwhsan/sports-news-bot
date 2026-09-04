@@ -1,5 +1,31 @@
 [
   {
+    "title": "El Feyenoord mide su estado antes de visitar el Barcelona",
+    "url": "https://as.com/futbol/champions/el-feyenoord-mide-su-estado-antes-de-visitar-el-barcelona-f202609-n/",
+    "summary": "Los de Van Bronckhorst llevan dos empates consecutivos en la liga.",
+    "published": "Fri, 04 Sep 2026 23:18:08 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ULJKZ4O2XJNLLCJEQFVK3XFXGI.jpg?auth=2d422c27edc50bf2cfdbaa0855832e9be569aaf925bbe91aff8a0a0ff0c4dda9",
+    "media_type": "image",
+    "arabic_title": "فينورد يقيس حالته قبل زيارة برشلونة",
+    "arabic_summary": "حقق فريق فان برونكهورست تعادلين متتاليين في الدوري.",
+    "post_title": "فينورد يقيس حالته قبل زيارة برشلونة",
+    "post_text": "🚨 فينورد يقيس حالته قبل زيارة برشلونة\n\n📰 حقق فريق فان برونكهورست تعادلين متتاليين في الدوري.\n\n🏷️ برشلونة\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042756391723005",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فينورد_يقيس_حالته_قبل_زيارة_برشلونة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/el-feyenoord-mide-su-estado-antes-de-visitar-el-barcelona-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "La vida sin uruguayos",
     "url": "https://as.com/futbol/primera/la-vida-sin-uruguayos-f202609-n/",
     "summary": "El Atlético afronta su primer curso sin un charrúa en su plantilla desde la llegada de Forlán en 2007. Giménez, heredero de Godín, deja huérfano el vestuario.",
@@ -10099,12 +10125,6 @@
     "title": "Why Man Utd goal was allowed to stand - despite Maguire 'handball'",
     "url": "https://www.bbc.co.uk/sport/football/articles/c62ewy19w2ro?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 18:11:57 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckgwz6g45lpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 16:38:50 GMT",
     "source": "BBC Sport Football"
   }
 ]
