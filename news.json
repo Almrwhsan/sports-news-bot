@@ -1,5 +1,31 @@
 [
   {
+    "title": "Las portadas del día",
+    "url": "https://www.marca.com/futbol/album/2026/09/05/portadas-dia.html",
+    "summary": "La primera derrota del Real Madrid en Laliga es el tema central en las portadas de la prensa deportiva",
+    "published": "Sat, 05 Sep 2026 01:31:16 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9b4ba393421.jpeg",
+    "media_type": "image",
+    "arabic_title": "أغلفة اليوم",
+    "arabic_summary": "كانت الهزيمة الأولى لريال مدريد في الليغا هي الموضوع الرئيسي على أغلفة الصحافة الرياضية",
+    "post_title": "أغلفة اليوم",
+    "post_text": "🚨 أغلفة اليوم\n\n📰 كانت الهزيمة الأولى لريال مدريد في الليغا هي الموضوع الرئيسي على أغلفة الصحافة الرياضية\n\n🏷️ ريال مدريد\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042761255055852",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/album/2026/09/05/portadas-dia.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Posible once del Atlético ante el Athletic",
     "url": "https://as.com/futbol/posible-once-del-atletico-ante-el-athletic-f202609-n/",
     "summary": "Simeone ha ensayado durante toda la semana con el mismo equipo y todo apunta a que repetirá el mismo once de Sevilla en San Mamés.",
@@ -10139,12 +10165,6 @@
     "title": "How did Rashford do on return to Man Utd XI? Player ratings",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 30 Aug 2026 17:32:04 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "Watkins completes £51m move to Saudi side Al-Hilal",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 17:12:52 GMT",
     "source": "BBC Sport Football"
   }
 ]
