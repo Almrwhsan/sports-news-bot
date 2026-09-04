@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mikel Rodriguez sufre una rotura del ligamento cruzado",
+    "url": "https://www.marca.com/futbol/alaves/2026/09/04/mikel-rodriguez-sufre-rotura-ligamento-cruzado.html",
+    "summary": "El centrocampista pasará por el quirófano",
+    "published": "Fri, 04 Sep 2026 17:30:50 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9ae419e86ac.jpeg",
+    "media_type": "image",
+    "arabic_title": "ميكيل رودريجيز يعاني من تمزق في الرباط الصليبي",
+    "arabic_summary": "لاعب الوسط سيخضع لعملية جراحية",
+    "post_title": "ميكيل رودريجيز يعاني من تمزق في الرباط الصليبي",
+    "post_text": "🚨 ميكيل رودريجيز يعاني من تمزق في الرباط الصليبي\n\n📰 لاعب الوسط سيخضع لعملية جراحية\n\n🏷️ كرة القدم\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042480101750634",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميكيل_رودريجيز_يعاني_من_تمزق_في_الرباط_الصليبي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/alaves/2026/09/04/mikel-rodriguez-sufre-rotura-ligamento-cruzado.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Todos los dorsales de la temporada 26/27 en LaLiga",
     "url": "https://www.marca.com/futbol/primera-division/album/2026/09/04/todos-dorsales-temporada-26-27-laliga.html",
     "summary": "Una vez finalizado el mercado de fichajes, los 20 conjuntos que disputan la Primera División durante esta temporada han inscrito a los últimos jugadores que conforman sus plantillas. Repasamos cuáles son los dorsales que tienen todos los integrantes.",
@@ -9139,12 +9165,6 @@
     "title": "Football in Greenland: The toughest championship in the world?",
     "url": "https://www.bbc.co.uk/iplayer/episode/m002jb61?at_mid=XTtVv7O2ez&at_campaign=One_Week_One_Title_Football_in_Greenland&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jb61&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=One_Week_One_Title_Football_in_Greenland&at_bbc_team=BBC",
     "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-    "source": "BBC Sport Football"
-  },
-  {
-    "title": "When is the EFL Cup third-round draw?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 11:22:52 GMT",
     "source": "BBC Sport Football"
   }
 ]
