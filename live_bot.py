@@ -1,7 +1,11 @@
 import time
 
 from live_match_manager import LiveMatchManager
-from live_event_manager import LiveEventManager
+from live_event_manager import (
+    LiveEventManager,
+    event_label,
+    describe_event,
+)
 from facebook_publisher import publish_post
 
 
@@ -46,8 +50,8 @@ class LiveBot:
 
     def format_event_message(self, event):
 
-        label = self.event_manager.event_label(event)
-        description = self.event_manager.describe_event(event)
+        label = event_label(event)
+        description = describe_event(event)
 
         return (
             f"🚨 {label}\n\n"
@@ -164,12 +168,14 @@ class LiveBot:
 
         print("Home      :", result.get("home"))
         print("Away      :", result.get("away"))
+
         print(
             "Score     :",
             result.get("home_score"),
             "-",
             result.get("away_score"),
         )
+
         print("Status    :", result.get("status"))
         print("Minute    :", result.get("minute"))
 
@@ -189,14 +195,53 @@ class LiveBot:
             return result
 
         # ----------------------------------------------------
+        # عرض الأحداث الخام للتشخيص
+        # ----------------------------------------------------
+
+        print()
+        print("STEP 4 — INCIDENT INSPECTION")
+
+        for index, incident in enumerate(incidents, start=1):
+
+            print()
+            print(f"INCIDENT #{index}")
+            print("-" * 70)
+
+            if not isinstance(incident, dict):
+
+                print("Invalid incident:", incident)
+
+                continue
+
+            print("Time       :", incident.get("time"))
+            print("Type       :", incident.get("type"))
+            print("Type ID    :", incident.get("type_id"))
+            print("Side       :", incident.get("side"))
+            print("Player     :", incident.get("player"))
+            print("Is goal    :", incident.get("is_goal"))
+            print("Home score :", incident.get("home_score"))
+            print("Away score :", incident.get("away_score"))
+
+        # ----------------------------------------------------
         # اكتشاف الأحداث الجديدة
         # ----------------------------------------------------
 
         print()
-        print("STEP 4 — EVENT DETECTION")
+        print("STEP 5 — EVENT DETECTION")
+
+        # مهم جدًا:
+        # process_snapshot() يحتاج snapshot المباراة
+        # وليس قائمة incidents فقط.
+        #
+        # إرسال incidents مباشرة كان سببًا رئيسيًا في:
+        #
+        # Incidents: 1
+        # New events: 0
+        #
+        # لأن LiveEventManager يستخرج incidents من الـ snapshot.
 
         new_events = self.event_manager.process_snapshot(
-            incidents
+            result
         )
 
         print("New events:", len(new_events))
@@ -212,26 +257,61 @@ class LiveBot:
         # ----------------------------------------------------
 
         print()
-        print("STEP 5 — EVENT PUBLISHING")
+        print("STEP 6 — EVENT PUBLISHING")
 
         for event in new_events:
 
             print()
+            print("=" * 70)
             print("🆕 NEW EVENT DETECTED")
+            print("=" * 70)
+
+            print("Event type :", event.get("event_type"))
+            print("Label      :", event_label(event))
+            print("Minute     :", event.get("minute"))
+            print("Player     :", event.get("player"))
+            print(
+                "Score      :",
+                event.get("home_score"),
+                "-",
+                event.get("away_score"),
+            )
+
+            # ------------------------------------------------
+            # محاولة النشر
+            # ------------------------------------------------
 
             publish_result = self.publish_event(event)
 
             # ------------------------------------------------
-            # نتيجة النشر
+            # تسجيل الحدث كمُعالج
+            # بعد نجاح النشر فقط
             # ------------------------------------------------
 
             if publish_result.get("success"):
 
+                self.event_manager.mark_processed(
+                    [event]
+                )
+
+                print()
                 print("✅ Event completed successfully.")
+                print("✅ Event marked as processed.")
 
             else:
 
-                print("⚠️ Event was not published successfully.")
+                print()
+                print(
+                    "⚠️ Event was not published successfully."
+                )
+
+                print(
+                    "⚠️ Event was NOT marked as processed."
+                )
+
+                print(
+                    "It will be retried on the next check."
+                )
 
         return result
 
@@ -284,6 +364,8 @@ class LiveBot:
                 print("=" * 70)
                 print("❌ LIVE BOT ERROR")
                 print("=" * 70)
+
+                print(type(error).__name__)
                 print(error)
 
                 print()
