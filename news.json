@@ -1,5 +1,31 @@
 [
   {
+    "title": "El Málaga estudia ir al mercado libre por la lesión de Lobete",
+    "url": "https://www.marca.com/futbol/malaga/2026/09/05/malaga-estudia-mercado-libre-lesion-lobete.html",
+    "summary": "El club podría hacer una incorporación más fuera de plazo",
+    "published": "Sat, 05 Sep 2026 11:43:15 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9aa2837d296.jpeg",
+    "media_type": "image",
+    "arabic_title": "مالقة يدرس الذهاب إلى السوق الحرة بسبب إصابة لوبيتي",
+    "arabic_summary": "يمكن للنادي إجراء إضافة متأخرة أخرى",
+    "post_title": "مالقة يدرس الذهاب إلى السوق الحرة بسبب إصابة لوبيتي",
+    "post_text": "🚨 مالقة يدرس الذهاب إلى السوق الحرة بسبب إصابة لوبيتي\n\n📰 يمكن للنادي إجراء إضافة متأخرة أخرى\n\n🏷️ سوق الانتقالات\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1043102231688421",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مالقة_يدرس_الذهاب_إلى_السوق_الحرة_بسبب_إصابة_لوبيتي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/09/05/malaga-estudia-mercado-libre-lesion-lobete.html",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Rueda de prensa de Flick, en directo | Última hora del encuentro del Barça contra el Valencia de LaLiga",
     "url": "https://www.marca.com/futbol/barcelona/2026/09/05/6a9aa97b6c283cdca890fb55.html",
     "summary": "Los culés ganaron los tres primeros encuentros con autoridad y defienden liderato",
@@ -10503,15 +10529,6 @@
     "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
     "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 31 Aug 2026 08:12:39 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "processed": false
-  },
-  {
-    "title": "Everton make bid for Monaco striker Balogun",
-    "summary": "Everton make an offer for Monaco forward Folarin Balogun - who is valued at £40m by the French club.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 15:16:28 GMT",
     "source": "BBC Sport Football",
     "language": "en",
     "processed": false
