@@ -1,5 +1,31 @@
 [
   {
+    "title": "Post irónico del Betis hacia Mourinho",
+    "url": "https://as.com/futbol/primera/post-ironico-del-betis-hacia-mourinho-f202609-n/",
+    "summary": "El club verdiblanco se mostró muy activo en redes tras finalizar el partido, celebrando la victoria frente al Real Madrid.",
+    "published": "Sat, 05 Sep 2026 06:43:00 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VGVG6TRIRZCARORKY3C6OPCHME.jpg?auth=1a859318bc7655091fe220c818246bfc1cd2e984c8c2be0d9cec02b5659c27da",
+    "media_type": "image",
+    "arabic_title": "مشاركة ساخرة من بيتيس تجاه مورينيو",
+    "arabic_summary": "كان النادي الأخضر والأبيض نشطًا للغاية على وسائل التواصل الاجتماعي بعد المباراة، حيث احتفل بالفوز على ريال مدريد.",
+    "post_title": "مشاركة ساخرة من بيتيس تجاه مورينيو",
+    "post_text": "🚨 مشاركة ساخرة من بيتيس تجاه مورينيو\n\n📰 كان النادي الأخضر والأبيض نشطًا للغاية على وسائل التواصل الاجتماعي بعد المباراة، حيث احتفل بالفوز على ريال مدريد.\n\n🏷️ ريال مدريد\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1042999168365394",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مشاركة_ساخرة_من_بيتيس_تجاه_مورينيو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/post-ironico-del-betis-hacia-mourinho-f202609-n/",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "Julián, San Mamés como redención",
     "url": "https://www.marca.com/futbol/atletico/2026/09/05/julian-san-mames-redencion.html",
     "summary": "Una vez acabado el mercado, empieza su trabajo para ser perdonado por los últimos meses • Está a un gol de los 50 como rojiblanco",
@@ -10265,15 +10291,6 @@
     "summary": "Manchester City complete the signing of Bayer Leverkusen and Germany defender Carlotta Wamser on a four-year deal.",
     "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 31 Aug 2026 10:30:12 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "processed": false
-  },
-  {
-    "title": "Swansea agree loan of Manchester City's Monga",
-    "summary": "Manchester City winger Jeremy Monga is set for a season at Swansea City, who will allow Finland international Leo Walta to join Los Angeles on loan.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7v4dnrn6lqo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 11:21:05 GMT",
     "source": "BBC Sport Football",
     "language": "en",
     "processed": false
