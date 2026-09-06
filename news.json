@@ -1,5 +1,31 @@
 [
   {
+    "title": "Who has made Troy's Premier League team of the week?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+    "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+    "published": "Sun, 06 Sep 2026 22:06:40 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/83c38710-aa24-11f1-8046-e7e0d3946c1a.png",
+    "media_type": "image",
+    "arabic_title": "من الذي اختار فريق تروي في الدوري الإنجليزي الممتاز لهذا الأسبوع؟",
+    "arabic_summary": "بعد كل جولة من مباريات الدوري الإنجليزي الممتاز هذا الموسم، يقدم لنا تروي ديني فريق الأسبوع الخاص به. هل تتفق مع اختياراته؟",
+    "post_title": "من الذي اختار فريق تروي في الدوري الإنجليزي الممتاز لهذا الأسبوع؟",
+    "post_text": "🚨 من الذي اختار فريق تروي في الدوري الإنجليزي الممتاز لهذا الأسبوع؟\n\n📰 بعد كل جولة من مباريات الدوري الإنجليزي الممتاز هذا الموسم، يقدم لنا تروي ديني فريق الأسبوع الخاص به. هل تتفق مع اختياراته؟\n\n🏷️ الدوري الإنجليزي\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1044406741557970",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_الذي_اختار_فريق_تروي_في_الدوري_الإنجليزي_الممتاز_لهذا_الأسبوع؟.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null
+  },
+  {
     "title": "¿A qué hora se juega el Real Madrid - Inter Milan? TV, horario, dónde y cómo ver hoy la Champions online",
     "url": "https://as.com/futbol/champions/a-que-hora-se-juega-el-real-madrid-inter-milan-tv-horario-donde-y-como-ver-hoy-la-champions-online-f202609-n/",
     "summary": "Fecha, horario, cómo ver en vivo y en directo en televisión y cómo seguir online el Real Madrid- Inter Milan, primera jornada de la fase liga de la Champions League.",
@@ -12459,22 +12485,5 @@
     "image": null,
     "image_source": null,
     "image_license": null
-  },
-  {
-    "title": "Valencia sign Liverpool's Elliott on loan",
-    "summary": "Liverpool midfielder Harvey Elliott joins Valencia on a season-long loan",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 16:23:52 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "category": "transfers",
-    "post_title": "Valencia sign Liverpool's Elliott on loan",
-    "post_body": "Liverpool midfielder Harvey Elliott joins Valencia on a season-long loan",
-    "post_text": "🔴 Valencia sign Liverpool's Elliott on loan\n\nLiverpool midfielder Harvey Elliott joins Valencia on a season-long loan\n\n⚽ انتقالات\n\n📍 نبض مدريد",
-    "processed": false,
-    "published_to_facebook": false,
-    "image": "news_images/Valencia_sign_Liverpool's_Elliott_on_loan.jpg",
-    "image_source": "https://commons.wikimedia.org/wiki/File:The_Overland_Monthly,_Jan-June_1894.djvu",
-    "image_license": "Public domain"
   }
 ]
