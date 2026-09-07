@@ -27,19 +27,194 @@ TIMEOUT = 30
 
 
 # ============================================================
+# الفرق المهمة عالميًا
+# ============================================================
+
+IMPORTANT_TEAMS = [
+    "real madrid",
+    "barcelona",
+    "atletico madrid",
+    "atlético madrid",
+    "manchester city",
+    "manchester united",
+    "liverpool",
+    "arsenal",
+    "chelsea",
+    "tottenham",
+    "newcastle",
+    "aston villa",
+    "bayern",
+    "borussia dortmund",
+    "dortmund",
+    "bayer leverkusen",
+    "inter",
+    "internazionale",
+    "inter milan",
+    "juventus",
+    "milan",
+    "ac milan",
+    "napoli",
+    "roma",
+    "paris saint-germain",
+    "psg",
+    "lyon",
+    "marseille",
+    "ajax",
+    "psv",
+    "benfica",
+    "porto",
+    "sporting",
+]
+
+
+# ============================================================
+# البطولات المهمة
+# ============================================================
+
+IMPORTANT_COMPETITIONS = [
+    "uefa champions league",
+    "champions league",
+
+    "uefa europa league",
+    "europa league",
+
+    "uefa conference league",
+    "conference league",
+
+    "la liga",
+    "laliga",
+    "spanish la liga",
+
+    "premier league",
+    "english premier league",
+
+    "serie a",
+    "italian serie a",
+
+    "bundesliga",
+    "german bundesliga",
+
+    "ligue 1",
+    "french ligue 1",
+
+    "copa del rey",
+    "fa cup",
+    "carabao cup",
+
+    "coppa italia",
+    "dfb pokal",
+
+    "club world cup",
+    "fifa club world cup",
+
+    "world cup",
+    "fifa world cup",
+
+    "euro",
+    "uefa european championship",
+
+    "copa america",
+
+    "afcon",
+    "africa cup of nations",
+]
+
+
+# ============================================================
+# بطولات/أنواع يجب استبعادها
+# ============================================================
+
+EXCLUDED_KEYWORDS = [
+    "women",
+    "(w)",
+    "female",
+
+    "u17",
+    "u18",
+    "u19",
+    "u20",
+    "u21",
+    "u23",
+
+    "youth",
+    "junior",
+
+    "reserve",
+    "reserves",
+
+    "b team",
+    "b-team",
+
+    "ii",
+    "academy",
+
+    "division 4",
+    "division 5",
+
+    "amateur",
+]
+
+
+# ============================================================
+# دالة التطبيع
+# ============================================================
+
+def normalize_text(value):
+    if value is None:
+        return ""
+
+    return (
+        str(value)
+        .strip()
+        .lower()
+    )
+
+
+# ============================================================
+# استخراج قائمة المباريات
+# ============================================================
+
+def extract_matches(data):
+
+    if isinstance(data, list):
+        return data
+
+    if not isinstance(data, dict):
+        return []
+
+    possible_keys = [
+        "matches",
+        "data",
+        "results",
+        "events",
+    ]
+
+    for key in possible_keys:
+
+        value = data.get(key)
+
+        if isinstance(value, list):
+            return value
+
+    return []
+
+
+# ============================================================
 # بدء الاختبار
 # ============================================================
 
 print("=" * 70)
-print("SPORTSCORE MATCHES API — LARGE LIMIT TEST")
+print("SPORTSCORE MATCHES API — IMPORTANT MATCH DISCOVERY TEST")
 print("=" * 70)
 
+
 session = requests.Session()
+
 session.headers.update(HEADERS)
 
 
 # ============================================================
-# تنفيذ الطلب
+# الاتصال مع إعادة المحاولة
 # ============================================================
 
 for attempt in range(1, MAX_RETRIES + 1):
@@ -55,8 +230,15 @@ for attempt in range(1, MAX_RETRIES + 1):
             timeout=TIMEOUT,
         )
 
-        print("HTTP STATUS:", response.status_code)
-        print("FINAL URL:", response.url)
+        print(
+            "HTTP STATUS:",
+            response.status_code
+        )
+
+        print(
+            "FINAL URL:",
+            response.url
+        )
 
         # ----------------------------------------------------
         # نجاح
@@ -67,86 +249,35 @@ for attempt in range(1, MAX_RETRIES + 1):
             data = response.json()
 
             print()
-            print("JSON TYPE:", type(data).__name__)
+            print(
+                "JSON TYPE:",
+                type(data).__name__
+            )
 
-            # ------------------------------------------------
-            # استخراج المباريات
-            # ------------------------------------------------
-
-            matches = []
-
-            if isinstance(data, dict):
-
-                if isinstance(data.get("matches"), list):
-                    matches = data["matches"]
-
-                elif isinstance(data.get("data"), list):
-                    matches = data["data"]
-
-                elif isinstance(data.get("results"), list):
-                    matches = data["results"]
-
-                elif isinstance(data.get("events"), list):
-                    matches = data["events"]
-
-            elif isinstance(data, list):
-
-                matches = data
-
-            # ------------------------------------------------
-            # الملخص
-            # ------------------------------------------------
+            matches = extract_matches(data)
 
             print()
             print("=" * 70)
-            print("MATCHES SUMMARY")
+            print("GENERAL RESULT")
             print("=" * 70)
 
-            print("REQUESTED LIMIT:", PARAMS["limit"])
-            print("TOTAL MATCHES:", len(matches))
+            print(
+                "REQUESTED LIMIT:",
+                PARAMS["limit"]
+            )
+
+            print(
+                "TOTAL MATCHES:",
+                len(matches)
+            )
 
             # ------------------------------------------------
-            # إحصائيات البطولات
+            # تحليل المباريات المهمة
             # ------------------------------------------------
 
-            competitions = {}
+            important_matches = []
 
-            for match in matches:
-
-                if not isinstance(match, dict):
-                    continue
-
-                competition = match.get(
-                    "competition",
-                    "Unknown"
-                )
-
-                competitions[competition] = (
-                    competitions.get(competition, 0) + 1
-                )
-
-            print()
-            print("=" * 70)
-            print("COMPETITIONS FOUND")
-            print("=" * 70)
-
-            for competition, count in sorted(
-                competitions.items(),
-                key=lambda item: (-item[1], item[0])
-            ):
-
-                print(
-                    f"{count:3} | {competition}"
-                )
-
-            # ------------------------------------------------
-            # عرض جميع المباريات
-            # ------------------------------------------------
-
-            print()
-            print("=" * 70)
-            print("ALL MATCHES")
-            print("=" * 70)
+            excluded_matches = []
 
             for index, match in enumerate(
                 matches,
@@ -156,34 +287,267 @@ for attempt in range(1, MAX_RETRIES + 1):
                 if not isinstance(match, dict):
                     continue
 
+                home = normalize_text(
+                    match.get("home")
+                )
+
+                away = normalize_text(
+                    match.get("away")
+                )
+
+                competition = normalize_text(
+                    match.get("competition")
+                )
+
+                combined_text = (
+                    f"{home} "
+                    f"{away} "
+                    f"{competition}"
+                )
+
+                # --------------------------------------------
+                # استبعاد
+                # --------------------------------------------
+
+                excluded_reason = None
+
+                for keyword in EXCLUDED_KEYWORDS:
+
+                    if keyword in combined_text:
+
+                        excluded_reason = keyword
+                        break
+
+                if excluded_reason:
+
+                    excluded_matches.append(
+                        {
+                            "index": index,
+                            "home": match.get("home"),
+                            "away": match.get("away"),
+                            "competition": match.get(
+                                "competition"
+                            ),
+                            "reason": excluded_reason,
+                        }
+                    )
+
+                    continue
+
+                # --------------------------------------------
+                # البحث عن فريق مهم
+                # --------------------------------------------
+
+                matched_teams = []
+
+                for team in IMPORTANT_TEAMS:
+
+                    if (
+                        team in home
+                        or team in away
+                    ):
+
+                        matched_teams.append(team)
+
+                # --------------------------------------------
+                # البحث عن بطولة مهمة
+                # --------------------------------------------
+
+                matched_competitions = []
+
+                for competition_name in (
+                    IMPORTANT_COMPETITIONS
+                ):
+
+                    if (
+                        competition_name
+                        in competition
+                    ):
+
+                        matched_competitions.append(
+                            competition_name
+                        )
+
+                # --------------------------------------------
+                # اعتبار المباراة مهمة
+                # --------------------------------------------
+
+                if (
+                    matched_teams
+                    or matched_competitions
+                ):
+
+                    important_matches.append(
+                        {
+                            "index": index,
+                            "home": match.get("home"),
+                            "away": match.get("away"),
+                            "home_score": match.get(
+                                "home_score"
+                            ),
+                            "away_score": match.get(
+                                "away_score"
+                            ),
+                            "status": match.get(
+                                "status"
+                            ),
+                            "status_text": match.get(
+                                "status_text"
+                            ),
+                            "time": match.get(
+                                "time"
+                            ),
+                            "competition": match.get(
+                                "competition"
+                            ),
+                            "url": match.get(
+                                "url"
+                            ),
+                            "matched_teams": matched_teams,
+                            "matched_competitions": (
+                                matched_competitions
+                            ),
+                        }
+                    )
+
+            # ------------------------------------------------
+            # عرض المباريات المهمة
+            # ------------------------------------------------
+
+            print()
+            print("=" * 70)
+            print("IMPORTANT MATCH CANDIDATES")
+            print("=" * 70)
+
+            print(
+                "IMPORTANT MATCHES FOUND:",
+                len(important_matches)
+            )
+
+            for match in important_matches:
+
                 print()
+                print("-" * 70)
+
                 print(
-                    f"#{index} "
-                    f"{match.get('home')} "
-                    f"vs "
-                    f"{match.get('away')}"
+                    f"#{match['index']}"
                 )
 
                 print(
-                    "  STATUS:",
-                    match.get("status"),
+                    "MATCH:",
+                    match["home"],
+                    "vs",
+                    match["away"]
+                )
+
+                print(
+                    "SCORE:",
+                    match["home_score"],
+                    "-",
+                    match["away_score"]
+                )
+
+                print(
+                    "STATUS:",
+                    match["status"],
                     "|",
-                    match.get("status_text")
+                    match["status_text"]
                 )
 
                 print(
-                    "  TIME:",
-                    match.get("time")
+                    "TIME:",
+                    match["time"]
+                )
+
+                print(
+                    "COMPETITION:",
+                    match["competition"]
+                )
+
+                print(
+                    "URL:",
+                    match["url"]
+                )
+
+                if match["matched_teams"]:
+
+                    print(
+                        "MATCHED TEAMS:",
+                        ", ".join(
+                            match["matched_teams"]
+                        )
+                    )
+
+                if match[
+                    "matched_competitions"
+                ]:
+
+                    print(
+                        "MATCHED COMPETITIONS:",
+                        ", ".join(
+                            match[
+                                "matched_competitions"
+                            ]
+                        )
+                    )
+
+            # ------------------------------------------------
+            # إحصائية الاستبعاد
+            # ------------------------------------------------
+
+            print()
+            print("=" * 70)
+            print("FILTER STATISTICS")
+            print("=" * 70)
+
+            print(
+                "TOTAL MATCHES:",
+                len(matches)
+            )
+
+            print(
+                "IMPORTANT MATCHES:",
+                len(important_matches)
+            )
+
+            print(
+                "EXCLUDED MATCHES:",
+                len(excluded_matches)
+            )
+
+            # ------------------------------------------------
+            # عرض المباريات المستبعدة
+            # ------------------------------------------------
+
+            print()
+            print("=" * 70)
+            print("EXCLUDED MATCH SAMPLE")
+            print("=" * 70)
+
+            sample_count = min(
+                15,
+                len(excluded_matches)
+            )
+
+            for item in excluded_matches[
+                :sample_count
+            ]:
+
+                print(
+                    f"#{item['index']} "
+                    f"{item['home']} "
+                    f"vs "
+                    f"{item['away']}"
                 )
 
                 print(
                     "  COMPETITION:",
-                    match.get("competition")
+                    item["competition"]
                 )
 
                 print(
-                    "  URL:",
-                    match.get("url")
+                    "  REASON:",
+                    item["reason"]
                 )
 
             # ------------------------------------------------
@@ -234,7 +598,9 @@ for attempt in range(1, MAX_RETRIES + 1):
         print("API REQUEST FAILED")
         print("=" * 70)
 
-        print(response.text[:2000])
+        print(
+            response.text[:2000]
+        )
 
         response.raise_for_status()
 
@@ -264,12 +630,19 @@ for attempt in range(1, MAX_RETRIES + 1):
     except ValueError as error:
 
         print()
-        print("INVALID JSON:", error)
+        print(
+            "INVALID JSON:",
+            error
+        )
 
         print()
-        print("SERVER RESPONSE:")
+        print(
+            "SERVER RESPONSE:"
+        )
 
-        print(response.text[:2000])
+        print(
+            response.text[:2000]
+        )
 
         raise
 
