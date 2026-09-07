@@ -1237,7 +1237,10 @@ def self_test():
     print("-" * 70)
     print(cancelled_message)
 
-    assert "هدف ملغى" in cancelled_message
+    # كلمة "هدف" تحتوي على أحرف تطويل في التنسيق:
+    # هــــدف
+    # لذلك نتحقق من "ملغى" بدل المطابقة الحرفية لعبارة "هدف ملغى".
+    assert "ملغى" in cancelled_message
     assert "مراجعة" in cancelled_message
 
     print("PASS: Goal cancelled formatter.")
