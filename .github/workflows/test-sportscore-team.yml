@@ -1,0 +1,49 @@
+name: Test SportScore Team API
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-sportscore-team:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ======================================================
+      # 1. تحميل المشروع
+      # ======================================================
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      # ======================================================
+      # 2. تثبيت Python
+      # ======================================================
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+
+      # ======================================================
+      # 3. تثبيت المتطلبات
+      # ======================================================
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+
+      # ======================================================
+      # 4. اختبار SportScore Team API
+      # ======================================================
+
+      - name: Test SportScore Team API
+        run: |
+          python test_sportscore_team.py
