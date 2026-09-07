@@ -10,7 +10,7 @@ URL = "https://sportscore.com/api/widget/matches/"
 
 PARAMS = {
     "sport": "football",
-    "limit": 20,
+    "limit": 100,
 }
 
 HEADERS = {
@@ -31,7 +31,7 @@ TIMEOUT = 30
 # ============================================================
 
 print("=" * 70)
-print("SPORTSCORE MATCHES API TEST")
+print("SPORTSCORE MATCHES API — LARGE LIMIT TEST")
 print("=" * 70)
 
 session = requests.Session()
@@ -39,7 +39,7 @@ session.headers.update(HEADERS)
 
 
 # ============================================================
-# تنفيذ الطلب مع إعادة المحاولة
+# تنفيذ الطلب
 # ============================================================
 
 for attempt in range(1, MAX_RETRIES + 1):
@@ -59,7 +59,7 @@ for attempt in range(1, MAX_RETRIES + 1):
         print("FINAL URL:", response.url)
 
         # ----------------------------------------------------
-        # نجاح الطلب
+        # نجاح
         # ----------------------------------------------------
 
         if response.ok:
@@ -70,7 +70,7 @@ for attempt in range(1, MAX_RETRIES + 1):
             print("JSON TYPE:", type(data).__name__)
 
             # ------------------------------------------------
-            # معرفة مكان قائمة المباريات
+            # استخراج المباريات
             # ------------------------------------------------
 
             matches = []
@@ -94,7 +94,7 @@ for attempt in range(1, MAX_RETRIES + 1):
                 matches = data
 
             # ------------------------------------------------
-            # عرض ملخص المباريات
+            # الملخص
             # ------------------------------------------------
 
             print()
@@ -102,104 +102,92 @@ for attempt in range(1, MAX_RETRIES + 1):
             print("MATCHES SUMMARY")
             print("=" * 70)
 
+            print("REQUESTED LIMIT:", PARAMS["limit"])
             print("TOTAL MATCHES:", len(matches))
 
-            if not matches:
-
-                print()
-                print("WARNING: No matches list detected.")
-
-                print()
-                print("=" * 70)
-                print("RESPONSE KEYS")
-                print("=" * 70)
-
-                if isinstance(data, dict):
-                    print(list(data.keys()))
-
-                print()
-                print("=" * 70)
-                print("RAW RESPONSE")
-                print("=" * 70)
-
-                print(data)
-
             # ------------------------------------------------
-            # طباعة كل مباراة
+            # إحصائيات البطولات
             # ------------------------------------------------
 
-            for index, match in enumerate(matches, start=1):
+            competitions = {}
+
+            for match in matches:
 
                 if not isinstance(match, dict):
-                    print()
-                    print(f"#{index}")
-                    print("INVALID MATCH OBJECT:", match)
+                    continue
+
+                competition = match.get(
+                    "competition",
+                    "Unknown"
+                )
+
+                competitions[competition] = (
+                    competitions.get(competition, 0) + 1
+                )
+
+            print()
+            print("=" * 70)
+            print("COMPETITIONS FOUND")
+            print("=" * 70)
+
+            for competition, count in sorted(
+                competitions.items(),
+                key=lambda item: (-item[1], item[0])
+            ):
+
+                print(
+                    f"{count:3} | {competition}"
+                )
+
+            # ------------------------------------------------
+            # عرض جميع المباريات
+            # ------------------------------------------------
+
+            print()
+            print("=" * 70)
+            print("ALL MATCHES")
+            print("=" * 70)
+
+            for index, match in enumerate(
+                matches,
+                start=1
+            ):
+
+                if not isinstance(match, dict):
                     continue
 
                 print()
-                print("-" * 70)
-                print(f"#{index}")
-                print("-" * 70)
-
                 print(
-                    "HOME:",
-                    match.get("home")
+                    f"#{index} "
+                    f"{match.get('home')} "
+                    f"vs "
+                    f"{match.get('away')}"
                 )
 
                 print(
-                    "AWAY:",
-                    match.get("away")
-                )
-
-                print(
-                    "SCORE:",
-                    match.get("home_score"),
-                    "-",
-                    match.get("away_score")
-                )
-
-                print(
-                    "STATUS:",
-                    match.get("status")
-                )
-
-                print(
-                    "STATUS TEXT:",
+                    "  STATUS:",
+                    match.get("status"),
+                    "|",
                     match.get("status_text")
                 )
 
                 print(
-                    "TIME:",
+                    "  TIME:",
                     match.get("time")
                 )
 
                 print(
-                    "COMPETITION:",
+                    "  COMPETITION:",
                     match.get("competition")
                 )
 
                 print(
-                    "URL:",
+                    "  URL:",
                     match.get("url")
                 )
 
-                print(
-                    "HOME LOGO:",
-                    match.get("home_logo")
-                )
-
-                print(
-                    "AWAY LOGO:",
-                    match.get("away_logo")
-                )
-
-                print(
-                    "COMPETITION LOGO:",
-                    match.get("competition_logo")
-                )
-
             # ------------------------------------------------
-            # إنهاء الاختبار
+            # النجاح
             # ------------------------------------------------
 
             print()
@@ -238,7 +226,7 @@ for attempt in range(1, MAX_RETRIES + 1):
                 continue
 
         # ----------------------------------------------------
-        # خطأ غير مؤقت
+        # خطأ نهائي
         # ----------------------------------------------------
 
         print()
