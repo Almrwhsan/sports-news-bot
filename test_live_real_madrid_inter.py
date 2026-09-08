@@ -1,181 +1,444 @@
+# ============================================================
+# LIVE TEST — REAL MADRID vs INTER
+# اختبار مراقبة مباراة ريال مدريد ضد إنتر
+# ============================================================
+
 import time
 import requests
 
-from live_match_manager import LiveMatchManager
+from live_match_manager import (
+    LiveMatchManager,
+    is_finished,
+)
+
 from live_event_manager import LiveEventManager
+
 from live_formatter import format_live_event
 
+
+# ============================================================
+# إعدادات المباراة
+# ============================================================
 
 MATCH_SLUG = "inter-milan-vs-real-madrid"
 
 POLL_INTERVAL = 65
+
 RETRY_COUNT = 3
+
 RETRY_DELAY = 10
 
 
+# ============================================================
+# جلب بيانات المباراة مع إعادة المحاولة
+# ============================================================
+
 def fetch_with_retry(manager):
+    """
+    جلب بيانات المباراة مع إعادة المحاولة
+    في حال حدوث 503 أو أي خطأ في الاتصال.
+    """
+
+    last_error = None
+
     for attempt in range(1, RETRY_COUNT + 1):
+
         try:
-            return manager.fetch_match()
+
+            snapshot = manager.fetch_match()
+
+            if snapshot:
+                if attempt > 1:
+                    print("✅ نجح الاتصال بعد إعادة المحاولة.")
+
+                return snapshot
 
         except requests.RequestException as error:
+
+            last_error = error
+
             print(
                 f"⚠️ محاولة {attempt}/{RETRY_COUNT} فشلت: {error}"
             )
 
             if attempt < RETRY_COUNT:
+
                 print(
                     f"⏳ إعادة المحاولة بعد {RETRY_DELAY} ثانية..."
                 )
+
                 time.sleep(RETRY_DELAY)
+
+        except Exception as error:
+
+            last_error = error
+
+            print(
+                f"⚠️ خطأ غير متوقع في المحاولة "
+                f"{attempt}/{RETRY_COUNT}: {error}"
+            )
+
+            if attempt < RETRY_COUNT:
+
+                print(
+                    f"⏳ إعادة المحاولة بعد {RETRY_DELAY} ثانية..."
+                )
+
+                time.sleep(RETRY_DELAY)
+
+    print("❌ فشل الحصول على بيانات المباراة.")
+
+    if last_error:
+        print(f"❌ آخر خطأ: {last_error}")
 
     return None
 
 
+# ============================================================
+# طباعة معلومات المباراة
+# ============================================================
+
 def print_match(snapshot):
-    print(f"🏠 {snapshot.get('home')}")
-    print(f"✈️ {snapshot.get('away')}")
+    """
+    عرض حالة المباراة الحالية.
+    """
+
+    if not snapshot:
+        print("❌ لا توجد بيانات للمباراة.")
+        return
+
+    teams = snapshot.get("teams", {})
+
+    home = teams.get("home", "Unknown")
+
+    away = teams.get("away", "Unknown")
+
+    home_score = snapshot.get("home_score")
+
+    away_score = snapshot.get("away_score")
+
+    status = snapshot.get("status")
+
+    status_text = snapshot.get("status_text")
+
+    minute = snapshot.get("live_minute")
+
+    incidents = snapshot.get("incidents", [])
+
+    print(f"🏠 {home}")
+
+    print(f"✈️ {away}")
+
     print(
-        f"⚽ Score: "
-        f"{snapshot.get('home_score')} - "
-        f"{snapshot.get('away_score')}"
-    )
-    print(f"📌 Status: {snapshot.get('status')}")
-    print(f"📝 Status text: {snapshot.get('status_text')}")
-    print(f"⏱️ Minute: {snapshot.get('live_minute')}")
-    print(
-        f"📋 Incidents: "
-        f"{len(snapshot.get('incidents', []))}"
+        f"⚽ Score: {home_score} - {away_score}"
     )
 
+    print(f"📌 Status: {status}")
+
+    print(
+        f"📝 Status text: {status_text}"
+    )
+
+    print(
+        f"⏱️ Minute: {minute}"
+    )
+
+    print(
+        f"📋 Incidents: {len(incidents)}"
+    )
+
+
+# ============================================================
+# البرنامج الرئيسي
+# ============================================================
 
 def main():
 
     print("=" * 70)
+
     print("🔴 LIVE TEST — REAL MADRID vs INTER")
+
     print("=" * 70)
 
+    print()
+
+    # --------------------------------------------------------
+    # إنشاء مدير المباراة
+    # --------------------------------------------------------
+
     manager = LiveMatchManager(
-        slug=MATCH_SLUG,
-        poll_interval=POLL_INTERVAL,
+        slug=MATCH_SLUG
     )
 
     event_manager = LiveEventManager()
 
-    # =========================================================
-    # INITIAL SNAPSHOT
-    # =========================================================
+    # --------------------------------------------------------
+    # أول جلب
+    # --------------------------------------------------------
 
-    print("\n🔎 الحصول على بيانات المباراة...")
+    print("🔎 الحصول على بيانات المباراة...")
 
     snapshot = fetch_with_retry(manager)
 
     if not snapshot:
+
+        print()
+
         print("❌ تعذر الحصول على بيانات المباراة.")
+
         return
 
-    print("\n✅ تم الاتصال بالمباراة")
+    print()
+
+    print("✅ تم الاتصال بالمباراة")
+
     print_match(snapshot)
 
-    # =========================================================
-    # BOOTSTRAP
-    # =========================================================
+    print()
+
+    # --------------------------------------------------------
+    # Bootstrap
+    #
+    # الأحداث الموجودة قبل بدء الاختبار سيتم اعتبارها قديمة
+    # ولن يتم نشرها.
+    # --------------------------------------------------------
 
     event_manager.bootstrap(snapshot)
 
-    print("\n✅ Bootstrap مكتمل")
+    print("✅ Bootstrap مكتمل")
+
     print("🚫 الأحداث القديمة لن يتم نشرها.")
 
-    # =========================================================
-    # MONITOR
-    # =========================================================
+    print()
 
-    check_number = 0
+    # --------------------------------------------------------
+    # إذا كانت المباراة منتهية بالفعل
+    # --------------------------------------------------------
+
+    if is_finished(snapshot):
+
+        print("🏁 المباراة منتهية بالفعل.")
+
+        print()
+
+        print(
+            f"🏆 النتيجة النهائية: "
+            f"{snapshot.get('home_score')} - "
+            f"{snapshot.get('away_score')}"
+        )
+
+        return
+
+    # ========================================================
+    # المراقبة
+    # ========================================================
+
+    check_number = 1
 
     while True:
 
-        check_number += 1
-
-        print("\n" + "=" * 70)
-        print(f"🔎 CHECK #{check_number}")
         print("=" * 70)
 
-        snapshot = fetch_with_retry(manager)
+        print(f"🔎 CHECK #{check_number}")
 
-        if not snapshot:
-            print("⚠️ تعذر الحصول على تحديث.")
-            print(f"⏳ الانتظار {POLL_INTERVAL} ثانية...")
+        print("=" * 70)
+
+        print()
+
+        # ----------------------------------------------------
+        # جلب أحدث بيانات
+        # ----------------------------------------------------
+
+        new_snapshot = fetch_with_retry(manager)
+
+        if not new_snapshot:
+
+            print()
+
+            print(
+                "⚠️ تعذر الحصول على تحديث جديد."
+            )
+
+            print(
+                f"⏳ الانتظار {POLL_INTERVAL} ثانية..."
+            )
+
             time.sleep(POLL_INTERVAL)
+
+            check_number += 1
+
             continue
+
+        snapshot = new_snapshot
+
+        # ----------------------------------------------------
+        # عرض حالة المباراة
+        # ----------------------------------------------------
 
         print_match(snapshot)
 
-        # =====================================================
-        # NEW EVENTS
-        # =====================================================
+        print()
 
-        new_events = event_manager.process_snapshot(snapshot)
+        # ----------------------------------------------------
+        # اكتشاف الأحداث الجديدة
+        # ----------------------------------------------------
+
+        new_events = event_manager.process_snapshot(
+            snapshot
+        )
+
+        # ----------------------------------------------------
+        # معالجة الأحداث
+        # ----------------------------------------------------
 
         if new_events:
 
-            print("\n🚨 NEW EVENTS")
-            print("-" * 70)
+            print()
+
+            print(
+                f"🚨 تم اكتشاف "
+                f"{len(new_events)} حدث جديد!"
+            )
+
+            print()
 
             for event in new_events:
 
-                print("\n🔥 EVENT:")
-                print(event)
+                print("-" * 60)
+
+                print(
+                    f"🆕 Event ID: "
+                    f"{event.get('id')}"
+                )
+
+                print(
+                    f"📌 Type: "
+                    f"{event.get('event_type')}"
+                )
+
+                print(
+                    f"⏱️ Minute: "
+                    f"{event.get('minute')}"
+                )
+
+                # ------------------------------------------------
+                # تنسيق الحدث
+                # ------------------------------------------------
 
                 try:
-                    message = format_live_event(event)
 
-                    print("\n📱 FACEBOOK MESSAGE PREVIEW:")
-                    print("-" * 70)
-                    print(message)
-                    print("-" * 70)
-
-                except Exception as error:
-                    print(
-                        f"⚠️ خطأ في تنسيق الحدث: {error}"
+                    message = format_live_event(
+                        event,
+                        snapshot
                     )
 
-                event_id = event.get("id")
+                except TypeError:
 
-                if event_id is not None:
-                    event_manager.mark_processed(event_id)
+                    # توافق مع أي نسخة من formatter
+                    # تستخدم event فقط
+
+                    message = format_live_event(
+                        event
+                    )
+
+                except Exception as error:
+
+                    print(
+                        f"⚠️ فشل تنسيق الحدث: {error}"
+                    )
+
+                    message = None
+
+                # ------------------------------------------------
+                # عرض منشور Facebook فقط
+                #
+                # لا يوجد نشر حقيقي هنا.
+                # ------------------------------------------------
+
+                if message:
+
+                    print()
+
+                    print(
+                        "📘 Facebook Preview:"
+                    )
+
+                    print()
+
+                    print(message)
+
+                    print()
+
+                    print(
+                        "ℹ️ لم يتم النشر على Facebook "
+                        "(اختبار فقط)."
+                    )
+
+                else:
+
+                    print(
+                        "⚠️ لم يتم إنشاء نص للحدث."
+                    )
+
+                # ------------------------------------------------
+                # تسجيل الحدث كمُعالج
+                # ------------------------------------------------
+
+                event_manager.mark_processed(
+                    event
+                )
+
+                print("-" * 60)
 
         else:
-            print("\nℹ️ لا توجد أحداث جديدة.")
-
-        # =====================================================
-        # FINISHED
-        # =====================================================
-
-        if manager.is_finished(snapshot):
-
-            print("\n" + "=" * 70)
-            print("🏁 MATCH FINISHED")
-            print("=" * 70)
-
-            home = snapshot.get("home")
-            away = snapshot.get("away")
-            home_score = snapshot.get("home_score")
-            away_score = snapshot.get("away_score")
 
             print(
-                f"🏆 FINAL SCORE: "
-                f"{home} {home_score} - "
-                f"{away_score} {away}"
+                "ℹ️ لا توجد أحداث جديدة."
             )
+
+        print()
+
+        # ----------------------------------------------------
+        # التحقق من انتهاء المباراة
+        # ----------------------------------------------------
+
+        if is_finished(snapshot):
+
+            print("=" * 70)
+
+            print("🏁 انتهت المباراة!")
+
+            print("=" * 70)
+
+            print()
+
+            print(
+                f"🏆 النتيجة النهائية: "
+                f"{snapshot.get('home_score')} - "
+                f"{snapshot.get('away_score')}"
+            )
+
+            print()
 
             break
 
+        # ----------------------------------------------------
+        # الانتظار قبل الفحص التالي
+        # ----------------------------------------------------
+
         print(
-            f"\n⏳ انتظار {POLL_INTERVAL} ثانية..."
+            f"⏳ الانتظار "
+            f"{POLL_INTERVAL} ثانية قبل الفحص التالي..."
         )
 
         time.sleep(POLL_INTERVAL)
 
+        check_number += 1
+
+
+# ============================================================
+# تشغيل البرنامج
+# ============================================================
 
 if __name__ == "__main__":
     main()
