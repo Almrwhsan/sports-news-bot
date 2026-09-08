@@ -10,48 +10,43 @@ MATCH_SLUG = "inter-milan-vs-real-madrid"
 
 POLL_INTERVAL = 65
 RETRY_COUNT = 3
-RETRY_DELAY = 65
+RETRY_DELAY = 10
 
 
 def fetch_with_retry(manager):
     for attempt in range(1, RETRY_COUNT + 1):
-
         try:
             return manager.fetch_match()
 
-        except requests.HTTPError as error:
-
-            print(
-                f"⚠️ محاولة {attempt}/{RETRY_COUNT} فشلت: "
-                f"{error}"
-            )
-
-            if attempt < RETRY_COUNT:
-                print(
-                    f"⏳ انتظار {RETRY_DELAY} ثانية "
-                    "قبل إعادة المحاولة..."
-                )
-                time.sleep(RETRY_DELAY)
-            else:
-                print("❌ فشلت جميع المحاولات.")
-                return None
-
         except requests.RequestException as error:
-
             print(
-                f"⚠️ خطأ في الاتصال "
-                f"(محاولة {attempt}/{RETRY_COUNT}): {error}"
+                f"⚠️ محاولة {attempt}/{RETRY_COUNT} فشلت: {error}"
             )
 
             if attempt < RETRY_COUNT:
                 print(
-                    f"⏳ انتظار {RETRY_DELAY} ثانية "
-                    "قبل إعادة المحاولة..."
+                    f"⏳ إعادة المحاولة بعد {RETRY_DELAY} ثانية..."
                 )
                 time.sleep(RETRY_DELAY)
-            else:
-                print("❌ فشلت جميع المحاولات.")
-                return None
+
+    return None
+
+
+def print_match(snapshot):
+    print(f"🏠 {snapshot.get('home')}")
+    print(f"✈️ {snapshot.get('away')}")
+    print(
+        f"⚽ Score: "
+        f"{snapshot.get('home_score')} - "
+        f"{snapshot.get('away_score')}"
+    )
+    print(f"📌 Status: {snapshot.get('status')}")
+    print(f"📝 Status text: {snapshot.get('status_text')}")
+    print(f"⏱️ Minute: {snapshot.get('live_minute')}")
+    print(
+        f"📋 Incidents: "
+        f"{len(snapshot.get('incidents', []))}"
+    )
 
 
 def main():
@@ -68,7 +63,7 @@ def main():
     event_manager = LiveEventManager()
 
     # =========================================================
-    # أول قراءة
+    # INITIAL SNAPSHOT
     # =========================================================
 
     print("\n🔎 الحصول على بيانات المباراة...")
@@ -80,35 +75,19 @@ def main():
         return
 
     print("\n✅ تم الاتصال بالمباراة")
-
-    print(f"🏠 {snapshot.get('home')}")
-    print(f"✈️ {snapshot.get('away')}")
-
-    print(
-        f"⚽ النتيجة: "
-        f"{snapshot.get('home_score')} - "
-        f"{snapshot.get('away_score')}"
-    )
-
-    print(f"📌 الحالة: {snapshot.get('status')}")
-    print(f"📝 الحالة: {snapshot.get('status_text')}")
-    print(f"⏱️ الدقيقة: {snapshot.get('live_minute')}")
-    print(
-        f"📋 الأحداث الحالية: "
-        f"{len(snapshot.get('incidents', []))}"
-    )
+    print_match(snapshot)
 
     # =========================================================
-    # Bootstrap
+    # BOOTSTRAP
     # =========================================================
 
     event_manager.bootstrap(snapshot)
 
-    print("\n✅ تم Bootstrap للأحداث الحالية")
-    print("🚫 لن يتم نشر الأحداث القديمة.")
+    print("\n✅ Bootstrap مكتمل")
+    print("🚫 الأحداث القديمة لن يتم نشرها.")
 
     # =========================================================
-    # المراقبة
+    # MONITOR
     # =========================================================
 
     check_number = 0
@@ -124,38 +103,15 @@ def main():
         snapshot = fetch_with_retry(manager)
 
         if not snapshot:
-
-            print("⚠️ تعذر الحصول على تحديث المباراة.")
-
-            print(
-                f"⏳ الانتظار {POLL_INTERVAL} ثانية..."
-            )
-
+            print("⚠️ تعذر الحصول على تحديث.")
+            print(f"⏳ الانتظار {POLL_INTERVAL} ثانية...")
             time.sleep(POLL_INTERVAL)
             continue
 
-        home = snapshot.get("home")
-        away = snapshot.get("away")
-
-        home_score = snapshot.get("home_score")
-        away_score = snapshot.get("away_score")
-
-        status = snapshot.get("status")
-        status_text = snapshot.get("status_text")
-        minute = snapshot.get("live_minute")
-
-        incidents = snapshot.get("incidents", [])
-
-        print(f"🏠 {home}")
-        print(f"✈️ {away}")
-        print(f"⚽ Score: {home_score} - {away_score}")
-        print(f"📌 Status: {status}")
-        print(f"📝 Status text: {status_text}")
-        print(f"⏱️ Minute: {minute}")
-        print(f"📋 Incidents: {len(incidents)}")
+        print_match(snapshot)
 
         # =====================================================
-        # الأحداث الجديدة
+        # NEW EVENTS
         # =====================================================
 
         new_events = event_manager.process_snapshot(snapshot)
@@ -167,22 +123,20 @@ def main():
 
             for event in new_events:
 
-                print("\n🔥 حدث جديد:")
+                print("\n🔥 EVENT:")
                 print(event)
 
                 try:
-
                     message = format_live_event(event)
 
-                    print("\n📱 FACEBOOK MESSAGE:")
+                    print("\n📱 FACEBOOK MESSAGE PREVIEW:")
                     print("-" * 70)
                     print(message)
                     print("-" * 70)
 
                 except Exception as error:
-
                     print(
-                        f"⚠️ فشل تنسيق الحدث: {error}"
+                        f"⚠️ خطأ في تنسيق الحدث: {error}"
                     )
 
                 event_id = event.get("id")
@@ -191,11 +145,10 @@ def main():
                     event_manager.mark_processed(event_id)
 
         else:
-
             print("\nℹ️ لا توجد أحداث جديدة.")
 
         # =====================================================
-        # انتهاء المباراة
+        # FINISHED
         # =====================================================
 
         if manager.is_finished(snapshot):
@@ -203,6 +156,11 @@ def main():
             print("\n" + "=" * 70)
             print("🏁 MATCH FINISHED")
             print("=" * 70)
+
+            home = snapshot.get("home")
+            away = snapshot.get("away")
+            home_score = snapshot.get("home_score")
+            away_score = snapshot.get("away_score")
 
             print(
                 f"🏆 FINAL SCORE: "
