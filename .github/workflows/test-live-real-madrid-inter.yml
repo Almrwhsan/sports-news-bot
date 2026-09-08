@@ -8,11 +8,16 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+
   live-test:
+
     runs-on: ubuntu-latest
 
+    timeout-minutes: 180
+
     steps:
-      - name: Checkout
+
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -21,7 +26,10 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run live test
-        run: python test_live_real_madrid_inter.py
+      - name: Run live match test
+        run: |
+          python test_live_real_madrid_inter.py
