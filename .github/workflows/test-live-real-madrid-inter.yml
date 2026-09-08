@@ -1,0 +1,27 @@
+name: Test Live Real Madrid Inter
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: test-live-real-madrid-inter
+  cancel-in-progress: false
+
+jobs:
+  live-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run live test
+        run: python test_live_real_madrid_inter.py
