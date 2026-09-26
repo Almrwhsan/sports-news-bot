@@ -110,4 +110,38 @@ GLOBAL_SOURCES = [
         ),
     },
 
+    # --------------------------------------------------------
+    # ESPN FC - Soccer
+    # --------------------------------------------------------
+
+    {
+        "name": "ESPN FC",
+        "language": "en",
+        "type": "global",
+        "category": "football",
+        "priority": 2,
+        "enabled": True,
+        "feed": (
+            "https://www.espn.com/"
+            "espn/rss/soccer/news"
+        ),
+    },
+
+    # --------------------------------------------------------
+    # Sky Sports - Football
+    # --------------------------------------------------------
+
+    {
+        "name": "Sky Sports Football",
+        "language": "en",
+        "type": "global",
+        "category": "football",
+        "priority": 2,
+        "enabled": True,
+        "feed": (
+            "https://www.skysports.com/"
+            "rss/12040"
+        ),
+    },
+
 ]
