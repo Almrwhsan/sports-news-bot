@@ -1,5 +1,5 @@
 # ============================================================
-# المصادر العربية
+# Arabic Football News Sources
 # ============================================================
 
 ARABIC_SOURCES = [
@@ -7,7 +7,6 @@ ARABIC_SOURCES = [
     # --------------------------------------------------------
     # صحيفة اليوم - كرة عالمية
     # --------------------------------------------------------
-
     {
         "name": "Al Yaum World Football",
         "language": "ar",
@@ -15,10 +14,7 @@ ARABIC_SOURCES = [
         "category": "world_football",
         "priority": 2,
         "enabled": True,
-        "feed": (
-            "https://www.alyaum.com/"
-            "rssFeed/1009/114"
-        ),
+        "feed": "https://www.alyaum.com/rssFeed/1009/114",
     },
 
 ]
