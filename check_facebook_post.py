@@ -3,21 +3,16 @@ import json
 import requests
 
 GRAPH_VERSION = "v26.0"
-OBJECT_ID = "1061075956557715"
+PHOTO_ID = "1061075956557715"
 
-PAGE_ID = os.getenv("FACEBOOK_PAGE_ID")
 ACCESS_TOKEN = os.getenv("FACEBOOK_PAGE_ACCESS_TOKEN")
 
 
-def graph_get(object_id, fields=None):
-    url = f"https://graph.facebook.com/{GRAPH_VERSION}/{object_id}"
+def request_graph(path, params):
+    url = f"https://graph.facebook.com/{GRAPH_VERSION}/{path}"
 
-    params = {
-        "access_token": ACCESS_TOKEN,
-    }
-
-    if fields:
-        params["fields"] = fields
+    params = dict(params)
+    params["access_token"] = ACCESS_TOKEN
 
     response = requests.get(
         url,
@@ -33,7 +28,7 @@ def graph_get(object_id, fields=None):
     return response.status_code, data
 
 
-def print_test(title, status, data):
+def show(title, status, data):
     print()
     print("=" * 70)
     print(title)
@@ -43,162 +38,136 @@ def print_test(title, status, data):
 
 
 print("=" * 70)
-print("FACEBOOK POST / PHOTO OBJECT INVESTIGATION")
+print("FACEBOOK PHOTO -> POST RELATIONSHIP TEST")
 print("=" * 70)
 
-print(f"Page ID: {PAGE_ID}")
-print(f"Object ID: {OBJECT_ID}")
-
+print(f"Photo ID: {PHOTO_ID}")
 
 if not ACCESS_TOKEN:
     print("❌ FACEBOOK_PAGE_ACCESS_TOKEN is missing.")
     raise SystemExit(1)
 
 
-# ---------------------------------------------------------
+# =========================================================
 # TEST 1
-# Raw object
-# ---------------------------------------------------------
+# Photo basic information
+# =========================================================
 
-status, data = graph_get(OBJECT_ID)
+status, data = request_graph(
+    PHOTO_ID,
+    {
+        "fields": "id,created_time,name,from,link"
+    }
+)
 
-print_test(
-    "TEST 1 — RAW OBJECT",
+show(
+    "TEST 1 — PHOTO BASIC INFORMATION",
     status,
     data
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # TEST 2
-# Try common object identification fields
-# ---------------------------------------------------------
+# Try photo object fields that may expose the related post
+# =========================================================
 
-status, data = graph_get(
-    OBJECT_ID,
-    "id,created_time,name"
+status, data = request_graph(
+    PHOTO_ID,
+    {
+        "fields": "id,album"
+    }
 )
 
-print_test(
-    "TEST 2 — OBJECT IDENTITY",
+show(
+    "TEST 2 — PHOTO ALBUM",
     status,
     data
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # TEST 3
-# Try the object type through metadata
-# ---------------------------------------------------------
+# Ask for reactions/comments counts
+# =========================================================
 
-url = f"https://graph.facebook.com/{GRAPH_VERSION}/{OBJECT_ID}"
-
-response = requests.get(
-    url,
-    params={
-        "metadata": "1",
-        "access_token": ACCESS_TOKEN,
-    },
-    timeout=30,
+status, data = request_graph(
+    PHOTO_ID,
+    {
+        "fields": "id,reactions.summary(true),comments.summary(true)"
+    }
 )
 
-try:
-    data = response.json()
-except ValueError:
-    data = {"raw_response": response.text}
-
-print_test(
-    "TEST 3 — FACEBOOK OBJECT METADATA",
-    response.status_code,
+show(
+    "TEST 3 — ENGAGEMENT",
+    status,
     data
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # TEST 4
-# Try Page ownership / author fields
-# ---------------------------------------------------------
+# Try sharedposts connection
+# =========================================================
 
-status, data = graph_get(
-    OBJECT_ID,
-    "id,from"
+status, data = request_graph(
+    f"{PHOTO_ID}/sharedposts",
+    {
+        "limit": "25"
+    }
 )
 
-print_test(
-    "TEST 4 — OBJECT OWNER / FROM",
+show(
+    "TEST 4 — SHARED POSTS",
     status,
     data
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # TEST 5
-# Try link fields
-# ---------------------------------------------------------
+# Try feed connection from the photo
+# =========================================================
 
-status, data = graph_get(
-    OBJECT_ID,
-    "id,link"
+status, data = request_graph(
+    f"{PHOTO_ID}/feed",
+    {
+        "limit": "25"
+    }
 )
 
-print_test(
-    "TEST 5 — OBJECT LINK",
+show(
+    "TEST 5 — PHOTO FEED CONNECTION",
     status,
     data
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # TEST 6
-# Query the exact object through Page photos
-# ---------------------------------------------------------
+# Try Page published posts using the known Page ID
+# =========================================================
 
-photos_url = (
-    f"https://graph.facebook.com/"
-    f"{GRAPH_VERSION}/{PAGE_ID}/photos"
-)
+PAGE_ID = os.getenv("FACEBOOK_PAGE_ID")
 
-response = requests.get(
-    photos_url,
-    params={
-        "fields": "id,created_time,name",
-        "limit": 100,
-        "access_token": ACCESS_TOKEN,
-    },
-    timeout=30,
-)
+if PAGE_ID:
 
-try:
-    photos_data = response.json()
-except ValueError:
-    photos_data = {"raw_response": response.text}
+    status, data = request_graph(
+        f"{PAGE_ID}/published_posts",
+        {
+            "fields": "id,created_time",
+            "limit": "25"
+        }
+    )
 
-print_test(
-    "TEST 6 — PAGE PHOTOS",
-    response.status_code,
-    photos_data
-)
-
-
-if isinstance(photos_data, dict):
-    photos = photos_data.get("data", [])
-
-    found = False
-
-    for photo in photos:
-        if str(photo.get("id")) == OBJECT_ID:
-            found = True
-            print()
-            print("✅ OBJECT FOUND IN PAGE PHOTOS")
-            print(json.dumps(photo, ensure_ascii=False, indent=2))
-            break
-
-    if not found:
-        print()
-        print("⚠️ OBJECT NOT FOUND IN THE FIRST 100 PAGE PHOTOS.")
+    show(
+        "TEST 6 — PAGE PUBLISHED POSTS",
+        status,
+        data
+    )
 
 
 print()
 print("=" * 70)
-print("INVESTIGATION FINISHED")
+print("RELATIONSHIP TEST FINISHED")
 print("=" * 70)
