@@ -1,492 +1,259 @@
 # ============================================================
-# مدير المصادر
+# Source Manager
+# Fast, Safe and Parallel RSS Fetching
 # ============================================================
 
 import feedparser
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+
+# عدد المصادر التي يمكن جلبها في نفس الوقت
+MAX_WORKERS = 8
+
+
+def extract_image(entry):
+    """
+    Extract image URL from common RSS/Media formats.
+    """
+
+    # media_content
+    media_content = entry.get("media_content", [])
+    if media_content:
+        for media in media_content:
+            if isinstance(media, dict):
+                url = media.get("url")
+                if url:
+                    return url
+
+    # media_thumbnail
+    media_thumbnail = entry.get("media_thumbnail", [])
+    if media_thumbnail:
+        for media in media_thumbnail:
+            if isinstance(media, dict):
+                url = media.get("url")
+                if url:
+                    return url
+
+    # enclosures
+    enclosures = entry.get("enclosures", [])
+    if enclosures:
+        for enclosure in enclosures:
+            if isinstance(enclosure, dict):
+                url = enclosure.get("href") or enclosure.get("url")
+                if url:
+                    return url
+
+    # links
+    links = entry.get("links", [])
+    for link in links:
+        if not isinstance(link, dict):
+            continue
+
+        link_type = str(link.get("type", "")).lower()
+
+        if link_type.startswith("image/"):
+            url = link.get("href")
+            if url:
+                return url
+
+    return None
+
+
+def extract_media_type(entry):
+    """
+    Determine media type when available.
+    """
+
+    media_content = entry.get("media_content", [])
+
+    if media_content:
+        for media in media_content:
+            if isinstance(media, dict):
+                media_type = media.get("type")
+                if media_type:
+                    return media_type
+
+    enclosures = entry.get("enclosures", [])
+
+    if enclosures:
+        for enclosure in enclosures:
+            if isinstance(enclosure, dict):
+                media_type = enclosure.get("type")
+                if media_type:
+                    return media_type
+
+    return None
 
-
-# ============================================================
-# امتدادات الصور والفيديو
-# ============================================================
-
-IMAGE_EXTENSIONS = (
-    ".jpg",
-    ".jpeg",
-    ".png",
-    ".webp",
-    ".gif",
-    ".bmp",
-    ".avif",
-)
-
-VIDEO_EXTENSIONS = (
-    ".mp4",
-    ".webm",
-    ".mov",
-    ".m4v",
-    ".avi",
-    ".mkv",
-    ".m3u8",
-)
-
-
-# ============================================================
-# التحقق من أن الرابط صورة
-# ============================================================
-
-def is_image_url(url):
-    if not url:
-        return False
-
-    url = url.lower().split("?")[0].split("#")[0]
-
-    return url.endswith(IMAGE_EXTENSIONS)
-
-
-# ============================================================
-# التحقق من أن الرابط فيديو
-# ============================================================
-
-def is_video_url(url):
-    if not url:
-        return False
-
-    url = url.lower().split("?")[0].split("#")[0]
-
-    return url.endswith(VIDEO_EXTENSIONS)
-
-
-# ============================================================
-# استخراج رابط الوسائط من عنصر RSS
-# ============================================================
-
-def extract_media_url(item):
-    if not item:
-        return None, None
-
-    # --------------------------------------------------------
-    # قراءة البيانات الأساسية
-    # --------------------------------------------------------
-
-    url = (
-        item.get("url")
-        or item.get("href")
-        or ""
-    )
-
-    mime_type = (
-        item.get("type")
-        or ""
-    ).lower().strip()
-
-    medium = (
-        item.get("medium")
-        or ""
-    ).lower().strip()
-
-    # --------------------------------------------------------
-    # فيديو
-    # --------------------------------------------------------
-
-    if (
-        mime_type.startswith("video/")
-        or medium == "video"
-        or is_video_url(url)
-    ):
-        return url or None, "video"
-
-    # --------------------------------------------------------
-    # صورة
-    # --------------------------------------------------------
-
-    if (
-        mime_type.startswith("image/")
-        or medium == "image"
-        or is_image_url(url)
-    ):
-        return url or None, "image"
-
-    # --------------------------------------------------------
-    # إذا كان هناك رابط ولكن نوعه غير معروف
-    # --------------------------------------------------------
-
-    if url:
-
-        # نحاول معرفة النوع من الامتداد
-        if is_image_url(url):
-            return url, "image"
-
-        if is_video_url(url):
-            return url, "video"
-
-    return None, None
-
-
-# ============================================================
-# استخراج صورة / فيديو من خبر RSS
-# ============================================================
-
-def extract_media_from_entry(entry):
-
-    image_candidates = []
-    video_found = False
-
-    # --------------------------------------------------------
-    # Media RSS - media:content
-    # --------------------------------------------------------
-
-    media_content = entry.get(
-        "media_content",
-        []
-    ) or []
-
-    for item in media_content:
-
-        url, media_type = extract_media_url(item)
-
-        if media_type == "image" and url:
-            image_candidates.append(url)
-
-        elif media_type == "video":
-            video_found = True
-
-    # --------------------------------------------------------
-    # Media RSS - media:thumbnail
-    # --------------------------------------------------------
-
-    media_thumbnail = entry.get(
-        "media_thumbnail",
-        []
-    ) or []
-
-    for item in media_thumbnail:
-
-        url, media_type = extract_media_url(item)
-
-        if media_type == "image" and url:
-            image_candidates.append(url)
-
-        elif media_type == "video":
-            video_found = True
-
-    # --------------------------------------------------------
-    # RSS enclosure
-    # --------------------------------------------------------
-
-    enclosures = entry.get(
-        "enclosures",
-        []
-    ) or []
-
-    for item in enclosures:
-
-        url, media_type = extract_media_url(item)
-
-        if media_type == "image" and url:
-            image_candidates.append(url)
-
-        elif media_type == "video":
-            video_found = True
-
-    # --------------------------------------------------------
-    # entry.image
-    # --------------------------------------------------------
-
-    entry_image = entry.get(
-        "image"
-    )
-
-    if entry_image:
-
-        if isinstance(entry_image, dict):
-
-            url, media_type = extract_media_url(
-                entry_image
-            )
-
-            if media_type == "image" and url:
-                image_candidates.append(url)
-
-            elif media_type == "video":
-                video_found = True
-
-        elif isinstance(entry_image, str):
-
-            if is_image_url(entry_image):
-                image_candidates.append(
-                    entry_image
-                )
-
-            elif is_video_url(entry_image):
-                video_found = True
-
-    # --------------------------------------------------------
-    # iTunes image
-    # --------------------------------------------------------
-
-    itunes_image = entry.get(
-        "itunes_image"
-    )
-
-    if itunes_image:
-
-        if isinstance(itunes_image, dict):
-
-            url, media_type = extract_media_url(
-                itunes_image
-            )
-
-            if media_type == "image" and url:
-                image_candidates.append(url)
-
-            elif media_type == "video":
-                video_found = True
-
-        elif isinstance(itunes_image, str):
-
-            if is_image_url(itunes_image):
-                image_candidates.append(
-                    itunes_image
-                )
-
-    # --------------------------------------------------------
-    # الروابط الموجودة داخل entry.links
-    # --------------------------------------------------------
-
-    links = entry.get(
-        "links",
-        []
-    ) or []
-
-    for item in links:
-
-        url, media_type = extract_media_url(item)
-
-        if media_type == "image" and url:
-            image_candidates.append(url)
-
-        elif media_type == "video":
-            video_found = True
-
-    # --------------------------------------------------------
-    # إزالة التكرار مع الحفاظ على الترتيب
-    # --------------------------------------------------------
-
-    unique_images = []
-
-    for image_url in image_candidates:
-
-        if image_url not in unique_images:
-            unique_images.append(image_url)
-
-    # --------------------------------------------------------
-    # إذا وجدنا صورة، نستخدمها
-    # --------------------------------------------------------
-
-    if unique_images:
-
-        return {
-            "image_url": unique_images[0],
-            "media_type": "image",
-        }
-
-    # --------------------------------------------------------
-    # إذا لم توجد صورة وكان الموجود فيديو
-    # --------------------------------------------------------
-
-    if video_found:
-
-        return {
-            "image_url": "",
-            "media_type": "video",
-        }
-
-    # --------------------------------------------------------
-    # لا توجد صورة ولا فيديو
-    # --------------------------------------------------------
-
-    return {
-        "image_url": "",
-        "media_type": None,
-    }
-
-
-# ============================================================
-# جلب الأخبار من مصدر واحد
-# ============================================================
 
 def fetch_source(source):
+    """
+    Fetch one RSS source safely.
 
-    # --------------------------------------------------------
-    # التحقق من تفعيل المصدر
-    # --------------------------------------------------------
+    A failure in one source must never stop the entire bot.
+    """
 
     if not source.get("enabled", True):
-
+        print(f"⏭️ Disabled source: {source.get('name', 'Unknown')}")
         return []
-
-    # --------------------------------------------------------
-    # قراءة رابط RSS
-    # --------------------------------------------------------
 
     feed_url = source.get("feed")
 
     if not feed_url:
-
+        print(f"⚠️ No feed URL: {source.get('name', 'Unknown')}")
         return []
 
-    # --------------------------------------------------------
-    # قراءة RSS
-    # --------------------------------------------------------
+    source_name = source.get("name", "Unknown Source")
+
+    print(f"🌐 Fetching: {source_name}")
 
     try:
+        feed = feedparser.parse(feed_url)
 
-        feed = feedparser.parse(
-            feed_url
-        )
+        # feedparser normally exposes bozo when the feed has parsing problems
+        if getattr(feed, "bozo", False):
+            print(
+                f"⚠️ Feed warning: {source_name} - "
+                f"{getattr(feed, 'bozo_exception', 'unknown error')}"
+            )
 
-    except Exception as error:
+        entries = getattr(feed, "entries", [])
+
+        if not entries:
+            print(f"⚠️ No entries: {source_name}")
+            return []
+
+        news_items = []
+
+        for entry in entries:
+
+            title = entry.get("title", "").strip()
+            url = (
+                entry.get("link")
+                or entry.get("id")
+                or ""
+            ).strip()
+
+            if not title or not url:
+                continue
+
+            summary = (
+                entry.get("summary")
+                or entry.get("description")
+                or ""
+            ).strip()
+
+            published = (
+                entry.get("published")
+                or entry.get("updated")
+                or ""
+            ).strip()
+
+            image_url = extract_image(entry)
+            media_type = extract_media_type(entry)
+
+            item = {
+                "title": title,
+                "url": url,
+                "summary": summary,
+                "published": published,
+                "source": source_name,
+                "language": source.get("language", "unknown"),
+                "type": source.get("type", "global"),
+                "category": source.get("category", "football"),
+                "priority": source.get("priority", 5),
+                "image_url": image_url,
+                "media_type": media_type,
+            }
+
+            news_items.append(item)
 
         print(
-            f"❌ Failed to fetch "
-            f"{source.get('name', 'Unknown Source')}: "
-            f"{error}"
+            f"✅ {source_name}: "
+            f"{len(news_items)} entries"
+        )
+
+        return news_items
+
+    except Exception as e:
+
+        print(
+            f"❌ Source failed: {source_name} | "
+            f"{type(e).__name__}: {e}"
         )
 
         return []
 
-    # --------------------------------------------------------
-    # تحويل الأخبار إلى صيغة موحدة
-    # --------------------------------------------------------
-
-    news = []
-
-    for entry in feed.entries:
-
-        # ----------------------------------------------------
-        # استخراج بيانات الصورة / الفيديو
-        # ----------------------------------------------------
-
-        media = extract_media_from_entry(
-            entry
-        )
-
-        # ----------------------------------------------------
-        # إنشاء الخبر
-        # ----------------------------------------------------
-
-        news.append({
-
-            "title": entry.get(
-                "title",
-                ""
-            ),
-
-            "url": entry.get(
-                "link",
-                ""
-            ),
-
-            "summary": entry.get(
-                "summary",
-                ""
-            ),
-
-            "published": entry.get(
-                "published",
-                ""
-            ),
-
-            "source": source.get(
-                "name",
-                "Unknown"
-            ),
-
-            "language": source.get(
-                "language",
-                ""
-            ),
-
-            "type": source.get(
-                "type",
-                ""
-            ),
-
-            "category": source.get(
-                "category",
-                ""
-            ),
-
-            "priority": source.get(
-                "priority",
-                999
-            ),
-
-            # ------------------------------------------------
-            # بيانات الوسائط الجديدة
-            # ------------------------------------------------
-
-            "image_url": media.get(
-                "image_url",
-                ""
-            ),
-
-            "media_type": media.get(
-                "media_type"
-            ),
-
-        })
-
-    return news
-
-
-# ============================================================
-# جلب الأخبار من جميع المصادر
-# ============================================================
 
 def fetch_all_sources(sources):
+    """
+    Fetch all enabled sources in parallel.
+
+    The final result is sorted by source priority
+    so the rest of the bot continues receiving
+    predictable ordering.
+    """
+
+    if not sources:
+        print("⚠️ No sources configured.")
+        return []
+
+    enabled_sources = [
+        source
+        for source in sources
+        if source.get("enabled", True)
+    ]
+
+    if not enabled_sources:
+        print("⚠️ No enabled sources.")
+        return []
+
+    print(
+        f"\n🚀 Starting parallel fetch "
+        f"for {len(enabled_sources)} sources..."
+    )
 
     all_news = []
 
-    # --------------------------------------------------------
-    # ترتيب المصادر حسب الأولوية
-    # --------------------------------------------------------
+    # Do not create more workers than necessary
+    workers = min(MAX_WORKERS, len(enabled_sources))
 
-    sorted_sources = sorted(
-        sources,
-        key=lambda source: source.get(
-            "priority",
-            999
-        )
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+
+        future_to_source = {
+            executor.submit(fetch_source, source): source
+            for source in enabled_sources
+        }
+
+        for future in as_completed(future_to_source):
+
+            source = future_to_source[future]
+            source_name = source.get("name", "Unknown Source")
+
+            try:
+                news_items = future.result()
+
+                if news_items:
+                    all_news.extend(news_items)
+
+            except Exception as e:
+
+                print(
+                    f"❌ Unexpected error from "
+                    f"{source_name}: {e}"
+                )
+
+    # Keep priority ordering predictable
+    all_news.sort(
+        key=lambda item: (
+            item.get("priority", 5),
+            item.get("published", ""),
+        ),
+        reverse=False,
     )
 
-    # --------------------------------------------------------
-    # تشغيل المصادر واحدًا تلو الآخر
-    # --------------------------------------------------------
-
-    for source in sorted_sources:
-
-        print()
-        print(
-            f"Fetching: "
-            f"{source.get('name', 'Unknown Source')}"
-        )
-
-        news = fetch_source(
-            source
-        )
-
-        print(
-            f"Entries received: "
-            f"{len(news)}"
-        )
-
-        all_news.extend(
-            news
-        )
-
-    # --------------------------------------------------------
-    # إرجاع جميع الأخبار
-    # --------------------------------------------------------
+    print(
+        f"\n📊 Total fetched news: "
+        f"{len(all_news)}"
+    )
 
     return all_news
