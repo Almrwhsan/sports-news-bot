@@ -229,6 +229,118 @@ def publish_image_post(image_path, caption):
 
 
 # ============================================================
+# نشر تعليق على منشور
+# ============================================================
+
+def publish_comment(
+    post_id,
+    comment
+):
+
+    if not FACEBOOK_ENABLED:
+
+        return {
+            "success": False,
+            "commented": False,
+            "comment_id": None,
+            "error": "Facebook publishing is disabled."
+        }
+
+    if not is_facebook_configured():
+
+        return {
+            "success": False,
+            "commented": False,
+            "comment_id": None,
+            "error": "Facebook is not configured."
+        }
+
+    if not post_id:
+
+        return {
+            "success": False,
+            "commented": False,
+            "comment_id": None,
+            "error": "Post ID is empty."
+        }
+
+    if not comment:
+
+        return {
+            "success": False,
+            "commented": False,
+            "comment_id": None,
+            "error": "Comment is empty."
+        }
+
+    url = (
+        f"https://graph.facebook.com/"
+        f"{FACEBOOK_GRAPH_VERSION}/"
+        f"{post_id}/comments"
+    )
+
+    payload = {
+        "message": comment,
+        "access_token": FACEBOOK_PAGE_ACCESS_TOKEN,
+    }
+
+    try:
+
+        response = requests.post(
+            url,
+            data=payload,
+            timeout=30
+        )
+
+        data = response.json()
+
+    except requests.RequestException as error:
+
+        return {
+            "success": False,
+            "commented": False,
+            "comment_id": None,
+            "error": str(error)
+        }
+
+    except ValueError:
+
+        return {
+            "success": False,
+            "commented": False,
+            "comment_id": None,
+            "error": "Invalid JSON response from Facebook."
+        }
+
+    if response.ok and "id" in data:
+
+        print(
+            "💬 Comment published successfully."
+        )
+
+        return {
+            "success": True,
+            "commented": True,
+            "comment_id": data["id"],
+            "error": None
+        }
+
+    print(
+        "❌ Comment publishing failed."
+    )
+
+    return {
+        "success": False,
+        "commented": False,
+        "comment_id": None,
+        "error": data.get(
+            "error",
+            data
+        )
+    }
+
+
+# ============================================================
 # النشر النهائي
 # ============================================================
 
