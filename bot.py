@@ -16,7 +16,10 @@ from sources.news_formatter import format_news
 from image_fetcher import fetch_news_image
 from image_generator import generate_news_image
 
-from facebook_publisher import publish_post
+from facebook_publisher import (
+    publish_post,
+    publish_comment
+)
 
 # ============================================================
 # إعدادات
@@ -607,6 +610,50 @@ def prepare_news_image(news):
 
 
 # ============================================================
+# إنشاء أول تعليق بالمصدر
+# ============================================================
+
+def build_source_comment(news):
+
+    source = clean_text(
+        news.get(
+            "source",
+            ""
+        )
+    )
+
+    url = clean_text(
+        news.get(
+            "url",
+            ""
+        )
+    )
+
+    parts = []
+
+    if source:
+
+        parts.append(
+            f"🌐 المصدر: {source}"
+        )
+
+    if url:
+
+        parts.append(
+            "🔗 التفاصيل الكاملة:\n"
+            f"{url}"
+        )
+
+    if not parts:
+
+        return ""
+
+    return "\n\n".join(
+        parts
+    )
+
+
+# ============================================================
 # البرنامج الرئيسي
 # ============================================================
 
@@ -980,6 +1027,95 @@ def main():
             )
 
             # ------------------------------------------------
+            # نشر أول تعليق بالمصدر والرابط
+            # ------------------------------------------------
+
+            source_comment = build_source_comment(
+                news_item
+            )
+
+            if source_comment:
+
+                print()
+                print("-----------------------------------")
+                print(
+                    "Publishing source comment..."
+                )
+                print("-----------------------------------")
+
+                comment_result = publish_comment(
+                    post_id=facebook_result.get(
+                        "post_id"
+                    ),
+                    comment=source_comment
+                )
+
+                if comment_result.get(
+                    "success"
+                ):
+
+                    news_item[
+                        "facebook_comment_id"
+                    ] = comment_result.get(
+                        "comment_id"
+                    )
+
+                    news_item[
+                        "facebook_comment_error"
+                    ] = None
+
+                    print()
+                    print(
+                        "✅ Source comment published."
+                    )
+
+                    print(
+                        "Facebook Comment ID:",
+                        comment_result.get(
+                            "comment_id"
+                        )
+                    )
+
+                else:
+
+                    news_item[
+                        "facebook_comment_id"
+                    ] = None
+
+                    news_item[
+                        "facebook_comment_error"
+                    ] = comment_result.get(
+                        "error"
+                    )
+
+                    print()
+                    print(
+                        "⚠️ Source comment failed."
+                    )
+
+                    print(
+                        "Comment error:",
+                        comment_result.get(
+                            "error"
+                        )
+                    )
+
+            else:
+
+                news_item[
+                    "facebook_comment_id"
+                ] = None
+
+                news_item[
+                    "facebook_comment_error"
+                ] = "No source or URL available."
+
+                print()
+                print(
+                    "⚠️ No source comment created."
+                )
+
+            # ------------------------------------------------
             # إضافة الخبر إلى الحالة
             # ------------------------------------------------
 
@@ -1029,6 +1165,14 @@ def main():
             ] = facebook_result.get(
                 "error"
             )
+
+            news_item[
+                "facebook_comment_id"
+            ] = None
+
+            news_item[
+                "facebook_comment_error"
+            ] = None
 
             print()
             print(
@@ -1171,6 +1315,12 @@ def main():
             print(
                 f"Facebook Post ID: "
                 f"{article.get('facebook_post_id', '')}"
+            )
+
+            print()
+            print(
+                f"Facebook Comment ID: "
+                f"{article.get('facebook_comment_id', '')}"
             )
 
     else:
