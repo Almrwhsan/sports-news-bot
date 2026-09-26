@@ -1,222 +1,208 @@
 # ============================================================
-# تنسيق أخبار كرة القدم للنشر باللغة العربية
+# News Formatter
+# Arabic Facebook Post Formatter
 # ============================================================
 
-
-# ============================================================
-# أسماء التصنيفات
-# ============================================================
 
 CATEGORY_LABELS = {
-
     "real_madrid": "ريال مدريد",
     "barcelona": "برشلونة",
     "atletico_madrid": "أتلتيكو مدريد",
-
     "transfers": "سوق الانتقالات",
-
     "champions_league": "دوري أبطال أوروبا",
-
     "la_liga": "الدوري الإسباني",
-
     "premier_league": "الدوري الإنجليزي",
-
     "serie_a": "الدوري الإيطالي",
-
     "bundesliga": "الدوري الألماني",
-
     "ligue_1": "الدوري الفرنسي",
-
     "football": "كرة القدم",
-
     "world_football": "كرة القدم العالمية",
 }
 
 
-# ============================================================
-# الحصول على اسم التصنيف
-# ============================================================
+def clean_text(text):
+    """
+    Clean text before publishing.
+    """
+
+    if not text:
+        return ""
+
+    text = str(text).strip()
+
+    # Remove excessive whitespace
+    text = " ".join(
+        text.split()
+    )
+
+    return text
+
 
 def get_category_label(category):
+    """
+    Convert internal category to Arabic label.
+    """
+
+    if not category:
+        return "كرة القدم"
 
     return CATEGORY_LABELS.get(
         category,
-        "كرة القدم"
+        "كرة القدم",
     )
 
-
-# ============================================================
-# تنظيف النص
-# ============================================================
-
-def clean_text(text):
-
-    if not text:
-
-        return ""
-
-    return " ".join(
-        str(text).split()
-    ).strip()
-
-
-# ============================================================
-# بناء عنوان المنشور
-# ============================================================
 
 def build_post_title(news):
+    """
+    Build the Arabic post title.
+    """
 
-    title = clean_text(
-        news.get(
-            "arabic_title",
-            news.get(
-                "title",
-                ""
-            )
-        )
+    title = (
+        news.get("arabic_title")
+        or news.get("title")
+        or ""
     )
 
-    return title
+    return clean_text(title)
 
 
-# ============================================================
-# بناء نص المنشور
-# ============================================================
+def build_post_summary(news):
+    """
+    Build the Arabic summary.
+    """
+
+    summary = (
+        news.get("arabic_summary")
+        or news.get("summary")
+        or ""
+    )
+
+    return clean_text(summary)
+
 
 def build_post_text(news):
+    """
+    Build final Facebook post.
+    """
 
-    title = build_post_title(
-        news
-    )
-
-    summary = clean_text(
-        news.get(
-            "arabic_summary",
-            news.get(
-                "summary",
-                ""
-            )
-        )
-    )
+    title = build_post_title(news)
+    summary = build_post_summary(news)
 
     category = get_category_label(
-        news.get(
-            "category",
-            "football"
-        )
+        news.get("category")
     )
 
     source = clean_text(
-        news.get(
-            "source",
-            ""
-        )
+        news.get("source")
     )
 
-    lines = []
+    parts = []
 
     # --------------------------------------------------------
-    # العنوان
+    # Title
     # --------------------------------------------------------
 
     if title:
-
-        lines.append(
+        parts.append(
             f"🚨 {title}"
         )
 
     # --------------------------------------------------------
-    # الملخص
+    # Summary
     # --------------------------------------------------------
 
     if summary:
 
-        lines.append(
-            ""
-        )
+        # Keep posts reasonably concise.
+        if len(summary) > 500:
+            summary = summary[:497].rstrip() + "..."
 
-        lines.append(
-            f"📰 {summary}"
+        parts.append(
+            f"📝 {summary}"
         )
 
     # --------------------------------------------------------
-    # التصنيف
+    # Category + Source
     # --------------------------------------------------------
 
-    lines.append(
-        ""
-    )
-
-    lines.append(
+    parts.append(
         f"🏷️ {category}"
     )
 
-    # --------------------------------------------------------
-    # المصدر
-    # --------------------------------------------------------
-
     if source:
-
-        lines.append(
+        parts.append(
             f"🌐 المصدر: {source}"
         )
 
     # --------------------------------------------------------
-    # اسم الصفحة
+    # Page branding
     # --------------------------------------------------------
 
-    lines.append(
-        ""
-    )
-
-    lines.append(
+    parts.append(
         "📍 نبض مدريد"
     )
 
-    return "\n".join(
-        lines
-    )
+    return "\n\n".join(parts)
 
-
-# ============================================================
-# تنسيق خبر واحد
-# ============================================================
 
 def format_news_item(news):
+    """
+    Format one news item for Facebook.
+    """
 
-    formatted_news = dict(
+    post_title = build_post_title(
         news
     )
 
-    formatted_news["post_title"] = (
-        build_post_title(
-            formatted_news
-        )
+    post_text = build_post_text(
+        news
     )
 
-    formatted_news["post_text"] = (
-        build_post_text(
-            formatted_news
-        )
-    )
+    news["post_title"] = post_title
+    news["post_text"] = post_text
 
-    return formatted_news
+    return news
 
-
-# ============================================================
-# تنسيق مجموعة أخبار
-# ============================================================
 
 def format_news(news_list):
+    """
+    Format all news items.
+    """
 
-    formatted = []
+    formatted_news = []
 
     for news in news_list:
 
-        formatted.append(
-            format_news_item(
+        try:
+
+            formatted = format_news_item(
                 news
             )
-        )
 
-    return formatted
+            # Do not publish completely empty posts
+            if not formatted.get(
+                "post_title"
+            ):
+                continue
+
+            if not formatted.get(
+                "post_text"
+            ):
+                continue
+
+            formatted_news.append(
+                formatted
+            )
+
+        except Exception as e:
+
+            print(
+                f"⚠️ Formatting error: {e}"
+            )
+
+    print(
+        f"📰 Formatted news: "
+        f"{len(formatted_news)}"
+    )
+
+    return formatted_news
