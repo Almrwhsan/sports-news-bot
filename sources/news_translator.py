@@ -1,251 +1,391 @@
 # ============================================================
-# News Translator
-# Arabic-first translation system
+# ترجمة أخبار كرة القدم إلى العربية
 # ============================================================
 
 import re
+import urllib.parse
+import urllib.request
+import json
+import html
 import time
-import requests
 
 
-TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+# ============================================================
+# إعدادات الترجمة
+# ============================================================
 
-REQUEST_TIMEOUT = 15
+TRANSLATION_TIMEOUT = 15
 
-# عدد المحاولات عند فشل الترجمة
+# عدد المحاولات عند حدوث Rate Limit
 MAX_RETRIES = 3
 
-# انتظار بسيط بين المحاولات
-RETRY_DELAY = 2
+# أوقات الانتظار عند 429
+RETRY_DELAYS = [5, 15, 30]
 
 
-ARABIC_RE = re.compile(r"[\u0600-\u06FF]")
-LATIN_RE = re.compile(r"[A-Za-z]")
+# ============================================================
+# أنماط الحروف المستخدمة في تحديد لغة النص
+# ============================================================
+
+ARABIC_RE = re.compile(
+    r"[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]"
+)
+
+LATIN_RE = re.compile(
+    r"[A-Za-zÀ-ÖØ-öø-ÿ]"
+)
 
 
-def arabic_ratio(text):
-    """
-    Calculate the percentage of Arabic characters.
-    """
+# ============================================================
+# تنظيف النص
+# ============================================================
 
-    if not text:
-        return 0.0
-
-    arabic_chars = len(ARABIC_RE.findall(text))
-    latin_chars = len(LATIN_RE.findall(text))
-
-    total = arabic_chars + latin_chars
-
-    if total == 0:
-        return 0.0
-
-    return arabic_chars / total
-
-
-def latin_ratio(text):
-    """
-    Calculate the percentage of Latin characters.
-    """
+def clean_text(text):
 
     if not text:
-        return 0.0
+        return ""
 
-    arabic_chars = len(ARABIC_RE.findall(text))
-    latin_chars = len(LATIN_RE.findall(text))
+    text = str(text)
 
-    total = arabic_chars + latin_chars
+    # فك HTML entities
+    text = html.unescape(text)
 
-    if total == 0:
-        return 0.0
+    # تحويل وسوم HTML الخاصة بالفواصل إلى مسافة
+    text = re.sub(
+        r"<\s*(br|br/|br\s*/)\s*>",
+        " ",
+        text,
+        flags=re.IGNORECASE
+    )
 
-    return latin_chars / total
+    # إزالة وسوم HTML
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
 
+    # فك HTML entities مرة ثانية
+    text = html.unescape(text)
+
+    # إزالة أي وسوم HTML متبقية
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
+
+    # تنظيف المسافات والأسطر
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    ).strip()
+
+    return text
+
+
+# ============================================================
+# تحديد الحاجة إلى الترجمة
+# ============================================================
 
 def needs_translation(news):
-    """
-    Determine whether the news item needs Arabic translation.
-    """
 
-    title = news.get("title", "") or ""
-    summary = news.get("summary", "") or ""
+    title = clean_text(
+        news.get(
+            "title",
+            ""
+        )
+    )
+
+    summary = clean_text(
+        news.get(
+            "summary",
+            ""
+        )
+    )
 
     text = f"{title} {summary}".strip()
 
-    if not text:
-        return False
-
-    ar_ratio = arabic_ratio(text)
-    lat_ratio = latin_ratio(text)
-
-    # Clearly Arabic
-    if ar_ratio >= 0.25:
-        return False
-
-    # Clearly foreign
-    if lat_ratio >= 0.50:
-        return True
-
-    # If source language is not Arabic,
-    # prefer translating mixed content.
-    language = str(
-        news.get("language", "")
-    ).lower()
-
-    if language and language != "ar":
-        return True
-
-    return False
-
-
-def translate_text(text):
-    """
-    Translate text to Arabic using Google Translate endpoint.
-
-    Returns:
-        Arabic translated text or None if translation fails.
-    """
-
-    if not text:
-        return ""
-
-    text = str(text).strip()
-
-    if not text:
-        return ""
-
-    params = {
-        "client": "gtx",
-        "sl": "auto",
-        "tl": "ar",
-        "dt": "t",
-        "q": text,
-    }
-
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 "
-            "(Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 "
-            "(KHTML, like Gecko) "
-            "Chrome/140.0 Safari/537.36"
+    arabic_count = len(
+        ARABIC_RE.findall(
+            text
         )
-    }
+    )
 
-    for attempt in range(1, MAX_RETRIES + 1):
+    latin_count = len(
+        LATIN_RE.findall(
+            text
+        )
+    )
+
+    total_letters = (
+        arabic_count
+        + latin_count
+    )
+
+    if total_letters == 0:
+
+        language = str(
+            news.get(
+                "language",
+                ""
+            )
+        ).lower().strip()
+
+        return language not in (
+            "",
+            "ar",
+            "arabic",
+        )
+
+    arabic_ratio = (
+        arabic_count
+        / total_letters
+    )
+
+    latin_ratio = (
+        latin_count
+        / total_letters
+    )
+
+    # النص عربي بشكل واضح
+    if (
+        arabic_count >= 3
+        and arabic_ratio >= 0.25
+    ):
+
+        return False
+
+    # النص لاتيني بشكل واضح
+    if latin_ratio >= 0.65:
+
+        return True
+
+    language = str(
+        news.get(
+            "language",
+            ""
+        )
+    ).lower().strip()
+
+    # مصدر عربي + نص مختلط
+    if language in (
+        "ar",
+        "arabic",
+    ):
+
+        return False
+
+    # الحالات غير الواضحة
+    return True
+
+
+# ============================================================
+# ترجمة نص واحد
+# ============================================================
+
+def translate_text(
+    text,
+    source_language="auto",
+    target_language="ar"
+):
+
+    text = clean_text(
+        text
+    )
+
+    if not text:
+        return ""
+
+    encoded_text = urllib.parse.quote(
+        text
+    )
+
+    url = (
+        "https://translate.googleapis.com/"
+        "translate_a/single"
+        "?client=gtx"
+        f"&sl={source_language}"
+        f"&tl={target_language}"
+        "&dt=t"
+        f"&q={encoded_text}"
+    )
+
+    for attempt in range(
+        MAX_RETRIES
+    ):
 
         try:
 
-            response = requests.get(
-                TRANSLATE_URL,
-                params=params,
-                headers=headers,
-                timeout=REQUEST_TIMEOUT,
+            request = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
             )
 
-            if response.status_code == 200:
+            with urllib.request.urlopen(
+                request,
+                timeout=TRANSLATION_TIMEOUT
+            ) as response:
 
-                data = response.json()
-
-                if (
-                    isinstance(data, list)
-                    and len(data) > 0
-                    and isinstance(data[0], list)
-                ):
-
-                    translated_parts = []
-
-                    for part in data[0]:
-
-                        if (
-                            isinstance(part, list)
-                            and len(part) > 0
-                            and part[0]
-                        ):
-                            translated_parts.append(
-                                str(part[0])
-                            )
-
-                    translated = "".join(
-                        translated_parts
-                    ).strip()
-
-                    if translated:
-                        return translated
-
-            elif response.status_code == 429:
-
-                print(
-                    f"⚠️ Translation rate limit "
-                    f"(429), attempt {attempt}/{MAX_RETRIES}"
+                data = json.loads(
+                    response.read().decode(
+                        "utf-8"
+                    )
                 )
 
-            else:
+            translated_parts = []
 
-                print(
-                    f"⚠️ Translation HTTP "
-                    f"{response.status_code}, "
-                    f"attempt {attempt}/{MAX_RETRIES}"
+            if (
+                isinstance(data, list)
+                and len(data) > 0
+                and isinstance(data[0], list)
+            ):
+
+                for part in data[0]:
+
+                    if (
+                        part
+                        and len(part) > 0
+                        and part[0]
+                    ):
+
+                        translated_parts.append(
+                            part[0]
+                        )
+
+            translated = clean_text(
+                " ".join(
+                    translated_parts
                 )
+            )
 
-        except Exception as e:
+            if translated:
+
+                return translated
 
             print(
-                f"⚠️ Translation error "
-                f"(attempt {attempt}/{MAX_RETRIES}): {e}"
+                "⚠️ Translation returned empty result."
             )
 
-        if attempt < MAX_RETRIES:
-            time.sleep(RETRY_DELAY * attempt)
+            return ""
 
-    return None
+        except Exception as error:
 
+            error_text = str(
+                error
+            )
+
+            # ------------------------------------------------
+            # Rate Limit
+            # ------------------------------------------------
+
+            if (
+                "429" in error_text
+                or "Too Many Requests"
+                in error_text
+            ):
+
+                if attempt < MAX_RETRIES:
+
+                    delay = RETRY_DELAYS[
+                        attempt
+                    ]
+
+                    print(
+                        f"⚠️ Translation rate limit "
+                        f"(429). Waiting {delay}s "
+                        f"before retry "
+                        f"{attempt + 2}/{MAX_RETRIES}..."
+                    )
+
+                    time.sleep(
+                        delay
+                    )
+
+                    continue
+
+            print(
+                f"❌ Translation failed: "
+                f"{error}"
+            )
+
+            return ""
+
+    return ""
+
+
+# ============================================================
+# ترجمة خبر واحد
+# ============================================================
 
 def translate_news_item(news):
-    """
-    Translate one news item to Arabic.
 
-    Important:
-    We NEVER intentionally replace a failed translation
-    with the original foreign-language text.
-    """
-
-    title = (
-        news.get("title", "") or ""
-    ).strip()
-
-    summary = (
-        news.get("summary", "") or ""
-    ).strip()
-
-    language = str(
-        news.get("language", "")
-    ).lower()
+    translated_news = dict(
+        news
+    )
 
     # --------------------------------------------------------
-    # Arabic source / already Arabic
+    # الخبر عربي أصلًا
     # --------------------------------------------------------
 
-    if language == "ar" or not needs_translation(news):
+    if not needs_translation(
+        news
+    ):
 
-        news["arabic_title"] = title
-        news["arabic_summary"] = summary
-        news["translation_status"] = "not_needed"
+        translated_news[
+            "arabic_title"
+        ] = clean_text(
+            news.get(
+                "title",
+                ""
+            )
+        )
 
-        return news
+        translated_news[
+            "arabic_summary"
+        ] = clean_text(
+            news.get(
+                "summary",
+                ""
+            )
+        )
+
+        translated_news[
+            "translation_status"
+        ] = "not_needed"
+
+        return translated_news
 
     # --------------------------------------------------------
-    # Translate title
+    # ترجمة العنوان
     # --------------------------------------------------------
+
+    title = clean_text(
+        news.get(
+            "title",
+            ""
+        )
+    )
 
     print(
         f"🌍 Translating: "
-        f"{title[:80]}"
+        f"{title[:100]}"
     )
 
-    translated_title = translate_text(title)
+    translated_title = translate_text(
+        title,
+        source_language="auto",
+        target_language="ar"
+    )
 
-    # If title translation fails, do not silently
-    # publish the original foreign title.
+    # --------------------------------------------------------
+    # إذا فشل العنوان
+    # لا ننشر الخبر بلغة أجنبية
+    # --------------------------------------------------------
+
     if not translated_title:
 
         print(
@@ -253,56 +393,86 @@ def translate_news_item(news):
             "News will not be published."
         )
 
-        news["arabic_title"] = ""
-        news["arabic_summary"] = ""
-        news["translation_status"] = "failed"
+        translated_news[
+            "arabic_title"
+        ] = ""
 
-        return news
+        translated_news[
+            "arabic_summary"
+        ] = ""
+
+        translated_news[
+            "translation_status"
+        ] = "failed"
+
+        return translated_news
 
     # --------------------------------------------------------
-    # Translate summary
+    # ترجمة الملخص
     # --------------------------------------------------------
+
+    summary = clean_text(
+        news.get(
+            "summary",
+            ""
+        )
+    )
 
     translated_summary = ""
 
     if summary:
 
         translated_summary = translate_text(
-            summary
+            summary,
+            source_language="auto",
+            target_language="ar"
         )
 
-        # Summary is less critical than the title.
-        # If it fails, we can continue with title only.
+        # ----------------------------------------------------
+        # إذا فشل الملخص، لا نعيد النص الأجنبي.
+        # العنوان العربي يكفي لاستمرار الخبر.
+        # ----------------------------------------------------
+
         if not translated_summary:
 
             print(
                 "⚠️ Summary translation failed. "
-                "Using translated title only."
+                "Using Arabic title only."
             )
 
-    news["arabic_title"] = translated_title
-    news["arabic_summary"] = translated_summary
+    # --------------------------------------------------------
+    # النتائج النهائية
+    # --------------------------------------------------------
 
-    news["translation_status"] = "translated"
+    translated_news[
+        "arabic_title"
+    ] = clean_text(
+        translated_title
+    )
 
-    return news
+    translated_news[
+        "arabic_summary"
+    ] = clean_text(
+        translated_summary
+    )
 
+    translated_news[
+        "translation_status"
+    ] = "translated"
+
+    return translated_news
+
+
+# ============================================================
+# ترجمة قائمة الأخبار
+# ============================================================
 
 def translate_news(news_list):
-    """
-    Translate all news items.
 
-    Foreign-language items that fail title translation
-    are removed instead of publishing untranslated text.
-    """
+    translated = []
 
-    translated_news = []
-
-    total = len(news_list)
-
-    print(
-        f"\n🌍 Starting translation "
-        f"for {total} news items..."
+    total = len(
+        news_list
     )
 
     for index, news in enumerate(
@@ -315,38 +485,37 @@ def translate_news(news_list):
             f"{index}/{total}"
         )
 
-        result = translate_news_item(news)
-
-        status = result.get(
-            "translation_status",
-            ""
+        result = translate_news_item(
+            news
         )
 
-        # Never publish an untranslated foreign item
-        if status == "failed":
+        # ----------------------------------------------------
+        # الأخبار العربية أو المترجمة بنجاح
+        # ----------------------------------------------------
+
+        if result.get(
+            "translation_status"
+        ) != "failed":
+
+            translated.append(
+                result
+            )
+
+        else:
 
             print(
                 "⛔ Skipping news because "
                 "Arabic translation failed."
             )
 
-            continue
+        # ----------------------------------------------------
+        # فاصل بسيط بين الأخبار
+        # ----------------------------------------------------
 
-        translated_news.append(result)
-
-        # Small delay helps reduce 429 errors
-        # when many foreign articles arrive together.
         if index < total:
-            time.sleep(0.5)
 
-    print(
-        f"\n✅ Translation complete: "
-        f"{len(translated_news)} ready"
-    )
+            time.sleep(
+                2
+            )
 
-    print(
-        f"⛔ Skipped: "
-        f"{total - len(translated_news)}"
-    )
-
-    return translated_news
+    return translated
