@@ -2,12 +2,6 @@ name: Test Live Stream Manager
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "live_stream_manager/config.json"
-      - "live_stream_manager/stream_manager.py"
-      - "live_stream_manager/requirements.txt"
-      - "live_stream_manager/README.md"
 
 jobs:
   test:
@@ -26,14 +20,27 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Live Stream Manager
+      - name: Check FFmpeg
+        run: |
+          ffmpeg -version
+
+      - name: Run HLS Monitor
         run: |
           python stream_manager.py
+
+      - name: Run FFmpeg HLS Test
+        run: |
+          python ffmpeg_test.py
 
       - name: Show generated playlist
         run: |
@@ -44,3 +51,9 @@ jobs:
         run: |
           echo "===== logs/stream_manager.log ====="
           cat logs/stream_manager.log
+
+      - name: Upload FFmpeg test video
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-test-video
+          path: live_stream_manager/ffmpeg_test_output.mp4
