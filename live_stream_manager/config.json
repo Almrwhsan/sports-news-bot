@@ -1,21 +1,50 @@
 {
-  "stream": {
-    "stream_url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-    "event_title": "HLS Test Stream",
-    "enabled": true,
-    "status": "testing"
+  "app": {
+    "name": "Live Stream Manager",
+    "version": "1.0.0",
+    "environment": "testing"
   },
+
+  "streams": [
+    {
+      "id": "aja-test",
+      "name": "AJA Test Stream",
+      "event_title": "HLS Test Stream",
+      "stream_url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+      "enabled": true,
+      "status": "testing",
+      "preferred_variant": 1
+    }
+  ],
+
   "headers": {
     "Referer": "",
     "User-Agent": "Mozilla/5.0 (Android 14; Mobile) AppleWebKit/537.36 Chrome/128.0 Mobile Safari/537.36"
   },
+
+  "monitoring": {
+    "enabled": true,
+    "timeout": 15,
+    "segment_test_count": 3,
+    "segment_test_delay": 2
+  },
+
+  "output": {
+    "playlist_file": "live_playlist.m3u",
+    "log_directory": "logs",
+    "log_file": "stream_manager.log"
+  },
+
   "facebook": {
     "enabled": false,
     "page_id": "",
     "page_access_token": "",
-    "post_message": true
+    "post_message": false
   },
-  "output": {
-    "playlist_file": "live_playlist.m3u"
+
+  "ffmpeg": {
+    "enabled": false,
+    "rtmps_url": "",
+    "extra_arguments": []
   }
 }
