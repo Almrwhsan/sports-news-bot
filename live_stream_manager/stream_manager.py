@@ -1,7 +1,7 @@
 import json
-import time
+import logging
 from pathlib import Path
-from urllib.parse import urlparse, urljoin
+from urllib.parse import urljoin, urlparse
 
 import requests
 
@@ -10,494 +10,90 @@ BASE_DIR = Path(__file__).resolve().parent
 CONFIG_FILE = BASE_DIR / "config.json"
 
 
+# ============================================================
+# CONFIGURATION
+# ============================================================
+
 def load_config():
-    """Load configuration from config.json."""
+    """Load application configuration."""
+
     if not CONFIG_FILE.exists():
         raise FileNotFoundError(
             f"Configuration file not found: {CONFIG_FILE}"
         )
 
-    with CONFIG_FILE.open("r", encoding="utf-8") as file:
+    with CONFIG_FILE.open(
+        "r",
+        encoding="utf-8"
+    ) as file:
         return json.load(file)
 
 
-def validate_stream_url(stream_url):
-    """Validate the basic structure of the HLS URL."""
-    parsed = urlparse(stream_url)
-
-    if parsed.scheme not in ("http", "https"):
-        return False
-
-    if not parsed.netloc:
-        return False
-
-    if not parsed.path.lower().endswith(".m3u8"):
-        return False
-
-    return True
-
-
-def build_headers(config):
-    """Build HTTP headers from config.json."""
-    header_config = config.get("headers", {})
-
-    headers = {}
-
-    user_agent = header_config.get("User-Agent", "").strip()
-    referer = header_config.get("Referer", "").strip()
-
-    if user_agent:
-        headers["User-Agent"] = user_agent
-
-    if referer:
-        headers["Referer"] = referer
-
-    return headers
-
-
-def extract_playlist_urls(playlist_text, base_url):
-    """
-    Extract URLs from an HLS playlist.
-
-    This function ignores comments and returns
-    absolute URLs.
-    """
-    urls = []
-
-    for line in playlist_text.splitlines():
-        line = line.strip()
-
-        if not line:
-            continue
-
-        if line.startswith("#"):
-            continue
-
-        full_url = urljoin(base_url, line)
-
-        urls.append(full_url)
-
-    return urls
-
-
-def extract_segment_urls(playlist_text, base_url):
-    """
-    Extract media segment URLs from a media playlist.
-
-    Only URLs ending with common media segment extensions
-    are returned.
-    """
-    segments = []
-
-    for line in playlist_text.splitlines():
-        line = line.strip()
-
-        if not line:
-            continue
-
-        if line.startswith("#"):
-            continue
-
-        full_url = urljoin(base_url, line)
-
-        lower_url = full_url.lower()
-
-        if (
-            lower_url.endswith(".ts")
-            or ".ts?" in lower_url
-            or lower_url.endswith(".m4s")
-            or ".m4s?" in lower_url
-        ):
-            segments.append(full_url)
-
-    return segments
-
-
-def print_response_info(name, response):
-    """Print useful HTTP response information."""
-    print(f"\n{name} HTTP Status: {response.status_code}")
-
-    print(
-        f"{name} Content-Type: "
-        f"{response.headers.get('Content-Type', 'Unknown')}"
-    )
-
-    print(
-        f"{name} Content-Length: "
-        f"{response.headers.get('Content-Length', 'Unknown')}"
-    )
-
-    print(
-        f"{name} Final URL: "
-        f"{response.url}"
-    )
-
-
-def request_url(url, headers):
-    """Perform a GET request safely."""
-    try:
-        return requests.get(
-            url,
-            headers=headers,
-            timeout=15,
-            allow_redirects=True
-        )
-
-    except requests.RequestException as error:
-        print(f"\nRequest error:")
-        print(error)
-
-        return None
-
-
-def test_master_playlist(stream_url, headers):
-    """Test the main/master HLS playlist."""
-
-    print("\n")
-    print("=" * 70)
-    print("STEP 1 - MASTER PLAYLIST")
-    print("=" * 70)
-
-    print("\nMaster URL:")
-    print(stream_url)
-
-    response = request_url(
-        stream_url,
-        headers
-    )
-
-    if response is None:
-        return None
-
-    print_response_info(
-        "Master",
-        response
-    )
-
-    if response.status_code != 200:
-        print(
-            "\nMaster Playlist FAILED."
-        )
-
-        return None
-
-    print(
-        "\nMaster Playlist: SUCCESS"
-    )
-
-    print("\nMaster content:")
-
-    for line in response.text.splitlines():
-        line = line.strip()
-
-        if line:
-            print(line)
-
-    return response
-
-
-def test_variant_playlist(master_response, headers):
-    """Find and test the first variant playlist."""
-
-    print("\n")
-    print("=" * 70)
-    print("STEP 2 - VARIANT PLAYLIST")
-    print("=" * 70)
-
-    variant_urls = extract_playlist_urls(
-        master_response.text,
-        master_response.url
-    )
-
-    print(
-        f"\nVariant playlists found: "
-        f"{len(variant_urls)}"
-    )
-
-    if not variant_urls:
-        print(
-            "\nNo variant playlist was found."
-        )
-
-        return None
-
-    for index, url in enumerate(
-        variant_urls,
-        start=1
-    ):
-        print(
-            f"{index}. {url}"
-        )
-
-    variant_url = variant_urls[0]
-
-    print("\nTesting first variant:")
-    print(variant_url)
-
-    response = request_url(
-        variant_url,
-        headers
-    )
-
-    if response is None:
-        return None
-
-    print_response_info(
-        "Variant",
-        response
-    )
-
-    if response.status_code != 200:
-        print(
-            "\nVariant Playlist FAILED."
-        )
-
-        return None
-
-    print(
-        "\nVariant Playlist: SUCCESS"
-    )
-
-    print("\nVariant content:")
-
-    for line in response.text.splitlines():
-        line = line.strip()
-
-        if line:
-            print(line)
-
-    return response
-
-
-def test_media_segments(variant_response, headers):
-    """
-    Extract media segments from the variant playlist
-    and test actual media segment downloads.
-    """
-
-    print("\n")
-    print("=" * 70)
-    print("STEP 3 - MEDIA SEGMENTS")
-    print("=" * 70)
-
-    segment_urls = extract_segment_urls(
-        variant_response.text,
-        variant_response.url
-    )
-
-    print(
-        f"\nMedia segments found: "
-        f"{len(segment_urls)}"
-    )
-
-    if not segment_urls:
-        print(
-            "\nNo .ts or .m4s media segments were found."
-        )
-
-        return False
-
-    print("\nFirst available segments:")
-
-    for index, url in enumerate(
-        segment_urls[:5],
-        start=1
-    ):
-        print(
-            f"{index}. {url}"
-        )
-
-    print("\nTesting first media segment...")
-
-    first_segment = segment_urls[0]
-
-    print("\nSegment URL:")
-    print(first_segment)
-
-    response = request_url(
-        first_segment,
-        headers
-    )
-
-    if response is None:
-        return False
-
-    print_response_info(
-        "Segment",
-        response
-    )
-
-    content_length = len(response.content)
-
-    print(
-        f"Segment downloaded bytes: "
-        f"{content_length}"
-    )
-
-    if response.status_code != 200:
-        print(
-            "\nMedia Segment FAILED."
-        )
-
-        return False
-
-    if content_length == 0:
-        print(
-            "\nMedia Segment returned zero bytes."
-        )
-
-        return False
-
-    print(
-        "\nMedia Segment: SUCCESS"
-    )
-
-    print(
-        "Actual media data was successfully downloaded."
-    )
-
-    return True
-
-
-def test_multiple_segments(
-    variant_response,
-    headers
-):
-    """
-    Test several media segments to verify that the
-    stream is continuously accessible.
-    """
-
-    print("\n")
-    print("=" * 70)
-    print("STEP 4 - MULTIPLE SEGMENT TEST")
-    print("=" * 70)
-
-    segment_urls = extract_segment_urls(
-        variant_response.text,
-        variant_response.url
-    )
-
-    if len(segment_urls) < 3:
-        print(
-            "\nNot enough segments for the multiple-segment test."
-        )
-
-        return
-
-    test_segments = segment_urls[:3]
-
-    successful = 0
-
-    for index, segment_url in enumerate(
-        test_segments,
-        start=1
-    ):
-        print("\n")
-        print(
-            f"Testing segment {index}/3..."
-        )
-
-        print(segment_url)
-
-        response = request_url(
-            segment_url,
-            headers
-        )
-
-        if response is None:
-            print(
-                "Segment request failed."
-            )
-
-            continue
-
-        print(
-            f"HTTP Status: "
-            f"{response.status_code}"
-        )
-
-        print(
-            f"Content-Type: "
-            f"{response.headers.get('Content-Type', 'Unknown')}"
-        )
-
-        size = len(response.content)
-
-        print(
-            f"Downloaded bytes: {size}"
-        )
-
-        if response.status_code == 200 and size > 0:
-            print(
-                "Segment: SUCCESS"
-            )
-
-            successful += 1
-
-        else:
-            print(
-                "Segment: FAILED"
-            )
-
-        if index < len(test_segments):
-            print(
-                "\nWaiting 2 seconds..."
-            )
-
-            time.sleep(2)
-
-    print("\n")
-    print(
-        f"Successful segments: "
-        f"{successful}/{len(test_segments)}"
-    )
-
-    if successful == len(test_segments):
-        print(
-            "Multiple media segments are accessible."
-        )
-
-    else:
-        print(
-            "One or more media segments failed."
-        )
-
-
-def create_m3u_playlist(config):
-    """Create the generated M3U playlist."""
-
-    stream_config = config.get(
-        "stream",
-        {}
-    )
+# ============================================================
+# LOGGING
+# ============================================================
+
+def setup_logging(config):
+    """Configure application logging."""
 
     output_config = config.get(
         "output",
         {}
     )
 
+    log_directory = output_config.get(
+        "log_directory",
+        "logs"
+    )
+
+    log_file = output_config.get(
+        "log_file",
+        "stream_manager.log"
+    )
+
+    log_path = BASE_DIR / log_directory
+
+    log_path.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    log_file_path = log_path / log_file
+
+    logging.basicConfig(
+        level=logging.INFO,
+        format=(
+            "%(asctime)s | "
+            "%(levelname)s | "
+            "%(message)s"
+        ),
+        handlers=[
+            logging.FileHandler(
+                log_file_path,
+                encoding="utf-8"
+            ),
+            logging.StreamHandler()
+        ]
+    )
+
+    return logging.getLogger(
+        "LiveStreamManager"
+    )
+
+
+# ============================================================
+# HTTP HEADERS
+# ============================================================
+
+def build_headers(config):
+    """Build HTTP headers from configuration."""
+
     header_config = config.get(
         "headers",
         {}
     )
 
-    stream_url = stream_config.get(
-        "stream_url",
-        ""
-    ).strip()
-
-    event_title = stream_config.get(
-        "event_title",
-        "Live Stream"
-    ).strip()
-
-    playlist_name = output_config.get(
-        "playlist_file",
-        "live_playlist.m3u"
-    ).strip()
-
-    playlist_path = BASE_DIR / playlist_name
+    headers = {}
 
     user_agent = header_config.get(
         "User-Agent",
@@ -509,47 +105,674 @@ def create_m3u_playlist(config):
         ""
     ).strip()
 
+    if user_agent:
+        headers["User-Agent"] = user_agent
+
+    if referer:
+        headers["Referer"] = referer
+
+    return headers
+
+
+# ============================================================
+# URL VALIDATION
+# ============================================================
+
+def validate_stream_url(stream_url):
+    """Validate basic HLS URL structure."""
+
+    parsed = urlparse(
+        stream_url
+    )
+
+    if parsed.scheme not in (
+        "http",
+        "https"
+    ):
+        return False
+
+    if not parsed.netloc:
+        return False
+
+    if not parsed.path.lower().endswith(
+        ".m3u8"
+    ):
+        return False
+
+    return True
+
+
+# ============================================================
+# HTTP REQUEST
+# ============================================================
+
+def request_url(
+    url,
+    headers,
+    timeout
+):
+    """Request a URL safely."""
+
+    try:
+
+        response = requests.get(
+            url,
+            headers=headers,
+            timeout=timeout,
+            allow_redirects=True
+        )
+
+        return response
+
+    except requests.RequestException as error:
+
+        logging.error(
+            "Request failed: %s",
+            error
+        )
+
+        return None
+
+
+# ============================================================
+# PLAYLIST URL EXTRACTION
+# ============================================================
+
+def extract_urls(
+    playlist_text,
+    base_url
+):
+    """Extract non-comment URLs from an M3U8 playlist."""
+
+    urls = []
+
+    for line in playlist_text.splitlines():
+
+        line = line.strip()
+
+        if not line:
+            continue
+
+        if line.startswith("#"):
+            continue
+
+        urls.append(
+            urljoin(
+                base_url,
+                line
+            )
+        )
+
+    return urls
+
+
+# ============================================================
+# MEDIA SEGMENT EXTRACTION
+# ============================================================
+
+def extract_segments(
+    playlist_text,
+    base_url
+):
+    """Extract media segment URLs."""
+
+    segments = []
+
+    for line in playlist_text.splitlines():
+
+        line = line.strip()
+
+        if not line:
+            continue
+
+        if line.startswith("#"):
+            continue
+
+        url = urljoin(
+            base_url,
+            line
+        )
+
+        lower_url = url.lower()
+
+        if (
+            lower_url.endswith(".ts")
+            or ".ts?" in lower_url
+            or lower_url.endswith(".m4s")
+            or ".m4s?" in lower_url
+        ):
+            segments.append(
+                url
+            )
+
+    return segments
+
+
+# ============================================================
+# MASTER PLAYLIST
+# ============================================================
+
+def get_master_playlist(
+    stream,
+    headers,
+    timeout
+):
+    """Download and validate the master playlist."""
+
+    stream_id = stream["id"]
+    stream_name = stream["name"]
+    stream_url = stream["stream_url"]
+
+    logging.info(
+        "[%s] Checking master playlist: %s",
+        stream_id,
+        stream_url
+    )
+
+    response = request_url(
+        stream_url,
+        headers,
+        timeout
+    )
+
+    if response is None:
+
+        logging.error(
+            "[%s] Master request failed.",
+            stream_id
+        )
+
+        return None
+
+    logging.info(
+        "[%s] Master HTTP status: %s",
+        stream_id,
+        response.status_code
+    )
+
+    if response.status_code != 200:
+
+        logging.error(
+            "[%s] Master playlist unavailable.",
+            stream_id
+        )
+
+        return None
+
+    content_type = response.headers.get(
+        "Content-Type",
+        "Unknown"
+    )
+
+    logging.info(
+        "[%s] Master Content-Type: %s",
+        stream_id,
+        content_type
+    )
+
+    if "#EXTM3U" not in response.text:
+
+        logging.error(
+            "[%s] Response is not a valid M3U8 playlist.",
+            stream_id
+        )
+
+        return None
+
+    logging.info(
+        "[%s] Master playlist OK.",
+        stream_name
+    )
+
+    return response
+
+
+# ============================================================
+# VARIANT PLAYLIST
+# ============================================================
+
+def get_variant_playlist(
+    stream,
+    master_response,
+    headers,
+    timeout
+):
+    """Select and download a variant playlist."""
+
+    stream_id = stream["id"]
+
+    variant_urls = extract_urls(
+        master_response.text,
+        master_response.url
+    )
+
+    if not variant_urls:
+
+        logging.error(
+            "[%s] No variant playlists found.",
+            stream_id
+        )
+
+        return None
+
+    preferred_variant = stream.get(
+        "preferred_variant",
+        1
+    )
+
+    try:
+
+        index = int(
+            preferred_variant
+        ) - 1
+
+    except (
+        TypeError,
+        ValueError
+    ):
+
+        index = 0
+
+    if index < 0:
+        index = 0
+
+    if index >= len(variant_urls):
+        index = 0
+
+    variant_url = variant_urls[index]
+
+    logging.info(
+        "[%s] Selected variant %s/%s: %s",
+        stream_id,
+        index + 1,
+        len(variant_urls),
+        variant_url
+    )
+
+    response = request_url(
+        variant_url,
+        headers,
+        timeout
+    )
+
+    if response is None:
+
+        logging.error(
+            "[%s] Variant request failed.",
+            stream_id
+        )
+
+        return None
+
+    logging.info(
+        "[%s] Variant HTTP status: %s",
+        stream_id,
+        response.status_code
+    )
+
+    if response.status_code != 200:
+
+        logging.error(
+            "[%s] Variant playlist unavailable.",
+            stream_id
+        )
+
+        return None
+
+    if "#EXTM3U" not in response.text:
+
+        logging.error(
+            "[%s] Variant is not a valid M3U8.",
+            stream_id
+        )
+
+        return None
+
+    logging.info(
+        "[%s] Variant playlist OK.",
+        stream_id
+    )
+
+    return response
+
+
+# ============================================================
+# MEDIA SEGMENT TEST
+# ============================================================
+
+def test_media_segments(
+    stream,
+    variant_response,
+    headers,
+    timeout,
+    segment_count,
+    delay
+):
+    """Test actual media segments."""
+
+    stream_id = stream["id"]
+
+    segments = extract_segments(
+        variant_response.text,
+        variant_response.url
+    )
+
+    if not segments:
+
+        logging.error(
+            "[%s] No media segments found.",
+            stream_id
+        )
+
+        return False
+
+    logging.info(
+        "[%s] Media segments found: %s",
+        stream_id,
+        len(segments)
+    )
+
+    test_segments = segments[
+        :segment_count
+    ]
+
+    successful = 0
+
+    for index, segment_url in enumerate(
+        test_segments,
+        start=1
+    ):
+
+        logging.info(
+            "[%s] Testing segment %s/%s",
+            stream_id,
+            index,
+            len(test_segments)
+        )
+
+        response = request_url(
+            segment_url,
+            headers,
+            timeout
+        )
+
+        if response is None:
+
+            logging.error(
+                "[%s] Segment request failed.",
+                stream_id
+            )
+
+            continue
+
+        size = len(
+            response.content
+        )
+
+        content_type = response.headers.get(
+            "Content-Type",
+            "Unknown"
+        )
+
+        logging.info(
+            "[%s] Segment HTTP: %s | "
+            "Type: %s | Bytes: %s",
+            stream_id,
+            response.status_code,
+            content_type,
+            size
+        )
+
+        if (
+            response.status_code == 200
+            and size > 0
+        ):
+
+            successful += 1
+
+        if index < len(test_segments):
+
+            import time
+
+            time.sleep(
+                delay
+            )
+
+    logging.info(
+        "[%s] Successful segments: %s/%s",
+        stream_id,
+        successful,
+        len(test_segments)
+    )
+
+    return (
+        successful == len(test_segments)
+    )
+
+
+# ============================================================
+# STREAM CHECK
+# ============================================================
+
+def check_stream(
+    stream,
+    headers,
+    monitoring_config,
+    logger
+):
+    """Perform a complete health check."""
+
+    stream_id = stream["id"]
+
+    stream_name = stream["name"]
+
+    stream_url = stream["stream_url"]
+
+    timeout = monitoring_config.get(
+        "timeout",
+        15
+    )
+
+    segment_count = monitoring_config.get(
+        "segment_test_count",
+        3
+    )
+
+    segment_delay = monitoring_config.get(
+        "segment_test_delay",
+        2
+    )
+
+    logger.info(
+        "=================================================="
+    )
+
+    logger.info(
+        "Checking stream: %s",
+        stream_name
+    )
+
+    logger.info(
+        "Stream ID: %s",
+        stream_id
+    )
+
+    logger.info(
+        "Stream URL: %s",
+        stream_url
+    )
+
+    if not validate_stream_url(
+        stream_url
+    ):
+
+        logger.error(
+            "[%s] Invalid HLS URL.",
+            stream_id
+        )
+
+        return False
+
+    master_response = get_master_playlist(
+        stream,
+        headers,
+        timeout
+    )
+
+    if master_response is None:
+
+        logger.error(
+            "[%s] STREAM OFFLINE - master failed.",
+            stream_id
+        )
+
+        return False
+
+    variant_response = get_variant_playlist(
+        stream,
+        master_response,
+        headers,
+        timeout
+    )
+
+    if variant_response is None:
+
+        logger.error(
+            "[%s] STREAM OFFLINE - variant failed.",
+            stream_id
+        )
+
+        return False
+
+    media_ok = test_media_segments(
+        stream,
+        variant_response,
+        headers,
+        timeout,
+        segment_count,
+        segment_delay
+    )
+
+    if not media_ok:
+
+        logger.error(
+            "[%s] STREAM UNHEALTHY - media failed.",
+            stream_id
+        )
+
+        return False
+
+    logger.info(
+        "[%s] STREAM ONLINE AND HEALTHY.",
+        stream_id
+    )
+
+    return True
+
+
+# ============================================================
+# M3U PLAYLIST
+# ============================================================
+
+def create_m3u_playlist(
+    config,
+    enabled_streams
+):
+    """Create an M3U playlist containing enabled streams."""
+
+    output_config = config.get(
+        "output",
+        {}
+    )
+
+    playlist_name = output_config.get(
+        "playlist_file",
+        "live_playlist.m3u"
+    )
+
+    playlist_path = BASE_DIR / playlist_name
+
     lines = [
         "#EXTM3U"
     ]
 
+    header_config = config.get(
+        "headers",
+        {}
+    )
+
+    user_agent = header_config.get(
+        "User-Agent",
+        ""
+    ).strip()
+
+    referer = header_config.get(
+        "Referer",
+        ""
+    ).strip()
+
     if user_agent:
+
         lines.append(
             f"#EXTVLCOPT:http-user-agent={user_agent}"
         )
 
     if referer:
+
         lines.append(
             f"#EXTVLCOPT:http-referrer={referer}"
         )
 
-    lines.append(
-        f"#EXTINF:-1,{event_title}"
-    )
+    for stream in enabled_streams:
 
-    lines.append(
-        stream_url
-    )
+        title = stream.get(
+            "event_title",
+            stream.get(
+                "name",
+                "Live Stream"
+            )
+        )
+
+        stream_url = stream.get(
+            "stream_url",
+            ""
+        ).strip()
+
+        if not stream_url:
+            continue
+
+        lines.append(
+            f"#EXTINF:-1,{title}"
+        )
+
+        lines.append(
+            stream_url
+        )
 
     playlist_path.write_text(
         "\n".join(lines) + "\n",
         encoding="utf-8"
     )
 
-    print(
-        f"\nPlaylist created: "
-        f"{playlist_path}"
+    logging.info(
+        "M3U playlist created: %s",
+        playlist_path
     )
 
+
+# ============================================================
+# MAIN
+# ============================================================
 
 def main():
 
     print("=" * 70)
-    print("Live Stream Manager")
-    print("Full HLS Diagnostic Test")
+    print("LIVE STREAM MANAGER")
+    print("Version 1.0.0")
     print("=" * 70)
 
     try:
+
         config = load_config()
 
     except (
@@ -563,210 +786,116 @@ def main():
 
         return
 
-    stream_config = config.get(
-        "stream",
-        {}
+    logger = setup_logging(
+        config
     )
 
-    stream_url = stream_config.get(
-        "stream_url",
-        ""
-    ).strip()
-
-    event_title = stream_config.get(
-        "event_title",
-        "Live Stream"
-    ).strip()
-
-    enabled = stream_config.get(
-        "enabled",
-        False
+    streams = config.get(
+        "streams",
+        []
     )
-
-    status = stream_config.get(
-        "status",
-        "unknown"
-    )
-
-    print(
-        f"\nEvent: {event_title}"
-    )
-
-    print(
-        f"Status: {status}"
-    )
-
-    print(
-        f"Enabled: {enabled}"
-    )
-
-    if not enabled:
-
-        print(
-            "\nStream is disabled in config.json."
-        )
-
-        return
-
-    if not stream_url:
-
-        print(
-            "\nNo stream URL configured."
-        )
-
-        return
-
-    if not validate_stream_url(stream_url):
-
-        print(
-            "\nInvalid HLS/M3U8 URL."
-        )
-
-        return
 
     headers = build_headers(
         config
     )
 
-    print(
-        "\nConfigured headers:"
+    monitoring_config = config.get(
+        "monitoring",
+        {}
     )
 
-    if headers:
+    if not streams:
 
-        for key in headers:
-            print(
-                f"- {key}"
+        logger.error(
+            "No streams configured."
+        )
+
+        return
+
+    logger.info(
+        "Configured streams: %s",
+        len(streams)
+    )
+
+    healthy_streams = []
+
+    for stream in streams:
+
+        if not stream.get(
+            "enabled",
+            False
+        ):
+
+            logger.info(
+                "[%s] Stream disabled.",
+                stream.get(
+                    "id",
+                    "unknown"
+                )
             )
 
-    else:
+            continue
 
-        print(
-            "- None"
+        is_healthy = check_stream(
+            stream,
+            headers,
+            monitoring_config,
+            logger
         )
 
-    # -------------------------------------------------
-    # STEP 1
-    # -------------------------------------------------
+        if is_healthy:
 
-    master_response = test_master_playlist(
-        stream_url,
-        headers
-    )
-
-    if master_response is None:
-
-        print(
-            "\nHLS test stopped at Master Playlist."
-        )
-
-        return
-
-    # -------------------------------------------------
-    # STEP 2
-    # -------------------------------------------------
-
-    variant_response = test_variant_playlist(
-        master_response,
-        headers
-    )
-
-    if variant_response is None:
-
-        print(
-            "\nHLS test stopped at Variant Playlist."
-        )
-
-        return
-
-    # -------------------------------------------------
-    # STEP 3
-    # -------------------------------------------------
-
-    segment_success = test_media_segments(
-        variant_response,
-        headers
-    )
-
-    # -------------------------------------------------
-    # STEP 4
-    # -------------------------------------------------
-
-    if segment_success:
-
-        test_multiple_segments(
-            variant_response,
-            headers
-        )
-
-    # -------------------------------------------------
-    # CREATE PLAYLIST
-    # -------------------------------------------------
+            healthy_streams.append(
+                stream
+            )
 
     create_m3u_playlist(
-        config
+        config,
+        healthy_streams
     )
-
-    # -------------------------------------------------
-    # FINAL RESULT
-    # -------------------------------------------------
 
     print("\n")
     print("=" * 70)
-    print("FINAL HLS TEST RESULT")
+    print("FINAL RESULT")
     print("=" * 70)
 
-    if segment_success:
+    print(
+        f"\nConfigured streams: {len(streams)}"
+    )
+
+    print(
+        f"Healthy streams: {len(healthy_streams)}"
+    )
+
+    if healthy_streams:
 
         print(
-            "\nSUCCESS:"
+            "\nONLINE:"
         )
 
-        print(
-            "Master Playlist: OK"
-        )
+        for stream in healthy_streams:
+
+            print(
+                f"- {stream['name']}"
+            )
 
         print(
-            "Variant Playlist: OK"
-        )
-
-        print(
-            "Media Segment: OK"
-        )
-
-        print(
-            "\nThe HLS stream is providing actual media data."
-        )
-
-        print(
-            "The next step can be playback testing."
+            "\nLive playlist has been generated."
         )
 
     else:
 
         print(
-            "\nPARTIAL SUCCESS:"
+            "\nNo healthy streams found."
         )
 
         print(
-            "Master Playlist: OK"
-        )
-
-        print(
-            "Variant Playlist: OK"
-        )
-
-        print(
-            "Media Segment: FAILED"
-        )
-
-        print(
-            "\nFurther investigation of the media segments "
-            "is required."
+            "The generated playlist contains no "
+            "healthy stream."
         )
 
     print(
-        "\nFull HLS diagnostic test completed."
+        "\nLive Stream Manager finished."
     )
 
 
