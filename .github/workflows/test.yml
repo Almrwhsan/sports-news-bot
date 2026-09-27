@@ -7,7 +7,7 @@ on:
       - "live_stream_manager/config.json"
       - "live_stream_manager/stream_manager.py"
       - "live_stream_manager/requirements.txt"
-      - "live_stream_manager/.github/workflows/test.yml"
+      - "live_stream_manager/README.md"
 
 jobs:
   test:
@@ -31,7 +31,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run stream manager
+      - name: Run Live Stream Manager
         run: |
           python stream_manager.py
 
@@ -39,3 +39,8 @@ jobs:
         run: |
           echo "===== live_playlist.m3u ====="
           cat live_playlist.m3u
+
+      - name: Show log
+        run: |
+          echo "===== logs/stream_manager.log ====="
+          cat logs/stream_manager.log
