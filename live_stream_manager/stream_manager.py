@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 import requests
 
@@ -54,8 +54,87 @@ def build_headers(config):
     return headers
 
 
+def extract_playlist_urls(playlist_text, base_url):
+    """Extract child playlist URLs from a Master Playlist."""
+    urls = []
+
+    for line in playlist_text.splitlines():
+        line = line.strip()
+
+        if not line:
+            continue
+
+        if line.startswith("#"):
+            continue
+
+        full_url = urljoin(base_url, line)
+        urls.append(full_url)
+
+    return urls
+
+
+def check_variant_playlist(variant_url, headers):
+    """Check the first child/media playlist."""
+    print("\nChecking first child playlist...")
+    print(f"Variant URL: {variant_url}")
+
+    try:
+        response = requests.get(
+            variant_url,
+            headers=headers,
+            timeout=15,
+            allow_redirects=True
+        )
+
+        print(f"HTTP Status: {response.status_code}")
+        print(
+            f"Content-Type: "
+            f"{response.headers.get('Content-Type', 'Unknown')}"
+        )
+        print(f"Final URL: {response.url}")
+
+        if response.status_code == 200:
+            print("Child playlist request succeeded.")
+
+            lines = response.text.splitlines()
+
+            print("\nChild playlist preview:")
+
+            shown = 0
+
+            for line in lines:
+                line = line.strip()
+
+                if not line:
+                    continue
+
+                print(line)
+
+                shown += 1
+
+                if shown >= 20:
+                    print("... preview limited to 20 lines ...")
+                    break
+
+            return True
+
+        if response.status_code == 403:
+            print(
+                "HTTP 403 Forbidden: "
+                "the server refused the child playlist request."
+            )
+            return False
+
+        print("Child playlist did not return HTTP 200.")
+        return False
+
+    except requests.RequestException as error:
+        print(f"Child playlist connection error: {error}")
+        return False
+
+
 def check_hls_stream(stream_url, headers):
-    """Check whether the HLS URL can be reached."""
+    """Check the Master HLS playlist and its first child playlist."""
     print("\nChecking HLS stream...")
     print(f"URL: {stream_url}")
 
@@ -72,14 +151,48 @@ def check_hls_stream(stream_url, headers):
             f"Content-Type: "
             f"{response.headers.get('Content-Type', 'Unknown')}"
         )
-
         print(f"Final URL: {response.url}")
 
         if response.status_code == 200:
-            print("HLS request succeeded.")
+            print("HLS Master Playlist request succeeded.")
 
-            content_preview = response.text[:200].replace("\n", " ")
-            print(f"Response preview: {content_preview}")
+            print("\nMaster Playlist:")
+
+            master_lines = response.text.splitlines()
+
+            for line in master_lines:
+                line = line.strip()
+
+                if line:
+                    print(line)
+
+            variant_urls = extract_playlist_urls(
+                response.text,
+                response.url
+            )
+
+            print(
+                f"\nChild playlist URLs found: "
+                f"{len(variant_urls)}"
+            )
+
+            if variant_urls:
+                for index, variant_url in enumerate(
+                    variant_urls,
+                    start=1
+                ):
+                    print(f"{index}. {variant_url}")
+
+                check_variant_playlist(
+                    variant_urls[0],
+                    headers
+                )
+
+            else:
+                print(
+                    "No child playlist URLs were found "
+                    "inside the Master Playlist."
+                )
 
             return True
 
@@ -129,10 +242,14 @@ def create_m3u_playlist(config):
     ]
 
     if user_agent:
-        lines.append(f'#EXTVLCOPT:http-user-agent={user_agent}')
+        lines.append(
+            f'#EXTVLCOPT:http-user-agent={user_agent}'
+        )
 
     if referer:
-        lines.append(f'#EXTVLCOPT:http-referrer={referer}')
+        lines.append(
+            f'#EXTVLCOPT:http-referrer={referer}'
+        )
 
     lines.append(f"#EXTINF:-1,{event_title}")
     lines.append(stream_url)
@@ -152,6 +269,7 @@ def main():
 
     try:
         config = load_config()
+
     except (FileNotFoundError, json.JSONDecodeError) as error:
         print(f"Configuration error: {error}")
         return
@@ -159,6 +277,7 @@ def main():
     stream_config = config.get("stream", {})
 
     stream_url = stream_config.get("stream_url", "").strip()
+
     event_title = stream_config.get(
         "event_title",
         "Live Stream"
@@ -186,20 +305,23 @@ def main():
     headers = build_headers(config)
 
     print("\nConfigured headers:")
+
     if headers:
         for key in headers:
             print(f"- {key}")
     else:
         print("- None")
 
-    check_hls_stream(stream_url, headers)
+    check_hls_stream(
+        stream_url,
+        headers
+    )
 
     create_m3u_playlist(config)
 
     print("\nDone.")
     print(
-        "You can now test the generated "
-        "live_playlist.m3u with VLC."
+        "Diagnostic test completed."
     )
 
 
