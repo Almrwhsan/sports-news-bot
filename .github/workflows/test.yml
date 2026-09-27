@@ -42,6 +42,13 @@ jobs:
         run: |
           python ffmpeg_test.py
 
+      - name: Run Facebook Live Test
+        env:
+          FACEBOOK_RTMPS_URL: ${{ secrets.FACEBOOK_RTMPS_URL }}
+          FACEBOOK_STREAM_KEY: ${{ secrets.FACEBOOK_STREAM_KEY }}
+        run: |
+          python facebook_live.py
+
       - name: Show generated playlist
         run: |
           echo "===== live_playlist.m3u ====="
