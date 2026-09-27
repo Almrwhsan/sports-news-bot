@@ -1,0 +1,24 @@
+{
+  "stream": {
+    "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "event_title": "Test Live Stream",
+    "enabled": true,
+    "status": "testing"
+  },
+
+  "headers": {
+    "Referer": "",
+    "User-Agent": "Mozilla/5.0 (Android 14; Mobile) AppleWebKit/537.36 Chrome/128.0 Mobile Safari/537.36"
+  },
+
+  "facebook": {
+    "enabled": false,
+    "page_id": "",
+    "page_access_token": "",
+    "post_message": true
+  },
+
+  "output": {
+    "playlist_file": "live_playlist.m3u"
+  }
+}
