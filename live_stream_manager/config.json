@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Live Stream Manager",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "environment": "testing"
   },
 
@@ -24,9 +24,11 @@
 
   "monitoring": {
     "enabled": true,
+    "interval_seconds": 30,
     "timeout": 15,
     "segment_test_count": 3,
-    "segment_test_delay": 2
+    "segment_test_delay": 2,
+    "max_consecutive_failures": 3
   },
 
   "output": {
