@@ -4,14 +4,18 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "config.json"
-      - "stream_manager.py"
-      - "requirements.txt"
-      - ".github/workflows/test.yml"
+      - "live_stream_manager/config.json"
+      - "live_stream_manager/stream_manager.py"
+      - "live_stream_manager/requirements.txt"
+      - "live_stream_manager/.github/workflows/test.yml"
 
 jobs:
   test:
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: live_stream_manager
 
     steps:
       - name: Checkout repository
