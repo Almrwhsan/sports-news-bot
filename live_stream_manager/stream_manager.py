@@ -1,4 +1,5 @@
 import json
+import time
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 
@@ -37,7 +38,7 @@ def validate_stream_url(stream_url):
 
 
 def build_headers(config):
-    """Build HTTP headers from the configured values."""
+    """Build HTTP headers from config.json."""
     header_config = config.get("headers", {})
 
     headers = {}
@@ -54,28 +55,8 @@ def build_headers(config):
     return headers
 
 
-def print_response_headers(response):
-    """Print useful HTTP response headers."""
-    print("\nImportant response headers:")
-
-    important_headers = [
-        "Content-Type",
-        "Content-Length",
-        "Cache-Control",
-        "Access-Control-Allow-Origin",
-        "Server",
-        "Location"
-    ]
-
-    for header_name in important_headers:
-        value = response.headers.get(header_name)
-
-        if value is not None:
-            print(f"- {header_name}: {value}")
-
-
-def extract_playlist_urls(playlist_text, base_url):
-    """Extract child playlist URLs from a Master Playlist."""
+def extract_child_urls(playlist_text, base_url):
+    """Extract non-comment URLs from an M3U8 playlist."""
     urls = []
 
     for line in playlist_text.splitlines():
@@ -87,230 +68,336 @@ def extract_playlist_urls(playlist_text, base_url):
         if line.startswith("#"):
             continue
 
-        full_url = urljoin(base_url, line)
-        urls.append(full_url)
+        urls.append(
+            urljoin(base_url, line)
+        )
 
     return urls
 
 
-def request_playlist(url, headers, test_name):
-    """Request an HLS playlist and display diagnostic information."""
-    print("\n" + "-" * 60)
-    print(test_name)
-    print("-" * 60)
+def test_once(stream_url, headers, attempt_number):
+    """Perform one complete Master -> Variant test."""
 
-    print(f"Request URL: {url}")
+    print("\n")
+    print("=" * 70)
+    print(f"ATTEMPT {attempt_number}")
+    print("=" * 70)
 
-    if headers:
-        print("Request headers:")
-
-        for key, value in headers.items():
-            if key.lower() == "user-agent":
-                print(f"- {key}: {value}")
-            elif key.lower() == "referer":
-                print(f"- {key}: {value}")
-    else:
-        print("Request headers: None")
+    print("\nMaster URL:")
+    print(stream_url)
 
     try:
-        response = requests.get(
-            url,
+        master_response = requests.get(
+            stream_url,
             headers=headers,
             timeout=15,
             allow_redirects=True
         )
 
-        print(f"\nHTTP Status: {response.status_code}")
-
-        print(
-            f"Content-Type: "
-            f"{response.headers.get('Content-Type', 'Unknown')}"
-        )
-
-        print(f"Final URL: {response.url}")
-
-        print_response_headers(response)
-
-        if response.status_code == 200:
-            print("\nResult: SUCCESS")
-
-            content = response.text
-
-            print("\nFirst 500 characters of response:")
-
-            preview = content[:500].replace("\r", "")
-            print(preview)
-
-            return response
-
-        if response.status_code == 403:
-            print("\nResult: HTTP 403 Forbidden")
-            print(
-                "The server refused the request."
-            )
-
-            return response
-
-        if response.status_code == 404:
-            print("\nResult: HTTP 404 Not Found")
-            print(
-                "The requested playlist was not found."
-            )
-
-            return response
-
-        print(
-            f"\nResult: HTTP {response.status_code}"
-        )
-
-        return response
-
     except requests.RequestException as error:
-        print(f"\nRequest error: {error}")
-        return None
+        print(f"\nMaster request error: {error}")
+        return None, None
 
-
-def test_master_playlist(stream_url, headers):
-    """Test the Master Playlist using different header configurations."""
-
-    print("\n" + "=" * 60)
-    print("MASTER PLAYLIST TEST")
-    print("=" * 60)
-
-    # Test 1: configured headers
-    response_with_headers = request_playlist(
-        stream_url,
-        headers,
-        "TEST 1 - Master Playlist with configured headers"
+    print(
+        f"\nMaster HTTP Status: "
+        f"{master_response.status_code}"
     )
 
-    # Test 2: no headers
-    response_without_headers = request_playlist(
-        stream_url,
-        {},
-        "TEST 2 - Master Playlist without headers"
+    print(
+        f"Master Content-Type: "
+        f"{master_response.headers.get('Content-Type', 'Unknown')}"
     )
 
-    # Prefer the successful response from the configured-header test.
-    if (
-        response_with_headers is not None
-        and response_with_headers.status_code == 200
-    ):
-        return response_with_headers
+    print(
+        f"Master Final URL: "
+        f"{master_response.url}"
+    )
 
-    # Otherwise use the successful no-header response.
-    if (
-        response_without_headers is not None
-        and response_without_headers.status_code == 200
-    ):
-        return response_without_headers
-
-    return None
-
-
-def test_variant_playlist(master_response, headers):
-    """Extract and test the first Variant Playlist."""
-
-    print("\n" + "=" * 60)
-    print("VARIANT PLAYLIST TEST")
-    print("=" * 60)
-
-    if master_response is None:
+    if master_response.status_code != 200:
         print(
-            "Cannot test Variant Playlist because "
-            "Master Playlist request failed."
+            "\nMaster Playlist FAILED."
         )
-        return
 
-    master_text = master_response.text
+        return None, None
 
-    variant_urls = extract_playlist_urls(
-        master_text,
+    print(
+        "\nMaster Playlist: SUCCESS"
+    )
+
+    print("\nMaster content:")
+
+    for line in master_response.text.splitlines():
+        line = line.strip()
+
+        if line:
+            print(line)
+
+    child_urls = extract_child_urls(
+        master_response.text,
         master_response.url
     )
 
     print(
-        f"\nChild playlist URLs found: "
-        f"{len(variant_urls)}"
+        f"\nChild URLs found: {len(child_urls)}"
     )
 
-    if not variant_urls:
+    if not child_urls:
         print(
-            "No child playlist URLs were found "
-            "inside the Master Playlist."
+            "No child playlist URL was found."
         )
-        return
 
-    for index, variant_url in enumerate(
-        variant_urls,
+        return master_response, None
+
+    for index, child_url in enumerate(
+        child_urls,
         start=1
     ):
-        print(f"{index}. {variant_url}")
-
-    first_variant_url = variant_urls[0]
-
-    # Test 3: Variant with configured headers
-    variant_with_headers = request_playlist(
-        first_variant_url,
-        headers,
-        "TEST 3 - Variant Playlist with configured headers"
-    )
-
-    # Test 4: Variant without headers
-    variant_without_headers = request_playlist(
-        first_variant_url,
-        {},
-        "TEST 4 - Variant Playlist without headers"
-    )
-
-    print("\n" + "=" * 60)
-    print("VARIANT TEST SUMMARY")
-    print("=" * 60)
-
-    if (
-        variant_with_headers is not None
-        and variant_with_headers.status_code == 200
-    ):
         print(
-            "Configured headers → Variant: SUCCESS"
+            f"{index}. {child_url}"
         )
+
+    variant_url = child_urls[0]
+
+    print("\nTesting first child playlist...")
+
+    try:
+        variant_response = requests.get(
+            variant_url,
+            headers=headers,
+            timeout=15,
+            allow_redirects=True
+        )
+
+    except requests.RequestException as error:
+        print(
+            f"\nVariant request error: {error}"
+        )
+
+        return master_response, variant_url
+
+    print(
+        f"\nVariant HTTP Status: "
+        f"{variant_response.status_code}"
+    )
+
+    print(
+        f"Variant Content-Type: "
+        f"{variant_response.headers.get('Content-Type', 'Unknown')}"
+    )
+
+    print(
+        f"Variant Final URL: "
+        f"{variant_response.url}"
+    )
+
+    if variant_response.status_code == 200:
+        print(
+            "\nVariant Playlist: SUCCESS"
+        )
+
+        print("\nVariant content preview:")
+
+        print(
+            variant_response.text[:1000]
+        )
+
+    elif variant_response.status_code == 404:
+        print(
+            "\nVariant Playlist: 404 NOT FOUND"
+        )
+
     else:
         print(
-            "Configured headers → Variant: FAILED"
+            f"\nVariant Playlist FAILED "
+            f"with HTTP {variant_response.status_code}"
         )
 
-    if (
-        variant_without_headers is not None
-        and variant_without_headers.status_code == 200
-    ):
-        print(
-            "No headers → Variant: SUCCESS"
+    return master_response, variant_url
+
+
+def run_repeated_test(stream_url, headers):
+    """Run the same Master -> Variant test three times."""
+
+    results = []
+
+    previous_variant_url = None
+
+    for attempt in range(1, 4):
+
+        master_response, variant_url = test_once(
+            stream_url,
+            headers,
+            attempt
         )
+
+        variant_status = None
+
+        if variant_url:
+
+            try:
+                response = requests.get(
+                    variant_url,
+                    headers=headers,
+                    timeout=15,
+                    allow_redirects=True
+                )
+
+                variant_status = response.status_code
+
+            except requests.RequestException:
+                variant_status = "ERROR"
+
+        results.append(
+            {
+                "attempt": attempt,
+                "master_status": (
+                    master_response.status_code
+                    if master_response
+                    else "ERROR"
+                ),
+                "variant_url": variant_url,
+                "variant_status": variant_status
+            }
+        )
+
+        if previous_variant_url is not None:
+
+            if variant_url == previous_variant_url:
+                print(
+                    "\nVariant URL is the same as "
+                    "the previous attempt."
+                )
+            else:
+                print(
+                    "\nVariant URL changed from "
+                    "the previous attempt."
+                )
+
+        previous_variant_url = variant_url
+
+        if attempt < 3:
+            print(
+                "\nWaiting 3 seconds before "
+                "the next attempt..."
+            )
+
+            time.sleep(3)
+
+    print("\n")
+    print("=" * 70)
+    print("FINAL COMPARISON")
+    print("=" * 70)
+
+    for result in results:
+
+        print(
+            f"\nAttempt {result['attempt']}:"
+        )
+
+        print(
+            f"- Master HTTP: "
+            f"{result['master_status']}"
+        )
+
+        print(
+            f"- Variant HTTP: "
+            f"{result['variant_status']}"
+        )
+
+        print(
+            f"- Variant URL: "
+            f"{result['variant_url']}"
+        )
+
+    print("\n")
+    print("=" * 70)
+    print("INTERPRETATION")
+    print("=" * 70)
+
+    all_master_ok = all(
+        result["master_status"] == 200
+        for result in results
+    )
+
+    all_variant_404 = all(
+        result["variant_status"] == 404
+        for result in results
+    )
+
+    variant_urls = [
+        result["variant_url"]
+        for result in results
+    ]
+
+    same_variant = (
+        len(set(variant_urls)) == 1
+        and variant_urls[0] is not None
+    )
+
+    if all_master_ok and all_variant_404 and same_variant:
+
+        print(
+            "\nRESULT:"
+        )
+
+        print(
+            "Master Playlist consistently returns HTTP 200."
+        )
+
+        print(
+            "The same Variant Playlist consistently "
+            "returns HTTP 404."
+        )
+
+        print(
+            "\nThis strongly indicates that the current "
+            "test stream URL is not providing a usable "
+            "child/media playlist at the moment."
+        )
+
+    elif all_master_ok:
+
+        print(
+            "\nRESULT:"
+        )
+
+        print(
+            "The Master Playlist is reachable, but the "
+            "Variant behavior is not consistently 404."
+        )
+
+        print(
+            "Further HLS investigation is required."
+        )
+
     else:
+
         print(
-            "No headers → Variant: FAILED"
+            "\nRESULT:"
         )
 
-
-def check_hls_stream(stream_url, headers):
-    """Run complete HLS diagnostic tests."""
-
-    master_response = test_master_playlist(
-        stream_url,
-        headers
-    )
-
-    test_variant_playlist(
-        master_response,
-        headers
-    )
+        print(
+            "The Master Playlist itself was not consistently "
+            "reachable."
+        )
 
 
 def create_m3u_playlist(config):
-    """Create the M3U playlist file."""
-    stream_config = config.get("stream", {})
-    output_config = config.get("output", {})
-    header_config = config.get("headers", {})
+    """Create the generated M3U playlist."""
+    stream_config = config.get(
+        "stream",
+        {}
+    )
+
+    output_config = config.get(
+        "output",
+        {}
+    )
+
+    header_config = config.get(
+        "headers",
+        {}
+    )
 
     stream_url = stream_config.get(
         "stream_url",
@@ -357,7 +444,9 @@ def create_m3u_playlist(config):
         f"#EXTINF:-1,{event_title}"
     )
 
-    lines.append(stream_url)
+    lines.append(
+        stream_url
+    )
 
     playlist_path.write_text(
         "\n".join(lines) + "\n",
@@ -370,9 +459,10 @@ def create_m3u_playlist(config):
 
 
 def main():
-    print("=" * 60)
+    print("=" * 70)
     print("Live Stream Manager")
-    print("=" * 60)
+    print("Repeated HLS Diagnostic Test")
+    print("=" * 70)
 
     try:
         config = load_config()
@@ -383,7 +473,7 @@ def main():
     ) as error:
 
         print(
-            f"Configuration error: {error}"
+            f"\nConfiguration error: {error}"
         )
 
         return
@@ -413,48 +503,70 @@ def main():
         "unknown"
     )
 
-    print(f"\nEvent: {event_title}")
-    print(f"Status: {status}")
-    print(f"Enabled: {enabled}")
+    print(
+        f"\nEvent: {event_title}"
+    )
+
+    print(
+        f"Status: {status}"
+    )
+
+    print(
+        f"Enabled: {enabled}"
+    )
 
     if not enabled:
         print(
             "\nStream is disabled in config.json."
         )
+
         return
 
     if not stream_url:
         print(
             "\nNo stream URL configured."
         )
+
         return
 
     if not validate_stream_url(stream_url):
         print(
             "\nInvalid HLS/M3U8 URL."
         )
+
         return
 
     headers = build_headers(config)
 
-    print("\nConfigured headers:")
+    print(
+        "\nConfigured headers:"
+    )
 
     if headers:
-        for key in headers:
-            print(f"- {key}")
-    else:
-        print("- None")
 
-    check_hls_stream(
+        for key in headers:
+            print(
+                f"- {key}"
+            )
+
+    else:
+        print(
+            "- None"
+        )
+
+    run_repeated_test(
         stream_url,
         headers
     )
 
-    create_m3u_playlist(config)
+    create_m3u_playlist(
+        config
+    )
 
-    print("\n" + "=" * 60)
-    print("Diagnostic test completed.")
-    print("=" * 60)
+    print("\n")
+    print("=" * 70)
+    print("Repeated diagnostic test completed.")
+    print("=" * 70)
 
 
 if __name__ == "__main__":
