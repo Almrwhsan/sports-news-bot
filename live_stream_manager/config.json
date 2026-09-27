@@ -1,7 +1,7 @@
 {
   "stream": {
-    "stream_url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-    "event_title": "Al Jazeera Arabic - HLS Test",
+    "stream_url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "event_title": "Test Live Stream",
     "enabled": true,
     "status": "testing"
   },
