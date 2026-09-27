@@ -1,5 +1,6 @@
 import json
 import logging
+import time
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -255,15 +256,15 @@ def extract_segments(
 def get_master_playlist(
     stream,
     headers,
-    timeout
+    timeout,
+    logger
 ):
     """Download and validate the master playlist."""
 
     stream_id = stream["id"]
-    stream_name = stream["name"]
     stream_url = stream["stream_url"]
 
-    logging.info(
+    logger.info(
         "[%s] Checking master playlist: %s",
         stream_id,
         stream_url
@@ -277,51 +278,51 @@ def get_master_playlist(
 
     if response is None:
 
-        logging.error(
+        logger.error(
             "[%s] Master request failed.",
             stream_id
         )
 
         return None
 
-    logging.info(
+    logger.info(
         "[%s] Master HTTP status: %s",
         stream_id,
         response.status_code
     )
-
-    if response.status_code != 200:
-
-        logging.error(
-            "[%s] Master playlist unavailable.",
-            stream_id
-        )
-
-        return None
 
     content_type = response.headers.get(
         "Content-Type",
         "Unknown"
     )
 
-    logging.info(
+    logger.info(
         "[%s] Master Content-Type: %s",
         stream_id,
         content_type
     )
 
+    if response.status_code != 200:
+
+        logger.error(
+            "[%s] Master playlist unavailable.",
+            stream_id
+        )
+
+        return None
+
     if "#EXTM3U" not in response.text:
 
-        logging.error(
+        logger.error(
             "[%s] Response is not a valid M3U8 playlist.",
             stream_id
         )
 
         return None
 
-    logging.info(
+    logger.info(
         "[%s] Master playlist OK.",
-        stream_name
+        stream_id
     )
 
     return response
@@ -335,7 +336,8 @@ def get_variant_playlist(
     stream,
     master_response,
     headers,
-    timeout
+    timeout,
+    logger
 ):
     """Select and download a variant playlist."""
 
@@ -348,7 +350,7 @@ def get_variant_playlist(
 
     if not variant_urls:
 
-        logging.error(
+        logger.error(
             "[%s] No variant playlists found.",
             stream_id
         )
@@ -381,7 +383,7 @@ def get_variant_playlist(
 
     variant_url = variant_urls[index]
 
-    logging.info(
+    logger.info(
         "[%s] Selected variant %s/%s: %s",
         stream_id,
         index + 1,
@@ -397,14 +399,14 @@ def get_variant_playlist(
 
     if response is None:
 
-        logging.error(
+        logger.error(
             "[%s] Variant request failed.",
             stream_id
         )
 
         return None
 
-    logging.info(
+    logger.info(
         "[%s] Variant HTTP status: %s",
         stream_id,
         response.status_code
@@ -412,7 +414,7 @@ def get_variant_playlist(
 
     if response.status_code != 200:
 
-        logging.error(
+        logger.error(
             "[%s] Variant playlist unavailable.",
             stream_id
         )
@@ -421,14 +423,14 @@ def get_variant_playlist(
 
     if "#EXTM3U" not in response.text:
 
-        logging.error(
+        logger.error(
             "[%s] Variant is not a valid M3U8.",
             stream_id
         )
 
         return None
 
-    logging.info(
+    logger.info(
         "[%s] Variant playlist OK.",
         stream_id
     )
@@ -446,7 +448,8 @@ def test_media_segments(
     headers,
     timeout,
     segment_count,
-    delay
+    delay,
+    logger
 ):
     """Test actual media segments."""
 
@@ -459,14 +462,14 @@ def test_media_segments(
 
     if not segments:
 
-        logging.error(
+        logger.error(
             "[%s] No media segments found.",
             stream_id
         )
 
         return False
 
-    logging.info(
+    logger.info(
         "[%s] Media segments found: %s",
         stream_id,
         len(segments)
@@ -483,7 +486,7 @@ def test_media_segments(
         start=1
     ):
 
-        logging.info(
+        logger.info(
             "[%s] Testing segment %s/%s",
             stream_id,
             index,
@@ -498,7 +501,7 @@ def test_media_segments(
 
         if response is None:
 
-            logging.error(
+            logger.error(
                 "[%s] Segment request failed.",
                 stream_id
             )
@@ -514,7 +517,7 @@ def test_media_segments(
             "Unknown"
         )
 
-        logging.info(
+        logger.info(
             "[%s] Segment HTTP: %s | "
             "Type: %s | Bytes: %s",
             stream_id,
@@ -532,13 +535,11 @@ def test_media_segments(
 
         if index < len(test_segments):
 
-            import time
-
             time.sleep(
                 delay
             )
 
-    logging.info(
+    logger.info(
         "[%s] Successful segments: %s/%s",
         stream_id,
         successful,
@@ -584,7 +585,7 @@ def check_stream(
     )
 
     logger.info(
-        "=================================================="
+        "--------------------------------------------------"
     )
 
     logger.info(
@@ -616,7 +617,8 @@ def check_stream(
     master_response = get_master_playlist(
         stream,
         headers,
-        timeout
+        timeout,
+        logger
     )
 
     if master_response is None:
@@ -632,7 +634,8 @@ def check_stream(
         stream,
         master_response,
         headers,
-        timeout
+        timeout,
+        logger
     )
 
     if variant_response is None:
@@ -650,13 +653,14 @@ def check_stream(
         headers,
         timeout,
         segment_count,
-        segment_delay
+        segment_delay,
+        logger
     )
 
     if not media_ok:
 
         logger.error(
-            "[%s] STREAM UNHEALTHY - media failed.",
+            "[%s] STREAM DEGRADED - media failed.",
             stream_id
         )
 
@@ -676,9 +680,10 @@ def check_stream(
 
 def create_m3u_playlist(
     config,
-    enabled_streams
+    enabled_streams,
+    logger
 ):
-    """Create an M3U playlist containing enabled streams."""
+    """Create an M3U playlist containing healthy streams."""
 
     output_config = config.get(
         "output",
@@ -754,10 +759,165 @@ def create_m3u_playlist(
         encoding="utf-8"
     )
 
-    logging.info(
+    logger.info(
         "M3U playlist created: %s",
         playlist_path
     )
+
+
+# ============================================================
+# SINGLE MONITORING CYCLE
+# ============================================================
+
+def monitoring_cycle(
+    config,
+    streams,
+    headers,
+    monitoring_config,
+    logger,
+    stream_states
+):
+    """Run one complete monitoring cycle."""
+
+    healthy_streams = []
+
+    logger.info(
+        "=================================================="
+    )
+
+    logger.info(
+        "STARTING MONITORING CYCLE"
+    )
+
+    logger.info(
+        "Configured streams: %s",
+        len(streams)
+    )
+
+    for stream in streams:
+
+        stream_id = stream.get(
+            "id",
+            "unknown"
+        )
+
+        if not stream.get(
+            "enabled",
+            False
+        ):
+
+            logger.info(
+                "[%s] Stream disabled.",
+                stream_id
+            )
+
+            continue
+
+        previous_state = stream_states.get(
+            stream_id,
+            {
+                "status": "UNKNOWN",
+                "consecutive_failures": 0
+            }
+        )
+
+        start_time = time.time()
+
+        is_healthy = check_stream(
+            stream,
+            headers,
+            monitoring_config,
+            logger
+        )
+
+        duration = time.time() - start_time
+
+        if is_healthy:
+
+            healthy_streams.append(
+                stream
+            )
+
+            stream_states[stream_id] = {
+                "status": "ONLINE",
+                "consecutive_failures": 0
+            }
+
+            if previous_state["status"] != "ONLINE":
+
+                logger.info(
+                    "[%s] STATUS CHANGED: %s -> ONLINE",
+                    stream_id,
+                    previous_state["status"]
+                )
+
+        else:
+
+            failures = (
+                previous_state[
+                    "consecutive_failures"
+                ] + 1
+            )
+
+            max_failures = monitoring_config.get(
+                "max_consecutive_failures",
+                3
+            )
+
+            if failures >= max_failures:
+
+                current_status = "OFFLINE"
+
+            else:
+
+                current_status = "DEGRADED"
+
+            stream_states[stream_id] = {
+                "status": current_status,
+                "consecutive_failures": failures
+            }
+
+            logger.warning(
+                "[%s] STATUS: %s | "
+                "Consecutive failures: %s/%s",
+                stream_id,
+                current_status,
+                failures,
+                max_failures
+            )
+
+            if previous_state["status"] != current_status:
+
+                logger.warning(
+                    "[%s] STATUS CHANGED: %s -> %s",
+                    stream_id,
+                    previous_state["status"],
+                    current_status
+                )
+
+        logger.info(
+            "[%s] Check duration: %.2f seconds",
+            stream_id,
+            duration
+        )
+
+    create_m3u_playlist(
+        config,
+        healthy_streams,
+        logger
+    )
+
+    logger.info(
+        "MONITORING CYCLE FINISHED"
+    )
+
+    logger.info(
+        "Healthy streams: %s/%s",
+        len(healthy_streams),
+        len(streams)
+    )
+
+    return healthy_streams
 
 
 # ============================================================
@@ -768,7 +928,7 @@ def main():
 
     print("=" * 70)
     print("LIVE STREAM MANAGER")
-    print("Version 1.0.0")
+    print("Version 1.1.0")
     print("=" * 70)
 
     try:
@@ -804,6 +964,11 @@ def main():
         {}
     )
 
+    monitoring_enabled = monitoring_config.get(
+        "enabled",
+        False
+    )
+
     if not streams:
 
         logger.error(
@@ -812,86 +977,113 @@ def main():
 
         return
 
-    logger.info(
-        "Configured streams: %s",
-        len(streams)
-    )
+    if not monitoring_enabled:
 
-    healthy_streams = []
-
-    for stream in streams:
-
-        if not stream.get(
-            "enabled",
-            False
-        ):
-
-            logger.info(
-                "[%s] Stream disabled.",
-                stream.get(
-                    "id",
-                    "unknown"
-                )
-            )
-
-            continue
-
-        is_healthy = check_stream(
-            stream,
-            headers,
-            monitoring_config,
-            logger
+        logger.info(
+            "Monitoring is disabled."
         )
 
-        if is_healthy:
+        monitoring_cycle(
+            config,
+            streams,
+            headers,
+            monitoring_config,
+            logger,
+            {}
+        )
 
-            healthy_streams.append(
-                stream
+        return
+
+    interval_seconds = monitoring_config.get(
+        "interval_seconds",
+        30
+    )
+
+    logger.info(
+        "Continuous monitoring enabled."
+    )
+
+    logger.info(
+        "Monitoring interval: %s seconds",
+        interval_seconds
+    )
+
+    stream_states = {}
+
+    # --------------------------------------------------------
+    # TEST MODE
+    # --------------------------------------------------------
+    #
+    # GitHub Actions is not intended to run as a permanent
+    # 24/7 process. Therefore, this version performs a small
+    # number of monitoring cycles during CI testing.
+    #
+    # This can later be changed for a permanent server.
+    # --------------------------------------------------------
+
+    test_cycles = 3
+
+    logger.info(
+        "CI test mode: %s monitoring cycles.",
+        test_cycles
+    )
+
+    for cycle_number in range(
+        1,
+        test_cycles + 1
+    ):
+
+        print(
+            f"\nMonitoring cycle "
+            f"{cycle_number}/{test_cycles}"
+        )
+
+        logger.info(
+            "MONITORING CYCLE %s/%s",
+            cycle_number,
+            test_cycles
+        )
+
+        monitoring_cycle(
+            config,
+            streams,
+            headers,
+            monitoring_config,
+            logger,
+            stream_states
+        )
+
+        if cycle_number < test_cycles:
+
+            logger.info(
+                "Waiting %s seconds before next cycle.",
+                interval_seconds
             )
 
-    create_m3u_playlist(
-        config,
-        healthy_streams
-    )
+            time.sleep(
+                interval_seconds
+            )
 
     print("\n")
     print("=" * 70)
-    print("FINAL RESULT")
+    print("MONITORING TEST FINISHED")
     print("=" * 70)
 
     print(
-        f"\nConfigured streams: {len(streams)}"
+        f"\nMonitoring cycles completed: {test_cycles}"
     )
 
     print(
-        f"Healthy streams: {len(healthy_streams)}"
+        "\nFinal stream states:"
     )
 
-    if healthy_streams:
+    for stream_id, state in stream_states.items():
 
         print(
-            "\nONLINE:"
-        )
-
-        for stream in healthy_streams:
-
-            print(
-                f"- {stream['name']}"
-            )
-
-        print(
-            "\nLive playlist has been generated."
-        )
-
-    else:
-
-        print(
-            "\nNo healthy streams found."
-        )
-
-        print(
-            "The generated playlist contains no "
-            "healthy stream."
+            f"- {stream_id}: "
+            f"{state['status']} "
+            f"(failures: "
+            f"{state['consecutive_failures']})"
         )
 
     print(
