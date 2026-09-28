@@ -7,10 +7,10 @@
 
   "streams": [
     {
-      "id": "aja-test",
-      "name": "AJA Test Stream",
-      "event_title": "HLS Test Stream",
-      "stream_url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+      "id": "sportsone",
+      "name": "Sports One",
+      "event_title": "Sports One Live",
+      "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
       "enabled": true,
       "status": "testing",
       "preferred_variant": 1
@@ -18,7 +18,7 @@
   ],
 
   "headers": {
-    "Referer": "",
+    "Referer": "https://www.bna.bh",
     "User-Agent": "Mozilla/5.0 (Android 14; Mobile) AppleWebKit/537.36 Chrome/128.0 Mobile Safari/537.36"
   },
 
@@ -73,7 +73,7 @@
 
       "frame": {
         "enabled": true,
-        "width": 8,
+        "width": 18,
         "color": "0x8B0000"
       },
 
