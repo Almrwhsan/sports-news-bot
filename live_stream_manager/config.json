@@ -19,7 +19,7 @@
 
   "headers": {
     "Referer": "https://www.bna.bh",
-    "User-Agent": "Mozilla/5.0 (Android 14; Mobile) AppleWebKit/537.36 Chrome/128.0 Mobile Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Android 14; Mobile) AppleWebKit/537.36 Chrome/128.0.0.0 Mobile Safari/537.36"
   },
 
   "monitoring": {
@@ -94,17 +94,17 @@
 
       "mode": "normal",
 
-      "volume": 1.0,
+      "volume": 0.85,
 
       "bass": 0,
       "treble": 0,
 
       "echo": {
-        "enabled": false,
+        "enabled": true,
         "in_gain": 0.8,
-        "out_gain": 0.9,
-        "delays": "1200|1200",
-        "decays": "0.25|0.15"
+        "out_gain": 0.7,
+        "delays": "900|900",
+        "decays": "0.18|0.10"
       }
     }
   }
