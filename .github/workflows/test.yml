@@ -34,11 +34,23 @@ jobs:
         run: |
           ffmpeg -version
 
+      - name: Check Live Stream Assets
+        run: |
+          echo "===== Checking assets ====="
+
+          if [ -f "assets/logo.png" ]; then
+            echo "Logo found: assets/logo.png"
+            ls -lh assets/logo.png
+          else
+            echo "ERROR: assets/logo.png was not found."
+            exit 1
+          fi
+
       - name: Run HLS Monitor
         run: |
           python stream_manager.py
 
-      - name: Run FFmpeg HLS Test
+      - name: Run FFmpeg Graphics Test
         run: |
           python ffmpeg_test.py
 
@@ -59,8 +71,16 @@ jobs:
           echo "===== logs/stream_manager.log ====="
           cat logs/stream_manager.log
 
-      - name: Upload FFmpeg test video
+      - name: Upload Graphics Test Video
         uses: actions/upload-artifact@v4
         with:
-          name: ffmpeg-test-video
-          path: live_stream_manager/ffmpeg_test_output.mp4
+          name: ffmpeg-graphics-test
+          path: live_stream_manager/ffmpeg_graphics_test.mp4
+          if-no-files-found: error
+
+      - name: Upload Stream Manager Log
+        uses: actions/upload-artifact@v4
+        with:
+          name: stream-manager-log
+          path: live_stream_manager/logs/stream_manager.log
+          if-no-files-found: warn
