@@ -55,93 +55,13 @@ def build_audio_filter(audio_config):
 
     echo = audio_config.get("echo", {})
 
-    # ---------------------------------------------------------
-    # Echo
-    # ---------------------------------------------------------
-    # We do NOT use the aecho filter because it may not be
-    # available in some FFmpeg builds.
-    #
-    # Instead:
-    #   - Keep the original audio
-    #   - Create a delayed copy
-    #   - Create a second, weaker delayed copy
-    #   - Mix all three together
-    # ---------------------------------------------------------
-
     if echo.get("enabled", False):
-
-        in_gain = float(echo.get("in_gain", 0.8))
-        out_gain = float(echo.get("out_gain", 0.7))
-
-        delays = str(
-            echo.get("delays", "900|900")
-        ).split("|")
-
-        decays = str(
-            echo.get("decays", "0.18|0.10")
-        ).split("|")
-
-        # Use the configured delay values when available.
-        delay1 = int(float(delays[0])) if delays else 900
-
-        if len(delays) > 1:
-            delay2 = int(float(delays[1]))
-        else:
-            delay2 = delay1 * 2
-
-        # Use configured decay values.
-        decay1 = float(decays[0]) if decays else 0.18
-
-        if len(decays) > 1:
-            decay2 = float(decays[1])
-        else:
-            decay2 = 0.10
-
-        # The values are intentionally kept moderate.
-        # This prevents the echo from overpowering commentary.
-        echo_gain1 = max(0.0, min(decay1 * out_gain, 1.0))
-        echo_gain2 = max(0.0, min(decay2 * out_gain, 1.0))
-
-        # Store the normal filters first.
-        base_filters = filters.copy()
-
-        if base_filters:
-            base_audio = ",".join(base_filters)
-            main_chain = (
-                f"[0:a]{base_audio}[main]"
-            )
-        else:
-            main_chain = "[0:a]anull[main]"
-
-        # Build the delayed copies.
-        echo_chain1 = (
-            f"[main]"
-            f"volume={echo_gain1},"
-            f"adelay={delay1}|{delay1}"
-            f"[echo1]"
-        )
-
-        echo_chain2 = (
-            f"[main]"
-            f"volume={echo_gain2},"
-            f"adelay={delay2}|{delay2}"
-            f"[echo2]"
-        )
-
-        # Mix original + echo 1 + echo 2.
-        mix_chain = (
-            "[main][echo1][echo2]"
-            "amix=inputs=3:"
-            "duration=longest:"
-            "normalize=0"
-            "[aout]"
-        )
-
-        return (
-            f"{main_chain};"
-            f"{echo_chain1};"
-            f"{echo_chain2};"
-            f"{mix_chain}"
+        filters.append(
+            f"aecho:"
+            f"{echo.get('in_gain', 0.8)}:"
+            f"{echo.get('out_gain', 0.9)}:"
+            f"{echo.get('delays', '1200|1200')}:"
+            f"{echo.get('decays', '0.25|0.15')}"
         )
 
     return ",".join(filters) if filters else "anull"
@@ -180,11 +100,7 @@ def main():
         return 1
 
     stream = next(
-        (
-            item
-            for item in streams
-            if item.get("enabled", False)
-        ),
+        (item for item in streams if item.get("enabled", False)),
         None
     )
 
@@ -203,14 +119,9 @@ def main():
     audio_config = ffmpeg_config.get("audio", {})
     video_config = ffmpeg_config.get("video", {})
 
-    output_file = (
-        BASE_DIR / "ffmpeg_graphics_test.mp4"
-    )
+    output_file = BASE_DIR / "ffmpeg_graphics_test.mp4"
 
-    logo_enabled = overlay.get(
-        "enabled",
-        True
-    )
+    logo_enabled = overlay.get("enabled", True)
 
     logo_path = BASE_DIR / overlay.get(
         "logo",
@@ -218,10 +129,7 @@ def main():
     )
 
     logo_width = int(
-        overlay.get(
-            "logo_width",
-            180
-        )
+        overlay.get("logo_width", 180)
     )
 
     position = overlay.get(
@@ -229,60 +137,17 @@ def main():
         {}
     )
 
-    logo_x = int(
-        position.get(
-            "x",
-            35
-        )
-    )
+    logo_x = int(position.get("x", 35))
+    logo_y = int(position.get("y", 35))
 
-    logo_y = int(
-        position.get(
-            "y",
-            35
-        )
-    )
+    width = int(video_config.get("width", 1920))
+    height = int(video_config.get("height", 1080))
+    fps = int(video_config.get("fps", 25))
 
-    width = int(
-        video_config.get(
-            "width",
-            1920
-        )
-    )
-
-    height = int(
-        video_config.get(
-            "height",
-            1080
-        )
-    )
-
-    fps = int(
-        video_config.get(
-            "fps",
-            25
-        )
-    )
-
-    bitrate = video_config.get(
-        "bitrate",
-        "5000k"
-    )
-
-    maxrate = video_config.get(
-        "maxrate",
-        "5500k"
-    )
-
-    bufsize = video_config.get(
-        "bufsize",
-        "10000k"
-    )
-
-    preset = video_config.get(
-        "preset",
-        "veryfast"
-    )
+    bitrate = video_config.get("bitrate", "5000k")
+    maxrate = video_config.get("maxrate", "5500k")
+    bufsize = video_config.get("bufsize", "10000k")
+    preset = video_config.get("preset", "veryfast")
 
     print("\nSource:")
     print(hls_url)
@@ -296,68 +161,40 @@ def main():
     print("\nLogo:")
 
     if logo_enabled:
-
         if not logo_path.exists():
-            print(
-                "ERROR: Logo file not found:"
-            )
+            print("ERROR: Logo file not found:")
             print(logo_path)
             return 1
 
         print("Enabled")
-        print(
-            f"Path: {logo_path}"
-        )
-        print(
-            f"Width: {logo_width}"
-        )
-        print(
-            f"Position: {logo_x},{logo_y}"
-        )
-
+        print(f"Path: {logo_path}")
+        print(f"Width: {logo_width}")
+        print(f"Position: {logo_x},{logo_y}")
     else:
         print("Disabled")
 
-    audio_filter = build_audio_filter(
-        audio_config
-    )
+    audio_filter = build_audio_filter(audio_config)
 
     print("\nAudio mode:")
-    print(
-        audio_config.get(
-            "mode",
-            "normal"
-        )
-    )
+    print(audio_config.get("mode", "normal"))
 
     print("\nAudio filter:")
     print(audio_filter)
 
-    video_filters = build_video_filter(
-        config
-    )
+    video_filters = build_video_filter(config)
 
     video_base = "[0:v]"
 
     if video_filters:
-
-        video_filter_string = ",".join(
-            video_filters
-        )
+        video_filter_string = ",".join(video_filters)
 
         video_base = (
-            f"[0:v]"
-            f"{video_filter_string}"
-            f"[base]"
+            f"[0:v]{video_filter_string}[base]"
         )
-
     else:
-        video_base = (
-            "[0:v]null[base]"
-        )
+        video_base = "[0:v]null[base]"
 
     if logo_enabled:
-
         logo_chain = (
             f"[1:v]"
             f"scale={logo_width}:-1"
@@ -370,61 +207,32 @@ def main():
             f"[vout]"
         )
 
-        # If the audio filter contains its own
-        # filter_complex chains, use it directly.
-        if ";" in audio_filter:
-
-            filter_complex = (
-                f"{video_base};"
-                f"{logo_chain};"
-                f"{overlay_chain};"
-                f"{audio_filter}"
-            )
-
-        else:
-
-            filter_complex = (
-                f"{video_base};"
-                f"{logo_chain};"
-                f"{overlay_chain};"
-                f"[0:a]{audio_filter}[aout]"
-            )
+        filter_complex = (
+            f"{video_base};"
+            f"{logo_chain};"
+            f"{overlay_chain};"
+            f"[0:a]{audio_filter}[aout]"
+        )
 
     else:
-
-        if ";" in audio_filter:
-
-            filter_complex = (
-                f"{video_base}[vout];"
-                f"{audio_filter}"
-            )
-
-        else:
-
-            filter_complex = (
-                f"{video_base}[vout];"
-                f"[0:a]{audio_filter}[aout]"
-            )
+        filter_complex = (
+            f"{video_base}[vout];"
+            f"[0:a]{audio_filter}[aout]"
+        )
 
     command = [
         "ffmpeg",
         "-hide_banner",
 
-        "-reconnect",
-        "1",
-
-        "-reconnect_streamed",
-        "1",
-
-        "-reconnect_delay_max",
-        "5",
+        "-reconnect", "1",
+        "-reconnect_streamed", "1",
+        "-reconnect_delay_max", "5",
 
         "-i",
         hls_url
     ]
 
     if logo_enabled:
-
         command.extend([
             "-i",
             str(logo_path)
@@ -490,59 +298,34 @@ def main():
     print("\nStarting FFmpeg...")
     print("Test duration: 30 seconds")
 
-    result = subprocess.run(
-        command
-    )
+    result = subprocess.run(command)
 
     print("\n" + "=" * 70)
 
     if result.returncode != 0:
-
-        print(
-            "FFMPEG GRAPHICS TEST FAILED"
-        )
-
+        print("FFMPEG GRAPHICS TEST FAILED")
         print("=" * 70)
-
-        print(
-            f"FFmpeg exit code: "
-            f"{result.returncode}"
-        )
-
+        print(f"FFmpeg exit code: {result.returncode}")
         return result.returncode
 
     if not output_file.exists():
-
-        print(
-            "TEST FAILED: "
-            "Output file was not created."
-        )
-
+        print("TEST FAILED: Output file was not created.")
         return 1
 
-    size_mb = (
-        output_file.stat().st_size
-        / (1024 * 1024)
+    size_mb = output_file.stat().st_size / (
+        1024 * 1024
     )
 
-    print(
-        "FFMPEG GRAPHICS TEST SUCCESSFUL"
-    )
-
+    print("FFMPEG GRAPHICS TEST SUCCESSFUL")
     print("=" * 70)
 
     print("\nOutput file:")
     print(output_file)
 
-    print(
-        f"\nFile size: "
-        f"{size_mb:.2f} MB"
-    )
+    print(f"\nFile size: {size_mb:.2f} MB")
 
     return 0
 
 
 if __name__ == "__main__":
-    raise SystemExit(
-        main()
-    )
+    raise SystemExit(main())
