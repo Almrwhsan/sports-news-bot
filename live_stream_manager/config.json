@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Live Stream Manager",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "environment": "testing"
   },
 
@@ -38,15 +38,74 @@
   },
 
   "facebook": {
-    "enabled": false,
+    "enabled": true,
     "page_id": "",
     "page_access_token": "",
     "post_message": false
   },
 
   "ffmpeg": {
-    "enabled": false,
-    "rtmps_url": "",
-    "extra_arguments": []
+    "enabled": true,
+
+    "duration_minutes": 10,
+
+    "video": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 25,
+      "bitrate": "5000k",
+      "maxrate": "5500k",
+      "bufsize": "10000k",
+      "preset": "veryfast"
+    },
+
+    "overlay": {
+      "enabled": true,
+
+      "logo": "assets/logo.png",
+
+      "logo_width": 180,
+
+      "logo_position": {
+        "x": 35,
+        "y": 35
+      },
+
+      "frame": {
+        "enabled": true,
+        "width": 8,
+        "color": "0x8B0000"
+      },
+
+      "live_badge": {
+        "enabled": true,
+        "text": "LIVE",
+        "x": 35,
+        "y": 220,
+        "font_size": 42,
+        "font_color": "white",
+        "box_color": "0x8B0000",
+        "box_opacity": 0.85
+      }
+    },
+
+    "audio": {
+      "enabled": true,
+
+      "mode": "normal",
+
+      "volume": 1.0,
+
+      "bass": 0,
+      "treble": 0,
+
+      "echo": {
+        "enabled": false,
+        "in_gain": 0.8,
+        "out_gain": 0.9,
+        "delays": "1200|1200",
+        "decays": "0.25|0.15"
+      }
+    }
   }
 }
