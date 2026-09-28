@@ -94,13 +94,13 @@
 
       "mode": "normal",
 
-      "volume": 0.85,
+      "volume": 1.0,
 
       "bass": 0,
       "treble": 0,
 
       "echo": {
-        "enabled": true,
+        "enabled": false,
         "in_gain": 0.8,
         "out_gain": 0.7,
         "delays": "900|900",
