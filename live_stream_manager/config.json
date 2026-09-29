@@ -7,10 +7,10 @@
 
   "streams": [
     {
-      "id": "sportsone",
-      "name": "Sports One",
-      "event_title": "Sports One Live",
-      "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+      "id": "authorized_stream",
+      "name": "Authorized Live Stream",
+      "event_title": "Authorized Live",
+      "stream_url": "PUT_YOUR_AUTHORIZED_M3U8_URL_HERE",
       "enabled": true,
       "status": "testing",
       "preferred_variant": 1
@@ -18,7 +18,7 @@
   ],
 
   "headers": {
-    "Referer": "https://www.bna.bh",
+    "Referer": "",
     "User-Agent": "Mozilla/5.0 (Android 14; Mobile) AppleWebKit/537.36 Chrome/128.0.0.0 Mobile Safari/537.36"
   },
 
