@@ -183,7 +183,9 @@ def extract_urls(
     playlist_text,
     base_url
 ):
-    """Extract non-comment URLs from an M3U8 playlist."""
+    """
+    Extract all non-comment URLs from an M3U8 playlist.
+    """
 
     urls = []
 
@@ -205,6 +207,73 @@ def extract_urls(
         )
 
     return urls
+
+
+# ============================================================
+# M3U8 VARIANT EXTRACTION
+# ============================================================
+
+def extract_variant_urls(
+    playlist_text,
+    base_url
+):
+    """
+    Extract variant playlist URLs.
+
+    A real master playlist normally contains:
+
+        #EXT-X-STREAM-INF
+        variant.m3u8
+
+    This function only treats URLs following
+    #EXT-X-STREAM-INF as variant playlists.
+    """
+
+    variants = []
+
+    lines = [
+        line.strip()
+        for line in playlist_text.splitlines()
+    ]
+
+    for index, line in enumerate(lines):
+
+        if not line:
+            continue
+
+        if not line.startswith(
+            "#EXT-X-STREAM-INF"
+        ):
+            continue
+
+        next_index = index + 1
+
+        while next_index < len(lines):
+
+            next_line = lines[
+                next_index
+            ].strip()
+
+            if not next_line:
+
+                next_index += 1
+                continue
+
+            if next_line.startswith("#"):
+
+                next_index += 1
+                continue
+
+            variants.append(
+                urljoin(
+                    base_url,
+                    next_line
+                )
+            )
+
+            break
+
+    return variants
 
 
 # ============================================================
@@ -242,6 +311,7 @@ def extract_segments(
             or lower_url.endswith(".m4s")
             or ".m4s?" in lower_url
         ):
+
             segments.append(
                 url
             )
@@ -339,23 +409,66 @@ def get_variant_playlist(
     timeout,
     logger
 ):
-    """Select and download a variant playlist."""
+    """
+    Select and download a real variant playlist.
+
+    Some HLS sources use a non-standard structure where
+    the master URL directly lists .ts media files.
+
+    In that case this function returns None and the caller
+    handles the direct media-segment playlist separately.
+    """
 
     stream_id = stream["id"]
 
-    variant_urls = extract_urls(
+    variant_urls = extract_variant_urls(
         master_response.text,
         master_response.url
     )
 
+    # --------------------------------------------------------
+    # No EXT-X-STREAM-INF variants
+    # --------------------------------------------------------
+
     if not variant_urls:
 
+        logger.info(
+            "[%s] No standard M3U8 variant playlists found.",
+            stream_id
+        )
+
+        logger.info(
+            "[%s] Checking whether the master directly "
+            "contains media segments.",
+            stream_id
+        )
+
+        direct_segments = extract_segments(
+            master_response.text,
+            master_response.url
+        )
+
+        if direct_segments:
+
+            logger.info(
+                "[%s] Direct media-segment playlist detected: "
+                "%s segments.",
+                stream_id,
+                len(direct_segments)
+            )
+
+            return master_response
+
         logger.error(
-            "[%s] No variant playlists found.",
+            "[%s] No variant playlists or media segments found.",
             stream_id
         )
 
         return None
+
+    # --------------------------------------------------------
+    # Select preferred variant
+    # --------------------------------------------------------
 
     preferred_variant = stream.get(
         "preferred_variant",
@@ -424,7 +537,7 @@ def get_variant_playlist(
     if "#EXTM3U" not in response.text:
 
         logger.error(
-            "[%s] Variant is not a valid M3U8.",
+            "[%s] Variant response is not a valid M3U8.",
             stream_id
         )
 
@@ -603,6 +716,10 @@ def check_stream(
         stream_url
     )
 
+    # --------------------------------------------------------
+    # Validate URL
+    # --------------------------------------------------------
+
     if not validate_stream_url(
         stream_url
     ):
@@ -613,6 +730,10 @@ def check_stream(
         )
 
         return False
+
+    # --------------------------------------------------------
+    # Download master
+    # --------------------------------------------------------
 
     master_response = get_master_playlist(
         stream,
@@ -630,6 +751,19 @@ def check_stream(
 
         return False
 
+    # --------------------------------------------------------
+    # Get variant
+    #
+    # This function can return:
+    #
+    # 1. A normal variant M3U8
+    #
+    # OR
+    #
+    # 2. The original master response when the source
+    #    directly contains .ts segments.
+    # --------------------------------------------------------
+
     variant_response = get_variant_playlist(
         stream,
         master_response,
@@ -641,11 +775,15 @@ def check_stream(
     if variant_response is None:
 
         logger.error(
-            "[%s] STREAM OFFLINE - variant failed.",
+            "[%s] STREAM OFFLINE - variant/media failed.",
             stream_id
         )
 
         return False
+
+    # --------------------------------------------------------
+    # Test media segments
+    # --------------------------------------------------------
 
     media_ok = test_media_segments(
         stream,
@@ -928,7 +1066,7 @@ def main():
 
     print("=" * 70)
     print("LIVE STREAM MANAGER")
-    print("Version 1.1.0")
+    print("Version 1.3.1")
     print("=" * 70)
 
     try:
@@ -1011,14 +1149,7 @@ def main():
     stream_states = {}
 
     # --------------------------------------------------------
-    # TEST MODE
-    # --------------------------------------------------------
-    #
-    # GitHub Actions is not intended to run as a permanent
-    # 24/7 process. Therefore, this version performs a small
-    # number of monitoring cycles during CI testing.
-    #
-    # This can later be changed for a permanent server.
+    # CI TEST MODE
     # --------------------------------------------------------
 
     test_cycles = 3
