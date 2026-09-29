@@ -64,10 +64,10 @@
 
       "logo": "assets/logo.png",
 
-      "logo_width": 180,
+      "logo_width": 260,
 
       "logo_position": {
-        "x": 1715,
+        "x": 1635,
         "y": 35
       },
 
@@ -92,19 +92,20 @@
     "audio": {
       "enabled": true,
 
-      "mode": "normal",
+      "mode": "sharp_echo",
 
       "volume": 1.0,
 
-      "bass": 0,
-      "treble": 0,
+      "bass": -1,
+
+      "treble": 6,
 
       "echo": {
-        "enabled": false,
-        "in_gain": 0.8,
-        "out_gain": 0.7,
-        "delays": "900|900",
-        "decays": "0.18|0.10"
+        "enabled": true,
+        "in_gain": 0.85,
+        "out_gain": 0.75,
+        "delays": "650|650",
+        "decays": "0.20|0.12"
       }
     }
   }
