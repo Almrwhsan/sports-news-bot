@@ -1,6 +1,7 @@
 import json
 import os
 import subprocess
+import time
 from pathlib import Path
 
 
@@ -36,17 +37,16 @@ def build_audio_filter(audio_config):
     Build FFmpeg audio filters from config.json.
     """
 
-    if not audio_config.get(
-        "enabled",
-        True
-    ):
+    if not audio_config.get("enabled", True):
         return "anull"
 
     filters = []
 
-    mode = audio_config.get(
-        "mode",
-        "normal"
+    mode = str(
+        audio_config.get(
+            "mode",
+            "normal"
+        )
     ).lower()
 
     volume = float(
@@ -132,13 +132,11 @@ def build_audio_filter(audio_config):
     )
 
     if bass != 0:
-
         filters.append(
             f"bass=g={bass}:f=100"
         )
 
     if treble != 0:
-
         filters.append(
             f"treble=g={treble}:f=5000"
         )
@@ -188,9 +186,7 @@ def build_audio_filter(audio_config):
     if not filters:
         return "anull"
 
-    return ",".join(
-        filters
-    )
+    return ",".join(filters)
 
 
 # ============================================================
@@ -201,6 +197,8 @@ def build_video_filter(config):
     """
     Build FFmpeg video filters for:
 
+    - Scaling
+    - Padding
     - Frame
     - LIVE badge
     """
@@ -215,7 +213,49 @@ def build_video_filter(config):
         {}
     )
 
+    video_config = ffmpeg_config.get(
+        "video",
+        {}
+    )
+
+    width = int(
+        video_config.get(
+            "width",
+            1920
+        )
+    )
+
+    height = int(
+        video_config.get(
+            "height",
+            1080
+        )
+    )
+
     filters = []
+
+    # --------------------------------------------------------
+    # Scale source to requested output size
+    # --------------------------------------------------------
+
+    filters.append(
+        f"scale="
+        f"{width}:"
+        f"{height}:"
+        f"force_original_aspect_ratio=decrease"
+    )
+
+    # --------------------------------------------------------
+    # Pad to exact output resolution
+    # --------------------------------------------------------
+
+    filters.append(
+        f"pad="
+        f"{width}:"
+        f"{height}:"
+        f"(ow-iw)/2:"
+        f"(oh-ih)/2"
+    )
 
     # --------------------------------------------------------
     # Frame
@@ -231,7 +271,7 @@ def build_video_filter(config):
         True
     ):
 
-        width = int(
+        frame_width = int(
             frame.get(
                 "width",
                 8
@@ -250,7 +290,7 @@ def build_video_filter(config):
             f"w=iw:"
             f"h=ih:"
             f"color={color}:"
-            f"t={width}"
+            f"t={frame_width}"
         )
 
     # --------------------------------------------------------
@@ -312,7 +352,6 @@ def build_video_filter(config):
             )
         )
 
-        # Escape characters that can affect FFmpeg drawtext.
         safe_text = (
             text_value
             .replace("\\", "\\\\")
@@ -320,7 +359,6 @@ def build_video_filter(config):
             .replace("'", "\\'")
         )
 
-        # GitHub Ubuntu runners normally provide DejaVu Sans.
         font_file = (
             "/usr/share/fonts/"
             "truetype/dejavu/"
@@ -350,8 +388,6 @@ def build_video_filter(config):
 def build_hls_headers(config):
     """
     Build HTTP headers for the HLS input.
-
-    These headers are passed directly to FFmpeg.
     """
 
     header_config = config.get(
@@ -386,9 +422,7 @@ def build_hls_headers(config):
 
 def build_ffmpeg_input_headers(headers):
     """
-    Convert HTTP headers into FFmpeg's -headers format.
-
-    FFmpeg expects CRLF between HTTP headers.
+    Convert HTTP headers into FFmpeg -headers format.
     """
 
     header_lines = []
@@ -421,18 +455,352 @@ def build_ffmpeg_input_headers(headers):
 
 
 # ============================================================
+# BUILD FFMPEG COMMAND
+# ============================================================
+
+def build_ffmpeg_command(
+    config,
+    hls_url,
+    facebook_url,
+    logo_path,
+    logo_enabled,
+    logo_width,
+    logo_x,
+    logo_y,
+    ffmpeg_headers
+):
+    """
+    Build the complete FFmpeg command.
+    """
+
+    ffmpeg_config = config.get(
+        "ffmpeg",
+        {}
+    )
+
+    video_config = ffmpeg_config.get(
+        "video",
+        {}
+    )
+
+    audio_config = ffmpeg_config.get(
+        "audio",
+        {}
+    )
+
+    width = int(
+        video_config.get(
+            "width",
+            1920
+        )
+    )
+
+    height = int(
+        video_config.get(
+            "height",
+            1080
+        )
+    )
+
+    fps = int(
+        video_config.get(
+            "fps",
+            25
+        )
+    )
+
+    bitrate = video_config.get(
+        "bitrate",
+        "5000k"
+    )
+
+    maxrate = video_config.get(
+        "maxrate",
+        "5500k"
+    )
+
+    bufsize = video_config.get(
+        "bufsize",
+        "10000k"
+    )
+
+    preset = video_config.get(
+        "preset",
+        "veryfast"
+    )
+
+    audio_filter = build_audio_filter(
+        audio_config
+    )
+
+    video_filters = build_video_filter(
+        config
+    )
+
+    video_filters_string = ",".join(
+        video_filters
+    )
+
+    command = [
+        "ffmpeg",
+
+        "-hide_banner",
+
+        "-loglevel",
+        "info",
+
+        # ====================================================
+        # HLS reconnect
+        # ====================================================
+
+        "-reconnect",
+        "1",
+
+        "-reconnect_streamed",
+        "1",
+
+        "-reconnect_at_eof",
+        "1",
+
+        "-reconnect_on_network_error",
+        "1",
+
+        "-reconnect_on_http_error",
+        "4xx,5xx",
+
+        "-reconnect_delay_max",
+        "10",
+
+        # ====================================================
+        # HLS input
+        # ====================================================
+
+    ]
+
+    if ffmpeg_headers:
+
+        command.extend([
+            "-headers",
+            ffmpeg_headers
+        ])
+
+    command.extend([
+        "-i",
+        hls_url
+    ])
+
+    # ========================================================
+    # Logo input
+    # ========================================================
+
+    if logo_enabled:
+
+        command.extend([
+            "-loop",
+            "1",
+
+            "-i",
+            str(logo_path)
+        ])
+
+    # ========================================================
+    # FILTER GRAPH
+    # ========================================================
+
+    if logo_enabled:
+
+        logo_filter = (
+            f"[1:v]"
+            f"scale={logo_width}:-1"
+            f"[logo]"
+        )
+
+        video_chain = (
+            f"[0:v]"
+            f"{video_filters_string}"
+            f"[base];"
+            f"{logo_filter};"
+            f"[base][logo]"
+            f"overlay="
+            f"{logo_x}:{logo_y}"
+            f"[vout]"
+        )
+
+        filter_complex = (
+            f"{video_chain};"
+            f"[0:a]"
+            f"{audio_filter}"
+            f"[aout]"
+        )
+
+        command.extend([
+            "-filter_complex",
+            filter_complex,
+
+            "-map",
+            "[vout]",
+
+            "-map",
+            "[aout]"
+        ])
+
+    else:
+
+        command.extend([
+            "-vf",
+            video_filters_string,
+
+            "-map",
+            "0:v:0",
+
+            "-map",
+            "0:a:0",
+
+            "-af",
+            audio_filter
+        ])
+
+    # ========================================================
+    # OUTPUT
+    # ========================================================
+
+    command.extend([
+
+        "-c:v",
+        "libx264",
+
+        "-preset",
+        preset,
+
+        "-tune",
+        "zerolatency",
+
+        "-b:v",
+        bitrate,
+
+        "-maxrate",
+        maxrate,
+
+        "-bufsize",
+        bufsize,
+
+        "-pix_fmt",
+        "yuv420p",
+
+        "-r",
+        str(fps),
+
+        "-g",
+        str(
+            fps * 2
+        ),
+
+        "-c:a",
+        "aac",
+
+        "-b:a",
+        "128k",
+
+        "-ar",
+        "48000",
+
+        "-f",
+        "flv",
+
+        facebook_url
+    ])
+
+    return command
+
+
+# ============================================================
+# RUN FFMPEG
+# ============================================================
+
+def run_ffmpeg(
+    command,
+    restart_number
+):
+    """
+    Run one FFmpeg session.
+
+    Returns:
+        FFmpeg exit code.
+    """
+
+    print(
+        "\n" + "=" * 70
+    )
+
+    print(
+        f"FFMPEG SESSION #{restart_number}"
+    )
+
+    print(
+        "=" * 70
+    )
+
+    print(
+        "LIVE STREAM RUNNING..."
+    )
+
+    print(
+        "Press CTRL+C to stop."
+    )
+
+    try:
+
+        result = subprocess.run(
+            command,
+            check=False
+        )
+
+        return result.returncode
+
+    except KeyboardInterrupt:
+
+        print(
+            "\nFFmpeg interrupted by user."
+        )
+
+        return 130
+
+    except FileNotFoundError:
+
+        print(
+            "\nERROR: FFmpeg was not found."
+        )
+
+        return 127
+
+    except Exception as error:
+
+        print(
+            "\nERROR while running FFmpeg:"
+        )
+
+        print(
+            error
+        )
+
+        return 1
+
+
+# ============================================================
 # MAIN
 # ============================================================
 
 def main():
 
     print("=" * 70)
-    print("FACEBOOK LIVE - HLS / LOGO / FRAME / LIVE / AUDIO TEST")
+    print(
+        "FACEBOOK LIVE - AUTO RECONNECT / AUTO RESTART"
+    )
     print("=" * 70)
 
-    # --------------------------------------------------------
-    # Load configuration
-    # --------------------------------------------------------
+    # ========================================================
+    # LOAD CONFIG
+    # ========================================================
 
     try:
 
@@ -449,9 +817,9 @@ def main():
 
         return 1
 
-    # --------------------------------------------------------
-    # Streams
-    # --------------------------------------------------------
+    # ========================================================
+    # STREAM
+    # ========================================================
 
     streams = config.get(
         "streams",
@@ -503,9 +871,17 @@ def main():
         )
     ).strip()
 
-    # --------------------------------------------------------
-    # Facebook credentials
-    # --------------------------------------------------------
+    if not hls_url:
+
+        print(
+            "ERROR: HLS stream URL is missing."
+        )
+
+        return 1
+
+    # ========================================================
+    # FACEBOOK
+    # ========================================================
 
     rtmps_url = os.getenv(
         "FACEBOOK_RTMPS_URL"
@@ -514,14 +890,6 @@ def main():
     stream_key = os.getenv(
         "FACEBOOK_STREAM_KEY"
     )
-
-    if not hls_url:
-
-        print(
-            "ERROR: HLS stream URL is missing."
-        )
-
-        return 1
 
     if not rtmps_url:
 
@@ -539,29 +907,21 @@ def main():
 
         return 1
 
-    # --------------------------------------------------------
-    # FFmpeg configuration
-    # --------------------------------------------------------
+    rtmps_url = rtmps_url.rstrip("/")
+
+    facebook_url = (
+        f"{rtmps_url}/"
+        f"{stream_key}"
+    )
+
+    # ========================================================
+    # FFMPEG CONFIG
+    # ========================================================
 
     ffmpeg_config = config.get(
         "ffmpeg",
         {}
     )
-
-    duration_minutes = int(
-        ffmpeg_config.get(
-            "duration_minutes",
-            10
-        )
-    )
-
-    if duration_minutes <= 0:
-
-        print(
-            "ERROR: duration_minutes must be greater than 0."
-        )
-
-        return 1
 
     video_config = ffmpeg_config.get(
         "video",
@@ -609,22 +969,46 @@ def main():
         "veryfast"
     )
 
-    # --------------------------------------------------------
-    # Facebook output URL
-    # --------------------------------------------------------
+    # ========================================================
+    # AUTO RESTART CONFIG
+    # ========================================================
 
-    rtmps_url = rtmps_url.rstrip(
-        "/"
+    auto_restart = config.get(
+        "auto_restart",
+        {}
     )
 
-    facebook_url = (
-        f"{rtmps_url}/"
-        f"{stream_key}"
+    auto_restart_enabled = auto_restart.get(
+        "enabled",
+        True
     )
 
-    # --------------------------------------------------------
-    # Overlay configuration
-    # --------------------------------------------------------
+    restart_delay = int(
+        auto_restart.get(
+            "restart_delay_seconds",
+            5
+        )
+    )
+
+    max_restarts = int(
+        auto_restart.get(
+            "max_restarts",
+            0
+        )
+    )
+
+    # 0 = unlimited
+
+    max_restart_delay = int(
+        auto_restart.get(
+            "max_restart_delay_seconds",
+            60
+        )
+    )
+
+    # ========================================================
+    # OVERLAY
+    # ========================================================
 
     overlay = ffmpeg_config.get(
         "overlay",
@@ -667,9 +1051,27 @@ def main():
         )
     )
 
-    # --------------------------------------------------------
-    # HLS headers
-    # --------------------------------------------------------
+    # ========================================================
+    # LOGO CHECK
+    # ========================================================
+
+    if logo_enabled:
+
+        if not logo_path.exists():
+
+            print(
+                "\nERROR: Logo file not found:"
+            )
+
+            print(
+                logo_path
+            )
+
+            return 1
+
+    # ========================================================
+    # HEADERS
+    # ========================================================
 
     hls_headers = build_hls_headers(
         config
@@ -681,16 +1083,23 @@ def main():
         )
     )
 
-    # --------------------------------------------------------
-    # Display configuration
-    # --------------------------------------------------------
+    # ========================================================
+    # DISPLAY
+    # ========================================================
 
     print("\nStream:")
-    print(f"Name: {stream_name}")
-    print(f"ID: {stream_id}")
+    print(
+        f"Name: {stream_name}"
+    )
+
+    print(
+        f"ID: {stream_id}"
+    )
 
     print("\nSource HLS:")
-    print(hls_url)
+    print(
+        hls_url
+    )
 
     print("\nHLS HTTP headers:")
 
@@ -709,12 +1118,16 @@ def main():
         )
 
     print("\nFacebook RTMPS:")
-    print(rtmps_url)
+    print(
+        rtmps_url
+    )
 
     print("\nStream key:")
-    print("[HIDDEN]")
+    print(
+        "[HIDDEN]"
+    )
 
-    print("\nVideo:")
+    print("\nOutput:")
     print(
         f"{width}x{height} @ {fps} FPS"
     )
@@ -735,36 +1148,13 @@ def main():
         f"Preset: {preset}"
     )
 
-    print("\nDuration:")
-    print(
-        f"{duration_minutes} minutes"
-    )
-
-    # --------------------------------------------------------
-    # Logo
-    # --------------------------------------------------------
-
     print("\nLogo:")
-
-    print(
-        "Enabled"
-        if logo_enabled
-        else "Disabled"
-    )
 
     if logo_enabled:
 
-        if not logo_path.exists():
-
-            print(
-                "\nERROR: Logo file not found:"
-            )
-
-            print(
-                logo_path
-            )
-
-            return 1
+        print(
+            "Enabled"
+        )
 
         print(
             f"Path: {logo_path}"
@@ -778,330 +1168,62 @@ def main():
             f"Position: {logo_x},{logo_y}"
         )
 
-    # --------------------------------------------------------
-    # Frame / LIVE badge
-    # --------------------------------------------------------
-
-    frame_config = overlay.get(
-        "frame",
-        {}
-    )
-
-    live_badge_config = overlay.get(
-        "live_badge",
-        {}
-    )
-
-    print("\nFrame:")
-
-    if frame_config.get(
-        "enabled",
-        True
-    ):
-
-        print(
-            "Enabled"
-        )
-
-        print(
-            f"Width: "
-            f"{frame_config.get('width', 8)}px"
-        )
-
-        print(
-            f"Color: "
-            f"{frame_config.get('color', '0x8B0000')}"
-        )
-
     else:
 
         print(
             "Disabled"
         )
 
-    print("\nLIVE badge:")
-
-    if live_badge_config.get(
-        "enabled",
-        False
-    ):
-
-        print(
-            "Enabled"
-        )
-
-        print(
-            f"Text: "
-            f"{live_badge_config.get('text', 'LIVE')}"
-        )
-
-        print(
-            f"Position: "
-            f"{live_badge_config.get('x', 35)},"
-            f"{live_badge_config.get('y', 220)}"
-        )
-
-    else:
-
-        print(
-            "Disabled"
-        )
-
-    # --------------------------------------------------------
-    # Audio
-    # --------------------------------------------------------
-
-    audio_config = ffmpeg_config.get(
-        "audio",
-        {}
-    )
-
-    audio_mode = audio_config.get(
-        "mode",
-        "normal"
-    )
-
-    audio_filter = build_audio_filter(
-        audio_config
-    )
-
-    print("\nAudio:")
-    print(
-        f"Mode: {audio_mode}"
-    )
+    print("\nAuto Restart:")
 
     print(
-        f"Filter: {audio_filter}"
+        "Enabled"
+        if auto_restart_enabled
+        else "Disabled"
     )
 
-    # ========================================================
-    # BUILD FFMPEG COMMAND
-    # ========================================================
+    if auto_restart_enabled:
 
-    print("\nStarting FFmpeg...")
-
-    command = [
-        "ffmpeg",
-
-        "-hide_banner",
-
-        "-loglevel",
-        "info",
-
-        # ----------------------------------------------------
-        # HLS reconnect
-        # ----------------------------------------------------
-
-        "-reconnect",
-        "1",
-
-        "-reconnect_streamed",
-        "1",
-
-        "-reconnect_at_eof",
-        "1",
-
-        "-reconnect_delay_max",
-        "5",
-    ]
-
-    # --------------------------------------------------------
-    # HLS HTTP headers
-    # --------------------------------------------------------
-
-    if ffmpeg_headers:
-
-        command.extend([
-            "-headers",
-            ffmpeg_headers
-        ])
-
-    # --------------------------------------------------------
-    # HLS input
-    # --------------------------------------------------------
-
-    command.extend([
-        "-i",
-        hls_url
-    ])
-
-    # --------------------------------------------------------
-    # Logo input
-    # --------------------------------------------------------
-
-    if logo_enabled:
-
-        command.extend([
-            "-i",
-            str(logo_path)
-        ])
-
-    # ========================================================
-    # VIDEO / AUDIO FILTER GRAPH
-    # ========================================================
-
-    video_filters = build_video_filter(
-        config
-    )
-
-    video_filters_string = ",".join(
-        video_filters
-    )
-
-    # --------------------------------------------------------
-    # Logo enabled
-    # --------------------------------------------------------
-
-    if logo_enabled:
-
-        logo_filter = (
-            f"[1:v]"
-            f"scale={logo_width}:-1"
-            f"[logo]"
+        print(
+            f"Restart delay: "
+            f"{restart_delay}s"
         )
 
-        if video_filters_string:
+        if max_restarts == 0:
 
-            video_chain = (
-                f"[0:v]"
-                f"{video_filters_string}"
-                f"[base];"
-                f"{logo_filter};"
-                f"[base][logo]"
-                f"overlay="
-                f"{logo_x}:{logo_y}"
-                f"[vout]"
+            print(
+                "Maximum restarts: Unlimited"
             )
 
         else:
 
-            video_chain = (
-                f"{logo_filter};"
-                f"[0:v][logo]"
-                f"overlay="
-                f"{logo_x}:{logo_y}"
-                f"[vout]"
+            print(
+                f"Maximum restarts: "
+                f"{max_restarts}"
             )
 
-        filter_complex = (
-            f"{video_chain};"
-            f"[0:a]"
-            f"{audio_filter}"
-            f"[aout]"
+        print(
+            f"Maximum retry delay: "
+            f"{max_restart_delay}s"
         )
 
-        command.extend([
-            "-filter_complex",
-            filter_complex,
-
-            "-map",
-            "[vout]",
-
-            "-map",
-            "[aout]"
-        ])
-
-    # --------------------------------------------------------
-    # Logo disabled
-    # --------------------------------------------------------
-
-    else:
-
-        if video_filters_string:
-
-            command.extend([
-                "-vf",
-                video_filters_string
-            ])
-
-        command.extend([
-            "-map",
-            "0:v:0",
-
-            "-map",
-            "0:a:0",
-
-            "-af",
-            audio_filter
-        ])
-
     # ========================================================
-    # OUTPUT
+    # BUILD COMMAND
     # ========================================================
 
-    command.extend([
-
-        # ----------------------------------------------------
-        # Duration
-        # ----------------------------------------------------
-
-        "-t",
-        str(
-            duration_minutes * 60
-        ),
-
-        # ----------------------------------------------------
-        # Video encoder
-        # ----------------------------------------------------
-
-        "-c:v",
-        "libx264",
-
-        "-preset",
-        preset,
-
-        "-tune",
-        "zerolatency",
-
-        "-b:v",
-        bitrate,
-
-        "-maxrate",
-        maxrate,
-
-        "-bufsize",
-        bufsize,
-
-        "-pix_fmt",
-        "yuv420p",
-
-        "-r",
-        str(fps),
-
-        "-g",
-        str(
-            fps * 2
-        ),
-
-        # ----------------------------------------------------
-        # Audio encoder
-        # ----------------------------------------------------
-
-        "-c:a",
-        "aac",
-
-        "-b:a",
-        "128k",
-
-        "-ar",
-        "48000",
-
-        # ----------------------------------------------------
-        # Facebook / RTMPS
-        # ----------------------------------------------------
-
-        "-f",
-        "flv",
-
-        facebook_url
-    ])
-
-    # ========================================================
-    # DISPLAY COMMAND
-    # ========================================================
+    command = build_ffmpeg_command(
+        config=config,
+        hls_url=hls_url,
+        facebook_url=facebook_url,
+        logo_path=logo_path,
+        logo_enabled=logo_enabled,
+        logo_width=logo_width,
+        logo_x=logo_x,
+        logo_y=logo_y,
+        ffmpeg_headers=ffmpeg_headers
+    )
 
     print("\nFFmpeg command:")
-
     print(
         "ffmpeg ..."
         " [HLS HEADERS HIDDEN]"
@@ -1109,94 +1231,166 @@ def main():
     )
 
     # ========================================================
-    # START
+    # AUTO RESTART LOOP
     # ========================================================
 
-    print(
-        "\n" + "=" * 70
-    )
+    restart_number = 1
 
-    print(
-        "LIVE STREAM STARTING"
-    )
+    current_delay = restart_delay
 
-    print(
-        "=" * 70
-    )
+    while True:
 
-    try:
-
-        result = subprocess.run(
+        return_code = run_ffmpeg(
             command,
-            check=False
+            restart_number
         )
 
-    except FileNotFoundError:
+        # ----------------------------------------------------
+        # Manual stop
+        # ----------------------------------------------------
+
+        if return_code == 130:
+
+            print(
+                "\n" + "=" * 70
+            )
+
+            print(
+                "STREAM STOPPED BY USER"
+            )
+
+            print(
+                "=" * 70
+            )
+
+            return 0
+
+        # ----------------------------------------------------
+        # FFmpeg missing
+        # ----------------------------------------------------
+
+        if return_code == 127:
+
+            print(
+                "\nFFmpeg is not installed."
+            )
+
+            return 127
+
+        # ----------------------------------------------------
+        # Auto restart disabled
+        # ----------------------------------------------------
+
+        if not auto_restart_enabled:
+
+            print(
+                "\n" + "=" * 70
+            )
+
+            print(
+                "FACEBOOK LIVE FAILED"
+            )
+
+            print(
+                "=" * 70
+            )
+
+            print(
+                f"FFmpeg exit code: "
+                f"{return_code}"
+            )
+
+            return return_code
+
+        # ----------------------------------------------------
+        # Check restart limit
+        # ----------------------------------------------------
+
+        if (
+            max_restarts > 0
+            and restart_number >= max_restarts
+        ):
+
+            print(
+                "\n" + "=" * 70
+            )
+
+            print(
+                "MAXIMUM RESTARTS REACHED"
+            )
+
+            print(
+                "=" * 70
+            )
+
+            print(
+                f"Last FFmpeg exit code: "
+                f"{return_code}"
+            )
+
+            return return_code
+
+        # ----------------------------------------------------
+        # Restart
+        # ----------------------------------------------------
 
         print(
-            "\nERROR: FFmpeg was not found."
+            "\n" + "=" * 70
         )
 
         print(
-            "Please make sure FFmpeg is installed."
-        )
-
-        return 1
-
-    except KeyboardInterrupt:
-
-        print(
-            "\nFFmpeg process interrupted."
-        )
-
-        return 130
-
-    except Exception as error:
-
-        print(
-            "\nERROR while running FFmpeg:"
-        )
-
-        print(
-            error
-        )
-
-        return 1
-
-    # ========================================================
-    # RESULT
-    # ========================================================
-
-    print(
-        "\n" + "=" * 70
-    )
-
-    if result.returncode == 0:
-
-        print(
-            "FACEBOOK LIVE TEST FINISHED"
+            "FFMPEG STOPPED"
         )
 
         print(
             "=" * 70
         )
 
-        return 0
+        print(
+            f"Exit code: {return_code}"
+        )
 
-    print(
-        "FACEBOOK LIVE TEST FAILED"
-    )
+        print(
+            "The stream may have disconnected."
+        )
 
-    print(
-        "=" * 70
-    )
+        print(
+            f"Restarting FFmpeg in "
+            f"{current_delay} seconds..."
+        )
 
-    print(
-        f"FFmpeg exit code: "
-        f"{result.returncode}"
-    )
+        try:
 
-    return result.returncode
+            time.sleep(
+                current_delay
+            )
+
+        except KeyboardInterrupt:
+
+            print(
+                "\nRestart cancelled by user."
+            )
+
+            return 130
+
+        restart_number += 1
+
+        # ----------------------------------------------------
+        # Exponential backoff
+        # ----------------------------------------------------
+
+        current_delay = min(
+            current_delay * 2,
+            max_restart_delay
+        )
+
+        print(
+            "\nRe-opening HLS source..."
+        )
+
+        print(
+            "Starting a fresh FFmpeg session..."
+        )
 
 
 # ============================================================
