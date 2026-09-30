@@ -22,7 +22,7 @@ def load_config():
 
 def build_audio_filter(audio_config):
     """
-    Current audio configuration is intentionally preserved.
+    Audio configuration intentionally preserved.
     """
 
     if not audio_config.get("enabled", True):
@@ -38,18 +38,10 @@ def build_audio_filter(audio_config):
         audio_config.get("volume", 1.0)
     )
 
-    # --------------------------------------------------------
-    # Volume
-    # --------------------------------------------------------
-
     if volume != 1.0:
         filters.append(
             f"volume={volume}"
         )
-
-    # --------------------------------------------------------
-    # Preset audio modes
-    # --------------------------------------------------------
 
     if mode == "clear":
 
@@ -87,10 +79,6 @@ def build_audio_filter(audio_config):
             "release=200"
         ])
 
-    # --------------------------------------------------------
-    # Additional bass
-    # --------------------------------------------------------
-
     bass = float(
         audio_config.get("bass", 0)
     )
@@ -101,10 +89,6 @@ def build_audio_filter(audio_config):
             f"bass=g={bass}:f=100"
         )
 
-    # --------------------------------------------------------
-    # Additional treble
-    # --------------------------------------------------------
-
     treble = float(
         audio_config.get("treble", 0)
     )
@@ -114,10 +98,6 @@ def build_audio_filter(audio_config):
         filters.append(
             f"treble=g={treble}:f=5000"
         )
-
-    # --------------------------------------------------------
-    # Echo
-    # --------------------------------------------------------
 
     echo = audio_config.get(
         "echo",
@@ -192,7 +172,7 @@ def build_video_filter(config):
         width = int(
             frame.get(
                 "width",
-                8
+                40
             )
         )
 
@@ -201,13 +181,26 @@ def build_video_filter(config):
             "0x8B0000"
         )
 
+        opacity = float(
+            frame.get(
+                "opacity",
+                0.35
+            )
+        )
+
+        # Semi-transparent frame.
+        #
+        # The original video remains visible beneath it.
+        #
+        # @alpha controls transparency.
+
         filters.append(
             f"drawbox="
             f"x=0:"
             f"y=0:"
             f"w=iw:"
             f"h=ih:"
-            f"color={color}:"
+            f"color={color}@{opacity}:"
             f"t={width}"
         )
 
@@ -342,7 +335,7 @@ def main():
     logo_width = int(
         overlay.get(
             "logo_width",
-            180
+            220
         )
     )
 
@@ -354,7 +347,7 @@ def main():
     logo_x = int(
         logo_position.get(
             "x",
-            1710
+            1660
         )
     )
 
@@ -382,14 +375,14 @@ def main():
     watermark_opacity = float(
         watermark.get(
             "opacity",
-            0.04
+            0.10
         )
     )
 
     watermark_width = int(
         watermark.get(
             "width",
-            220
+            500
         )
     )
 
@@ -480,9 +473,6 @@ def main():
     print("\nSource:")
     print(hls_url)
 
-    print("\nOutput:")
-    print(output_file)
-
     print("\nTarget video:")
     print(
         f"{width}x{height}"
@@ -509,12 +499,9 @@ def main():
             return 1
 
         print("Enabled")
-        print(
-            f"Path: {logo_path}"
-        )
 
         print(
-            f"Width: {logo_width}px"
+            f"Size: {logo_width}px"
         )
 
         print(
@@ -530,24 +517,22 @@ def main():
     # Watermark
     # --------------------------------------------------------
 
-    print("\nMoving Watermark:")
+    print("\nCenter Watermark:")
 
     if watermark_enabled:
 
         print("Enabled")
 
         print(
-            f"Opacity: "
-            f"{watermark_opacity}"
+            f"Size: {watermark_width}px"
         )
 
         print(
-            f"Width: "
-            f"{watermark_width}px"
+            f"Opacity: {watermark_opacity}"
         )
 
         print(
-            f"Show: "
+            f"Visible: "
             f"{watermark_show_duration}s"
         )
 
@@ -584,7 +569,7 @@ def main():
     )
 
     # ========================================================
-    # VIDEO FILTER
+    # VIDEO BASE
     # ========================================================
 
     video_filters = build_video_filter(
@@ -592,10 +577,10 @@ def main():
     )
 
     # --------------------------------------------------------
-    # Force the source video into 1920x1080.
+    # Resize to exact 1920x1080 while preserving aspect ratio.
     #
-    # The aspect ratio is preserved.
-    # Any excess area is cropped.
+    # The source video is scaled up/down and cropped only where
+    # necessary to fill the complete 1920x1080 canvas.
     # --------------------------------------------------------
 
     video_resize = (
@@ -603,10 +588,6 @@ def main():
         "force_original_aspect_ratio=increase,"
         f"crop={width}:{height}"
     )
-
-    # --------------------------------------------------------
-    # Frame
-    # --------------------------------------------------------
 
     if video_filters:
 
@@ -673,7 +654,7 @@ def main():
         current_video = "[base]"
 
     # ========================================================
-    # MOVING WATERMARK
+    # CENTER WATERMARK
     # ========================================================
 
     if watermark_enabled:
@@ -685,6 +666,13 @@ def main():
         else:
 
             watermark_input_index = 1
+
+        # ----------------------------------------------------
+        # Same logo image.
+        #
+        # Larger than the corner logo.
+        # Very transparent.
+        # ----------------------------------------------------
 
         watermark_chain = (
             f"[{watermark_input_index}:v]"
@@ -704,9 +692,7 @@ def main():
         )
 
         # ----------------------------------------------------
-        # Center of the screen.
-        #
-        # Small movement around the center.
+        # Center position with gentle movement.
         # ----------------------------------------------------
 
         watermark_x = (
@@ -788,7 +774,7 @@ def main():
         "5",
 
         # ----------------------------------------------------
-        # Source
+        # HLS source
         # ----------------------------------------------------
 
         "-i",
@@ -835,33 +821,21 @@ def main():
 
     command.extend([
 
-        # ----------------------------------------------------
         # Test duration
-        # ----------------------------------------------------
-
         "-t",
         "30",
 
-        # ----------------------------------------------------
-        # Filters
-        # ----------------------------------------------------
-
+        # Filter graph
         "-filter_complex",
         filter_complex,
 
-        # ----------------------------------------------------
-        # Maps
-        # ----------------------------------------------------
-
+        # Video
         "-map",
         "[vout]",
 
+        # Audio
         "-map",
         "[aout]",
-
-        # ----------------------------------------------------
-        # Video
-        # ----------------------------------------------------
 
         "-c:v",
         "libx264",
@@ -892,10 +866,7 @@ def main():
             fps * 2
         ),
 
-        # ----------------------------------------------------
         # Audio
-        # ----------------------------------------------------
-
         "-c:a",
         "aac",
 
@@ -905,10 +876,7 @@ def main():
         "-ar",
         "48000",
 
-        # ----------------------------------------------------
         # MP4
-        # ----------------------------------------------------
-
         "-movflags",
         "+faststart",
 
@@ -928,34 +896,24 @@ def main():
     )
 
     print(
-        "\nVideo processing:"
+        f"Output: {width}x{height}"
     )
 
     print(
-        f"Source -> {width}x{height}"
+        "Main logo: 220px"
     )
 
     print(
-        "Aspect ratio preserved + crop"
+        "Center watermark: 500px / 10% opacity"
     )
 
     print(
-        "\nMain logo:"
+        "Frame: semi-transparent 40px"
     )
 
     print(
-        "Small fixed logo in top-right"
+        "\nAudio settings: UNCHANGED"
     )
-
-    if watermark_enabled:
-
-        print(
-            "\nWatermark:"
-        )
-
-        print(
-            "Centered + very transparent + gentle movement"
-        )
 
     result = subprocess.run(
         command
@@ -987,7 +945,7 @@ def main():
         return result.returncode
 
     # ========================================================
-    # VERIFY OUTPUT
+    # VERIFY
     # ========================================================
 
     if not output_file.exists():
