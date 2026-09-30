@@ -7,6 +7,10 @@ BASE_DIR = Path(__file__).resolve().parent
 CONFIG_FILE = BASE_DIR / "config.json"
 
 
+# ============================================================
+# CONFIG
+# ============================================================
+
 def load_config():
     with CONFIG_FILE.open("r", encoding="utf-8") as file:
         return json.load(file)
@@ -20,16 +24,8 @@ def build_audio_filter(audio_config):
     """
     Build FFmpeg audio filter chain.
 
-    Supports:
-    - volume
-    - bass
-    - treble
-    - clear
-    - voice
-    - echo
-
-    The aecho filter uses named parameters because
-    this is the correct FFmpeg syntax.
+    IMPORTANT:
+    The current audio settings are preserved exactly.
     """
 
     if not audio_config.get("enabled", True):
@@ -155,7 +151,6 @@ def build_audio_filter(audio_config):
             )
         )
 
-        # Correct FFmpeg aecho syntax.
         filters.append(
             "aecho="
             f"in_gain={in_gain}:"
@@ -172,7 +167,7 @@ def build_audio_filter(audio_config):
 
 
 # ============================================================
-# VIDEO FILTER
+# VIDEO FRAME
 # ============================================================
 
 def build_video_filter(config):
@@ -331,7 +326,7 @@ def main():
     )
 
     # --------------------------------------------------------
-    # Logo
+    # Main logo
     # --------------------------------------------------------
 
     logo_enabled = overlay.get(
@@ -350,7 +345,7 @@ def main():
     logo_width = int(
         overlay.get(
             "logo_width",
-            260
+            0
         )
     )
 
@@ -370,6 +365,69 @@ def main():
         position.get(
             "y",
             35
+        )
+    )
+
+    # --------------------------------------------------------
+    # Watermark
+    # --------------------------------------------------------
+
+    watermark = overlay.get(
+        "watermark",
+        {}
+    )
+
+    watermark_enabled = watermark.get(
+        "enabled",
+        False
+    )
+
+    watermark_opacity = float(
+        watermark.get(
+            "opacity",
+            0.15
+        )
+    )
+
+    watermark_width = int(
+        watermark.get(
+            "width",
+            320
+        )
+    )
+
+    watermark_show_duration = float(
+        watermark.get(
+            "show_duration",
+            8
+        )
+    )
+
+    watermark_interval = float(
+        watermark.get(
+            "interval",
+            35
+        )
+    )
+
+    watermark_move_x = float(
+        watermark.get(
+            "move_distance_x",
+            300
+        )
+    )
+
+    watermark_move_y = float(
+        watermark.get(
+            "move_distance_y",
+            150
+        )
+    )
+
+    watermark_speed = float(
+        watermark.get(
+            "move_speed",
+            0.03
         )
     )
 
@@ -419,7 +477,7 @@ def main():
     )
 
     # --------------------------------------------------------
-    # Print test information
+    # Print information
     # --------------------------------------------------------
 
     print("\nSource:")
@@ -433,7 +491,11 @@ def main():
         f"{width}x{height}"
     )
 
-    print("\nLogo:")
+    # --------------------------------------------------------
+    # Logo information
+    # --------------------------------------------------------
+
+    print("\nMain Logo:")
 
     if logo_enabled:
 
@@ -455,9 +517,17 @@ def main():
             f"Path: {logo_path}"
         )
 
-        print(
-            f"Width: {logo_width}"
-        )
+        if logo_width <= 0:
+
+            print(
+                "Size: Original image size"
+            )
+
+        else:
+
+            print(
+                f"Width: {logo_width}"
+            )
 
         print(
             f"Position: "
@@ -469,7 +539,47 @@ def main():
         print("Disabled")
 
     # --------------------------------------------------------
-    # Build audio filter
+    # Watermark information
+    # --------------------------------------------------------
+
+    print("\nMoving Watermark:")
+
+    if watermark_enabled:
+
+        print("Enabled")
+
+        print(
+            f"Opacity: "
+            f"{watermark_opacity}"
+        )
+
+        print(
+            f"Width: "
+            f"{watermark_width}"
+        )
+
+        print(
+            f"Visible duration: "
+            f"{watermark_show_duration}s"
+        )
+
+        print(
+            f"Interval: "
+            f"{watermark_interval}s"
+        )
+
+        print(
+            f"Movement: "
+            f"{watermark_move_x}x"
+            f"{watermark_move_y}"
+        )
+
+    else:
+
+        print("Disabled")
+
+    # --------------------------------------------------------
+    # Audio
     # --------------------------------------------------------
 
     audio_filter = build_audio_filter(
@@ -492,14 +602,12 @@ def main():
     )
 
     # --------------------------------------------------------
-    # Build video filter
+    # Base video filter
     # --------------------------------------------------------
 
     video_filters = build_video_filter(
         config
     )
-
-    video_base = "[0:v]"
 
     if video_filters:
 
@@ -522,36 +630,152 @@ def main():
         )
 
     # --------------------------------------------------------
-    # Build complete filter_complex
+    # Build video / logo filter
     # --------------------------------------------------------
 
     if logo_enabled:
 
-        logo_chain = (
-            f"[1:v]"
-            f"scale={logo_width}:-1"
-            f"[logo]"
-        )
+        # ----------------------------------------------------
+        # Main logo
+        # ----------------------------------------------------
 
-        overlay_chain = (
-            f"[base][logo]"
+        if logo_width <= 0:
+
+            logo_chain = (
+                "[1:v]"
+                "format=rgba"
+                "[logo]"
+            )
+
+        else:
+
+            logo_chain = (
+                "[1:v]"
+                f"scale={logo_width}:-1"
+                ",format=rgba"
+                "[logo]"
+            )
+
+        main_overlay = (
+            "[base][logo]"
             f"overlay={logo_x}:{logo_y}"
-            f"[vout]"
+            "[v1]"
         )
 
-        filter_complex = (
-            f"{video_base};"
-            f"{logo_chain};"
-            f"{overlay_chain};"
-            f"[0:a]{audio_filter}[aout]"
-        )
+        # ----------------------------------------------------
+        # Moving watermark
+        # ----------------------------------------------------
+
+        if watermark_enabled:
+
+            watermark_chain = (
+                "[2:v]"
+                f"scale={watermark_width}:-1,"
+                "format=rgba,"
+                f"colorchannelmixer=aa={watermark_opacity}"
+                "[wm]"
+            )
+
+            # The watermark appears periodically.
+            #
+            # Example with current settings:
+            #
+            # 0 - 8 sec     visible
+            # 8 - 35 sec    hidden
+            # 35 - 43 sec   visible
+            # 43 - 70 sec   hidden
+            #
+            # While visible, it moves gently.
+
+            watermark_cycle = (
+                watermark_show_duration +
+                watermark_interval
+            )
+
+            moving_overlay = (
+                "[v1][wm]"
+                "overlay="
+                f"x='(W-w)/2+"
+                f"sin(t*{watermark_speed})*"
+                f"{watermark_move_x}':"
+                f"y='(H-h)/2+"
+                f"cos(t*{watermark_speed})*"
+                f"{watermark_move_y}':"
+                f"enable='lt("
+                f"mod(t,{watermark_cycle}),"
+                f"{watermark_show_duration}"
+                f")'"
+                "[vout]"
+            )
+
+            filter_complex = (
+                f"{video_base};"
+                f"{logo_chain};"
+                f"{main_overlay};"
+                f"{watermark_chain};"
+                f"{moving_overlay};"
+                f"[0:a]{audio_filter}[aout]"
+            )
+
+        else:
+
+            filter_complex = (
+                f"{video_base};"
+                f"{logo_chain};"
+                f"{main_overlay};"
+                f"[0:a]{audio_filter}[aout]"
+            )
 
     else:
 
-        filter_complex = (
-            f"{video_base}[vout];"
-            f"[0:a]{audio_filter}[aout]"
-        )
+        # ----------------------------------------------------
+        # No main logo
+        # ----------------------------------------------------
+
+        if watermark_enabled:
+
+            watermark_chain = (
+                "[1:v]"
+                f"scale={watermark_width}:-1,"
+                "format=rgba,"
+                f"colorchannelmixer=aa={watermark_opacity}"
+                "[wm]"
+            )
+
+            watermark_cycle = (
+                watermark_show_duration +
+                watermark_interval
+            )
+
+            moving_overlay = (
+                "[base][wm]"
+                "overlay="
+                f"x='(W-w)/2+"
+                f"sin(t*{watermark_speed})*"
+                f"{watermark_move_x}':"
+                f"y='(H-h)/2+"
+                f"cos(t*{watermark_speed})*"
+                f"{watermark_move_y}':"
+                f"enable='lt("
+                f"mod(t,{watermark_cycle}),"
+                f"{watermark_show_duration}"
+                f")'"
+                "[vout]"
+            )
+
+            filter_complex = (
+                f"{video_base};"
+                f"{watermark_chain};"
+                f"{moving_overlay};"
+                f"[0:a]{audio_filter}[aout]"
+            )
+
+        else:
+
+            filter_complex = (
+                f"{video_base}[vout];"
+                f"[0:a]{audio_filter}[aout]"
+            )
 
     # --------------------------------------------------------
     # FFmpeg command
@@ -559,6 +783,7 @@ def main():
 
     command = [
         "ffmpeg",
+
         "-hide_banner",
 
         # HLS reconnect
@@ -574,13 +799,13 @@ def main():
         "-reconnect_delay_max",
         "5",
 
-        # Input
+        # HLS input
         "-i",
         hls_url
     ]
 
     # --------------------------------------------------------
-    # Logo input
+    # Logo inputs
     # --------------------------------------------------------
 
     if logo_enabled:
@@ -593,6 +818,28 @@ def main():
             str(logo_path)
         ])
 
+        if watermark_enabled:
+
+            command.extend([
+                "-loop",
+                "1",
+
+                "-i",
+                str(logo_path)
+            ])
+
+    else:
+
+        if watermark_enabled:
+
+            command.extend([
+                "-loop",
+                "1",
+
+                "-i",
+                str(logo_path)
+            ])
+
     # --------------------------------------------------------
     # Encoding
     # --------------------------------------------------------
@@ -603,18 +850,19 @@ def main():
         "-t",
         "30",
 
-        # Filters
+        # Filter graph
         "-filter_complex",
         filter_complex,
 
-        # Video
+        # Video map
         "-map",
         "[vout]",
 
-        # Audio
+        # Audio map
         "-map",
         "[aout]",
 
+        # Video encoder
         "-c:v",
         "libx264",
 
@@ -644,7 +892,7 @@ def main():
             fps * 2
         ),
 
-        # Audio encoding
+        # Audio encoder
         "-c:a",
         "aac",
 
@@ -658,13 +906,14 @@ def main():
         "-movflags",
         "+faststart",
 
+        # Replace existing test
         "-y",
 
         str(output_file)
     ])
 
     # --------------------------------------------------------
-    # Start FFmpeg
+    # Print command information
     # --------------------------------------------------------
 
     print("\nStarting FFmpeg...")
@@ -672,6 +921,22 @@ def main():
     print(
         "Test duration: 30 seconds"
     )
+
+    print(
+        "\nMain logo:"
+        " fixed position"
+    )
+
+    if watermark_enabled:
+
+        print(
+            "Moving watermark:"
+            " enabled"
+        )
+
+    # --------------------------------------------------------
+    # Start FFmpeg
+    # --------------------------------------------------------
 
     result = subprocess.run(
         command
@@ -731,6 +996,10 @@ def main():
         (1024 * 1024)
     )
 
+    # --------------------------------------------------------
+    # Success
+    # --------------------------------------------------------
+
     print(
         "FFMPEG GRAPHICS TEST SUCCESSFUL"
     )
@@ -753,7 +1022,12 @@ def main():
     return 0
 
 
+# ============================================================
+# ENTRY POINT
+# ============================================================
+
 if __name__ == "__main__":
+
     raise SystemExit(
         main()
     )
