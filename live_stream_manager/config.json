@@ -64,23 +64,24 @@
 
       "logo": "assets/logo.png",
 
-      "logo_width": 180,
+      "logo_width": 220,
 
       "logo_position": {
-        "x": 1710,
+        "x": 1660,
         "y": 35
       },
 
       "frame": {
         "enabled": true,
-        "width": 18,
-        "color": "0x8B0000"
+        "width": 40,
+        "color": "0x8B0000",
+        "opacity": 0.35
       },
 
       "watermark": {
         "enabled": true,
-        "opacity": 0.04,
-        "width": 220,
+        "opacity": 0.10,
+        "width": 500,
         "show_duration": 8,
         "interval": 45,
         "move_distance_x": 100,
