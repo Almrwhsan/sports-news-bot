@@ -64,10 +64,10 @@
 
       "logo": "assets/logo.png",
 
-      "logo_width": 0,
+      "logo_width": 180,
 
       "logo_position": {
-        "x": 1635,
+        "x": 1710,
         "y": 35
       },
 
@@ -79,13 +79,13 @@
 
       "watermark": {
         "enabled": true,
-        "opacity": 0.15,
-        "width": 320,
+        "opacity": 0.04,
+        "width": 220,
         "show_duration": 8,
-        "interval": 35,
-        "move_distance_x": 300,
-        "move_distance_y": 150,
-        "move_speed": 0.03
+        "interval": 45,
+        "move_distance_x": 100,
+        "move_distance_y": 50,
+        "move_speed": 0.015
       },
 
       "live_badge": {
