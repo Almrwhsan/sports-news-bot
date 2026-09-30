@@ -64,7 +64,7 @@
 
       "logo": "assets/logo.png",
 
-      "logo_width": 260,
+      "logo_width": 0,
 
       "logo_position": {
         "x": 1635,
@@ -75,6 +75,17 @@
         "enabled": true,
         "width": 18,
         "color": "0x8B0000"
+      },
+
+      "watermark": {
+        "enabled": true,
+        "opacity": 0.15,
+        "width": 320,
+        "show_duration": 8,
+        "interval": 35,
+        "move_distance_x": 300,
+        "move_distance_y": 150,
+        "move_speed": 0.03
       },
 
       "live_badge": {
