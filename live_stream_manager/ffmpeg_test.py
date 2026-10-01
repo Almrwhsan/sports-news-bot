@@ -79,6 +79,10 @@ def build_audio_filter(audio_config):
             "release=200"
         ])
 
+    # --------------------------------------------------------
+    # Bass
+    # --------------------------------------------------------
+
     bass = float(
         audio_config.get("bass", 0)
     )
@@ -89,6 +93,10 @@ def build_audio_filter(audio_config):
             f"bass=g={bass}:f=100"
         )
 
+    # --------------------------------------------------------
+    # Treble
+    # --------------------------------------------------------
+
     treble = float(
         audio_config.get("treble", 0)
     )
@@ -98,6 +106,10 @@ def build_audio_filter(audio_config):
         filters.append(
             f"treble=g={treble}:f=5000"
         )
+
+    # --------------------------------------------------------
+    # Echo
+    # --------------------------------------------------------
 
     echo = audio_config.get(
         "echo",
@@ -188,11 +200,10 @@ def build_video_filter(config):
             )
         )
 
+        # ----------------------------------------------------
         # Semi-transparent frame.
-        #
         # The original video remains visible beneath it.
-        #
-        # @alpha controls transparency.
+        # ----------------------------------------------------
 
         filters.append(
             f"drawbox="
@@ -217,9 +228,9 @@ def main():
     print("FFMPEG GRAPHICS + AUDIO TEST")
     print("=" * 70)
 
-    # --------------------------------------------------------
-    # Load config
-    # --------------------------------------------------------
+    # ========================================================
+    # LOAD CONFIG
+    # ========================================================
 
     try:
 
@@ -233,9 +244,9 @@ def main():
 
         return 1
 
-    # --------------------------------------------------------
-    # Streams
-    # --------------------------------------------------------
+    # ========================================================
+    # STREAMS
+    # ========================================================
 
     streams = config.get(
         "streams",
@@ -282,9 +293,9 @@ def main():
 
         return 1
 
-    # --------------------------------------------------------
-    # Configuration
-    # --------------------------------------------------------
+    # ========================================================
+    # CONFIGURATION
+    # ========================================================
 
     ffmpeg_config = config.get(
         "ffmpeg",
@@ -306,9 +317,9 @@ def main():
         {}
     )
 
-    # --------------------------------------------------------
-    # Output
-    # --------------------------------------------------------
+    # ========================================================
+    # OUTPUT
+    # ========================================================
 
     output_file = (
         BASE_DIR /
@@ -383,20 +394,6 @@ def main():
         watermark.get(
             "width",
             500
-        )
-    )
-
-    watermark_show_duration = float(
-        watermark.get(
-            "show_duration",
-            8
-        )
-    )
-
-    watermark_interval = float(
-        watermark.get(
-            "interval",
-            45
         )
     )
 
@@ -478,9 +475,9 @@ def main():
         f"{width}x{height}"
     )
 
-    # --------------------------------------------------------
-    # Logo
-    # --------------------------------------------------------
+    # ========================================================
+    # MAIN LOGO INFO
+    # ========================================================
 
     print("\nMain Logo:")
 
@@ -513,9 +510,9 @@ def main():
 
         print("Disabled")
 
-    # --------------------------------------------------------
-    # Watermark
-    # --------------------------------------------------------
+    # ========================================================
+    # WATERMARK INFO
+    # ========================================================
 
     print("\nCenter Watermark:")
 
@@ -532,13 +529,11 @@ def main():
         )
 
         print(
-            f"Visible: "
-            f"{watermark_show_duration}s"
+            "Visibility: ALWAYS"
         )
 
         print(
-            f"Interval: "
-            f"{watermark_interval}s"
+            "Movement: CONTINUOUS"
         )
 
     else:
@@ -577,10 +572,10 @@ def main():
     )
 
     # --------------------------------------------------------
-    # Resize to exact 1920x1080 while preserving aspect ratio.
+    # Resize to exact 1920x1080.
     #
-    # The source video is scaled up/down and cropped only where
-    # necessary to fill the complete 1920x1080 canvas.
+    # The source is scaled while preserving aspect ratio.
+    # Crop is applied only when necessary.
     # --------------------------------------------------------
 
     video_resize = (
@@ -672,6 +667,7 @@ def main():
         #
         # Larger than the corner logo.
         # Very transparent.
+        # ALWAYS VISIBLE.
         # ----------------------------------------------------
 
         watermark_chain = (
@@ -686,13 +682,11 @@ def main():
             watermark_chain
         )
 
-        watermark_cycle = (
-            watermark_show_duration +
-            watermark_interval
-        )
-
         # ----------------------------------------------------
-        # Center position with gentle movement.
+        # Center position with gentle continuous movement.
+        #
+        # No enable expression.
+        # Therefore the watermark never disappears.
         # ----------------------------------------------------
 
         watermark_x = (
@@ -707,19 +701,11 @@ def main():
             f"{watermark_move_y}"
         )
 
-        watermark_enable = (
-            f"lt("
-            f"mod(t,{watermark_cycle}),"
-            f"{watermark_show_duration}"
-            f")"
-        )
-
         moving_overlay = (
             f"{current_video}[wm]"
             "overlay="
             f"x='{watermark_x}':"
-            f"y='{watermark_y}':"
-            f"enable='{watermark_enable}'"
+            f"y='{watermark_y}'"
             "[vout]"
         )
 
@@ -821,21 +807,37 @@ def main():
 
     command.extend([
 
+        # ----------------------------------------------------
         # Test duration
+        # ----------------------------------------------------
+
         "-t",
         "30",
 
+        # ----------------------------------------------------
         # Filter graph
+        # ----------------------------------------------------
+
         "-filter_complex",
         filter_complex,
 
-        # Video
+        # ----------------------------------------------------
+        # Video map
+        # ----------------------------------------------------
+
         "-map",
         "[vout]",
 
-        # Audio
+        # ----------------------------------------------------
+        # Audio map
+        # ----------------------------------------------------
+
         "-map",
         "[aout]",
+
+        # ----------------------------------------------------
+        # Video encoding
+        # ----------------------------------------------------
 
         "-c:v",
         "libx264",
@@ -866,7 +868,10 @@ def main():
             fps * 2
         ),
 
-        # Audio
+        # ----------------------------------------------------
+        # Audio encoding
+        # ----------------------------------------------------
+
         "-c:a",
         "aac",
 
@@ -876,7 +881,10 @@ def main():
         "-ar",
         "48000",
 
+        # ----------------------------------------------------
         # MP4
+        # ----------------------------------------------------
+
         "-movflags",
         "+faststart",
 
@@ -900,11 +908,13 @@ def main():
     )
 
     print(
-        "Main logo: 220px"
+        f"Main logo: {logo_width}px"
     )
 
     print(
-        "Center watermark: 500px / 10% opacity"
+        f"Center watermark: "
+        f"{watermark_width}px / "
+        f"{watermark_opacity * 100:.0f}% opacity / ALWAYS"
     )
 
     print(
