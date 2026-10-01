@@ -1,5 +1,39 @@
 [
   {
+    "title": "¿Debe la UEFA sancionar al Barcelona por el ‘caso Negreira’? ¡Vota!",
+    "url": "https://as.com/futbol/internacional/debe-la-uefa-sancionar-al-barcelona-por-el-caso-negreira-vota-f202610-n/",
+    "summary": "La UEFA reactiva el expediente al Barcelona tras la denuncia del Real Madrid.",
+    "published": "Thu, 01 Oct 2026 14:25:55 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RS4M6J3WJBGLRNZ52YR5SN5ZPM.jpg?auth=dcb33df98fa1f63e31349a53a0dd5659a36244a862e5e54cc22214d8dc458b73",
+    "media_type": "image/jpeg",
+    "arabic_title": "هل يجب على اليويفا معاقبة برشلونة بسبب قضية نيجريرا؟ تصويت!",
+    "arabic_summary": "اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد.",
+    "translation_status": "translated",
+    "post_title": "هل يجب على اليويفا معاقبة برشلونة بسبب قضية نيجريرا؟ تصويت!",
+    "post_text": "🚨 هل يجب على اليويفا معاقبة برشلونة بسبب قضية نيجريرا؟ تصويت!\n\n📝 اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065951216070189",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_يجب_على_اليويفا_معاقبة_برشلونة_بسبب_قضية_نيجريرا؟_تصويت!.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/debe-la-uefa-sancionar-al-barcelona-por-el-caso-negreira-vota-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOR86GN9jjtZj_8VPjpUEIX"
+    }
+  },
+  {
     "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
     "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
     "summary": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdtaxH2mZqSKB-ERt0YAuLD"
-    }
-  },
-  {
-    "title": "'That’s being generous!' – England player ratings vs Spain",
-    "url": "https://www.skysports.com/watch/video/13592314/englands-player-ratings-vs-spain-thats-being-generous",
-    "summary": "Sky Sports' Rob Dorsett and Peter Smith rate the England players' performances in their Nations League game against Spain.",
-    "published": "Sat, 26 Sep 2026 23:54:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-football-england_7362227.jpg?20260926235603",
-    "media_type": "image/jpg",
-    "arabic_title": "\"هذا كرم!\" – تقييمات لاعب إنجلترا ضد إسبانيا",
-    "arabic_summary": "قام روب دورسيت وبيتر سميث من سكاي سبورتس بتقييم أداء لاعبي إنجلترا في مباراة دوري الأمم الأوروبية ضد إسبانيا.",
-    "translation_status": "translated",
-    "post_title": "\"هذا كرم!\" – تقييمات لاعب إنجلترا ضد إسبانيا",
-    "post_text": "🚨 \"هذا كرم!\" – تقييمات لاعب إنجلترا ضد إسبانيا\n\n📝 قام روب دورسيت وبيتر سميث من سكاي سبورتس بتقييم أداء لاعبي إنجلترا في مباراة دوري الأمم الأوروبية ضد إسبانيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062062306459080",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذا_كرم!_–_تقييمات_لاعب_إنجلترا_ضد_إسبانيا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13592314/englands-player-ratings-vs-spain-thats-being-generous",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApaJ6bnrIWEEmhUKHK3_pHt"
     }
   }
 ]
