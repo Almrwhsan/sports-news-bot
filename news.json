@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Fred is the guy to lead us' | Hamilton backs Vasseur despite 'negative' outside sources",
+    "url": "https://www.skysports.com/watch/video/13593900/bahrain-gp-in-malaysia-lewis-hamilton-shares-confidence-in-vasseur-despite-negative-outside-sources",
+    "summary": "Ahead of the Bahrain Grand Prix in Malaysia, Lewis Hamilton shares his confidence in Fred Vasseur despite 'negative' outside sources.",
+    "published": "Thu, 01 Oct 2026 09:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-lewis-h-f1-ferrari_7365513.jpg?20261001091851",
+    "media_type": "image/jpg",
+    "arabic_title": "\"فريد هو الرجل الذي يقودنا\" | هاميلتون يدعم فاسور رغم المصادر الخارجية \"السلبية\".",
+    "arabic_summary": "قبل سباق جائزة البحرين الكبرى في ماليزيا، يشارك لويس هاميلتون ثقته في فريد فاسور على الرغم من المصادر الخارجية \"السلبية\".",
+    "translation_status": "translated",
+    "post_title": "\"فريد هو الرجل الذي يقودنا\" | هاميلتون يدعم فاسور رغم المصادر الخارجية \"السلبية\".",
+    "post_text": "🚨 \"فريد هو الرجل الذي يقودنا\" | هاميلتون يدعم فاسور رغم المصادر الخارجية \"السلبية\".\n\n📝 قبل سباق جائزة البحرين الكبرى في ماليزيا، يشارك لويس هاميلتون ثقته في فريد فاسور على الرغم من المصادر الخارجية \"السلبية\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065839089414735",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فريد_هو_الرجل_الذي_يقودنا_هاميلتون_يدعم_فاسور_رغم_المصادر_الخارجية_السلبية..png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13593900/bahrain-gp-in-malaysia-lewis-hamilton-shares-confidence-in-vasseur-despite-negative-outside-sources",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9GNvUJYwg9qf_TH6cxV1uV"
+    }
+  },
+  {
     "title": "Baena, el “salvado” es salvador",
     "url": "https://as.com/futbol/seleccion/baena-el-salvado-es-salvador-f202609-n/",
     "summary": "Fue el artífice de la remontada en Wembley con gol y asistencia. La Selección le hizo resurgir y sigue en ‘modo Mundial’. Con el Atleti, también lanzado.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AgRZhng2n4nMU6lLCCzzo_a"
-    }
-  },
-  {
-    "title": "Javi Calleja desvela que el Eldense cuenta ya... con un nuevo presidente",
-    "url": "https://www.marca.com/futbol/cd-eldense/2026/09/25/calleja-desvela-eldense-cuenta-nuevo-presidente.html",
-    "summary": "El entrenador del club propiedad de Messi lo ha confirmado antes de visitar al Burgos",
-    "published": "Fri, 25 Sep 2026 17:44:03 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/25/6ab69578b6992.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يكشف Javi Calleja أن لدى Eldense الآن... رئيسًا جديدًا",
-    "arabic_summary": "وأكد ذلك مدرب النادي الذي يملكه ميسي قبل زيارة بورغوس",
-    "translation_status": "translated",
-    "post_title": "يكشف Javi Calleja أن لدى Eldense الآن... رئيسًا جديدًا",
-    "post_text": "🚨 يكشف Javi Calleja أن لدى Eldense الآن... رئيسًا جديدًا\n\n📝 وأكد ذلك مدرب النادي الذي يملكه ميسي قبل زيارة بورغوس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062056753126302",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يكشف_Javi_Calleja_أن_لدى_Eldense_الآن..._رئيسًا_جديدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/cd-eldense/2026/09/25/calleja-desvela-eldense-cuenta-nuevo-presidente.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuKXp0d35u3wwWQQPHNURyp"
     }
   }
 ]
