@@ -1,5 +1,39 @@
 [
   {
+    "title": "Raphinha ya está en Barcelona y pasará pruebas mañana",
+    "url": "https://as.com/futbol/raphinha-ya-esta-en-barcelona-y-pasara-pruebas-manana-f202610-n/",
+    "summary": "Si se confirma que se trata sólo de un edema en el muslo derecho, su presencia de cara al primer partido, tras el parón de selecciones, no peligra.",
+    "published": "Thu, 01 Oct 2026 13:51:44 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DBLO5LW7XNNMTAE3ANOJ52QFOU.jpg?auth=9fb36164afbae56df3053f7b90adf255bd2c784917b0faf85477df438530f6b8",
+    "media_type": "image/jpeg",
+    "arabic_title": "رافينيا موجود بالفعل في برشلونة وسيخضع للاختبارات غدًا",
+    "arabic_summary": "وإذا تأكد أن الأمر مجرد وذمة في الفخذ الأيمن، فإن تواجده في المباراة الأولى، بعد عطلة المنتخب الوطني، ليس في خطر.",
+    "translation_status": "translated",
+    "post_title": "رافينيا موجود بالفعل في برشلونة وسيخضع للاختبارات غدًا",
+    "post_text": "🚨 رافينيا موجود بالفعل في برشلونة وسيخضع للاختبارات غدًا\n\n📝 وإذا تأكد أن الأمر مجرد وذمة في الفخذ الأيمن، فإن تواجده في المباراة الأولى، بعد عطلة المنتخب الوطني، ليس في خطر.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065922099406434",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رافينيا_موجود_بالفعل_في_برشلونة_وسيخضع_للاختبارات_غدًا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/raphinha-ya-esta-en-barcelona-y-pasara-pruebas-manana-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArFjJfsf6tP6EZptXjyX74c"
+    }
+  },
+  {
     "title": "Cuestionado Wirtz",
     "url": "https://as.com/futbol/internacional/cuestionado-wirtz-f202610-n/",
     "summary": "El crack alemán quiere reivindicarse en la nueva Mannschaft de Klopp tras las críticas recibidas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AtJGtzLSBQObyj2dpviV7fP"
-    }
-  },
-  {
-    "title": "Saviola recuerda lo que dijo al llegar a casa tras ver a Messi por primera vez: “Estamos en manos de un niño”",
-    "url": "https://as.com/futbol/internacional/saviola-recuerda-lo-que-dijo-al-llegar-a-casa-tras-ver-a-messi-por-primera-vez-estamos-en-manos-de-un-nino-f202609-n/",
-    "summary": "El argentino hizo un repaso de su carrera. Desde su llegada al Barça a la vez que Zidane al Madrid, Messi, Ronaldinho...",
-    "published": "Fri, 25 Sep 2026 07:18:33 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4GUYPM3SWVE2BLW7H5JDNIDMKY.jpg?auth=38451bd54884495c5ff290e26c926b662b29be29d489f2205d470b053e7ec5d3",
-    "media_type": "image/jpeg",
-    "arabic_title": "ويتذكر سافيولا ما قاله عند وصوله إلى المنزل بعد رؤية ميسي للمرة الأولى: \"نحن في يد طفل\"",
-    "arabic_summary": "استعرض الأرجنتيني مسيرته. منذ وصوله إلى برشلونة في نفس الوقت الذي وصل فيه زيدان إلى مدريد، ميسي ورونالدينيو...",
-    "translation_status": "translated",
-    "post_title": "ويتذكر سافيولا ما قاله عند وصوله إلى المنزل بعد رؤية ميسي للمرة الأولى: \"نحن في يد طفل\"",
-    "post_text": "🚨 ويتذكر سافيولا ما قاله عند وصوله إلى المنزل بعد رؤية ميسي للمرة الأولى: \"نحن في يد طفل\"\n\n📝 استعرض الأرجنتيني مسيرته. منذ وصوله إلى برشلونة في نفس الوقت الذي وصل فيه زيدان إلى مدريد، ميسي ورونالدينيو...\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062055449793099",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويتذكر_سافيولا_ما_قاله_عند_وصوله_إلى_المنزل_بعد_رؤية_ميسي_للمرة_الأولى_نحن_في_يد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/saviola-recuerda-lo-que-dijo-al-llegar-a-casa-tras-ver-a-messi-por-primera-vez-estamos-en-manos-de-un-nino-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATydEFu47ZF6IR44OXHezcO"
     }
   }
 ]
