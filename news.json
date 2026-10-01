@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los orígenes de Rodri: cuando era \"pequeñito\" para el fútbol pero \"pensaba todo antes que los demás\"",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/01/origenes-rodri-pequenito-futbol-pensaba-video.html",
+    "summary": "",
+    "published": "Thu, 01 Oct 2026 07:40:13 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/fDuac1glV82BIAGpf.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أصول رودري: عندما كان \"صغيرًا\" بالنسبة لكرة القدم لكنه \"كان يفكر في كل شيء قبل الآخرين\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "أصول رودري: عندما كان \"صغيرًا\" بالنسبة لكرة القدم لكنه \"كان يفكر في كل شيء قبل الآخرين\"",
+    "post_text": "🚨 أصول رودري: عندما كان \"صغيرًا\" بالنسبة لكرة القدم لكنه \"كان يفكر في كل شيء قبل الآخرين\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065963412735636",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أصول_رودري_عندما_كان_صغيرًا_بالنسبة_لكرة_القدم_لكنه_كان_يفكر_في_كل_شيء_قبل_الآخر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/01/origenes-rodri-pequenito-futbol-pensaba-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AaNjxOH_kLYkaRbAuWM2SMg"
+    }
+  },
+  {
     "title": "Caro: “Si nos tienen que pitar, que sea al final del partido”",
     "url": "https://as.com/futbol/segunda/caro-si-nos-tienen-que-pitar-que-sea-al-final-del-partido-f202610-n/",
     "summary": "El portero de Las Palmas recuerda que “el año pasado, a estas alturas, solo había un punto más”. E insiste: “Los errores te hacen mejor persona y jugador”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8HCzuBMFePCEi4n7wIjlAe"
-    }
-  },
-  {
-    "title": "Keane disagrees with Gordon: 'There is a gap between Spain and England'",
-    "url": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
-    "summary": "Roy Keane disagreed with Anthony Gordon's assessment that England are at the same level as Spain after the World Cup winners came from behind to beat Thomas Tuchel's side 3-2 in their Nations League opener.",
-    "published": "Sat, 26 Sep 2026 22:50:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-anthony-gordon-fabian-ruiz_7362295.jpg?20260927081943",
-    "media_type": "image/jpg",
-    "arabic_title": "كين يختلف مع جوردون: هناك فجوة بين إسبانيا وإنجلترا",
-    "arabic_summary": "اختلف روي كين مع تقييم أنتوني جوردون بأن إنجلترا على نفس مستوى إسبانيا بعد أن عوض الفائز بكأس العالم تأخره ليهزم فريق المدرب توماس توخيل 3-2 في المباراة الافتتاحية لدوري الأمم الأوروبية.",
-    "translation_status": "translated",
-    "post_title": "كين يختلف مع جوردون: هناك فجوة بين إسبانيا وإنجلترا",
-    "post_text": "🚨 كين يختلف مع جوردون: هناك فجوة بين إسبانيا وإنجلترا\n\n📝 اختلف روي كين مع تقييم أنتوني جوردون بأن إنجلترا على نفس مستوى إسبانيا بعد أن عوض الفائز بكأس العالم تأخره ليهزم فريق المدرب توماس توخيل 3-2 في المباراة الافتتاحية لدوري الأمم الأوروبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062061969792447",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كين_يختلف_مع_جوردون_هناك_فجوة_بين_إسبانيا_وإنجلترا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "At_kNkGa9FFb4Dv68eEaO73"
     }
   }
 ]
