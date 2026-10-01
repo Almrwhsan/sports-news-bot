@@ -109,13 +109,13 @@
     "audio": {
       "enabled": true,
 
-      "mode": "voice",
+      "mode": "young",
 
-      "volume": 1.0,
+      "volume": 1.1,
 
-      "bass": -2,
+      "bass": -8,
 
-      "treble": 8,
+      "treble": 12,
 
       "echo": {
         "enabled": false,
