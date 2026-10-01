@@ -199,7 +199,7 @@ def build_video_filter(config):
 
     - Scaling
     - Padding
-    - Frame
+    - Semi-transparent frame
     - LIVE badge
     """
 
@@ -258,7 +258,7 @@ def build_video_filter(config):
     )
 
     # --------------------------------------------------------
-    # Frame
+    # Semi-transparent frame
     # --------------------------------------------------------
 
     frame = overlay.get(
@@ -283,13 +283,20 @@ def build_video_filter(config):
             "0x8B0000"
         )
 
+        opacity = float(
+            frame.get(
+                "opacity",
+                0.35
+            )
+        )
+
         filters.append(
             f"drawbox="
             f"x=0:"
             f"y=0:"
             f"w=iw:"
             f"h=ih:"
-            f"color={color}:"
+            f"color={color}@{opacity}:"
             f"t={frame_width}"
         )
 
@@ -471,6 +478,10 @@ def build_ffmpeg_command(
 ):
     """
     Build the complete FFmpeg command.
+
+    The main logo is shown continuously.
+    A second transparent moving watermark logo is also
+    shown continuously for the entire broadcast.
     """
 
     ffmpeg_config = config.get(
@@ -485,6 +496,11 @@ def build_ffmpeg_command(
 
     audio_config = ffmpeg_config.get(
         "audio",
+        {}
+    )
+
+    overlay_config = ffmpeg_config.get(
+        "overlay",
         {}
     )
 
@@ -570,12 +586,11 @@ def build_ffmpeg_command(
 
         "-reconnect_delay_max",
         "10",
-
-        # ====================================================
-        # HLS input
-        # ====================================================
-
     ]
+
+    # ========================================================
+    # HLS INPUT HEADERS
+    # ========================================================
 
     if ffmpeg_headers:
 
@@ -584,13 +599,17 @@ def build_ffmpeg_command(
             ffmpeg_headers
         ])
 
+    # ========================================================
+    # HLS INPUT
+    # ========================================================
+
     command.extend([
         "-i",
         hls_url
     ])
 
     # ========================================================
-    # Logo input
+    # MAIN LOGO INPUT
     # ========================================================
 
     if logo_enabled:
@@ -609,22 +628,142 @@ def build_ffmpeg_command(
 
     if logo_enabled:
 
+        # ----------------------------------------------------
+        # Main corner logo
+        # ----------------------------------------------------
+
         logo_filter = (
             f"[1:v]"
+            f"format=rgba,"
             f"scale={logo_width}:-1"
             f"[logo]"
         )
 
-        video_chain = (
-            f"[0:v]"
-            f"{video_filters_string}"
-            f"[base];"
-            f"{logo_filter};"
-            f"[base][logo]"
-            f"overlay="
-            f"{logo_x}:{logo_y}"
-            f"[vout]"
+        # ----------------------------------------------------
+        # Transparent moving watermark
+        #
+        # IMPORTANT:
+        # There is NO enable= expression here.
+        #
+        # Therefore the watermark stays visible continuously
+        # from the beginning until FFmpeg stops.
+        # ----------------------------------------------------
+
+        watermark_config = overlay_config.get(
+            "watermark",
+            {}
         )
+
+        watermark_enabled = watermark_config.get(
+            "enabled",
+            True
+        )
+
+        watermark_width = int(
+            watermark_config.get(
+                "width",
+                500
+            )
+        )
+
+        watermark_opacity = float(
+            watermark_config.get(
+                "opacity",
+                0.10
+            )
+        )
+
+        move_distance_x = float(
+            watermark_config.get(
+                "move_distance_x",
+                100
+            )
+        )
+
+        move_distance_y = float(
+            watermark_config.get(
+                "move_distance_y",
+                50
+            )
+        )
+
+        move_speed = float(
+            watermark_config.get(
+                "move_speed",
+                0.015
+            )
+        )
+
+        if watermark_enabled:
+
+            watermark_filter = (
+                f"[1:v]"
+                f"format=rgba,"
+                f"scale={watermark_width}:-1,"
+                f"colorchannelmixer="
+                f"aa={watermark_opacity}"
+                f"[wm]"
+            )
+
+            # Continuous gentle movement.
+            #
+            # No mod()
+            # No enable=
+            # No show/hide cycle.
+            #
+            # The watermark remains on screen continuously.
+
+            watermark_x = (
+                f"(W-w)/2+"
+                f"sin(t*{move_speed})*"
+                f"{move_distance_x}"
+            )
+
+            watermark_y = (
+                f"(H-h)/2+"
+                f"cos(t*{move_speed})*"
+                f"{move_distance_y}"
+            )
+
+            video_chain = (
+                f"[0:v]"
+                f"{video_filters_string}"
+                f"[base];"
+
+                f"{logo_filter};"
+
+                f"{watermark_filter};"
+
+                # Main logo - continuous
+                f"[base][logo]"
+                f"overlay="
+                f"x={logo_x}:"
+                f"y={logo_y}"
+                f"[cornered];"
+
+                # Transparent moving logo - continuous
+                f"[cornered][wm]"
+                f"overlay="
+                f"x='{watermark_x}':"
+                f"y='{watermark_y}'"
+                f"[vout]"
+            )
+
+        else:
+
+            video_chain = (
+                f"[0:v]"
+                f"{video_filters_string}"
+                f"[base];"
+
+                f"{logo_filter};"
+
+                f"[base][logo]"
+                f"overlay="
+                f"x={logo_x}:"
+                f"y={logo_y}"
+                f"[vout]"
+            )
 
         filter_complex = (
             f"{video_chain};"
@@ -661,7 +800,7 @@ def build_ffmpeg_command(
         ])
 
     # ========================================================
-    # OUTPUT
+    # VIDEO / AUDIO OUTPUT
     # ========================================================
 
     command.extend([
@@ -742,6 +881,10 @@ def run_ffmpeg(
 
     print(
         "LIVE STREAM RUNNING..."
+    )
+
+    print(
+        "Continuous watermark: ENABLED"
     )
 
     print(
@@ -1028,7 +1171,7 @@ def main():
     logo_width = int(
         overlay.get(
             "logo_width",
-            180
+            220
         )
     )
 
@@ -1040,7 +1183,7 @@ def main():
     logo_x = int(
         logo_position.get(
             "x",
-            35
+            1660
         )
     )
 
@@ -1048,6 +1191,51 @@ def main():
         logo_position.get(
             "y",
             35
+        )
+    )
+
+    watermark_config = overlay.get(
+        "watermark",
+        {}
+    )
+
+    watermark_enabled = watermark_config.get(
+        "enabled",
+        True
+    )
+
+    watermark_width = int(
+        watermark_config.get(
+            "width",
+            500
+        )
+    )
+
+    watermark_opacity = float(
+        watermark_config.get(
+            "opacity",
+            0.10
+        )
+    )
+
+    watermark_move_x = float(
+        watermark_config.get(
+            "move_distance_x",
+            100
+        )
+    )
+
+    watermark_move_y = float(
+        watermark_config.get(
+            "move_distance_y",
+            50
+        )
+    )
+
+    watermark_speed = float(
+        watermark_config.get(
+            "move_speed",
+            0.015
         )
     )
 
@@ -1148,7 +1336,7 @@ def main():
         f"Preset: {preset}"
     )
 
-    print("\nLogo:")
+    print("\nMain Logo:")
 
     if logo_enabled:
 
@@ -1166,6 +1354,44 @@ def main():
 
         print(
             f"Position: {logo_x},{logo_y}"
+        )
+
+    else:
+
+        print(
+            "Disabled"
+        )
+
+    print("\nContinuous Watermark:")
+
+    if watermark_enabled:
+
+        print(
+            "Enabled - visible for entire broadcast"
+        )
+
+        print(
+            f"Width: {watermark_width}px"
+        )
+
+        print(
+            f"Opacity: {watermark_opacity}"
+        )
+
+        print(
+            f"Movement X: {watermark_move_x}px"
+        )
+
+        print(
+            f"Movement Y: {watermark_move_y}px"
+        )
+
+        print(
+            f"Movement speed: {watermark_speed}"
+        )
+
+        print(
+            "Show/Hide timer: DISABLED"
         )
 
     else:
