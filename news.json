@@ -1,5 +1,39 @@
 [
   {
+    "title": "El billete europeo pasa por San Marino",
+    "url": "https://www.marca.com/futbol/seleccion/2026/10/01/billete-europeo-pasa-san-marino.html",
+    "summary": "La Sub 21 de David Gordo visita al colista con la obligación de ganar para seguir dependiendo de sí misma, después de que el 0-2 de Finlandia en Rumanía la haya dejado segunda en el grupo",
+    "published": "Thu, 01 Oct 2026 06:21:18 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abd900bed8c3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تمر التذكرة الأوروبية عبر سان مارينو",
+    "arabic_summary": "يزور فريق ديفيد جوردو تحت 21 فريقًا متذيل الترتيب مع الالتزام بالفوز لمواصلة الاعتماد على نفسه، بعد تعادل فنلندا 0-2 في رومانيا مما جعلها في المركز الثاني في المجموعة.",
+    "translation_status": "translated",
+    "post_title": "تمر التذكرة الأوروبية عبر سان مارينو",
+    "post_text": "🚨 تمر التذكرة الأوروبية عبر سان مارينو\n\n📝 يزور فريق ديفيد جوردو تحت 21 فريقًا متذيل الترتيب مع الالتزام بالفوز لمواصلة الاعتماد على نفسه، بعد تعادل فنلندا 0-2 في رومانيا مما جعلها في المركز الثاني في المجموعة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065846642747313",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تمر_التذكرة_الأوروبية_عبر_سان_مارينو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/01/billete-europeo-pasa-san-marino.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjW7ZfOc4V3T414fUMTKibj"
+    }
+  },
+  {
     "title": "'Fred is the guy to lead us' | Hamilton backs Vasseur despite 'negative' outside sources",
     "url": "https://www.skysports.com/watch/video/13593900/bahrain-gp-in-malaysia-lewis-hamilton-shares-confidence-in-vasseur-despite-negative-outside-sources",
     "summary": "Ahead of the Bahrain Grand Prix in Malaysia, Lewis Hamilton shares his confidence in Fred Vasseur despite 'negative' outside sources.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Akb70E4QQ4C_vyei7KxM5gP"
-    }
-  },
-  {
-    "title": "El Tartiere, territorio prohibido para el Sporting",
-    "url": "https://www.marca.com/futbol/oviedo/2026/09/25/tartiere-territorio-prohibido-sporting.html",
-    "summary": "El equipo rojiblanco no gana un derbi en el estadio del Real Oviedo desde octubre de 2001 y acumula nueve visitas consecutivas sin lograr la victoria",
-    "published": "Fri, 25 Sep 2026 16:42:34 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/25/6ab68848b3251.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "التارتيري، المنطقة المحظورة على سبورتنج",
-    "arabic_summary": "ولم يفز الفريق الأحمر والأبيض بأي ديربي على ملعب ريال أوفييدو منذ أكتوبر 2001، وتراكمت لديه تسع زيارات متتالية دون تحقيق الفوز.",
-    "translation_status": "translated",
-    "post_title": "التارتيري، المنطقة المحظورة على سبورتنج",
-    "post_text": "🚨 التارتيري، المنطقة المحظورة على سبورتنج\n\n📝 ولم يفز الفريق الأحمر والأبيض بأي ديربي على ملعب ريال أوفييدو منذ أكتوبر 2001، وتراكمت لديه تسع زيارات متتالية دون تحقيق الفوز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062056663126311",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التارتيري،_المنطقة_المحظورة_على_سبورتنج.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/oviedo/2026/09/25/tartiere-territorio-prohibido-sporting.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgRZhng2n4nMU6lLCCzzo_a"
     }
   }
 ]
