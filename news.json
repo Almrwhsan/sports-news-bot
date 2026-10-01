@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Sporting sufre las otras consecuencias del derbi asturiano",
+    "url": "https://www.marca.com/futbol/sporting/2026/10/01/sporting-sufre-consecuencias-derbi-asturiano.html",
+    "summary": "La dura derrota contra el Oviedo aumentó la larga lista de bajas de Larcamón: Iosifov y Gelabert no estarán ante el Celta Fortuna",
+    "published": "Thu, 01 Oct 2026 11:00:47 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe2123e94e9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ويعاني سبورتنج من العواقب الأخرى لديربي أستوريا",
+    "arabic_summary": "أدت الهزيمة القاسية أمام أوفييدو إلى زيادة قائمة ضحايا لاركامون الطويلة: لن يكون يوسيفوف وجيلابيرت أمام سيلتا فورتونا",
+    "translation_status": "translated",
+    "post_title": "ويعاني سبورتنج من العواقب الأخرى لديربي أستوريا",
+    "post_text": "🚨 ويعاني سبورتنج من العواقب الأخرى لديربي أستوريا\n\n📝 أدت الهزيمة القاسية أمام أوفييدو إلى زيادة قائمة ضحايا لاركامون الطويلة: لن يكون يوسيفوف وجيلابيرت أمام سيلتا فورتونا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066060129392631",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويعاني_سبورتنج_من_العواقب_الأخرى_لديربي_أستوريا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sporting/2026/10/01/sporting-sufre-consecuencias-derbi-asturiano.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Awl7WSjsglsrSs7_I19Vn22"
+    }
+  },
+  {
     "title": "La camiseta de España más vendida de la historia ya luce la segunda estrella",
     "url": "https://www.marca.com/futbol/seleccion/album/2026/10/01/camiseta-espana-vendida-historia-segunda-estrella.html",
     "summary": "La nueva camiseta de visitante de adidas incorpora por primera vez las dos estrellas sobre el escudo de la selección española de fútbol, celebrando los títulos mundiales conquistados en 2010 y 2026. El estreno oficial será ante Croacia el próximo 6 de octubre en Split",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjXWQaP0YmHuFzbAmbEiDet"
-    }
-  },
-  {
-    "title": "Man City charges latest: Chairman's statement, how long process could take and what next?",
-    "url": "https://www.skysports.com/watch/video/13592364/man-city-latest-chairman-khaldoon-al-mubaraks-statement-how-long-process-could-take-and-what-next-sunday-supplement",
-    "summary": "Miguel Delaney, Riath Al-Samarrai and Jack Rosser joined Sunday Supplement to discuss the latest in the case of Manchester City's 115 charges.",
-    "published": "Sun, 27 Sep 2026 10:10:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-sunday-supplement_7362360.jpg?20260927102615",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر اتهامات مانشستر سيتي: بيان الرئيس، كم من الوقت يمكن أن تستغرق العملية وماذا بعد؟",
-    "arabic_summary": "انضم ميغيل ديلاني ورياض السامرائي وجاك روسر إلى صحيفة Sunday Supplement لمناقشة آخر المستجدات في قضية التهم الـ115 الموجهة لمانشستر سيتي.",
-    "translation_status": "translated",
-    "post_title": "آخر اتهامات مانشستر سيتي: بيان الرئيس، كم من الوقت يمكن أن تستغرق العملية وماذا بعد؟",
-    "post_text": "🚨 آخر اتهامات مانشستر سيتي: بيان الرئيس، كم من الوقت يمكن أن تستغرق العملية وماذا بعد؟\n\n📝 انضم ميغيل ديلاني ورياض السامرائي وجاك روسر إلى صحيفة Sunday Supplement لمناقشة آخر المستجدات في قضية التهم الـ115 الموجهة لمانشستر سيتي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062155839783060",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_اتهامات_مانشستر_سيتي_بيان_الرئيس،_كم_من_الوقت_يمكن_أن_تستغرق_العملية_وماذا_ب.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13592364/man-city-latest-chairman-khaldoon-al-mubaraks-statement-how-long-process-could-take-and-what-next-sunday-supplement",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqsllH917AvLXKbkplbvui5"
     }
   }
 ]
