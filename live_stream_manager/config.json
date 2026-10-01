@@ -82,8 +82,6 @@
         "enabled": true,
         "opacity": 0.10,
         "width": 500,
-        "show_duration": 8,
-        "interval": 45,
         "move_distance_x": 100,
         "move_distance_y": 50,
         "move_speed": 0.015
