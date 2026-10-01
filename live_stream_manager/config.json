@@ -31,6 +31,13 @@
     "max_consecutive_failures": 3
   },
 
+  "auto_restart": {
+    "enabled": true,
+    "restart_delay_seconds": 5,
+    "max_restarts": 0,
+    "max_restart_delay_seconds": 60
+  },
+
   "output": {
     "playlist_file": "live_playlist.m3u",
     "log_directory": "logs",
@@ -102,20 +109,20 @@
     "audio": {
       "enabled": true,
 
-      "mode": "sharp_echo",
+      "mode": "voice",
 
       "volume": 1.0,
 
-      "bass": -1,
+      "bass": -2,
 
-      "treble": 6,
+      "treble": 8,
 
       "echo": {
-        "enabled": true,
-        "in_gain": 0.85,
-        "out_gain": 0.75,
-        "delays": "650|650",
-        "decays": "0.20|0.12"
+        "enabled": false,
+        "in_gain": 0.60,
+        "out_gain": 0.40,
+        "delays": "60|60",
+        "decays": "0.05|0.05"
       }
     }
   }
