@@ -1,5 +1,39 @@
 [
   {
+    "title": "La UEFA reactiva el expediente al Barcelona tras la denuncia del Real Madrid",
+    "url": "https://as.com/futbol/internacional/la-uefa-reactiva-el-expediente-al-barcelona-tras-la-denuncia-del-real-madrid-f202610-n/",
+    "summary": "El máximo organismo del fútbol europeo quiere esclarecer lo sucedido entre 2001 y 2018, años en los que el Barcelona pagó 8,4 M€ a Enríquez Negreira.",
+    "published": "Thu, 01 Oct 2026 14:11:17 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/Z6OUMNSE5NPCTOOHIT2MARC6HI.jpg?auth=42439fbd0d2912e93c5a56700414a653b2eda78322d0cdc21af003c61d8d3924",
+    "media_type": "image/jpeg",
+    "arabic_title": "اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد",
+    "arabic_summary": "تريد أعلى هيئة في كرة القدم الأوروبية توضيح ما حدث بين عامي 2001 و2018، وهي السنوات التي دفع فيها برشلونة 8.4 مليون يورو إلى إنريكيز نيجريرا.",
+    "translation_status": "translated",
+    "post_title": "اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد",
+    "post_text": "🚨 اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد\n\n📝 تريد أعلى هيئة في كرة القدم الأوروبية توضيح ما حدث بين عامي 2001 و2018، وهي السنوات التي دفع فيها برشلونة 8.4 مليون يورو إلى إنريكيز نيجريرا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065938736071437",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليويفا_يعيد_تفعيل_الملف_ضد_برشلونة_بعد_شكوى_ريال_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/la-uefa-reactiva-el-expediente-al-barcelona-tras-la-denuncia-del-real-madrid-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXQe5kD9cC_iO1UCZkbLAWH"
+    }
+  },
+  {
     "title": "Raphinha ya está en Barcelona y pasará pruebas mañana",
     "url": "https://as.com/futbol/raphinha-ya-esta-en-barcelona-y-pasara-pruebas-manana-f202610-n/",
     "summary": "Si se confirma que se trata sólo de un edema en el muslo derecho, su presencia de cara al primer partido, tras el parón de selecciones, no peligra.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AssOkIWT8GlaNMSp3ODpmUQ"
-    }
-  },
-  {
-    "title": "Una oportunidad para Koundé",
-    "url": "https://as.com/futbol/primera/un-oportunidad-para-kounde-f202609-n/",
-    "summary": "El defensa francés, con pocos minutos hasta ahora, puede cobrar protagonismo ante la lesión de Christensen.",
-    "published": "Fri, 25 Sep 2026 06:59:18 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4HYBM2RLYVNIZCSRDWLDDNUHNM.jpg?auth=d7018b28c7a3ff3a2d8633711962212f00676d822212e54fe62737b59d348957",
-    "media_type": "image/jpeg",
-    "arabic_title": "فرصة لكوندي",
-    "arabic_summary": "يمكن للمدافع الفرنسي، مع دقائق قليلة حتى الآن، أن يحتل مركز الصدارة نظرًا لإصابة كريستنسن.",
-    "translation_status": "translated",
-    "post_title": "فرصة لكوندي",
-    "post_text": "🚨 فرصة لكوندي\n\n📝 يمكن للمدافع الفرنسي، مع دقائق قليلة حتى الآن، أن يحتل مركز الصدارة نظرًا لإصابة كريستنسن.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062055326459778",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرصة_لكوندي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/un-oportunidad-para-kounde-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtJGtzLSBQObyj2dpviV7fP"
     }
   }
 ]
