@@ -1,5 +1,39 @@
 [
   {
+    "title": "Baena, el “salvado” es salvador",
+    "url": "https://as.com/futbol/seleccion/baena-el-salvado-es-salvador-f202609-n/",
+    "summary": "Fue el artífice de la remontada en Wembley con gol y asistencia. La Selección le hizo resurgir y sigue en ‘modo Mundial’. Con el Atleti, también lanzado.",
+    "published": "Sun, 27 Sep 2026 23:13:22 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DWWIDBZDHFJXLFGV543UZZID5E.jpg?auth=02f08182c0ff66914ff98f271845c467107f9bade6913e5552edc7a96511991f",
+    "media_type": "image/jpeg",
+    "arabic_title": "باينا، \"المخلص\" هو المنقذ",
+    "arabic_summary": "لقد كان مهندس العودة في ويمبلي بهدف وتمريرة حاسمة. لقد جعله المنتخب الوطني يعود إلى الظهور ولا يزال في \"الوضع العالمي\". مع أتلتيكو، تم إصداره أيضًا.",
+    "translation_status": "translated",
+    "post_title": "باينا، \"المخلص\" هو المنقذ",
+    "post_text": "🚨 باينا، \"المخلص\" هو المنقذ\n\n📝 لقد كان مهندس العودة في ويمبلي بهدف وتمريرة حاسمة. لقد جعله المنتخب الوطني يعود إلى الظهور ولا يزال في \"الوضع العالمي\". مع أتلتيكو، تم إصداره أيضًا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1065835412748436",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باينا،_المخلص_هو_المنقذ.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/seleccion/baena-el-salvado-es-salvador-f202609-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASFG7rZJbU4E53bKQ58KhYz"
+    }
+  },
+  {
     "title": "La nueva camiseta de visitante de España ya luce las dos estrellas de campeona del mundo",
     "url": "https://as.com/futbol/fotorrelato/la-nueva-camiseta-de-visitante-de-espana-ya-luce-las-dos-estrellas-de-campeona-del-mundo-f202610-f/",
     "summary": "Adidas ha presentado la nueva camiseta de visitante de la Selección Española, una equipación que luce por primera vez las dos estrellas de campeona del mundo sobre el escudo. Inspirada en la tradición literaria del país y equipada con la tecnología CLIMACOOL+.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AuKXp0d35u3wwWQQPHNURyp"
-    }
-  },
-  {
-    "title": "Gaitán se viste de Torres",
-    "url": "https://as.com/futbol/primera-rfef/gaitan-se-viste-de-torres-f202609-n/",
-    "summary": "El Villarreal B mantiene el liderato tras imponerse a un Madrileño que acabó con nueve. Domenech y Javi Gil, bajas para el derbi ante el Castilla.",
-    "published": "Fri, 25 Sep 2026 19:06:11 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/3YHKHHJMVVAZJCCURML7TA4MV4.jpg?auth=857f109120be48b7b1bf4a1d25d0aa6596bce5f53d9483f833a53a814ecb35a0",
-    "media_type": "image/jpeg",
-    "arabic_title": "جايتان يرتدي زي توريس",
-    "arabic_summary": "يحافظ فياريال ب على الصدارة بعد فوزه على ريال مدريد الذي أنهى الموسم بتسعة أهداف. دومينيك وخافي جيل، غائبان عن مباراة الديربي ضد كاستيا.",
-    "translation_status": "translated",
-    "post_title": "جايتان يرتدي زي توريس",
-    "post_text": "🚨 جايتان يرتدي زي توريس\n\n📝 يحافظ فياريال ب على الصدارة بعد فوزه على ريال مدريد الذي أنهى الموسم بتسعة أهداف. دومينيك وخافي جيل، غائبان عن مباراة الديربي ضد كاستيا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062056916459619",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جايتان_يرتدي_زي_توريس.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera-rfef/gaitan-se-viste-de-torres-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7y_Pkel6FqobTtfONUsBjH"
     }
   }
 ]
