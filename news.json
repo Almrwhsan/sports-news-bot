@@ -1,5 +1,39 @@
 [
   {
+    "title": "El ataque de una ministra para defender a su Manchester City: \"Los aficionados del United sois una mierda\"",
+    "url": "https://www.marca.com/futbol/premier-league/2026/10/01/ataque-ministra-defender-manchester-city-aficionados-united-sois-mierda-video.html",
+    "summary": "",
+    "published": "Thu, 01 Oct 2026 10:33:22 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/fEMa21glXTmbelHGd.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هجوم وزيرة الدفاع عن مانشستر سيتي: جماهير اليونايتد قذرة",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هجوم وزيرة الدفاع عن مانشستر سيتي: جماهير اليونايتد قذرة",
+    "post_text": "🚨 هجوم وزيرة الدفاع عن مانشستر سيتي: جماهير اليونايتد قذرة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066022612729716",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هجوم_وزيرة_الدفاع_عن_مانشستر_سيتي_جماهير_اليونايتد_قذرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/01/ataque-ministra-defender-manchester-city-aficionados-united-sois-mierda-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzOPck9jJrEAof3HP0pTsCQ"
+    }
+  },
+  {
     "title": "El griego Vassillis Foitas pita el España-República Checa",
     "url": "https://www.marca.com/futbol/seleccion/2026/10/01/griego-vassillis-foitas-pita-espana-republica-checa.html",
     "summary": "Es su primer partido con ambas selecciones",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6I50rZTNoMJYYG9rSy5ay_"
-    }
-  },
-  {
-    "title": "Papers: Man Utd keeping close eye on Barca left-back Balde",
-    "url": "https://www.skysports.com/football/news/12040/13592359/man-utd-transfer-news-barcelona-left-back-alejandro-balde-eyed-for-january-move-paper-talk",
-    "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-    "published": "Sun, 27 Sep 2026 10:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-    "media_type": "image/jpg",
-    "arabic_title": "الأوراق: مانشستر يونايتد يراقب عن كثب الظهير الأيسر لبرشلونة بالدي",
-    "arabic_summary": "أبرز الأخبار والإشاعات المنقولة من صحف الأحد..",
-    "translation_status": "translated",
-    "post_title": "الأوراق: مانشستر يونايتد يراقب عن كثب الظهير الأيسر لبرشلونة بالدي",
-    "post_text": "🚨 الأوراق: مانشستر يونايتد يراقب عن كثب الظهير الأيسر لبرشلونة بالدي\n\n📝 أبرز الأخبار والإشاعات المنقولة من صحف الأحد..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062101476455163",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_مانشستر_يونايتد_يراقب_عن_كثب_الظهير_الأيسر_لبرشلونة_بالدي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13592359/man-utd-transfer-news-barcelona-left-back-alejandro-balde-eyed-for-january-move-paper-talk",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlLS42Gn4cMDoRPXlyFvD-K"
     }
   }
 ]
