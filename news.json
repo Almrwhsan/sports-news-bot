@@ -1,5 +1,39 @@
 [
   {
+    "title": "Unos 450 directivos de clubes de Turquía serán investigados por apuestas ilegales",
+    "url": "https://www.marca.com/futbol/2026/10/01/450-directivos-clubes-turquia-seran-investigados-apuestas-ilegales.html",
+    "summary": "La Federación Turca de Fútbol les ha remitido al comité disciplinario",
+    "published": "Thu, 01 Oct 2026 13:53:22 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe49ac50c3f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيتم التحقيق مع حوالي 450 مسؤولًا في النادي في تركيا بتهمة المراهنة غير القانونية",
+    "arabic_summary": "وأحالهم الاتحاد التركي لكرة القدم إلى اللجنة التأديبية",
+    "translation_status": "translated",
+    "post_title": "سيتم التحقيق مع حوالي 450 مسؤولًا في النادي في تركيا بتهمة المراهنة غير القانونية",
+    "post_text": "🚨 سيتم التحقيق مع حوالي 450 مسؤولًا في النادي في تركيا بتهمة المراهنة غير القانونية\n\n📝 وأحالهم الاتحاد التركي لكرة القدم إلى اللجنة التأديبية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066140789384565",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيتم_التحقيق_مع_حوالي_450_مسؤولًا_في_النادي_في_تركيا_بتهمة_المراهنة_غير_القانوني.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/01/450-directivos-clubes-turquia-seran-investigados-apuestas-ilegales.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABt9FNikDkoiUB_0vgiPeVl"
+    }
+  },
+  {
     "title": "La intrahistoria del Balón de Oro de Modric: \"Podía oír sus lágrimas\"",
     "url": "https://www.marca.com/futbol/balon-oro/2026/10/01/intrahistoria-balon-oro-modric-pude-responderte.html",
     "summary": "Pascal Ferré, exdirector de France Football, recuerda cómo fue el momento en el que llamó al croata para decirle que era el ganador",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AiGd78P9umnhEr4-zqAFESG"
-    }
-  },
-  {
-    "title": "Fitzpatrick completes big win in France to continue amazing season",
-    "url": "https://www.skysports.com/golf/news/12040/13592435/open-de-france-matt-fitzpatrick-closes-out-three-shot-victory-at-le-golf-national-to-earn-fourth-worldwide-win-of-2026",
-    "summary": "Matt Fitzpatrick closed out a fourth worldwide win of the season with an impressive three-shot victory at the FedEx Open de France at Le Golf National.",
-    "published": "Sun, 27 Sep 2026 16:37:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-matt-fitzpatrick_7362656.jpg?20260927164501",
-    "media_type": "image/jpg",
-    "arabic_title": "أكمل فيتزباتريك فوزًا كبيرًا في فرنسا لمواصلة الموسم المذهل",
-    "arabic_summary": "أنهى مات فيتزباتريك فوزه الرابع عالميًا هذا الموسم بفوز مثير للإعجاب بثلاثية في بطولة FedEx Open de France في Le Golf National.",
-    "translation_status": "translated",
-    "post_title": "أكمل فيتزباتريك فوزًا كبيرًا في فرنسا لمواصلة الموسم المذهل",
-    "post_text": "🚨 أكمل فيتزباتريك فوزًا كبيرًا في فرنسا لمواصلة الموسم المذهل\n\n📝 أنهى مات فيتزباتريك فوزه الرابع عالميًا هذا الموسم بفوز مثير للإعجاب بثلاثية في بطولة FedEx Open de France في Le Golf National.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062321499766494",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أكمل_فيتزباتريك_فوزًا_كبيرًا_في_فرنسا_لمواصلة_الموسم_المذهل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/golf/news/12040/13592435/open-de-france-matt-fitzpatrick-closes-out-three-shot-victory-at-le-golf-national-to-earn-fourth-worldwide-win-of-2026",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AmGHUQwuHfSQaT7hsKBcQ-Q"
     }
   }
 ]
