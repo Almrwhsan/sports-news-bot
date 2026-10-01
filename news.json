@@ -1,5 +1,39 @@
 [
   {
+    "title": "England avoid Australia and India in 2027 World Cup group stage",
+    "url": "https://www.skysports.com/cricket/news/12040/13594096/2027-cricket-world-cup-england-avoid-australia-and-india-in-group-stage-as-fixtures-revealed-for-50-over-tournament",
+    "summary": "England have avoided fellow heavyweights Australia and India in the group stage of the 2027 Men's 50-over World Cup in Africa.",
+    "published": "Thu, 01 Oct 2026 18:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/07/1920x1080/skysports-harry-brook-england-mens-odi-cricket_7301839.jpg?20260719200328",
+    "media_type": "image/jpg",
+    "arabic_title": "تتجنب إنجلترا أستراليا والهند في مرحلة المجموعات بكأس العالم 2027",
+    "arabic_summary": "تجنبت إنجلترا زميليها القويين أستراليا والهند في دور المجموعات لكأس العالم 50 للرجال 2027 في أفريقيا.",
+    "translation_status": "translated",
+    "post_title": "تتجنب إنجلترا أستراليا والهند في مرحلة المجموعات بكأس العالم 2027",
+    "post_text": "🚨 تتجنب إنجلترا أستراليا والهند في مرحلة المجموعات بكأس العالم 2027\n\n📝 تجنبت إنجلترا زميليها القويين أستراليا والهند في دور المجموعات لكأس العالم 50 للرجال 2027 في أفريقيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066198972712080",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تتجنب_إنجلترا_أستراليا_والهند_في_مرحلة_المجموعات_بكأس_العالم_2027.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/news/12040/13594096/2027-cricket-world-cup-england-avoid-australia-and-india-in-group-stage-as-fixtures-revealed-for-50-over-tournament",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqkWu5XK7rvTj5MHM60shVP"
+    }
+  },
+  {
     "title": "La Real recibirá con hasta 11 bajas mañana al Athletic en Anoeta",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/10/01/real-recibira-manana-athletic-anoeta-11-bajas.html",
     "summary": "Matarazzo no podrá contar con los nueve internacionales y los dos lesionados, pero pese a ello puede presentar un equipo de garantías, con las promesas del Sanse en el banquillo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIKe0V1L5QZQZGVqbOTyhhJ"
-    }
-  },
-  {
-    "title": "Miguel derriba el muro de Son Moix",
-    "url": "https://as.com/futbol/segunda/miguel-derriba-el-muro-de-son-moix-f202609-n/",
-    "summary": "El delantero del Almería aprovechó la única concesión que dio Arnau Tenas. El Mallorca acabó con tres lesionados. Raíllo rozó la expulsión.",
-    "published": "Sun, 27 Sep 2026 16:43:36 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "ميغيل يهدم جدار Son Moix",
-    "arabic_summary": "استغل مهاجم ألميريا الامتياز الوحيد الذي قدمه أرناو تيناس. مايوركا انتهى بثلاثة جرحى. رايلو على وشك الطرد.",
-    "translation_status": "translated",
-    "post_title": "ميغيل يهدم جدار Son Moix",
-    "post_text": "🚨 ميغيل يهدم جدار Son Moix\n\n📝 استغل مهاجم ألميريا الامتياز الوحيد الذي قدمه أرناو تيناس. مايوركا انتهى بثلاثة جرحى. رايلو على وشك الطرد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062394349759209",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميغيل_يهدم_جدار_Son_Moix.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFThlMsZ_zZoJsZEe1O12LT"
     }
   }
 ]
