@@ -1,5 +1,39 @@
 [
   {
+    "title": "Messi renews Ronaldo rivalry with acquisition of second-tier Spanish club",
+    "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+    "summary": "",
+    "published": "Thu, 01 Oct 2026 17:26:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-messi-lionel-world_7336718.jpg?20260831170636",
+    "media_type": "image/jpg",
+    "arabic_title": "ميسي يجدد منافسة رونالدو بالاستحواذ على نادي الدرجة الثانية الإسباني",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "ميسي يجدد منافسة رونالدو بالاستحواذ على نادي الدرجة الثانية الإسباني",
+    "post_text": "🚨 ميسي يجدد منافسة رونالدو بالاستحواذ على نادي الدرجة الثانية الإسباني\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066208319377812",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميسي_يجدد_منافسة_رونالدو_بالاستحواذ_على_نادي_الدرجة_الثانية_الإسباني.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A49aPUBV507ZNDGEZx0etfo"
+    }
+  },
+  {
     "title": "England avoid Australia and India in 2027 World Cup group stage",
     "url": "https://www.skysports.com/cricket/news/12040/13594096/2027-cricket-world-cup-england-avoid-australia-and-india-in-group-stage-as-fixtures-revealed-for-50-over-tournament",
     "summary": "England have avoided fellow heavyweights Australia and India in the group stage of the 2027 Men's 50-over World Cup in Africa.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8nvjrU0wxN8TKTJOZtySom"
-    }
-  },
-  {
-    "title": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
-    "url": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
-    "summary": "",
-    "published": "Sun, 27 Sep 2026 19:06:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-arsenal-man-utd-tottenham_7362744.jpg?20260927190131",
-    "media_type": "image/jpg",
-    "arabic_title": "نجوم المدينة المنورة لمانشستر يونايتد وليفربول ينهيان هودو أنفيلد وآمال آرسنال في اللقب انتهت؟",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "نجوم المدينة المنورة لمانشستر يونايتد وليفربول ينهيان هودو أنفيلد وآمال آرسنال في اللقب انتهت؟",
-    "post_text": "🚨 نجوم المدينة المنورة لمانشستر يونايتد وليفربول ينهيان هودو أنفيلد وآمال آرسنال في اللقب انتهت؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062434936421817",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نجوم_المدينة_المنورة_لمانشستر_يونايتد_وليفربول_ينهيان_هودو_أنفيلد_وآمال_آرسنال_ف.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIKe0V1L5QZQZGVqbOTyhhJ"
     }
   }
 ]
