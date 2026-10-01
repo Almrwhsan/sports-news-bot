@@ -1,5 +1,39 @@
 [
   {
+    "title": "Álvaro Marín toma ventaja en el gol del Celta Fortuna",
+    "url": "https://www.marca.com/futbol/celta-fortuna/2026/10/01/alvaro-marin-toma-ventaja-gol-celta-fortuna.html",
+    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
+    "published": "Thu, 01 Oct 2026 12:22:42 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe343e30d72.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ألفارو مارين يستغل الفرصة في مرمى سيلتا فورتونا",
+    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
+    "translation_status": "translated",
+    "post_title": "ألفارو مارين يستغل الفرصة في مرمى سيلتا فورتونا",
+    "post_text": "🚨 ألفارو مارين يستغل الفرصة في مرمى سيلتا فورتونا\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066092756056035",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ألفارو_مارين_يستغل_الفرصة_في_مرمى_سيلتا_فورتونا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/celta-fortuna/2026/10/01/alvaro-marin-toma-ventaja-gol-celta-fortuna.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Afz99xiTxWp58AafHKAatFl"
+    }
+  },
+  {
     "title": "Valentín Gómez y un soñado debut con Argentina para seguir creciendo",
     "url": "https://www.marca.com/futbol/betis/2026/10/01/valentin-gomez-sonado-debut-argentina-seguir-creciendo.html",
     "summary": "El valor del central zurdo en el mercado, pese a no ser titular fijo en el Betis, no para de crecer",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArbpwJXz1JytzEwrNOlHZGm"
-    }
-  },
-  {
-    "title": "Tennis scores from Chengdu, Hangzhou with China Open starting Wednesday",
-    "url": "https://www.skysports.com/tennis/scores-schedule",
-    "summary": "",
-    "published": "Sun, 27 Sep 2026 13:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-daniil-medvedev-tennis_7362628.jpg?20260927162930",
-    "media_type": "image/jpg",
-    "arabic_title": "نتائج التنس من تشنغدو وهانغتشو مع بطولة الصين المفتوحة تبدأ يوم الأربعاء",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "نتائج التنس من تشنغدو وهانغتشو مع بطولة الصين المفتوحة تبدأ يوم الأربعاء",
-    "post_text": "🚨 نتائج التنس من تشنغدو وهانغتشو مع بطولة الصين المفتوحة تبدأ يوم الأربعاء\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062198093112168",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نتائج_التنس_من_تشنغدو_وهانغتشو_مع_بطولة_الصين_المفتوحة_تبدأ_يوم_الأربعاء.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/scores-schedule",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A46vHeELmsKsL_1n6UxsoaT"
     }
   }
 ]
