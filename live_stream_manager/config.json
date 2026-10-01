@@ -64,27 +64,27 @@
 
       "logo": "assets/logo.png",
 
-      "logo_width": 220,
+      "logo_width": 380,
 
       "logo_position": {
-        "x": 1660,
-        "y": 35
+        "x": 1490,
+        "y": 65
       },
 
       "frame": {
         "enabled": true,
-        "width": 40,
-        "color": "0x8B0000",
-        "opacity": 0.35
+        "width": 55,
+        "color": "0xFF0000",
+        "opacity": 1.0
       },
 
       "watermark": {
         "enabled": true,
-        "opacity": 0.10,
-        "width": 500,
-        "move_distance_x": 100,
-        "move_distance_y": 50,
-        "move_speed": 0.015
+        "opacity": 0.25,
+        "width": 700,
+        "move_distance_x": 0,
+        "move_distance_y": 0,
+        "move_speed": 0.0
       },
 
       "live_badge": {
