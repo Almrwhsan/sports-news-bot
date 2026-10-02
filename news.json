@@ -1,5 +1,39 @@
 [
   {
+    "title": "Así es el tráiler de los Muchachos de Bilardo",
+    "url": "https://www.marca.com/futbol/argentina/2026/10/02/asi-trailer-muchachos-bilar-video.html",
+    "summary": "",
+    "published": "Fri, 02 Oct 2026 15:11:34 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/1glwgnaWEzs6.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هذا هو المقطع الدعائي لفيلم Bilardo Boys",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هذا هو المقطع الدعائي لفيلم Bilardo Boys",
+    "post_text": "🚨 هذا هو المقطع الدعائي لفيلم Bilardo Boys\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067320929266551",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذا_هو_المقطع_الدعائي_لفيلم_Bilardo_Boys.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/argentina/2026/10/02/asi-trailer-muchachos-bilar-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhJtnkyHqHgMQIqWQSexmcp"
+    }
+  },
+  {
     "title": "El Eldense reacciona a lo Messi y aplasta al Oviedo",
     "url": "https://as.com/futbol/el-eldense-reacciona-a-lo-messi-y-aplasta-al-oviedo-f202610-n/",
     "summary": "El equipo azulgrana remonta en una segunda parte perfecta. Alberto Reina anotó el 0-1 a los 20 segundos.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVnnkllogAduxr-IiQ2MmFw"
-    }
-  },
-  {
-    "title": "La denuncia de Anthony Gordon: \"En Inglaterra nunca respetaron mi calidad y mi inteligencia\"",
-    "url": "https://www.marca.com/futbol/barcelona/2026/09/29/denuncia-anthony-gordon-inglaterra-nunca-respetaron-mi-calidad-mi-inteligencia-video.html",
-    "summary": "",
-    "published": "Tue, 29 Sep 2026 07:53:10 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/f5iPk1gkr1Ud7cUAh.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "شكوى أنتوني جوردون: \"في إنجلترا لم يحترموا جودتي وذكائي أبدًا\"",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "شكوى أنتوني جوردون: \"في إنجلترا لم يحترموا جودتي وذكائي أبدًا\"",
-    "post_text": "🚨 شكوى أنتوني جوردون: \"في إنجلترا لم يحترموا جودتي وذكائي أبدًا\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063971819601462",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شكوى_أنتوني_جوردون_في_إنجلترا_لم_يحترموا_جودتي_وذكائي_أبدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/09/29/denuncia-anthony-gordon-inglaterra-nunca-respetaron-mi-calidad-mi-inteligencia-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9wv6b-03LM-C5a_Acpv2yV"
     }
   }
 ]
