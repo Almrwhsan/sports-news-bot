@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Widell claims Rangers player blocked Ibrox move' - gossip",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw4grgjpem80o?at_medium=RSS&at_campaign=rss",
+    "summary": "Excelsior centre-half Casper Widell says his summer move to Rangers fell through because a player refused to leave, while Kilmarnock are reportedly close to signing goalkeeper Dave Richards.",
+    "published": "Fri, 02 Oct 2026 07:22:15 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8489/live/ccc95ea0-be31-11f1-a64c-550be9e3c66b.png",
+    "media_type": null,
+    "arabic_title": "\"يدعي ويدل أن لاعب رينجرز منع تحرك إيبروكس\" - ثرثرة",
+    "arabic_summary": "قال كاسبر ويدل، لاعب وسط فريق إكسلسيور، إن انتقاله الصيفي إلى رينجرز فشل بسبب رفض أحد اللاعبين الرحيل، بينما يقال إن كيلمارنوك يقترب من التعاقد مع حارس المرمى ديف ريتشاردز.",
+    "translation_status": "translated",
+    "post_title": "\"يدعي ويدل أن لاعب رينجرز منع تحرك إيبروكس\" - ثرثرة",
+    "post_text": "🚨 \"يدعي ويدل أن لاعب رينجرز منع تحرك إيبروكس\" - ثرثرة\n\n📝 قال كاسبر ويدل، لاعب وسط فريق إكسلسيور، إن انتقاله الصيفي إلى رينجرز فشل بسبب رفض أحد اللاعبين الرحيل، بينما يقال إن كيلمارنوك يقترب من التعاقد مع حارس المرمى ديف ريتشاردز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066645206000790",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يدعي_ويدل_أن_لاعب_رينجرز_منع_تحرك_إيبروكس_-_ثرثرة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cw4grgjpem80o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AV5P644jet-RIbkzdo5uqNB"
+    }
+  },
+  {
     "title": "The Unpromotables: Germany's league champions who can't go up",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
     "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AM2HlPQqVdlangQhf51lW8I"
-    }
-  },
-  {
-    "title": "Bilic, heavy metal para Croacia",
-    "url": "https://www.marca.com/futbol/seleccion/2026/09/28/bilic-heavy-metal-croacia.html",
-    "summary": "Segunda etapa en la selección del entrenador, que forma parte de la banda Rawbau",
-    "published": "Mon, 28 Sep 2026 06:31:17 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/6ab78d2a55766.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيليتش، المعدن الثقيل لكرواتيا",
-    "arabic_summary": "المرحلة الثانية في اختيار المدرب الذي ينتمي إلى فرقة راوباو",
-    "translation_status": "translated",
-    "post_title": "بيليتش، المعدن الثقيل لكرواتيا",
-    "post_text": "🚨 بيليتش، المعدن الثقيل لكرواتيا\n\n📝 المرحلة الثانية في اختيار المدرب الذي ينتمي إلى فرقة راوباو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062899666375344",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيليتش،_المعدن_الثقيل_لكرواتيا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/09/28/bilic-heavy-metal-croacia.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOevyDWt5E7VvngfGatBlvp"
     }
   }
 ]
