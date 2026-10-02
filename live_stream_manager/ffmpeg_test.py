@@ -22,13 +22,33 @@ def load_config():
 
 def build_audio_filter(audio_config):
     """
-    Audio configuration intentionally preserved.
+    Audio configuration modified to include speed/pitch shifts and frequency filters.
     """
 
     if not audio_config.get("enabled", True):
         return "anull"
 
     filters = []
+
+    # --------------------------------------------------------
+    # Speed & Pitch (asetrate & aresample)
+    # --------------------------------------------------------
+    speed_pitch = audio_config.get("speed_and_pitch", {})
+    if speed_pitch:
+        asetrate = speed_pitch.get("asetrate", "48000*1.015")
+        aresample = speed_pitch.get("aresample", 48000)
+        filters.append(f"asetrate={asetrate}")
+        filters.append(f"aresample={aresample}")
+
+    # --------------------------------------------------------
+    # Frequency Filters (Highpass / Lowpass)
+    # --------------------------------------------------------
+    freq_filters = audio_config.get("filters", {})
+    if freq_filters:
+        highpass = freq_filters.get("highpass", 100)
+        lowpass = freq_filters.get("lowpass", 14000)
+        filters.append(f"highpass=f={highpass}")
+        filters.append(f"lowpass=f={lowpass}")
 
     mode = str(
         audio_config.get("mode", "normal")
@@ -161,6 +181,7 @@ def build_audio_filter(audio_config):
 
 def build_video_filter(config):
 
+    video_config = config.get("ffmpeg", {}).get("video", {})
     overlay = config.get(
         "ffmpeg",
         {}
@@ -175,6 +196,34 @@ def build_video_filter(config):
     )
 
     filters = []
+
+    # --------------------------------------------------------
+    # Color Adjustment (eq filter)
+    # --------------------------------------------------------
+    eq_config = video_config.get("eq", {})
+    if eq_config:
+        brightness = eq_config.get("brightness", 0.02)
+        contrast = eq_config.get("contrast", 1.03)
+        saturation = eq_config.get("saturation", 1.05)
+        filters.append(f"eq=brightness={brightness}:contrast={contrast}:saturation={saturation}")
+
+    # --------------------------------------------------------
+    # Visual Noise Filter
+    # --------------------------------------------------------
+    noise_config = video_config.get("noise", {})
+    if noise_config and noise_config.get("enabled", True):
+        alls = noise_config.get("alls", 3)
+        allf = noise_config.get("allf", "t+u")
+        filters.append(f"noise=alls={alls}:allf={allf}")
+
+    # --------------------------------------------------------
+    # Dynamic Crop
+    # --------------------------------------------------------
+    crop_config = video_config.get("crop", {})
+    if crop_config and crop_config.get("enabled", True):
+        wf = crop_config.get("width_factor", 0.96)
+        hf = crop_config.get("height_factor", 0.96)
+        filters.append(f"crop=iw*{wf}:ih*{hf}")
 
     if frame.get(
         "enabled",
@@ -436,7 +485,7 @@ def main():
         )
     )
 
-    fps = int(
+    fps = float(
         video_config.get(
             "fps",
             25
@@ -592,8 +641,8 @@ def main():
 
         video_base = (
             "[0:v]"
-            f"{video_resize},"
-            f"{frame_filters}"
+            f"{frame_filters},"
+            f"{video_resize}"
             "[base]"
         )
 
@@ -865,7 +914,7 @@ def main():
 
         "-g",
         str(
-            fps * 2
+            int(fps * 2)
         ),
 
         # ----------------------------------------------------
@@ -922,7 +971,7 @@ def main():
     )
 
     print(
-        "\nAudio settings: UNCHANGED"
+        "\nAudio settings: MODIFIED (Speed, pitch & filters applied)"
     )
 
     result = subprocess.run(
