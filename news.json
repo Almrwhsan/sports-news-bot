@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Pértiga Gate' en LaLiga: \"Todos los entrenadores lo hacen, y el que diga lo contrario miente\"",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/02/pertiga-gate-laliga-todos-entrenadores-diga-contrario-mient-video.html",
+    "summary": "",
+    "published": "Fri, 02 Oct 2026 07:31:09 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/upAQR5.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"بوابة بيرتيجا\" في الدوري الإسباني: \"كل المدربين يفعلون ذلك، ومن يقول غير ذلك فهو يكذب\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "\"بوابة بيرتيجا\" في الدوري الإسباني: \"كل المدربين يفعلون ذلك، ومن يقول غير ذلك فهو يكذب\"",
+    "post_text": "🚨 \"بوابة بيرتيجا\" في الدوري الإسباني: \"كل المدربين يفعلون ذلك، ومن يقول غير ذلك فهو يكذب\"\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066864512645526",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوابة_بيرتيجا_في_الدوري_الإسباني_كل_المدربين_يفعلون_ذلك،_ومن_يقول_غير_ذلك_فهو_يك.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/02/pertiga-gate-laliga-todos-entrenadores-diga-contrario-mient-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AMxTim6BHZ_kIyITevksuGV"
+    }
+  },
+  {
     "title": "La nueva camiseta de la selección de Cataluña elimina la barra que le sobraba por error: \"Son cuatro barras\"",
     "url": "https://www.marca.com/futbol/2026/10/02/nueva-camiseta-seleccion-cataluna-elimina-barra-le-sobraba-error-son-cuatro-barras-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVbL5JtOoMi3MWO5tIhBQVk"
-    }
-  },
-  {
-    "title": "Los VIP, la gran palanca económica del Spotify Camp Nou",
-    "url": "https://as.com/futbol/primera/los-vip-la-gran-palanca-economica-del-spotify-camp-nou-f202609-n/",
-    "summary": "El Barcelona presenta un nuevo modelo de licencias individuales de larga duración; con 380 millones de ingresos comprometidos.",
-    "published": "Mon, 28 Sep 2026 11:26:40 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260811/1203700_150846_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "VIPs، الرافعة الاقتصادية الكبرى لـ Spotify Camp Nou",
-    "arabic_summary": "تقدم برشلونة نموذجًا جديدًا للتراخيص الفردية طويلة الأجل؛ مع 380 مليون دخل ملتزم.",
-    "translation_status": "translated",
-    "post_title": "VIPs، الرافعة الاقتصادية الكبرى لـ Spotify Camp Nou",
-    "post_text": "🚨 VIPs، الرافعة الاقتصادية الكبرى لـ Spotify Camp Nou\n\n📝 تقدم برشلونة نموذجًا جديدًا للتراخيص الفردية طويلة الأجل؛ مع 380 مليون دخل ملتزم.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063047546360556",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/VIPs،_الرافعة_الاقتصادية_الكبرى_لـ_Spotify_Camp_Nou.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARKe_JB6vlrgRn4qdFYNUu8"
     }
   }
 ]
