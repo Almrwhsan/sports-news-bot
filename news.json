@@ -1,5 +1,39 @@
 [
   {
+    "title": "La fortaleza de la Selección",
+    "url": "https://as.com/futbol/seleccion/la-fortaleza-de-la-seleccion-f202610-n/",
+    "summary": "Cubarsí y Cucurella, que han disputado los últimos 930 minutos con España, ejemplifican esa sintonía que ha llevado a La Roja al éxito. Un barcelonista y un madridista, símbolos de unidad.",
+    "published": "Fri, 02 Oct 2026 06:50:10 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LRNE5VWQ6BFH7OXTAQHATVBM5Q.jpg?auth=b2be1a7743d046d828d6b05499196716e4f8ad396693948ea810ff476c280350",
+    "media_type": "image/jpeg",
+    "arabic_title": "قوة المنتخب الوطني",
+    "arabic_summary": "كوبارسي وكوكوريلا، اللذان لعبا آخر 930 دقيقة مع أسبانيا، يجسدان هذا الانسجام الذي قاد لاروخا إلى النجاح. مشجع برشلونة ومشجع ريال مدريد، رمزا الوحدة.",
+    "translation_status": "translated",
+    "post_title": "قوة المنتخب الوطني",
+    "post_text": "🚨 قوة المنتخب الوطني\n\n📝 كوبارسي وكوكوريلا، اللذان لعبا آخر 930 دقيقة مع أسبانيا، يجسدان هذا الانسجام الذي قاد لاروخا إلى النجاح. مشجع برشلونة ومشجع ريال مدريد، رمزا الوحدة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066621519336492",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قوة_المنتخب_الوطني.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/seleccion/la-fortaleza-de-la-seleccion-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfO__CyM0h2hgKkRJYow_t_"
+    }
+  },
+  {
     "title": "Smith finishes round with Bank of Utah's first ever ALBATROSS!",
     "url": "https://www.skysports.com/watch/video/13594222/no-way-jordan-smith-makes-first-ever-albatross-at-bank-of-utah-championship",
     "summary": "Jordan Smith holed out for an albatross on his final hole of the first round at the Bank of Utah Championship.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8wOEYqH2k2vZ7GrTdr_cDb"
-    }
-  },
-  {
-    "title": "Lamine Yamal le echa un capote a Hamza Abdelkarim: “Nadie le pedirá nada”",
-    "url": "https://as.com/futbol/primera/lamine-yamal-le-echa-un-capote-a-hamza-abdelkarim-nadie-le-pedira-nada-f202609-n/",
-    "summary": "El delantero del Barcelona repasa la actualidad azulgrana.",
-    "published": "Mon, 28 Sep 2026 10:35:49 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CTSKX3TTAZGZRMULKC7SLUYF34.JPG?auth=d953e09b7f076b56cbeff74600e2ae921412e29d0ece5a68fa6051937f06a1b8",
-    "media_type": "image/jpeg",
-    "arabic_title": "لمين يامال يصعق حمزة عبد الكريم: «محدش هيطلب منه حاجة»",
-    "arabic_summary": "يستعرض مهاجم برشلونة أخبار برشلونة الحالية.",
-    "translation_status": "translated",
-    "post_title": "لمين يامال يصعق حمزة عبد الكريم: «محدش هيطلب منه حاجة»",
-    "post_text": "🚨 لمين يامال يصعق حمزة عبد الكريم: «محدش هيطلب منه حاجة»\n\n📝 يستعرض مهاجم برشلونة أخبار برشلونة الحالية.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062894856375825",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لمين_يامال_يصعق_حمزة_عبد_الكريم_«محدش_هيطلب_منه_حاجة».png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/lamine-yamal-le-echa-un-capote-a-hamza-abdelkarim-nadie-le-pedira-nada-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcDgRGDpdQnQZJyu3QrO1a8"
     }
   }
 ]
