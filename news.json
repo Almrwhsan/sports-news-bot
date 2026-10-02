@@ -1,5 +1,39 @@
 [
   {
+    "title": "Obrador y su adiós al Madrid: “No me lo pensé dos veces”",
+    "url": "https://as.com/futbol/internacional/obrador-y-su-adios-al-madrid-no-me-lo-pense-dos-veces-f202610-n/",
+    "summary": "El canterano del Real Madrid habla también de su decisión de cambiar Mallorca por la capital de España.",
+    "published": "Fri, 02 Oct 2026 08:05:57 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/755SHUTVU5DVBCQBZUEVASKGJU.jpg?auth=7379661f51296d984851609d22eb1d908d70534ca6e961157b117644a846b7e2",
+    "media_type": "image/jpeg",
+    "arabic_title": "أوبرادور ووداعه لريال مدريد: \"لم أفكر مرتين\"",
+    "arabic_summary": "كما تحدث لاعب شباب ريال مدريد عن قراره بتغيير مايوركا إلى عاصمة إسبانيا.",
+    "translation_status": "translated",
+    "post_title": "أوبرادور ووداعه لريال مدريد: \"لم أفكر مرتين\"",
+    "post_text": "🚨 أوبرادور ووداعه لريال مدريد: \"لم أفكر مرتين\"\n\n📝 كما تحدث لاعب شباب ريال مدريد عن قراره بتغيير مايوركا إلى عاصمة إسبانيا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066677445997566",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوبرادور_ووداعه_لريال_مدريد_لم_أفكر_مرتين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/obrador-y-su-adios-al-madrid-no-me-lo-pense-dos-veces-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABCcZaWM6MHu2XK7l7Gmsxq"
+    }
+  },
+  {
     "title": "El brutal entrenamiento de Ibrahimovic que es viral en redes: impresionante lo que hace con 44 años",
     "url": "https://as.com/futbol/videos/el-brutal-entrenamiento-de-ibrahimovic-que-es-viral-en-redes-impresionante-lo-que-hace-con-44-anos-f202610-v/",
     "summary": "El exjugador sueco compartió este vídeo en redes sociales de un entrenamiento suyo en el gimnasio.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjwdYsMHt4w5cdIBpUrqO3P"
-    }
-  },
-  {
-    "title": "Javier Tebas, sobre el escándalo del City y el dopaje financiero en el fútbol: \"Ya lo advertí\"",
-    "url": "https://www.marca.com/futbol/premier-league/2026/09/28/javier-tebas-sobre-escandalo-city-dopaje-financiero-futbol-adverti.html",
-    "summary": "\"Hablé del Manchester City y del PSG... Decirlo tuvo consecuencias. El Manchester City calificó públicamente mis declaraciones de 'ill-informed' y 'pure fiction'\"",
-    "published": "Mon, 28 Sep 2026 06:41:36 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/6ab9eff894513.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "خافيير تيباس عن فضيحة السيتي والمنشطات المالية في كرة القدم: \"لقد حذرتكم بالفعل\"",
-    "arabic_summary": "\"لقد تحدثت عن مانشستر سيتي وباريس سان جيرمان... قائلا إن ذلك كان له عواقب. وصف مانشستر سيتي تصريحاتي علنًا بأنها\" غير مدروسة \"و\" محض خيال \".\"",
-    "translation_status": "translated",
-    "post_title": "خافيير تيباس عن فضيحة السيتي والمنشطات المالية في كرة القدم: \"لقد حذرتكم بالفعل\"",
-    "post_text": "🚨 خافيير تيباس عن فضيحة السيتي والمنشطات المالية في كرة القدم: \"لقد حذرتكم بالفعل\"\n\n📝 \"لقد تحدثت عن مانشستر سيتي وباريس سان جيرمان... قائلا إن ذلك كان له عواقب. وصف مانشستر سيتي تصريحاتي علنًا بأنها\" غير مدروسة \"و\" محض خيال \".\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062918573040120",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خافيير_تيباس_عن_فضيحة_السيتي_والمنشطات_المالية_في_كرة_القدم_لقد_حذرتكم_بالفعل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/09/28/javier-tebas-sobre-escandalo-city-dopaje-financiero-futbol-adverti.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATRa-UsLJiWqrBaZNa5cDfi"
     }
   }
 ]
