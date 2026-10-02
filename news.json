@@ -1,5 +1,39 @@
 [
   {
+    "title": "Ferguson on brain haemorrhage and games that shaped his life",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
+    "published": "Fri, 02 Oct 2026 05:25:13 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a31/live/d7e8e0c0-bd51-11f1-b976-539055889f76.png",
+    "media_type": null,
+    "arabic_title": "فيرغسون يتحدث عن نزيف الدماغ والألعاب التي شكلت حياته",
+    "arabic_summary": "تحدث السير أليكس فيرجسون، المدير الفني السابق لمانشستر يونايتد، إلى بي بي سي بريكفاست مع اقتراب عيد ميلاده الخامس والثمانين.",
+    "translation_status": "translated",
+    "post_title": "فيرغسون يتحدث عن نزيف الدماغ والألعاب التي شكلت حياته",
+    "post_text": "🚨 فيرغسون يتحدث عن نزيف الدماغ والألعاب التي شكلت حياته\n\n📝 تحدث السير أليكس فيرجسون، المدير الفني السابق لمانشستر يونايتد، إلى بي بي سي بريكفاست مع اقتراب عيد ميلاده الخامس والثمانين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066570369341607",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيرغسون_يتحدث_عن_نزيف_الدماغ_والألعاب_التي_شكلت_حياته.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALj49wY9P3txgfK47KJTbKB"
+    }
+  },
+  {
     "title": "Football Daily",
     "url": "https://www.bbc.co.uk/sounds/play/p0pddfhc?at_medium=RSS&at_campaign=rss",
     "summary": "Sir Alex Ferguson talks about the class of '92 and recovering from a brain hemorrhage.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnAw1cuqT0XGofQGfkuh0_E"
-    }
-  },
-  {
-    "title": "Modric va a por Messi",
-    "url": "https://as.com/futbol/seleccion/modric-va-a-por-messi-f202609-n/",
-    "summary": "Luka ya es el tercero en solitario con más internacionalidades. Apunta a superar ya a Leo y solo tendrá delante a Cristiano. La llegada de Bilic le mantuvo con Croacia.",
-    "published": "Mon, 28 Sep 2026 08:44:42 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DTFPMMCTFBG2PJZYGUJRAB7PIA.jpg?auth=9aee04d52e5722f5266b6ea85c07f55d2e3e9a95b37c4099f2388dd266082d97",
-    "media_type": "image/jpeg",
-    "arabic_title": "مودريتش يلاحق ميسي",
-    "arabic_summary": "لوكا هو بالفعل ثالث لاعب منفرد لديه أكبر عدد من المباريات. إنه يهدف إلى تجاوز ليو ولن يكون أمامه سوى كريستيانو. وصول بيليتش أبقاه مع كرواتيا.",
-    "translation_status": "translated",
-    "post_title": "مودريتش يلاحق ميسي",
-    "post_text": "🚨 مودريتش يلاحق ميسي\n\n📝 لوكا هو بالفعل ثالث لاعب منفرد لديه أكبر عدد من المباريات. إنه يهدف إلى تجاوز ليو ولن يكون أمامه سوى كريستيانو. وصول بيليتش أبقاه مع كرواتيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062833726381938",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مودريتش_يلاحق_ميسي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/seleccion/modric-va-a-por-messi-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKUR9XS5IVU-02NJDcLL2aj"
     }
   }
 ]
