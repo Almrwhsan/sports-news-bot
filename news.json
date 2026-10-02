@@ -1,5 +1,39 @@
 [
   {
+    "title": "El proyecto del Rayo sitúa el nuevo estadio en el Abroñigal",
+    "url": "https://as.com/futbol/primera/el-proyecto-del-rayo-situa-el-nuevo-estadio-en-el-abronigal-f202610-n/",
+    "summary": "Ahí están ubicados los terrenos de ADIF que, según el consejero, el Gobierno ha ofrecido a Presa. Tienen 300.000m² y están a unos 2,5km del campo actual.",
+    "published": "Fri, 02 Oct 2026 16:51:45 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/HTDTGXB4QFFQVM3ZEQ5TG2UUIQ.jpg?auth=dbba3e4418678875124b448dafd38669287ec543a2fa841780680eb4644da6a5",
+    "media_type": "image/jpeg",
+    "arabic_title": "يضع مشروع رايو الملعب الجديد في ابرونيجال",
+    "arabic_summary": "توجد أراضي ADIF التي عرضتها الحكومة على بريسا، وفقًا للمستشار. تبلغ مساحتها 300000 متر مربع وتبعد حوالي 2.5 كيلومتر عن الحقل الحالي.",
+    "translation_status": "translated",
+    "post_title": "يضع مشروع رايو الملعب الجديد في ابرونيجال",
+    "post_text": "🚨 يضع مشروع رايو الملعب الجديد في ابرونيجال\n\n📝 توجد أراضي ADIF التي عرضتها الحكومة على بريسا، وفقًا للمستشار. تبلغ مساحتها 300000 متر مربع وتبعد حوالي 2.5 كيلومتر عن الحقل الحالي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067271809271463",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يضع_مشروع_رايو_الملعب_الجديد_في_ابرونيجال.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-proyecto-del-rayo-situa-el-nuevo-estadio-en-el-abronigal-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASmj4k3_QmT2Q8_ZAQftrYr"
+    }
+  },
+  {
     "title": "Mariota to start for Commanders in London as Daniels ruled out",
     "url": "https://www.skysports.com/nfl/news/12040/13594429/nfl-london-games-2026-marcus-mariota-to-start-for-washington-commanders-vs-indianapolis-colts-as-jayden-daniels-ruled-out",
     "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis Colts at Tottenham Hotspur Stadium - live on Sky Sports.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AG5UE-XuZxkyinmJa4rKkmI"
-    }
-  },
-  {
-    "title": "Divide and Conquer and Al Qayed clash at Bath",
-    "url": "https://www.skysports.com/racing/news/12040/13592680/today-on-sky-sports-racing-bath-sedgefield-and-wolverhampton",
-    "summary": "We have a busy day&#8217;s racing on Tuesday with action from Bath, Sedgefield and Wolverhampton, live on Sky Sports Racing...",
-    "published": "Tue, 29 Sep 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-bath-horse-racing_7233009.jpg?20260428112858",
-    "media_type": "image/jpg",
-    "arabic_title": "اشتباك فرق تسد وآل القايد في باث",
-    "arabic_summary": "لدينا يوم حافل بالسباقات يوم الثلاثاء مع فعاليات من باث وسيدجفيلد وولفرهامبتون، مباشرة على قناة Sky Sports Racing...",
-    "translation_status": "translated",
-    "post_title": "اشتباك فرق تسد وآل القايد في باث",
-    "post_text": "🚨 اشتباك فرق تسد وآل القايد في باث\n\n📝 لدينا يوم حافل بالسباقات يوم الثلاثاء مع فعاليات من باث وسيدجفيلد وولفرهامبتون، مباشرة على قناة Sky Sports Racing...\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063850882946889",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اشتباك_فرق_تسد_وآل_القايد_في_باث.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13592680/today-on-sky-sports-racing-bath-sedgefield-and-wolverhampton",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AC1PVqKRMBN-URHc0Lv9qzu"
     }
   }
 ]
