@@ -1,5 +1,39 @@
 [
   {
+    "title": "Real Madrid Castilla - Atlético Madrileño en directo: miniderbi de Primera Federación en vivo",
+    "url": "https://as.com/futbol/primera-rfef/real-madrid-castilla-atletico-madrileno-en-directo-miniderbi-de-primera-federacion-en-vivo-f202610-d/",
+    "summary": "Real Madrid Castilla - Atlético Madrileño en directo: miniderbi de Primera Federación en vivo",
+    "published": "Fri, 02 Oct 2026 18:30:00 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GIBRDDEQFRN37A7DWTANUY6SFI.jpg?auth=c6abc0ae9f3f2b8e1afe70400a88df5db4daca61c47e7cfe08d90dc57b1d029f",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر: أول ديربي مصغر للاتحاد",
+    "arabic_summary": "ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر: أول ديربي مصغر للاتحاد",
+    "translation_status": "translated",
+    "post_title": "ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر: أول ديربي مصغر للاتحاد",
+    "post_text": "🚨 ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر: أول ديربي مصغر للاتحاد\n\n📝 ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر: أول ديربي مصغر للاتحاد\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067174935947817",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_كاستيا_-_أتلتيكو_مادريلينيو_مباشر_أول_ديربي_مصغر_للاتحاد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera-rfef/real-madrid-castilla-atletico-madrileno-en-directo-miniderbi-de-primera-federacion-en-vivo-f202610-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApO62H148aO-LeqRRC8L3Da"
+    }
+  },
+  {
     "title": "What does Man City guilty verdict mean for their squad?",
     "url": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Atv6tVsgH7N9nDWuCpCNBPS"
-    }
-  },
-  {
-    "title": "El Atlético más internacional... ¡supera a Madrid y Barça!",
-    "url": "https://www.marca.com/futbol/atletico/2026/09/28/atletico-internacional-supera-madrid-barca.html",
-    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
-    "published": "Mon, 28 Sep 2026 17:24:57 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/6aba83dc4b924.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أتلتيكو الأكثر دولية.. يتفوق على مدريد وبرشلونة!",
-    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
-    "translation_status": "translated",
-    "post_title": "أتلتيكو الأكثر دولية.. يتفوق على مدريد وبرشلونة!",
-    "post_text": "🚨 أتلتيكو الأكثر دولية.. يتفوق على مدريد وبرشلونة!\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063786029620041",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_الأكثر_دولية.._يتفوق_على_مدريد_وبرشلونة!.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/09/28/atletico-internacional-supera-madrid-barca.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkHyTI95CPG6ycmeiOP-GBs"
     }
   }
 ]
