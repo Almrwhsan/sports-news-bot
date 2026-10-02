@@ -1,5 +1,39 @@
 [
   {
+    "title": "Eldense - Oviedo: a qué hora es, dónde ver en TV y canal del partido de LaLiga Hypermotion",
+    "url": "https://www.marca.com/futbol/segunda-division/2026/10/02/eldense-oviedo-que-hora-donde-ver-tv-canal-partido-laliga-hypermotion.html",
+    "summary": "Eldense y Oviedo se enfrentan hoy jueves 2 de octubre a las 20:30 horas en el Estadio Municipal Nuevo Pepico Amat en el partido correspondiente a la jornada 8 de LaLiga Hypermotion.",
+    "published": "Fri, 02 Oct 2026 13:30:41 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/30/53618946079146.png",
+    "media_type": "image/jpeg",
+    "arabic_title": "إلدينس - أوفييدو: ما هو الوقت، أين يمكن مشاهدة مباراة LaLiga Hypermotion على شاشة التلفزيون وقناة",
+    "arabic_summary": "يواجه إلدينس وأوفييدو بعضهما البعض اليوم الخميس 2 أكتوبر الساعة 8:30 مساءً. على الملعب البلدي نويفو بيبيكو أمات، في إطار الجولة الثامنة من LaLiga Hypermotion.",
+    "translation_status": "translated",
+    "post_title": "إلدينس - أوفييدو: ما هو الوقت، أين يمكن مشاهدة مباراة LaLiga Hypermotion على شاشة التلفزيون وقناة",
+    "post_text": "🚨 إلدينس - أوفييدو: ما هو الوقت، أين يمكن مشاهدة مباراة LaLiga Hypermotion على شاشة التلفزيون وقناة\n\n📝 يواجه إلدينس وأوفييدو بعضهما البعض اليوم الخميس 2 أكتوبر الساعة 8:30 مساءً. على الملعب البلدي نويفو بيبيكو أمات، في إطار الجولة الثامنة من LaLiga Hypermotion.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067183139280330",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إلدينس_-_أوفييدو_ما_هو_الوقت،_أين_يمكن_مشاهدة_مباراة_LaLiga_Hypermotion_على_شاشة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/segunda-division/2026/10/02/eldense-oviedo-que-hora-donde-ver-tv-canal-partido-laliga-hypermotion.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxHcebpoLBNCGTwyRnTOohM"
+    }
+  },
+  {
     "title": "Óscar Trejo se incorpora a la estructura de la AFE",
     "url": "https://www.marca.com/futbol/2026/10/02/oscar-trejo-incorpora-estructura-afe.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZvvPTa00ho8x52XOHoF99m"
-    }
-  },
-  {
-    "title": "El Barça lleva a Florentino a los juzgados",
-    "url": "https://www.marca.com/futbol/barcelona/2026/09/28/barca-lleva-florentino-juzgados-fijado-acto-conciliacion.html",
-    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
-    "published": "Mon, 28 Sep 2026 15:29:43 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/6aba6b96d9521.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "برشلونة يأخذ فلورنتينو إلى المحكمة",
-    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
-    "translation_status": "translated",
-    "post_title": "برشلونة يأخذ فلورنتينو إلى المحكمة",
-    "post_text": "🚨 برشلونة يأخذ فلورنتينو إلى المحكمة\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063785772953400",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_يأخذ_فلورنتينو_إلى_المحكمة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/09/28/barca-lleva-florentino-juzgados-fijado-acto-conciliacion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVstqJKRCy6GU2X5em5igR7"
     }
   }
 ]
