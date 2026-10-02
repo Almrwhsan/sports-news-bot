@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las abuelas de oro",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/02/abuelas-oro.html",
+    "summary": "MARCA cumple su promesa y celebra con la familia de Dani Olmo el Mundial de España",
+    "published": "Fri, 02 Oct 2026 06:04:31 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/fFFPs1glbTWPVqqYE.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الجدات الذهبية",
+    "arabic_summary": "ماركا تفي بوعدها وتحتفل بكأس العالم في إسبانيا مع عائلة داني أولمو",
+    "translation_status": "translated",
+    "post_title": "الجدات الذهبية",
+    "post_text": "🚨 الجدات الذهبية\n\n📝 ماركا تفي بوعدها وتحتفل بكأس العالم في إسبانيا مع عائلة داني أولمو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066516369347007",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الجدات_الذهبية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/02/abuelas-oro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A12zeo-xTgfuCgguWlm3CtJ"
+    }
+  },
+  {
     "title": "La prensa lusa celebra el triunfo sin Cristiano y ve reforzado al técnico Jorge Jesus",
     "url": "https://www.marca.com/futbol/nations-league/2026/10/02/prensa-lusa-celebra-triunfo-cristiano-ve-reforzado-tecnico-jorge-jesus.html",
     "summary": "La lectura general de la prensa portuguesa es que el equipo ofreció su mejor actuación desde la llegada de Jorge Jesus",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKQwkBC5HFo-4z4HEjOAHlP"
-    }
-  },
-  {
-    "title": "El dominio aplastante de España: es vigente campeona... ¡de ocho títulos!",
-    "url": "https://as.com/futbol/seleccion/el-dominio-aplastante-de-espana-es-vigente-campeona-de-ocho-titulos-f202609-n/",
-    "summary": "El Mundial Sub-20 femenino es el último galardón de un fútbol español imparable, que solo este año ha conquistado el Mundial absoluto y los Europeos Sub-19 masculino y femenino.",
-    "published": "Mon, 28 Sep 2026 05:42:03 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/U2AWAGBYFZNU7LHFMWRAK2J56E.jpg?auth=3614ed5d1f754bab5cfb028197c6a721bd8793f73744f80b2d0872bbbeaac32c",
-    "media_type": "image/jpeg",
-    "arabic_title": "الهيمنة الساحقة لإسبانيا: إنها البطل الحالي... بثمانية ألقاب!",
-    "arabic_summary": "كأس العالم للسيدات تحت 20 عامًا هي أحدث جائزة لكرة القدم الإسبانية التي لا يمكن إيقافها، والتي فازت هذا العام وحده بكأس العالم المطلق وبطولة أوروبا تحت 19 عامًا للرجال والسيدات.",
-    "translation_status": "translated",
-    "post_title": "الهيمنة الساحقة لإسبانيا: إنها البطل الحالي... بثمانية ألقاب!",
-    "post_text": "🚨 الهيمنة الساحقة لإسبانيا: إنها البطل الحالي... بثمانية ألقاب!\n\n📝 كأس العالم للسيدات تحت 20 عامًا هي أحدث جائزة لكرة القدم الإسبانية التي لا يمكن إيقافها، والتي فازت هذا العام وحده بكأس العالم المطلق وبطولة أوروبا تحت 19 عامًا للرجال والسيدات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062695926395718",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهيمنة_الساحقة_لإسبانيا_إنها_البطل_الحالي..._بثمانية_ألقاب!.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/seleccion/el-dominio-aplastante-de-espana-es-vigente-campeona-de-ocho-titulos-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtOEHXcITfTt13TsvXWl9UB"
     }
   }
 ]
