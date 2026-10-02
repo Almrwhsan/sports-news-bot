@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hay Clásico en Nyon: esta vez pita Ceferin",
+    "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/02/hay-clasico-nyon-vez-pita-ceferin.html",
+    "summary": "La opinión de Santiago Siguero",
+    "published": "Fri, 02 Oct 2026 10:42:55 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe6cc260e92.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هناك كلاسيكو في نيون: هذه المرة يطلق تشيفيرين صافرات الإنذار",
+    "arabic_summary": "رأي سانتياغو فويرو",
+    "translation_status": "translated",
+    "post_title": "هناك كلاسيكو في نيون: هذه المرة يطلق تشيفيرين صافرات الإنذار",
+    "post_text": "🚨 هناك كلاسيكو في نيون: هذه المرة يطلق تشيفيرين صافرات الإنذار\n\n📝 رأي سانتياغو فويرو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067014442630533",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هناك_كلاسيكو_في_نيون_هذه_المرة_يطلق_تشيفيرين_صافرات_الإنذار.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/02/hay-clasico-nyon-vez-pita-ceferin.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aznb1WQOxVOXblYBH80DPTA"
+    }
+  },
+  {
     "title": "La falsa polémica sobre la localía en la final de la Euskal Herria Txapela",
     "url": "https://www.marca.com/futbol/athletic/2026/10/02/falsa-polemica-sobre-localia-final-euskal-herria-txapela.html",
     "summary": "La normativa del torneo no exige precios unitarios y también regula la elección del estadio",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAkCxJzLihNymy-Wd1pMILX"
-    }
-  },
-  {
-    "title": "Roberto Mancini reconoce que tenía un doble contrato con el City... y echa balones fuera: \"No es problema mío\"",
-    "url": "https://www.marca.com/futbol/premier-league/2026/09/28/roberto-mancini-reconoce-tenia-doble-contrato-city-echa-balones-fuera-problema-mio.html",
-    "summary": "El seleccionador italiano ha hablado sobre la sentencia contra su exequipo y sobre un presunto pago que recibió por asesorar a un club en Abu Dhabi mientras dirigía a los 'citizens'",
-    "published": "Mon, 28 Sep 2026 11:52:49 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/6aba383da3f9d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "روبرتو مانشيني يعترف بأن لديه عقدًا مزدوجًا مع السيتي.. ويستبعد الأمور: \"إنها ليست مشكلتي\"",
-    "arabic_summary": "تحدث المدرب الإيطالي عن الحكم الصادر ضد فريقه السابق وعن الأموال المزعومة التي تلقاها مقابل تقديم المشورة لأحد الأندية في أبو ظبي أثناء إدارته لفريق سيتيزنز.",
-    "translation_status": "translated",
-    "post_title": "روبرتو مانشيني يعترف بأن لديه عقدًا مزدوجًا مع السيتي.. ويستبعد الأمور: \"إنها ليست مشكلتي\"",
-    "post_text": "🚨 روبرتو مانشيني يعترف بأن لديه عقدًا مزدوجًا مع السيتي.. ويستبعد الأمور: \"إنها ليست مشكلتي\"\n\n📝 تحدث المدرب الإيطالي عن الحكم الصادر ضد فريقه السابق وعن الأموال المزعومة التي تلقاها مقابل تقديم المشورة لأحد الأندية في أبو ظبي أثناء إدارته لفريق سيتيزنز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063188743013103",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روبرتو_مانشيني_يعترف_بأن_لديه_عقدًا_مزدوجًا_مع_السيتي.._ويستبعد_الأمور_إنها_ليست.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/09/28/roberto-mancini-reconoce-tenia-doble-contrato-city-echa-balones-fuera-problema-mio.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxOkuA5tOGJH66Q2jVXw3FL"
     }
   }
 ]
