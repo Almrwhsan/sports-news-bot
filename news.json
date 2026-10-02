@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jordan handles Piers Morgan 'sledging' to move into contention",
+    "url": "https://www.skysports.com/golf/news/12040/13594476/alfred-dunhill-links-championship-matthew-jordan-moves-into-contention-with-casey-jarvis-leading-by-one",
+    "summary": "Matthew Jordan shot a seven-under 65 to move into contention at the Alfred Dunhill Links Championship despite having to put up with Piers Morgan's verbal jousting.",
+    "published": "Fri, 02 Oct 2026 18:01:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-matthew-jordan-golf_7366778.jpg?20261002175412",
+    "media_type": "image/jpg",
+    "arabic_title": "يتعامل الأردن مع \"زلاجات\" بيرس مورغان للانتقال إلى المنافسة",
+    "arabic_summary": "أطلق ماثيو جوردان النار على سبعة أهداف تحت 65 لينتقل إلى المنافسة في بطولة Alfred Dunhill Links على الرغم من اضطراره إلى تحمل المبارزة اللفظية من بيرس مورغان.",
+    "translation_status": "translated",
+    "post_title": "يتعامل الأردن مع \"زلاجات\" بيرس مورغان للانتقال إلى المنافسة",
+    "post_text": "🚨 يتعامل الأردن مع \"زلاجات\" بيرس مورغان للانتقال إلى المنافسة\n\n📝 أطلق ماثيو جوردان النار على سبعة أهداف تحت 65 لينتقل إلى المنافسة في بطولة Alfred Dunhill Links على الرغم من اضطراره إلى تحمل المبارزة اللفظية من بيرس مورغان.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067300079268636",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتعامل_الأردن_مع_زلاجات_بيرس_مورغان_للانتقال_إلى_المنافسة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/13594476/alfred-dunhill-links-championship-matthew-jordan-moves-into-contention-with-casey-jarvis-leading-by-one",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeBVeZkxcZpWTvLx2Jjk0Fx"
+    }
+  },
+  {
     "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
     "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Avr7cFG3Fjr2DXqeX5XDtyv"
-    }
-  },
-  {
-    "title": "Las portadas del día",
-    "url": "https://www.marca.com/futbol/album/2026/09/29/portadas-dia.html",
-    "summary": "Así vienen los periódicos deportivos de este martes 29 de septiembre de 2026.",
-    "published": "Tue, 29 Sep 2026 02:00:35 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abafeeb3cefd.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أغلفة اليوم",
-    "arabic_summary": "هكذا جاءت الصحف الرياضية ليوم الثلاثاء 29 سبتمبر 2026.",
-    "translation_status": "translated",
-    "post_title": "أغلفة اليوم",
-    "post_text": "🚨 أغلفة اليوم\n\n📝 هكذا جاءت الصحف الرياضية ليوم الثلاثاء 29 سبتمبر 2026.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063876606277650",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/album/2026/09/29/portadas-dia.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-8j1ossammk6DWg74uVOsn"
     }
   }
 ]
