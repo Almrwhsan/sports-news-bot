@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kochen, una cesión que cotiza al alza",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/02/kochen-cesion-cotiza-alza.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Fri, 02 Oct 2026 12:13:49 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf826114073.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كوشن، نقل يتم تداوله في الارتفاع",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "كوشن، نقل يتم تداوله في الارتفاع",
+    "post_text": "🚨 كوشن، نقل يتم تداوله في الارتفاع\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067094215955889",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوشن،_نقل_يتم_تداوله_في_الارتفاع.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/02/kochen-cesion-cotiza-alza.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmpyLRXkLAn9nATycAjwyB7"
+    }
+  },
+  {
     "title": "Boulter loses out to Muchova in China after dominant second set",
     "url": "https://www.skysports.com/watch/video/13594414/katie-boulter-vs-karolina-muchova-china-open-highlights",
     "summary": "Highlights of the China Open match between Katie Boulter and Karolina Muchova.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzlHxWKeCSmKQwW149bWhzH"
-    }
-  },
-  {
-    "title": "De la Fuente: “Esta España ha recuperado el espíritu de 2010”",
-    "url": "https://as.com/futbol/seleccion/de-la-fuente-esta-espana-ha-recuperado-el-espiritu-de-2010-f202609-n/",
-    "summary": "El seleccionador, antes de enfrentarse a Croacia: “La historia debe varios Balones de Oro al fútbol español”.",
-    "published": "Mon, 28 Sep 2026 18:24:14 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260928/1219543_182808_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "دي لا فوينتي: \"إسبانيا استعادت روح عام 2010\"",
-    "arabic_summary": "المدرب قبل مواجهة كرواتيا: \"التاريخ يدين لكرة القدم الإسبانية بعدة جوائز\".",
-    "translation_status": "translated",
-    "post_title": "دي لا فوينتي: \"إسبانيا استعادت روح عام 2010\"",
-    "post_text": "🚨 دي لا فوينتي: \"إسبانيا استعادت روح عام 2010\"\n\n📝 المدرب قبل مواجهة كرواتيا: \"التاريخ يدين لكرة القدم الإسبانية بعدة جوائز\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063605609638083",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دي_لا_فوينتي_إسبانيا_استعادت_روح_عام_2010.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXcJQfJIPdBn-7mvsWW5nzf"
     }
   }
 ]
