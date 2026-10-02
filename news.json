@@ -1,5 +1,39 @@
 [
   {
+    "title": "Listen: Is North Macedonia a must-win for Scotland?",
+    "url": "https://www.bbc.co.uk/sounds/play/p0pdljw8?at_medium=RSS&at_campaign=rss",
+    "summary": "Pressure Building for Pocognoli and Scotland",
+    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdljy4.jpg",
+    "media_type": null,
+    "arabic_title": "استمع: هل مقدونيا الشمالية هي الفوز الذي لا بد منه لاسكتلندا؟",
+    "arabic_summary": "بناء الضغط لبوكونيولي واسكتلندا",
+    "translation_status": "translated",
+    "post_title": "استمع: هل مقدونيا الشمالية هي الفوز الذي لا بد منه لاسكتلندا؟",
+    "post_text": "🚨 استمع: هل مقدونيا الشمالية هي الفوز الذي لا بد منه لاسكتلندا؟\n\n📝 بناء الضغط لبوكونيولي واسكتلندا\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066691955996115",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استمع_هل_مقدونيا_الشمالية_هي_الفوز_الذي_لا_بد_منه_لاسكتلندا؟.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sounds/play/p0pdljw8?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AoQaUKyRuzvhqtSEjFA_uxh"
+    }
+  },
+  {
     "title": "Obrador y su adiós al Madrid: “No me lo pensé dos veces”",
     "url": "https://as.com/futbol/internacional/obrador-y-su-adios-al-madrid-no-me-lo-pense-dos-veces-f202610-n/",
     "summary": "El canterano del Real Madrid habla también de su decisión de cambiar Mallorca por la capital de España.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ay11qv4BlZUJ36Cx59RZnP5"
-    }
-  },
-  {
-    "title": "¡¡Por fin Militao!!",
-    "url": "https://as.com/futbol/por-fin-militao-f202609-n/",
-    "summary": "El brasileño vuelve a ejercitarse con sus compañeros cinco meses después de haber sido operado y superar una prueba con el médico que le intervino.",
-    "published": "Mon, 28 Sep 2026 11:33:00 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VCX6A4526FBWXPEZMMWDGMPSPU.jpg?auth=e45f642c98795de898525d2d1dce8b25e597d5bd582eb9e74af8bda91e687a10",
-    "media_type": "image/jpeg",
-    "arabic_title": "واخيرا عسكري!!",
-    "arabic_summary": "ويعود البرازيلي إلى التمارين مع زملائه بعد خمسة أشهر من خضوعه لعملية جراحية واجتيازه اختبار مع الطبيب الذي أجرى له العملية.",
-    "translation_status": "translated",
-    "post_title": "واخيرا عسكري!!",
-    "post_text": "🚨 واخيرا عسكري!!\n\n📝 ويعود البرازيلي إلى التمارين مع زملائه بعد خمسة أشهر من خضوعه لعملية جراحية واجتيازه اختبار مع الطبيب الذي أجرى له العملية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062925786372732",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/واخيرا_عسكري!!.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/por-fin-militao-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjwdYsMHt4w5cdIBpUrqO3P"
     }
   }
 ]
