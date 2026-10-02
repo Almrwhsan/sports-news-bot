@@ -1,5 +1,39 @@
 [
   {
+    "title": "Man City lodge appeal against guilty verdict",
+    "url": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
+    "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League financial rules.",
+    "published": "Fri, 02 Oct 2026 12:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-manchester-city-appeal_7365010.jpg?20260930152949",
+    "media_type": "image/jpg",
+    "arabic_title": "مانشستر سيتي يقدم استئنافًا ضد حكم الإدانة",
+    "arabic_summary": "قدم مانشستر سيتي استئنافًا ضد لجنة مستقلة وجدته مذنبًا بجميع التهم المتعلقة بالانتهاكات الجسيمة للقواعد المالية للدوري الإنجليزي الممتاز.",
+    "translation_status": "translated",
+    "post_title": "مانشستر سيتي يقدم استئنافًا ضد حكم الإدانة",
+    "post_text": "🚨 مانشستر سيتي يقدم استئنافًا ضد حكم الإدانة\n\n📝 قدم مانشستر سيتي استئنافًا ضد لجنة مستقلة وجدته مذنبًا بجميع التهم المتعلقة بالانتهاكات الجسيمة للقواعد المالية للدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066979679300676",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانشستر_سيتي_يقدم_استئنافًا_ضد_حكم_الإدانة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOZTmX1b443TVAmtMziOODf"
+    }
+  },
+  {
     "title": "Terzic se lleva 22 jugadores a su primer derbi en Anoeta",
     "url": "https://www.marca.com/futbol/athletic/2026/10/02/terzic-lleva-22-jugadores-primer-derbi-anoeta.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASbZ16vwpiDtvXxKvP5tb7p"
-    }
-  },
-  {
-    "title": "Kita, día de 'primeras' veces en Ceuta",
-    "url": "https://www.marca.com/futbol/real-sociedad-b/2026/09/28/kita-dia-primeras-veces-ceuta.html",
-    "summary": "El central japonés se estrenó como goleador con el Sanse para ponerle 0-1, pero luego sufrió su primera expulsión por dos amarillas",
-    "published": "Mon, 28 Sep 2026 11:23:10 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/6aba31d73e11d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كيتا، يوم الظهور \"الأول\" في سبتة",
-    "arabic_summary": "ظهر قلب الدفاع الياباني لأول مرة كهداف مع سانسي ليضعهم في النتيجة 0-1، لكنه تعرض بعد ذلك للطرد الأول بسبب بطاقتين صفراوين.",
-    "translation_status": "translated",
-    "post_title": "كيتا، يوم الظهور \"الأول\" في سبتة",
-    "post_text": "🚨 كيتا، يوم الظهور \"الأول\" في سبتة\n\n📝 ظهر قلب الدفاع الياباني لأول مرة كهداف مع سانسي ليضعهم في النتيجة 0-1، لكنه تعرض بعد ذلك للطرد الأول بسبب بطاقتين صفراوين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063164833015494",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيتا،_يوم_الظهور_الأول_في_سبتة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-sociedad-b/2026/09/28/kita-dia-primeras-veces-ceuta.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkP_yoKjCle91xTWwX1lDK5"
     }
   }
 ]
