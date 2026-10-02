@@ -10,7 +10,7 @@
       "id": "authorized_stream",
       "name": "Authorized Live Stream",
       "event_title": "Authorized Live",
-      "stream_url": "https://18soso.s3.us-east-2.amazonaws.com/bein2/480p/manifest.m3u8",
+      "stream_url": "https://18soso.s3.us-east-2.amazonaws.com/bein1/480p/manifest.m3u8",
       "enabled": true,
       "status": "testing",
       "preferred_variant": 1
