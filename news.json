@@ -1,5 +1,39 @@
 [
   {
+    "title": "La Federación de Portugal ya trabaja para firmar la paz con Cristiano",
+    "url": "https://www.marca.com/futbol/2026/10/02/federacion-portugal-trabaja-firmar-paz-cristiano.html",
+    "summary": "Tratará de encauzar la relación con el jugador en una reunión la próxima semana",
+    "published": "Fri, 02 Oct 2026 13:03:24 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/fEURg1glXzQlM_wCP.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ويعمل الاتحاد البرتغالي بالفعل على توقيع السلام مع كريستيانو",
+    "arabic_summary": "وسيحاول توجيه العلاقة مع اللاعب في اجتماع الأسبوع المقبل",
+    "translation_status": "translated",
+    "post_title": "ويعمل الاتحاد البرتغالي بالفعل على توقيع السلام مع كريستيانو",
+    "post_text": "🚨 ويعمل الاتحاد البرتغالي بالفعل على توقيع السلام مع كريستيانو\n\n📝 وسيحاول توجيه العلاقة مع اللاعب في اجتماع الأسبوع المقبل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067159302616047",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويعمل_الاتحاد_البرتغالي_بالفعل_على_توقيع_السلام_مع_كريستيانو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/02/federacion-portugal-trabaja-firmar-paz-cristiano.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AV0cGxLQAYusXBth5hd22S4"
+    }
+  },
+  {
     "title": "El Manchester City presenta su apelación: \"Somos inocentes\"",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/02/manchester-city-presenta-apelacion.html",
     "summary": "El club inglés lo ha confirmado en un comunicado",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1I8IdyCmDAyqrT89e8xtXB"
-    }
-  },
-  {
-    "title": "Visto para sentencia",
-    "url": "https://as.com/futbol/internacional/visto-para-sentencia-f202609-n/",
-    "summary": "El plazo para emitir las votaciones al Balón de Oro concluye con una gran igualdad entre los favoritos. Kane lidera las apuestas por delante de Lamine y Mbappé. La gala, el 26-O en Londres.",
-    "published": "Mon, 28 Sep 2026 22:04:17 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YOWGBJ4ZNVFDDFHG7XU6PC5CJU.jpg?auth=07adf66ce191e8af281469342997b6b31f05b42379eed737c58e504c65010f64",
-    "media_type": "image/jpeg",
-    "arabic_title": "ينظر للجملة",
-    "arabic_summary": "ينتهي الموعد النهائي للتصويت على جائزة الكرة الذهبية بمساواة كبيرة بين المرشحين. كين يقود الرهان متقدما على لامين ومبابي. الحفل يوم 26 أكتوبر في لندن.",
-    "translation_status": "translated",
-    "post_title": "ينظر للجملة",
-    "post_text": "🚨 ينظر للجملة\n\n📝 ينتهي الموعد النهائي للتصويت على جائزة الكرة الذهبية بمساواة كبيرة بين المرشحين. كين يقود الرهان متقدما على لامين ومبابي. الحفل يوم 26 أكتوبر في لندن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063786469619997",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ينظر_للجملة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/visto-para-sentencia-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Az_P9bXaOIT4pffwzC6lHAJ"
     }
   }
 ]
