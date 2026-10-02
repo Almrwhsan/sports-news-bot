@@ -1,5 +1,39 @@
 [
   {
+    "title": "Autocrítica de Vinicius",
+    "url": "https://as.com/futbol/primera/autocritica-de-vinicius-f202610-n/",
+    "summary": "Está en su peor arranque desde la pandemia: sólo un gol en los ocho primeros partidos. Asume lo irrefutable y quiere levantarse. El club le arropa, empezando por Mourinho.",
+    "published": "Fri, 02 Oct 2026 11:54:15 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4QZNYXE2RNJ4PDL5P4KE7JWP7U.jpg?auth=3de2340547fc50625bc92c34746141ee6bde8a4363d132d785b98a502c16ebc1",
+    "media_type": "image/jpeg",
+    "arabic_title": "النقد الذاتي لفينيسيوس",
+    "arabic_summary": "إنها أسوأ بداية لها منذ الوباء: هدف واحد فقط في أول ثماني مباريات. تفترض ما لا يمكن دحضه وتريد النهوض. النادي يدعمه، بدءًا من مورينيو.",
+    "translation_status": "translated",
+    "post_title": "النقد الذاتي لفينيسيوس",
+    "post_text": "🚨 النقد الذاتي لفينيسيوس\n\n📝 إنها أسوأ بداية لها منذ الوباء: هدف واحد فقط في أول ثماني مباريات. تفترض ما لا يمكن دحضه وتريد النهوض. النادي يدعمه، بدءًا من مورينيو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066844835980827",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/النقد_الذاتي_لفينيسيوس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/autocritica-de-vinicius-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ATHGGsP8iVhupwj6mMhqsPX"
+    }
+  },
+  {
     "title": "El Barcelona ficha para el Clásico al polémico rapero Tyler, the Creator",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/02/barcelona-ficha-clasico-tyler-the-creator-rapero-vetado-letras-homofobas-machistas.html",
     "summary": "Jugará contra el Real Madrid con el logo en su camiseta del controvertido cantante estadounidense",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AE1uJNEf1IXtUB_jtJC6fTI"
-    }
-  },
-  {
-    "title": "Norris apologises for Colapinto comments following Baku crash",
-    "url": "https://www.skysports.com/f1/news/12040/13592672/lando-norris-apologises-to-franco-colapinto-for-critical-comments-made-about-alpine-driver-following-azerbaijan-gp-crash",
-    "summary": "Reigning Formula 1 world champion Lando Norris said he apologised to Franco Colapinto for the stinging comments he made after the Alpine driver caused a crash that took both of them out of the Azerbaijan Grand Prix.",
-    "published": "Mon, 28 Sep 2026 10:40:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-lando-norris-mclaren_7361860.jpg?20260926155719",
-    "media_type": "image/jpg",
-    "arabic_title": "نوريس يعتذر عن تعليقات كولابينتو بعد تحطم باكو",
-    "arabic_summary": "قال لاندو نوريس، بطل العالم في الفورمولا 1، إنه اعتذر لفرانكو كولابينتو عن التعليقات اللاذعة التي أدلى بها بعد أن تسبب سائق جبال الألب في حادث أدى إلى خروجهما من سباق جائزة أذربيجان الكبرى.",
-    "translation_status": "translated",
-    "post_title": "نوريس يعتذر عن تعليقات كولابينتو بعد تحطم باكو",
-    "post_text": "🚨 نوريس يعتذر عن تعليقات كولابينتو بعد تحطم باكو\n\n📝 قال لاندو نوريس، بطل العالم في الفورمولا 1، إنه اعتذر لفرانكو كولابينتو عن التعليقات اللاذعة التي أدلى بها بعد أن تسبب سائق جبال الألب في حادث أدى إلى خروجهما من سباق جائزة أذربيجان الكبرى.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063048036360507",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نوريس_يعتذر_عن_تعليقات_كولابينتو_بعد_تحطم_باكو.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13592672/lando-norris-apologises-to-franco-colapinto-for-critical-comments-made-about-alpine-driver-following-azerbaijan-gp-crash",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwAoMcn3i_DFgis_zfLkopL"
     }
   }
 ]
