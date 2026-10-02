@@ -1,5 +1,39 @@
 [
   {
+    "title": "Óscar Trejo se incorpora a la estructura de la AFE",
+    "url": "https://www.marca.com/futbol/2026/10/02/oscar-trejo-incorpora-estructura-afe.html",
+    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
+    "published": "Fri, 02 Oct 2026 13:29:31 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf90e39e61d.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ينضم أوسكار تريجو إلى هيكل AFE",
+    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
+    "translation_status": "translated",
+    "post_title": "ينضم أوسكار تريجو إلى هيكل AFE",
+    "post_text": "🚨 ينضم أوسكار تريجو إلى هيكل AFE\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067178959280748",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ينضم_أوسكار_تريجو_إلى_هيكل_AFE.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/02/oscar-trejo-incorpora-estructura-afe.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJl_yhOgILxSRy1kdlSp36z"
+    }
+  },
+  {
     "title": "Real Madrid Castilla - Atlético Madrileño en directo: miniderbi de Primera Federación en vivo",
     "url": "https://as.com/futbol/primera-rfef/real-madrid-castilla-atletico-madrileno-en-directo-miniderbi-de-primera-federacion-en-vivo-f202610-d/",
     "summary": "Real Madrid Castilla - Atlético Madrileño en directo: miniderbi de Primera Federación en vivo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVstqJKRCy6GU2X5em5igR7"
-    }
-  },
-  {
-    "title": "El gol más especial de Dani Güiza",
-    "url": "https://www.marca.com/futbol/mas-futbol/2026/09/28/gol-especial-dani-gueiza.html",
-    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
-    "published": "Mon, 28 Sep 2026 15:52:13 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/f3E7U1gkeSsYLqz_l.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أجمل هدف لداني جويزا",
-    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
-    "translation_status": "translated",
-    "post_title": "أجمل هدف لداني جويزا",
-    "post_text": "🚨 أجمل هدف لداني جويزا\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063785919620052",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أجمل_هدف_لداني_جويزا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/mas-futbol/2026/09/28/gol-especial-dani-gueiza.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Atv6tVsgH7N9nDWuCpCNBPS"
     }
   }
 ]
