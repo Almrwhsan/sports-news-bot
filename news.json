@@ -1,5 +1,39 @@
 [
   {
+    "title": "Who wins the Arc? Sky Sports Racing team tips",
+    "url": "https://www.skysports.com/watch/video/13594431/who-wins-the-arc-sky-sports-racing-team-tips",
+    "summary": "The Prix de l'Arc de Triomphe takes centre stage in Paris on Sunday, all live on Sky Sports Racing, and our team of experts have had their say on who wins the big one...",
+    "published": "Fri, 02 Oct 2026 15:29:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-arc-tips-racing_7366689.jpg?20261002153015",
+    "media_type": "image/jpg",
+    "arabic_title": "من يفوز بالآرك؟ نصائح فريق Sky Sports Racing",
+    "arabic_summary": "يحتل سباق Prix de l'Arc de Triomphe مركز الصدارة في باريس يوم الأحد، وجميعها مباشرة على قناة Sky Sports Racing، وقد كان لفريق الخبراء لدينا رأيه بشأن من سيفوز بالسباق الكبير...",
+    "translation_status": "translated",
+    "post_title": "من يفوز بالآرك؟ نصائح فريق Sky Sports Racing",
+    "post_text": "🚨 من يفوز بالآرك؟ نصائح فريق Sky Sports Racing\n\n📝 يحتل سباق Prix de l'Arc de Triomphe مركز الصدارة في باريس يوم الأحد، وجميعها مباشرة على قناة Sky Sports Racing، وقد كان لفريق الخبراء لدينا رأيه بشأن من سيفوز بالسباق الكبير...\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067151815950129",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_يفوز_بالآرك؟_نصائح_فريق_Sky_Sports_Racing.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13594431/who-wins-the-arc-sky-sports-racing-team-tips",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArR9nWuv1WZVPNqNBNS_TO_"
+    }
+  },
+  {
     "title": "El City se aferra a Abu Dabi",
     "url": "https://as.com/futbol/internacional/el-city-se-aferra-a-abu-dabi-f202610-n/",
     "summary": "La prensa británica sostiene que el club intentará demostrar su inocencia argumentando que fue el Gobierno quien financió parcialmente los acuerdos de patrocinio y no ADUG.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATckTN39jgmM9Vz0ZHGyzBh"
-    }
-  },
-  {
-    "title": "Rosalía es un diamante",
-    "url": "https://as.com/futbol/rosalia-el-nuevo-dimante-de-espana-f202609-n/",
-    "summary": "La sevillana se llevó el Balón de Oro del Mundial Sub-20 con 17 años. También ganó el MVP de la Eurocopa Sub-19 este mismo año. “Es el trabajo de todas”, explicó.",
-    "published": "Mon, 28 Sep 2026 23:24:50 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260928/1219334_112856_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "روزاليا هي الماس",
-    "arabic_summary": "فازت الإشبيلية بالكرة الذهبية في كأس العالم تحت 20 سنة عندما كان عمرها 17 عامًا. كما فاز بجائزة أفضل لاعب في كأس أوروبا تحت 19 عامًا في نفس العام. وأوضح: \"إنها مهمة الجميع\".",
-    "translation_status": "translated",
-    "post_title": "روزاليا هي الماس",
-    "post_text": "🚨 روزاليا هي الماس\n\n📝 فازت الإشبيلية بالكرة الذهبية في كأس العالم تحت 20 سنة عندما كان عمرها 17 عامًا. كما فاز بجائزة أفضل لاعب في كأس أوروبا تحت 19 عامًا في نفس العام. وأوضح: \"إنها مهمة الجميع\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063786709619973",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روزاليا_هي_الماس.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APoIXaHLmosWfTmHo8ZfKJv"
     }
   }
 ]
