@@ -59,11 +59,26 @@
     "video": {
       "width": 1920,
       "height": 1080,
-      "fps": 25,
-      "bitrate": "5000k",
+      "fps": 29.97,
+      "bitrate": "4500k",
       "maxrate": "5500k",
       "bufsize": "10000k",
-      "preset": "veryfast"
+      "preset": "veryfast",
+      "eq": {
+        "brightness": 0.02,
+        "contrast": 1.03,
+        "saturation": 1.05
+      },
+      "noise": {
+        "enabled": true,
+        "alls": 3,
+        "allf": "t+u"
+      },
+      "crop": {
+        "enabled": true,
+        "width_factor": 0.96,
+        "height_factor": 0.96
+      }
     },
 
     "overlay": {
@@ -111,11 +126,21 @@
 
       "mode": "young",
 
-      "volume": 1.1,
+      "volume": 1.05,
 
       "bass": -8,
 
       "treble": 12,
+
+      "speed_and_pitch": {
+        "asetrate": "48000*1.015",
+        "aresample": 48000
+      },
+
+      "filters": {
+        "highpass": 100,
+        "lowpass": 14000
+      },
 
       "echo": {
         "enabled": false,
