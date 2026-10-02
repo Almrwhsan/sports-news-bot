@@ -1,5 +1,39 @@
 [
   {
+    "title": "Orlando, donde comienza la magia del fútbol mundial",
+    "url": "https://as.com/futbol/mas_futbol/orlando-donde-comienza-la-magia-del-futbol-mundial-f202610-n/",
+    "summary": "El Walt Disney World Resort, en territorio estadounidense, acoge LaLiga FC Futures por quinto año. Participan ocho clubes españoles y seis americanos.",
+    "published": "Fri, 02 Oct 2026 02:37:28 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/F5RH6FR3IZDHPA34X5BVKEYRBM.jpg?auth=5e250698a17ea2580669caa64a0c30d5135360f2ee1abc8d1c2d9edd538018a1",
+    "media_type": "image/jpeg",
+    "arabic_title": "أورلاندو، حيث يبدأ سحر كرة القدم العالمية",
+    "arabic_summary": "يستضيف منتجع والت ديزني العالمي في الولايات المتحدة نادي LaLiga FC Futures للسنة الخامسة. تشارك ثمانية أندية إسبانية وستة أمريكية.",
+    "translation_status": "translated",
+    "post_title": "أورلاندو، حيث يبدأ سحر كرة القدم العالمية",
+    "post_text": "🚨 أورلاندو، حيث يبدأ سحر كرة القدم العالمية\n\n📝 يستضيف منتجع والت ديزني العالمي في الولايات المتحدة نادي LaLiga FC Futures للسنة الخامسة. تشارك ثمانية أندية إسبانية وستة أمريكية.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1066519492680028",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أورلاندو،_حيث_يبدأ_سحر_كرة_القدم_العالمية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/mas_futbol/orlando-donde-comienza-la-magia-del-futbol-mundial-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AroMfvKWVfX_YkcQsKs5iDw"
+    }
+  },
+  {
     "title": "Las abuelas de oro",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/02/abuelas-oro.html",
     "summary": "MARCA cumple su promesa y celebra con la familia de Dani Olmo el Mundial de España",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwVCLmUszWG10l3IJy2MAmW"
-    }
-  },
-  {
-    "title": "Vozinha, en el punto de mira",
-    "url": "https://as.com/futbol/internacional/vozinha-en-el-punto-de-mira-f202609-n/",
-    "summary": "El portero asegura que prefería la vida que tenía antes de la fama. Su futuro en el Colo Colo, en juego.",
-    "published": "Mon, 28 Sep 2026 05:33:02 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YEFLPY2W2VAO5I3RIZGJSAXZSU.jpg?auth=74c37a165a9951af4dcfa62e8fa61d3b5abe82cf894c742be6878300905fb9ef",
-    "media_type": "image/jpeg",
-    "arabic_title": "فوزينها، في دائرة الضوء",
-    "arabic_summary": "ويؤكد حارس المرمى أنه كان يفضل الحياة التي كان يعيشها قبل الشهرة. مستقبله في كولو كولو على المحك.",
-    "translation_status": "translated",
-    "post_title": "فوزينها، في دائرة الضوء",
-    "post_text": "🚨 فوزينها، في دائرة الضوء\n\n📝 ويؤكد حارس المرمى أنه كان يفضل الحياة التي كان يعيشها قبل الشهرة. مستقبله في كولو كولو على المحك.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1062695813062396",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فوزينها،_في_دائرة_الضوء.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/vozinha-en-el-punto-de-mira-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKQwkBC5HFo-4z4HEjOAHlP"
     }
   }
 ]
