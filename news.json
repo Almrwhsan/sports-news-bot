@@ -1,5 +1,39 @@
 [
   {
+    "title": "Yáñez reina en el derbi de los derbis",
+    "url": "https://as.com/futbol/primera-rfef/yanez-reina-en-la-locura-f202610-n/",
+    "summary": "Un golazo del gaditano coloca el 3-2 definitivo. Carvajal y Aguado, los otros goleadores castillistas. Antal y Koke Mota, los rojiblancos. Partidazo de Thiago, gran Mestre.",
+    "published": "Fri, 02 Oct 2026 21:24:16 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PDB3ZB5KGJDZDKUOWZ54GMK6WQ.JPG?auth=a9a0246637e3a14c027c7a1f3ab55529e4694866c2f23afbc4e7b2f4900a5e98",
+    "media_type": "image/jpeg",
+    "arabic_title": "يانيز يسود في ديربي الديربي",
+    "arabic_summary": "هدف رائع من مواطن قادس يجعل النتيجة 3-2. كارفاخال وأغوادو، مسجلا الأهداف الآخرين لكاستيليستا. أنتال وكوكي موتا، الأحمر والأبيض. مباراة رائعة من تياجو، ميستري العظيم.",
+    "translation_status": "translated",
+    "post_title": "يانيز يسود في ديربي الديربي",
+    "post_text": "🚨 يانيز يسود في ديربي الديربي\n\n📝 هدف رائع من مواطن قادس يجعل النتيجة 3-2. كارفاخال وأغوادو، مسجلا الأهداف الآخرين لكاستيليستا. أنتال وكوكي موتا، الأحمر والأبيض. مباراة رائعة من تياجو، ميستري العظيم.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067292055936105",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يانيز_يسود_في_ديربي_الديربي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera-rfef/yanez-reina-en-la-locura-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aw7kcOBb4feIIayehqJvJ9y"
+    }
+  },
+  {
     "title": "Doyle: Maltese Cross to bring home Arc glory for Marquand and Haggas",
     "url": "https://www.skysports.com/racing/news/12040/13594467/hollie-doyle-maltese-cross-to-bring-home-prix-de-larc-de-triomphe-glory-for-tom-marquand-and-william-haggas",
     "summary": "Before heading to Paris to cheer on Maltese Cross, Hollie Doyle penned her latest exclusive blog ahead of Arc weekend.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZk82d_HTFmewfWRAmS6yPQ"
-    }
-  },
-  {
-    "title": "Arsenal latest: Vieira reveals interest from Man Utd and met with Ferguson",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Tue, 29 Sep 2026 07:27:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار أرسنال: فييرا يكشف عن اهتمام مانشستر يونايتد ويجتمع مع فيرجسون",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار أرسنال: فييرا يكشف عن اهتمام مانشستر يونايتد ويجتمع مع فيرجسون",
-    "post_text": "🚨 آخر أخبار أرسنال: فييرا يكشف عن اهتمام مانشستر يونايتد ويجتمع مع فيرجسون\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1063869412945036",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_أرسنال_فييرا_يكشف_عن_اهتمام_مانشستر_يونايتد_ويجتمع_مع_فيرجسون.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnBL23sfPruZiskMS8Oh5KI"
     }
   }
 ]
