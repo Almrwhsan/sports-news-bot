@@ -1,5 +1,39 @@
 [
   {
+    "title": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
+    "url": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+    "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
+    "published": "Fri, 02 Oct 2026 21:47:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-ciaron-brown-northern_7366863.jpg?20261002205336",
+    "media_type": "image/jpg",
+    "arabic_title": "يسجل براون هدفين في رحلة أيرلندا الشمالية للفوز على أوكرانيا",
+    "arabic_summary": "جاءت الأهداف الدولية الأولى لسيارون براون كثنائي لمساعدة منتخب أيرلندا الشمالية الشاب على مفاجأة أوكرانيا بنتيجة 3-0 والانطلاق في صدارة المجموعة الثانية في دوري الأمم الأوروبية.",
+    "translation_status": "translated",
+    "post_title": "يسجل براون هدفين في رحلة أيرلندا الشمالية للفوز على أوكرانيا",
+    "post_text": "🚨 يسجل براون هدفين في رحلة أيرلندا الشمالية للفوز على أوكرانيا\n\n📝 جاءت الأهداف الدولية الأولى لسيارون براون كثنائي لمساعدة منتخب أيرلندا الشمالية الشاب على مفاجأة أوكرانيا بنتيجة 3-0 والانطلاق في صدارة المجموعة الثانية في دوري الأمم الأوروبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067341999264444",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يسجل_براون_هدفين_في_رحلة_أيرلندا_الشمالية_للفوز_على_أوكرانيا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3Z-1Qf3TXlKe2K_RRunWvq"
+    }
+  },
+  {
     "title": "Price snatches win after Clayton misses three match darts",
     "url": "https://www.skysports.com/watch/video/13594517/gerwyn-price-beats-jonny-clayton-in-world-grand-prix-darts-quarter-final",
     "summary": "Gerwyn Price snatched victory from the jaws of defeat as compatriot Jonny Clayton missed three match darts in their quarter-final of the World Grand Prix Darts",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AqtbQsDk9ivC3vX3QmHNu4Z"
-    }
-  },
-  {
-    "title": "Le Normand, Roberto y Yeremy son los descartados ante Croacia",
-    "url": "https://www.marca.com/futbol/seleccion/2026/09/29/le-normand-roberto-yeremy-son-descartados-croacia.html",
-    "summary": "Fresneda entra con el dorsal 4 y Victor con el 11",
-    "published": "Tue, 29 Sep 2026 08:48:24 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abb5f29a8e9e.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لو نورماند وروبرتو وييريمي هم الذين تم استبعادهم ضد كرواتيا",
-    "arabic_summary": "تدخل فريسندا برقم 4 وفيكتور برقم 11",
-    "translation_status": "translated",
-    "post_title": "لو نورماند وروبرتو وييريمي هم الذين تم استبعادهم ضد كرواتيا",
-    "post_text": "🚨 لو نورماند وروبرتو وييريمي هم الذين تم استبعادهم ضد كرواتيا\n\n📝 تدخل فريسندا برقم 4 وفيكتور برقم 11\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064001276265183",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لو_نورماند_وروبرتو_وييريمي_هم_الذين_تم_استبعادهم_ضد_كرواتيا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/09/29/le-normand-roberto-yeremy-son-descartados-croacia.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Azdp8mUDsMFrV4dWHfxTeZr"
     }
   }
 ]
