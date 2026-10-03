@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cubarsí y Carlos Espí, los descartes",
+    "url": "https://www.marca.com/futbol/seleccion/2026/10/03/cubarsi-carlos-espi-descartes.html",
+    "summary": "Para el duelo ante la República Checa",
+    "published": "Sat, 03 Oct 2026 01:11:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac039ef4eaa6.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كوبارسي وكارلوس إسبي، المرتجعات",
+    "arabic_summary": "للمبارزة ضد جمهورية التشيك",
+    "translation_status": "translated",
+    "post_title": "كوبارسي وكارلوس إسبي، المرتجعات",
+    "post_text": "🚨 كوبارسي وكارلوس إسبي، المرتجعات\n\n📝 للمبارزة ضد جمهورية التشيك\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067968052535172",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوبارسي_وكارلوس_إسبي،_المرتجعات.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/03/cubarsi-carlos-espi-descartes.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3J4AOxuv6j_FXw5KVcWcFG"
+    }
+  },
+  {
     "title": "'It's like I won!' - Hamilton's wholesome reaction to qualifying on front row",
     "url": "https://www.skysports.com/watch/video/13594641/lewis-hamilton-wholesome-reaction-to-qualifying-on-front-row-at-bahrain-gp-in-malaysia",
     "summary": "Lewis Hamilton's wholesome reaction to qualifying on front row at Bahrain GP in Malaysia.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AL4Mb6nEYk0XtZjPkeX2yfV"
-    }
-  },
-  {
-    "title": "Crisis aguda y cambio de rumbo con Aguirre",
-    "url": "https://www.marca.com/futbol/valencia/2026/09/30/crisis-aguda-cambio-rumbo-aguirre.html",
-    "summary": "El pésimo arranque del equipo dinamitó la estructura deportiva con el despido de Corberán y del ceo de fútbol, Ron Gourlay, y sus colaboradores directos",
-    "published": "Wed, 30 Sep 2026 06:16:20 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abbdd8ad40e1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أزمة حادة وتغيير المسار مع أغيري",
-    "arabic_summary": "أدت البداية السيئة للفريق إلى نسف الهيكل الرياضي بإقالة كوربيران والرئيس التنفيذي لكرة القدم رون جورلاي ومعاونيهم المباشرين.",
-    "translation_status": "translated",
-    "post_title": "أزمة حادة وتغيير المسار مع أغيري",
-    "post_text": "🚨 أزمة حادة وتغيير المسار مع أغيري\n\n📝 أدت البداية السيئة للفريق إلى نسف الهيكل الرياضي بإقالة كوربيران والرئيس التنفيذي لكرة القدم رون جورلاي ومعاونيهم المباشرين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064951486170162",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أزمة_حادة_وتغيير_المسار_مع_أغيري.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/09/30/crisis-aguda-cambio-rumbo-aguirre.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AH72k-NAp3eiVPGK9bGRCfz"
     }
   }
 ]
