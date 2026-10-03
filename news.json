@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bélgica - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/nations-league/2026/10/02/01-0195-20261002-360-362.html",
+    "summary": "Sigue en vivo y en directo el Bélgica - Turquía de UEFA Nations League con todos los goles y estadísticas del partido",
+    "published": "Fri, 02 Oct 2026 19:18:57 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "بلجيكا - تركيا مباشر | الدقيقة الأخيرة من دوري الأمم الأوروبية مباشر اليوم",
+    "arabic_summary": "تابع مباراة بلجيكا وتركيا في دوري الأمم الأوروبية بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة",
+    "translation_status": "translated",
+    "post_title": "بلجيكا - تركيا مباشر | الدقيقة الأخيرة من دوري الأمم الأوروبية مباشر اليوم",
+    "post_text": "🚨 بلجيكا - تركيا مباشر | الدقيقة الأخيرة من دوري الأمم الأوروبية مباشر اليوم\n\n📝 تابع مباراة بلجيكا وتركيا في دوري الأمم الأوروبية بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067725885892722",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بلجيكا_-_تركيا_مباشر_الدقيقة_الأخيرة_من_دوري_الأمم_الأوروبية_مباشر_اليوم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmXcI88UxYnrqDgWf_gDaGi"
+    }
+  },
+  {
     "title": "Real Madrid Castilla - Atlético Madrileño en directo | Resumen, resultado y goles del derbi de filiales",
     "url": "https://www.marca.com/futbol/2026/10/02/01-01108-20261002-g-832-3551.html",
     "summary": "Sigue en vivo y en directo el Real Madrid Castilla - Atlético Madrileño de Primera Federación con todos los goles y estadísticas del partido",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A07Upp7O-n11rfP7AkIcyFo"
-    }
-  },
-  {
-    "title": "El secreto de la longevidad futbolística de Luka Modric",
-    "url": "https://as.com/futbol/videos/el-secreto-de-la-longevidad-futbolistica-de-luka-modric-f202609-v/",
-    "summary": "Modric marca a los 41 años y es el goleador más veterano de la historia de Croacia. Con Tomás Roncero hablamos de hasta cuándo seguirá y de los caminos que pueden llevarle de vuelta al Real Madrid.",
-    "published": "Tue, 29 Sep 2026 06:54:04 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260928/1219539_181404_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "سر طول عمر لوكا مودريتش في كرة القدم",
-    "arabic_summary": "مودريتش يسجل بعمر 41 عامًا وهو أكبر هداف في تاريخ كرواتيا. تحدثنا مع توماس رونسيرو عن المدة التي سيستمر فيها والطرق التي يمكن أن تعيده إلى ريال مدريد.",
-    "translation_status": "translated",
-    "post_title": "سر طول عمر لوكا مودريتش في كرة القدم",
-    "post_text": "🚨 سر طول عمر لوكا مودريتش في كرة القدم\n\n📝 مودريتش يسجل بعمر 41 عامًا وهو أكبر هداف في تاريخ كرواتيا. تحدثنا مع توماس رونسيرو عن المدة التي سيستمر فيها والطرق التي يمكن أن تعيده إلى ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064193596245951",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سر_طول_عمر_لوكا_مودريتش_في_كرة_القدم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "An-LVg-J01MeuMVgWKEiFP8"
     }
   }
 ]
