@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bowie fires Scotland in front early in North Macedonia LIVE!",
+    "url": "https://www.skysports.com/football/north-macedonia-vs-scotland/live/554056",
+    "summary": "",
+    "published": "Sat, 03 Oct 2026 18:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367485.jpg?20261003195809",
+    "media_type": "image/jpg",
+    "arabic_title": "باوي يطلق اسكتلندا في المقدمة مبكراً في شمال مقدونيا على الهواء مباشرة!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "باوي يطلق اسكتلندا في المقدمة مبكراً في شمال مقدونيا على الهواء مباشرة!",
+    "post_text": "🚨 باوي يطلق اسكتلندا في المقدمة مبكراً في شمال مقدونيا على الهواء مباشرة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068115652520412",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باوي_يطلق_اسكتلندا_في_المقدمة_مبكراً_في_شمال_مقدونيا_على_الهواء_مباشرة!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/north-macedonia-vs-scotland/live/554056",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AKUaQ8oLc7eCthSNOpPkqGP"
+    }
+  },
+  {
     "title": "Wakefield claim historic win over Warrington to become Super League champions",
     "url": "https://www.skysports.com/rugby-league/warrington-vs-wakefield/report/63349",
     "summary": "Wakefield Trinity were crowned Super League champions for the first time in the club's history with a 23-10 victory over Warrington Wolves in the Grand Final at Old Trafford.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsYEiPkUf668vsjOv2yDHVc"
-    }
-  },
-  {
-    "title": "WCL: Chelsea visit Lyon after Arsenal blow two-goal lead in Paris LIVE!",
-    "url": "https://www.skysports.com/football/olympiques-lyon-women-vs-chelsea-women/live/578243",
-    "summary": "",
-    "published": "Wed, 30 Sep 2026 16:45:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-chelsea-lyon_7365240.jpg?20260930201412",
-    "media_type": "image/jpg",
-    "arabic_title": "WCL: تشيلسي يزور ليون بعد أن ضيع أرسنال تقدمه بهدفين في باريس لايف!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "WCL: تشيلسي يزور ليون بعد أن ضيع أرسنال تقدمه بهدفين في باريس لايف!",
-    "post_text": "🚨 WCL: تشيلسي يزور ليون بعد أن ضيع أرسنال تقدمه بهدفين في باريس لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065192029479441",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/WCL_تشيلسي_يزور_ليون_بعد_أن_ضيع_أرسنال_تقدمه_بهدفين_في_باريس_لايف!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/olympiques-lyon-women-vs-chelsea-women/live/578243",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "As827zB2dZ0AY1DL8-GgKR5"
     }
   }
 ]
