@@ -1,5 +1,39 @@
 [
   {
+    "title": "La prórroga dorada de Szczesny",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/02/prorroga-dorada-szczesny.html",
+    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
+    "published": "Fri, 02 Oct 2026 18:24:31 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe57d46c622.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "التمديد الذهبي لتشيسني",
+    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
+    "translation_status": "translated",
+    "post_title": "التمديد الذهبي لتشيسني",
+    "post_text": "🚨 التمديد الذهبي لتشيسني\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067689389229705",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التمديد_الذهبي_لتشيسني.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/02/prorroga-dorada-szczesny.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXPIUVY80ziCC4okwSaKit1"
+    }
+  },
+  {
     "title": "Pool pioneer Fisher retiring after being diagnosed with Parkinson's",
     "url": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
     "summary": "Pool pioneer Allison Fisher is retiring from professional competition after being diagnosed with Parkinson's disease.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHtYcVkxGy7IZQYuaILegFr"
-    }
-  },
-  {
-    "title": "Laporta ya es uno más en la EFC y Anas Laghrari representa a A22",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/09/29/laporta-efc-madrid-representa-anas-laghari.html",
-    "summary": "La Asociación de clubes europeos (EFC) celebra su Asamblea anual en Copenhague con Laporta ya al frente de la expedición azulgrana. El Real Madrid, que mantiene abiertas conversaciones con la UEFA, todavía no se ha reintegrado",
-    "published": "Tue, 29 Sep 2026 10:38:35 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/8Bhor.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لابورتا هو بالفعل واحد آخر في EFC ويمثل أنس الغراري A22",
-    "arabic_summary": "يعقد اتحاد الأندية الأوروبية (EFC) جمعيته السنوية في كوبنهاغن، حيث يرأس لابورتا بالفعل بعثة برشلونة. ريال مدريد، الذي يجري محادثات مفتوحة مع الاتحاد الأوروبي لكرة القدم، لم يتم إعادة دمجه بعد",
-    "translation_status": "translated",
-    "post_title": "لابورتا هو بالفعل واحد آخر في EFC ويمثل أنس الغراري A22",
-    "post_text": "🚨 لابورتا هو بالفعل واحد آخر في EFC ويمثل أنس الغراري A22\n\n📝 يعقد اتحاد الأندية الأوروبية (EFC) جمعيته السنوية في كوبنهاغن، حيث يرأس لابورتا بالفعل بعثة برشلونة. ريال مدريد، الذي يجري محادثات مفتوحة مع الاتحاد الأوروبي لكرة القدم، لم يتم إعادة دمجه بعد\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064065556258755",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لابورتا_هو_بالفعل_واحد_آخر_في_EFC_ويمثل_أنس_الغراري_A22.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/09/29/laporta-efc-madrid-representa-anas-laghari.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkIhOJIyye1_53G8cE2MsFl"
     }
   }
 ]
