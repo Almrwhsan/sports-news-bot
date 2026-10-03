@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pool pioneer Fisher retiring after being diagnosed with Parkinson's",
+    "url": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
+    "summary": "Pool pioneer Allison Fisher is retiring from professional competition after being diagnosed with Parkinson's disease.",
+    "published": "Fri, 02 Oct 2026 22:16:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-allison-fisher-pool_7366881.jpg?20261002215420",
+    "media_type": "image/jpg",
+    "arabic_title": "رائد البلياردو فيشر يتقاعد بعد تشخيص إصابته بمرض باركنسون",
+    "arabic_summary": "تتقاعد رائدة حمامات السباحة أليسون فيشر من المنافسة الاحترافية بعد تشخيص إصابتها بمرض باركنسون.",
+    "translation_status": "translated",
+    "post_title": "رائد البلياردو فيشر يتقاعد بعد تشخيص إصابته بمرض باركنسون",
+    "post_text": "🚨 رائد البلياردو فيشر يتقاعد بعد تشخيص إصابته بمرض باركنسون\n\n📝 تتقاعد رائدة حمامات السباحة أليسون فيشر من المنافسة الاحترافية بعد تشخيص إصابتها بمرض باركنسون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067683925896918",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رائد_البلياردو_فيشر_يتقاعد_بعد_تشخيص_إصابته_بمرض_باركنسون.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcS4smC29DJTpHhhZH3RodQ"
+    }
+  },
+  {
     "title": "Compra tus entradas para ver el duelo entre el Valencia y el Athletic Club",
     "url": "https://www.marca.com/futbol/valencia/2026/10/02/compra-tus-entradas-ver-duelo-valencia-athletic-club.html",
     "summary": "MARCA Entradas te ofrece la posibilidad de ver el encuentro en directo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkIhOJIyye1_53G8cE2MsFl"
-    }
-  },
-  {
-    "title": "\"Aguirre y Braulio son las dos mejores decisiones que ha tomado el Valencia de Meriton en mucho tiempo\"",
-    "url": "https://www.marca.com/radio/2026/09/29/aguirre-braulio-son-dos-mejores-decisiones-tomado-valencia-meriton-video.html",
-    "summary": "",
-    "published": "Tue, 29 Sep 2026 10:38:24 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/f68pQ1gktZ4HfFcfo.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"أجيري وبروليو هما أفضل قرارين اتخذهما فالنسيا دي ميريتون منذ فترة طويلة\"",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "\"أجيري وبروليو هما أفضل قرارين اتخذهما فالنسيا دي ميريتون منذ فترة طويلة\"",
-    "post_text": "🚨 \"أجيري وبروليو هما أفضل قرارين اتخذهما فالنسيا دي ميريتون منذ فترة طويلة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064062189592425",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أجيري_وبروليو_هما_أفضل_قرارين_اتخذهما_فالنسيا_دي_ميريتون_منذ_فترة_طويلة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/radio/2026/09/29/aguirre-braulio-son-dos-mejores-decisiones-tomado-valencia-meriton-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AChMNayMkOps55hTnWn_S1m"
     }
   }
 ]
