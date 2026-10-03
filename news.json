@@ -1,5 +1,39 @@
 [
   {
+    "title": "Real Madrid Castilla - Atlético Madrileño en directo | Resumen, resultado y goles del derbi de filiales",
+    "url": "https://www.marca.com/futbol/2026/10/02/01-01108-20261002-g-832-3551.html",
+    "summary": "Sigue en vivo y en directo el Real Madrid Castilla - Atlético Madrileño de Primera Federación con todos los goles y estadísticas del partido",
+    "published": "Fri, 02 Oct 2026 19:15:08 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر | ملخص ونتائج وأهداف الديربي الفرعي",
+    "arabic_summary": "تابع ريال مدريد كاستيا - أتلتيكو مدريد دي بريميرا فيديراسيون بث مباشر ومباشر مع جميع أهداف وإحصائيات المباراة",
+    "translation_status": "translated",
+    "post_title": "ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر | ملخص ونتائج وأهداف الديربي الفرعي",
+    "post_text": "🚨 ريال مدريد كاستيا - أتلتيكو مادريلينيو مباشر | ملخص ونتائج وأهداف الديربي الفرعي\n\n📝 تابع ريال مدريد كاستيا - أتلتيكو مدريد دي بريميرا فيديراسيون بث مباشر ومباشر مع جميع أهداف وإحصائيات المباراة\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067723102559667",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_كاستيا_-_أتلتيكو_مادريلينيو_مباشر_ملخص_ونتائج_وأهداف_الديربي_الفرعي.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7o4V21HGJlbCKgpJsre1Dx"
+    }
+  },
+  {
     "title": "Eldense - Oviedo en directo | Última hora de LALIGA Hypermotion en vivo hoy",
     "url": "https://www.marca.com/futbol/segunda-division/2026/10/02/01-0102-20261002-10182-187.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "An-LVg-J01MeuMVgWKEiFP8"
-    }
-  },
-  {
-    "title": "Ferrol, posible destino de la sub21 en marzo",
-    "url": "https://www.marca.com/futbol/seleccion/2026/09/29/ferrol-posible-destino-sub21-marzo.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Tue, 29 Sep 2026 11:36:56 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abb869139e79.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فيرول، الوجهة المحتملة لمنتخب U21 في مارس",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "فيرول، الوجهة المحتملة لمنتخب U21 في مارس",
-    "post_text": "🚨 فيرول، الوجهة المحتملة لمنتخب U21 في مارس\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064193709579273",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيرول،_الوجهة_المحتملة_لمنتخب_U21_في_مارس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/09/29/ferrol-posible-destino-sub21-marzo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxH7plQnXhggX8I63f1hj2u"
     }
   }
 ]
