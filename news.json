@@ -1,5 +1,39 @@
 [
   {
+    "title": "'A try to savour!' - Wakefield close in on Grand Final glory",
+    "url": "https://www.skysports.com/watch/video/13594815/super-league-grand-final-wakefield-extend-their-lead-with-a-fabulous-score",
+    "summary": "Wakefield are closing in on a Grand Final win after a fabulous try to extend their lead.",
+    "published": "Sat, 03 Oct 2026 19:34:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-try-wakfeidl_7367476.jpg?20261003193840",
+    "media_type": "image/jpg",
+    "arabic_title": "\"محاولة للتذوق!\" - ويكفيلد يقترب من مجد النهائي الكبير",
+    "arabic_summary": "ويكفيلد يقترب من الفوز بالنهائي الكبير بعد محاولة رائعة لتوسيع تقدمه.",
+    "translation_status": "translated",
+    "post_title": "\"محاولة للتذوق!\" - ويكفيلد يقترب من مجد النهائي الكبير",
+    "post_text": "🚨 \"محاولة للتذوق!\" - ويكفيلد يقترب من مجد النهائي الكبير\n\n📝 ويكفيلد يقترب من الفوز بالنهائي الكبير بعد محاولة رائعة لتوسيع تقدمه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068239552508022",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/محاولة_للتذوق!_-_ويكفيلد_يقترب_من_مجد_النهائي_الكبير.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13594815/super-league-grand-final-wakefield-extend-their-lead-with-a-fabulous-score",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnoxZF4ExyJRJ6qfnLYkiH9"
+    }
+  },
+  {
     "title": "Keane: Bellingham can become one of greatest players ever",
     "url": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
     "summary": "England and Real Madrid star Jude Bellingham can become one of the world's greatest ever players, according to Sky Sports pundit Roy Keane.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Awvr7J3uKW0_CsrqQZtaCRq"
-    }
-  },
-  {
-    "title": "Bizarre handball blunder sees Arsenal squander two-goal lead vs Paris FC",
-    "url": "https://www.skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244",
-    "summary": "Arsenal's tough start to the season continued as Leah Williamson gave away a freak penalty late on to see Paris FC come from two goals behind to draw 2-2 with the Gunners.",
-    "published": "Wed, 30 Sep 2026 19:45:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-arsenal-women_7365226.jpg?20260930195805",
-    "media_type": "image/jpg",
-    "arabic_title": "خطأ غريب في كرة اليد يجعل أرسنال يهدر تقدمه بهدفين أمام باريس إف سي",
-    "arabic_summary": "استمرت بداية أرسنال الصعبة لهذا الموسم، حيث أهدرت ليا ويليامسون ركلة جزاء غريبة في وقت متأخر ليحول باريس إف سي تأخره بهدفين إلى تعادل 2-2 مع أرسنال.",
-    "translation_status": "translated",
-    "post_title": "خطأ غريب في كرة اليد يجعل أرسنال يهدر تقدمه بهدفين أمام باريس إف سي",
-    "post_text": "🚨 خطأ غريب في كرة اليد يجعل أرسنال يهدر تقدمه بهدفين أمام باريس إف سي\n\n📝 استمرت بداية أرسنال الصعبة لهذا الموسم، حيث أهدرت ليا ويليامسون ركلة جزاء غريبة في وقت متأخر ليحول باريس إف سي تأخره بهدفين إلى تعادل 2-2 مع أرسنال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065299222802055",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خطأ_غريب_في_كرة_اليد_يجعل_أرسنال_يهدر_تقدمه_بهدفين_أمام_باريس_إف_سي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4IUZVO6jOExYhZXQ6Z0E65"
     }
   }
 ]
