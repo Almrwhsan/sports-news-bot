@@ -1,5 +1,39 @@
 [
   {
+    "title": "El estreno de Marín, de lo mejor del derbi",
+    "url": "https://www.marca.com/futbol/real-sociedad/2026/10/03/pablo-marin-matarazzo.html",
+    "summary": "El riojano tuvo ante el Athletic sus primeros minutos de este curso, después de perderse la pretemporada y el inicio por una lesión muscular de la que recayó",
+    "published": "Sat, 03 Oct 2026 10:42:23 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac0bfce71d69.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الظهور الأول لمارين، كان أحد أفضل مباريات الديربي",
+    "arabic_summary": "خاض اللاعب الريوجان الدقائق الأولى له هذا الموسم ضد أتلتيك، بعد أن غاب عن الموسم التحضيري والبداية بسبب إصابة عضلية انتكس منها.",
+    "translation_status": "translated",
+    "post_title": "الظهور الأول لمارين، كان أحد أفضل مباريات الديربي",
+    "post_text": "🚨 الظهور الأول لمارين، كان أحد أفضل مباريات الديربي\n\n📝 خاض اللاعب الريوجان الدقائق الأولى له هذا الموسم ضد أتلتيك، بعد أن غاب عن الموسم التحضيري والبداية بسبب إصابة عضلية انتكس منها.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068087115856599",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الظهور_الأول_لمارين،_كان_أحد_أفضل_مباريات_الديربي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/10/03/pablo-marin-matarazzo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AC8dTzBYqk_7o0OoawiN-Nu"
+    }
+  },
+  {
     "title": "El nuevo frente que puede complicar la defensa del Manchester City",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/03/nuevo-frente-complicar-defensa-manchester-city.html",
     "summary": "Una declaración de Etihad Airways de 2015 pone en cuestión uno de los argumentos que podría utilizar el club en su apelación por las infracciones financieras",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AE-1Dw9eJJYj12RtDjnKbJ4"
-    }
-  },
-  {
-    "title": "A qué hora es el España - México: horario y dónde ver hoy en TV el partido amistoso de la selección sub-20",
-    "url": "https://www.marca.com/futbol/seleccion/2026/09/30/espana-mexico-horario-ver-hoy-tv-partido-amistoso-seleccion-sub-20.html",
-    "summary": "Los detalles del duelo de preparación para el Mundial 2027",
-    "published": "Wed, 30 Sep 2026 08:51:42 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/24/6ab54de4143bc.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ما هو توقيت إسبانيا - المكسيك: الجدول الزمني ومكان مشاهدة المباراة الودية لفريق تحت 20 سنة على شاشة التلفزيون اليوم",
-    "arabic_summary": "تفاصيل المواجهة استعداداً لكأس العالم 2027",
-    "translation_status": "translated",
-    "post_title": "ما هو توقيت إسبانيا - المكسيك: الجدول الزمني ومكان مشاهدة المباراة الودية لفريق تحت 20 سنة على شاشة التلفزيون اليوم",
-    "post_text": "🚨 ما هو توقيت إسبانيا - المكسيك: الجدول الزمني ومكان مشاهدة المباراة الودية لفريق تحت 20 سنة على شاشة التلفزيون اليوم\n\n📝 تفاصيل المواجهة استعداداً لكأس العالم 2027\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065160382815939",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هو_توقيت_إسبانيا_-_المكسيك_الجدول_الزمني_ومكان_مشاهدة_المباراة_الودية_لفريق_ت.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/09/30/espana-mexico-horario-ver-hoy-tv-partido-amistoso-seleccion-sub-20.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlhYjCfsGLkDNFW4uOJ8WkA"
     }
   }
 ]
