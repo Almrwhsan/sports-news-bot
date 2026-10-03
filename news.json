@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las portadas del día: Que no pare la música",
+    "url": "https://www.marca.com/futbol/album/2026/10/03/portadas-dia-pare-musica.html",
+    "summary": "Así vienen las primeras páginas de este sábado 3 de octubre de 2026",
+    "published": "Sat, 03 Oct 2026 01:38:19 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac040481b134.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغلفة اليوم: لا تدع الموسيقى تتوقف",
+    "arabic_summary": "هكذا تأتي الصفحات الأولى ليوم السبت 3 أكتوبر 2026",
+    "translation_status": "translated",
+    "post_title": "أغلفة اليوم: لا تدع الموسيقى تتوقف",
+    "post_text": "🚨 أغلفة اليوم: لا تدع الموسيقى تتوقف\n\n📝 هكذا تأتي الصفحات الأولى ليوم السبت 3 أكتوبر 2026\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067971915868119",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم_لا_تدع_الموسيقى_تتوقف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/album/2026/10/03/portadas-dia-pare-musica.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Av9zPN2mQKEIloPGuIs-CCG"
+    }
+  },
+  {
     "title": "Cubarsí y Carlos Espí, los descartes",
     "url": "https://www.marca.com/futbol/seleccion/2026/10/03/cubarsi-carlos-espi-descartes.html",
     "summary": "Para el duelo ante la República Checa",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_WWvAr-e0ea14rP4mbtOL-"
-    }
-  },
-  {
-    "title": "Somalia 0 - Costa de Marfil 2: resumen, resultado y goles del partido",
-    "url": "https://as.com/futbol/internacional/somalia-costa-de-marfil-en-directo-copa-africana-de-naciones-hoy-en-vivo-f202609-d/",
-    "summary": "Somalia 0 - Costa de Marfil 2: resumen, resultado y goles del partido",
-    "published": "Tue, 29 Sep 2026 21:06:15 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260929/1220060_205741_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "الصومال 0 – ساحل العاج 2: ملخص ونتيجة وأهداف المباراة",
-    "arabic_summary": "الصومال 0 – ساحل العاج 2: ملخص ونتيجة وأهداف المباراة",
-    "translation_status": "translated",
-    "post_title": "الصومال 0 – ساحل العاج 2: ملخص ونتيجة وأهداف المباراة",
-    "post_text": "🚨 الصومال 0 – ساحل العاج 2: ملخص ونتيجة وأهداف المباراة\n\n📝 الصومال 0 – ساحل العاج 2: ملخص ونتيجة وأهداف المباراة\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064956452836332",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الصومال_0_–_ساحل_العاج_2_ملخص_ونتيجة_وأهداف_المباراة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AL4Mb6nEYk0XtZjPkeX2yfV"
     }
   }
 ]
