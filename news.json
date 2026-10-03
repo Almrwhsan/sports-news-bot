@@ -1,5 +1,39 @@
 [
   {
+    "title": "Canales y Chupe, novedades en la Sub 21 para la 'final' ante Rumanía",
+    "url": "https://www.marca.com/futbol/seleccion/2026/10/02/canales-chupe-novedades-sub-21-final-rumania.html",
+    "summary": "El combinado de David Gordo incorpora a los dos jugadores de cara al decisivo encuentro del martes en Can Misses, con el que España puede sellar su billete al Europeo",
+    "published": "Fri, 02 Oct 2026 17:09:40 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abfc92f06669.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كاناليس وتشوب، أخبار في فريق Sub 21 عن \"النهائي\" ضد رومانيا",
+    "arabic_summary": "يضم فريق ديفيد جوردو اللاعبين قبل المباراة الحاسمة يوم الثلاثاء في كان ميس، والتي من خلالها يمكن لإسبانيا أن تحجز تذكرتها للبطولة الأوروبية.",
+    "translation_status": "translated",
+    "post_title": "كاناليس وتشوب، أخبار في فريق Sub 21 عن \"النهائي\" ضد رومانيا",
+    "post_text": "🚨 كاناليس وتشوب، أخبار في فريق Sub 21 عن \"النهائي\" ضد رومانيا\n\n📝 يضم فريق ديفيد جوردو اللاعبين قبل المباراة الحاسمة يوم الثلاثاء في كان ميس، والتي من خلالها يمكن لإسبانيا أن تحجز تذكرتها للبطولة الأوروبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067647922567185",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاناليس_وتشوب،_أخبار_في_فريق_Sub_21_عن_النهائي_ضد_رومانيا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/02/canales-chupe-novedades-sub-21-final-rumania.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFD_q4a5rTkkeBTmOqHkRaQ"
+    }
+  },
+  {
     "title": "La familia Sánchez Miralles... y uno más",
     "url": "https://www.marca.com/futbol/2026/10/02/familia-sanchez-miralles.html",
     "summary": "David Sánchez, el pequeño alicantino que llegó a Getafe procedente del Real Madrid acapara ojos y apoyo, 20 miembros de su familia, en las gradas de Orlando",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGNqo-_rdkMTyIOH4jPCgJj"
-    }
-  },
-  {
-    "title": "30 años del \"Rafa, no me jodas\", la frase que nunca existió",
-    "url": "https://www.marca.com/futbol/primera-division/2026/09/29/30-anos-rafa-me-jodas-frase-nunca-existio.html",
-    "summary": "Un erróneo \"penalti y expulsión\" lanzó a la fama al juez de línea Rafa Guerrero",
-    "published": "Tue, 29 Sep 2026 09:17:34 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/07/19/1dPYJ9DbMCYy.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "30 عامًا من \"رافا، لا تعبث معي\"، العبارة التي لم تكن موجودة من قبل",
-    "arabic_summary": "\"ركلة الجزاء والطرد\" الخاطئة جعلت مساعد الحكم رافا غيريرو مشهورًا",
-    "translation_status": "translated",
-    "post_title": "30 عامًا من \"رافا، لا تعبث معي\"، العبارة التي لم تكن موجودة من قبل",
-    "post_text": "🚨 30 عامًا من \"رافا، لا تعبث معي\"، العبارة التي لم تكن موجودة من قبل\n\n📝 \"ركلة الجزاء والطرد\" الخاطئة جعلت مساعد الحكم رافا غيريرو مشهورًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064036452928332",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/30_عامًا_من_رافا،_لا_تعبث_معي،_العبارة_التي_لم_تكن_موجودة_من_قبل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/09/29/30-anos-rafa-me-jodas-frase-nunca-existio.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Adh2QjlulDVrOi9PiX2WhNB"
     }
   }
 ]
