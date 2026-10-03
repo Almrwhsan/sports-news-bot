@@ -1,5 +1,39 @@
 [
   {
+    "title": "Punto final a la guerra entre Mbappé y el PSG",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/02/punto-final-guerra-mbappe-psg.html",
+    "summary": "La justicia francesa archiva la denuncia del 10 blanco contra el club parisino por acoso moral al considerar que no existían pruebas suficientes para continuar",
+    "published": "Fri, 02 Oct 2026 22:03:33 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac00cc41fd87.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "نقطة النهاية للحرب بين مبابي وباريس سان جيرمان",
+    "arabic_summary": "القضاء الفرنسي يحفظ شكوى الـ10 الأبيض ضد النادي الباريسي بتهمة التحرش الأخلاقي معتبراً عدم وجود أدلة كافية للاستمرار",
+    "translation_status": "translated",
+    "post_title": "نقطة النهاية للحرب بين مبابي وباريس سان جيرمان",
+    "post_text": "🚨 نقطة النهاية للحرب بين مبابي وباريس سان جيرمان\n\n📝 القضاء الفرنسي يحفظ شكوى الـ10 الأبيض ضد النادي الباريسي بتهمة التحرش الأخلاقي معتبراً عدم وجود أدلة كافية للاستمرار\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067879482544029",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نقطة_النهاية_للحرب_بين_مبابي_وباريس_سان_جيرمان.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/02/punto-final-guerra-mbappe-psg.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Anesr8VLYE6oCn97wbEqm3w"
+    }
+  },
+  {
     "title": "El Dépor cede ante un Oporto superior",
     "url": "https://www.marca.com/futbol/deportivo/2026/10/02/depor-cede-oporto-superior.html",
     "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArjPm9Z2jPqCeNKUZoAjvRw"
-    }
-  },
-  {
-    "title": "Crowd drama! Humphries shushes fan after World Grand Prix win",
-    "url": "https://www.skysports.com/watch/video/13593481/darts-world-grand-prix-luke-humphries-celebrates-win-by-shushing-people-in-the-crowd",
-    "summary": "Luke Humphries taunted a fan who seemingly agitated the former world champion following his World Grand Prix win over Dave Chisnall.",
-    "published": "Tue, 29 Sep 2026 22:35:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-humphries-darts_7364558.jpg?20260929224123",
-    "media_type": "image/jpg",
-    "arabic_title": "دراما الحشد! همفريز يسكت المعجبين بعد فوزه بالجائزة الكبرى العالمية",
-    "arabic_summary": "سخر لوك همفريز من أحد المعجبين الذي يبدو أنه أثار غضب بطل العالم السابق بعد فوزه في سباق الجائزة الكبرى العالمي على ديف شيسنال.",
-    "translation_status": "translated",
-    "post_title": "دراما الحشد! همفريز يسكت المعجبين بعد فوزه بالجائزة الكبرى العالمية",
-    "post_text": "🚨 دراما الحشد! همفريز يسكت المعجبين بعد فوزه بالجائزة الكبرى العالمية\n\n📝 سخر لوك همفريز من أحد المعجبين الذي يبدو أنه أثار غضب بطل العالم السابق بعد فوزه في سباق الجائزة الكبرى العالمي على ديف شيسنال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064673796197931",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دراما_الحشد!_همفريز_يسكت_المعجبين_بعد_فوزه_بالجائزة_الكبرى_العالمية.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13593481/darts-world-grand-prix-luke-humphries-celebrates-win-by-shushing-people-in-the-crowd",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ALe5jd5-oeR5_LpjCDbxcQg"
     }
   }
 ]
