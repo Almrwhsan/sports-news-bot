@@ -1,5 +1,39 @@
 [
   {
+    "title": "La familia Sánchez Miralles... y uno más",
+    "url": "https://www.marca.com/futbol/2026/10/02/familia-sanchez-miralles.html",
+    "summary": "David Sánchez, el pequeño alicantino que llegó a Getafe procedente del Real Madrid acapara ojos y apoyo, 20 miembros de su familia, en las gradas de Orlando",
+    "published": "Fri, 02 Oct 2026 17:16:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/fKIgo1glzT34tqrIY.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "عائلة سانشيز ميراليس...وعائلة أخرى",
+    "arabic_summary": "ديفيد سانشيز، ابن أليكانتي الصغير الذي وصل إلى خيتافي قادماً من ريال مدريد، يجذب الأنظار والدعم، 20 فرداً من عائلته، في مدرجات أورلاندو",
+    "translation_status": "translated",
+    "post_title": "عائلة سانشيز ميراليس...وعائلة أخرى",
+    "post_text": "🚨 عائلة سانشيز ميراليس...وعائلة أخرى\n\n📝 ديفيد سانشيز، ابن أليكانتي الصغير الذي وصل إلى خيتافي قادماً من ريال مدريد، يجذب الأنظار والدعم، 20 فرداً من عائلته، في مدرجات أورلاندو\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067645035900807",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عائلة_سانشيز_ميراليس...وعائلة_أخرى.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/02/familia-sanchez-miralles.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUOTnnumyuuN1h0Z3PQ-YON"
+    }
+  },
+  {
     "title": "Luis García no descarta fichar un sustituto de Antoniu Roca",
     "url": "https://www.marca.com/futbol/mallorca/2026/10/02/luis-garcia-descarta-fichar-sustituto-antoniu-roca.html",
     "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Adh2QjlulDVrOi9PiX2WhNB"
-    }
-  },
-  {
-    "title": "El Valencia recupera al doctor Antonio Giner",
-    "url": "https://www.marca.com/futbol/valencia/2026/09/29/valencia-recupera-doctor-antonio-giner.html",
-    "summary": "Tras la destitución de Pedro López Mateu como jefe de los servicios médicos ya hay nuevo director médico en Mestalla",
-    "published": "Tue, 29 Sep 2026 09:21:44 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abb66ea4cc83.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فالنسيا يستعيد الطبيب أنطونيو جينر",
-    "arabic_summary": "بعد إقالة بيدرو لوبيز ماتيو من منصب رئيس الخدمات الطبية، أصبح هناك الآن مدير طبي جديد في ميستايا",
-    "translation_status": "translated",
-    "post_title": "فالنسيا يستعيد الطبيب أنطونيو جينر",
-    "post_text": "🚨 فالنسيا يستعيد الطبيب أنطونيو جينر\n\n📝 بعد إقالة بيدرو لوبيز ماتيو من منصب رئيس الخدمات الطبية، أصبح هناك الآن مدير طبي جديد في ميستايا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064036546261656",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالنسيا_يستعيد_الطبيب_أنطونيو_جينر.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/09/29/valencia-recupera-doctor-antonio-giner.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-B9X4HERk83PWxXXdDDyaa"
     }
   }
 ]
