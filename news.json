@@ -1,5 +1,39 @@
 [
   {
+    "title": "Luis García no descarta fichar un sustituto de Antoniu Roca",
+    "url": "https://www.marca.com/futbol/mallorca/2026/10/02/luis-garcia-descarta-fichar-sustituto-antoniu-roca.html",
+    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
+    "published": "Fri, 02 Oct 2026 17:23:02 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abfcc49558f7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لا يستبعد لويس جارسيا التوقيع مع بديل لأنطونيو روكا",
+    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
+    "translation_status": "translated",
+    "post_title": "لا يستبعد لويس جارسيا التوقيع مع بديل لأنطونيو روكا",
+    "post_text": "🚨 لا يستبعد لويس جارسيا التوقيع مع بديل لأنطونيو روكا\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067642185901092",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_يستبعد_لويس_جارسيا_التوقيع_مع_بديل_لأنطونيو_روكا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/mallorca/2026/10/02/luis-garcia-descarta-fichar-sustituto-antoniu-roca.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApBXCH3LD8NeTJuF8B8zdBD"
+    }
+  },
+  {
     "title": "Swindon's Holloway labels himself dead man walking",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmn8e80ln99lo?at_medium=RSS&at_campaign=rss",
     "summary": "Swindon manager Ian Holloway calls himself a \"dead man walking\" if the team's form does not turn around.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-B9X4HERk83PWxXXdDDyaa"
-    }
-  },
-  {
-    "title": "'Ferrari has made its choices' - Vasseur given full backing after Horner speculation",
-    "url": "https://www.skysports.com/f1/news/12040/13593188/frederic-vasseur-ferrari-state-full-confidence-in-f1-team-principal-after-christian-horner-comments-and-speculation",
-    "summary": "Ferrari have reiterated their \"full confidence\" in Frederic Vasseur as team principal after speculation around his future was fuelled by Christian Horner suggesting interest in the role, with the Italian marque making clear it \"has made its choices\" around who leads the F1 team.",
-    "published": "Tue, 29 Sep 2026 10:50:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-ferrari-frederic-vasseur_7363897.jpg?20260929110534",
-    "media_type": "image/jpg",
-    "arabic_title": "\"لقد اتخذت فيراري خياراتها\" - حصل فاسور على الدعم الكامل بعد تكهنات هورنر",
-    "arabic_summary": "أكد فريق فيراري \"ثقته الكاملة\" في فريدريك فاسور كمدير للفريق بعد أن أثارت التكهنات حول مستقبله اهتمام كريستيان هورنر الذي أشار إلى الاهتمام بهذا الدور، مع توضيح العلامة الإيطالية أنها \"اتخذت خياراتها\" حول من يقود فريق الفورمولا واحد.",
-    "translation_status": "translated",
-    "post_title": "\"لقد اتخذت فيراري خياراتها\" - حصل فاسور على الدعم الكامل بعد تكهنات هورنر",
-    "post_text": "🚨 \"لقد اتخذت فيراري خياراتها\" - حصل فاسور على الدعم الكامل بعد تكهنات هورنر\n\n📝 أكد فريق فيراري \"ثقته الكاملة\" في فريدريك فاسور كمدير للفريق بعد أن أثارت التكهنات حول مستقبله اهتمام كريستيان هورنر الذي أشار إلى الاهتمام بهذا الدور، مع توضيح العلامة الإيطالية أنها \"اتخذت خياراتها\" حول من يقود فريق الفورمولا واحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064036646261646",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_اتخذت_فيراري_خياراتها_-_حصل_فاسور_على_الدعم_الكامل_بعد_تكهنات_هورنر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13593188/frederic-vasseur-ferrari-state-full-confidence-in-f1-team-principal-after-christian-horner-comments-and-speculation",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AufWfV1pta7LwfdDqL66jgr"
     }
   }
 ]
