@@ -1,5 +1,39 @@
 [
   {
+    "title": "Compra tus entradas para ver el duelo entre el Atlético de Madrid y el Deportivo de A Coruña",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/02/compra-tus-entradas-ver-duelo-atletico-madrid-deportivo-coruna.html",
+    "summary": "MARCA Entradas te ofrece la posibilidad de ver en directo el encuentro",
+    "published": "Fri, 02 Oct 2026 17:56:39 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/30/6abcbda5eecfb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "اشتر تذكرتك لمشاهدة المباراة بين أتلتيكو مدريد وديبورتيفو دي لا كورونيا",
+    "arabic_summary": "تذاكر ماركا توفر لك إمكانية مشاهدة المباراة مباشرة",
+    "translation_status": "translated",
+    "post_title": "اشتر تذكرتك لمشاهدة المباراة بين أتلتيكو مدريد وديبورتيفو دي لا كورونيا",
+    "post_text": "🚨 اشتر تذكرتك لمشاهدة المباراة بين أتلتيكو مدريد وديبورتيفو دي لا كورونيا\n\n📝 تذاكر ماركا توفر لك إمكانية مشاهدة المباراة مباشرة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067671982564779",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اشتر_تذكرتك_لمشاهدة_المباراة_بين_أتلتيكو_مدريد_وديبورتيفو_دي_لا_كورونيا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/02/compra-tus-entradas-ver-duelo-atletico-madrid-deportivo-coruna.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aa3zlpvS7mk0ukpX_awmPKf"
+    }
+  },
+  {
     "title": "Chupe se une al club internacional malaguista",
     "url": "https://www.marca.com/futbol/malaga/2026/10/02/chupe-une-club-internacional-malaguista.html",
     "summary": "El delantero entra en la sub-21 por ej ascenso de Espí",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATS86fxouLb7CHuHJQ9U-sr"
-    }
-  },
-  {
-    "title": "Una nueva dimensión para Marc Roca: la IA confirma su paso adelante",
-    "url": "https://www.marca.com/futbol/betis/2026/09/29/nueva-dimension-marc-roca-ia-confirma-paso-adelante.html",
-    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
-    "published": "Tue, 29 Sep 2026 10:33:00 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abb7777df7b2.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بُعد جديد لمارك روكا: الذكاء الاصطناعي يؤكد خطوته إلى الأمام",
-    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
-    "translation_status": "translated",
-    "post_title": "بُعد جديد لمارك روكا: الذكاء الاصطناعي يؤكد خطوته إلى الأمام",
-    "post_text": "🚨 بُعد جديد لمارك روكا: الذكاء الاصطناعي يؤكد خطوته إلى الأمام\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064052609593383",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بُعد_جديد_لمارك_روكا_الذكاء_الاصطناعي_يؤكد_خطوته_إلى_الأمام.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/09/29/nueva-dimension-marc-roca-ia-confirma-paso-adelante.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxZ02RCiG95AcAOkWVghfC1"
     }
   }
 ]
