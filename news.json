@@ -1,5 +1,39 @@
 [
   {
+    "title": "'STUNNING first half!' - Wakefield dominating Warrington in Grand Final",
+    "url": "https://www.skysports.com/watch/video/13594803/rugby-league-wakefield-double-their-lead-in-grand-final",
+    "summary": "Wakefield score two quick-fire tries to take complete control in the Grand Final.",
+    "published": "Sat, 03 Oct 2026 18:36:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-trinty-try_7367457.jpg?20261003185257",
+    "media_type": "image/jpg",
+    "arabic_title": "\"الشوط الأول مذهل!\" - ويكفيلد يهيمن على وارينغتون في النهائي الكبير",
+    "arabic_summary": "يسجل ويكفيلد محاولتين سريعتين للسيطرة الكاملة على النهائي الكبير.",
+    "translation_status": "translated",
+    "post_title": "\"الشوط الأول مذهل!\" - ويكفيلد يهيمن على وارينغتون في النهائي الكبير",
+    "post_text": "🚨 \"الشوط الأول مذهل!\" - ويكفيلد يهيمن على وارينغتون في النهائي الكبير\n\n📝 يسجل ويكفيلد محاولتين سريعتين للسيطرة الكاملة على النهائي الكبير.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068213399177304",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الشوط_الأول_مذهل!_-_ويكفيلد_يهيمن_على_وارينغتون_في_النهائي_الكبير.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13594803/rugby-league-wakefield-double-their-lead-in-grand-final",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxunAv2Jmv0zJhYqPfevpi4"
+    }
+  },
+  {
     "title": "Cucurella explica por qué rinde mejor con la Selección que ahora con el Real Madrid",
     "url": "https://as.com/futbol/videos/cucurella-explica-por-que-rinde-mejor-con-la-seleccion-que-ahora-con-el-real-madrid-f202610-v/",
     "summary": "El lateral internacional madridista ha querido dar su valoración sobre sus últimos encuentros en el club y con España.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0PO4hWzcJJKvvtl3p6aXmh"
-    }
-  },
-  {
-    "title": "En directo, El Bar: la exhibición de Lamine Yamal contra Croacia",
-    "url": "https://as.com/futbol/videos/en-directo-el-bar-la-exhibicion-de-lamine-yamal-contra-croacia-f202609-v/",
-    "summary": "Sique Rodríguez y el resto de expertos de la Cadena SER analizan la victoria de la Selección Española en Sevilla con doblete de goles y asistencia de la estrella del Barça.",
-    "published": "Wed, 30 Sep 2026 08:59:17 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=xJykAuTYYHw",
-    "media_type": "application/octet-stream",
-    "arabic_title": "مباشر البر: عرض لامين يامال ضد كرواتيا",
-    "arabic_summary": "يقوم سيك رودريغيز وبقية خبراء كادينا سير بتحليل فوز المنتخب الإسباني في إشبيلية بثنائية الأهداف وتمريرة حاسمة من نجم برشلونة.",
-    "translation_status": "translated",
-    "post_title": "مباشر البر: عرض لامين يامال ضد كرواتيا",
-    "post_text": "🚨 مباشر البر: عرض لامين يامال ضد كرواتيا\n\n📝 يقوم سيك رودريغيز وبقية خبراء كادينا سير بتحليل فوز المنتخب الإسباني في إشبيلية بثنائية الأهداف وتمريرة حاسمة من نجم برشلونة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065288999469744",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مباشر_البر_عرض_لامين_يامال_ضد_كرواتيا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/videos/en-directo-el-bar-la-exhibicion-de-lamine-yamal-contra-croacia-f202609-v/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "An5MkK7UylOdmhqJYfyBVCS"
     }
   }
 ]
