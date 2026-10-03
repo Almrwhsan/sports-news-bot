@@ -1,5 +1,39 @@
 [
   {
+    "title": "Fury wants Trump for AJ fight ringwalk",
+    "url": "https://www.skysports.com/boxing/news/12040/13594802/fury-vs-joshua-tyson-fury-to-invite-donald-trump-to-accompany-him-on-anthony-joshua-fight-ringwalk-in-december",
+    "summary": "Tyson Fury plans to invite Donald Trump to accompany him on his ringwalk to his long-awaited showdown with Anthony Joshua.",
+    "published": "Sat, 03 Oct 2026 18:28:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-tyson-fury-ufc-freedom-250_7367439.jpg?20261003182759",
+    "media_type": "image/jpg",
+    "arabic_title": "فيوري يريد ترامب لقتال AJ في الحلبة",
+    "arabic_summary": "يخطط تايسون فيوري لدعوة دونالد ترامب لمرافقته في طريقته إلى مواجهته التي طال انتظارها مع أنتوني جوشوا.",
+    "translation_status": "translated",
+    "post_title": "فيوري يريد ترامب لقتال AJ في الحلبة",
+    "post_text": "🚨 فيوري يريد ترامب لقتال AJ في الحلبة\n\n📝 يخطط تايسون فيوري لدعوة دونالد ترامب لمرافقته في طريقته إلى مواجهته التي طال انتظارها مع أنتوني جوشوا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068177535847557",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيوري_يريد_ترامب_لقتال_AJ_في_الحلبة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13594802/fury-vs-joshua-tyson-fury-to-invite-donald-trump-to-accompany-him-on-anthony-joshua-fight-ringwalk-in-december",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANn1zgwDM7tbvrGL75L8DSr"
+    }
+  },
+  {
     "title": "عاجل.. تفاصيل اتفاق جيسوس مع كريستيانو رونالدو داخل منتخب البرتغال.. ما التفاصيل؟",
     "url": "https://www.alyaum.com/articles/6684665/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%83%D8%B1%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%B9%D8%A7%D8%AC%D9%84-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AC%D9%8A%D8%B3%D9%88%D8%B3-%D9%85%D8%B9-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
     "summary": "كشف بيدرو سوزا المدير التنفيذي لصحيفة ريكورد البرتغالية، عن تفاصيل الاتفاق بين كريستيانو رونالدو وجورجي جيسوس المدير الفني للمنتخب خلال الفترة الحالية، في ظل الرغبة في حسم هذا الملف.&lt;br /&gt;&lt;br /&gt;ووفقا لما ذكرته صحيفة ريكورد البرتغالية:\" فإن هناك اتفاق بين كريستيانو رونالدو على أن يخوض كريستيانو مباراتين فقط خلال فترة التوقف الحالية وبعد ذلك، سيقرران معًا ما إذا كان سيعود للمشاركة مع المنتخب في فترة التوقف المقبلة خلال شهر نوفمبر أم لا\".&lt;br /&gt;&lt;br /&gt;وشارك كريستيانو رونالدو مع منتخب البرتغال، في المباراتين الماضيتين أمام منتخب ويلز، بالإضافة إلى منتخب النرويج بدوري الأمم الأوروبية.&lt;br /&gt;&lt;br /&gt;ويعد كريستيانو رونالدو أحد الركائز الأساسية بتشكيل المنتخب البرتغالي، حيث يعتمد عليه جورجي جيسوس كعنصر أساسي بتشكيل المنتخب بالمسابقات المحلية والقارية.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGaFULEcI-PVPcCOy8ceNHT"
-    }
-  },
-  {
-    "title": "'You tried to get out of it... I checkmated you!' - Fury and AJ face-off at last",
-    "url": "https://www.skysports.com/boxing/news/12040/13593728/fury-vs-joshua-british-rivals-trade-taunts-about-negotiations-for-long-awaited-fight-at-first-press-conference-in-london",
-    "summary": "Tyson Fury and Anthony Joshua taunted each other about the fight negotiations at a raucous first press conference in London.",
-    "published": "Wed, 30 Sep 2026 17:59:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-tyson-fury-anthony-joshua_7365199.jpg?20260930193108",
-    "media_type": "image/jpg",
-    "arabic_title": "\"لقد حاولت الخروج منه... لقد قمت بفحصك!\" - مواجهة فيوري وAJ أخيرًا",
-    "arabic_summary": "سخر تايسون فيوري وأنتوني جوشوا من بعضهما البعض بشأن مفاوضات القتال في أول مؤتمر صحفي صاخب في لندن.",
-    "translation_status": "translated",
-    "post_title": "\"لقد حاولت الخروج منه... لقد قمت بفحصك!\" - مواجهة فيوري وAJ أخيرًا",
-    "post_text": "🚨 \"لقد حاولت الخروج منه... لقد قمت بفحصك!\" - مواجهة فيوري وAJ أخيرًا\n\n📝 سخر تايسون فيوري وأنتوني جوشوا من بعضهما البعض بشأن مفاوضات القتال في أول مؤتمر صحفي صاخب في لندن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065260942805883",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_حاولت_الخروج_منه..._لقد_قمت_بفحصك!_-_مواجهة_فيوري_وAJ_أخيرًا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13593728/fury-vs-joshua-british-rivals-trade-taunts-about-negotiations-for-long-awaited-fight-at-first-press-conference-in-london",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZ1a_f1AUgn5LhR1DzXYS70"
     }
   }
 ]
