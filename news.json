@@ -1,5 +1,39 @@
 [
   {
+    "title": "Una camiseta de récord: 148 patrocinadores",
+    "url": "https://as.com/futbol/internacional/una-camiseta-de-record-148-patrocinadores-f202610-n/",
+    "summary": "El Nacional, conjunto ecuatoriano, trata de aliviar su deuda con una medida que causa furor. Patrocinios en la indumentaria desde 250 dólares.",
+    "published": "Fri, 02 Oct 2026 23:37:38 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FVFKJ4GP4VDQ7DGR57PHLCUMBA.jpg?auth=f2993532249968be88d06b658dc7e764b32c5143101ad51479c2ed7bd87c0f61",
+    "media_type": "image/jpeg",
+    "arabic_title": "قميص قياسي: 148 جهة راعية",
+    "arabic_summary": "يحاول فريق ناسيونال الإكوادوري تخفيف ديونه بإجراء يثير ضجة. رعاية الملابس تبدأ من 250 دولارًا.",
+    "translation_status": "translated",
+    "post_title": "قميص قياسي: 148 جهة راعية",
+    "post_text": "🚨 قميص قياسي: 148 جهة راعية\n\n📝 يحاول فريق ناسيونال الإكوادوري تخفيف ديونه بإجراء يثير ضجة. رعاية الملابس تبدأ من 250 دولارًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1067704039228240",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قميص_قياسي_148_جهة_راعية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/una-camiseta-de-record-148-patrocinadores-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjxgNzEYS4o1Rf0KlTEztWP"
+    }
+  },
+  {
     "title": "Iñigo Arguibide renueva con Osasuna",
     "url": "https://www.marca.com/futbol/osasuna/2026/10/02/inigo-arguibide-renueva-osasuna.html",
     "summary": "El lateral rojillo amplía su vinculación con el club hasta junio de 2030",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYUebNcTDMdJ-hqHFqG9x3v"
-    }
-  },
-  {
-    "title": "How Verstappen can disrupt Antonelli, Russell title fight",
-    "url": "https://www.skysports.com/f1/news/12040/13592609/how-max-verstappen-can-disrupt-kimi-antonelli-george-russell-title-fight-in-remainder-of-2026-formula-1-season",
-    "summary": "The 2026 Formula 1 title race has become a two-horse race between Mercedes duo Kimi Antonelli and George Russell with eight rounds remaining.",
-    "published": "Tue, 29 Sep 2026 13:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7362943.jpg?20260928071056",
-    "media_type": "image/jpg",
-    "arabic_title": "كيف يمكن لفيرستابن أن يعطل معركة أنتونيلي وراسل على اللقب",
-    "arabic_summary": "أصبح سباق لقب بطولة الفورمولا 1 لعام 2026 عبارة عن سباق ثنائي بين ثنائي مرسيدس كيمي أنتونيلي وجورج راسل مع تبقي ثماني جولات.",
-    "translation_status": "translated",
-    "post_title": "كيف يمكن لفيرستابن أن يعطل معركة أنتونيلي وراسل على اللقب",
-    "post_text": "🚨 كيف يمكن لفيرستابن أن يعطل معركة أنتونيلي وراسل على اللقب\n\n📝 أصبح سباق لقب بطولة الفورمولا 1 لعام 2026 عبارة عن سباق ثنائي بين ثنائي مرسيدس كيمي أنتونيلي وجورج راسل مع تبقي ثماني جولات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1064176579580986",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_يمكن_لفيرستابن_أن_يعطل_معركة_أنتونيلي_وراسل_على_اللقب.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13592609/how-max-verstappen-can-disrupt-kimi-antonelli-george-russell-title-fight-in-remainder-of-2026-formula-1-season",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A3wklg_kYPVWZucnM-ydNvV"
     }
   }
 ]
