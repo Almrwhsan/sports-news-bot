@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sporting - Celta B, en directo: LaLiga Hypermotion, hoy en vivo",
+    "url": "https://as.com/futbol/segunda/sporting-celta-b-en-directo-laliga-hypermotion-hoy-en-vivo-f202610-n/",
+    "summary": "Sporting - Celta B, en directo: LaLiga Hypermotion, hoy en vivo",
+    "published": "Sun, 04 Oct 2026 14:04:11 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "سبورتينغ - سيلتا ب، مباشر: الدوري الإسباني، بث مباشر اليوم",
+    "arabic_summary": "سبورتينغ - سيلتا ب، مباشر: الدوري الإسباني، بث مباشر اليوم",
+    "translation_status": "translated",
+    "post_title": "سبورتينغ - سيلتا ب، مباشر: الدوري الإسباني، بث مباشر اليوم",
+    "post_text": "🚨 سبورتينغ - سيلتا ب، مباشر: الدوري الإسباني، بث مباشر اليوم\n\n📝 سبورتينغ - سيلتا ب، مباشر: الدوري الإسباني، بث مباشر اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069038239094820",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سبورتينغ_-_سيلتا_ب،_مباشر_الدوري_الإسباني،_بث_مباشر_اليوم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AggtsFSxRwmTx6h-dkNiNOi"
+    }
+  },
+  {
     "title": "Thiago exprime el plan ante Mou",
     "url": "https://as.com/futbol/primera/thiago-exprime-el-plan-ante-mou-f202610-n/",
     "summary": "El parón le brindó la oportunidad de jugar y el centrocampista demuestra estar para más. Antes del miniderbi, gol con la Sub-20 y ante el Madrileño, con el portugués en la grada, exhibición.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4P1mwZBblx9WuPbW8CnUVr"
-    }
-  },
-  {
-    "title": "Marrero: \"Lo mejor de mi final fue hacer feliz a tanta gente de la Real\"",
-    "url": "https://www.marca.com/futbol/real-sociedad/2026/10/01/marrero-mejor-mi-final-feliz-tanta-gente-real.html",
-    "summary": "El de Azpeitia vuelve a recordar con MARCA algunos de los momentos de una final en la que fue el héroe del triunfo de la Real y ya pasó a su historia",
-    "published": "Thu, 01 Oct 2026 07:58:44 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/30/6abcdbd76b47b.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماريرو: \"أفضل شيء في النهائي هو إسعاد الكثير من الناس في ريال مدريد\"",
-    "arabic_summary": "يتذكر لاعب أزبيتيا مرة أخرى مع ماركا بعض لحظات المباراة النهائية التي كان فيها بطل فوز ريال مدريد وقد دخلها التاريخ بالفعل",
-    "translation_status": "translated",
-    "post_title": "ماريرو: \"أفضل شيء في النهائي هو إسعاد الكثير من الناس في ريال مدريد\"",
-    "post_text": "🚨 ماريرو: \"أفضل شيء في النهائي هو إسعاد الكثير من الناس في ريال مدريد\"\n\n📝 يتذكر لاعب أزبيتيا مرة أخرى مع ماركا بعض لحظات المباراة النهائية التي كان فيها بطل فوز ريال مدريد وقد دخلها التاريخ بالفعل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065968179401826",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماريرو_أفضل_شيء_في_النهائي_هو_إسعاد_الكثير_من_الناس_في_ريال_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/10/01/marrero-mejor-mi-final-feliz-tanta-gente-real.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxhxzbgaoK1R2NeyR2dvwd1"
     }
   }
 ]
