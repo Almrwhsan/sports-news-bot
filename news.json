@@ -1,5 +1,39 @@
 [
   {
+    "title": "Próxima estación: el liderato",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/03/proxima-estacion-liderato.html",
+    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
+    "published": "Sat, 03 Oct 2026 14:06:43 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac0ecf1d9aa2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "المحطة التالية: الصدارة",
+    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
+    "translation_status": "translated",
+    "post_title": "المحطة التالية: الصدارة",
+    "post_text": "🚨 المحطة التالية: الصدارة\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068653632466614",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المحطة_التالية_الصدارة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/03/proxima-estacion-liderato.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AltN-5wPgGgBabAeVTnadK6"
+    }
+  },
+  {
     "title": "'Brilliant final on our hands!' - Will Humphries or Price lift World Grand Prix trophy?",
     "url": "https://www.skysports.com/darts/live-blog/12040/13594769/world-grand-prix-darts-semi-finals-live-gerwyn-price-takes-on-nathan-aspinall-before-luke-humphries-plays-james-wade-at-mattioli-arena-in-leicester",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQdVHhFcN6YAYub8DQ49gsM"
-    }
-  },
-  {
-    "title": "'Could be in the first round' - AJ plots 'spectacular' win over Fury",
-    "url": "https://www.skysports.com/boxing/news/12040/13593806/anthony-joshua-predicts-first-round-knockout-against-tyson-fury-amid-hopes-of-producing-spectacular-victory",
-    "summary": "Anthony Joshua said he wants to deliver a \"spectacular\" victory over Tyson Fury as he predicted the blockbuster heavyweight clash could end with a first-round knockout.",
-    "published": "Thu, 01 Oct 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-anthony-joshua-press-conference_7365332.jpg?20260930222340",
-    "media_type": "image/jpg",
-    "arabic_title": "\"يمكن أن يكون في الجولة الأولى\" – AJ يخطط لتحقيق فوز \"مذهل\" على فيوري",
-    "arabic_summary": "قال أنتوني جوشوا إنه يريد تحقيق فوز \"مذهل\" على تايسون فيوري، حيث توقع أن تنتهي مواجهة الوزن الثقيل الضخمة بالضربة القاضية في الجولة الأولى.",
-    "translation_status": "translated",
-    "post_title": "\"يمكن أن يكون في الجولة الأولى\" – AJ يخطط لتحقيق فوز \"مذهل\" على فيوري",
-    "post_text": "🚨 \"يمكن أن يكون في الجولة الأولى\" – AJ يخطط لتحقيق فوز \"مذهل\" على فيوري\n\n📝 قال أنتوني جوشوا إنه يريد تحقيق فوز \"مذهل\" على تايسون فيوري، حيث توقع أن تنتهي مواجهة الوزن الثقيل الضخمة بالضربة القاضية في الجولة الأولى.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065584349440209",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يمكن_أن_يكون_في_الجولة_الأولى_–_AJ_يخطط_لتحقيق_فوز_مذهل_على_فيوري.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13593806/anthony-joshua-predicts-first-round-knockout-against-tyson-fury-amid-hopes-of-producing-spectacular-victory",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6h9VX_g1hd0k4BNQjnuktu"
     }
   }
 ]
