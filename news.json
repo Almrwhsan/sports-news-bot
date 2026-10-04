@@ -1,5 +1,39 @@
 [
   {
+    "title": "Broncos demolish Doncaster 78-6 in Championship Grand Final",
+    "url": "https://www.skysports.com/rugby-league/news/12040/13595070/championship-grand-final-london-broncos-demolish-doncaster-in-78-6-victory-to-complete-treble",
+    "summary": "London Broncos are Championship Grand Final winners following a 78-6 win over Doncaster RLFC.",
+    "published": "Sun, 04 Oct 2026 16:09:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-rugby-league-super-league_7368128.jpg?20261004172352",
+    "media_type": "image/jpg",
+    "arabic_title": "برونكو يهزم دونكاستر 78-6 في النهائي الكبير للبطولة",
+    "arabic_summary": "فاز فريق London Broncos بالنهائي الكبير للبطولة بعد فوزه بنتيجة 78-6 على Doncaster RLFC.",
+    "translation_status": "translated",
+    "post_title": "برونكو يهزم دونكاستر 78-6 في النهائي الكبير للبطولة",
+    "post_text": "🚨 برونكو يهزم دونكاستر 78-6 في النهائي الكبير للبطولة\n\n📝 فاز فريق London Broncos بالنهائي الكبير للبطولة بعد فوزه بنتيجة 78-6 على Doncaster RLFC.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068947915770519",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برونكو_يهزم_دونكاستر_78-6_في_النهائي_الكبير_للبطولة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/news/12040/13595070/championship-grand-final-london-broncos-demolish-doncaster-in-78-6-victory-to-complete-treble",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ACHLhp1o4J6rp6hW1wj8PXQ"
+    }
+  },
+  {
     "title": "Meronk outlasts Jarvis to win Alfred Dunhill Links Championship",
     "url": "https://www.skysports.com/golf/news/12040/13595050/alfred-dunhill-links-championship-liv-golfs-adrian-meronk-outlasts-casey-jarvis-to-claim-victory-at-st-andrews",
     "summary": "Adrian Meronk came from four shots behind to overtake Casey Jarvis and win the Alfred Dunhill Links Championship by two shots on a gripping final day at St Andrews.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AR06YTQRP9mLfePBGx4p7M2"
-    }
-  },
-  {
-    "title": "La UEFA reactiva el expediente al Barcelona tras la denuncia del Real Madrid",
-    "url": "https://as.com/futbol/internacional/la-uefa-reactiva-el-expediente-al-barcelona-tras-la-denuncia-del-real-madrid-f202610-n/",
-    "summary": "El máximo organismo del fútbol europeo quiere esclarecer lo sucedido entre 2001 y 2018, años en los que el Barcelona pagó 8,4 M€ a Enríquez Negreira.",
-    "published": "Thu, 01 Oct 2026 14:11:17 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/Z6OUMNSE5NPCTOOHIT2MARC6HI.jpg?auth=42439fbd0d2912e93c5a56700414a653b2eda78322d0cdc21af003c61d8d3924",
-    "media_type": "image/jpeg",
-    "arabic_title": "اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد",
-    "arabic_summary": "تريد أعلى هيئة في كرة القدم الأوروبية توضيح ما حدث بين عامي 2001 و2018، وهي السنوات التي دفع فيها برشلونة 8.4 مليون يورو إلى إنريكيز نيجريرا.",
-    "translation_status": "translated",
-    "post_title": "اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد",
-    "post_text": "🚨 اليويفا يعيد تفعيل الملف ضد برشلونة بعد شكوى ريال مدريد\n\n📝 تريد أعلى هيئة في كرة القدم الأوروبية توضيح ما حدث بين عامي 2001 و2018، وهي السنوات التي دفع فيها برشلونة 8.4 مليون يورو إلى إنريكيز نيجريرا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065938736071437",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليويفا_يعيد_تفعيل_الملف_ضد_برشلونة_بعد_شكوى_ريال_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/la-uefa-reactiva-el-expediente-al-barcelona-tras-la-denuncia-del-real-madrid-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXQe5kD9cC_iO1UCZkbLAWH"
     }
   }
 ]
