@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pascual culmina la remontada nazarí en Zubieta",
+    "url": "https://as.com/futbol/segunda/pascual-culmina-la-remontada-nazari-en-zubieta-f202610-n/",
+    "summary": "El Granada remonta en el 90 un 2-0 abajo al descanso. La Real B mereció más goles al inicio y los de Pacheta mandaron tras el paso por vestuarios.",
+    "published": "Sun, 04 Oct 2026 14:14:39 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "باسكوال يكمل عودة النصريين في زوبيطة",
+    "arabic_summary": "وعوض غرناطة تأخره 2-0 في الشوط الأول في الدقيقة 90. استحق ريال بي المزيد من الأهداف في البداية وتقدم رجال باتشيتا بعد مرورهم عبر غرفة خلع الملابس.",
+    "translation_status": "translated",
+    "post_title": "باسكوال يكمل عودة النصريين في زوبيطة",
+    "post_text": "🚨 باسكوال يكمل عودة النصريين في زوبيطة\n\n📝 وعوض غرناطة تأخره 2-0 في الشوط الأول في الدقيقة 90. استحق ريال بي المزيد من الأهداف في البداية وتقدم رجال باتشيتا بعد مرورهم عبر غرفة خلع الملابس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069046439094000",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باسكوال_يكمل_عودة_النصريين_في_زوبيطة.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEGiCnXc8JHT5UuF_aDaeOS"
+    }
+  },
+  {
     "title": "Sporting - Celta B, en directo: LaLiga Hypermotion, hoy en vivo",
     "url": "https://as.com/futbol/segunda/sporting-celta-b-en-directo-laliga-hypermotion-hoy-en-vivo-f202610-n/",
     "summary": "Sporting - Celta B, en directo: LaLiga Hypermotion, hoy en vivo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A10D-fu5hLcjwoEsEy3rfjZ"
-    }
-  },
-  {
-    "title": "Así fue la llegada de Cristiano Ronaldo a Madrid en su jet privado tras su espantada con Portugal",
-    "url": "https://www.marca.com/futbol/nations-league/2026/10/01/asi-llegada-cristiano-ronaldo-madrid-espantada-portugal-video.html",
-    "summary": "",
-    "published": "Thu, 01 Oct 2026 07:53:17 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/fDsTw1glUwwZghXwh.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كان هذا هو وصول كريستيانو رونالدو إلى مدريد على متن طائرته الخاصة بعد خوفه مع البرتغال",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كان هذا هو وصول كريستيانو رونالدو إلى مدريد على متن طائرته الخاصة بعد خوفه مع البرتغال",
-    "post_text": "🚨 كان هذا هو وصول كريستيانو رونالدو إلى مدريد على متن طائرته الخاصة بعد خوفه مع البرتغال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065968092735168",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كان_هذا_هو_وصول_كريستيانو_رونالدو_إلى_مدريد_على_متن_طائرته_الخاصة_بعد_خوفه_مع_ال.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/10/01/asi-llegada-cristiano-ronaldo-madrid-espantada-portugal-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4P1mwZBblx9WuPbW8CnUVr"
     }
   }
 ]
