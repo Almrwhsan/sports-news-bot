@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Coria plantó cara, pero el Zamora se hace fuerte en casa",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/10/05/coria-planto-cara-zamora-fuerte-casa.html",
+    "summary": "Los goles de Carbonell y Carlos Ramos dejan a la escuadra de Cano a un punto del play-off",
+    "published": "Mon, 05 Oct 2026 00:44:47 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac2d6624065a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تخوض كوريا معركة، لكن زامورا يصبح قويًا في المنزل",
+    "arabic_summary": "أهداف كاربونيل وكارلوس راموس تترك فريق كانو على بعد نقطة واحدة من المباراة الفاصلة",
+    "translation_status": "translated",
+    "post_title": "تخوض كوريا معركة، لكن زامورا يصبح قويًا في المنزل",
+    "post_text": "🚨 تخوض كوريا معركة، لكن زامورا يصبح قويًا في المنزل\n\n📝 أهداف كاربونيل وكارلوس راموس تترك فريق كانو على بعد نقطة واحدة من المباراة الفاصلة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069123475752963",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تخوض_كوريا_معركة،_لكن_زامورا_يصبح_قويًا_في_المنزل.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/10/05/coria-planto-cara-zamora-fuerte-casa.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeVivLmr5JYQpYxqxoKmRis"
+    }
+  },
+  {
     "title": "El Mirandés no estuvo a la altura en El Toralín",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/10/05/mirandes-estuvo-altura-toralin.html",
     "summary": "Consiguió la Ponferradina su segundo triunfo en casa por la mínima ante el Mirandés con un penalti sobre Arturo que transformó Borja Valle",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANVC4PL-tyox-FV-kvfnf1E"
-    }
-  },
-  {
-    "title": "Radu colidera la clasificación del Trofeo Zamora",
-    "url": "https://www.marca.com/futbol/celta/2026/10/01/radu-colidera-clasificacion-trofeo-zamora.html",
-    "summary": "Con Sivera es el portero menos batido hasta la fecha",
-    "published": "Thu, 01 Oct 2026 09:53:51 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/27/69ef2306b5e28.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يشارك رادو في قيادة تصنيف كأس زامورا",
-    "arabic_summary": "مع سيفيرا هو حارس المرمى الأقل هزيمة حتى الآن",
-    "translation_status": "translated",
-    "post_title": "يشارك رادو في قيادة تصنيف كأس زامورا",
-    "post_text": "🚨 يشارك رادو في قيادة تصنيف كأس زامورا\n\n📝 مع سيفيرا هو حارس المرمى الأقل هزيمة حتى الآن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066009532731024",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يشارك_رادو_في_قيادة_تصنيف_كأس_زامورا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/celta/2026/10/01/radu-colidera-clasificacion-trofeo-zamora.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AS6D_WEl7NhjwCv-rjFq8jm"
     }
   }
 ]
