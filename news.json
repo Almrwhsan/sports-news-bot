@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hospital Central Las Palmas: Sergio Ruiz también pasa por el quirófano",
+    "url": "https://www.marca.com/futbol/las-palmas/2026/10/03/hospital-central-palmas-sergio-ruiz-pasa-quirofano.html",
+    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
+    "published": "Sat, 03 Oct 2026 12:09:42 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac0d426ee1ca.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مستشفى لاس بالماس المركزي: يخضع سيرجيو رويز أيضًا لعملية جراحية",
+    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
+    "translation_status": "translated",
+    "post_title": "مستشفى لاس بالماس المركزي: يخضع سيرجيو رويز أيضًا لعملية جراحية",
+    "post_text": "🚨 مستشفى لاس بالماس المركزي: يخضع سيرجيو رويز أيضًا لعملية جراحية\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068394679159176",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مستشفى_لاس_بالماس_المركزي_يخضع_سيرجيو_رويز_أيضًا_لعملية_جراحية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/las-palmas/2026/10/03/hospital-central-palmas-sergio-ruiz-pasa-quirofano.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1UlTj9A-Z_IYJQ3rvG-ZY6"
+    }
+  },
+  {
     "title": "'A try to savour!' - Wakefield close in on Grand Final glory",
     "url": "https://www.skysports.com/watch/video/13594815/super-league-grand-final-wakefield-extend-their-lead-with-a-fabulous-score",
     "summary": "Wakefield are closing in on a Grand Final win after a fabulous try to extend their lead.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aj6vmq3CfxpcOHhQ-11pJDZ"
-    }
-  },
-  {
-    "title": "Debate entre Paz y Mastantuono",
-    "url": "https://as.com/futbol/internacional/debate-entre-paz-y-mastantuono-f202609-n/",
-    "summary": "El seleccionador scaloni tendrá que elegir entre uno de los dos para afrontar el amistoso contra Bolivia, aunque hay opciones de ver a ambos sobre el campo.",
-    "published": "Wed, 30 Sep 2026 10:03:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2GOSTU2CXVMYHL2ET2CMVOPKFY.jpg?auth=b4400cec3a2c7fe7294853d5892d029d31d8b320fd183011c4d7e91abfe8cda6",
-    "media_type": "image/jpeg",
-    "arabic_title": "مناظرة بين باز وماستانتونو",
-    "arabic_summary": "وسيتعين على مدرب سكالوني الاختيار بين أحدهما لمواجهة بوليفيا وديا، على الرغم من أن هناك خيارات لرؤية كليهما على أرض الملعب.",
-    "translation_status": "translated",
-    "post_title": "مناظرة بين باز وماستانتونو",
-    "post_text": "🚨 مناظرة بين باز وماستانتونو\n\n📝 وسيتعين على مدرب سكالوني الاختيار بين أحدهما لمواجهة بوليفيا وديا، على الرغم من أن هناك خيارات لرؤية كليهما على أرض الملعب.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065329869465657",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مناظرة_بين_باز_وماستانتونو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/debate-entre-paz-y-mastantuono-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Awvr7J3uKW0_CsrqQZtaCRq"
     }
   }
 ]
