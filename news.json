@@ -1,5 +1,39 @@
 [
   {
+    "title": "Wakefield win their first-ever Grand Final in commanding victory over Warrington",
+    "url": "https://www.skysports.com/watch/video/13594819/warrington-wolves-10-23-wakefield-trinity-super-league-grand-final-highlights",
+    "summary": "Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.",
+    "published": "Sat, 03 Oct 2026 19:59:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/super-league-hld-grand-final_7367489.jpg?20261003200149",
+    "media_type": "image/jpg",
+    "arabic_title": "فاز ويكفيلد بأول نهائي كبير له على الإطلاق في الفوز على وارينجتون",
+    "arabic_summary": "أبرز أحداث النهائي الكبير لدوري السوبر بين وارينجتون وولفز وويكفيلد ترينيتي.",
+    "translation_status": "translated",
+    "post_title": "فاز ويكفيلد بأول نهائي كبير له على الإطلاق في الفوز على وارينجتون",
+    "post_text": "🚨 فاز ويكفيلد بأول نهائي كبير له على الإطلاق في الفوز على وارينجتون\n\n📝 أبرز أحداث النهائي الكبير لدوري السوبر بين وارينجتون وولفز وويكفيلد ترينيتي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068455249153119",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاز_ويكفيلد_بأول_نهائي_كبير_له_على_الإطلاق_في_الفوز_على_وارينجتون.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13594819/warrington-wolves-10-23-wakefield-trinity-super-league-grand-final-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1GhDpxan63u4xFLKVPCYhQ"
+    }
+  },
+  {
     "title": "Hospital Central Las Palmas: Sergio Ruiz también pasa por el quirófano",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/03/hospital-central-palmas-sergio-ruiz-pasa-quirofano.html",
     "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEIhXhXCYaxCuEQPHE2mx6x"
-    }
-  },
-  {
-    "title": "Las portadas del día: El adiós de Cristiano y Guardiola, en el centro del lío del City",
-    "url": "https://www.marca.com/futbol/album/2026/10/01/portadas-dia-adios-cristiano-guardiola-centro-lio-city.html",
-    "summary": "Así vienen las primeras páginas de los diarios deportivos del 1 de octubre",
-    "published": "Thu, 01 Oct 2026 01:26:10 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abd9a827acd8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أغلفة اليوم: وداع كريستيانو وجوارديولا في وسط فوضى السيتي",
-    "arabic_summary": "هكذا تأتي الصفحات الأولى للصحف الرياضية ليوم 1 أكتوبر",
-    "translation_status": "translated",
-    "post_title": "أغلفة اليوم: وداع كريستيانو وجوارديولا في وسط فوضى السيتي",
-    "post_text": "🚨 أغلفة اليوم: وداع كريستيانو وجوارديولا في وسط فوضى السيتي\n\n📝 هكذا تأتي الصفحات الأولى للصحف الرياضية ليوم 1 أكتوبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065332639465380",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم_وداع_كريستيانو_وجوارديولا_في_وسط_فوضى_السيتي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/album/2026/10/01/portadas-dia-adios-cristiano-guardiola-centro-lio-city.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aj6vmq3CfxpcOHhQ-11pJDZ"
     }
   }
 ]
