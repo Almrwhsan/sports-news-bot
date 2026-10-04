@@ -1,5 +1,39 @@
 [
   {
+    "title": "Primera derrota de los cachorros en Lezama",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/10/05/primera-derrota-cachorros-lezama.html",
+    "summary": "El Extremadura aprovecha la endeblez defensiva del filial pese a comenzar perdiendo desde muy pronto",
+    "published": "Mon, 05 Oct 2026 00:20:14 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac2d0ad529af.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الهزيمة الأولى للجراء في ليزاما",
+    "arabic_summary": "يستغل إكستريمادورا الضعف الدفاعي للفريق الفرعي رغم أنه بدأ في الخسارة مبكرًا جدًا",
+    "translation_status": "translated",
+    "post_title": "الهزيمة الأولى للجراء في ليزاما",
+    "post_text": "🚨 الهزيمة الأولى للجراء في ليزاما\n\n📝 يستغل إكستريمادورا الضعف الدفاعي للفريق الفرعي رغم أنه بدأ في الخسارة مبكرًا جدًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069110289087615",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهزيمة_الأولى_للجراء_في_ليزاما.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/10/05/primera-derrota-cachorros-lezama.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aw103UPJWP-txAXqB0tA7zq"
+    }
+  },
+  {
     "title": "LaLiga FC Futures de Orlando en directo: River Plate - Betis, la gran final",
     "url": "https://www.marca.com/futbol/2026/10/04/laliga-fc-futures-orlando-directo-semifinales-final-juego.html",
     "summary": "River Plate ganó a Flamengo (2-1) y el Betis se deshizo del Atlético de Madrid (2-1)",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARxQ-Z8QX54dmfVG3SYLyfb"
-    }
-  },
-  {
-    "title": "Flick no repetirá el mismo error con Raphinha y ya hace cábalas para suplirle en la delantera",
-    "url": "https://www.marca.com/futbol/barcelona/2026/10/01/flick-repetira-error-raphinha-cavalas-suplirle-delantera.html",
-    "summary": "El técnico no olvida que forzó el regreso del brasileño el curso pasado y recayó",
-    "published": "Thu, 01 Oct 2026 09:52:15 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/24/6ab537ed0a3be.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لن يكرر فليك نفس الخطأ مع رافينيا ويضع بالفعل افتراضات لاستبداله في خط الهجوم.",
-    "arabic_summary": "ولا ينسى المدرب أنه أجبر البرازيلي على العودة العام الماضي وانتكس",
-    "translation_status": "translated",
-    "post_title": "لن يكرر فليك نفس الخطأ مع رافينيا ويضع بالفعل افتراضات لاستبداله في خط الهجوم.",
-    "post_text": "🚨 لن يكرر فليك نفس الخطأ مع رافينيا ويضع بالفعل افتراضات لاستبداله في خط الهجوم.\n\n📝 ولا ينسى المدرب أنه أجبر البرازيلي على العودة العام الماضي وانتكس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065986322733345",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لن_يكرر_فليك_نفس_الخطأ_مع_رافينيا_ويضع_بالفعل_افتراضات_لاستبداله_في_خط_الهجوم..png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/01/flick-repetira-error-raphinha-cavalas-suplirle-delantera.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANtTWE3J8ggMGwE99Dn0bxs"
     }
   }
 ]
