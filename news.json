@@ -1,5 +1,39 @@
 [
   {
+    "title": "WSL round-up: Chelsea go top as London City thrash Spurs",
+    "url": "https://www.skysports.com/football/news/12040/13594997/womens-super-league-round-up-chelsea-go-top-with-win-over-west-ham-as-london-city-lionesses-thrash-tottenham",
+    "summary": "",
+    "published": "Sun, 04 Oct 2026 12:28:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-walsh-chelsea-wsl_7368067.jpg?20261004155029",
+    "media_type": "image/jpg",
+    "arabic_title": "جولة WSL: تشيلسي يصعد إلى القمة بينما يسحق لندن سيتي توتنهام",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "جولة WSL: تشيلسي يصعد إلى القمة بينما يسحق لندن سيتي توتنهام",
+    "post_text": "🚨 جولة WSL: تشيلسي يصعد إلى القمة بينما يسحق لندن سيتي توتنهام\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068882439110400",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جولة_WSL_تشيلسي_يصعد_إلى_القمة_بينما_يسحق_لندن_سيتي_توتنهام.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13594997/womens-super-league-round-up-chelsea-go-top-with-win-over-west-ham-as-london-city-lionesses-thrash-tottenham",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AoFL6pcoe7btg4131h8ABKm"
+    }
+  },
+  {
     "title": "How does Cas work and why can't Man City appeal to it?",
     "url": "https://www.bbc.co.uk/sport/football/articles/c920v34y4l2zo?at_medium=RSS&at_campaign=rss",
     "summary": "The Court of Arbitration for Sport (CAS) regulates legal disputes across the world of sport",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AR_NyF30ciH6suBNDT1aim8"
-    }
-  },
-  {
-    "title": "Alcaraz, Dart, Kartal win in Japan and China but Brits Norrie, Fery knocked out",
-    "url": "https://www.skysports.com/tennis/news/12040/13593868/china-open-and-japan-open-carlos-alcaraz-harriet-dart-sonay-kartal-victorious-but-brits-cam-norrie-arthur-fery-knocked-out",
-    "summary": "A bumper day of action on the ATP and WTA Tours at the China Open and Japan Open saw Carlos Alcaraz and Brits Harriet Dart and Sonay Kartal win. But there were defeats for Cam Norrie and Arthur Fery.",
-    "published": "Thu, 01 Oct 2026 08:24:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-carlos-alcaraz-tennis_7365750.jpg?20261001130545",
-    "media_type": "image/jpg",
-    "arabic_title": "فاز الكاراز ودارت وكارتال في اليابان والصين لكن البريطانيين نوري وفيري خرجا",
-    "arabic_summary": "شهد يوم مليء بالإثارة في بطولات اتحاد لاعبي التنس المحترفين ورابطة محترفات التنس في بطولة الصين المفتوحة واليابان المفتوحة فوز كارلوس ألكاراز والبريطانيتين هارييت دارت وسوناي كارتال. ولكن كانت هناك هزائم لكام نوري وآرثر فيري.",
-    "translation_status": "translated",
-    "post_title": "فاز الكاراز ودارت وكارتال في اليابان والصين لكن البريطانيين نوري وفيري خرجا",
-    "post_text": "🚨 فاز الكاراز ودارت وكارتال في اليابان والصين لكن البريطانيين نوري وفيري خرجا\n\n📝 شهد يوم مليء بالإثارة في بطولات اتحاد لاعبي التنس المحترفين ورابطة محترفات التنس في بطولة الصين المفتوحة واليابان المفتوحة فوز كارلوس ألكاراز والبريطانيتين هارييت دارت وسوناي كارتال. ولكن كانت هناك هزائم لكام نوري وآرثر فيري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065859272746050",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاز_الكاراز_ودارت_وكارتال_في_اليابان_والصين_لكن_البريطانيين_نوري_وفيري_خرجا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/news/12040/13593868/china-open-and-japan-open-carlos-alcaraz-harriet-dart-sonay-kartal-victorious-but-brits-cam-norrie-arthur-fery-knocked-out",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AiEjnw5Yf99v2AjZLua-CUb"
     }
   }
 ]
