@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sale defy Vermeulen's first-half red card to beat Saracens",
+    "url": "https://www.skysports.com/rugby-union/saracens-vs-sale/report/113840",
+    "summary": "Sale defied Jacques Vermeulen's first-half red card to dispatch Saracens 21-17 with Tom O'Flaherty emerging as the star of a slugfest at StoneX Stadium.",
+    "published": "Sun, 04 Oct 2026 17:14:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-rugby-union-gallagher-prem_7368131.jpg?20261004172439",
+    "media_type": "image/jpg",
+    "arabic_title": "سال يتحدى البطاقة الحمراء التي حصل عليها فيرميولين في الشوط الأول ليهزم ساراسينز",
+    "arabic_summary": "تحدى Sale البطاقة الحمراء التي حصل عليها Jacques Vermeulen في الشوط الأول ليرسل Saracens 21-17 مع ظهور Tom O'Flaherty كنجم في مباراة بطيئة في ملعب StoneX.",
+    "translation_status": "translated",
+    "post_title": "سال يتحدى البطاقة الحمراء التي حصل عليها فيرميولين في الشوط الأول ليهزم ساراسينز",
+    "post_text": "🚨 سال يتحدى البطاقة الحمراء التي حصل عليها فيرميولين في الشوط الأول ليهزم ساراسينز\n\n📝 تحدى Sale البطاقة الحمراء التي حصل عليها Jacques Vermeulen في الشوط الأول ليرسل Saracens 21-17 مع ظهور Tom O'Flaherty كنجم في مباراة بطيئة في ملعب StoneX.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069085575756753",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سال_يتحدى_البطاقة_الحمراء_التي_حصل_عليها_فيرميولين_في_الشوط_الأول_ليهزم_ساراسينز.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/saracens-vs-sale/report/113840",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjtZrkceJoSDhlLn8nf4wGS"
+    }
+  },
+  {
     "title": "Tuchel: \"Gordon ha alcanzado otro nivel\"",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/04/tuchel-gordon-alcanzado-nivel.html",
     "summary": "El seleccionador destaca que el culé ha sido decisivo en los tres encuentros de Inglaterra",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Anbg1r0dUzKYcBHm0W2Sr2P"
-    }
-  },
-  {
-    "title": "García Plaza apuesta por Castrín",
-    "url": "https://www.marca.com/futbol/sevilla/2026/10/01/garcia-plaza-apuesta-castrin.html",
-    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
-    "published": "Thu, 01 Oct 2026 09:17:39 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/30/6abd68d967eb2.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يراهن غارسيا بلازا على كاسترين",
-    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
-    "translation_status": "translated",
-    "post_title": "يراهن غارسيا بلازا على كاسترين",
-    "post_text": "🚨 يراهن غارسيا بلازا على كاسترين\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065981892733788",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يراهن_غارسيا_بلازا_على_كاسترين.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/01/garcia-plaza-apuesta-castrin.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9MVke2MkXUx_rYfwSAJaNP"
     }
   }
 ]
