@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sergio Martínez sigue ahí",
+    "url": "https://as.com/futbol/primera/sergio-martinez-sigue-ahi-f202610-n/",
+    "summary": "Satisfacción en el club con la adaptación en el Castilla del medio, al que Mourinho no pierde de vista pese a que no le ha podido hacer debutar.",
+    "published": "Sun, 04 Oct 2026 08:57:37 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260907/1211864_174336_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "سيرجيو مارتينيز لا يزال هناك",
+    "arabic_summary": "رضا في النادي عن التأقلم في وسط الكاستيا، وهو ما لا يغفل عنه مورينيو رغم عدم تمكنه من منحه أول ظهور له.",
+    "translation_status": "translated",
+    "post_title": "سيرجيو مارتينيز لا يزال هناك",
+    "post_text": "🚨 سيرجيو مارتينيز لا يزال هناك\n\n📝 رضا في النادي عن التأقلم في وسط الكاستيا، وهو ما لا يغفل عنه مورينيو رغم عدم تمكنه من منحه أول ظهور له.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068833949115249",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيرجيو_مارتينيز_لا_يزال_هناك.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AS37DGnpT6yXej34mO1NADG"
+    }
+  },
+  {
     "title": "Porteros MVP en la Futures",
     "url": "https://www.marca.com/futbol/2026/10/03/poteros-mvp-futures.html",
     "summary": "El nivel de los guardametas en el torneo sorprende: \"El crecimiento de los porteros a estas edades es exponencial\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ay6OfhtJsNnKLqAXI9wIDbe"
-    }
-  },
-  {
-    "title": "'Bring it on!' | Antonelli and Russell prepare to fight for Drivers Championship!",
-    "url": "https://www.skysports.com/watch/video/13593895/bahrain-gp-in-malaysia-kimi-antonelli-looking-forward-to-tough-challenge-of-george-russell",
-    "summary": "Ahead of the Bahrain GP in Malaysia, Kimi Antonelli and George Russell prepare to fight for Drivers Championship!",
-    "published": "Thu, 01 Oct 2026 09:33:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-george-russell-kimi-anotnelli_7365655.jpg?20261001112956",
-    "media_type": "image/jpg",
-    "arabic_title": "'اجلبه!' | أنتونيلي ورسل يستعدان للقتال من أجل بطولة السائقين!",
-    "arabic_summary": "قبل سباق جائزة البحرين الكبرى في ماليزيا، يستعد كيمي أنتونيلي وجورج راسل للقتال من أجل بطولة السائقين!",
-    "translation_status": "translated",
-    "post_title": "'اجلبه!' | أنتونيلي ورسل يستعدان للقتال من أجل بطولة السائقين!",
-    "post_text": "🚨 'اجلبه!' | أنتونيلي ورسل يستعدان للقتال من أجل بطولة السائقين!\n\n📝 قبل سباق جائزة البحرين الكبرى في ماليزيا، يستعد كيمي أنتونيلي وجورج راسل للقتال من أجل بطولة السائقين!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065807956084515",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/'اجلبه!'_أنتونيلي_ورسل_يستعدان_للقتال_من_أجل_بطولة_السائقين!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13593895/bahrain-gp-in-malaysia-kimi-antonelli-looking-forward-to-tough-challenge-of-george-russell",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATKBMNd9wPIZMBRpaJ7CeSL"
     }
   }
 ]
