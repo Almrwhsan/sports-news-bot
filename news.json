@@ -1,5 +1,39 @@
 [
   {
+    "title": "Smotherman maintains lead in Utah",
+    "url": "https://www.skysports.com/watch/video/13594879/bank-of-utah-championship-round-three-highlights",
+    "summary": "Highlights from the third round of the 2026 Bank of Utah Championship.",
+    "published": "Sun, 04 Oct 2026 07:12:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-austin-smotherman_7367634.jpg?20261004071808",
+    "media_type": "image/jpg",
+    "arabic_title": "Smotherman يحافظ على الصدارة في ولاية يوتا",
+    "arabic_summary": "مقتطفات من الجولة الثالثة لبطولة بنك يوتا 2026.",
+    "translation_status": "translated",
+    "post_title": "Smotherman يحافظ على الصدارة في ولاية يوتا",
+    "post_text": "🚨 Smotherman يحافظ على الصدارة في ولاية يوتا\n\n📝 مقتطفات من الجولة الثالثة لبطولة بنك يوتا 2026.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1068761375789173",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Smotherman_يحافظ_على_الصدارة_في_ولاية_يوتا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13594879/bank-of-utah-championship-round-three-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5FioHwfANGGbLRZOwqx_pO"
+    }
+  },
+  {
     "title": "Es el gol del torneo y no hay nadie que lo discuta: vean la genialidad de una de las perlas de la cantera del Real Madrid",
     "url": "https://as.com/futbol/videos/es-el-gol-del-torneo-y-no-hay-nadie-que-lo-discuta-vean-la-genialidad-de-una-de-las-perlas-de-la-cantera-del-real-madrid-f202610-v/",
     "summary": "Aguilar, futbolista de la cantera blanca, anotó este golazo ante el Elche en el torneo LaLiga FC Futures.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AaSXIqflpENclKj5APlUATD"
-    }
-  },
-  {
-    "title": "Koke y Griezmann, reencuentro en la MLS",
-    "url": "https://as.com/futbol/primera/koke-y-griezmann-reencuentro-en-la-mls-f202609-n/",
-    "summary": "El capitán aprovechó el fin de semana libre para viajar a Pensilvania y ver al francés en un partido de la MLS con Orlando City.",
-    "published": "Sun, 27 Sep 2026 17:49:35 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LW4I67LEOJFRNHSL7L4GTIXJXA.png?auth=d10fd1afc60d5f0609dd88d72960fe1286e964b26558a8b7809c3f5476a46286",
-    "media_type": "image/png",
-    "arabic_title": "كوكي وجريزمان يجتمعان في الدوري الأمريكي",
-    "arabic_summary": "استغل الكابتن عطلة نهاية الأسبوع المجانية للسفر إلى ولاية بنسلفانيا ومشاهدة الفرنسي في مباراة بالدوري الأمريكي مع أورلاندو سيتي.",
-    "translation_status": "translated",
-    "post_title": "كوكي وجريزمان يجتمعان في الدوري الأمريكي",
-    "post_text": "🚨 كوكي وجريزمان يجتمعان في الدوري الأمريكي\n\n📝 استغل الكابتن عطلة نهاية الأسبوع المجانية للسفر إلى ولاية بنسلفانيا ومشاهدة الفرنسي في مباراة بالدوري الأمريكي مع أورلاندو سيتي.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065712226094088",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوكي_وجريزمان_يجتمعان_في_الدوري_الأمريكي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/koke-y-griezmann-reencuentro-en-la-mls-f202609-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AyE4F1XHdBrPh7hOXhE7mTr"
     }
   }
 ]
