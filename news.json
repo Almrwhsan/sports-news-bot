@@ -1,5 +1,39 @@
 [
   {
+    "title": "Casas no pudo evitar la bronca",
+    "url": "https://as.com/futbol/segunda/casas-no-pudo-evitar-la-bronca-f202610-n/",
+    "summary": "El delantero desatascó con dos goles al Sporting, el segundo tras una acción polémica que cambió el partido porque dio la vuelta al marcador y dejó al Fortuna con diez toda la segunda parte.",
+    "published": "Sun, 04 Oct 2026 17:32:22 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ODHALQPHKBEZ7OFACTMPVHCCRU.jpeg?auth=f84276635180553443fe49efca51670291f23ddbe4578dbe55c766244c8fe5c8",
+    "media_type": "image/jpeg",
+    "arabic_title": "ولم يستطع كاساس تجنب الغضب",
+    "arabic_summary": "افتتح المهاجم سبورتنج بهدفين، والثاني بعد عمل مثير للجدل غير المباراة لأنه قلب النتيجة وترك فورتونا بعشرة أهداف طوال الشوط الثاني بأكمله.",
+    "translation_status": "translated",
+    "post_title": "ولم يستطع كاساس تجنب الغضب",
+    "post_text": "🚨 ولم يستطع كاساس تجنب الغضب\n\n📝 افتتح المهاجم سبورتنج بهدفين، والثاني بعد عمل مثير للجدل غير المباراة لأنه قلب النتيجة وترك فورتونا بعشرة أهداف طوال الشوط الثاني بأكمله.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069066769091967",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ولم_يستطع_كاساس_تجنب_الغضب.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/segunda/casas-no-pudo-evitar-la-bronca-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5QBbjxKYbIvivh-QjDNX3b"
+    }
+  },
+  {
     "title": "Primera RFEF hoy, en directo: resultados y partidos de la jornada 6, grupos 1 y 2, en vivo",
     "url": "https://as.com/futbol/primera-rfef/primera-rfef-hoy-en-directo-resultados-y-partidos-de-la-jornada-6-grupos-1-y-2-en-vivo-f202610-d-2/",
     "summary": "Sigue en vivo y en directo todos los partidos correspondientes a la jornada 6 de los grupos 1 y 2 de Primera RFEF que se juegan hoy, domingo 4 de octubre.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AmkEw3y3QVx198KShInou1L"
-    }
-  },
-  {
-    "title": "Las consecuencias a las que se expone Cristiano",
-    "url": "https://www.marca.com/futbol/2026/10/01/consecuencias-expone-cristiano.html",
-    "summary": "Según el Reglamento de la Federación portuguesa le podrían sancionar durante seis meses y multar económicamente",
-    "published": "Thu, 01 Oct 2026 08:37:51 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abdfb561ae9f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "العواقب التي يتعرض لها كريستيانو",
-    "arabic_summary": "وفقًا للوائح الاتحاد البرتغالي، قد تتم معاقبته لمدة ستة أشهر وغرامة مالية.",
-    "translation_status": "translated",
-    "post_title": "العواقب التي يتعرض لها كريستيانو",
-    "post_text": "🚨 العواقب التي يتعرض لها كريستيانو\n\n📝 وفقًا للوائح الاتحاد البرتغالي، قد تتم معاقبته لمدة ستة أشهر وغرامة مالية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1065977112734266",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/العواقب_التي_يتعرض_لها_كريستيانو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/01/consecuencias-expone-cristiano.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AO2WWEP29vL9PbRaSsfKBXy"
     }
   }
 ]
