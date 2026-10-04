@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Antequera encontró el premio a su esfuerzo",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/10/05/antequera-encontro-premio-esfuerzo.html",
+    "summary": "Alberto Quintana, con su primer tanto como blanquiverde, estableció las tablas tras un mal inicio de segunda mitad.",
+    "published": "Mon, 05 Oct 2026 00:51:38 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac2d7d50cdd7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وجدت أنتقيرة المكافأة على جهودهم",
+    "arabic_summary": "ألبرتو كوينتانا، بهدفه الأول بصفته بلانكويفيردي، حقق التعادل بعد بداية سيئة في الشوط الثاني.",
+    "translation_status": "translated",
+    "post_title": "وجدت أنتقيرة المكافأة على جهودهم",
+    "post_text": "🚨 وجدت أنتقيرة المكافأة على جهودهم\n\n📝 ألبرتو كوينتانا، بهدفه الأول بصفته بلانكويفيردي، حقق التعادل بعد بداية سيئة في الشوط الثاني.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069125979086046",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وجدت_أنتقيرة_المكافأة_على_جهودهم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/10/05/antequera-encontro-premio-esfuerzo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1e7XPdKhckVGsPvzfbHHyZ"
+    }
+  },
+  {
     "title": "El Coria plantó cara, pero el Zamora se hace fuerte en casa",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/10/05/coria-planto-cara-zamora-fuerte-casa.html",
     "summary": "Los goles de Carbonell y Carlos Ramos dejan a la escuadra de Cano a un punto del play-off",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aig311m-bBjG7GdNDwYHWSB"
-    }
-  },
-  {
-    "title": "Cristiano, reincidente: \"Fui a explicarle que no iba a jugar y lo malinterpretó\"",
-    "url": "https://www.marca.com/futbol/2026/10/01/cristiano-reincidente-explicarle-iba-jugar-malinterpreto.html",
-    "summary": "Así lo recuerda Fernando Santos, el que fuera seleccionador de Portugal en el Mundial de 2022",
-    "published": "Thu, 01 Oct 2026 10:17:15 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe14e6705cd.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كريستيانو، المعتدي المتكرر: \"ذهبت لأشرح له أنني لن ألعب، لكنه أساء تفسير ذلك\"",
-    "arabic_summary": "هكذا يتذكرها فرناندو سانتوس الذي كان مدربا للبرتغال في مونديال 2022",
-    "translation_status": "translated",
-    "post_title": "كريستيانو، المعتدي المتكرر: \"ذهبت لأشرح له أنني لن ألعب، لكنه أساء تفسير ذلك\"",
-    "post_text": "🚨 كريستيانو، المعتدي المتكرر: \"ذهبت لأشرح له أنني لن ألعب، لكنه أساء تفسير ذلك\"\n\n📝 هكذا يتذكرها فرناندو سانتوس الذي كان مدربا للبرتغال في مونديال 2022\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066014029397241",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كريستيانو،_المعتدي_المتكرر_ذهبت_لأشرح_له_أنني_لن_ألعب،_لكنه_أساء_تفسير_ذلك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/01/cristiano-reincidente-explicarle-iba-jugar-malinterpreto.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANVC4PL-tyox-FV-kvfnf1E"
     }
   }
 ]
