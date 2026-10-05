@@ -1,5 +1,39 @@
 [
   {
+    "title": "La atrevida comparación de Santi Denia: \"Gordon está al mismo nivel que Lamine Yamal\"",
+    "url": "https://www.marca.com/futbol/nations-league/2026/10/05/atrevida-comparacion-santi-denia-gordon-nivel-lamine-yamal.html",
+    "summary": "El seleccionador de la República Checa sorprendió elogiando al fichaje del Barcelona antes de volver a medirse a Inglaterra",
+    "published": "Mon, 05 Oct 2026 10:59:13 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac366677a644.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مقارنة جريئة لسانتي دينيا: \"جوردون في نفس مستوى لامين يامال\"",
+    "arabic_summary": "وفاجأ مدرب التشيك بالإشادة بصفقة برشلونة قبل مواجهة إنجلترا مرة أخرى",
+    "translation_status": "translated",
+    "post_title": "مقارنة جريئة لسانتي دينيا: \"جوردون في نفس مستوى لامين يامال\"",
+    "post_text": "🚨 مقارنة جريئة لسانتي دينيا: \"جوردون في نفس مستوى لامين يامال\"\n\n📝 وفاجأ مدرب التشيك بالإشادة بصفقة برشلونة قبل مواجهة إنجلترا مرة أخرى\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069766379022006",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مقارنة_جريئة_لسانتي_دينيا_جوردون_في_نفس_مستوى_لامين_يامال.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/nations-league/2026/10/05/atrevida-comparacion-santi-denia-gordon-nivel-lamine-yamal.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwEMXAbxnOnZOMWY0Somn3M"
+    }
+  },
+  {
     "title": "Así es la impresionante equipación de Messi en su último partido con Argentina",
     "url": "https://www.marca.com/futbol/2026/10/05/asi-impresionante-equipacion-messi-ultimo-partido-argentina-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ae4xKGEJHR0MR930D8m3gv4"
-    }
-  },
-  {
-    "title": "Autocrítica de Vinicius",
-    "url": "https://as.com/futbol/primera/autocritica-de-vinicius-f202610-n/",
-    "summary": "Está en su peor arranque desde la pandemia: sólo un gol en los ocho primeros partidos. Asume lo irrefutable y quiere levantarse. El club le arropa, empezando por Mourinho.",
-    "published": "Fri, 02 Oct 2026 11:54:15 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4QZNYXE2RNJ4PDL5P4KE7JWP7U.jpg?auth=3de2340547fc50625bc92c34746141ee6bde8a4363d132d785b98a502c16ebc1",
-    "media_type": "image/jpeg",
-    "arabic_title": "النقد الذاتي لفينيسيوس",
-    "arabic_summary": "إنها أسوأ بداية لها منذ الوباء: هدف واحد فقط في أول ثماني مباريات. تفترض ما لا يمكن دحضه وتريد النهوض. النادي يدعمه، بدءًا من مورينيو.",
-    "translation_status": "translated",
-    "post_title": "النقد الذاتي لفينيسيوس",
-    "post_text": "🚨 النقد الذاتي لفينيسيوس\n\n📝 إنها أسوأ بداية لها منذ الوباء: هدف واحد فقط في أول ثماني مباريات. تفترض ما لا يمكن دحضه وتريد النهوض. النادي يدعمه، بدءًا من مورينيو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066844835980827",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/النقد_الذاتي_لفينيسيوس.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/autocritica-de-vinicius-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATHGGsP8iVhupwj6mMhqsPX"
     }
   }
 ]
