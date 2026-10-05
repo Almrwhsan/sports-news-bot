@@ -1,5 +1,39 @@
 [
   {
+    "title": "Así es la impresionante equipación de Messi en su último partido con Argentina",
+    "url": "https://www.marca.com/futbol/2026/10/05/asi-impresionante-equipacion-messi-ultimo-partido-argentina-video.html",
+    "summary": "",
+    "published": "Mon, 05 Oct 2026 10:55:05 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/fUJ3g1gmsM7AtFSTa.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هذا هو طقم ميسي المثير للإعجاب في مباراته الأخيرة مع الأرجنتين",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هذا هو طقم ميسي المثير للإعجاب في مباراته الأخيرة مع الأرجنتين",
+    "post_text": "🚨 هذا هو طقم ميسي المثير للإعجاب في مباراته الأخيرة مع الأرجنتين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069762552355722",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذا_هو_طقم_ميسي_المثير_للإعجاب_في_مباراته_الأخيرة_مع_الأرجنتين.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/05/asi-impresionante-equipacion-messi-ultimo-partido-argentina-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AivpQI1xjaRSG-gfu9FBNhh"
+    }
+  },
+  {
     "title": "Bellingham, con las islas a sus pies: \"Puede llegar a convertirse en uno de los mejores de todos los tiempos\"",
     "url": "https://www.marca.com/futbol/nations-league/2026/10/05/bellingham-reino-unido-pies-llegar-convertirse-mejores-todos-tiempos.html",
     "summary": "Roy Keane se deshace en elogios hacia el de Birmingham",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATHGGsP8iVhupwj6mMhqsPX"
-    }
-  },
-  {
-    "title": "El Barcelona ficha para el Clásico al polémico rapero Tyler, the Creator",
-    "url": "https://www.marca.com/futbol/barcelona/2026/10/02/barcelona-ficha-clasico-tyler-the-creator-rapero-vetado-letras-homofobas-machistas.html",
-    "summary": "Jugará contra el Real Madrid con el logo en su camiseta del controvertido cantante estadounidense",
-    "published": "Fri, 02 Oct 2026 06:50:34 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf35a06e6a3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "برشلونة يتعاقد مع مغني الراب المثير للجدل تايلر، مبتكر فرقة Classic",
-    "arabic_summary": "وسيلعب ضد ريال مدريد مع شعار المغني الأمريكي المثير للجدل على قميصه",
-    "translation_status": "translated",
-    "post_title": "برشلونة يتعاقد مع مغني الراب المثير للجدل تايلر، مبتكر فرقة Classic",
-    "post_text": "🚨 برشلونة يتعاقد مع مغني الراب المثير للجدل تايلر، مبتكر فرقة Classic\n\n📝 وسيلعب ضد ريال مدريد مع شعار المغني الأمريكي المثير للجدل على قميصه\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066832482648729",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_يتعاقد_مع_مغني_الراب_المثير_للجدل_تايلر،_مبتكر_فرقة_Classic.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/02/barcelona-ficha-clasico-tyler-the-creator-rapero-vetado-letras-homofobas-machistas.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9C0AtAFIgpZxpLdv2chqF5"
     }
   }
 ]
