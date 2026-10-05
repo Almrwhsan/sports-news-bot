@@ -1,5 +1,39 @@
 [
   {
+    "title": "Flick suspende el entrenamiento por la lluvia",
+    "url": "https://as.com/futbol/flick-suspende-el-entrenamiento-por-la-lluvia-f202610-n/",
+    "summary": "Los jugadores no saltaron al campo y se quedaron en el gimnasio completando la sesión de trabajo por culpa del fuerte temporal.",
+    "published": "Mon, 05 Oct 2026 10:40:33 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IVR2ZLZFNUXWPQECO4RDFNQJF4.JPG?auth=07a28cb290c09440ddb7c8f494a3e314d964df2c8924343e03b03bd44545969b",
+    "media_type": "image/jpeg",
+    "arabic_title": "فليك يعلق التدريبات بسبب الأمطار",
+    "arabic_summary": "ولم ينزل اللاعبون إلى الملعب وبقيوا في صالة الألعاب الرياضية لاستكمال جلسة العمل بسبب العاصفة القوية.",
+    "translation_status": "translated",
+    "post_title": "فليك يعلق التدريبات بسبب الأمطار",
+    "post_text": "🚨 فليك يعلق التدريبات بسبب الأمطار\n\n📝 ولم ينزل اللاعبون إلى الملعب وبقيوا في صالة الألعاب الرياضية لاستكمال جلسة العمل بسبب العاصفة القوية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069547519043892",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فليك_يعلق_التدريبات_بسبب_الأمطار.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/flick-suspende-el-entrenamiento-por-la-lluvia-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHLRGqSj20ucn5c_wd1MV7q"
+    }
+  },
+  {
     "title": "Messi lauded as Ronaldo involved in bitter dispute - a fitting finale?",
     "url": "https://www.skysports.com/football/news/12040/13594313/cristiano-ronaldos-portugal-dispute-happening-against-the-backdrop-of-lionel-messis-argentina-farewell-feels-fitting",
     "summary": "Maybe it was inevitable, given how entwined their careers have been. But the comparison is irresistible. As Lionel Messi is lauded in Argentina during his farewell game, his great rival Cristiano Ronaldo&#8217;s Portugal career appears to be ending in acrimony.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKhxkxgQrLYKH-j7W2Sfuws"
-    }
-  },
-  {
-    "title": "Orlando, donde comienza la magia del fútbol mundial",
-    "url": "https://as.com/futbol/mas_futbol/orlando-donde-comienza-la-magia-del-futbol-mundial-f202610-n/",
-    "summary": "El Walt Disney World Resort, en territorio estadounidense, acoge LaLiga FC Futures por quinto año. Participan ocho clubes españoles y seis americanos.",
-    "published": "Fri, 02 Oct 2026 02:37:28 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/F5RH6FR3IZDHPA34X5BVKEYRBM.jpg?auth=5e250698a17ea2580669caa64a0c30d5135360f2ee1abc8d1c2d9edd538018a1",
-    "media_type": "image/jpeg",
-    "arabic_title": "أورلاندو، حيث يبدأ سحر كرة القدم العالمية",
-    "arabic_summary": "يستضيف منتجع والت ديزني العالمي في الولايات المتحدة نادي LaLiga FC Futures للسنة الخامسة. تشارك ثمانية أندية إسبانية وستة أمريكية.",
-    "translation_status": "translated",
-    "post_title": "أورلاندو، حيث يبدأ سحر كرة القدم العالمية",
-    "post_text": "🚨 أورلاندو، حيث يبدأ سحر كرة القدم العالمية\n\n📝 يستضيف منتجع والت ديزني العالمي في الولايات المتحدة نادي LaLiga FC Futures للسنة الخامسة. تشارك ثمانية أندية إسبانية وستة أمريكية.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066519492680028",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أورلاندو،_حيث_يبدأ_سحر_كرة_القدم_العالمية.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/mas_futbol/orlando-donde-comienza-la-magia-del-futbol-mundial-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AroMfvKWVfX_YkcQsKs5iDw"
     }
   }
 ]
