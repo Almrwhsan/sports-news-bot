@@ -1,5 +1,39 @@
 [
   {
+    "title": "Aprobados y suspensos sportinguistas: un equipo que no domina",
+    "url": "https://as.com/futbol/aprobados-y-suspensos-sportinguistas-un-equipo-que-no-domina-f202610-n/",
+    "summary": "Antonio Casas fue el más destacado de un Sporting muy plano y excesivamente temeroso que no supo sacar partido de su ventaja numérica y sufrió más de la cuenta.",
+    "published": "Mon, 05 Oct 2026 09:10:20 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GHQOOSHZLREZLOGP3C2ALPXKKQ.jpeg?auth=4c7102a525b29549b227c10d7c6bb6c3ba88252591b73871f35d6392ce45b8fd",
+    "media_type": "image/jpeg",
+    "arabic_title": "جماهير سبورتنج وافقت وفشلت: فريق لا يهيمن",
+    "arabic_summary": "كان أنطونيو كاساس هو أبرز فريق رياضي منبسط للغاية وخائف للغاية ولم يعرف كيفية الاستفادة من تفوقه العددي وعانى أكثر من اللازم.",
+    "translation_status": "translated",
+    "post_title": "جماهير سبورتنج وافقت وفشلت: فريق لا يهيمن",
+    "post_text": "🚨 جماهير سبورتنج وافقت وفشلت: فريق لا يهيمن\n\n📝 كان أنطونيو كاساس هو أبرز فريق رياضي منبسط للغاية وخائف للغاية ولم يعرف كيفية الاستفادة من تفوقه العددي وعانى أكثر من اللازم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069480315717279",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جماهير_سبورتنج_وافقت_وفشلت_فريق_لا_يهيمن.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/aprobados-y-suspensos-sportinguistas-un-equipo-que-no-domina-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A745ctImKyIMlRZFXnN0Xcx"
+    }
+  },
+  {
     "title": "Iniesta: “No encontrarán ni un uno por ciento de ayudas por el caso Negreira”",
     "url": "https://as.com/futbol/iniesta-no-encontraran-ni-un-uno-por-ciento-de-ayudas-por-el-caso-negreira-f202610-n/",
     "summary": "El exjugador y actual entrenador atiende a AS antes de que se inaugure en Barcelona la exposición ‘Iniesta, el juego interior’ y no elude ningún tema: su papel como técnico, el futuro de la Selección, el Mundial, su depresión y el caso Negreira.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-qxbDd-YuPVVcD0lfyI31M"
-    }
-  },
-  {
-    "title": "Bale's wayward shot lands on pub roof!",
-    "url": "https://www.skysports.com/watch/video/13594033/bale-shot-hits-jigger",
-    "summary": "Gareth Bale hits the roof of the Jigger Inn on the famous 17th Hole at St Andrews after a wayward tee shot during the Alfred Dunhill Links Championship.",
-    "published": "Thu, 01 Oct 2026 15:01:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-golf-bale-st-andrews_7365854.jpg?20261001152123",
-    "media_type": "image/jpg",
-    "arabic_title": "تسديدة بيل الضالة تسقط على سطح الحانة!",
-    "arabic_summary": "غاريث بيل يضرب سطح فندق Jigger Inn في الحفرة 17 الشهيرة في سانت أندروز بعد تسديدة خاطئة خلال بطولة Alfred Dunhill Links.",
-    "translation_status": "translated",
-    "post_title": "تسديدة بيل الضالة تسقط على سطح الحانة!",
-    "post_text": "🚨 تسديدة بيل الضالة تسقط على سطح الحانة!\n\n📝 غاريث بيل يضرب سطح فندق Jigger Inn في الحفرة 17 الشهيرة في سانت أندروز بعد تسديدة خاطئة خلال بطولة Alfred Dunhill Links.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066148496050461",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تسديدة_بيل_الضالة_تسقط_على_سطح_الحانة!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13594033/bale-shot-hits-jigger",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArFhepOcOgRLqRGOaCTxGZY"
     }
   }
 ]
