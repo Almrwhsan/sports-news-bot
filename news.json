@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pau López se lesiona del abductor",
+    "url": "https://as.com/futbol/pau-lopez-se-lesiona-del-abductor-f202610-n/",
+    "summary": "El meta, que ya se perdió el duelo ante el Sabadell, se perderá los próximos compromisos debido a una pequeña lesión.",
+    "published": "Mon, 05 Oct 2026 16:03:12 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SAGJ7EE3IRDO5DLA3FNFMXZXD4.jpg?auth=908ec46823f4876e8a91eb9359da15e57ee421b368e47bcb7a5f2583aaf06ee9",
+    "media_type": "image/jpeg",
+    "arabic_title": "أصيب باو لوبيز في خاطفه",
+    "arabic_summary": "وسيغيب حارس المرمى، الذي غاب بالفعل عن المواجهة ضد ساباديل، عن المباريات المقبلة بسبب إصابة طفيفة.",
+    "translation_status": "translated",
+    "post_title": "أصيب باو لوبيز في خاطفه",
+    "post_text": "🚨 أصيب باو لوبيز في خاطفه\n\n📝 وسيغيب حارس المرمى، الذي غاب بالفعل عن المواجهة ضد ساباديل، عن المباريات المقبلة بسبب إصابة طفيفة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069888299009814",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أصيب_باو_لوبيز_في_خاطفه.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/pau-lopez-se-lesiona-del-abductor-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANdZGJ6CGz1RXtYKeUFGQGh"
+    }
+  },
+  {
     "title": "El Betis, otro desafío para el Navalcarnero",
     "url": "https://as.com/futbol/primera/el-betis-otro-desafio-para-el-navalcarnero-f202610-n/",
     "summary": "El cuadro verdiblanco se medirá en la Copa al conjunto madrileño, que ya maravilló en la 20-21 eliminando al Eibar y alcanzando los octavos de final.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aznb1WQOxVOXblYBH80DPTA"
-    }
-  },
-  {
-    "title": "La falsa polémica sobre la localía en la final de la Euskal Herria Txapela",
-    "url": "https://www.marca.com/futbol/athletic/2026/10/02/falsa-polemica-sobre-localia-final-euskal-herria-txapela.html",
-    "summary": "La normativa del torneo no exige precios unitarios y también regula la elección del estadio",
-    "published": "Fri, 02 Oct 2026 10:26:50 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/02/16/69935a66c3b79.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الجدل الكاذب حول الملعب المحلي في نهائي يوسكال هيريا تكسابيلا",
-    "arabic_summary": "لا تتطلب لوائح البطولة أسعار الوحدات كما أنها تنظم اختيار الملعب",
-    "translation_status": "translated",
-    "post_title": "الجدل الكاذب حول الملعب المحلي في نهائي يوسكال هيريا تكسابيلا",
-    "post_text": "🚨 الجدل الكاذب حول الملعب المحلي في نهائي يوسكال هيريا تكسابيلا\n\n📝 لا تتطلب لوائح البطولة أسعار الوحدات كما أنها تنظم اختيار الملعب\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067010132630964",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الجدل_الكاذب_حول_الملعب_المحلي_في_نهائي_يوسكال_هيريا_تكسابيلا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/athletic/2026/10/02/falsa-polemica-sobre-localia-final-euskal-herria-txapela.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARopX6AlooS_3HEplQukIEA"
     }
   }
 ]
