@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sorteo Copa del Rey en directo | Última hora de la primera eliminatoria con fechas y emparejamientos",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/10/05/6ac37270b364eacdc8624a68.html",
+    "summary": "112 equipos conocerán hoy su suerte con los cuatro equipos que jugarán la Supercopa de España exentos",
+    "published": "Mon, 05 Oct 2026 11:53:11 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/fwCgYJQnHZk.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "قرعة كأس الملك مباشر | الدقيقة الأخيرة من الجولة الأولى مع التواريخ والأزواج",
+    "arabic_summary": "وسيعرف 112 فريقاً مصيرهم اليوم مع استثناء الفرق الأربعة التي ستلعب كأس السوبر الإسباني",
+    "translation_status": "translated",
+    "post_title": "قرعة كأس الملك مباشر | الدقيقة الأخيرة من الجولة الأولى مع التواريخ والأزواج",
+    "post_text": "🚨 قرعة كأس الملك مباشر | الدقيقة الأخيرة من الجولة الأولى مع التواريخ والأزواج\n\n📝 وسيعرف 112 فريقاً مصيرهم اليوم مع استثناء الفرق الأربعة التي ستلعب كأس السوبر الإسباني\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069821892349788",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قرعة_كأس_الملك_مباشر_الدقيقة_الأخيرة_من_الجولة_الأولى_مع_التواريخ_والأزواج.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/10/05/6ac37270b364eacdc8624a68.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "App6_ZCq-BYa6cZaUz-Q1Z3"
+    }
+  },
+  {
     "title": "El factor banquillo en el Barcelona",
     "url": "https://as.com/futbol/primera/el-factor-banquillo-en-el-barcelona-f202610-n/",
     "summary": "El equipo de Flick no baja el nivel cuando en los segundos tiempos debe empezar con los cambios.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AN_SCBFpnjvJ-MsRO9BfGeB"
-    }
-  },
-  {
-    "title": "Qué pasó en Mestalla... un 2 de octubre de 2002: La goleada Champions del Valencia bajo una intensa tormenta",
-    "url": "https://www.marca.com/futbol/valencia/2026/10/02/que-paso-mestalla-2-octubre-2002-goleada-champions-valencia-intensa-tormenta.html",
-    "summary": "Los de Benítez volaron en la primera fase de la Champions y golearon en casa a los suizos del Basilea por 6-2 tras un tormentón en la capital",
-    "published": "Fri, 02 Oct 2026 09:52:04 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/30/6abcb61dcf56d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماذا حدث في ميستايا... في 2 أكتوبر 2002: فوز فالنسيا بدوري أبطال أوروبا تحت عاصفة شديدة",
-    "arabic_summary": "طار رجال بينيتيز في المرحلة الأولى من دوري أبطال أوروبا وفازوا على الفريق السويسري من بازل 6-2 بعد عاصفة في العاصمة",
-    "translation_status": "translated",
-    "post_title": "ماذا حدث في ميستايا... في 2 أكتوبر 2002: فوز فالنسيا بدوري أبطال أوروبا تحت عاصفة شديدة",
-    "post_text": "🚨 ماذا حدث في ميستايا... في 2 أكتوبر 2002: فوز فالنسيا بدوري أبطال أوروبا تحت عاصفة شديدة\n\n📝 طار رجال بينيتيز في المرحلة الأولى من دوري أبطال أوروبا وفازوا على الفريق السويسري من بازل 6-2 بعد عاصفة في العاصمة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066948245970486",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماذا_حدث_في_ميستايا..._في_2_أكتوبر_2002_فوز_فالنسيا_بدوري_أبطال_أوروبا_تحت_عاصفة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/10/02/que-paso-mestalla-2-octubre-2002-goleada-champions-valencia-intensa-tormenta.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQnIDAYTKLZevMFjap9aL2V"
     }
   }
 ]
