@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Valencia se las verá contra el pueblo de Espí: “Es un orgullo para Tavernes”",
+    "url": "https://as.com/futbol/copa_del_rey/el-valencia-se-las-vera-contra-el-pueblo-de-espi-es-un-orgullo-para-tavernes-f202610-n/",
+    "summary": "El Valencia ya jugó un partido amistoso en Tavernes en agosto de 1981.",
+    "published": "Mon, 05 Oct 2026 12:02:08 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4JUIABGJYVME7JCFWJ4M3KEJA4.jpg?auth=786e997d849b25a2b60c5efd7d98f05d3eedea834c2f2548cdf213a1f043dfeb",
+    "media_type": "image/jpeg",
+    "arabic_title": "فالنسيا سيواجه بلدة إسبي: \"إنه مصدر فخر لتافيرنيس\"",
+    "arabic_summary": "لعب فالنسيا بالفعل مباراة ودية في تافيرنيس في أغسطس 1981.",
+    "translation_status": "translated",
+    "post_title": "فالنسيا سيواجه بلدة إسبي: \"إنه مصدر فخر لتافيرنيس\"",
+    "post_text": "🚨 فالنسيا سيواجه بلدة إسبي: \"إنه مصدر فخر لتافيرنيس\"\n\n📝 لعب فالنسيا بالفعل مباراة ودية في تافيرنيس في أغسطس 1981.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069606785704632",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالنسيا_سيواجه_بلدة_إسبي_إنه_مصدر_فخر_لتافيرنيس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/copa_del_rey/el-valencia-se-las-vera-contra-el-pueblo-de-espi-es-un-orgullo-para-tavernes-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8Q7Vrmu7Qp0z14wizhKG1b"
+    }
+  },
+  {
     "title": "Un víctima directa de las trampas del Manchester City asegura que \"todo el mundo lo sabía\" y pide su \"descenso\"",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/05/victima-directa-trampas-manchester-city-asegura-mundo-sabia-pide-descenso.html",
     "summary": "Jesse Marsch, seleccionador de Canadá, descendió con el Leeds uno de los cursos que el Manchester City de Pep Guardiola lo ganó todo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3m2-rMwvg3kQVSklBmIyZ9"
-    }
-  },
-  {
-    "title": "Lío en Portugal: la reacción de un jugador de LaLiga al ser preguntado por Cristiano",
-    "url": "https://as.com/futbol/videos/lio-en-portugal-la-reaccion-de-un-jugador-de-laliga-al-ser-preguntado-por-cristiano-f202610-v/",
-    "summary": "Renato Veiga, jugador del Villarreal y la selección portuguesa, fue preguntado por los últimos acontecimientos con Cristiano y reaccionó de una manera muy peculiar.",
-    "published": "Fri, 02 Oct 2026 06:10:55 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261002/1220958_060206_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "فوضى في البرتغال: رد فعل أحد لاعبي الدوري الإسباني عند سؤاله عن كريستيانو",
-    "arabic_summary": "سُئل ريناتو فيجا، لاعب فياريال والمنتخب البرتغالي، عن آخر الأحداث مع كريستيانو وكان رد فعله غريبًا للغاية.",
-    "translation_status": "translated",
-    "post_title": "فوضى في البرتغال: رد فعل أحد لاعبي الدوري الإسباني عند سؤاله عن كريستيانو",
-    "post_text": "🚨 فوضى في البرتغال: رد فعل أحد لاعبي الدوري الإسباني عند سؤاله عن كريستيانو\n\n📝 سُئل ريناتو فيجا، لاعب فياريال والمنتخب البرتغالي، عن آخر الأحداث مع كريستيانو وكان رد فعله غريبًا للغاية.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066598699338774",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فوضى_في_البرتغال_رد_فعل_أحد_لاعبي_الدوري_الإسباني_عند_سؤاله_عن_كريستيانو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-qsuFbiLwJhOL8WBI9BwU9"
     }
   }
 ]
