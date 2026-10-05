@@ -1,5 +1,39 @@
 [
   {
+    "title": "Xavi obra el milagro",
+    "url": "https://as.com/futbol/internacional/xavi-obra-el-milagro-f202610-n/",
+    "summary": "Desde la llegada del técnico, Holanda no ha perdido ningún partido: dos victorias, dos empates y el liderato compartido con Grecia en la Nations League.",
+    "published": "Mon, 05 Oct 2026 09:46:00 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6EQT22QBPJP23JQZHLOXJ63QXI.jpg?auth=4ae8408a26050984c1883c0312f009e9f334b5cb8d9e8143a2bb541224cc0a0f",
+    "media_type": "image/jpeg",
+    "arabic_title": "تشافي يصنع المعجزة",
+    "arabic_summary": "منذ وصول المدرب، لم تخسر هولندا أي مباراة: فوزان وتعادلان وتقاسم الريادة مع اليونان في دوري الأمم الأوروبية.",
+    "translation_status": "translated",
+    "post_title": "تشافي يصنع المعجزة",
+    "post_text": "🚨 تشافي يصنع المعجزة\n\n📝 منذ وصول المدرب، لم تخسر هولندا أي مباراة: فوزان وتعادلان وتقاسم الريادة مع اليونان في دوري الأمم الأوروبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069502652381712",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشافي_يصنع_المعجزة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/xavi-obra-el-milagro-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIy6n28JlOkwgfTVS-eYUXU"
+    }
+  },
+  {
     "title": "“Jugábamos muy bien; compañeras nuestras serían internacionales hoy”",
     "url": "https://as.com/futbol/femenino/jugabamos-muy-bien-companeras-nuestras-serian-internacionales-hoy-f202610-n/",
     "summary": "Mª Ángeles Pérez (Quilla) y Carmen Arce (Kubalita) han sido las protagonistas de la mesa ‘Pioneras, solo querían jugar’ del tercer Congreso Deporte en Positivo del Diario AS.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aqu4oqoSw89uE2I4B__DpYA"
-    }
-  },
-  {
-    "title": "Messi renews Ronaldo rivalry with acquisition of second-tier Spanish club",
-    "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-    "summary": "",
-    "published": "Thu, 01 Oct 2026 17:26:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-messi-lionel-world_7336718.jpg?20260831170636",
-    "media_type": "image/jpg",
-    "arabic_title": "ميسي يجدد منافسة رونالدو بالاستحواذ على نادي الدرجة الثانية الإسباني",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "ميسي يجدد منافسة رونالدو بالاستحواذ على نادي الدرجة الثانية الإسباني",
-    "post_text": "🚨 ميسي يجدد منافسة رونالدو بالاستحواذ على نادي الدرجة الثانية الإسباني\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066208319377812",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميسي_يجدد_منافسة_رونالدو_بالاستحواذ_على_نادي_الدرجة_الثانية_الإسباني.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A49aPUBV507ZNDGEZx0etfo"
     }
   }
 ]
