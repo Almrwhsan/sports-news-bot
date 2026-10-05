@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un analista de Las Palmas a un jugador del Valladolid: “Eres un subnormal”",
+    "url": "https://as.com/futbol/segunda/un-analista-de-las-palmas-a-un-jugador-del-valladolid-eres-un-subnormal-f202610-n/",
+    "summary": "El acta del Las Palmas - Valladolid recoge el insulto de un analista del conjunto local a un jugador visitante.",
+    "published": "Mon, 05 Oct 2026 07:14:02 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4SNNF7VYCBLRFHNKQB4JHFGOXQ.jpg?auth=75fd41a3e1b0e1e3427451fbf4cfa23561503a61b91e34070feebc7bf9b1e861",
+    "media_type": "image/jpeg",
+    "arabic_title": "محلل من لاس بالماس للاعب بلد الوليد: أنت أحمق",
+    "arabic_summary": "سجل لاس بالماس – بلد الوليد يتضمن إهانة محلل فريق محلي للاعب زائر.",
+    "translation_status": "translated",
+    "post_title": "محلل من لاس بالماس للاعب بلد الوليد: أنت أحمق",
+    "post_text": "🚨 محلل من لاس بالماس للاعب بلد الوليد: أنت أحمق\n\n📝 سجل لاس بالماس – بلد الوليد يتضمن إهانة محلل فريق محلي للاعب زائر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069411765724134",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/محلل_من_لاس_بالماس_للاعب_بلد_الوليد_أنت_أحمق.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/segunda/un-analista-de-las-palmas-a-un-jugador-del-valladolid-eres-un-subnormal-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIZUUDvn6QSzlWGMYGnQT6V"
+    }
+  },
+  {
     "title": "How did Lewis recover from P18 to the podium?! SkyPad ANALYSIS reveals all...",
     "url": "https://www.skysports.com/watch/video/13594995/skypad-analysis-of-lewis-hamiltons-p15-to-podium-recovery-drive",
     "summary": "SkyPad ANALYSIS of Lewis Hamilton's P15 to podium recovery drive!",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2V8TQ3A4HXjPVrbj54Xx4j"
-    }
-  },
-  {
-    "title": "Rafael Leao hereda el mítico '7' de Cristiano Ronaldo",
-    "url": "https://www.marca.com/futbol/nations-league/2026/10/01/rafael-leao-hereda-mitico-7-cristiano-ronaldo.html",
-    "summary": "El extremo, el elegido para portar el dorsal de CR7",
-    "published": "Thu, 01 Oct 2026 12:19:21 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe3340bc401.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "رافائيل لياو يرث الرقم 7 الأسطوري من كريستيانو رونالدو",
-    "arabic_summary": "الجناح، هو الذي تم اختياره ليرتدي رقم CR7",
-    "translation_status": "translated",
-    "post_title": "رافائيل لياو يرث الرقم 7 الأسطوري من كريستيانو رونالدو",
-    "post_text": "🚨 رافائيل لياو يرث الرقم 7 الأسطوري من كريستيانو رونالدو\n\n📝 الجناح، هو الذي تم اختياره ليرتدي رقم CR7\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066089119389732",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رافائيل_لياو_يرث_الرقم_7_الأسطوري_من_كريستيانو_رونالدو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/10/01/rafael-leao-hereda-mitico-7-cristiano-ronaldo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADCppsHXd3XnLs-lurR5nqf"
     }
   }
 ]
