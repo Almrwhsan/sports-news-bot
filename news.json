@@ -1,5 +1,39 @@
 [
   {
+    "title": "Óscar vuelve a brillar en El Molinón con la Copa del Mundo",
+    "url": "https://as.com/futbol/oscar-vuelve-a-brillar-en-el-molinon-con-la-copa-del-mundo-f202610-n/",
+    "summary": "El luarqués, médico de la Selección española, pisa el césped de un estadio donde fue pieza importante entre 1988 y 1994, para ofrecer el trofeo conquistado en Nueva York.",
+    "published": "Mon, 05 Oct 2026 11:14:35 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/AWTN6EEJJRBSPGK5YUXJIKFCW4.jpeg?auth=ebc4908b557ba8c11a1c93406deaee63441c1df2e603c5f8de24bab66913d830",
+    "media_type": "image/jpeg",
+    "arabic_title": "أوسكار يتألق مرة أخرى في إل مولينون مع كأس العالم",
+    "arabic_summary": "لواركين، طبيب المنتخب الإسباني، يخطو على عشب الملعب الذي كان لاعباً مهماً فيه بين عامي 1988 و1994، لتقديم الكأس التي فاز بها في نيويورك.",
+    "translation_status": "translated",
+    "post_title": "أوسكار يتألق مرة أخرى في إل مولينون مع كأس العالم",
+    "post_text": "🚨 أوسكار يتألق مرة أخرى في إل مولينون مع كأس العالم\n\n📝 لواركين، طبيب المنتخب الإسباني، يخطو على عشب الملعب الذي كان لاعباً مهماً فيه بين عامي 1988 و1994، لتقديم الكأس التي فاز بها في نيويورك.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069569962374981",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوسكار_يتألق_مرة_أخرى_في_إل_مولينون_مع_كأس_العالم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/oscar-vuelve-a-brillar-en-el-molinon-con-la-copa-del-mundo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AT7-2PCp2eHwvJoMpgVCvH4"
+    }
+  },
+  {
     "title": "Una estrella del fútbol desvela el nombre del famoso que abusó sexualmente de él: \"Lo confirmo\"",
     "url": "https://www.marca.com/futbol/2026/10/05/futbolista-andy-carroll-desvela-nombre-famoso-abuso-sexualmente-kevin-adams-confirmarlo.html",
     "summary": "Andy Carroll desveló que el famoso al que denunció por agresión sexual, y que fue condenado a 20 meses de cárcel, fue el coreógrafo Kevin Adams",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AA9haWvtScBD6tVBvE8_7zd"
-    }
-  },
-  {
-    "title": "España va a toda velocidad",
-    "url": "https://www.marca.com/futbol/seleccion/2026/10/02/espana-toda-velocidad.html",
-    "summary": "Nunca arrancó dos partidos seguidos con goles antes de los 105 segundos",
-    "published": "Fri, 02 Oct 2026 06:36:21 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe8242cbd2a.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "اسبانيا تسير بأقصى سرعة",
-    "arabic_summary": "لم يبدأ مباراتين متتاليتين مطلقًا بأهداف قبل 105 ثانية",
-    "translation_status": "translated",
-    "post_title": "اسبانيا تسير بأقصى سرعة",
-    "post_text": "🚨 اسبانيا تسير بأقصى سرعة\n\n📝 لم يبدأ مباراتين متتاليتين مطلقًا بأهداف قبل 105 ثانية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066535916011719",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اسبانيا_تسير_بأقصى_سرعة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/02/espana-toda-velocidad.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AM5EItYwZddAkn8m-jrhj8E"
     }
   }
 ]
