@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Eibar firma el segundo mejor inicio de la historia de Segunda",
+    "url": "https://www.marca.com/futbol/eibar/2026/10/05/eibar-firma-segundo-mejor-inicio-historia-segunda.html",
+    "summary": "En toda la historia de la categoría, sólo el Elche, en la 2012-2013, tenía más puntos que el los armeros a estas alturas del campeonato",
+    "published": "Mon, 05 Oct 2026 09:11:36 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac34c5d00eff.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إيبار يسجل ثاني أفضل بداية في تاريخ دوري الدرجة الثانية",
+    "arabic_summary": "في تاريخ الفئة بأكمله، فقط إلتشي، في 2012-2013، حصل على نقاط أكثر من لوس أرميروس في هذه المرحلة من البطولة",
+    "translation_status": "translated",
+    "post_title": "إيبار يسجل ثاني أفضل بداية في تاريخ دوري الدرجة الثانية",
+    "post_text": "🚨 إيبار يسجل ثاني أفضل بداية في تاريخ دوري الدرجة الثانية\n\n📝 في تاريخ الفئة بأكمله، فقط إلتشي، في 2012-2013، حصل على نقاط أكثر من لوس أرميروس في هذه المرحلة من البطولة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069614815703829",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيبار_يسجل_ثاني_أفضل_بداية_في_تاريخ_دوري_الدرجة_الثانية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/eibar/2026/10/05/eibar-firma-segundo-mejor-inicio-historia-segunda.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0Dj_-nymw3eGLtNU5OaZpz"
+    }
+  },
+  {
     "title": "Manacor y Navalcarnero se llevan el premio copero",
     "url": "https://as.com/futbol/copa_del_rey/manacor-y-navalcarnero-se-llevan-el-premio-copero-f202610-n/",
     "summary": "El equipo madrileño se medirá al Betis y el club balear al Villarreal. Los partidos se disputarán entre el 27 y el 29 de octubre.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfO__CyM0h2hgKkRJYow_t_"
-    }
-  },
-  {
-    "title": "Smith finishes round with Bank of Utah's first ever ALBATROSS!",
-    "url": "https://www.skysports.com/watch/video/13594222/no-way-jordan-smith-makes-first-ever-albatross-at-bank-of-utah-championship",
-    "summary": "Jordan Smith holed out for an albatross on his final hole of the first round at the Bank of Utah Championship.",
-    "published": "Fri, 02 Oct 2026 06:48:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f-s_7366229.jpg?20261002065346",
-    "media_type": "image/jpg",
-    "arabic_title": "أنهى سميث الجولة مع أول طائر الباتروس من بنك يوتا على الإطلاق!",
-    "arabic_summary": "جوردان سميث يبحث عن طائر القطرس في الحفرة الأخيرة له في الجولة الأولى في بطولة بنك يوتا.",
-    "translation_status": "translated",
-    "post_title": "أنهى سميث الجولة مع أول طائر الباتروس من بنك يوتا على الإطلاق!",
-    "post_text": "🚨 أنهى سميث الجولة مع أول طائر الباتروس من بنك يوتا على الإطلاق!\n\n📝 جوردان سميث يبحث عن طائر القطرس في الحفرة الأخيرة له في الجولة الأولى في بطولة بنك يوتا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066602359338408",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنهى_سميث_الجولة_مع_أول_طائر_الباتروس_من_بنك_يوتا_على_الإطلاق!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13594222/no-way-jordan-smith-makes-first-ever-albatross-at-bank-of-utah-championship",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIJibiQJophIn9mGySVGduR"
     }
   }
 ]
