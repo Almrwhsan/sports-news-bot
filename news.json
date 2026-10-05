@@ -1,5 +1,39 @@
 [
   {
+    "title": "Zidane busca a ‘Rodri’",
+    "url": "https://as.com/futbol/internacional/zidane-busca-a-rodri-f202610-n/",
+    "summary": "El marsellés debe encontrar un centrocampista que subsane los problemas de circulación que arrastra la selección francesa en los últimos años.",
+    "published": "Mon, 05 Oct 2026 07:46:44 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XIOZPA7X6BOELPDFG3Y2ZJJNTM.jpg?auth=6e453b5f33318681dfb4f9d91f0d31fffca0cdbcaa6fde85627d2d9602693a0a",
+    "media_type": "image/jpeg",
+    "arabic_title": "زيدان يبحث عن \"رودري\"",
+    "arabic_summary": "ويتعين على مارسيليا العثور على لاعب وسط لمعالجة مشاكل الدورة الدموية التي يعاني منها الفريق الفرنسي في السنوات الأخيرة.",
+    "translation_status": "translated",
+    "post_title": "زيدان يبحث عن \"رودري\"",
+    "post_text": "🚨 زيدان يبحث عن \"رودري\"\n\n📝 ويتعين على مارسيليا العثور على لاعب وسط لمعالجة مشاكل الدورة الدموية التي يعاني منها الفريق الفرنسي في السنوات الأخيرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069429565722354",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زيدان_يبحث_عن_رودري.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/zidane-busca-a-rodri-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAs1N3_DMFDdnsKvNJLP0p3"
+    }
+  },
+  {
     "title": "F1 2026 team-mate head-to-heads after Bahrain GP in Malaysia",
     "url": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
     "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AaKjAGH2-Xsh7GUWme_0mZi"
-    }
-  },
-  {
-    "title": "En el centro del problema",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/01/centro-problema.html",
-    "summary": "A Mou sólo le queda la pieza de Pitarch por probar en un doble pivote que no carbura",
-    "published": "Thu, 01 Oct 2026 12:26:51 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab933e7aec5a.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "في قلب المشكلة",
-    "arabic_summary": "لم يتبق لدى Mou سوى قطعة Pitarch للتجربة على محور مزدوج لا يحتوي على مكربن",
-    "translation_status": "translated",
-    "post_title": "في قلب المشكلة",
-    "post_text": "🚨 في قلب المشكلة\n\n📝 لم يتبق لدى Mou سوى قطعة Pitarch للتجربة على محور مزدوج لا يحتوي على مكربن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066096662722311",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/في_قلب_المشكلة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/01/centro-problema.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuX07u9Ct96JOCM7UPfkWjz"
     }
   }
 ]
