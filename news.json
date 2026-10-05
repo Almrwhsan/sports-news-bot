@@ -1,5 +1,39 @@
 [
   {
+    "title": "Más días para Stassin",
+    "url": "https://as.com/futbol/primera/mas-dias-para-stassin-f202610-n/",
+    "summary": "El Sevilla espera recuperar al delantero belga para su cita del próximo lunes ante el Levante. El equipo vuelve el miércoles a los entrenamientos.",
+    "published": "Mon, 05 Oct 2026 15:07:37 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2HCGIZXOC5L2HNGKT7EQVKAXUE.jpg?auth=d706f1c9dddee9c23f6e118d71b3b705bd3c87b9e9063ae715a374344ae97dc7",
+    "media_type": "image/jpeg",
+    "arabic_title": "المزيد من الأيام لستاسين",
+    "arabic_summary": "ويأمل إشبيلية في استعادة المهاجم البلجيكي لمباراته يوم الاثنين المقبل أمام ليفانتي. ويعود الفريق إلى التدريبات يوم الأربعاء.",
+    "translation_status": "translated",
+    "post_title": "المزيد من الأيام لستاسين",
+    "post_text": "🚨 المزيد من الأيام لستاسين\n\n📝 ويأمل إشبيلية في استعادة المهاجم البلجيكي لمباراته يوم الاثنين المقبل أمام ليفانتي. ويعود الفريق إلى التدريبات يوم الأربعاء.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069872575678053",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المزيد_من_الأيام_لستاسين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/mas-dias-para-stassin-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AaKJ9NSAw4ZUnXnKdUKtoB-"
+    }
+  },
+  {
     "title": "Listen: The Monday Night Club",
     "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
     "summary": "Alistair Bruce-Ball and guests debate the weekend's football.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AuWcpRSKs7MRKjVMPXmCFpa"
-    }
-  },
-  {
-    "title": "El gran traspaso que se cayó por el ultimátum de la esposa: \"Si me llevas a otro país te mato\"",
-    "url": "https://www.marca.com/futbol/2026/10/02/gran-traspaso-cayo-ultimatum-esposa-me-llevas-pais-te-mato.html",
-    "summary": "Olivier Giroud ha desvelado, aprovechando su 40 cumpleaños, los entresijos familiares de su frustrado traspaso desde el Arsenal al Borussia Dortmund",
-    "published": "Fri, 02 Oct 2026 10:25:51 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf6904bbbdb.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "النقلة الكبرى التي وقعت بسبب إنذار الزوجة: \"إذا أخذتني إلى بلد آخر سأقتلك\"",
-    "arabic_summary": "استغل أوليفييه جيرو عيد ميلاده الأربعين، وكشف عن التعقيدات العائلية لانتقاله المحبط من أرسنال إلى بوروسيا دورتموند.",
-    "translation_status": "translated",
-    "post_title": "النقلة الكبرى التي وقعت بسبب إنذار الزوجة: \"إذا أخذتني إلى بلد آخر سأقتلك\"",
-    "post_text": "🚨 النقلة الكبرى التي وقعت بسبب إنذار الزوجة: \"إذا أخذتني إلى بلد آخر سأقتلك\"\n\n📝 استغل أوليفييه جيرو عيد ميلاده الأربعين، وكشف عن التعقيدات العائلية لانتقاله المحبط من أرسنال إلى بوروسيا دورتموند.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066993352632642",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/النقلة_الكبرى_التي_وقعت_بسبب_إنذار_الزوجة_إذا_أخذتني_إلى_بلد_آخر_سأقتلك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/02/gran-traspaso-cayo-ultimatum-esposa-me-llevas-pais-te-mato.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMIXcAhNd5FSmr6xfvaSAzM"
     }
   }
 ]
