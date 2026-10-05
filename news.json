@@ -1,5 +1,39 @@
 [
   {
+    "title": "Alcaraz fights back against Munar to book spot in Japan Open final",
+    "url": "https://www.skysports.com/watch/video/13595305/carlos-alcaraz-vs-jaume-munar-japan-open-highlights",
+    "summary": "Highlights from Carlos Alcaraz's semi-final clash against Juame Munar at the Japan Open.",
+    "published": "Mon, 05 Oct 2026 11:11:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-japan-tennis_7368669.jpg?20261005113056",
+    "media_type": "image/jpg",
+    "arabic_title": "الكاراز يقاتل ضد مونار ليحجز مكانه في نهائي بطولة اليابان المفتوحة",
+    "arabic_summary": "لقطات من مباراة نصف النهائي التي جمعت بين كارلوس الكاراز وخوامي مونار في بطولة اليابان المفتوحة.",
+    "translation_status": "translated",
+    "post_title": "الكاراز يقاتل ضد مونار ليحجز مكانه في نهائي بطولة اليابان المفتوحة",
+    "post_text": "🚨 الكاراز يقاتل ضد مونار ليحجز مكانه في نهائي بطولة اليابان المفتوحة\n\n📝 لقطات من مباراة نصف النهائي التي جمعت بين كارلوس الكاراز وخوامي مونار في بطولة اليابان المفتوحة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1069699385695372",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الكاراز_يقاتل_ضد_مونار_ليحجز_مكانه_في_نهائي_بطولة_اليابان_المفتوحة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13595305/carlos-alcaraz-vs-jaume-munar-japan-open-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVO8wTsKNVvvUamia-QiT9l"
+    }
+  },
+  {
     "title": "La foto de Huijsen y Pitarch que está dando que hablar: una mano en el volante y la otra en el móvil",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/05/foto-huijsen-pitarch-dando-hablar-mano-volante-movil.html",
     "summary": "El centrocampista compartió en sus redes una instantánea que no ha pasado desapercibida",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXn56UvYfPMijKkkD4oTpcT"
-    }
-  },
-  {
-    "title": "Hojlund, a la gresca con Jorge Jesus por Cristiano",
-    "url": "https://as.com/futbol/internacional/hojlund-a-la-gresca-con-jorge-jesus-por-cristiano-f202610-n/",
-    "summary": "El delantero danés celebró su gol ante Portugal con el movimiento del jugador de Al Nassr. Y además dio un ‘empujón’ a Jorge Jesús una vez finalizó el partido.",
-    "published": "Fri, 02 Oct 2026 08:42:25 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IS7BBB2KSJGSPOEDH7O6WNF2MA.png?auth=dbc6711f848cdf57dcee5b9872e3d730506f3e02161e321eb1e034aeefc03893",
-    "media_type": "image/png",
-    "arabic_title": "هوجلوند، في قتال مع خورخي جيسوس من أجل كريستيانو",
-    "arabic_summary": "واحتفل المهاجم الدنماركي بهدفه في مرمى البرتغال بحركة من لاعب النصر. كما أنه أعطى \"دفعة\" لخورخي خيسوس بمجرد انتهاء المباراة.",
-    "translation_status": "translated",
-    "post_title": "هوجلوند، في قتال مع خورخي جيسوس من أجل كريستيانو",
-    "post_text": "🚨 هوجلوند، في قتال مع خورخي جيسوس من أجل كريستيانو\n\n📝 واحتفل المهاجم الدنماركي بهدفه في مرمى البرتغال بحركة من لاعب النصر. كما أنه أعطى \"دفعة\" لخورخي خيسوس بمجرد انتهاء المباراة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1066708819327762",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هوجلوند،_في_قتال_مع_خورخي_جيسوس_من_أجل_كريستيانو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/hojlund-a-la-gresca-con-jorge-jesus-por-cristiano-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AARx1N8Rx1JBvbVgFpAnWw3"
     }
   }
 ]
