@@ -1,5 +1,39 @@
 [
   {
+    "title": "India's World Cup-winning captain Harmanpreet steps down",
+    "url": "https://www.skysports.com/cricket/news/12040/13595632/harmanpreet-kaur-indias-world-cup-winning-captain-steps-down-from-role-across-all-three-formats-of-cricket",
+    "summary": "India's World Cup-winning captain Harmanpreet Kaur has stepped down from the role across all three formats.",
+    "published": "Tue, 06 Oct 2026 08:45:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/25/11/1920x1080/skysports-harmanpreet-kaur_7070452.jpg?20251103095653",
+    "media_type": "image/jpg",
+    "arabic_title": "يتنحى كابتن منتخب الهند الفائز بكأس العالم هارمانبريت عن منصبه",
+    "arabic_summary": "استقال قائد منتخب الهند الفائز بكأس العالم، هارمانبريت كور، من منصبه في جميع الأشكال الثلاثة.",
+    "translation_status": "translated",
+    "post_title": "يتنحى كابتن منتخب الهند الفائز بكأس العالم هارمانبريت عن منصبه",
+    "post_text": "🚨 يتنحى كابتن منتخب الهند الفائز بكأس العالم هارمانبريت عن منصبه\n\n📝 استقال قائد منتخب الهند الفائز بكأس العالم، هارمانبريت كور، من منصبه في جميع الأشكال الثلاثة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070514328947211",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتنحى_كابتن_منتخب_الهند_الفائز_بكأس_العالم_هارمانبريت_عن_منصبه.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/news/12040/13595632/harmanpreet-kaur-indias-world-cup-winning-captain-steps-down-from-role-across-all-three-formats-of-cricket",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArBUoHDfa-7-81GXjPyfxOS"
+    }
+  },
+  {
     "title": "Brais Méndez reivindica a Oyarzabal: “Que no esté entre los 30 mejores del mundo es una aberración”",
     "url": "https://www.marca.com/radio/2026/10/06/brais-mendez-reivindica-oyarzabal-30-mejores-mundo-aberracion.html",
     "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkyYO-8taYmBriZQcEhUFJo"
-    }
-  },
-  {
-    "title": "Eze Ponce se reivindica en la victoria del Elche contra México sub-20",
-    "url": "https://www.marca.com/futbol/elche/2026/10/02/eze-ponce-reivindica-victoria-elche-mexico-sub-20.html",
-    "summary": "El delantero argentino firmó un doblete en el cierre del stage franjiverde en Pinatar Arena",
-    "published": "Fri, 02 Oct 2026 14:13:40 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf9fc70934f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إيزي بونس يدافع عن نفسه في فوز إلتشي على المكسيك تحت 20 عامًا",
-    "arabic_summary": "سجل المهاجم الأرجنتيني هدفين في ختام مرحلة فرانجيفيردي في بيناتار أرينا",
-    "translation_status": "translated",
-    "post_title": "إيزي بونس يدافع عن نفسه في فوز إلتشي على المكسيك تحت 20 عامًا",
-    "post_text": "🚨 إيزي بونس يدافع عن نفسه في فوز إلتشي على المكسيك تحت 20 عامًا\n\n📝 سجل المهاجم الأرجنتيني هدفين في ختام مرحلة فرانجيفيردي في بيناتار أرينا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067241925941118",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيزي_بونس_يدافع_عن_نفسه_في_فوز_إلتشي_على_المكسيك_تحت_20_عامًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/elche/2026/10/02/eze-ponce-reivindica-victoria-elche-mexico-sub-20.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZp6tPv0kbkMGRzSrfofp9y"
     }
   }
 ]
