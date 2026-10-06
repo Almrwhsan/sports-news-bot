@@ -1,5 +1,39 @@
 [
   {
+    "title": "Miguel Sierra se dispara",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/06/miguel-sierra-dispara.html",
+    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
+    "published": "Tue, 06 Oct 2026 10:22:22 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/25/6ab59e2a4eb78.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميغيل سييرا يطلق النار على نفسه",
+    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
+    "translation_status": "translated",
+    "post_title": "ميغيل سييرا يطلق النار على نفسه",
+    "post_text": "🚨 ميغيل سييرا يطلق النار على نفسه\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070667478931896",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميغيل_سييرا_يطلق_النار_على_نفسه.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/06/miguel-sierra-dispara.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeXvkXaXVJcRo7FwxHw3o1i"
+    }
+  },
+  {
     "title": "World No 1 Sinner to miss rest of 2026 season",
     "url": "https://www.skysports.com/tennis/news/12040/13595661/jannik-sinner-world-no-1-to-miss-rest-of-season-due-to-knee-injury-and-has-not-played-since-winning-wimbledon",
     "summary": "World No 1 &#8204;Jannik Sinner will miss the rest of the 2026 season due to the knee injury that has kept him on the sidelines since winning Wimbledon.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AT1s_ZpZzGLj1msrLsSWq_R"
-    }
-  },
-  {
-    "title": "De la Fuente: “Hemos visto más maduro a Lamine”",
-    "url": "https://as.com/futbol/seleccion/de-la-fuente-hemos-visto-mas-maduro-a-lamine-f202610-n/",
-    "summary": "De la Fuente, antes de la previa del España-República Checa: “Santi y yo hemos celebrado que hemos dejado de trabajar juntos porque significa que le va bien y triunfará”.",
-    "published": "Fri, 02 Oct 2026 18:36:24 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261002/1221271_183830_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "دي لا فوينتي: \"لقد رأينا لامين أكثر نضجًا\"",
-    "arabic_summary": "دي لا فوينتي قبل مباراة إسبانيا وجمهورية التشيك: \"لقد احتفلنا أنا وسانتي بأننا توقفنا عن العمل معًا لأن هذا يعني أنه في حالة جيدة وسينجح\".",
-    "translation_status": "translated",
-    "post_title": "دي لا فوينتي: \"لقد رأينا لامين أكثر نضجًا\"",
-    "post_text": "🚨 دي لا فوينتي: \"لقد رأينا لامين أكثر نضجًا\"\n\n📝 دي لا فوينتي قبل مباراة إسبانيا وجمهورية التشيك: \"لقد احتفلنا أنا وسانتي بأننا توقفنا عن العمل معًا لأن هذا يعني أنه في حالة جيدة وسينجح\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067305409268103",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دي_لا_فوينتي_لقد_رأينا_لامين_أكثر_نضجًا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AaQ-WP5XmyTxbYeVt5cwUqx"
     }
   }
 ]
