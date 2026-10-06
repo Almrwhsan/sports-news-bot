@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hoy es el día: Argentina despide a su ídolo eterno, Lionel Messi",
+    "url": "https://www.marca.com/futbol/2026/10/06/hoy-dia-argentina-despide-idolo-eterno-lionel-messi.html",
+    "summary": "El astro rosarino juega esta próxima madrugada (01.00 en España) su último partido con la Albiceleste",
+    "published": "Tue, 06 Oct 2026 10:02:03 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/fYF3U1gnAZQnLW4Q3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "اليوم هو اليوم: الأرجنتين تودع معبودها الأبدي، ليونيل ميسي",
+    "arabic_summary": "نجم روزاريو يلعب مباراته الأخيرة مع الألبيسيليستي هذا الصباح (01:00 بتوقيت إسبانيا)",
+    "translation_status": "translated",
+    "post_title": "اليوم هو اليوم: الأرجنتين تودع معبودها الأبدي، ليونيل ميسي",
+    "post_text": "🚨 اليوم هو اليوم: الأرجنتين تودع معبودها الأبدي، ليونيل ميسي\n\n📝 نجم روزاريو يلعب مباراته الأخيرة مع الألبيسيليستي هذا الصباح (01:00 بتوقيت إسبانيا)\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070565762275401",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليوم_هو_اليوم_الأرجنتين_تودع_معبودها_الأبدي،_ليونيل_ميسي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/06/hoy-dia-argentina-despide-idolo-eterno-lionel-messi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvRomy9NWFik_l300dgWh7E"
+    }
+  },
+  {
     "title": "Zanetti se rinde a Messi: \"Después de Maradona nació otro genio que logró unir a toda una nación\"",
     "url": "https://www.marca.com/futbol/2026/10/06/zanetti-rinde-messi-maradona-nacio-genio-logro-unir-toda-nacion.html",
     "summary": "El argentino, actual vicepresidente del Inter de Milán, agradece su legado antes de su último partido con Argentina: \"Simplemente le daría las gracias por todas las emociones que nos hizo vivir\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Arf79zPMivc_WgATlp4vBjQ"
-    }
-  },
-  {
-    "title": "Costa: \"El perfeccionismo es una mierda, pero el inconformismo es muy importante\"",
-    "url": "https://www.marca.com/futbol/sabadell/2026/10/02/costa-perfeccionismo-mierda-inconformismo-importante.html",
-    "summary": "El técnico ha recalcado que todo lo que ha hecho el Sabadell hasta ahora no sirve de nada",
-    "published": "Fri, 02 Oct 2026 14:22:58 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf9fa917275.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كوستا: \"الكمال أمر سيء، لكن عدم المطابقة مهم للغاية\"",
-    "arabic_summary": "وشدد المدرب على أن كل ما فعله ساباديل حتى الآن لا فائدة منه",
-    "translation_status": "translated",
-    "post_title": "كوستا: \"الكمال أمر سيء، لكن عدم المطابقة مهم للغاية\"",
-    "post_text": "🚨 كوستا: \"الكمال أمر سيء، لكن عدم المطابقة مهم للغاية\"\n\n📝 وشدد المدرب على أن كل ما فعله ساباديل حتى الآن لا فائدة منه\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067274762604501",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوستا_الكمال_أمر_سيء،_لكن_عدم_المطابقة_مهم_للغاية.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sabadell/2026/10/02/costa-perfeccionismo-mierda-inconformismo-importante.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Al4JGT2Azw1RZk0lmTK0cgq"
     }
   }
 ]
