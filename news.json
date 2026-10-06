@@ -1,5 +1,39 @@
 [
   {
+    "title": "Brais Méndez reivindica a Oyarzabal: “Que no esté entre los 30 mejores del mundo es una aberración”",
+    "url": "https://www.marca.com/radio/2026/10/06/brais-mendez-reivindica-oyarzabal-30-mejores-mundo-aberracion.html",
+    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
+    "published": "Tue, 06 Oct 2026 08:22:39 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d43DM1gRnPs7qzaeG.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "برايس مينديز يبرئ أويارزابال: \"عدم وجوده ضمن أفضل 30 لاعبًا في العالم هو انحراف\"",
+    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
+    "translation_status": "translated",
+    "post_title": "برايس مينديز يبرئ أويارزابال: \"عدم وجوده ضمن أفضل 30 لاعبًا في العالم هو انحراف\"",
+    "post_text": "🚨 برايس مينديز يبرئ أويارزابال: \"عدم وجوده ضمن أفضل 30 لاعبًا في العالم هو انحراف\"\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070469442285033",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برايس_مينديز_يبرئ_أويارزابال_عدم_وجوده_ضمن_أفضل_30_لاعبًا_في_العالم_هو_انحراف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/radio/2026/10/06/brais-mendez-reivindica-oyarzabal-30-mejores-mundo-aberracion.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "APdDnK0RDSrh9r40e9kxIVA"
+    }
+  },
+  {
     "title": "Apuestas y pronósticos Croacia vs España",
     "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/05/apuestas-pronosticos-croacia-vs-espana.html",
     "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZp6tPv0kbkMGRzSrfofp9y"
-    }
-  },
-  {
-    "title": "Marcelo sale en apoyo de Cristiano tras la polémica con Portugal",
-    "url": "https://www.marca.com/futbol/nations-league/2026/10/02/marcelo-sale-apoyo-cristiano-polemica-portugal-video.html",
-    "summary": "",
-    "published": "Fri, 02 Oct 2026 14:18:44 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/fJfMY1glwJyiqbPTk.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "مارسيلو يخرج لدعم كريستيانو بعد الجدل مع البرتغال",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "مارسيلو يخرج لدعم كريستيانو بعد الجدل مع البرتغال",
-    "post_text": "🚨 مارسيلو يخرج لدعم كريستيانو بعد الجدل مع البرتغال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067241985941112",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مارسيلو_يخرج_لدعم_كريستيانو_بعد_الجدل_مع_البرتغال.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/10/02/marcelo-sale-apoyo-cristiano-polemica-portugal-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApcSK288WZhpbKlRDkrS1rN"
     }
   }
 ]
