@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mendoza y Vargas, refuerzo internacional",
+    "url": "https://as.com/futbol/primera/mendoza-y-vargas-refuerzo-internacional-f202610-n/",
+    "summary": "El murciano consiguió su primer gol con la Sub-21 y el mexicano disputó todo el partido contra Perú. Tienen difícil sumar minutos en el Atlético.",
+    "published": "Fri, 02 Oct 2026 17:38:31 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JPTPOEVNVRCCRK5LVSEJ72HMD4.jpg?auth=ec630837cdadd352b24b8dd97f1d0882c67d67cbb2ca9d2e42b064b207161e9f",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميندوزا وفارجاس، تعزيزات دولية",
+    "arabic_summary": "سجل المورسيان هدفه الأول مع منتخب تحت 21 سنة ولعب المكسيكي المباراة بأكملها ضد بيرو. لديهم صعوبة في إضافة دقائق في أتلتيكو.",
+    "translation_status": "translated",
+    "post_title": "ميندوزا وفارجاس، تعزيزات دولية",
+    "post_text": "🚨 ميندوزا وفارجاس، تعزيزات دولية\n\n📝 سجل المورسيان هدفه الأول مع منتخب تحت 21 سنة ولعب المكسيكي المباراة بأكملها ضد بيرو. لديهم صعوبة في إضافة دقائق في أتلتيكو.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070289615636349",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميندوزا_وفارجاس،_تعزيزات_دولية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/mendoza-y-vargas-refuerzo-internacional-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXv0mGJYnMS11ptSGQCvPX_"
+    }
+  },
+  {
     "title": "Gauff receives racist abuse online after China Open incident",
     "url": "https://www.skysports.com/tennis/news/12040/13595569/coco-gauff-reports-online-racial-abuse-after-incident-during-her-victory-over-sun-xinran-at-china-open",
     "summary": "Coco Gauff has said she has been racially abused on social media following an incident in her win over Sun Xinran at the China Open.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUP5pWn5PKH-C_6T9FqfXQ6"
-    }
-  },
-  {
-    "title": "El Barça respira un poco más tranquilo con Raphinha",
-    "url": "https://www.marca.com/futbol/barcelona/2026/10/02/barca-respira-poco-tranquilo-raphinha.html",
-    "summary": "Las pruebas de este viernes ratifican el edema y no muestran una dolencia mayor",
-    "published": "Fri, 02 Oct 2026 12:56:00 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/01/6abe4f03a5677.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "برشلونة يتنفس بشكل أسهل مع رافينيا",
-    "arabic_summary": "تؤكد اختبارات يوم الجمعة الوذمة ولا تظهر مرضًا كبيرًا",
-    "translation_status": "translated",
-    "post_title": "برشلونة يتنفس بشكل أسهل مع رافينيا",
-    "post_text": "🚨 برشلونة يتنفس بشكل أسهل مع رافينيا\n\n📝 تؤكد اختبارات يوم الجمعة الوذمة ولا تظهر مرضًا كبيرًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067140552617922",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_يتنفس_بشكل_أسهل_مع_رافينيا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/02/barca-respira-poco-tranquilo-raphinha.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6aQ01CioAA5QpK83H6QQC7"
     }
   }
 ]
