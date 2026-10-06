@@ -1,5 +1,39 @@
 [
   {
+    "title": "A qué hora es el Argentina - Benín: horario y dónde ver hoy en TV el partido despedida de Messi",
+    "url": "https://www.marca.com/futbol/2026/10/06/argentina-benin-horario-ver-hoy-tv-partido-despedida-messi.html",
+    "summary": "Los detalles de la despedida del astro",
+    "published": "Tue, 06 Oct 2026 09:34:49 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac3fdfc801c2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ما هو توقيت الأرجنتين - بنين: الجدول الزمني ومكان مشاهدة مباراة وداع ميسي على شاشة التلفزيون اليوم",
+    "arabic_summary": "تفاصيل وداع النجم",
+    "translation_status": "translated",
+    "post_title": "ما هو توقيت الأرجنتين - بنين: الجدول الزمني ومكان مشاهدة مباراة وداع ميسي على شاشة التلفزيون اليوم",
+    "post_text": "🚨 ما هو توقيت الأرجنتين - بنين: الجدول الزمني ومكان مشاهدة مباراة وداع ميسي على شاشة التلفزيون اليوم\n\n📝 تفاصيل وداع النجم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070755278923116",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هو_توقيت_الأرجنتين_-_بنين_الجدول_الزمني_ومكان_مشاهدة_مباراة_وداع_ميسي_على_شاش.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/06/argentina-benin-horario-ver-hoy-tv-partido-despedida-messi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4pe_qgUzf7LrDSeGw3wKsU"
+    }
+  },
+  {
     "title": "El Eibar mira alto",
     "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/05/eibar-mira-alto.html",
     "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3zgGCEzoy_3pdJv2ojh6FM"
-    }
-  },
-  {
-    "title": "Así es el tráiler de los Muchachos de Bilardo",
-    "url": "https://www.marca.com/futbol/argentina/2026/10/02/asi-trailer-muchachos-bilar-video.html",
-    "summary": "",
-    "published": "Fri, 02 Oct 2026 15:11:34 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/1glwgnaWEzs6.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "هذا هو المقطع الدعائي لفيلم Bilardo Boys",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "هذا هو المقطع الدعائي لفيلم Bilardo Boys",
-    "post_text": "🚨 هذا هو المقطع الدعائي لفيلم Bilardo Boys\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067320929266551",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذا_هو_المقطع_الدعائي_لفيلم_Bilardo_Boys.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/argentina/2026/10/02/asi-trailer-muchachos-bilar-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhJtnkyHqHgMQIqWQSexmcp"
     }
   }
 ]
