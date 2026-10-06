@@ -1,5 +1,39 @@
 [
   {
+    "title": "Gerard Moreno: “Iñigo es un superdotado a la hora de visualizar el juego”",
+    "url": "https://www.marca.com/futbol/villarreal/2026/10/06/gerard-moreno-inigo-superdotado-hora-visualizar-juego.html",
+    "summary": "El delantero, referente histórico del Villarreal, está convencido de que acabarán triunfado con la propuesta del nuevo técnico",
+    "published": "Tue, 06 Oct 2026 07:08:43 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/Lzq9VV1_.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "جيرارد مورينو: \"إنييجو موهوب عندما يتعلق الأمر بتصور اللعبة\"",
+    "arabic_summary": "المهاجم، وهو مرجع تاريخي لفياريال، مقتنع بأنهم سينتهي بهم الأمر بالانتصار مع اقتراح المدرب الجديد",
+    "translation_status": "translated",
+    "post_title": "جيرارد مورينو: \"إنييجو موهوب عندما يتعلق الأمر بتصور اللعبة\"",
+    "post_text": "🚨 جيرارد مورينو: \"إنييجو موهوب عندما يتعلق الأمر بتصور اللعبة\"\n\n📝 المهاجم، وهو مرجع تاريخي لفياريال، مقتنع بأنهم سينتهي بهم الأمر بالانتصار مع اقتراح المدرب الجديد\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070721585593152",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيرارد_مورينو_إنييجو_موهوب_عندما_يتعلق_الأمر_بتصور_اللعبة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/villarreal/2026/10/06/gerard-moreno-inigo-superdotado-hora-visualizar-juego.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AenSZ7PrSvJMSySlwwkAaCv"
+    }
+  },
+  {
     "title": "Clases particulares con el ‘profe’ Gabi",
     "url": "https://as.com/futbol/primera/clases-particulares-con-el-profe-gabi-f202610-n/",
     "summary": "El nuevo asistente de Simeone ya se hace notar en la caseta. Una de sus tareas está enfocada a las mejoras individualizadas. Cercano con los jugadores y con carácter, ejerce de maestro sobre todo con los centrocampistas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2En7jtJZ1F7kWezR6t0VUT"
-    }
-  },
-  {
-    "title": "Primer pinchazo de Zidane",
-    "url": "https://as.com/futbol/internacional/primer-pinchazo-de-zidane-f202610-n/",
-    "summary": "Francia empata a uno contra Italia en el primer partido del marsellés como seleccionador en Francia. Olise volvió a marcar un golazo.",
-    "published": "Fri, 02 Oct 2026 20:45:50 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7I5HWTOL7RKIBIRVA6VJ6BBDAE.jpg?auth=dfd66d7d17e07a1bd0fb95310a96d310276fef9618e0d2fb2ba3566c8a4c65f5",
-    "media_type": "image/jpeg",
-    "arabic_title": "أول ثقب لزيدان",
-    "arabic_summary": "وتعادلت فرنسا مع إيطاليا 1-1 في المباراة الأولى لمواطن مرسيليا كمدرب في فرنسا. وسجل أوليس هدفا رائعا مرة أخرى.",
-    "translation_status": "translated",
-    "post_title": "أول ثقب لزيدان",
-    "post_text": "🚨 أول ثقب لزيدان\n\n📝 وتعادلت فرنسا مع إيطاليا 1-1 في المباراة الأولى لمواطن مرسيليا كمدرب في فرنسا. وسجل أوليس هدفا رائعا مرة أخرى.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067316465933664",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أول_ثقب_لزيدان.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/primer-pinchazo-de-zidane-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYT1b2WIoZl5Sojla69ie8P"
     }
   }
 ]
