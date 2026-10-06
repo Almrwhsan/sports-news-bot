@@ -1,5 +1,39 @@
 [
   {
+    "title": "Uruguay informa de que Martín Satriano regresa por \"un proceso inflamatorio\" en su rodilla",
+    "url": "https://www.marca.com/futbol/getafe/2026/10/05/uruguay-informa-martin-satriano-regresa-espana-proceso-inflamatorio-rodilla.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Mon, 05 Oct 2026 12:22:18 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/07/6a9f13de27091.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ذكرت أوروغواي أن مارتين ساتريانو يعود بسبب \"عملية التهابية\" في ركبته",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "ذكرت أوروغواي أن مارتين ساتريانو يعود بسبب \"عملية التهابية\" في ركبته",
+    "post_text": "🚨 ذكرت أوروغواي أن مارتين ساتريانو يعود بسبب \"عملية التهابية\" في ركبته\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070309672301010",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ذكرت_أوروغواي_أن_مارتين_ساتريانو_يعود_بسبب_عملية_التهابية_في_ركبته.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/getafe/2026/10/05/uruguay-informa-martin-satriano-regresa-espana-proceso-inflamatorio-rodilla.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkHmN5fqEwMKcWRAZv_wjuq"
+    }
+  },
+  {
     "title": "Mendoza y Vargas, refuerzo internacional",
     "url": "https://as.com/futbol/primera/mendoza-y-vargas-refuerzo-internacional-f202610-n/",
     "summary": "El murciano consiguió su primer gol con la Sub-21 y el mexicano disputó todo el partido contra Perú. Tienen difícil sumar minutos en el Atlético.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArIk74PuPJJcwUa7O-s2GkB"
-    }
-  },
-  {
-    "title": "LaLiga FCFutures de Orlando en directo: derrota del Barça, huracán Orlando City y victoria del Madrid",
-    "url": "https://www.marca.com/futbol/2026/10/02/laliga-fcfutures-orlando-directo-fase-grupos-marcha.html",
-    "summary": "Los mejores equipos sub 13 del mundo se enfrentan en la X edición internacional del torneo en Estados Unidos",
-    "published": "Fri, 02 Oct 2026 12:49:32 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abef7b81d1fe.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "LaLiga FCمستقبل أورلاندو مباشر: هزيمة برشلونة وإعصار أورلاندو سيتي وانتصار مدريد",
-    "arabic_summary": "أفضل منتخبات العالم تحت 13 عامًا تواجه بعضها البعض في النسخة الدولية العاشرة للبطولة بالولايات المتحدة",
-    "translation_status": "translated",
-    "post_title": "LaLiga FCمستقبل أورلاندو مباشر: هزيمة برشلونة وإعصار أورلاندو سيتي وانتصار مدريد",
-    "post_text": "🚨 LaLiga FCمستقبل أورلاندو مباشر: هزيمة برشلونة وإعصار أورلاندو سيتي وانتصار مدريد\n\n📝 أفضل منتخبات العالم تحت 13 عامًا تواجه بعضها البعض في النسخة الدولية العاشرة للبطولة بالولايات المتحدة\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067140452617932",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/LaLiga_FCمستقبل_أورلاندو_مباشر_هزيمة_برشلونة_وإعصار_أورلاندو_سيتي_وانتصار_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/02/laliga-fcfutures-orlando-directo-fase-grupos-marcha.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUP5pWn5PKH-C_6T9FqfXQ6"
     }
   }
 ]
