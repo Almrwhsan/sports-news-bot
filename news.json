@@ -1,5 +1,39 @@
 [
   {
+    "title": "White's Dorking have new co-owners - and ambitions to become 'the world's local club'",
+    "url": "https://www.skysports.com/football/news/12040/13582842/marc-white-exclusive-dorking-wanderers-chief-on-new-co-owners-efl-dreams-and-ambitions-of-becoming-the-worlds-local-club",
+    "summary": "Football needs charismatic characters - and Marc White is certainly one of those.",
+    "published": "Tue, 06 Oct 2026 10:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-marc-white-dorking_7369087.jpg?20261005175328",
+    "media_type": "image/jpg",
+    "arabic_title": "لدى White's Dorking ملاك مشاركين جدد - ويطمح إلى أن يصبح \"النادي المحلي العالمي\"",
+    "arabic_summary": "تحتاج كرة القدم إلى شخصيات جذابة، ومن المؤكد أن مارك وايت هو واحد من هؤلاء.",
+    "translation_status": "translated",
+    "post_title": "لدى White's Dorking ملاك مشاركين جدد - ويطمح إلى أن يصبح \"النادي المحلي العالمي\"",
+    "post_text": "🚨 لدى White's Dorking ملاك مشاركين جدد - ويطمح إلى أن يصبح \"النادي المحلي العالمي\"\n\n📝 تحتاج كرة القدم إلى شخصيات جذابة، ومن المؤكد أن مارك وايت هو واحد من هؤلاء.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070680755597235",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لدى_White's_Dorking_ملاك_مشاركين_جدد_-_ويطمح_إلى_أن_يصبح_النادي_المحلي_العالمي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13582842/marc-white-exclusive-dorking-wanderers-chief-on-new-co-owners-efl-dreams-and-ambitions-of-becoming-the-worlds-local-club",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASCZZMXG17UqYknN4qR43Mb"
+    }
+  },
+  {
     "title": "Miguel Sierra se dispara",
     "url": "https://www.marca.com/futbol/sevilla/2026/10/06/miguel-sierra-dispara.html",
     "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aj9i0EuwqeLUl7zIc4IjM0X"
-    }
-  },
-  {
-    "title": "Nervión se rinde a Unai Emery",
-    "url": "https://as.com/futbol/nervion-se-rinde-a-unai-emery-f202610-n/",
-    "summary": "El técnico de Hondarribia fue homenajeado en la previa del Trofeo Antonio Puerta en la que fue su casa en tres temporadas y media en las que ganó 3 Europa Leagues",
-    "published": "Fri, 02 Oct 2026 18:32:35 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JNUQH3WB6VF4XK3LFLCXHRMLVY.jpeg?auth=abecf3d6262e2fd70107a1839525837fb6757b0f5cbf24f73fdb0c113e8d944b",
-    "media_type": "image/jpeg",
-    "arabic_title": "نيرفيون يستسلم لأوناي إيمري",
-    "arabic_summary": "تم تكريم مدرب هونداريبيا مقدمًا بكأس أنطونيو بويرتا في ما كان منزله خلال ثلاثة مواسم ونصف فاز فيها بثلاثة ألقاب في الدوري الأوروبي.",
-    "translation_status": "translated",
-    "post_title": "نيرفيون يستسلم لأوناي إيمري",
-    "post_text": "🚨 نيرفيون يستسلم لأوناي إيمري\n\n📝 تم تكريم مدرب هونداريبيا مقدمًا بكأس أنطونيو بويرتا في ما كان منزله خلال ثلاثة مواسم ونصف فاز فيها بثلاثة ألقاب في الدوري الأوروبي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067305355934775",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيرفيون_يستسلم_لأوناي_إيمري.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/nervion-se-rinde-a-unai-emery-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AT1s_ZpZzGLj1msrLsSWq_R"
     }
   }
 ]
