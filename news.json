@@ -1,5 +1,39 @@
 [
   {
+    "title": "Larrubia: \"Somos los mismos que subimos y lo vamos a conseguir\"",
+    "url": "https://www.marca.com/futbol/malaga/2026/10/06/larrubia-subimos-conseguir.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Tue, 06 Oct 2026 10:09:13 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/1gn3JGyxrUgd.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لاروبيا: \"نحن نفس الأشخاص الذين صعدنا وسنحقق ذلك\"",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "لاروبيا: \"نحن نفس الأشخاص الذين صعدنا وسنحقق ذلك\"",
+    "post_text": "🚨 لاروبيا: \"نحن نفس الأشخاص الذين صعدنا وسنحقق ذلك\"\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070605535604757",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لاروبيا_نحن_نفس_الأشخاص_الذين_صعدنا_وسنحقق_ذلك.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/10/06/larrubia-subimos-conseguir.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6OLbaMemS1_zQLQSiyUpnQ"
+    }
+  },
+  {
     "title": "“Hubo interés de otros equipos, pero estoy donde quiero estar”",
     "url": "https://as.com/futbol/primera/hubo-interes-de-otros-equipos-pero-estoy-donde-quiero-estar-f202610-n/",
     "summary": "El entrenador celeste atiende a AS para analizar este inicio de Liga y hablar de todo lo referente a su figura. Si siente realizado en Vigo, donde se ve a largo plazo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkLvO-ksrTrnl7WcjLeyOR0"
-    }
-  },
-  {
-    "title": "Burkina Faso llegará a Buenos Aires al mediodía y jugará el partido",
-    "url": "https://as.com/futbol/internacional/peligra-el-argentina-burkina-faso-problemas-con-el-vuelo-f202610-n/",
-    "summary": "La Federación Burkinesa informó“una cancelación del vuelo sin previo aviso”. Se transmite tranquilidad y se espera que el partido pueda disputarse.",
-    "published": "Fri, 02 Oct 2026 18:02:11 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LLTCD25XQNDIZADJ3R7KY76AKQ.jpg?auth=226969277dcd309379ca0c374411554b8d8af4dd372497e553bbca539865662c",
-    "media_type": "image/jpeg",
-    "arabic_title": "وستصل بوركينا فاسو إلى بوينس آيرس عند الظهر وستلعب المباراة",
-    "arabic_summary": "وأبلغ الاتحاد البوركينابي عن “إلغاء الرحلة دون إشعار مسبق”. ويسود الهدوء ونأمل أن تلعب المباراة.",
-    "translation_status": "translated",
-    "post_title": "وستصل بوركينا فاسو إلى بوينس آيرس عند الظهر وستلعب المباراة",
-    "post_text": "🚨 وستصل بوركينا فاسو إلى بوينس آيرس عند الظهر وستلعب المباراة\n\n📝 وأبلغ الاتحاد البوركينابي عن “إلغاء الرحلة دون إشعار مسبق”. ويسود الهدوء ونأمل أن تلعب المباراة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067302619268382",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وستصل_بوركينا_فاسو_إلى_بوينس_آيرس_عند_الظهر_وستلعب_المباراة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/peligra-el-argentina-burkina-faso-problemas-con-el-vuelo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARuDzMKHFVP2NmnjGjbwZrN"
     }
   }
 ]
