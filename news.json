@@ -1,5 +1,39 @@
 [
   {
+    "title": "Dubois expects blockbuster Fury fight after Wardley rematch",
+    "url": "https://www.skysports.com/boxing/news/12040/13595561/daniel-dubois-expects-to-set-up-blockbuster-fight-tyson-fury-after-fabio-wardley-rematch-thats-what-boxings-about",
+    "summary": "Daniel Dubois believes he can set himself on a collision course with Tyson Fury.",
+    "published": "Tue, 06 Oct 2026 06:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-daniel-dubois-boxing_7244186.jpg?20260510081106",
+    "media_type": "image/jpg",
+    "arabic_title": "يتوقع دوبوا معركة فيوري الرائجة بعد مباراة واردلي",
+    "arabic_summary": "يعتقد دانييل دوبوا أنه يستطيع أن يضع نفسه في مسار تصادمي مع تايسون فيوري.",
+    "translation_status": "translated",
+    "post_title": "يتوقع دوبوا معركة فيوري الرائجة بعد مباراة واردلي",
+    "post_text": "🚨 يتوقع دوبوا معركة فيوري الرائجة بعد مباراة واردلي\n\n📝 يعتقد دانييل دوبوا أنه يستطيع أن يضع نفسه في مسار تصادمي مع تايسون فيوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070356265629684",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتوقع_دوبوا_معركة_فيوري_الرائجة_بعد_مباراة_واردلي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13595561/daniel-dubois-expects-to-set-up-blockbuster-fight-tyson-fury-after-fabio-wardley-rematch-thats-what-boxings-about",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aph3pr6DOU9u75LX44YZNrM"
+    }
+  },
+  {
     "title": "Robinson and Falcons blow away Saints for second NFL win",
     "url": "https://www.skysports.com/nfl/news/12040/13595601/nfl-2026-results-and-highlights-bijan-robinson-stars-as-atlanta-falcons-blow-away-new-orleans-saints-45-24-in-second-win-of-nfl-season",
     "summary": "Bijan Robinson rushed for 145 yards and two touchdowns as the Atlanta Falcons posted a dominant 45-24 victory over the New Orleans Saints on Monday night.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6Bj6tLjHJCRnpThX_xU0eP"
-    }
-  },
-  {
-    "title": "La jueza mantiene a José María Muñoz en la investigación del caso Vera",
-    "url": "https://as.com/futbol/primera/la-jueza-mantiene-a-jose-maria-munoz-en-la-investigacion-del-caso-vera-f202610-n/",
-    "summary": "Rechaza la petición de sobreseimiento del administrador judicial del Málaga, investigado por su etapa como auxiliar delegado concursal de Draba S.L.",
-    "published": "Fri, 02 Oct 2026 15:31:26 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PXID5NSXENNI3LLS63EVM6YFEQ.jpg?auth=6fe807a65b02e9798c462378360091ef48b0659922447ebb04835c99f5fc5cef",
-    "media_type": "image/jpeg",
-    "arabic_title": "يؤيد القاضي خوسيه ماريا مونيوز في التحقيق في قضية فيرا",
-    "arabic_summary": "يرفض طلب إقالة المدير القضائي لمالقة، الذي تم التحقيق معه أثناء عمله كمساعد مندوب الإفلاس لشركة Draba S.L.",
-    "translation_status": "translated",
-    "post_title": "يؤيد القاضي خوسيه ماريا مونيوز في التحقيق في قضية فيرا",
-    "post_text": "🚨 يؤيد القاضي خوسيه ماريا مونيوز في التحقيق في قضية فيرا\n\n📝 يرفض طلب إقالة المدير القضائي لمالقة، الذي تم التحقيق معه أثناء عمله كمساعد مندوب الإفلاس لشركة Draba S.L.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067148032617174",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يؤيد_القاضي_خوسيه_ماريا_مونيوز_في_التحقيق_في_قضية_فيرا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/la-jueza-mantiene-a-jose-maria-munoz-en-la-investigacion-del-caso-vera-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APlfAPzmUjidxLqtCcQWngT"
     }
   }
 ]
