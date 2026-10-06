@@ -1,5 +1,39 @@
 [
   {
+    "title": "All the goals from the Women's Super League - matchweek five",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
+    "summary": "Watch every goal from matchweek five of the Women's Super League 2026-27 season.",
+    "published": "Mon, 05 Oct 2026 08:55:39 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2517/live/470ea640-c038-11f1-a64c-550be9e3c66b.jpg",
+    "media_type": null,
+    "arabic_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة الخامسة",
+    "arabic_summary": "شاهد كل هدف من الجولة الخامسة من دوري السوبر للسيدات لموسم 2026-27.",
+    "translation_status": "translated",
+    "post_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة الخامسة",
+    "post_text": "🚨 جميع أهداف الدوري الممتاز للسيدات - الجولة الخامسة\n\n📝 شاهد كل هدف من الجولة الخامسة من دوري السوبر للسيدات لموسم 2026-27.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070551668943477",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جميع_أهداف_الدوري_الممتاز_للسيدات_-_الجولة_الخامسة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-pD79wr-jCtzdaGMAEDn5j"
+    }
+  },
+  {
     "title": "How perfect storm has rained on Derby's parade",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmq5x58jgzq4o?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County has contributed to a poor start to their Championship season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_nfP24eVFZDSdHOaf9DOht"
-    }
-  },
-  {
-    "title": "El proyecto del Rayo sitúa el nuevo estadio en el Abroñigal",
-    "url": "https://as.com/futbol/primera/el-proyecto-del-rayo-situa-el-nuevo-estadio-en-el-abronigal-f202610-n/",
-    "summary": "Ahí están ubicados los terrenos de ADIF que, según el consejero, el Gobierno ha ofrecido a Presa. Tienen 300.000m² y están a unos 2,5km del campo actual.",
-    "published": "Fri, 02 Oct 2026 16:51:45 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/HTDTGXB4QFFQVM3ZEQ5TG2UUIQ.jpg?auth=dbba3e4418678875124b448dafd38669287ec543a2fa841780680eb4644da6a5",
-    "media_type": "image/jpeg",
-    "arabic_title": "يضع مشروع رايو الملعب الجديد في ابرونيجال",
-    "arabic_summary": "توجد أراضي ADIF التي عرضتها الحكومة على بريسا، وفقًا للمستشار. تبلغ مساحتها 300000 متر مربع وتبعد حوالي 2.5 كيلومتر عن الحقل الحالي.",
-    "translation_status": "translated",
-    "post_title": "يضع مشروع رايو الملعب الجديد في ابرونيجال",
-    "post_text": "🚨 يضع مشروع رايو الملعب الجديد في ابرونيجال\n\n📝 توجد أراضي ADIF التي عرضتها الحكومة على بريسا، وفقًا للمستشار. تبلغ مساحتها 300000 متر مربع وتبعد حوالي 2.5 كيلومتر عن الحقل الحالي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067271809271463",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يضع_مشروع_رايو_الملعب_الجديد_في_ابرونيجال.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-proyecto-del-rayo-situa-el-nuevo-estadio-en-el-abronigal-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASmj4k3_QmT2Q8_ZAQftrYr"
     }
   }
 ]
