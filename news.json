@@ -1,5 +1,39 @@
 [
   {
+    "title": "How perfect storm has rained on Derby's parade",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmq5x58jgzq4o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County has contributed to a poor start to their Championship season.",
+    "published": "Mon, 05 Oct 2026 08:15:09 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a816/live/f64f9db0-be50-11f1-9ed2-eb192c505953.jpg",
+    "media_type": null,
+    "arabic_title": "كيف هطلت عاصفة مثالية على عرض ديربي",
+    "arabic_summary": "تبحث بي بي سي سبورت كيف ساهمت عملية استحواذ تركي آل الشيخ على ديربي كاونتي في بداية سيئة لموسم البطولة.",
+    "translation_status": "translated",
+    "post_title": "كيف هطلت عاصفة مثالية على عرض ديربي",
+    "post_text": "🚨 كيف هطلت عاصفة مثالية على عرض ديربي\n\n📝 تبحث بي بي سي سبورت كيف ساهمت عملية استحواذ تركي آل الشيخ على ديربي كاونتي في بداية سيئة لموسم البطولة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070540765611234",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_هطلت_عاصفة_مثالية_على_عرض_ديربي.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmq5x58jgzq4o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVePLgKcm5nKe1_YWqHnmVM"
+    }
+  },
+  {
     "title": "India's World Cup-winning captain Harmanpreet steps down",
     "url": "https://www.skysports.com/cricket/news/12040/13595632/harmanpreet-kaur-indias-world-cup-winning-captain-steps-down-from-role-across-all-three-formats-of-cricket",
     "summary": "India's World Cup-winning captain Harmanpreet Kaur has stepped down from the role across all three formats.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASmj4k3_QmT2Q8_ZAQftrYr"
-    }
-  },
-  {
-    "title": "Mariota to start for Commanders in London as Daniels ruled out",
-    "url": "https://www.skysports.com/nfl/news/12040/13594429/nfl-london-games-2026-marcus-mariota-to-start-for-washington-commanders-vs-indianapolis-colts-as-jayden-daniels-ruled-out",
-    "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis Colts at Tottenham Hotspur Stadium - live on Sky Sports.",
-    "published": "Fri, 02 Oct 2026 17:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-marcus-mariota_7366704.jpg?20261002155926",
-    "media_type": "image/jpg",
-    "arabic_title": "ماريوتا ستبدأ مع القادة في لندن كما استبعد دانيلز",
-    "arabic_summary": "سيبدأ لاعب وسط فريق واشنطن كوماندرز ماركوس ماريوتا مباراته الثانية بدلاً من المصاب جايدن دانيلز يوم الأحد عندما يواجه فريقه إنديانابوليس كولتس في ملعب توتنهام هوتسبر - مباشرة على سكاي سبورتس.",
-    "translation_status": "translated",
-    "post_title": "ماريوتا ستبدأ مع القادة في لندن كما استبعد دانيلز",
-    "post_text": "🚨 ماريوتا ستبدأ مع القادة في لندن كما استبعد دانيلز\n\n📝 سيبدأ لاعب وسط فريق واشنطن كوماندرز ماركوس ماريوتا مباراته الثانية بدلاً من المصاب جايدن دانيلز يوم الأحد عندما يواجه فريقه إنديانابوليس كولتس في ملعب توتنهام هوتسبر - مباشرة على سكاي سبورتس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067263265938984",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماريوتا_ستبدأ_مع_القادة_في_لندن_كما_استبعد_دانيلز.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13594429/nfl-london-games-2026-marcus-mariota-to-start-for-washington-commanders-vs-indianapolis-colts-as-jayden-daniels-ruled-out",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkyYO-8taYmBriZQcEhUFJo"
     }
   }
 ]
