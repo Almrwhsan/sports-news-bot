@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Eibar mira alto",
+    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/05/eibar-mira-alto.html",
+    "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
+    "published": "Mon, 05 Oct 2026 21:58:36 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1722aa0cac.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إيبار يبدو عاليا",
+    "arabic_summary": "يقول مدرب ملقا: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".",
+    "translation_status": "translated",
+    "post_title": "إيبار يبدو عاليا",
+    "post_text": "🚨 إيبار يبدو عاليا\n\n📝 يقول مدرب ملقا: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070752055590105",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيبار_يبدو_عاليا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/05/eibar-mira-alto.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AezSmMgCnxrfvxDkl7zWDSV"
+    }
+  },
+  {
     "title": "Alineaciones de España y Croacia en la cuarta jornada de la Liga de las Naciones",
     "url": "https://www.marca.com/futbol/seleccion/2026/10/05/alineaciones-probables-espana-croacia-cuarta-jornada-liga-naciones.html",
     "summary": "Dinámicas opuestas de manera radical",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhJtnkyHqHgMQIqWQSexmcp"
-    }
-  },
-  {
-    "title": "El Eldense reacciona a lo Messi y aplasta al Oviedo",
-    "url": "https://as.com/futbol/el-eldense-reacciona-a-lo-messi-y-aplasta-al-oviedo-f202610-n/",
-    "summary": "El equipo azulgrana remonta en una segunda parte perfecta. Alberto Reina anotó el 0-1 a los 20 segundos.",
-    "published": "Fri, 02 Oct 2026 20:29:36 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "إلدينس يتفاعل مثل ميسي ويسحق أوفييدو",
-    "arabic_summary": "عاد فريق برشلونة في الشوط الثاني المثالي. وسجل ألبرتو رينا 0-1 بعد 20 ثانية.",
-    "translation_status": "translated",
-    "post_title": "إلدينس يتفاعل مثل ميسي ويسحق أوفييدو",
-    "post_text": "🚨 إلدينس يتفاعل مثل ميسي ويسحق أوفييدو\n\n📝 عاد فريق برشلونة في الشوط الثاني المثالي. وسجل ألبرتو رينا 0-1 بعد 20 ثانية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067316319267012",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إلدينس_يتفاعل_مثل_ميسي_ويسحق_أوفييدو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AeX-hZapN-S6wF2Wb1bWWFZ"
     }
   }
 ]
