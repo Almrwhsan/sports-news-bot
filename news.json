@@ -1,5 +1,39 @@
 [
   {
+    "title": "El gol es cosa de todos en el líder",
+    "url": "https://www.marca.com/futbol/eibar/2026/10/06/gol-cosa-todos-lider.html",
+    "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
+    "published": "Tue, 06 Oct 2026 10:04:38 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac4ab826016f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الهدف هو عمل الجميع في القائد",
+    "arabic_summary": "ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل",
+    "translation_status": "translated",
+    "post_title": "الهدف هو عمل الجميع في القائد",
+    "post_text": "🚨 الهدف هو عمل الجميع في القائد\n\n📝 ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070572328941411",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهدف_هو_عمل_الجميع_في_القائد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/eibar/2026/10/06/gol-cosa-todos-lider.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ATdjal3OQhcCxCJe8zbixd0"
+    }
+  },
+  {
     "title": "Hoy es el día: Argentina despide a su ídolo eterno, Lionel Messi",
     "url": "https://www.marca.com/futbol/2026/10/06/hoy-dia-argentina-despide-idolo-eterno-lionel-messi.html",
     "summary": "El astro rosarino juega esta próxima madrugada (01.00 en España) su último partido con la Albiceleste",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aw7kcOBb4feIIayehqJvJ9y"
-    }
-  },
-  {
-    "title": "Doyle: Maltese Cross to bring home Arc glory for Marquand and Haggas",
-    "url": "https://www.skysports.com/racing/news/12040/13594467/hollie-doyle-maltese-cross-to-bring-home-prix-de-larc-de-triomphe-glory-for-tom-marquand-and-william-haggas",
-    "summary": "Before heading to Paris to cheer on Maltese Cross, Hollie Doyle penned her latest exclusive blog ahead of Arc weekend.",
-    "published": "Fri, 02 Oct 2026 17:04:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802",
-    "media_type": "image/jpg",
-    "arabic_title": "دويل: الصليب المالطي سيعيد مجد القوس إلى ماركاند وهاجاس",
-    "arabic_summary": "قبل التوجه إلى باريس لتشجيع فرقة Maltese Cross، كتبت هولي دويل أحدث مدونتها الحصرية قبل عطلة نهاية الأسبوع في Arc.",
-    "translation_status": "translated",
-    "post_title": "دويل: الصليب المالطي سيعيد مجد القوس إلى ماركاند وهاجاس",
-    "post_text": "🚨 دويل: الصليب المالطي سيعيد مجد القوس إلى ماركاند وهاجاس\n\n📝 قبل التوجه إلى باريس لتشجيع فرقة Maltese Cross، كتبت هولي دويل أحدث مدونتها الحصرية قبل عطلة نهاية الأسبوع في Arc.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067283479270296",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دويل_الصليب_المالطي_سيعيد_مجد_القوس_إلى_ماركاند_وهاجاس.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13594467/hollie-doyle-maltese-cross-to-bring-home-prix-de-larc-de-triomphe-glory-for-tom-marquand-and-william-haggas",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Arf79zPMivc_WgATlp4vBjQ"
     }
   }
 ]
