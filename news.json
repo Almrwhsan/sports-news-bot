@@ -1,5 +1,39 @@
 [
   {
+    "title": "Alcaraz wins Japan Open in first final since wrist injury",
+    "url": "https://www.skysports.com/tennis/news/12040/13595696/carlos-alcaraz-spaniard-wins-japan-open-in-first-final-since-coming-back-from-injury-lay-off-for-wrist-injury",
+    "summary": "Carlos Alcaraz has won his first final since coming back from a long injury lay-off for a right wrist injury with success at the Japan Open.",
+    "published": "Tue, 06 Oct 2026 11:58:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-carlos-alcaraz-tennis_7369628.jpg?20261006124033",
+    "media_type": "image/jpg",
+    "arabic_title": "الكاراز يفوز ببطولة اليابان المفتوحة في أول نهائي منذ إصابة في المعصم",
+    "arabic_summary": "فاز كارلوس الكاراز بأول نهائي له منذ عودته من فترة طويلة من الإصابة بسبب إصابة في المعصم الأيمن بنجاح في بطولة اليابان المفتوحة.",
+    "translation_status": "translated",
+    "post_title": "الكاراز يفوز ببطولة اليابان المفتوحة في أول نهائي منذ إصابة في المعصم",
+    "post_text": "🚨 الكاراز يفوز ببطولة اليابان المفتوحة في أول نهائي منذ إصابة في المعصم\n\n📝 فاز كارلوس الكاراز بأول نهائي له منذ عودته من فترة طويلة من الإصابة بسبب إصابة في المعصم الأيمن بنجاح في بطولة اليابان المفتوحة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070773202254657",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الكاراز_يفوز_ببطولة_اليابان_المفتوحة_في_أول_نهائي_منذ_إصابة_في_المعصم.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/tennis/news/12040/13595696/carlos-alcaraz-spaniard-wins-japan-open-in-first-final-since-coming-back-from-injury-lay-off-for-wrist-injury",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZrc5jW-i743029i-FwJuYL"
+    }
+  },
+  {
     "title": "A qué hora es el Argentina - Benín: horario y dónde ver hoy en TV el partido despedida de Messi",
     "url": "https://www.marca.com/futbol/2026/10/06/argentina-benin-horario-ver-hoy-tv-partido-despedida-messi.html",
     "summary": "Los detalles de la despedida del astro",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aqm3fd6Y4HhXqdOoCpikMDY"
-    }
-  },
-  {
-    "title": "Samu habla de su salida del Atlético: \"Pasaron muchas cosas que tampoco quiero contar\"",
-    "url": "https://www.marca.com/radio/2026/10/02/samu-habla-claro-sobre-salida-atletico-pasaron-muchas-cosas-tampoco-quiero-contar.html",
-    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
-    "published": "Fri, 02 Oct 2026 08:15:12 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/fISHA1glqlQyYlLDU.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "سامو يتحدث عن رحيله عن أتلتيكو: \"حدثت أشياء كثيرة ولا أريد التحدث عنها أيضًا\"",
-    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
-    "translation_status": "translated",
-    "post_title": "سامو يتحدث عن رحيله عن أتلتيكو: \"حدثت أشياء كثيرة ولا أريد التحدث عنها أيضًا\"",
-    "post_text": "🚨 سامو يتحدث عن رحيله عن أتلتيكو: \"حدثت أشياء كثيرة ولا أريد التحدث عنها أيضًا\"\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067323459266298",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سامو_يتحدث_عن_رحيله_عن_أتلتيكو_حدثت_أشياء_كثيرة_ولا_أريد_التحدث_عنها_أيضًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/radio/2026/10/02/samu-habla-claro-sobre-salida-atletico-pasaron-muchas-cosas-tampoco-quiero-contar.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A3zgGCEzoy_3pdJv2ojh6FM"
     }
   }
 ]
