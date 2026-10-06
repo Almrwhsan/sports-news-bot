@@ -1,5 +1,39 @@
 [
   {
+    "title": "Yáñez reina en el derbi de los derbis",
+    "url": "https://as.com/futbol/primera-rfef/yanez-reina-en-la-locura-f202610-n/",
+    "summary": "Un golazo del gaditano coloca el 3-2 definitivo. Carvajal y Aguado, los otros goleadores castillistas. Antal y Koke Mota, los rojiblancos. Partidazo de Thiago, gran Mestre.",
+    "published": "Fri, 02 Oct 2026 21:24:16 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261002/1221314_212302_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "يانيز يسود في ديربي الديربي",
+    "arabic_summary": "هدف رائع من مواطن قادس يجعل النتيجة 3-2. كارفاخال وأغوادو، مسجلا الأهداف الآخرين لكاستيليستا. أنتال وكوكي موتا، الأحمر والأبيض. مباراة رائعة من تياجو، ميستري العظيم.",
+    "translation_status": "translated",
+    "post_title": "يانيز يسود في ديربي الديربي",
+    "post_text": "🚨 يانيز يسود في ديربي الديربي\n\n📝 هدف رائع من مواطن قادس يجعل النتيجة 3-2. كارفاخال وأغوادو، مسجلا الأهداف الآخرين لكاستيليستا. أنتال وكوكي موتا، الأحمر والأبيض. مباراة رائعة من تياجو، ميستري العظيم.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1070583538940290",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يانيز_يسود_في_ديربي_الديربي.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AD0dj26mBkPJyilM1w-7fOC"
+    }
+  },
+  {
     "title": "Adrián Marín: \"Siempre he sabido reinventarme y salir a flote\"",
     "url": "https://www.marca.com/futbol/2026/10/06/adrian-marin-siempre-he-sabido-reinventarme-salir-flote.html",
     "summary": "El lateral murciano brilla en Orlando y abre las puertas a MARCA para hablar de su camino hacia la MLS en la que ha estallado el ciclón Griezmann",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AeBVeZkxcZpWTvLx2Jjk0Fx"
-    }
-  },
-  {
-    "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Fri, 02 Oct 2026 17:26:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار مانشستر يونايتد: يلعب باليبا الدقائق الأولى في مباراة ودية خلف أبواب مغلقة",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار مانشستر يونايتد: يلعب باليبا الدقائق الأولى في مباراة ودية خلف أبواب مغلقة",
-    "post_text": "🚨 آخر أخبار مانشستر يونايتد: يلعب باليبا الدقائق الأولى في مباراة ودية خلف أبواب مغلقة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067297279268916",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_مانشستر_يونايتد_يلعب_باليبا_الدقائق_الأولى_في_مباراة_ودية_خلف_أبواب_مغ.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9kf1LFiKfE8j5541-pkcwp"
     }
   }
 ]
