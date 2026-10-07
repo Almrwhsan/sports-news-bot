@@ -1,5 +1,39 @@
 [
   {
+    "title": "Julián otea el panorama de agentes",
+    "url": "https://as.com/futbol/primera/julian-otea-el-panorama-de-agentes-f202610-n/",
+    "summary": "Según pudo saber AS, el argentino valora un cambio de representante tras lo acontecido el pasado verano. Varias agencias, detrás de su firma.",
+    "published": "Tue, 06 Oct 2026 12:00:48 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/I4FIHZSKAZLA3JZFBJALK3ZENY.jpg?auth=76bb6522179018ef3be930d10cdecb7f60ef22caa9f70a196a22a5cf2e8ec8d7",
+    "media_type": "image/jpeg",
+    "arabic_title": "جوليان يستعرض بانوراما العملاء",
+    "arabic_summary": "وكما علمت صحيفة AS، فإن الأرجنتيني يفكر في تغيير ممثله بعد ما حدث في الصيف الماضي. عدة وكالات، خلف شركتك.",
+    "translation_status": "translated",
+    "post_title": "جوليان يستعرض بانوراما العملاء",
+    "post_text": "🚨 جوليان يستعرض بانوراما العملاء\n\n📝 وكما علمت صحيفة AS، فإن الأرجنتيني يفكر في تغيير ممثله بعد ما حدث في الصيف الماضي. عدة وكالات، خلف شركتك.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071297012202276",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوليان_يستعرض_بانوراما_العملاء.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/julian-otea-el-panorama-de-agentes-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdXjJyAKchMeqZdzdb0PkNw"
+    }
+  },
+  {
     "title": "Frenkie vuelve al grupo...¡136 días después!",
     "url": "https://as.com/futbol/frenkie-vuelve-al-grupo136-dias-despues-f202610-n/",
     "summary": "El centrocampista holandés no se ejercitaba con sus compañeros desde el pasado 22 de mayo. Adeyemi también se incorporó este martes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7o4V21HGJlbCKgpJsre1Dx"
-    }
-  },
-  {
-    "title": "Eldense - Oviedo en directo | Última hora de LALIGA Hypermotion en vivo hoy",
-    "url": "https://www.marca.com/futbol/segunda-division/2026/10/02/01-0102-20261002-10182-187.html",
-    "summary": "",
-    "published": "Fri, 02 Oct 2026 19:00:00 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "إلدينسي - أوفييدو مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "إلدينسي - أوفييدو مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
-    "post_text": "🚨 إلدينسي - أوفييدو مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067716729226971",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إلدينسي_-_أوفييدو_مباشر_الأخبار_العاجلة_من_LALIGA_Hypermotion_مباشرة_اليوم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfRTU1D5_USOcV6KsGDuf_B"
     }
   }
 ]
