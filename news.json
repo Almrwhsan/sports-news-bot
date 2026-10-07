@@ -1,5 +1,39 @@
 [
   {
+    "title": "\"Merino no necesita cuerda\"",
+    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/merino-necesita-cuerda.html",
+    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
+    "published": "Wed, 07 Oct 2026 06:16:54 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac56569522be.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"ميرينو لا يحتاج إلى حبل\"",
+    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
+    "translation_status": "translated",
+    "post_title": "\"ميرينو لا يحتاج إلى حبل\"",
+    "post_text": "🚨 \"ميرينو لا يحتاج إلى حبل\"\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071374405527870",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميرينو_لا_يحتاج_إلى_حبل.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/merino-necesita-cuerda.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxXnuv_N3iDI49p_jZ_Y_bF"
+    }
+  },
+  {
     "title": "Un bálsamo en el parón",
     "url": "https://as.com/futbol/primera/un-balsamo-en-el-paron-f202610-n/",
     "summary": "Ninguno de los internacionales madridistas ha jugado todos los partidos completos con su selección. Dumfries es el más ‘castigado’: solo 10 minutos de respiro.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_DJUI-iSFQe8r9hELkRMNG"
-    }
-  },
-  {
-    "title": "Maroan encuentra el gol y da al Athletic la Euskal Herria Txapela",
-    "url": "https://www.marca.com/futbol/2026/10/02/maroan-encuentra-gol-da-athletic-euskal-herria-txapela.html",
-    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
-    "published": "Fri, 02 Oct 2026 21:10:32 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abfffcd8e3bc.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "التقى مارون بالجول ودا الرياضي مع إيوسكال هيريا تشابيلا",
-    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
-    "translation_status": "translated",
-    "post_title": "التقى مارون بالجول ودا الرياضي مع إيوسكال هيريا تشابيلا",
-    "post_text": "🚨 التقى مارون بالجول ودا الرياضي مع إيوسكال هيريا تشابيلا\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067812225884088",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التقى_مارون_بالجول_ودا_الرياضي_مع_إيوسكال_هيريا_تشابيلا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/02/maroan-encuentra-gol-da-athletic-euskal-herria-txapela.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Af30Up6l6EuGTV2A081bTS3"
     }
   }
 ]
