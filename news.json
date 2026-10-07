@@ -1,5 +1,39 @@
 [
   {
+    "title": "Robertson struggles to understand Scotland display vs Slovenia",
+    "url": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+    "summary": "",
+    "published": "Wed, 07 Oct 2026 11:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-andy-gilmour-robertson_7370369.jpg?20261007111904",
+    "media_type": "image/jpg",
+    "arabic_title": "روبرتسون يكافح من أجل فهم عرض اسكتلندا ضد سلوفينيا",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "روبرتسون يكافح من أجل فهم عرض اسكتلندا ضد سلوفينيا",
+    "post_text": "🚨 روبرتسون يكافح من أجل فهم عرض اسكتلندا ضد سلوفينيا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071413562190621",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روبرتسون_يكافح_من_أجل_فهم_عرض_اسكتلندا_ضد_سلوفينيا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ap0U7UptiFtkphyUPMEsk2S"
+    }
+  },
+  {
     "title": "Mikel Merino, el valor del antidivo",
     "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/06/mikel-merino-valor-antidivo.html",
     "summary": "Al otro lado del espejo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIxGdQn5Fm7WUKpyny0ZwKT"
-    }
-  },
-  {
-    "title": "Mendy, el eterno ausente",
-    "url": "https://as.com/futbol/primera/mendy-el-eterno-ausente-f202610-n/",
-    "summary": "El francés tiene cerca el alta médica, pero le falta tiempo para lograr la competitiva. Cucurella y Carreras son ahora sus obstáculos para lograr la titularidad",
-    "published": "Sat, 03 Oct 2026 07:56:50 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PREOTHRZNJAURELDJNXXPKGQGI.png?auth=fc5b0ccd2831d6f8541557e7f2eff9d0c3fa454329e1fdb89435ee91a8b4e7ec",
-    "media_type": "image/png",
-    "arabic_title": "ميندي الغائب الأبدي",
-    "arabic_summary": "الفرنسي يقترب من الخروج من المستشفى طبيا، لكنه لا يملك الوقت الكافي لتحقيق التنافسية. أصبح كوكوريلا وكاريراس الآن من العوائق التي تحول دون تحقيق الملكية",
-    "translation_status": "translated",
-    "post_title": "ميندي الغائب الأبدي",
-    "post_text": "🚨 ميندي الغائب الأبدي\n\n📝 الفرنسي يقترب من الخروج من المستشفى طبيا، لكنه لا يملك الوقت الكافي لتحقيق التنافسية. أصبح كوكوريلا وكاريراس الآن من العوائق التي تحول دون تحقيق الملكية\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067840759214568",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميندي_الغائب_الأبدي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/mendy-el-eterno-ausente-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATwGRzzCtnM0TqNHjyaMLjE"
     }
   }
 ]
