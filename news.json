@@ -1,5 +1,39 @@
 [
   {
+    "title": "Raúl Varela proclama a Messi como \"el más grande\" tras su despedida: \"El nuevo Rey Mago de nuestras vidas\"",
+    "url": "https://www.marca.com/radio/2026/10/07/raul-varela-proclama-messi-mas-grande-despedida-nuevo-rey-mago-vidas.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Wed, 07 Oct 2026 08:47:13 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/fbEZ61gnUhP5non7D.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "راؤول فاريلا يصف ميسي بأنه \"الأعظم\" بعد وداعه: \"الملك الساحر الجديد في حياتنا\"",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "راؤول فاريلا يصف ميسي بأنه \"الأعظم\" بعد وداعه: \"الملك الساحر الجديد في حياتنا\"",
+    "post_text": "🚨 راؤول فاريلا يصف ميسي بأنه \"الأعظم\" بعد وداعه: \"الملك الساحر الجديد في حياتنا\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071480942183883",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راؤول_فاريلا_يصف_ميسي_بأنه_الأعظم_بعد_وداعه_الملك_الساحر_الجديد_في_حياتنا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/radio/2026/10/07/raul-varela-proclama-messi-mas-grande-despedida-nuevo-rey-mago-vidas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AA_0HrkHxCsg5rt-cvdW7C1"
+    }
+  },
+  {
     "title": "Highlights: Northern Ireland frustrated by Georgia",
     "url": "https://www.bbc.co.uk/sport/football/videos/ck5ynp3ej7m8o?at_medium=RSS&at_campaign=rss",
     "summary": "Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw against Georgia at Windsor Park.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ah1YDYb7CTxcPrl-lNC9V7n"
-    }
-  },
-  {
-    "title": "El método Denia llega a República Checa",
-    "url": "https://as.com/futbol/internacional/el-metodo-denia-llega-a-republica-checa-f202610-n/",
-    "summary": "El técnico albaceteño apura al máximo la competitividad de sus jugadores, dando la alineación dos horas antes de los partidos.",
-    "published": "Sat, 03 Oct 2026 07:56:03 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5IUU5MFUZVPYDF7I4BEESXB4NA.jpg?auth=48a70fca3bd6ea9d26741c2b31d65dda792bec1343ac7181467f3244a5784273",
-    "media_type": "image/jpeg",
-    "arabic_title": "طريقة Denia تصل إلى جمهورية التشيك",
-    "arabic_summary": "مدرب البسيط يرفع تنافسية لاعبيه إلى الحد الأقصى، ويمنح التشكيلة قبل ساعتين من المباريات.",
-    "translation_status": "translated",
-    "post_title": "طريقة Denia تصل إلى جمهورية التشيك",
-    "post_text": "🚨 طريقة Denia تصل إلى جمهورية التشيك\n\n📝 مدرب البسيط يرفع تنافسية لاعبيه إلى الحد الأقصى، ويمنح التشكيلة قبل ساعتين من المباريات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067840612547916",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/طريقة_Denia_تصل_إلى_جمهورية_التشيك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/el-metodo-denia-llega-a-republica-checa-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKEquNXncMXh1R0tz4cP_Ca"
     }
   }
 ]
