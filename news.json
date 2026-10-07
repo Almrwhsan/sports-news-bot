@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mikel Merino, el valor del antidivo",
+    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/06/mikel-merino-valor-antidivo.html",
+    "summary": "Al otro lado del espejo",
+    "published": "Tue, 06 Oct 2026 23:33:46 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac5664e477cf.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميكيل ميرينو، قيمة المضاد",
+    "arabic_summary": "على الجانب الآخر من المرآة",
+    "translation_status": "translated",
+    "post_title": "ميكيل ميرينو، قيمة المضاد",
+    "post_text": "🚨 ميكيل ميرينو، قيمة المضاد\n\n📝 على الجانب الآخر من المرآة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071385342193443",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميكيل_ميرينو،_قيمة_المضاد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/10/06/mikel-merino-valor-antidivo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AWrBBcI8Xtwd5JAT3RnzlwG"
+    }
+  },
+  {
     "title": "\"Merino no necesita cuerda\"",
     "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/merino-necesita-cuerda.html",
     "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATwGRzzCtnM0TqNHjyaMLjE"
-    }
-  },
-  {
-    "title": "El Sevilla se rinde a Unai Emery en la previa del XV Trofeo Antonio Puerta",
-    "url": "https://www.marca.com/futbol/sevilla/2026/10/02/sevilla-rinde-unai-emery-previa-xv-trofeo-antonio-puerta.html",
-    "summary": "El técnico posó en el césped junto a las tres UEFA Europa League y algunos ex jugadores",
-    "published": "Fri, 02 Oct 2026 21:12:38 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac00113756f5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إشبيلية يستسلم لأوناي إيمري في معاينة كأس أنطونيو بويرتا الخامس عشر",
-    "arabic_summary": "وقف المدرب على العشب مع اللاعبين الثلاثة في الدوري الأوروبي وبعض اللاعبين السابقين",
-    "translation_status": "translated",
-    "post_title": "إشبيلية يستسلم لأوناي إيمري في معاينة كأس أنطونيو بويرتا الخامس عشر",
-    "post_text": "🚨 إشبيلية يستسلم لأوناي إيمري في معاينة كأس أنطونيو بويرتا الخامس عشر\n\n📝 وقف المدرب على العشب مع اللاعبين الثلاثة في الدوري الأوروبي وبعض اللاعبين السابقين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067815519217092",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إشبيلية_يستسلم_لأوناي_إيمري_في_معاينة_كأس_أنطونيو_بويرتا_الخامس_عشر.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/02/sevilla-rinde-unai-emery-previa-xv-trofeo-antonio-puerta.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A_DJUI-iSFQe8r9hELkRMNG"
     }
   }
 ]
