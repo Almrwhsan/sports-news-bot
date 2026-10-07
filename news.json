@@ -1,5 +1,39 @@
 [
   {
+    "title": "Frenkie vuelve al grupo...¡136 días después!",
+    "url": "https://as.com/futbol/frenkie-vuelve-al-grupo136-dias-despues-f202610-n/",
+    "summary": "El centrocampista holandés no se ejercitaba con sus compañeros desde el pasado 22 de mayo. Adeyemi también se incorporó este martes.",
+    "published": "Tue, 06 Oct 2026 10:26:34 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NKUVOTDDB3QMR33OU3S6NLSUGQ.JPG?auth=80586da52c48ef50669a4c0f80096500cae56b1202c6b50c3482476d99e1d3b7",
+    "media_type": "image/jpeg",
+    "arabic_title": "يعود فرينكي إلى المجموعة... بعد 136 يومًا!",
+    "arabic_summary": "ولم يتدرب لاعب خط الوسط الهولندي مع زملائه في الفريق منذ 22 مايو. وانضم أديمي أيضًا يوم الثلاثاء.",
+    "translation_status": "translated",
+    "post_title": "يعود فرينكي إلى المجموعة... بعد 136 يومًا!",
+    "post_text": "🚨 يعود فرينكي إلى المجموعة... بعد 136 يومًا!\n\n📝 ولم يتدرب لاعب خط الوسط الهولندي مع زملائه في الفريق منذ 22 مايو. وانضم أديمي أيضًا يوم الثلاثاء.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071290908869553",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_فرينكي_إلى_المجموعة..._بعد_136_يومًا!.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/frenkie-vuelve-al-grupo136-dias-despues-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUrxU1unGdvRKHodnMBQf9Y"
+    }
+  },
+  {
     "title": "Worcester and Sedgefield feature on Wednesday",
     "url": "https://www.skysports.com/racing/news/12040/13595649/today-on-sky-sports-racing-worcester-and-sedgefield-feature-on-wednesday",
     "summary": "National Hunt action comes from Worcester and Sedgefield on Tuesday, live on Sky Sports Racing.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfRTU1D5_USOcV6KsGDuf_B"
-    }
-  },
-  {
-    "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Fri, 02 Oct 2026 22:40:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار أستون فيلا: جارناتشو يسجل في الفوز بكأس أنطونيو بويرتا على إشبيلية",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار أستون فيلا: جارناتشو يسجل في الفوز بكأس أنطونيو بويرتا على إشبيلية",
-    "post_text": "🚨 آخر أخبار أستون فيلا: جارناتشو يسجل في الفوز بكأس أنطونيو بويرتا على إشبيلية\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067716805893630",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_أستون_فيلا_جارناتشو_يسجل_في_الفوز_بكأس_أنطونيو_بويرتا_على_إشبيلية.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5Bt3bcSkyZ92ho7fnDAhaP"
     }
   }
 ]
