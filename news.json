@@ -1,5 +1,39 @@
 [
   {
+    "title": "La sorpresa de Costas por el fichaje de Morales: \"Conoce mucho a Calero y se adaptará rápido\"",
+    "url": "https://www.marca.com/futbol/oviedo/2026/10/06/sorpresa-costas-fichaje-morales-conoce-calero-adaptara-rapido.html",
+    "summary": "Echa flores a su nuevo compañero y asegura que la plantilla del Oviedo está feliz con el 'Comandante'",
+    "published": "Tue, 06 Oct 2026 17:19:51 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac5118b95131.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مفاجأة كوستاس بتوقيع موراليس: \"إنه يعرف كاليرو كثيرًا وسيتأقلم سريعًا\"",
+    "arabic_summary": "يمطر زميله الجديد بالزهور ويؤكد أن فريق أوفييدو سعيد بـ \"القائد\"",
+    "translation_status": "translated",
+    "post_title": "مفاجأة كوستاس بتوقيع موراليس: \"إنه يعرف كاليرو كثيرًا وسيتأقلم سريعًا\"",
+    "post_text": "🚨 مفاجأة كوستاس بتوقيع موراليس: \"إنه يعرف كاليرو كثيرًا وسيتأقلم سريعًا\"\n\n📝 يمطر زميله الجديد بالزهور ويؤكد أن فريق أوفييدو سعيد بـ \"القائد\"\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071132945552016",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مفاجأة_كوستاس_بتوقيع_موراليس_إنه_يعرف_كاليرو_كثيرًا_وسيتأقلم_سريعًا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/06/sorpresa-costas-fichaje-morales-conoce-calero-adaptara-rapido.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AASu9Eirol9gD7PfLcEO5CR"
+    }
+  },
+  {
     "title": "Manager ins and outs - 2026-27",
     "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXPIUVY80ziCC4okwSaKit1"
-    }
-  },
-  {
-    "title": "Pool pioneer Fisher retiring after being diagnosed with Parkinson's",
-    "url": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
-    "summary": "Pool pioneer Allison Fisher is retiring from professional competition after being diagnosed with Parkinson's disease.",
-    "published": "Fri, 02 Oct 2026 22:16:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-allison-fisher-pool_7366881.jpg?20261002215420",
-    "media_type": "image/jpg",
-    "arabic_title": "رائد البلياردو فيشر يتقاعد بعد تشخيص إصابته بمرض باركنسون",
-    "arabic_summary": "تتقاعد رائدة حمامات السباحة أليسون فيشر من المنافسة الاحترافية بعد تشخيص إصابتها بمرض باركنسون.",
-    "translation_status": "translated",
-    "post_title": "رائد البلياردو فيشر يتقاعد بعد تشخيص إصابته بمرض باركنسون",
-    "post_text": "🚨 رائد البلياردو فيشر يتقاعد بعد تشخيص إصابته بمرض باركنسون\n\n📝 تتقاعد رائدة حمامات السباحة أليسون فيشر من المنافسة الاحترافية بعد تشخيص إصابتها بمرض باركنسون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067683925896918",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رائد_البلياردو_فيشر_يتقاعد_بعد_تشخيص_إصابته_بمرض_باركنسون.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcS4smC29DJTpHhhZH3RodQ"
     }
   }
 ]
