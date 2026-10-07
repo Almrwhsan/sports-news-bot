@@ -1,5 +1,39 @@
 [
   {
+    "title": "Diego López pasa otra vez por quirófano para 'limpiar' la rodilla operada",
+    "url": "https://www.marca.com/futbol/valencia/2026/10/06/diego-lopez-pasa-vez-quirofano-limpiar-rodilla-operada.html",
+    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
+    "published": "Tue, 06 Oct 2026 16:22:38 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac501e524c42.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يخضع دييغو لوبيز لعملية جراحية مرة أخرى \"لتنظيف\" ركبته التي خضعت لعملية جراحية",
+    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
+    "translation_status": "translated",
+    "post_title": "يخضع دييغو لوبيز لعملية جراحية مرة أخرى \"لتنظيف\" ركبته التي خضعت لعملية جراحية",
+    "post_text": "🚨 يخضع دييغو لوبيز لعملية جراحية مرة أخرى \"لتنظيف\" ركبته التي خضعت لعملية جراحية\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071107142221263",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يخضع_دييغو_لوبيز_لعملية_جراحية_مرة_أخرى_لتنظيف_ركبته_التي_خضعت_لعملية_جراحية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/10/06/diego-lopez-pasa-vez-quirofano-limpiar-rodilla-operada.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASZH2vdOn9HdvvaZSaK1taM"
+    }
+  },
+  {
     "title": "Octubre examina al Barça de Flick",
     "url": "https://as.com/futbol/primera/octubre-examina-al-barca-de-flick-f202610-n/",
     "summary": "El equipo azulgrana se enfrenta a rivales exigentes, especialmente el PSG y el Madrid y con tres desplazamientos consecutivos antes del Clásico.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhF9d0zNioyhwkinUO4hIp5"
-    }
-  },
-  {
-    "title": "Compra tus entradas para ver el duelo entre España vs Inglaterra",
-    "url": "https://www.marca.com/futbol/seleccion/2026/10/02/compra-tus-entradas-ver-duelo-espana-vs-inglaterra.html",
-    "summary": "MARCA Entradas te ofrece la posibilidad de ver en directo el encuentro",
-    "published": "Fri, 02 Oct 2026 18:00:48 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abf79f72dbb5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "قم بشراء تذكرتك لمشاهدة المباراة بين إسبانيا وإنجلترا",
-    "arabic_summary": "تذاكر ماركا توفر لك إمكانية مشاهدة المباراة مباشرة",
-    "translation_status": "translated",
-    "post_title": "قم بشراء تذكرتك لمشاهدة المباراة بين إسبانيا وإنجلترا",
-    "post_text": "🚨 قم بشراء تذكرتك لمشاهدة المباراة بين إسبانيا وإنجلترا\n\n📝 تذاكر ماركا توفر لك إمكانية مشاهدة المباراة مباشرة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067678322564145",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قم_بشراء_تذكرتك_لمشاهدة_المباراة_بين_إسبانيا_وإنجلترا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/02/compra-tus-entradas-ver-duelo-espana-vs-inglaterra.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkdZRoI8N8veFZt47pgD_El"
     }
   }
 ]
