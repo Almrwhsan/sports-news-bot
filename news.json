@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nicolás Larcamón aparece en el radar de la selección chilena",
+    "url": "https://www.marca.com/futbol/sporting/2026/10/06/nicolas-larcamon-aparece-radar-seleccion-chilena.html",
+    "summary": "El entrenador del Sporting sería uno de los nombres valorados por la Federación de Fútbol de Chile",
+    "published": "Tue, 06 Oct 2026 19:46:30 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac533930502a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يظهر نيكولاس لاركامون على رادار الفريق التشيلي",
+    "arabic_summary": "سيكون مدرب سبورتنج أحد الأسماء التي يقدرها الاتحاد التشيلي لكرة القدم",
+    "translation_status": "translated",
+    "post_title": "يظهر نيكولاس لاركامون على رادار الفريق التشيلي",
+    "post_text": "🚨 يظهر نيكولاس لاركامون على رادار الفريق التشيلي\n\n📝 سيكون مدرب سبورتنج أحد الأسماء التي يقدرها الاتحاد التشيلي لكرة القدم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071261688872475",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يظهر_نيكولاس_لاركامون_على_رادار_الفريق_التشيلي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sporting/2026/10/06/nicolas-larcamon-aparece-radar-seleccion-chilena.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-Vm2e79xA9EdGOAYjjir3s"
+    }
+  },
+  {
     "title": "Gordon es un cañón",
     "url": "https://as.com/futbol/internacional/gordon-es-un-canon-f202610-n/",
     "summary": "El culé encadena 7 partidos consecutivos generando goles con Inglaterra y se ha consolidado como el extremo zurdo titular de Tuchel: “Su confianza está por las nubes”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjxgNzEYS4o1Rf0KlTEztWP"
-    }
-  },
-  {
-    "title": "Iñigo Arguibide renueva con Osasuna",
-    "url": "https://www.marca.com/futbol/osasuna/2026/10/02/inigo-arguibide-renueva-osasuna.html",
-    "summary": "El lateral rojillo amplía su vinculación con el club hasta junio de 2030",
-    "published": "Fri, 02 Oct 2026 18:40:37 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abfde7639cf4.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إنييجو أرجويبيد يجدد عقده مع أوساسونا",
-    "arabic_summary": "ويمدد الجناح الأحمر علاقته مع النادي حتى يونيو 2030",
-    "translation_status": "translated",
-    "post_title": "إنييجو أرجويبيد يجدد عقده مع أوساسونا",
-    "post_text": "🚨 إنييجو أرجويبيد يجدد عقده مع أوساسونا\n\n📝 ويمدد الجناح الأحمر علاقته مع النادي حتى يونيو 2030\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067700972561880",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنييجو_أرجويبيد_يجدد_عقده_مع_أوساسونا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/osasuna/2026/10/02/inigo-arguibide-renueva-osasuna.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4IrkbQTj1E1KfcJBU0oaoN"
     }
   }
 ]
