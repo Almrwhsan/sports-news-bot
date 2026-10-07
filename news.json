@@ -1,5 +1,39 @@
 [
   {
+    "title": "'We want a winning era' - Arteta signs new Arsenal contract",
+    "url": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
+    "summary": "Mikel Arteta has signed a new long-term contract to extend his stay at Arsenal.",
+    "published": "Wed, 07 Oct 2026 12:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7370436.jpg?20261007121433",
+    "media_type": "image/jpg",
+    "arabic_title": "\"نريد حقبة انتصارات\" - أرتيتا يوقع عقدًا جديدًا مع أرسنال",
+    "arabic_summary": "وقع ميكيل أرتيتا عقدًا جديدًا طويل الأمد لتمديد إقامته في أرسنال.",
+    "translation_status": "translated",
+    "post_title": "\"نريد حقبة انتصارات\" - أرتيتا يوقع عقدًا جديدًا مع أرسنال",
+    "post_text": "🚨 \"نريد حقبة انتصارات\" - أرتيتا يوقع عقدًا جديدًا مع أرسنال\n\n📝 وقع ميكيل أرتيتا عقدًا جديدًا طويل الأمد لتمديد إقامته في أرسنال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071558375509473",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نريد_حقبة_انتصارات_-_أرتيتا_يوقع_عقدًا_جديدًا_مع_أرسنال.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFWhjznGyJphv7jghQ0uO__"
+    }
+  },
+  {
     "title": "\"¿Cristiano? Jugué con un rey llamado Eusébio, compartí tiempo con un rey llamado Pelé, Maradona... Nunca he visto nada parecido\"",
     "url": "https://www.marca.com/futbol/2026/10/07/cristiano-jugue-rey-llamado-eusebio-comparti-rey-llamado-pele-maradona-nunca-he-visto-parecido.html",
     "summary": "António Simoes se 'moja' sobre el conflicto entre Cristiano Ronaldo y Jorge Jesus",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AymxzEIUvzlt8-nC9ueh_8s"
-    }
-  },
-  {
-    "title": "España - República Checa: horario y dónde ver en TV el partido de Nations League",
-    "url": "https://www.marca.com/futbol/nations-league/2026/10/02/espana-republica-checa-horario-donde-ver-tv-partido-nations-league.html",
-    "summary": "Se enfrentan en la tercera jornada de competición",
-    "published": "Fri, 02 Oct 2026 22:18:59 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac00bf071bb7.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إسبانيا - جمهورية التشيك: جدول ومكان مشاهدة مباراة دوري الأمم على شاشة التلفزيون",
-    "arabic_summary": "يواجهون بعضهم البعض في اليوم الثالث من المنافسة",
-    "translation_status": "translated",
-    "post_title": "إسبانيا - جمهورية التشيك: جدول ومكان مشاهدة مباراة دوري الأمم على شاشة التلفزيون",
-    "post_text": "🚨 إسبانيا - جمهورية التشيك: جدول ومكان مشاهدة مباراة دوري الأمم على شاشة التلفزيون\n\n📝 يواجهون بعضهم البعض في اليوم الثالث من المنافسة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067886879209956",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إسبانيا_-_جمهورية_التشيك_جدول_ومكان_مشاهدة_مباراة_دوري_الأمم_على_شاشة_التلفزيون.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/10/02/espana-republica-checa-horario-donde-ver-tv-partido-nations-league.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOyiKn2ZXOlOznfjQFug-Mc"
     }
   }
 ]
