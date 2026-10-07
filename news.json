@@ -1,5 +1,39 @@
 [
   {
+    "title": "Tebas: “El Madrid es el equipo más rebelde”",
+    "url": "https://as.com/futbol/primera/tebas-el-madrid-es-el-equipo-mas-rebelde-f202610-n/",
+    "summary": "El presidente de LaLiga arremete contra el Real Madrid y contra Florentino Pérez por su forma de entender el modelo de competición.",
+    "published": "Mon, 05 Oct 2026 18:25:28 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PP3KLIV4ORD7HJATU3B2QCANOU.jpeg?auth=d475dd8881df7efc1a2de65582e3d8c9e8c6b9bbd3040adb99d9c27162e4d779",
+    "media_type": "image/jpeg",
+    "arabic_title": "تيباس: \"ريال مدريد هو الفريق الأكثر تمرداً\"",
+    "arabic_summary": "رئيس الدوري الإسباني يهاجم ريال مدريد وفلورنتينو بيريز بسبب طريقتهما في فهم نموذج المنافسة.",
+    "translation_status": "translated",
+    "post_title": "تيباس: \"ريال مدريد هو الفريق الأكثر تمرداً\"",
+    "post_text": "🚨 تيباس: \"ريال مدريد هو الفريق الأكثر تمرداً\"\n\n📝 رئيس الدوري الإسباني يهاجم ريال مدريد وفلورنتينو بيريز بسبب طريقتهما في فهم نموذج المنافسة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071229598875684",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تيباس_ريال_مدريد_هو_الفريق_الأكثر_تمرداً.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/tebas-el-madrid-es-el-equipo-mas-rebelde-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVSVFtgVSDvYcHjawkOFp53"
+    }
+  },
+  {
     "title": "London City gelling, Man City flying - takeaways from WSL start",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1l6rxypzo?at_medium=RSS&at_campaign=rss",
     "summary": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect chance to take stock of a thrilling start to the season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKnBK-TalaEbU8JGGUFyj2F"
-    }
-  },
-  {
-    "title": "Cuti Romero: \"Messi me eligió para ser el capitán de Argentina\"",
-    "url": "https://www.marca.com/futbol/2026/10/02/cuti-romero-messi-me-eligio-capitan-argentina-video.html",
-    "summary": "",
-    "published": "Fri, 02 Oct 2026 18:24:44 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/1glzg8CNDTqz.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كوتي روميرو: ميسي اختارني لأكون قائدًا للأرجنتين",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كوتي روميرو: ميسي اختارني لأكون قائدًا للأرجنتين",
-    "post_text": "🚨 كوتي روميرو: ميسي اختارني لأكون قائدًا للأرجنتين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067698022562175",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوتي_روميرو_ميسي_اختارني_لأكون_قائدًا_للأرجنتين.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/02/cuti-romero-messi-me-eligio-capitan-argentina-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUUQqnoUtZzY5iDc1zL1kRK"
     }
   }
 ]
