@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Villarreal contará con 850 aficionados en el Bernabéu",
+    "url": "https://as.com/futbol/el-villarreal-contara-con-850-aficionados-en-el-bernabeu-f202610-n/",
+    "summary": "La afición agotó las entradas que facilitó el Real Madrid aprovechando el puente y los días festivos.",
+    "published": "Tue, 06 Oct 2026 11:35:02 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7SEEUVSJ4FB4JDM4ITJ7U6DWBI.jpg?auth=237e9c83aef88c98bdf452afd687ea86e62eb66c265d13c3b556fbf22d44939f",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيكون لفياريال 850 مشجعًا في البرنابيو",
+    "arabic_summary": "باع المشجعون التذاكر التي قدمها ريال مدريد، مستفيدين من عطلة نهاية الأسبوع والأعياد الطويلة.",
+    "translation_status": "translated",
+    "post_title": "سيكون لفياريال 850 مشجعًا في البرنابيو",
+    "post_text": "🚨 سيكون لفياريال 850 مشجعًا في البرنابيو\n\n📝 باع المشجعون التذاكر التي قدمها ريال مدريد، مستفيدين من عطلة نهاية الأسبوع والأعياد الطويلة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071705208828123",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيكون_لفياريال_850_مشجعًا_في_البرنابيو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/el-villarreal-contara-con-850-aficionados-en-el-bernabeu-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ao_IkbWVisNI2nJ1FJ1-pmb"
+    }
+  },
+  {
     "title": "'Very humbling' - Sinfield receives knighthood at Windsor Castle",
     "url": "https://www.skysports.com/watch/video/13596153/sir-kevin-sinfield-receives-knighthood-at-windsor-castle-very-humbling",
     "summary": "Sir Kevin Sinfield has received a knighthood at Windsor Castle for services to the MND community - after raising money in memory of his late friend and former team-mate Rob Burrow - and for services to league and union rugby.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjQjvo1ebxmsVAuaTZ3aaOF"
-    }
-  },
-  {
-    "title": "Ten injured as car drives into crowd gathered to support NRL team",
-    "url": "https://www.skysports.com/rugby-league/news/12040/13594605/newcastle-knights-ceo-extends-support-to-victims-after-car-drives-into-crowd-of-nrl-fans-leaving-10-injured",
-    "summary": "Newcastle Knights CEO Peter Parr has expressed his deep concern after a vehicle drove into a crowd of people supporting the NRL team on Saturday, as they prepared for their Grand Final against Sydney Roosters.",
-    "published": "Sat, 03 Oct 2026 09:38:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-nrl-ball_7367112.jpg?20261003102217",
-    "media_type": "image/jpg",
-    "arabic_title": "أصيب عشرة بجروح عندما اقتحمت سيارة حشدًا متجمعًا لدعم فريق NRL",
-    "arabic_summary": "أعرب بيتر بار، الرئيس التنفيذي لنيوكاسل نايتس، عن قلقه العميق بعد أن صدمت سيارة حشدًا من الأشخاص الذين يدعمون فريق NRL يوم السبت، بينما كانوا يستعدون للنهائي الكبير ضد سيدني روسترز.",
-    "translation_status": "translated",
-    "post_title": "أصيب عشرة بجروح عندما اقتحمت سيارة حشدًا متجمعًا لدعم فريق NRL",
-    "post_text": "🚨 أصيب عشرة بجروح عندما اقتحمت سيارة حشدًا متجمعًا لدعم فريق NRL\n\n📝 أعرب بيتر بار، الرئيس التنفيذي لنيوكاسل نايتس، عن قلقه العميق بعد أن صدمت سيارة حشدًا من الأشخاص الذين يدعمون فريق NRL يوم السبت، بينما كانوا يستعدون للنهائي الكبير ضد سيدني روسترز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067922785873032",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أصيب_عشرة_بجروح_عندما_اقتحمت_سيارة_حشدًا_متجمعًا_لدعم_فريق_NRL.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-league/news/12040/13594605/newcastle-knights-ceo-extends-support-to-victims-after-car-drives-into-crowd-of-nrl-fans-leaving-10-injured",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASLnls5k4SNK2tACg8iqNws"
     }
   }
 ]
