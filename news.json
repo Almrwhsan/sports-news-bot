@@ -1,5 +1,39 @@
 [
   {
+    "title": "Neymar despide a Messi: “No solo Argentina, el mundo te agradece todo lo que hiciste por el fútbol”",
+    "url": "https://as.com/us/futbol/neymar-despide-a-messi-no-solo-argentina-el-mundo-te-agradece-todo-lo-que-hiciste-por-el-futbol-f202610-n/",
+    "summary": "Neymar y Messi lo ganaron prácticamente todo en el Barcelona y fueron rivales con Brasil y Argentina, pero el brasileño no duda en rendirse ante Leo por su despedida internacional.",
+    "published": "Tue, 06 Oct 2026 18:42:58 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6ZHZ7L3HTNP6RMT6XHP37TLF7M.jpg?auth=d0a92e1dff3a47e591cffe8fcf02e651a2e1441bb1d96019454c03407b82a438",
+    "media_type": "image/jpeg",
+    "arabic_title": "نيمار يطرد ميسي: ليس الأرجنتين فقط، العالم يشكرك على كل ما فعلته من أجل كرة القدم",
+    "arabic_summary": "فاز نيمار وميسي بكل شيء عمليا في برشلونة وكانا منافسين للبرازيل والأرجنتين، لكن البرازيلي لا يتردد في الاستسلام لليو في وداعه الدولي.",
+    "translation_status": "translated",
+    "post_title": "نيمار يطرد ميسي: ليس الأرجنتين فقط، العالم يشكرك على كل ما فعلته من أجل كرة القدم",
+    "post_text": "🚨 نيمار يطرد ميسي: ليس الأرجنتين فقط، العالم يشكرك على كل ما فعلته من أجل كرة القدم\n\n📝 فاز نيمار وميسي بكل شيء عمليا في برشلونة وكانا منافسين للبرازيل والأرجنتين، لكن البرازيلي لا يتردد في الاستسلام لليو في وداعه الدولي.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071766668821977",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيمار_يطرد_ميسي_ليس_الأرجنتين_فقط،_العالم_يشكرك_على_كل_ما_فعلته_من_أجل_كرة_القدم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/us/futbol/neymar-despide-a-messi-no-solo-argentina-el-mundo-te-agradece-todo-lo-que-hiciste-por-el-futbol-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdkzUKRPBmXMebvo9HID1mG"
+    }
+  },
+  {
     "title": "Mikel Arteta renueva su contrato: camino a la década como 'boss' del Arsenal",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/07/mikel-arteta-renueva-contrato-camino-decada-boss-arsenal.html",
     "summary": "El entrenador vasco seguirá en el club londinense con la firma de un nuevo contrato largo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyRe5t5IXNQaJ074veW4WLB"
-    }
-  },
-  {
-    "title": "Unai Emery, tras su regreso a Nervión: \"Me siento muy querido\"",
-    "url": "https://www.marca.com/futbol/sevilla/2026/10/02/unai-emery-regreso-nervion-me-siento-querido.html",
-    "summary": "El Aston Villa se proclama campeón del XV Trofeo Antonio Puerta",
-    "published": "Fri, 02 Oct 2026 23:49:37 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac0246850955.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أوناي إيمري بعد عودته إلى نيرفيون: \"أشعر بأنني محبوب جدًا\"",
-    "arabic_summary": "تم إعلان أستون فيلا بطلاً لكأس أنطونيو بويرتا الخامس عشر",
-    "translation_status": "translated",
-    "post_title": "أوناي إيمري بعد عودته إلى نيرفيون: \"أشعر بأنني محبوب جدًا\"",
-    "post_text": "🚨 أوناي إيمري بعد عودته إلى نيرفيون: \"أشعر بأنني محبوب جدًا\"\n\n📝 تم إعلان أستون فيلا بطلاً لكأس أنطونيو بويرتا الخامس عشر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067933945871916",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوناي_إيمري_بعد_عودته_إلى_نيرفيون_أشعر_بأنني_محبوب_جدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/02/unai-emery-regreso-nervion-me-siento-querido.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKpCoVpZjU9QjbpS_mVGX5Z"
     }
   }
 ]
