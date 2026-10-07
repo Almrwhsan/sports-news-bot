@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Güímar-Sporting Hortaleza se jugará a puerta cerrada en Tenerife",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/10/06/gueimar-sporting-hortaleza-jugara-puerta-cerrada-tenerife.html",
+    "summary": "El duelo suspendido se disputará el domingo a las 12.00 hora insular (13.00 en la península)",
+    "published": "Tue, 06 Oct 2026 23:14:02 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac245be557be.png",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيتم لعب مباراة Güímar-Sporting Hortaleza خلف أبواب مغلقة في تينيريفي",
+    "arabic_summary": "ستقام المباراة الموقوفة يوم الأحد الساعة 12:00 ظهرًا بتوقيت الجزيرة (1:00 ظهرًا بتوقيت شبه الجزيرة).",
+    "translation_status": "translated",
+    "post_title": "سيتم لعب مباراة Güímar-Sporting Hortaleza خلف أبواب مغلقة في تينيريفي",
+    "post_text": "🚨 سيتم لعب مباراة Güímar-Sporting Hortaleza خلف أبواب مغلقة في تينيريفي\n\n📝 ستقام المباراة الموقوفة يوم الأحد الساعة 12:00 ظهرًا بتوقيت الجزيرة (1:00 ظهرًا بتوقيت شبه الجزيرة).\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071280878870556",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيتم_لعب_مباراة_Güímar-Sporting_Hortaleza_خلف_أبواب_مغلقة_في_تينيريفي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/10/06/gueimar-sporting-hortaleza-jugara-puerta-cerrada-tenerife.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Adua1IIOgia_wE-uAzeCgNi"
+    }
+  },
+  {
     "title": "Nicolás Larcamón aparece en el radar de la selección chilena",
     "url": "https://www.marca.com/futbol/sporting/2026/10/06/nicolas-larcamon-aparece-radar-seleccion-chilena.html",
     "summary": "El entrenador del Sporting sería uno de los nombres valorados por la Federación de Fútbol de Chile",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcJs3biCe0Y7-JGfa_akKei"
-    }
-  },
-  {
-    "title": "Una camiseta de récord: 148 patrocinadores",
-    "url": "https://as.com/futbol/internacional/una-camiseta-de-record-148-patrocinadores-f202610-n/",
-    "summary": "El Nacional, conjunto ecuatoriano, trata de aliviar su deuda con una medida que causa furor. Patrocinios en la indumentaria desde 250 dólares.",
-    "published": "Fri, 02 Oct 2026 23:37:38 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FVFKJ4GP4VDQ7DGR57PHLCUMBA.jpg?auth=f2993532249968be88d06b658dc7e764b32c5143101ad51479c2ed7bd87c0f61",
-    "media_type": "image/jpeg",
-    "arabic_title": "قميص قياسي: 148 جهة راعية",
-    "arabic_summary": "يحاول فريق ناسيونال الإكوادوري تخفيف ديونه بإجراء يثير ضجة. رعاية الملابس تبدأ من 250 دولارًا.",
-    "translation_status": "translated",
-    "post_title": "قميص قياسي: 148 جهة راعية",
-    "post_text": "🚨 قميص قياسي: 148 جهة راعية\n\n📝 يحاول فريق ناسيونال الإكوادوري تخفيف ديونه بإجراء يثير ضجة. رعاية الملابس تبدأ من 250 دولارًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067704039228240",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قميص_قياسي_148_جهة_راعية.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/una-camiseta-de-record-148-patrocinadores-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjxgNzEYS4o1Rf0KlTEztWP"
     }
   }
 ]
