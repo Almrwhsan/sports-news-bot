@@ -1,5 +1,39 @@
 [
   {
+    "title": "\"¿Cristiano? Jugué con un rey llamado Eusébio, compartí tiempo con un rey llamado Pelé, Maradona... Nunca he visto nada parecido\"",
+    "url": "https://www.marca.com/futbol/2026/10/07/cristiano-jugue-rey-llamado-eusebio-comparti-rey-llamado-pele-maradona-nunca-he-visto-parecido.html",
+    "summary": "António Simoes se 'moja' sobre el conflicto entre Cristiano Ronaldo y Jorge Jesus",
+    "published": "Wed, 07 Oct 2026 10:19:49 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/fcAUk1gnZHKen8pnd.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"كريستيانو؟ لقد لعبت مع ملك يُدعى أوزيبيو، وتقاسمت الوقت مع ملك يُدعى بيليه، ومارادونا... لم أر شيئًا كهذا من قبل\"",
+    "arabic_summary": "أنطونيو سيموس \"متأثر\" بالصراع بين كريستيانو رونالدو وخورخي جيسوس",
+    "translation_status": "translated",
+    "post_title": "\"كريستيانو؟ لقد لعبت مع ملك يُدعى أوزيبيو، وتقاسمت الوقت مع ملك يُدعى بيليه، ومارادونا... لم أر شيئًا كهذا من قبل\"",
+    "post_text": "🚨 \"كريستيانو؟ لقد لعبت مع ملك يُدعى أوزيبيو، وتقاسمت الوقت مع ملك يُدعى بيليه، ومارادونا... لم أر شيئًا كهذا من قبل\"\n\n📝 أنطونيو سيموس \"متأثر\" بالصراع بين كريستيانو رونالدو وخورخي جيسوس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071544085510902",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كريستيانو؟_لقد_لعبت_مع_ملك_يُدعى_أوزيبيو،_وتقاسمت_الوقت_مع_ملك_يُدعى_بيليه،_ومار.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/07/cristiano-jugue-rey-llamado-eusebio-comparti-rey-llamado-pele-maradona-nunca-he-visto-parecido.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8xS1B5EGxHjFL-rtLcEOGo"
+    }
+  },
+  {
     "title": "Guti y Jordi Alba protagonizarán la concentración previa de El Clásico",
     "url": "https://as.com/futbol/primera/guti-y-jordi-alba-protagonizaran-la-concentracion-previa-de-el-clasico-f202610-n/",
     "summary": "Los embajadores de Real Madrid y Barcelona realizarán una activación con Airbnb para preparar el gran partido de LaLiga con aficionados en un pueblo de Teruel.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOyiKn2ZXOlOznfjQFug-Mc"
-    }
-  },
-  {
-    "title": "'We are just slow' - Norris explains McLaren's unexpected struggle",
-    "url": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
-    "summary": "",
-    "published": "Sat, 03 Oct 2026 07:57:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lando-norris-mclaren_7367195.jpg?20261003123423",
-    "media_type": "image/jpg",
-    "arabic_title": "\"نحن بطيئون فقط\" - يشرح نوريس معاناة مكلارين غير المتوقعة",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "\"نحن بطيئون فقط\" - يشرح نوريس معاناة مكلارين غير المتوقعة",
-    "post_text": "🚨 \"نحن بطيئون فقط\" - يشرح نوريس معاناة مكلارين غير المتوقعة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1067886972543280",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نحن_بطيئون_فقط_-_يشرح_نوريس_معاناة_مكلارين_غير_المتوقعة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADqV-g_jIeZxHJk3HmmZKqP"
     }
   }
 ]
