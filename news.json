@@ -1,5 +1,39 @@
 [
   {
+    "title": "“Asumí riesgos en el Mundial...”",
+    "url": "https://as.com/futbol/internacional/asumi-riesgos-en-el-mundial-f202610-n/",
+    "summary": "Aurélien Tchouaméni confirmó en una entrevista con France 24 que disputó el último Mundial entre algodones y que arriesgó para estar al máximo nivel.",
+    "published": "Thu, 08 Oct 2026 08:29:57 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MEVYDFWGTVGIBMH5IKCIAKFSDI.png?auth=0db7acf8026051cffb577379dd3d5d441c766981965c01f58b34d054e9f630e7",
+    "media_type": "image/png",
+    "arabic_title": "\"لقد خاطرت في كأس العالم...\"",
+    "arabic_summary": "وأكد أوريليان تشواميني في مقابلة مع فرانس 24 أنه لعب في نهائيات كأس العالم الأخيرة بين الأقطان وأنه جازف من أجل أن يكون على أعلى مستوى.",
+    "translation_status": "translated",
+    "post_title": "\"لقد خاطرت في كأس العالم...\"",
+    "post_text": "🚨 \"لقد خاطرت في كأس العالم...\"\n\n📝 وأكد أوريليان تشواميني في مقابلة مع فرانس 24 أنه لعب في نهائيات كأس العالم الأخيرة بين الأقطان وأنه جازف من أجل أن يكون على أعلى مستوى.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072095808789063",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_خاطرت_في_كأس_العالم....png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/asumi-riesgos-en-el-mundial-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzpARhdDkwjBT10byBuUXmZ"
+    }
+  },
+  {
     "title": "Hay Raphinha para rato",
     "url": "https://as.com/futbol/primera/hay-raphinha-para-rato-f202610-n/",
     "summary": "El delantero brasileño podría oficializar su continuidad hasta 2030 a finales de esta misma semana.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGlHEPSJ74x9Q0xG-elxB1J"
-    }
-  },
-  {
-    "title": "Sinner pulls out of Shanghai Masters after withdrawing from China Open",
-    "url": "https://www.skysports.com/tennis/news/12040/13594696/jannik-sinner-world-no-1-withdraws-from-rolex-shanghai-masters-as-knee-injury-forces-him-to-skip-china-open",
-    "summary": "Jannik Sinner has withdrawn from the Rolex Shanghai Masters as he deals with a knee problem.",
-    "published": "Sat, 03 Oct 2026 15:11:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-jannik-sinner_7367274.jpg?20261003151531",
-    "media_type": "image/jpg",
-    "arabic_title": "Sinner ينسحب من بطولة Shanghai Masters بعد انسحابه من بطولة الصين المفتوحة",
-    "arabic_summary": "انسحب يانيك سينر من بطولة رولكس شنغهاي ماسترز بسبب معاناته من مشكلة في الركبة.",
-    "translation_status": "translated",
-    "post_title": "Sinner ينسحب من بطولة Shanghai Masters بعد انسحابه من بطولة الصين المفتوحة",
-    "post_text": "🚨 Sinner ينسحب من بطولة Shanghai Masters بعد انسحابه من بطولة الصين المفتوحة\n\n📝 انسحب يانيك سينر من بطولة رولكس شنغهاي ماسترز بسبب معاناته من مشكلة في الركبة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068074292524548",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Sinner_ينسحب_من_بطولة_Shanghai_Masters_بعد_انسحابه_من_بطولة_الصين_المفتوحة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/news/12040/13594696/jannik-sinner-world-no-1-withdraws-from-rolex-shanghai-masters-as-knee-injury-forces-him-to-skip-china-open",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6v7eKDlyn-2oIJj2CJEjeF"
     }
   }
 ]
