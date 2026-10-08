@@ -1,5 +1,39 @@
 [
   {
+    "title": "FIA introducing measures to avoid ‘software bug’ chaos repeat",
+    "url": "https://www.skysports.com/f1/news/12040/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
+    "summary": "The FIA will introduce further changes to wet-weather engine software from the United States Grand Prix after completing a review into the \"software bug\" that further delayed the start of last week's rain-hit race in Malaysia.",
+    "published": "Thu, 08 Oct 2026 10:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-2026-bahrain-gp_7367708.jpg?20261004084949",
+    "media_type": "image/jpg",
+    "arabic_title": "يتخذ الاتحاد الدولي للسيارات تدابير لتجنب تكرار فوضى \"الأخطاء البرمجية\".",
+    "arabic_summary": "سيُجري الاتحاد الدولي للسيارات المزيد من التغييرات على برمجيات المحركات في الطقس الرطب من جائزة الولايات المتحدة الكبرى بعد الانتهاء من مراجعة \"الخلل البرمجي\" الذي أدى إلى تأخير انطلاق السباق الأسبوع الماضي تحت الأمطار في ماليزيا.",
+    "translation_status": "translated",
+    "post_title": "يتخذ الاتحاد الدولي للسيارات تدابير لتجنب تكرار فوضى \"الأخطاء البرمجية\".",
+    "post_text": "🚨 يتخذ الاتحاد الدولي للسيارات تدابير لتجنب تكرار فوضى \"الأخطاء البرمجية\".\n\n📝 سيُجري الاتحاد الدولي للسيارات المزيد من التغييرات على برمجيات المحركات في الطقس الرطب من جائزة الولايات المتحدة الكبرى بعد الانتهاء من مراجعة \"الخلل البرمجي\" الذي أدى إلى تأخير انطلاق السباق الأسبوع الماضي تحت الأمطار في ماليزيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072360832095894",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتخذ_الاتحاد_الدولي_للسيارات_تدابير_لتجنب_تكرار_فوضى_الأخطاء_البرمجية..png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvrAwLbE1ZTKFC6T6zJSHN8"
+    }
+  },
+  {
     "title": "De la Barrera mira a la cantera ante los problemas en el primer equipo",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/08/barrera-mira-cantera-problemas-primer-equipo.html",
     "summary": "Ante los problemas en el primer equipo, el gallego ya ha hecho debutar a tres 'platanitos' y le ha dado continuidad a Pezzolesi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AltN-5wPgGgBabAeVTnadK6"
-    }
-  },
-  {
-    "title": "'Brilliant final on our hands!' - Will Humphries or Price lift World Grand Prix trophy?",
-    "url": "https://www.skysports.com/darts/live-blog/12040/13594769/world-grand-prix-darts-semi-finals-live-gerwyn-price-takes-on-nathan-aspinall-before-luke-humphries-plays-james-wade-at-mattioli-arena-in-leicester",
-    "summary": "",
-    "published": "Sun, 04 Oct 2026 00:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/02/1920x1080/skysports-premier-league-darts-2026_7154460.jpg?20260203141311",
-    "media_type": "image/jpg",
-    "arabic_title": "\"نهائي رائع بين أيدينا!\" - هل سيرفع همفريز أو برايس كأس الجائزة الكبرى العالمي؟",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "\"نهائي رائع بين أيدينا!\" - هل سيرفع همفريز أو برايس كأس الجائزة الكبرى العالمي؟",
-    "post_text": "🚨 \"نهائي رائع بين أيدينا!\" - هل سيرفع همفريز أو برايس كأس الجائزة الكبرى العالمي؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068650105800300",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نهائي_رائع_بين_أيدينا!_-_هل_سيرفع_همفريز_أو_برايس_كأس_الجائزة_الكبرى_العالمي؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/live-blog/12040/13594769/world-grand-prix-darts-semi-finals-live-gerwyn-price-takes-on-nathan-aspinall-before-luke-humphries-plays-james-wade-at-mattioli-arena-in-leicester",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Anw_46rMV1GBmmQdkySS9qC"
     }
   }
 ]
