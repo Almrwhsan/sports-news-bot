@@ -1,5 +1,39 @@
 [
   {
+    "title": "La Fundación Atlético de Madrid celebra la gala de los I Premios ADN Rojiblanco",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/08/fundacion-atletico-madrid-celebra-gala-i-premios-adn-rojiblanco.html",
+    "summary": "Enrique Cerezo, así como de Simeone, Koke, Johnny Cardoso, Alexander Sørloth, Lola Gallardo y Rosa Otermín, presentes en el acto",
+    "published": "Thu, 08 Oct 2026 07:55:25 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac72f5eda86b.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تحتفل مؤسسة أتلتيكو مدريد بحفل توزيع جوائز ADN Rojiblanco الأول",
+    "arabic_summary": "إنريكي سيريزو، بالإضافة إلى سيميوني وكوكي وجوني كاردوسو وألكسندر سورلوث ولولا جالاردو وروزا أوتيرمين، حاضرون في الحدث",
+    "translation_status": "translated",
+    "post_title": "تحتفل مؤسسة أتلتيكو مدريد بحفل توزيع جوائز ADN Rojiblanco الأول",
+    "post_text": "🚨 تحتفل مؤسسة أتلتيكو مدريد بحفل توزيع جوائز ADN Rojiblanco الأول\n\n📝 إنريكي سيريزو، بالإضافة إلى سيميوني وكوكي وجوني كاردوسو وألكسندر سورلوث ولولا جالاردو وروزا أوتيرمين، حاضرون في الحدث\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072235568775087",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تحتفل_مؤسسة_أتلتيكو_مدريد_بحفل_توزيع_جوائز_ADN_Rojiblanco_الأول.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/08/fundacion-atletico-madrid-celebra-gala-i-premios-adn-rojiblanco.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9gP5U5SIACIE_QoZwGrKJM"
+    }
+  },
+  {
     "title": "Iñigo: “El Bernabéu es un escenario perfecto para exponernos y mostrarnos”",
     "url": "https://as.com/futbol/primera/inigo-el-bernabeu-es-un-escenario-perfecto-para-exponernos-y-mostrarnos-f202610-n/",
     "summary": "El técnico del Villarreal admite que tendrán que “perder el miedo” para intentar tumbar al Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlF8TxLpBaV-ipTsPEZCCWd"
-    }
-  },
-  {
-    "title": "'STUNNING first half!' - Wakefield dominating Warrington in Grand Final",
-    "url": "https://www.skysports.com/watch/video/13594803/rugby-league-wakefield-double-their-lead-in-grand-final",
-    "summary": "Wakefield score two quick-fire tries to take complete control in the Grand Final.",
-    "published": "Sat, 03 Oct 2026 18:36:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-trinty-try_7367457.jpg?20261003185257",
-    "media_type": "image/jpg",
-    "arabic_title": "\"الشوط الأول مذهل!\" - ويكفيلد يهيمن على وارينغتون في النهائي الكبير",
-    "arabic_summary": "يسجل ويكفيلد محاولتين سريعتين للسيطرة الكاملة على النهائي الكبير.",
-    "translation_status": "translated",
-    "post_title": "\"الشوط الأول مذهل!\" - ويكفيلد يهيمن على وارينغتون في النهائي الكبير",
-    "post_text": "🚨 \"الشوط الأول مذهل!\" - ويكفيلد يهيمن على وارينغتون في النهائي الكبير\n\n📝 يسجل ويكفيلد محاولتين سريعتين للسيطرة الكاملة على النهائي الكبير.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068213399177304",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الشوط_الأول_مذهل!_-_ويكفيلد_يهيمن_على_وارينغتون_في_النهائي_الكبير.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13594803/rugby-league-wakefield-double-their-lead-in-grand-final",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxunAv2Jmv0zJhYqPfevpi4"
     }
   }
 ]
