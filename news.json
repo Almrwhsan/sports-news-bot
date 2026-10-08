@@ -1,5 +1,39 @@
 [
   {
+    "title": "Aubameyang: “Es la primera vez en mi carrera que me lesiono más de diez días”",
+    "url": "https://www.marca.com/futbol/deportivo/2026/10/08/aubameyang-primera-vez-mi-carrera-me-lesiono-mas-diez-dias.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Thu, 08 Oct 2026 13:37:29 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac77f0079631.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أوباميانج: \"إنها المرة الأولى في مسيرتي التي أتعرض فيها للإصابة منذ أكثر من عشرة أيام\"",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "أوباميانج: \"إنها المرة الأولى في مسيرتي التي أتعرض فيها للإصابة منذ أكثر من عشرة أيام\"",
+    "post_text": "🚨 أوباميانج: \"إنها المرة الأولى في مسيرتي التي أتعرض فيها للإصابة منذ أكثر من عشرة أيام\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072617058736938",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوباميانج_إنها_المرة_الأولى_في_مسيرتي_التي_أتعرض_فيها_للإصابة_منذ_أكثر_من_عشرة_أ.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/deportivo/2026/10/08/aubameyang-primera-vez-mi-carrera-me-lesiono-mas-diez-dias.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXRRnTkZghdMpDeGowp6tQK"
+    }
+  },
+  {
     "title": "Brasil es una trituradora",
     "url": "https://as.com/futbol/internacional/brasil-es-una-trituradora-f202610-n/",
     "summary": "En lo que va de temporada en el Brasileirão, hasta 19 entrenadores han sido destituidos de sus respectivos cargos. El útimo ha sio Fernando Diniz.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ao3U2UsDODaOJGdLQMEStWh"
-    }
-  },
-  {
-    "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
-    "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-    "summary": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-    "published": "Fri, 04 Sep 2026 09:31:21 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc7e/live/695b4a80-a70d-11f1-adb7-ad73f5f76a76.jpg",
-    "media_type": null,
-    "arabic_title": "73 هدفًا من العمق - نطلب من كين أن يشرح لنا كيف فعل ذلك",
-    "arabic_summary": "كان هاري كين أفضل هداف في أوروبا الموسم الماضي، لكنه يلعب كلاعب خط وسط. نطلب منه أن يكسر لعبته.",
-    "translation_status": "translated",
-    "post_title": "73 هدفًا من العمق - نطلب من كين أن يشرح لنا كيف فعل ذلك",
-    "post_text": "🚨 73 هدفًا من العمق - نطلب من كين أن يشرح لنا كيف فعل ذلك\n\n📝 كان هاري كين أفضل هداف في أوروبا الموسم الماضي، لكنه يلعب كلاعب خط وسط. نطلب منه أن يكسر لعبته.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068971392434838",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/73_هدفًا_من_العمق_-_نطلب_من_كين_أن_يشرح_لنا_كيف_فعل_ذلك.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVoFQAc3ve9F-N3xpk37pEn"
     }
   }
 ]
