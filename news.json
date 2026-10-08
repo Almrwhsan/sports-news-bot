@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Barcelona quiere al 'Rey' coronado por Arbeloa en Inglaterra: Josh King un medio de 19 años y 60 millones",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/08/barcelona-quiera-rey-coronado-arbeloa-inglaterra.html",
+    "summary": "Josh King, centrocampista de 19 años del Fulham, maravilla a los ojeadores del F.C. Barcelona",
+    "published": "Thu, 08 Oct 2026 09:28:25 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac745de8750d.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "برشلونة يريد تتويج أربيلوا بالملك في إنجلترا: جوش كينج لاعب خط الوسط البالغ من العمر 19 عامًا و60 مليونًا",
+    "arabic_summary": "جوش كينغ، لاعب خط وسط فولهام البالغ من العمر 19 عامًا، يُذهل نادي إف سي. الكشافة. برشلونة",
+    "translation_status": "translated",
+    "post_title": "برشلونة يريد تتويج أربيلوا بالملك في إنجلترا: جوش كينج لاعب خط الوسط البالغ من العمر 19 عامًا و60 مليونًا",
+    "post_text": "🚨 برشلونة يريد تتويج أربيلوا بالملك في إنجلترا: جوش كينج لاعب خط الوسط البالغ من العمر 19 عامًا و60 مليونًا\n\n📝 جوش كينغ، لاعب خط وسط فولهام البالغ من العمر 19 عامًا، يُذهل نادي إف سي. الكشافة. برشلونة\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072342442097733",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_يريد_تتويج_أربيلوا_بالملك_في_إنجلترا_جوش_كينج_لاعب_خط_الوسط_البالغ_من_ال.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/08/barcelona-quiera-rey-coronado-arbeloa-inglaterra.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aj3dmPHtZeyxmkgrZGpnuZg"
+    }
+  },
+  {
     "title": "Robbie Ure, la cuenta pendiente del ataque del Sevilla",
     "url": "https://www.marca.com/futbol/sevilla/2026/10/08/robbie-ure-cuenta-pendiente-ataque-sevilla.html",
     "summary": "El escocés es el único delantero que todavía no ha visto puerta en lo que va de curso",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AmJV18-eJlDTnw6qT6KeJD5"
-    }
-  },
-  {
-    "title": "El Atlético abre su mercado",
-    "url": "https://as.com/futbol/primera/el-atletico-abre-su-mercado-f202610-n/",
-    "summary": "Jonathan David es el primer internacional canadiense de su historia. Kang-in Lee, estrella en Corea del Sur. Cardoso, Hancko, Oblak, Sorloth... casos únicos.",
-    "published": "Sun, 04 Oct 2026 08:10:28 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/EVRWBCGAGJO3LER2VIUF4OUAE4.jpg?auth=4d34d5f1979a889424c6f6d23e3bfdc151aa8bd01ce853a391577050f48289ad",
-    "media_type": "image/jpeg",
-    "arabic_title": "أتلتيكو يفتح سوقه",
-    "arabic_summary": "جوناثان ديفيد هو أول لاعب كندي دولي في تاريخه. كانج إن لي، نجم كوريا الجنوبية. كاردوسو، هانكو، أوبلاك، سورلوث... حالات فريدة من نوعها.",
-    "translation_status": "translated",
-    "post_title": "أتلتيكو يفتح سوقه",
-    "post_text": "🚨 أتلتيكو يفتح سوقه\n\n📝 جوناثان ديفيد هو أول لاعب كندي دولي في تاريخه. كانج إن لي، نجم كوريا الجنوبية. كاردوسو، هانكو، أوبلاك، سورلوث... حالات فريدة من نوعها.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068557229142921",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_يفتح_سوقه.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-atletico-abre-su-mercado-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApjUOBf7hl9gcuvVgDedQ8U"
     }
   }
 ]
