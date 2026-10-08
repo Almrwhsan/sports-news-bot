@@ -1,5 +1,39 @@
 [
   {
+    "title": "Barrios, un techo infinito",
+    "url": "https://as.com/futbol/primera/barrios-un-techo-infinito-f202610-n/",
+    "summary": "El canterano alcanza los 70 millones de cotización. Solo las lesiones le frenan. Aspira a ser el primer ascenso desde la cantera en llegar a los 100.",
+    "published": "Thu, 08 Oct 2026 04:44:04 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IZPEU4DYGBGEDMWDS2HUFHM2NY.jpg?auth=b51c024276b6d5241035bc9812beb3a54880cad4b316c3067590f0f63ffcd0bc",
+    "media_type": "image/jpeg",
+    "arabic_title": "الأحياء، سقف لا نهاية له",
+    "arabic_summary": "وتصل مساهمة اللاعب الشاب إلى 70 مليونًا. فقط الإصابات تبطئه. يطمح أن يكون أول ترقية من المحجر تصل إلى 100.",
+    "translation_status": "translated",
+    "post_title": "الأحياء، سقف لا نهاية له",
+    "post_text": "🚨 الأحياء، سقف لا نهاية له\n\n📝 وتصل مساهمة اللاعب الشاب إلى 70 مليونًا. فقط الإصابات تبطئه. يطمح أن يكون أول ترقية من المحجر تصل إلى 100.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071964942135483",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأحياء،_سقف_لا_نهاية_له.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/barrios-un-techo-infinito-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A412j6Pi97_lOS_jpjccH4n"
+    }
+  },
+  {
     "title": "El futuro del fútbol pasa por Berlín",
     "url": "https://as.com/futbol/internacional/el-futuro-del-futbol-pasa-por-berlin-f202610-n/",
     "summary": "La reunión de Berlín pone sobre la mesa el futuro de las competiciones y la búsqueda de una alternativa europea a Gianni Infantino en las elecciones a la presidencia de la FIFA.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8iur3emgBNaklcbI5-7fEx"
-    }
-  },
-  {
-    "title": "Alta Tensión en la vuelta a Vallecas",
-    "url": "https://as.com/futbol/primera/vallecas-clama-contra-presa-en-el-regreso-del-rayo-a-su-estadio-f202610-n/",
-    "summary": "Hubo varias pancartas, cánticos... La megafonía pidió calma y el presidente no se sentó hasta la segunda parte en el palco, que había sido vandalizado.",
-    "published": "Sat, 03 Oct 2026 13:30:19 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/J3GV7GSJCVP7XD3KW7LSHXHQJU.jpg?auth=2e59e936c898504a49b0dc5e456953e7d77764ec8fb7edcf61841c6b80bc8889",
-    "media_type": "image/jpeg",
-    "arabic_title": "توتر شديد عند العودة إلى فاليكاس",
-    "arabic_summary": "وكانت هناك عدة لافتات وهتافات... نظام الخطابات العامة يدعو إلى الهدوء ولم يجلس الرئيس حتى الشوط الثاني في الصندوق الذي تعرض للتخريب.",
-    "translation_status": "translated",
-    "post_title": "توتر شديد عند العودة إلى فاليكاس",
-    "post_text": "🚨 توتر شديد عند العودة إلى فاليكاس\n\n📝 وكانت هناك عدة لافتات وهتافات... نظام الخطابات العامة يدعو إلى الهدوء ولم يجلس الرئيس حتى الشوط الثاني في الصندوق الذي تعرض للتخريب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068018049196839",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توتر_شديد_عند_العودة_إلى_فاليكاس.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/vallecas-clama-contra-presa-en-el-regreso-del-rayo-a-su-estadio-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ak3Z9GVwQuW3gBBpFVbOfn_"
     }
   }
 ]
