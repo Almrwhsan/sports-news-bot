@@ -1,5 +1,39 @@
 [
   {
+    "title": "Endrick, opción Milan",
+    "url": "https://as.com/futbol/primera/endrick-opcion-milan-f202610-n/",
+    "summary": "El conjunto italiano se posiciona con fuerza en la lucha por conseguir la cesión del brasileño del Real Madrid en enero.",
+    "published": "Thu, 08 Oct 2026 10:59:27 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NYOQH5RKTRCVHA5UUUBO4TJPIU.jpg?auth=3d38ff7318e6431c77e1f1ebd6534ebcd847c3a9ca737aabc545b37c846aaf4f",
+    "media_type": "image/jpeg",
+    "arabic_title": "إندريك، خيار ميلان",
+    "arabic_summary": "ويتواجد الفريق الإيطالي بقوة في المعركة للحصول على إعارة البرازيلي من ريال مدريد في يناير المقبل.",
+    "translation_status": "translated",
+    "post_title": "إندريك، خيار ميلان",
+    "post_text": "🚨 إندريك، خيار ميلان\n\n📝 ويتواجد الفريق الإيطالي بقوة في المعركة للحصول على إعارة البرازيلي من ريال مدريد في يناير المقبل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072188778779766",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إندريك،_خيار_ميلان.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/endrick-opcion-milan-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AT0EQlbezEksuUdYoojVI3Q"
+    }
+  },
+  {
     "title": "La lección de Esquivel: “Ojalá no haber tenido que vivir estas experiencias...”",
     "url": "https://as.com/futbol/primera/la-leccion-de-esquivel-ojala-no-haber-tenido-que-vivir-estas-experiencias-f202610-n/",
     "summary": "Con ficha de la primera plantilla, no ha jugado con el Atlético, pero es titular con la Sub-21. Repasa la taquicardia y la rotura de ligamento.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AiVm04jLxZB7fUgWZXGVfXg"
-    }
-  },
-  {
-    "title": "La Sub-18 gana el ‘mini’ Mundial",
-    "url": "https://as.com/futbol/seleccion/la-sub-18-gana-el-mini-mundial-f202610-n/",
-    "summary": "España vence a Inglaterra en la final de la Friendship Cup, el torneo amistoso previo al Mundial Sub-17 en el que superó a Brasil, Arabia Saudí y Costa de Marfil",
-    "published": "Sat, 03 Oct 2026 16:56:57 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261003/1221495_172435_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "منتخب تحت 18 سنة يفوز بكأس العالم \"المصغرة\".",
-    "arabic_summary": "إسبانيا تهزم إنجلترا في نهائي كأس الصداقة، وهي البطولة الودية التي تسبق كأس العالم تحت 17 سنة والتي فازت فيها على البرازيل والمملكة العربية السعودية وساحل العاج.",
-    "translation_status": "translated",
-    "post_title": "منتخب تحت 18 سنة يفوز بكأس العالم \"المصغرة\".",
-    "post_text": "🚨 منتخب تحت 18 سنة يفوز بكأس العالم \"المصغرة\".\n\n📝 إسبانيا تهزم إنجلترا في نهائي كأس الصداقة، وهي البطولة الودية التي تسبق كأس العالم تحت 17 سنة والتي فازت فيها على البرازيل والمملكة العربية السعودية وساحل العاج.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068170382514939",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/منتخب_تحت_18_سنة_يفوز_بكأس_العالم_المصغرة..png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ACgZkGgYitQQ0t8dcnPK2rx"
     }
   }
 ]
