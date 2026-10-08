@@ -1,5 +1,39 @@
 [
   {
+    "title": "Entradón para recibir el sábado a los colchoneros",
+    "url": "https://as.com/futbol/entradon-para-recibir-el-sabado-a-los-colchoneros-f202610-n/",
+    "summary": "Lo lógico es que se llene el estadio de Mendizorroza, que cuenta con un aforo oficial de 19.840 asientos actualmente",
+    "published": "Thu, 08 Oct 2026 15:05:25 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SLSAWQAZ3ZA4BLVKAVGFK4J6HA.jpeg?auth=a3f7f9a2d5faaa99e2d4ea40d7c3de8aca2999563434dcd26013a3ce34adf1e0",
+    "media_type": "image/jpeg",
+    "arabic_title": "تذكرة لاستقبال colchoneros يوم السبت",
+    "arabic_summary": "والأمر المنطقي هو أن ملعب مينديزوروزا، الذي تبلغ سعته الرسمية حاليا 19840 مقعدا، ممتلئ.",
+    "translation_status": "translated",
+    "post_title": "تذكرة لاستقبال colchoneros يوم السبت",
+    "post_text": "🚨 تذكرة لاستقبال colchoneros يوم السبت\n\n📝 والأمر المنطقي هو أن ملعب مينديزوروزا، الذي تبلغ سعته الرسمية حاليا 19840 مقعدا، ممتلئ.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072560715409239",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تذكرة_لاستقبال_colchoneros_يوم_السبت.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/entradon-para-recibir-el-sabado-a-los-colchoneros-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ac1skUudk-GvzAL-rfgpMOl"
+    }
+  },
+  {
     "title": "El Ceuta comienza a ver la luz al final del túnel",
     "url": "https://www.marca.com/futbol/ceuta/2026/10/08/ceuta-comienza-ver-luz-final-tunel.html",
     "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFmexXZJGGNx1Z6mP-kZqDm"
-    }
-  },
-  {
-    "title": "FIA explain 'unprecedented' glitch that caused Bahrain GP start chaos",
-    "url": "https://www.skysports.com/f1/news/12040/13594864/fia-explain-unprecedented-glitch-that-caused-bahrain-gp-in-malaysia-start-chaos-on-formation-laps",
-    "summary": "The FIA revealed an &#8220;unprecedented&#8221; glitch caused several cars to stop in the chaotic start to the Bahrain Grand Prix in Malaysia.",
-    "published": "Sun, 04 Oct 2026 15:10:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7368017.jpg?20261004145715",
-    "media_type": "image/jpg",
-    "arabic_title": "الاتحاد الدولي للسيارات يشرح الخلل \"غير المسبوق\" الذي تسبب في حدوث فوضى في سباق البحرين",
-    "arabic_summary": "كشف الاتحاد الدولي للسيارات عن خلل \"غير مسبوق\" تسبب في توقف العديد من السيارات خلال البداية الفوضوية لسباق جائزة البحرين الكبرى في ماليزيا.",
-    "translation_status": "translated",
-    "post_title": "الاتحاد الدولي للسيارات يشرح الخلل \"غير المسبوق\" الذي تسبب في حدوث فوضى في سباق البحرين",
-    "post_text": "🚨 الاتحاد الدولي للسيارات يشرح الخلل \"غير المسبوق\" الذي تسبب في حدوث فوضى في سباق البحرين\n\n📝 كشف الاتحاد الدولي للسيارات عن خلل \"غير مسبوق\" تسبب في توقف العديد من السيارات خلال البداية الفوضوية لسباق جائزة البحرين الكبرى في ماليزيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068907912441186",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الاتحاد_الدولي_للسيارات_يشرح_الخلل_غير_المسبوق_الذي_تسبب_في_حدوث_فوضى_في_سباق_ال.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13594864/fia-explain-unprecedented-glitch-that-caused-bahrain-gp-in-malaysia-start-chaos-on-formation-laps",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Av86umKNtW6j-MTS5GJoVcy"
     }
   }
 ]
