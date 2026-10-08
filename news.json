@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un exjugador y exayudante de Pep se niega a hablar de los problemas del City",
+    "url": "https://www.marca.com/futbol/premier-league/2026/10/08/exjugador-exayudante-pep-niega-hablar-problemas-city-video.html",
+    "summary": "",
+    "published": "Thu, 08 Oct 2026 09:00:30 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/fdups1gnpy7YwURzJ.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لاعب سابق ومساعد سابق لبيب يرفض الحديث عن مشاكل السيتي",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "لاعب سابق ومساعد سابق لبيب يرفض الحديث عن مشاكل السيتي",
+    "post_text": "🚨 لاعب سابق ومساعد سابق لبيب يرفض الحديث عن مشاكل السيتي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072260738772570",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لاعب_سابق_ومساعد_سابق_لبيب_يرفض_الحديث_عن_مشاكل_السيتي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/08/exjugador-exayudante-pep-niega-hablar-problemas-city-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AbznBZDU9LFzHYSSof1VrGO"
+    }
+  },
+  {
     "title": "Daniel Riolo: \"No descartemos una salida de Mbappé (del Real Madrid) al final de la temporada\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/08/daniel-riolo-descartemos-salida-mbappe-real-madrid-final-temporada-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjQCrkgNbpcxR3idrL5Ch2q"
-    }
-  },
-  {
-    "title": "Seventh heaven for England as Croatia thrashed in stunning win",
-    "url": "https://www.skysports.com/football/croatia-vs-england/report/554052",
-    "summary": "England produced a dominant performance that will live long in the memory to defeat Croatia 7-0 in their Nations League tie in Rijeka.",
-    "published": "Sat, 03 Oct 2026 19:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-kane-bellingham-saka_7367405.jpg?20261003174940",
-    "media_type": "image/jpg",
-    "arabic_title": "السماء السابعة لإنجلترا حيث سحقت كرواتيا بفوز مذهل",
-    "arabic_summary": "قدمت إنجلترا أداءً مهيمناً سيعيش طويلاً في الذاكرة لتهزم كرواتيا 7-0 في مباراة دوري الأمم الأوروبية في رييكا.",
-    "translation_status": "translated",
-    "post_title": "السماء السابعة لإنجلترا حيث سحقت كرواتيا بفوز مذهل",
-    "post_text": "🚨 السماء السابعة لإنجلترا حيث سحقت كرواتيا بفوز مذهل\n\n📝 قدمت إنجلترا أداءً مهيمناً سيعيش طويلاً في الذاكرة لتهزم كرواتيا 7-0 في مباراة دوري الأمم الأوروبية في رييكا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068234255841885",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/السماء_السابعة_لإنجلترا_حيث_سحقت_كرواتيا_بفوز_مذهل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/croatia-vs-england/report/554052",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARIumlNXkjVL0ypkBl6IhQB"
     }
   }
 ]
