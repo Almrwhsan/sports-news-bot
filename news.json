@@ -1,5 +1,39 @@
 [
   {
+    "title": "El particular homenaje por parte de la Selección a Pedro, uno de los héroes de 2010",
+    "url": "https://www.marca.com/futbol/seleccion/2026/10/08/particular-homenaje-parte-seleccion-pedro-heroes-2010-video.html",
+    "summary": "",
+    "published": "Thu, 08 Oct 2026 09:15:33 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/fdw5U1gnqAwyYx2SV.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تكريم خاص من الفريق الوطني لبيدرو، أحد أبطال عام 2010",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "تكريم خاص من الفريق الوطني لبيدرو، أحد أبطال عام 2010",
+    "post_text": "🚨 تكريم خاص من الفريق الوطني لبيدرو، أحد أبطال عام 2010\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072306728767971",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تكريم_خاص_من_الفريق_الوطني_لبيدرو،_أحد_أبطال_عام_2010.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/08/particular-homenaje-parte-seleccion-pedro-heroes-2010-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYyvHIT2ubD16wmr7f8m8EK"
+    }
+  },
+  {
     "title": "Mourinho, sobre la polémica entre Vinicius y Prestianni: “Fui víctima de la opinión pública, hubo muchos oportunistas”",
     "url": "https://as.com/futbol/primera/mourinho-sobre-la-polemica-entre-vinicius-y-prestianni-fui-victima-de-la-opinion-publica-hubo-muchos-oportunistas-f202610-n/",
     "summary": "El técnico portugués del Real Madrid ha concedido una entrevista ‘Corriere dello Sport’ en la que respasa su trayectoria y analiza situaciones como la de Prestianni y Vinicius.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1RUGmmYx5qojxo3cFqhRsm"
-    }
-  },
-  {
-    "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
-    "published": "Fri, 02 Oct 2026 22:30:24 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/fcba9170-bdbd-11f1-b7d8-31573a2bd831.jpg",
-    "media_type": null,
-    "arabic_title": "ما هي الأندية التي تدفقت عليها أموال مانشستر سيتي \"المتضخمة\" في سوق الانتقالات؟",
-    "arabic_summary": "تتابع بي بي سي سبورت مسار تدفق أموال التحويلات إلى الأندية الأخرى خلال فترة انتهاك القواعد المالية لمانشستر سيتي.",
-    "translation_status": "translated",
-    "post_title": "ما هي الأندية التي تدفقت عليها أموال مانشستر سيتي \"المتضخمة\" في سوق الانتقالات؟",
-    "post_text": "🚨 ما هي الأندية التي تدفقت عليها أموال مانشستر سيتي \"المتضخمة\" في سوق الانتقالات؟\n\n📝 تتابع بي بي سي سبورت مسار تدفق أموال التحويلات إلى الأندية الأخرى خلال فترة انتهاك القواعد المالية لمانشستر سيتي.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068551602476817",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هي_الأندية_التي_تدفقت_عليها_أموال_مانشستر_سيتي_المتضخمة_في_سوق_الانتقالات؟.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A78ep911c2VHo14pCb7o-y7"
     }
   }
 ]
