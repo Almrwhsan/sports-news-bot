@@ -1,5 +1,39 @@
 [
   {
+    "title": "Iñigo: “El Bernabéu es un escenario perfecto para exponernos y mostrarnos”",
+    "url": "https://as.com/futbol/primera/inigo-el-bernabeu-es-un-escenario-perfecto-para-exponernos-y-mostrarnos-f202610-n/",
+    "summary": "El técnico del Villarreal admite que tendrán que “perder el miedo” para intentar tumbar al Madrid.",
+    "published": "Thu, 08 Oct 2026 12:00:02 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RNIS3S4UKFB3LBBKJ2Y7US43LU.jpg?auth=a5d4e03e59ed9d9d7d62da352595234b6e5e730d67560185c5184b2653585f97",
+    "media_type": "image/jpeg",
+    "arabic_title": "إينييغو: \"البرنابيو هو المكان المثالي للكشف عن أنفسنا وإظهار أنفسنا\"",
+    "arabic_summary": "يعترف مدرب فياريال بأنه سيتعين عليهم \"التخلص من خوفهم\" لمحاولة إسقاط مدريد.",
+    "translation_status": "translated",
+    "post_title": "إينييغو: \"البرنابيو هو المكان المثالي للكشف عن أنفسنا وإظهار أنفسنا\"",
+    "post_text": "🚨 إينييغو: \"البرنابيو هو المكان المثالي للكشف عن أنفسنا وإظهار أنفسنا\"\n\n📝 يعترف مدرب فياريال بأنه سيتعين عليهم \"التخلص من خوفهم\" لمحاولة إسقاط مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072231872108790",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إينييغو_البرنابيو_هو_المكان_المثالي_للكشف_عن_أنفسنا_وإظهار_أنفسنا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/inigo-el-bernabeu-es-un-escenario-perfecto-para-exponernos-y-mostrarnos-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AC4vMEyn_LmnDFkX2PHZO0i"
+    }
+  },
+  {
     "title": "Mijatovic advierte a Mbappé sobre su vida privada: \"Merece la pena tener más cuidado\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/08/mijatovic-advierte-mbappe-sobre-vida-privada-merece-pena-mas-cuidado.html",
     "summary": "\"Se podría haber llevado un poco mejor, pero también tiene derecho a disfrutar sus días libres. Hay que tener cuidado\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxunAv2Jmv0zJhYqPfevpi4"
-    }
-  },
-  {
-    "title": "Cucurella explica por qué rinde mejor con la Selección que ahora con el Real Madrid",
-    "url": "https://as.com/futbol/videos/cucurella-explica-por-que-rinde-mejor-con-la-seleccion-que-ahora-con-el-real-madrid-f202610-v/",
-    "summary": "El lateral internacional madridista ha querido dar su valoración sobre sus últimos encuentros en el club y con España.",
-    "published": "Fri, 02 Oct 2026 18:42:25 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261002/1221266_181935_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "يشرح كوكوريلا لماذا يقدم أداءً أفضل مع المنتخب الوطني مقارنة به الآن مع ريال مدريد",
-    "arabic_summary": "أراد ظهير ريال مدريد الدولي تقديم تقييمه لمبارياته الأخيرة مع النادي ومع إسبانيا.",
-    "translation_status": "translated",
-    "post_title": "يشرح كوكوريلا لماذا يقدم أداءً أفضل مع المنتخب الوطني مقارنة به الآن مع ريال مدريد",
-    "post_text": "🚨 يشرح كوكوريلا لماذا يقدم أداءً أفضل مع المنتخب الوطني مقارنة به الآن مع ريال مدريد\n\n📝 أراد ظهير ريال مدريد الدولي تقديم تقييمه لمبارياته الأخيرة مع النادي ومع إسبانيا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068189262513051",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يشرح_كوكوريلا_لماذا_يقدم_أداءً_أفضل_مع_المنتخب_الوطني_مقارنة_به_الآن_مع_ريال_مدر.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6m-ut47qW9liMj6fMhc5zQ"
     }
   }
 ]
