@@ -1,5 +1,39 @@
 [
   {
+    "title": "Raphinha sigue al margen del equipo y apunta al banquillo",
+    "url": "https://as.com/futbol/raphinha-sigue-al-margen-del-equipo-y-apunta-al-banquillo-f202610-n/",
+    "summary": "Flick pudo preparar con todos los internacionales el encuentro ante el Getafe, pero el brasileño apunta al banquillo.",
+    "published": "Thu, 08 Oct 2026 11:12:52 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5OVEVTQOURECNPZV53V3HCZYBM.jpg?auth=6ab4ddcf9553d816c378c4593c26d63ec57af3feead0af2caabc9d7362f222ad",
+    "media_type": "image/jpeg",
+    "arabic_title": "ويبقى رافينيا على هامش الفريق ويجلس على مقاعد البدلاء",
+    "arabic_summary": "تمكن فليك من الاستعداد مع جميع اللاعبين الدوليين للمباراة ضد خيتافي، لكن البرازيلي يستهدف الجلوس على مقاعد البدلاء.",
+    "translation_status": "translated",
+    "post_title": "ويبقى رافينيا على هامش الفريق ويجلس على مقاعد البدلاء",
+    "post_text": "🚨 ويبقى رافينيا على هامش الفريق ويجلس على مقاعد البدلاء\n\n📝 تمكن فليك من الاستعداد مع جميع اللاعبين الدوليين للمباراة ضد خيتافي، لكن البرازيلي يستهدف الجلوس على مقاعد البدلاء.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072199755445335",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويبقى_رافينيا_على_هامش_الفريق_ويجلس_على_مقاعد_البدلاء.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/raphinha-sigue-al-margen-del-equipo-y-apunta-al-banquillo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AidxxbwGagU0HuN8ZnXS4L_"
+    }
+  },
+  {
     "title": "Endrick, opción Milan",
     "url": "https://as.com/futbol/primera/endrick-opcion-milan-f202610-n/",
     "summary": "El conjunto italiano se posiciona con fuerza en la lucha por conseguir la cesión del brasileño del Real Madrid en enero.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AboNiu-buE2VWbW7Wf27ko-"
-    }
-  },
-  {
-    "title": "Fiamma rescata al Atlético",
-    "url": "https://as.com/futbol/femenino/fiamma-rescata-al-atletico-f202610-n/",
-    "summary": "La alicantina marcó el gol de la victoria tras un gran pase de Alexia. Gio adelantó a las rojiblancas y Pizarro empató para el Depor.",
-    "published": "Sat, 03 Oct 2026 16:55:37 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/EY5XDOWTKZDMHPTEIHEUAUHOCU.jpg?auth=14d9b1ddbd983fdf5b63f78c6d6139197b1eb0108949b963f2b8cee38966f101",
-    "media_type": "image/jpeg",
-    "arabic_title": "عاد اللهب إلى أتلتيكو",
-    "arabic_summary": "سجلت المرأة من أليكانتي هدف الفوز بعد تمريرة رائعة من أليكسيا. وضع جيو الفريق الأحمر والأبيض في المقدمة وتعادل بيزارو لصالح ديبورتيفو.",
-    "translation_status": "translated",
-    "post_title": "عاد اللهب إلى أتلتيكو",
-    "post_text": "🚨 عاد اللهب إلى أتلتيكو\n\n📝 سجلت المرأة من أليكانتي هدف الفوز بعد تمريرة رائعة من أليكسيا. وضع جيو الفريق الأحمر والأبيض في المقدمة وتعادل بيزارو لصالح ديبورتيفو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068170349181609",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عاد_اللهب_إلى_أتلتيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/femenino/fiamma-rescata-al-atletico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AiVm04jLxZB7fUgWZXGVfXg"
     }
   }
 ]
