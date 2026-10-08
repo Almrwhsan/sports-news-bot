@@ -1,5 +1,39 @@
 [
   {
+    "title": "Iniciativa pionera del Alcorcón: invita a todos los vecinos de la ciudad al duelo ante el Ibiza",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/10/09/iniciativa-pionera-alcorcon-invita-todos-vecinos-ciudad-duelo-ibiza.html",
+    "summary": "El club pone en marcha el proyecto ‘Alcorcón Para Todos’",
+    "published": "Fri, 09 Oct 2026 00:36:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac81a86279dc.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مبادرة ألكوركون الرائدة: تدعو جميع سكان المدينة إلى المبارزة ضد إيبيزا",
+    "arabic_summary": "أطلق النادي مشروع \"Alcorcón Para Todos\".",
+    "translation_status": "translated",
+    "post_title": "مبادرة ألكوركون الرائدة: تدعو جميع سكان المدينة إلى المبارزة ضد إيبيزا",
+    "post_text": "🚨 مبادرة ألكوركون الرائدة: تدعو جميع سكان المدينة إلى المبارزة ضد إيبيزا\n\n📝 أطلق النادي مشروع \"Alcorcón Para Todos\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072656798732964",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبادرة_ألكوركون_الرائدة_تدعو_جميع_سكان_المدينة_إلى_المبارزة_ضد_إيبيزا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/10/09/iniciativa-pionera-alcorcon-invita-todos-vecinos-ciudad-duelo-ibiza.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQyqeq7PJyZpUYiYqUf7RuC"
+    }
+  },
+  {
     "title": "Tan sólo una semana de castigo para Álex Sola",
     "url": "https://www.marca.com/futbol/almeria/2026/10/08/semana-castigo-alex-sola.html",
     "summary": "El club confirma que el jugador volverá a la dinámica del primer equipo el próximo lunes tras cumplir la sanción disciplinaria",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYMxgd_bF4anh9gIyTx2qVW"
-    }
-  },
-  {
-    "title": "Un Betis de película se corona en Orlando",
-    "url": "https://as.com/futbol/mas_futbol/un-betis-de-pelicula-se-corona-en-orlando-f202610-n/",
-    "summary": "Jásper, con un doblete, lidera la remontada del equipo verdiblanco en la gran final ante River Plate.",
-    "published": "Sun, 04 Oct 2026 16:42:41 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261004/1221693_180019_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "فيلم بيتيس يتوج في أورلاندو",
-    "arabic_summary": "جاسبر، بثنائيته، يقود عودة الفريق الأخضر والأبيض في النهائي الكبير ضد ريفر بليت.",
-    "translation_status": "translated",
-    "post_title": "فيلم بيتيس يتوج في أورلاندو",
-    "post_text": "🚨 فيلم بيتيس يتوج في أورلاندو\n\n📝 جاسبر، بثنائيته، يقود عودة الفريق الأخضر والأبيض في النهائي الكبير ضد ريفر بليت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069064555758855",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيلم_بيتيس_يتوج_في_أورلاندو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AULiVndBATXnirNp35H5gWK"
     }
   }
 ]
