@@ -1,5 +1,39 @@
 [
   {
+    "title": "Guido ya está en Valencia tras participar en el homenaje a Messi",
+    "url": "https://as.com/futbol/guido-ya-esta-en-valencia-tras-participar-en-el-homenaje-a-messi-f202610-n/",
+    "summary": "El centrocampista está listo para jugar el próximo domingo, a las 21:00 horas, ante el Racing, en El Sardinero.",
+    "published": "Thu, 08 Oct 2026 07:46:51 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/EWEDA5LNKBI4BIJYOLWXO22VCY.jpg?auth=0a035afdb52bf3557780cf2a6a68720d9cca06d1c9bd056c3f6d5b51fd3a1679",
+    "media_type": "image/jpeg",
+    "arabic_title": "جويدو موجود بالفعل في فالنسيا بعد مشاركته في تكريم ميسي",
+    "arabic_summary": "وسيكون لاعب الوسط جاهزًا للعب يوم الأحد المقبل، الساعة 9:00 مساءً، ضد راسينغ، في إل ساردينيرو.",
+    "translation_status": "translated",
+    "post_title": "جويدو موجود بالفعل في فالنسيا بعد مشاركته في تكريم ميسي",
+    "post_text": "🚨 جويدو موجود بالفعل في فالنسيا بعد مشاركته في تكريم ميسي\n\n📝 وسيكون لاعب الوسط جاهزًا للعب يوم الأحد المقبل، الساعة 9:00 مساءً، ضد راسينغ، في إل ساردينيرو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072173045448006",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جويدو_موجود_بالفعل_في_فالنسيا_بعد_مشاركته_في_تكريم_ميسي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/guido-ya-esta-en-valencia-tras-participar-en-el-homenaje-a-messi-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Apca7PS7m5hN9OyGHnl-dmn"
+    }
+  },
+  {
     "title": "Messi, desde dentro: 21 años de amor, dolor y gloria con Argentina",
     "url": "https://as.com/futbol/internacional/messi-desde-dentro-21-anos-de-amor-dolor-y-gloria-con-argentina-f202610-r/",
     "summary": "Periodistas que llevan décadas siguiendo a la Albiceleste reconstruyen cómo Argentina cambió a Messi y Messi cambió a Argentina: del joven que “escuchaba mucho y hablaba poco” al capitán que encontró su propia forma de liderar.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFr92W4VtmOY_Kj4S8cemew"
-    }
-  },
-  {
-    "title": "La lección de Esquivel: “Ojalá no haber tenido que vivir estas experiencias...”",
-    "url": "https://as.com/futbol/primera/la-leccion-de-esquivel-ojala-no-haber-tenido-que-vivir-estas-experiencias-f202610-n/",
-    "summary": "Con ficha de la primera plantilla, no ha jugado con el Atlético, pero fue titular con la Sub-21 ante Finlandia. Apunta a titular frente a Rumanía.",
-    "published": "Sat, 03 Oct 2026 19:17:41 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/3BCYEZRYNFE7TN3TUDW6JQHR3Y.jpg?auth=cddefea10d1a5f3b98ab9198c10bf3ec5bed0579c73021aa7738e97c422fb64f",
-    "media_type": "image/jpeg",
-    "arabic_title": "درس إسكيفيل: \"أتمنى لو لم أضطر إلى عيش هذه التجارب...\"",
-    "arabic_summary": "مع سجل الفريق الأول، لم يلعب مع أتلتيكو، لكنه بدأ مع منتخب تحت 21 عامًا ضد فنلندا. يهدف إلى البدء ضد رومانيا.",
-    "translation_status": "translated",
-    "post_title": "درس إسكيفيل: \"أتمنى لو لم أضطر إلى عيش هذه التجارب...\"",
-    "post_text": "🚨 درس إسكيفيل: \"أتمنى لو لم أضطر إلى عيش هذه التجارب...\"\n\n📝 مع سجل الفريق الأول، لم يلعب مع أتلتيكو، لكنه بدأ مع منتخب تحت 21 عامًا ضد فنلندا. يهدف إلى البدء ضد رومانيا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068121112519866",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/درس_إسكيفيل_أتمنى_لو_لم_أضطر_إلى_عيش_هذه_التجارب....png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/la-leccion-de-esquivel-ojala-no-haber-tenido-que-vivir-estas-experiencias-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAhyA5O5y_j_moQTQ2D0yZH"
     }
   }
 ]
