@@ -1,5 +1,39 @@
 [
   {
+    "title": "Luís Castro apuesta por un niño de 14 años que puede batir un récord histórico de la Liga",
+    "url": "https://www.marca.com/futbol/levante/2026/10/08/luis-castro-miedo-apuesta-joven-14-anos.html",
+    "summary": "Este jueves entrenó Diego Moyano (generación 2012) con los 'mayores' y es la demostración de que el técnico portugués no mira el DNI: ya hizo debutar a Marc Santos, con 15 años",
+    "published": "Thu, 08 Oct 2026 11:15:38 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7320125223.r_d.1067-153-0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يراهن لويس كاسترو على صبي يبلغ من العمر 14 عامًا يمكنه تحطيم رقم قياسي تاريخي في الدوري",
+    "arabic_summary": "هذا الخميس، تدرب دييغو مويانو (جيل 2012) مع \"كبار السن\" وهذا دليل على أن المدرب البرتغالي لا ينظر إلى مدير الاستخبارات الوطنية: لقد أعطى بالفعل مارك سانتوس أول ظهور له، وهو في الخامسة عشرة من عمره.",
+    "translation_status": "translated",
+    "post_title": "يراهن لويس كاسترو على صبي يبلغ من العمر 14 عامًا يمكنه تحطيم رقم قياسي تاريخي في الدوري",
+    "post_text": "🚨 يراهن لويس كاسترو على صبي يبلغ من العمر 14 عامًا يمكنه تحطيم رقم قياسي تاريخي في الدوري\n\n📝 هذا الخميس، تدرب دييغو مويانو (جيل 2012) مع \"كبار السن\" وهذا دليل على أن المدرب البرتغالي لا ينظر إلى مدير الاستخبارات الوطنية: لقد أعطى بالفعل مارك سانتوس أول ظهور له، وهو في الخامسة عشرة من عمره.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072464492085528",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يراهن_لويس_كاسترو_على_صبي_يبلغ_من_العمر_14_عامًا_يمكنه_تحطيم_رقم_قياسي_تاريخي_في.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/levante/2026/10/08/luis-castro-miedo-apuesta-joven-14-anos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AKQ1HF2_SleDs965lMZKIam"
+    }
+  },
+  {
     "title": "Rabada misses out on South Africa side for first Test vs Australia",
     "url": "https://www.skysports.com/cricket/news/12040/13596471/south-africa-vs-australia-kagiso-rabada-misses-out-on-first-test-as-anrich-nortje-earns-surprise-recall",
     "summary": "South Africa fast bowler Kagiso Rabada misses out on &#8204;the first Test of the three-match series against Australia in Durban as he continues to recover from a hamstring injury suffered in June.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABJvUiT6u_do0XmbPIDtJi0"
-    }
-  },
-  {
-    "title": "Russell 'beyond disappointment' as Wolff 'massively annoyed' by engine failure",
-    "url": "https://www.skysports.com/f1/news/12040/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
-    "summary": "Mercedes boss Toto Wolff said he was \"massively annoyed\" after the late unreliability that delivered a potentially knock-out blow to George Russell's title hopes in the Bahrain Grand Prix.",
-    "published": "Sun, 04 Oct 2026 11:50:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-george-russell_7367102.jpg?20261004144736",
-    "media_type": "image/jpg",
-    "arabic_title": "راسل \"يتجاوز خيبة الأمل\" حيث كان وولف \"منزعجًا للغاية\" بسبب عطل المحرك",
-    "arabic_summary": "قال توتو وولف، رئيس فريق مرسيدس، إنه \"منزعج للغاية\" بعد عدم الموثوقية المتأخرة التي وجهت ضربة قاضية محتملة لآمال جورج راسل في الفوز بلقب جائزة البحرين الكبرى.",
-    "translation_status": "translated",
-    "post_title": "راسل \"يتجاوز خيبة الأمل\" حيث كان وولف \"منزعجًا للغاية\" بسبب عطل المحرك",
-    "post_text": "🚨 راسل \"يتجاوز خيبة الأمل\" حيث كان وولف \"منزعجًا للغاية\" بسبب عطل المحرك\n\n📝 قال توتو وولف، رئيس فريق مرسيدس، إنه \"منزعج للغاية\" بعد عدم الموثوقية المتأخرة التي وجهت ضربة قاضية محتملة لآمال جورج راسل في الفوز بلقب جائزة البحرين الكبرى.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068817425783568",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راسل_يتجاوز_خيبة_الأمل_حيث_كان_وولف_منزعجًا_للغاية_بسبب_عطل_المحرك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Acl0hW2J5_NqqtZ_tPI4GnH"
     }
   }
 ]
