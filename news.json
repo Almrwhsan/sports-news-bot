@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las 3 opciones para el ‘nuevo’ estadio del Rayo",
+    "url": "https://as.com/futbol/videos/las-3-opciones-para-el-nuevo-estadio-del-rayo-f202610-v/",
+    "summary": "¿Reformar Vallecas, construir un estadio propio en el Abroñigal o una tercera vía? Hablamos con Maite Martín sobre las tres alternativas que hay sobre la mesa para el futuro del estadio del Rayo Vallecano, quién decide y qué plazos se manejan.",
+    "published": "Thu, 08 Oct 2026 05:42:28 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261005/1222087_180733_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "الخيارات الثلاثة لملعب رايو \"الجديد\"",
+    "arabic_summary": "إصلاح فاليكاس، بناء ملعب خاص به في أبرونيجال أم طريق ثالث؟ لقد تحدثنا مع مايتي مارتن حول البدائل الثلاثة المطروحة على الطاولة لمستقبل ملعب رايو فايكانو، ومن الذي يقرر وما هي المواعيد النهائية التي سيتم التعامل معها.",
+    "translation_status": "translated",
+    "post_title": "الخيارات الثلاثة لملعب رايو \"الجديد\"",
+    "post_text": "🚨 الخيارات الثلاثة لملعب رايو \"الجديد\"\n\n📝 إصلاح فاليكاس، بناء ملعب خاص به في أبرونيجال أم طريق ثالث؟ لقد تحدثنا مع مايتي مارتن حول البدائل الثلاثة المطروحة على الطاولة لمستقبل ملعب رايو فايكانو، ومن الذي يقرر وما هي المواعيد النهائية التي سيتم التعامل معها.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1071999325465378",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الخيارات_الثلاثة_لملعب_رايو_الجديد.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjwLtaxOarBzriRe1o20ZHh"
+    }
+  },
+  {
     "title": "Why Bears genius has become one of NFL's most important figures",
     "url": "https://www.skysports.com/nfl/news/12040/13596088/ben-johnson-why-chicago-bears-mastermind-has-become-one-of-the-most-important-figures-in-the-nfl",
     "summary": "The NFL needs the Ben Johnsons of the world. The genius and the belligerence. The brainiac and the maniac.&#160;",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A32H9e-7myEhJ4X7_o5jhCu"
-    }
-  },
-  {
-    "title": "La final no nos la tienen que dar, si acaso nos la tendrían que quitar",
-    "url": "https://www.marca.com/futbol/opinion/2026/10/03/final-dar-acaso-tendrian-quitar.html",
-    "summary": "'Comprimidos', por Juan Ignacio Gallardo",
-    "published": "Sat, 03 Oct 2026 09:43:06 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/11/eKUw21geysjp0XlYS.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ليس عليهم أن يعطوها لنا في النهائي، إذا كان عليهم أن يأخذوها منا",
-    "arabic_summary": "\"مضغوط\"، بقلم خوان إجناسيو غالاردو",
-    "translation_status": "translated",
-    "post_title": "ليس عليهم أن يعطوها لنا في النهائي، إذا كان عليهم أن يأخذوها منا",
-    "post_text": "🚨 ليس عليهم أن يعطوها لنا في النهائي، إذا كان عليهم أن يأخذوها منا\n\n📝 \"مضغوط\"، بقلم خوان إجناسيو غالاردو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068055192526458",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليس_عليهم_أن_يعطوها_لنا_في_النهائي،_إذا_كان_عليهم_أن_يأخذوها_منا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/opinion/2026/10/03/final-dar-acaso-tendrian-quitar.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Af9MkhVrWr1hFXz2Vr88LiY"
     }
   }
 ]
