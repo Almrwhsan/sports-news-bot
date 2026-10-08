@@ -1,5 +1,39 @@
 [
   {
+    "title": "La BMV se queda con una sola pieza",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/08/bmv-queda-sola-pieza.html",
+    "summary": "Bellingham se ha convertido en la pieza más fiable de la BMV y en el punto de partida para la mejoría del Madrid de Mourinho",
+    "published": "Thu, 08 Oct 2026 09:59:22 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac4077ac0baf.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يتم ترك BMV بقطعة واحدة فقط",
+    "arabic_summary": "أصبح بيلينجهام القطعة الأكثر موثوقية في BMV ونقطة البداية لتحسين مدريد مورينيو",
+    "translation_status": "translated",
+    "post_title": "يتم ترك BMV بقطعة واحدة فقط",
+    "post_text": "🚨 يتم ترك BMV بقطعة واحدة فقط\n\n📝 أصبح بيلينجهام القطعة الأكثر موثوقية في BMV ونقطة البداية لتحسين مدريد مورينيو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072372595428051",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتم_ترك_BMV_بقطعة_واحدة_فقط.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/08/bmv-queda-sola-pieza.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aq90iEgWknTLJ4CQSZKJfaM"
+    }
+  },
+  {
     "title": "'Void of leaders' - The problems for bottom-side Spurs after winless start",
     "url": "https://www.skysports.com/football/news/12040/13596052/tottenham-sky-sports-special-podcast-tim-sherwood-and-michael-bridge-assess-spurs-problems-after-winless-start",
     "summary": "When Aston Villa went 1-0 up in north London, it felt inevitable that Tottenham would head into the international break winless in the Premier League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ALZbGnARBU8qgYOeIsvWfSf"
-    }
-  },
-  {
-    "title": "Bahrain GP: Reaction as Verstappen wins chaotic race and Russell suffers title blow LIVE!",
-    "url": "https://www.skysports.com/f1/live-blog/12040/13594553/f1-bahrain-gp-in-malaysia-live-race-updates-results-stream-highlights-from-16th-round-of-2026-formula-1-season-at-sepang",
-    "summary": "",
-    "published": "Sun, 04 Oct 2026 06:24:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7367803.jpg?20261004105058",
-    "media_type": "image/jpg",
-    "arabic_title": "جائزة البحرين الكبرى: رد فعل عندما فاز فيرشتابن بالسباق الفوضوي وتعرض راسل لضربة اللقب مباشرة!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "جائزة البحرين الكبرى: رد فعل عندما فاز فيرشتابن بالسباق الفوضوي وتعرض راسل لضربة اللقب مباشرة!",
-    "post_text": "🚨 جائزة البحرين الكبرى: رد فعل عندما فاز فيرشتابن بالسباق الفوضوي وتعرض راسل لضربة اللقب مباشرة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068665035798807",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جائزة_البحرين_الكبرى_رد_فعل_عندما_فاز_فيرشتابن_بالسباق_الفوضوي_وتعرض_راسل_لضربة_.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/live-blog/12040/13594553/f1-bahrain-gp-in-malaysia-live-race-updates-results-stream-highlights-from-16th-round-of-2026-formula-1-season-at-sepang",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9xt6S5CexvBnNvHEgTuSfH"
     }
   }
 ]
