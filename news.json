@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Ceuta comienza a ver la luz al final del túnel",
+    "url": "https://www.marca.com/futbol/ceuta/2026/10/08/ceuta-comienza-ver-luz-final-tunel.html",
+    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
+    "published": "Thu, 08 Oct 2026 12:37:05 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac771ec26cc6.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سبتة تبدأ في رؤية الضوء في نهاية النفق",
+    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته ضد ميرانديس",
+    "translation_status": "translated",
+    "post_title": "سبتة تبدأ في رؤية الضوء في نهاية النفق",
+    "post_text": "🚨 سبتة تبدأ في رؤية الضوء في نهاية النفق\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته ضد ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072539632078014",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سبتة_تبدأ_في_رؤية_الضوء_في_نهاية_النفق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/ceuta/2026/10/08/ceuta-comienza-ver-luz-final-tunel.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQNiM0YBFmLp3ifTc3xcPY7"
+    }
+  },
+  {
     "title": "El TAS, ante la decisión definitiva sobre el campeón de la Copa África 2025",
     "url": "https://www.marca.com/futbol/copa-africa/2026/10/08/tas-decision-definitiva-sobre-campeon-copa-africa-2025-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Av86umKNtW6j-MTS5GJoVcy"
-    }
-  },
-  {
-    "title": "Djokovic creates more history with epic Zverev win at China Open",
-    "url": "https://www.skysports.com/tennis/news/12040/13594880/china-open-novak-djokovic-keeps-unblemished-record-in-beijing-by-handing-alexander-zverev-a-rare-defeat",
-    "summary": "Novak Djokovic rolled back the years to defeat French Open and US Open champion Alexander Zverev 4-6 6-4 6-4 to reach the semi-finals of the China Open on Sunday.",
-    "published": "Sun, 04 Oct 2026 15:18:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-novak-djokovic-tennis_7368018.jpg?20261004145734",
-    "media_type": "image/jpg",
-    "arabic_title": "ديوكوفيتش يصنع المزيد من التاريخ بفوز ملحمي لزفيريف في بطولة الصين المفتوحة",
-    "arabic_summary": "استعاد نوفاك ديوكوفيتش السنوات الماضية ليهزم ألكسندر زفيريف بطل فرنسا المفتوحة وأمريكا المفتوحة 4-6 و6-4 و6-4 ليبلغ الدور قبل النهائي في بطولة الصين المفتوحة يوم الأحد.",
-    "translation_status": "translated",
-    "post_title": "ديوكوفيتش يصنع المزيد من التاريخ بفوز ملحمي لزفيريف في بطولة الصين المفتوحة",
-    "post_text": "🚨 ديوكوفيتش يصنع المزيد من التاريخ بفوز ملحمي لزفيريف في بطولة الصين المفتوحة\n\n📝 استعاد نوفاك ديوكوفيتش السنوات الماضية ليهزم ألكسندر زفيريف بطل فرنسا المفتوحة وأمريكا المفتوحة 4-6 و6-4 و6-4 ليبلغ الدور قبل النهائي في بطولة الصين المفتوحة يوم الأحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068908022441175",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديوكوفيتش_يصنع_المزيد_من_التاريخ_بفوز_ملحمي_لزفيريف_في_بطولة_الصين_المفتوحة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/news/12040/13594880/china-open-novak-djokovic-keeps-unblemished-record-in-beijing-by-handing-alexander-zverev-a-rare-defeat",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-DF8ooTjILkYto3KYsUdLQ"
     }
   }
 ]
