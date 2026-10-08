@@ -1,5 +1,39 @@
 [
   {
+    "title": "El vacile de Huijsen cuando le preguntan por Mbappé: tremendo",
+    "url": "https://as.com/futbol/videos/el-vacile-de-huijsen-cuando-le-preguntan-por-mbappe-tremendo-f202610-v/",
+    "summary": "El central del Madrid respondió de esta manera cuando llegaba a Valdebebas y no tardó en hacerse viral.",
+    "published": "Thu, 08 Oct 2026 12:46:02 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261008/1223231_124128_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "تردد هويسن عند سؤاله عن مبابي: هائل",
+    "arabic_summary": "استجاب قلب دفاع مدريد بهذه الطريقة عندما وصل إلى الفالديبيباس ولم يستغرق الأمر وقتًا طويلاً حتى ينتشر بسرعة.",
+    "translation_status": "translated",
+    "post_title": "تردد هويسن عند سؤاله عن مبابي: هائل",
+    "post_text": "🚨 تردد هويسن عند سؤاله عن مبابي: هائل\n\n📝 استجاب قلب دفاع مدريد بهذه الطريقة عندما وصل إلى الفالديبيباس ولم يستغرق الأمر وقتًا طويلاً حتى ينتشر بسرعة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072267928771851",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تردد_هويسن_عند_سؤاله_عن_مبابي_هائل.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4q0ZLi69roWCGtY2gYHXi5"
+    }
+  },
+  {
     "title": "Un exjugador y exayudante de Pep se niega a hablar de los problemas del City",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/08/exjugador-exayudante-pep-niega-hablar-problemas-city-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnoxZF4ExyJRJ6qfnLYkiH9"
-    }
-  },
-  {
-    "title": "Keane: Bellingham can become one of greatest players ever",
-    "url": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
-    "summary": "England and Real Madrid star Jude Bellingham can become one of the world's greatest ever players, according to Sky Sports pundit Roy Keane.",
-    "published": "Sat, 03 Oct 2026 19:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-jude-bellingham-england_7367472.jpg?20261003193315",
-    "media_type": "image/jpg",
-    "arabic_title": "كين: يمكن أن يصبح بيلينجهام أحد أعظم اللاعبين على الإطلاق",
-    "arabic_summary": "يمكن لنجم إنجلترا وريال مدريد جود بيلينجهام أن يصبح أحد أعظم اللاعبين في العالم على الإطلاق، وفقًا لما ذكره الناقد في سكاي سبورتس روي كين.",
-    "translation_status": "translated",
-    "post_title": "كين: يمكن أن يصبح بيلينجهام أحد أعظم اللاعبين على الإطلاق",
-    "post_text": "🚨 كين: يمكن أن يصبح بيلينجهام أحد أعظم اللاعبين على الإطلاق\n\n📝 يمكن لنجم إنجلترا وريال مدريد جود بيلينجهام أن يصبح أحد أعظم اللاعبين في العالم على الإطلاق، وفقًا لما ذكره الناقد في سكاي سبورتس روي كين.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068236705841640",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كين_يمكن_أن_يصبح_بيلينجهام_أحد_أعظم_اللاعبين_على_الإطلاق.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjQCrkgNbpcxR3idrL5Ch2q"
     }
   }
 ]
