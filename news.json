@@ -1,5 +1,39 @@
 [
   {
+    "title": "Boto: “Hubo dudas con Bernardo Silva por bajito...”",
+    "url": "https://as.com/futbol/internacional/boto-hubo-dudas-con-bernardo-silva-por-bajito-f202610-n/",
+    "summary": "El secretario técnico de Flamengo atiende a Diario AS en Lisboa. Saúl, Samu Lino, Filipe Luis... el portugués hace un exhaustivo repaso de los temas de actualidad.",
+    "published": "Thu, 08 Oct 2026 07:26:18 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SY4ELLEDXBG2VFYYHS3TPWZMFE.png?auth=23afd55d957ccb24248e57dd604b2c9a71152ad098b6200cfc5f026930ba4b6d",
+    "media_type": "image/png",
+    "arabic_title": "بوتو: \"كانت هناك شكوك حول برناردو سيلفا لأنه كان قصير القامة...\"",
+    "arabic_summary": "السكرتير الفني لفلامنجو يتحدث إلى Diario AS في لشبونة. ساؤول، سامو لينو، فيليبي لويس... البرتغالي يقوم بمراجعة شاملة للقضايا الحالية.",
+    "translation_status": "translated",
+    "post_title": "بوتو: \"كانت هناك شكوك حول برناردو سيلفا لأنه كان قصير القامة...\"",
+    "post_text": "🚨 بوتو: \"كانت هناك شكوك حول برناردو سيلفا لأنه كان قصير القامة...\"\n\n📝 السكرتير الفني لفلامنجو يتحدث إلى Diario AS في لشبونة. ساؤول، سامو لينو، فيليبي لويس... البرتغالي يقوم بمراجعة شاملة للقضايا الحالية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072059712126006",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوتو_كانت_هناك_شكوك_حول_برناردو_سيلفا_لأنه_كان_قصير_القامة....png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/boto-hubo-dudas-con-bernardo-silva-por-bajito-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AB7eg9btKyA_B-_JBqT4qmJ"
+    }
+  },
+  {
     "title": "El naming de un estadio como estrategia de publicidad",
     "url": "https://as.com/futbol/el-naming-de-un-estadio-como-estrategia-de-publicidad-f202610-n/",
     "summary": "El Palmeiras es el ejemplo de un club que sabe que una campaña bien organizada es vital para que todo el mundo asimile y asocie por completo el nuevo nombre.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASrgeeizGs3isSL7yB4LEV0"
-    }
-  },
-  {
-    "title": "Matarazzo: \"Es importante que futbolistas que llevaban tiempo sin jugar hayan tenido muchos minutos\"",
-    "url": "https://www.marca.com/futbol/real-sociedad/2026/10/03/matarazzo-importante-futbolistas-llevaban-jugar-hayan-tenido-minutos.html",
-    "summary": "El técnico de la Real reconoció el triunfo justo del Athletic y sacó una lectura positiva",
-    "published": "Sat, 03 Oct 2026 10:17:56 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac0ba1189297.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماتاراتزو: \"من المهم أن يكون لدى اللاعبين الذين لم يلعبوا لفترة طويلة دقائق عديدة\"",
-    "arabic_summary": "اعترف مدرب ريال مدريد بالفوز العادل الذي حققه أتلتيك وقرأ النتيجة بشكل إيجابي",
-    "translation_status": "translated",
-    "post_title": "ماتاراتزو: \"من المهم أن يكون لدى اللاعبين الذين لم يلعبوا لفترة طويلة دقائق عديدة\"",
-    "post_text": "🚨 ماتاراتزو: \"من المهم أن يكون لدى اللاعبين الذين لم يلعبوا لفترة طويلة دقائق عديدة\"\n\n📝 اعترف مدرب ريال مدريد بالفوز العادل الذي حققه أتلتيك وقرأ النتيجة بشكل إيجابي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068066325858678",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماتاراتزو_من_المهم_أن_يكون_لدى_اللاعبين_الذين_لم_يلعبوا_لفترة_طويلة_دقائق_عديدة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/10/03/matarazzo-importante-futbolistas-llevaban-jugar-hayan-tenido-minutos.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYEez2_WB3MmFGgXCUeyWfm"
     }
   }
 ]
