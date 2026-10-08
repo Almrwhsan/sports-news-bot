@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jorge Vilda deja de ser seleccionador, pero Marruecos lo mantiene en su estructura",
+    "url": "https://www.marca.com/futbol/futbol-femenino/2026/10/08/jorge-vilda-deja-seleccionador-marruecos.html",
+    "summary": "La Federación marroquí lo anunció en un comunicado, sin dar más detalles",
+    "published": "Thu, 08 Oct 2026 09:19:10 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac743a9d2459.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "خورخي فيلدا يتوقف عن العمل كمدرب، لكن المغرب يبقيه في بنيته",
+    "arabic_summary": "وأعلن ذلك الاتحاد المغربي في بيان، دون تقديم المزيد من التفاصيل.",
+    "translation_status": "translated",
+    "post_title": "خورخي فيلدا يتوقف عن العمل كمدرب، لكن المغرب يبقيه في بنيته",
+    "post_text": "🚨 خورخي فيلدا يتوقف عن العمل كمدرب، لكن المغرب يبقيه في بنيته\n\n📝 وأعلن ذلك الاتحاد المغربي في بيان، دون تقديم المزيد من التفاصيل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072318538766790",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خورخي_فيلدا_يتوقف_عن_العمل_كمدرب،_لكن_المغرب_يبقيه_في_بنيته.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/2026/10/08/jorge-vilda-deja-seleccionador-marruecos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAAvGQZcuKN6KjfFHQrOc9C"
+    }
+  },
+  {
     "title": "El particular homenaje por parte de la Selección a Pedro, uno de los héroes de 2010",
     "url": "https://www.marca.com/futbol/seleccion/2026/10/08/particular-homenaje-parte-seleccion-pedro-heroes-2010-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Az0HRN7dLIksLpCeqFMcB0X"
-    }
-  },
-  {
-    "title": "Man City whistleblower set to lose protection amid fears for life",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
-    "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
-    "published": "Fri, 02 Oct 2026 19:26:13 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg",
-    "media_type": null,
-    "arabic_title": "من المقرر أن يفقد المبلغون عن مانشستر سيتي الحماية وسط مخاوف على الحياة",
-    "arabic_summary": "من المقرر أن يفقد قرصان الكمبيوتر البرتغالي، الذي نشر وثائق ساعدت في إطلاق تحقيق الدوري الإنجليزي الممتاز في مانشستر سيتي، حماية الشهود على الرغم من المخاوف على حياته.",
-    "translation_status": "translated",
-    "post_title": "من المقرر أن يفقد المبلغون عن مانشستر سيتي الحماية وسط مخاوف على الحياة",
-    "post_text": "🚨 من المقرر أن يفقد المبلغون عن مانشستر سيتي الحماية وسط مخاوف على الحياة\n\n📝 من المقرر أن يفقد قرصان الكمبيوتر البرتغالي، الذي نشر وثائق ساعدت في إطلاق تحقيق الدوري الإنجليزي الممتاز في مانشستر سيتي، حماية الشهود على الرغم من المخاوف على حياته.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1068551512476826",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_المقرر_أن_يفقد_المبلغون_عن_مانشستر_سيتي_الحماية_وسط_مخاوف_على_الحياة.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1RUGmmYx5qojxo3cFqhRsm"
     }
   }
 ]
