@@ -1,5 +1,39 @@
 [
   {
+    "title": "Middlesbrough vs Wolves: Predict the score!",
+    "url": "https://www.skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/live/560598",
+    "summary": "",
+    "published": "Fri, 09 Oct 2026 16:26:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7334598.jpg?20260829141836",
+    "media_type": "image/jpg",
+    "arabic_title": "ميدلسبره vs وولفرهامبتون: توقع النتيجة!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "ميدلسبره vs وولفرهامبتون: توقع النتيجة!",
+    "post_text": "🚨 ميدلسبره vs وولفرهامبتون: توقع النتيجة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073499755315335",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميدلسبره_vs_وولفرهامبتون_توقع_النتيجة!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/live/560598",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A57qW2EuuOYyAp6r2Tlj7UM"
+    }
+  },
+  {
     "title": "A qué hora es el Ibiza - Castilla: horario y dónde ver hoy en TV el partido de Primera Federación",
     "url": "https://www.marca.com/futbol/real-madrid-castilla/2026/10/09/ibiza-castilla-horario-ver-hoy-tv-partido-primera-federacion.html",
     "summary": "Los detalles del duelo del filial blanco",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkaJ8WuuQFApySWVSPYVm2d"
-    }
-  },
-  {
-    "title": "Estos son los estadios que visitarán los equipos de Primera en la primera ronda de la Copa del Rey",
-    "url": "https://as.com/futbol/fotorrelato/estos-son-los-estadios-que-visitaran-los-equipos-de-primera-en-la-primera-ronda-de-la-copa-del-rey-f202610-f/",
-    "summary": "Los modestos campos del fútbol español volverán a convertirse en protagonistas con la llegada de la Copa del Rey. Repasamos los estadios que recibirán a los equipos de Primera División en una primera ronda marcada por la ilusión de los clubes más humildes y por la magia de un torneo que iguala a gigantes y aspirantes.",
-    "published": "Mon, 05 Oct 2026 12:45:24 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7RURLAEIVRAQ7JVSVSZC3TCPDE.jpg?auth=e299cb3ac8c33126bd70892c061075c4f897f0b1ba0c82158e6939692d24b689",
-    "media_type": "image/jpeg",
-    "arabic_title": "هذه هي الملاعب التي ستزورها فرق الدوري الإسباني في الجولة الأولى من كأس الملك",
-    "arabic_summary": "ستصبح ملاعب كرة القدم الإسبانية المتواضعة مرة أخرى أبطالاً مع وصول كأس الملك. ونستعرض الملاعب التي ستستقبل فرق الدرجة الأولى في جولة أولى تتميز بحماس الأندية الأكثر تواضعا وبسحر البطولة التي تنافس العمالقة والطامحين.",
-    "translation_status": "translated",
-    "post_title": "هذه هي الملاعب التي ستزورها فرق الدوري الإسباني في الجولة الأولى من كأس الملك",
-    "post_text": "🚨 هذه هي الملاعب التي ستزورها فرق الدوري الإسباني في الجولة الأولى من كأس الملك\n\n📝 ستصبح ملاعب كرة القدم الإسبانية المتواضعة مرة أخرى أبطالاً مع وصول كأس الملك. ونستعرض الملاعب التي ستستقبل فرق الدرجة الأولى في جولة أولى تتميز بحماس الأندية الأكثر تواضعا وبسحر البطولة التي تنافس العمالقة والطامحين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069845399014104",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذه_هي_الملاعب_التي_ستزورها_فرق_الدوري_الإسباني_في_الجولة_الأولى_من_كأس_الملك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/estos-son-los-estadios-que-visitaran-los-equipos-de-primera-en-la-primera-ronda-de-la-copa-del-rey-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aw1nof9HgzlJSJxlap1RyV5"
     }
   }
 ]
