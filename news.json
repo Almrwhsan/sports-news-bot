@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Atleti ironiza sobre Valverde: “La comunidad médica mundial estaba equivocada”",
+    "url": "https://as.com/futbol/primera/el-atleti-ironiza-sobre-valverde-la-comunidad-medica-mundial-estaba-equivocada-f202610-n/",
+    "summary": "El club rojiblanco sugiere en sus redes sociales que la gravedad de la lesión del uruguayo en el derbi revelada por el Madrid no era tal.",
+    "published": "Fri, 09 Oct 2026 19:46:16 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/S5CHB6DPZZNAPJDBNMXYH5726Y.jpg?auth=c9992b5a6cdb0b21e6ed1bcc50d0bf00e32bcc5cbbd91ee2619c1e548e017ac5",
+    "media_type": "image/jpeg",
+    "arabic_title": "الأتليتي ساخرًا من فالفيردي: المجتمع الطبي العالمي كان مخطئًا",
+    "arabic_summary": "وأشار النادي الأحمر والأبيض عبر شبكاته الاجتماعية إلى أن خطورة إصابة الأوروغواياني في الديربي الذي كشف عنه ريال مدريد لم تكن بهذه الدرجة.",
+    "translation_status": "translated",
+    "post_title": "الأتليتي ساخرًا من فالفيردي: المجتمع الطبي العالمي كان مخطئًا",
+    "post_text": "🚨 الأتليتي ساخرًا من فالفيردي: المجتمع الطبي العالمي كان مخطئًا\n\n📝 وأشار النادي الأحمر والأبيض عبر شبكاته الاجتماعية إلى أن خطورة إصابة الأوروغواياني في الديربي الذي كشف عنه ريال مدريد لم تكن بهذه الدرجة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073450188653625",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأتليتي_ساخرًا_من_فالفيردي_المجتمع_الطبي_العالمي_كان_مخطئًا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-atleti-ironiza-sobre-valverde-la-comunidad-medica-mundial-estaba-equivocada-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1-GbyYoqNkVMyPw9cLJKxt"
+    }
+  },
+  {
     "title": "Clasificación de LaLiga EA Sports 2026/2027, en directo: jornada 8, ahora en vivo",
     "url": "https://as.com/resultados/futbol/primera/clasificacion",
     "summary": "Así marcha la tabla de Primera División, la lucha por el título, los puestos de Champions y Europa, el descenso...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "App6_ZCq-BYa6cZaUz-Q1Z3"
-    }
-  },
-  {
-    "title": "El factor banquillo en el Barcelona",
-    "url": "https://as.com/futbol/primera/el-factor-banquillo-en-el-barcelona-f202610-n/",
-    "summary": "El equipo de Flick no baja el nivel cuando en los segundos tiempos debe empezar con los cambios.",
-    "published": "Fri, 02 Oct 2026 13:31:58 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/H554G63K2VEORPTXG5V3S5SYS4.jpg?auth=20ac87eaf7d0c7c3eccc985a249bbb73916d2d4b6d3ed82488d97db987b58f36",
-    "media_type": "image/jpeg",
-    "arabic_title": "عامل مقاعد البدلاء في برشلونة",
-    "arabic_summary": "فريق فليك لا يخفض مستواه عندما يتعين عليه البدء بالتغييرات في الشوط الثاني.",
-    "translation_status": "translated",
-    "post_title": "عامل مقاعد البدلاء في برشلونة",
-    "post_text": "🚨 عامل مقاعد البدلاء في برشلونة\n\n📝 فريق فليك لا يخفض مستواه عندما يتعين عليه البدء بالتغييرات في الشوط الثاني.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069815719017072",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عامل_مقاعد_البدلاء_في_برشلونة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-factor-banquillo-en-el-barcelona-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AktsOQHz1RooIbiMBa7s2x5"
     }
   }
 ]
