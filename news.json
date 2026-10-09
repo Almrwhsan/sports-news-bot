@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cosmic Connection and Lord Byron clash in the Persian War",
+    "url": "https://www.skysports.com/racing/news/12040/13596201/today-on-sky-sports-racing-jumps-action-from-chepstow",
+    "summary": "We have a busy day&#8217;s racing on Friday with jumps action from Chepstow, live on Sky Sports Racing...",
+    "published": "Fri, 09 Oct 2026 07:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/24/10/1920x1080/skysports-chepstow-racing_6713623.jpg?20241011175729",
+    "media_type": "image/jpg",
+    "arabic_title": "الاتصال الكوني واشتباك اللورد بايرون في الحرب الفارسية",
+    "arabic_summary": "لدينا يوم حافل بالسباقات يوم الجمعة مع القفزات المثيرة من تشيبستو، مباشرةً على قناة Sky Sports Racing...",
+    "translation_status": "translated",
+    "post_title": "الاتصال الكوني واشتباك اللورد بايرون في الحرب الفارسية",
+    "post_text": "🚨 الاتصال الكوني واشتباك اللورد بايرون في الحرب الفارسية\n\n📝 لدينا يوم حافل بالسباقات يوم الجمعة مع القفزات المثيرة من تشيبستو، مباشرةً على قناة Sky Sports Racing...\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072898922042085",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الاتصال_الكوني_واشتباك_اللورد_بايرون_في_الحرب_الفارسية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/racing/news/12040/13596201/today-on-sky-sports-racing-jumps-action-from-chepstow",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AK-5-NfgHe2wtChd2ALx42B"
+    }
+  },
+  {
     "title": "Cowboys suffer shock home loss to Buccaneers",
     "url": "https://www.skysports.com/nfl/news/12040/13596697/dallas-cowboys-suffer-shock-loss-to-tampa-bay-buccaneers-as-bucky-irving-and-rookie-qb-jalon-daniels-impress",
     "summary": "Bucky Irving and rookie quarterback Jalon Daniels starred as the previously winless Tampa Bay Buccaneers secured a shock 24-16 road win over the Dallas Cowboys on on Thursday night.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhVa2CoRITowFOUUTXT1NIO"
-    }
-  },
-  {
-    "title": "Singapore GP: Sprint weekend schedule and how to watch",
-    "url": "https://www.skysports.com/f1/news/12040/13594859/singapore-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-marina-bay-circuit-live-on-sky-sports",
-    "summary": "Formula 1 concludes its Asian triple-header with a Sprint weekend at the Singapore Grand Prix.",
-    "published": "Mon, 05 Oct 2026 06:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-singapore-singapore-gp_7367607.jpg?20261004043324",
-    "media_type": "image/jpg",
-    "arabic_title": "جائزة سنغافورة الكبرى: جدول عطلة نهاية الأسبوع لسبرينت وكيفية المشاهدة",
-    "arabic_summary": "تختتم الفورمولا 1 مشوارها الثلاثي الآسيوي بعطلة نهاية أسبوع في سباق الجائزة الكبرى في سنغافورة.",
-    "translation_status": "translated",
-    "post_title": "جائزة سنغافورة الكبرى: جدول عطلة نهاية الأسبوع لسبرينت وكيفية المشاهدة",
-    "post_text": "🚨 جائزة سنغافورة الكبرى: جدول عطلة نهاية الأسبوع لسبرينت وكيفية المشاهدة\n\n📝 تختتم الفورمولا 1 مشوارها الثلاثي الآسيوي بعطلة نهاية أسبوع في سباق الجائزة الكبرى في سنغافورة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069346449063999",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جائزة_سنغافورة_الكبرى_جدول_عطلة_نهاية_الأسبوع_لسبرينت_وكيفية_المشاهدة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13594859/singapore-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-marina-bay-circuit-live-on-sky-sports",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2Qi1APIwEkczlfA8icSI9v"
     }
   }
 ]
