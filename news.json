@@ -1,5 +1,39 @@
 [
   {
+    "title": "¿Cristiano Ronaldo y Messi jugando juntos en el mismo equipo?",
+    "url": "https://www.marca.com/futbol/2026/10/09/cristiano-ronaldo-messi-jugando-equipo.html",
+    "summary": "Carlos Tévez está trabajando para organizar un partido en La Bombonera a final de año donde se reúnan varios de sus excompañeros",
+    "published": "Fri, 09 Oct 2026 08:53:18 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/fgiPg1go8z8J9n2ur.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كريستيانو رونالدو وميسي يلعبان معا في نفس الفريق؟",
+    "arabic_summary": "يعمل كارلوس تيفيز على تنظيم مباراة في لا بومبونيرا في نهاية العام حيث سيلتقي العديد من زملائه السابقين",
+    "translation_status": "translated",
+    "post_title": "كريستيانو رونالدو وميسي يلعبان معا في نفس الفريق؟",
+    "post_text": "🚨 كريستيانو رونالدو وميسي يلعبان معا في نفس الفريق؟\n\n📝 يعمل كارلوس تيفيز على تنظيم مباراة في لا بومبونيرا في نهاية العام حيث سيلتقي العديد من زملائه السابقين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073179778680666",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كريستيانو_رونالدو_وميسي_يلعبان_معا_في_نفس_الفريق؟.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/09/cristiano-ronaldo-messi-jugando-equipo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AoQ5lGYArLjyBXvBiI5EiTW"
+    }
+  },
+  {
     "title": "El Castilla busca prolongar el 'efecto derbi' sin Thiago y sin Rachad",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/09/castilla-busca-prolongar-efecto-derbi-thiago-rachad.html",
     "summary": "El filial visita hoy al Ibiza con el objetivo de consolidar el subidón del triunfo ante el Atlético Madrileño y acabar con la mala dinámica lejos del Di Stéfano",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8wm_djTJRPosWAgX_cVCcb"
-    }
-  },
-  {
-    "title": "El contundente alegato de Carreño sobre el Caso Negreira: sin pelos en la lengua",
-    "url": "https://as.com/futbol/videos/carreno-y-un-discurso-sin-paliativos-a-cuenta-del-caso-negreira-de-obligada-escucha-f202610-v/",
-    "summary": "El director de El Larguero pronunció estas palabras en el último programa tras los últimos comunicados relacionados con el Caso Negreira.",
-    "published": "Fri, 02 Oct 2026 05:43:11 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261002/1220954_053141_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "بيان كارينيو القوي بشأن قضية نيجريرا: بدون تنميق الكلمات",
-    "arabic_summary": "قال مدير El Larguero هذه الكلمات في البرنامج الأخير بعد الاتصالات الأخيرة المتعلقة بقضية Negreira.",
-    "translation_status": "translated",
-    "post_title": "بيان كارينيو القوي بشأن قضية نيجريرا: بدون تنميق الكلمات",
-    "post_text": "🚨 بيان كارينيو القوي بشأن قضية نيجريرا: بدون تنميق الكلمات\n\n📝 قال مدير El Larguero هذه الكلمات في البرنامج الأخير بعد الاتصالات الأخيرة المتعلقة بقضية Negreira.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069598809038763",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيان_كارينيو_القوي_بشأن_قضية_نيجريرا_بدون_تنميق_الكلمات.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8tVESHqWEA1VBVq5QK63fA"
     }
   }
 ]
