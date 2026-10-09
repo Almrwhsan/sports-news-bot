@@ -1,5 +1,39 @@
 [
   {
+    "title": "Everton owners considering club sale",
+    "url": "https://www.skysports.com/football/news/12040/13596740/everton-up-for-sale-friedkin-group-considering-new-investment-options-including-the-potential-sale-of-controlling-stake",
+    "summary": "The Friedkin Group are considering the potential sale of Everton Football Club - saying \"the time is right\" for the next chapter.",
+    "published": "Fri, 09 Oct 2026 08:38:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-everton-sale_7371820.jpg?20261009085610",
+    "media_type": "image/jpg",
+    "arabic_title": "مالكو إيفرتون يفكرون في بيع النادي",
+    "arabic_summary": "تدرس مجموعة فريدكين البيع المحتمل لنادي إيفرتون لكرة القدم، قائلة إن \"الوقت مناسب\" للفصل التالي.",
+    "translation_status": "translated",
+    "post_title": "مالكو إيفرتون يفكرون في بيع النادي",
+    "post_text": "🚨 مالكو إيفرتون يفكرون في بيع النادي\n\n📝 تدرس مجموعة فريدكين البيع المحتمل لنادي إيفرتون لكرة القدم، قائلة إن \"الوقت مناسب\" للفصل التالي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072983922033585",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مالكو_إيفرتون_يفكرون_في_بيع_النادي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13596740/everton-up-for-sale-friedkin-group-considering-new-investment-options-including-the-potential-sale-of-controlling-stake",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A_zwsp7qrSrKYzfcyLEfu5B"
+    }
+  },
+  {
     "title": "Mourinho defiende a Mbappé: “Es ridículo”",
     "url": "https://as.com/futbol/primera/mourinho-defiende-a-mbappe-es-ridiculo-f202610-d/",
     "summary": "Señala a la prensa de generar la ola de enfado hacia él. “No ha fallado a sus obligaciones”, alude. “Si hay pitos en el Bernabéu, para vosotros será una gran victoria”, añade.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-q7dHzK9A7WW-ZfHP34Xgc"
-    }
-  },
-  {
-    "title": "La generación dorada de la portería española",
-    "url": "https://as.com/futbol/seleccion/la-generacion-dorada-de-la-porteria-espanola-f202610-n/",
-    "summary": "Los tres porteros campeones del mundo (Unai Simón, Joan García y David Raya) están nominados al Trofeo Yashin. Luis Llopis, entrenador y especialista en entrenamiento de porteros, atiende a AS para compartir su punto de vista.",
-    "published": "Mon, 05 Oct 2026 08:26:33 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IPDRELIOEBBXBFWEYUM5O4ALXY.jpg?auth=b5f0d6514f69f4e79ffccdda8b180bcbaf77580c14aa2519ccddffa442c971e4",
-    "media_type": "image/jpeg",
-    "arabic_title": "الجيل الذهبي لحراسة المرمى الإسبانيين",
-    "arabic_summary": "تم ترشيح حراس المرمى الثلاثة أبطال العالم (أوناي سيمون، جوان غارسيا وديفيد رايا) لجائزة ياشين. لويس يوبيس، المدرب وأخصائي تدريب حراس المرمى، يتحدث إلى AS ليشارك وجهة نظره.",
-    "translation_status": "translated",
-    "post_title": "الجيل الذهبي لحراسة المرمى الإسبانيين",
-    "post_text": "🚨 الجيل الذهبي لحراسة المرمى الإسبانيين\n\n📝 تم ترشيح حراس المرمى الثلاثة أبطال العالم (أوناي سيمون، جوان غارسيا وديفيد رايا) لجائزة ياشين. لويس يوبيس، المدرب وأخصائي تدريب حراس المرمى، يتحدث إلى AS ليشارك وجهة نظره.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069455325719778",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الجيل_الذهبي_لحراسة_المرمى_الإسبانيين.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/seleccion/la-generacion-dorada-de-la-porteria-espanola-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATGOGcoBtMo5gQ0Z4ae6uu8"
     }
   }
 ]
