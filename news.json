@@ -1,5 +1,39 @@
 [
   {
+    "title": "YOUR VIEWS: Send in your Man City questions ahead of Maresca press conference!",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "summary": "",
+    "published": "Fri, 09 Oct 2026 07:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+    "media_type": "image/jpg",
+    "arabic_title": "آرائك: أرسل أسئلتك إلى مان سيتي قبل مؤتمر ماريسكا الصحفي!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آرائك: أرسل أسئلتك إلى مان سيتي قبل مؤتمر ماريسكا الصحفي!",
+    "post_text": "🚨 آرائك: أرسل أسئلتك إلى مان سيتي قبل مؤتمر ماريسكا الصحفي!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072924648706179",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آرائك_أرسل_أسئلتك_إلى_مان_سيتي_قبل_مؤتمر_ماريسكا_الصحفي!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9WjbYttPgUhHcnJAnoAJWx"
+    }
+  },
+  {
     "title": "How Arteta's response to Brighton loss may shape Arsenal's next chapter",
     "url": "https://www.bbc.co.uk/sport/football/articles/crn8wg221lnvo?at_medium=RSS&at_campaign=rss",
     "summary": "Mikel Arteta has shown an increased appetite for risk this season but, as Arsenal look to stay at the top, failing to reinvent would be a greater gamble.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQ_ZvgH8v3muY01x6giZ2HW"
-    }
-  },
-  {
-    "title": "Zhuri chases a first success at Yarmouth",
-    "url": "https://www.skysports.com/racing/news/12040/13594924/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
-    "summary": "We have a busy day&#8217;s racing on Monday with flat action from Wolverhampton and Yarmouth, live on Sky Sports Racing...",
-    "published": "Mon, 05 Oct 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-yarmouth-racing_7246305.jpg?20260512100808",
-    "media_type": "image/jpg",
-    "arabic_title": "Zhuri يطارد النجاح الأول في Yarmouth",
-    "arabic_summary": "لدينا يوم حافل بالسباقات يوم الاثنين مع أحداث ثابتة من ولفرهامبتون ويارموث، مباشرة على Sky Sports Racing...",
-    "translation_status": "translated",
-    "post_title": "Zhuri يطارد النجاح الأول في Yarmouth",
-    "post_text": "🚨 Zhuri يطارد النجاح الأول في Yarmouth\n\n📝 لدينا يوم حافل بالسباقات يوم الاثنين مع أحداث ثابتة من ولفرهامبتون ويارموث، مباشرة على Sky Sports Racing...\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069366552395322",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Zhuri_يطارد_النجاح_الأول_في_Yarmouth.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13594924/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnFzJt5ji1Bu6WabNNsKo-1"
     }
   }
 ]
