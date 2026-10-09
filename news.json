@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valverde acaricia el milagro",
+    "url": "https://as.com/futbol/primera/valverde-acaricia-el-milagro-f202610-n/",
+    "summary": "Sólo 19 días después de sufrir un “esguince de Grado III”, trabaja con el grupo y entra en la lista. Ser titular o no contra el Villarreal, la duda. Mbappé está al 100%: saldrá de inicio.",
+    "published": "Fri, 09 Oct 2026 13:00:26 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261008/1223279_144800_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "فالفيردي يداعب المعجزة",
+    "arabic_summary": "وبعد 19 يومًا فقط من إصابته \"بالالتواء من الدرجة الثالثة\"، يعمل مع المجموعة ويضع القائمة. السؤال المطروح هو ما إذا كان سيبدأ ضد فياريال أم لا. مبابي جاهز بنسبة 100%: سيبدأ.",
+    "translation_status": "translated",
+    "post_title": "فالفيردي يداعب المعجزة",
+    "post_text": "🚨 فالفيردي يداعب المعجزة\n\n📝 وبعد 19 يومًا فقط من إصابته \"بالالتواء من الدرجة الثالثة\"، يعمل مع المجموعة ويضع القائمة. السؤال المطروح هو ما إذا كان سيبدأ ضد فياريال أم لا. مبابي جاهز بنسبة 100%: سيبدأ.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073547978643846",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالفيردي_يداعب_المعجزة.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AY-5Rhuoo1CpDvScmnUjQGz"
+    }
+  },
+  {
     "title": "Hope hundred fires West Indies to record win over India in second T20",
     "url": "https://www.skysports.com/cricket/news/12040/13597027/india-vs-west-indies-shai-hope-hits-unbeaten-102-in-windies-highest-successful-t20-run-chase",
     "summary": "Shai Hope struck a century as West Indies completed their highest successful &#8204;chase in T20 internationals, overhauling a target of 250 to beat India by six &#8204;wickets in Ranchi and level the five-match series at 1-1.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANdZGJ6CGz1RXtYKeUFGQGh"
-    }
-  },
-  {
-    "title": "El Betis, otro desafío para el Navalcarnero",
-    "url": "https://as.com/futbol/primera/el-betis-otro-desafio-para-el-navalcarnero-f202610-n/",
-    "summary": "El cuadro verdiblanco se medirá en la Copa al conjunto madrileño, que ya maravilló en la 20-21 eliminando al Eibar y alcanzando los octavos de final.",
-    "published": "Mon, 05 Oct 2026 15:25:27 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/QVLGZCR7FNKD3INYNZ7E5HWDVU.jpg?auth=ca093993a973ef4ad26ec35feac117216b11ebd9d90c275644a55d00dab58006",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيتيس، تحدي آخر لنافالكارنيرو",
-    "arabic_summary": "وسيواجه الفريق الأخضر والأبيض الفريق المدريديستا في الكأس، الذي سبق أن أذهل بنتيجة 20-21 بإقصاء إيبار والوصول إلى دور الـ16.",
-    "translation_status": "translated",
-    "post_title": "بيتيس، تحدي آخر لنافالكارنيرو",
-    "post_text": "🚨 بيتيس، تحدي آخر لنافالكارنيرو\n\n📝 وسيواجه الفريق الأخضر والأبيض الفريق المدريديستا في الكأس، الذي سبق أن أذهل بنتيجة 20-21 بإقصاء إيبار والوصول إلى دور الـ16.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069882142343763",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيتيس،_تحدي_آخر_لنافالكارنيرو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-betis-otro-desafio-para-el-navalcarnero-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AawjSm1VmdzebUxcyeKGxVs"
     }
   }
 ]
