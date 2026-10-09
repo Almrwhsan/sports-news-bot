@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las portadas del día",
+    "url": "https://www.marca.com/futbol/album/2026/10/09/portadas-dia.html",
+    "summary": "Así vienen los periódicos deportivos de este viernes 9 de octubre de 2026.",
+    "published": "Fri, 09 Oct 2026 01:19:56 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac8246036799.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغلفة اليوم",
+    "arabic_summary": "هكذا تأتي الصحف الرياضية اليوم الجمعة 9 أكتوبر 2026.",
+    "translation_status": "translated",
+    "post_title": "أغلفة اليوم",
+    "post_text": "🚨 أغلفة اليوم\n\n📝 هكذا تأتي الصحف الرياضية اليوم الجمعة 9 أكتوبر 2026.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073041302027847",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/album/2026/10/09/portadas-dia.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdVH4OofFPMLV6Iy5tTKzoD"
+    }
+  },
+  {
     "title": "Raphinha, muy difícil",
     "url": "https://as.com/futbol/raphinha-muy-dificil-f202610-n/",
     "summary": "El delantero brasileño saltó antes que sus compañeros al campo e hizo un trabajo individual para testar sensaciones. Su presencia de cara al partido ante el Getafe parece casi imposible.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdGnrKxfYSM-vt2Ja_t35AD"
-    }
-  },
-  {
-    "title": "Claudia Pina, tras meterle cuatro goles al Madrid: \"Soy más antimadridista que Cata Coll\"",
-    "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/10/05/claudia-pina-meterle-cuatro-goles-madrid-mas-antimadridista-cata-coll.html",
-    "summary": "\"Creo que soy más antimadridista que culé\", dijo Cata Coll en 2025",
-    "published": "Mon, 05 Oct 2026 06:18:22 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac323e5145d5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كلوديا بينا بعد تسجيلها أربعة أهداف في مرمى ريال مدريد: \"أنا أكثر عداءً لريال مدريد من كاتا كول\"",
-    "arabic_summary": "قال كاتا كول في عام 2025: \"أعتقد أنني مشجع مناهض لمدريد أكثر من كولي\".",
-    "translation_status": "translated",
-    "post_title": "كلوديا بينا بعد تسجيلها أربعة أهداف في مرمى ريال مدريد: \"أنا أكثر عداءً لريال مدريد من كاتا كول\"",
-    "post_text": "🚨 كلوديا بينا بعد تسجيلها أربعة أهداف في مرمى ريال مدريد: \"أنا أكثر عداءً لريال مدريد من كاتا كول\"\n\n📝 قال كاتا كول في عام 2025: \"أعتقد أنني مشجع مناهض لمدريد أكثر من كولي\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069492832382694",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كلوديا_بينا_بعد_تسجيلها_أربعة_أهداف_في_مرمى_ريال_مدريد_أنا_أكثر_عداءً_لريال_مدري.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/10/05/claudia-pina-meterle-cuatro-goles-madrid-mas-antimadridista-cata-coll.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AsF3L_1Ts0h4ZItdW8Bslr9"
     }
   }
 ]
