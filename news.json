@@ -1,5 +1,39 @@
 [
   {
+    "title": "How Swansea refound their way as ambition returns",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckjwel862376o?at_medium=RSS&at_campaign=rss",
+    "summary": "With Swansea City leading the Championship as the EFL returns, BBC Sport looks at how the club has brought back old values and new hopes.",
+    "published": "Fri, 09 Oct 2026 03:55:20 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/8370cdc0-c33f-11f1-b521-0bbd7e4f1f2e.jpg",
+    "media_type": null,
+    "arabic_title": "كيف وجد سوانزي طريقه مع عودة الطموح",
+    "arabic_summary": "مع قيادة سوانزي سيتي للبطولة مع عودة الدوري الإنجليزي، تبحث بي بي سي سبورت في كيفية إعادة النادي للقيم القديمة والآمال الجديدة.",
+    "translation_status": "translated",
+    "post_title": "كيف وجد سوانزي طريقه مع عودة الطموح",
+    "post_text": "🚨 كيف وجد سوانزي طريقه مع عودة الطموح\n\n📝 مع قيادة سوانزي سيتي للبطولة مع عودة الدوري الإنجليزي، تبحث بي بي سي سبورت في كيفية إعادة النادي للقيم القديمة والآمال الجديدة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072930345372276",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_وجد_سوانزي_طريقه_مع_عودة_الطموح.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/ckjwel862376o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQG_CWGkEC0keQEZERZ7_R6"
+    }
+  },
+  {
     "title": "West Ham latest: Nuno named September's Manager of the Month",
     "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZm3HtvxuaOhGlzxZLsciY5"
-    }
-  },
-  {
-    "title": "Celtic's Hassan misses Egypt match - gossip",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr93zpj7pdqdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Celtic winger misses Egypt match, Rangers boss backed and Hibs assistant on exit.",
-    "published": "Mon, 05 Oct 2026 06:23:30 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4522/live/f16a5610-c084-11f1-bc2e-018d645d8d21.png",
-    "media_type": null,
-    "arabic_title": "حسن لاعب سلتيك يغيب عن مباراة مصر – القيل والقال",
-    "arabic_summary": "جناح سلتيك يغيب عن مباراة مصر، مدرب رينجرز مدعوم ومساعد هيبس يخرج.",
-    "translation_status": "translated",
-    "post_title": "حسن لاعب سلتيك يغيب عن مباراة مصر – القيل والقال",
-    "post_text": "🚨 حسن لاعب سلتيك يغيب عن مباراة مصر – القيل والقال\n\n📝 جناح سلتيك يغيب عن مباراة مصر، مدرب رينجرز مدعوم ومساعد هيبس يخرج.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069381322393845",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حسن_لاعب_سلتيك_يغيب_عن_مباراة_مصر_–_القيل_والقال.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cr93zpj7pdqdo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnJ5zu9c-NG3TJYri1WlP9g"
     }
   }
 ]
