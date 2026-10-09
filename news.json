@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Flamengo luce una camiseta en contra de prohibir las apuestas deportivas: \"Prohibir no es proteger\"",
+    "url": "https://www.marca.com/futbol/2026/10/09/flamengo-luce-camiseta-prohibir-apuestas-deportivas-prohibir-proteger-video.html",
+    "summary": "",
+    "published": "Fri, 09 Oct 2026 07:19:52 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/fgRR61go7aesPUQwH.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فلامينجو يرتدي قميصًا ضد حظر المراهنات الرياضية: \"الحظر لا يحمي\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "فلامينجو يرتدي قميصًا ضد حظر المراهنات الرياضية: \"الحظر لا يحمي\"",
+    "post_text": "🚨 فلامينجو يرتدي قميصًا ضد حظر المراهنات الرياضية: \"الحظر لا يحمي\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073133665351944",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فلامينجو_يرتدي_قميصًا_ضد_حظر_المراهنات_الرياضية_الحظر_لا_يحمي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/09/flamengo-luce-camiseta-prohibir-apuestas-deportivas-prohibir-proteger-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxF2i4urGD6Bc9Jek8G6t6V"
+    }
+  },
+  {
     "title": "Neymar no pierde la magia y marca dos goles para rescatar al Santos",
     "url": "https://www.marca.com/futbol/america/2026/10/09/neymar-pierde-magia-marca-dos-goles-rescatar-santos-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AT7-2PCp2eHwvJoMpgVCvH4"
-    }
-  },
-  {
-    "title": "Una estrella del fútbol desvela el nombre del famoso que abusó sexualmente de él: \"Lo confirmo\"",
-    "url": "https://www.marca.com/futbol/2026/10/05/futbolista-andy-carroll-desvela-nombre-famoso-abuso-sexualmente-kevin-adams-confirmarlo.html",
-    "summary": "Andy Carroll desveló que el famoso al que denunció por agresión sexual, y que fue condenado a 20 meses de cárcel, fue el coreógrafo Kevin Adams",
-    "published": "Mon, 05 Oct 2026 07:11:51 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac33190ab8b2.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "نجم كرة يكشف اسم المشهور الذي اعتدى عليه جنسيا: \"أؤكد ذلك\"",
-    "arabic_summary": "كشف أندي كارول أن الشخص الشهير الذي استنكره بتهمة الاعتداء الجنسي، والذي حكم عليه بالسجن 20 شهرا، هو مصمم الرقصات كيفن آدامز",
-    "translation_status": "translated",
-    "post_title": "نجم كرة يكشف اسم المشهور الذي اعتدى عليه جنسيا: \"أؤكد ذلك\"",
-    "post_text": "🚨 نجم كرة يكشف اسم المشهور الذي اعتدى عليه جنسيا: \"أؤكد ذلك\"\n\n📝 كشف أندي كارول أن الشخص الشهير الذي استنكره بتهمة الاعتداء الجنسي، والذي حكم عليه بالسجن 20 شهرا، هو مصمم الرقصات كيفن آدامز\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069563225708988",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نجم_كرة_يكشف_اسم_المشهور_الذي_اعتدى_عليه_جنسيا_أؤكد_ذلك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/05/futbolista-andy-carroll-desvela-nombre-famoso-abuso-sexualmente-kevin-adams-confirmarlo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqdvC4hmBG7Tc1mRaKBDzLQ"
     }
   }
 ]
