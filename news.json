@@ -1,5 +1,39 @@
 [
   {
+    "title": "De 12 años de cárcel a la absolución: las penas que pide la Fiscalía por la muerte de Maradona",
+    "url": "https://www.marca.com/futbol/argentina/2026/10/09/12-anos-carcel-absolucion-penas-pide-fiscalia-muerte-maradona.html",
+    "summary": "Pide responsabilidades a seis de los siete profesionales de la salud acusados por la muerte de Diego Armando Maradona",
+    "published": "Fri, 09 Oct 2026 05:04:15 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac859a392b81.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "من السجن 12 عاماً إلى البراءة: العقوبات التي طلبتها النيابة العامة في وفاة مارادونا",
+    "arabic_summary": "استدعاء ستة من المهنيين الصحيين السبعة المتهمين بوفاة دييغو أرماندو مارادونا",
+    "translation_status": "translated",
+    "post_title": "من السجن 12 عاماً إلى البراءة: العقوبات التي طلبتها النيابة العامة في وفاة مارادونا",
+    "post_text": "🚨 من السجن 12 عاماً إلى البراءة: العقوبات التي طلبتها النيابة العامة في وفاة مارادونا\n\n📝 استدعاء ستة من المهنيين الصحيين السبعة المتهمين بوفاة دييغو أرماندو مارادونا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072801845385126",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_السجن_12_عاماً_إلى_البراءة_العقوبات_التي_طلبتها_النيابة_العامة_في_وفاة_مارادو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/argentina/2026/10/09/12-anos-carcel-absolucion-penas-pide-fiscalia-muerte-maradona.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYmGJqTwCWtL2V0Uow3UDLa"
+    }
+  },
+  {
     "title": "Dos goles de Neymar llevan al Santos a remontar ante el Flamengo y empatar 2-2",
     "url": "https://www.marca.com/futbol/2026/10/09/dos-goles-neymar-llevan-santos-remontar-flamengo-empatar-2-2.html",
     "summary": "En la segunda mitad, el técnico del Santos, Cuca, sacó a Neymar del banquillo para tratar de imprimir velocidad al juego",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcXOPmvZALbFBhFg-KGSn_y"
-    }
-  },
-  {
-    "title": "Otro gran paso para recuperar a Julián",
-    "url": "https://www.marca.com/futbol/atletico/2026/10/04/gran-paso-recuperar-julian-alvarez.html",
-    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
-    "published": "Sun, 04 Oct 2026 11:53:35 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac2120fb84dc.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "خطوة كبيرة أخرى لاستعادة جوليان",
-    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
-    "translation_status": "translated",
-    "post_title": "خطوة كبيرة أخرى لاستعادة جوليان",
-    "post_text": "🚨 خطوة كبيرة أخرى لاستعادة جوليان\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069097339088910",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خطوة_كبيرة_أخرى_لاستعادة_جوليان.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/10/04/gran-paso-recuperar-julian-alvarez.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbRAb-9MxvPXpRMJFzQsa7F"
     }
   }
 ]
