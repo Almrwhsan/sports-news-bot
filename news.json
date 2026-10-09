@@ -1,5 +1,39 @@
 [
   {
+    "title": "Neymar no pierde la magia y marca dos goles para rescatar al Santos",
+    "url": "https://www.marca.com/futbol/america/2026/10/09/neymar-pierde-magia-marca-dos-goles-rescatar-santos-video.html",
+    "summary": "",
+    "published": "Fri, 09 Oct 2026 07:19:19 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/1go7X9n7q69X.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "نيمار لا يفقد سحره ويسجل هدفين لإنقاذ سانتوس",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "نيمار لا يفقد سحره ويسجل هدفين لإنقاذ سانتوس",
+    "post_text": "🚨 نيمار لا يفقد سحره ويسجل هدفين لإنقاذ سانتوس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073129682019009",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيمار_لا_يفقد_سحره_ويسجل_هدفين_لإنقاذ_سانتوس.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/america/2026/10/09/neymar-pierde-magia-marca-dos-goles-rescatar-santos-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFRX0hO35TLQBmXeYf8mWRV"
+    }
+  },
+  {
     "title": "Mensaje de Cristiano Ronaldo contra un periodista: \"Dile que deje el bótox. ¡Parece una manzana!\"",
     "url": "https://www.marca.com/futbol/2026/10/09/mensaje-cristiano-ronaldo-periodista-dile-deje-botox-parece-manzana.html",
     "summary": "Piers Morgan: \"\"Le envié a Cristiano Ronaldo el clip de mi discusión con Simon Jordan y me respondió: 'Dile a ese tipo rubio que deje el bótox. ¡Parece una manzana!'\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AqdvC4hmBG7Tc1mRaKBDzLQ"
-    }
-  },
-  {
-    "title": "Brasil tampoco recupera a Vinicius",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/05/brasil-tampoco-recupera-vinicius.html",
-    "summary": "El delantero no ha logrado con Ancelotti mostrar su mejor versión y le toca a Mou rescatarle ante del Clásico decisivo",
-    "published": "Mon, 05 Oct 2026 07:28:31 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac1298a8c57f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ولم تستعيد البرازيل فينيسيوس أيضًا",
-    "arabic_summary": "لم يتمكن المهاجم من إظهار أفضل ما لديه تحت قيادة أنشيلوتي، والأمر متروك لمو لإنقاذه قبل مباراة الكلاسيكو الحاسمة.",
-    "translation_status": "translated",
-    "post_title": "ولم تستعيد البرازيل فينيسيوس أيضًا",
-    "post_text": "🚨 ولم تستعيد البرازيل فينيسيوس أيضًا\n\n📝 لم يتمكن المهاجم من إظهار أفضل ما لديه تحت قيادة أنشيلوتي، والأمر متروك لمو لإنقاذه قبل مباراة الكلاسيكو الحاسمة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069563285708982",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ولم_تستعيد_البرازيل_فينيسيوس_أيضًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/05/brasil-tampoco-recupera-vinicius.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQyN-ig6pLHoGQnkI7iHiyK"
     }
   }
 ]
