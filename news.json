@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mercedes drivers bemoan new upgrades after SQ struggles",
+    "url": "https://www.skysports.com/watch/video/13596966/singapore-gp-mercedes-drivers-bemoan-new-upgrades-after-sprint-qualyfying-struggles",
+    "summary": "George Russell and Kimi Antonelli discuss Mercedes' new upgrade package.",
+    "published": "Fri, 09 Oct 2026 15:44:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-kimi-mercredes_7372286.jpg?20261009155331",
+    "media_type": "image/jpg",
+    "arabic_title": "يتحسّر سائقو مرسيدس على الترقيات الجديدة بعد معاناة SQ",
+    "arabic_summary": "يناقش جورج راسل وكيمي أنتونيلي حزمة الترقية الجديدة لمرسيدس.",
+    "translation_status": "translated",
+    "post_title": "يتحسّر سائقو مرسيدس على الترقيات الجديدة بعد معاناة SQ",
+    "post_text": "🚨 يتحسّر سائقو مرسيدس على الترقيات الجديدة بعد معاناة SQ\n\n📝 يناقش جورج راسل وكيمي أنتونيلي حزمة الترقية الجديدة لمرسيدس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073315822000395",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتحسّر_سائقو_مرسيدس_على_الترقيات_الجديدة_بعد_معاناة_SQ.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13596966/singapore-gp-mercedes-drivers-bemoan-new-upgrades-after-sprint-qualyfying-struggles",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8OuZR8EHmBI6-kBR69GlRs"
+    }
+  },
+  {
     "title": "South Africa's impressive bowlers halted by bad light as Australia battle",
     "url": "https://www.skysports.com/cricket/news/12040/13596960/south-africa-vs-australia-bad-light-stops-play-on-day-one-of-first-test-as-hosts-reduce-pat-cummins-side-to-187-6-in-durban",
     "summary": "Australia captain Pat Cummins and Matt Renshaw led the fightback against South Africa on day one of the first Test in Durban, as the visitors were reduced to 187-6 before bad light stopped play.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3Pa9B_cMtJxQcZMqiZvHXj"
-    }
-  },
-  {
-    "title": "El deslumbrante debut de Aimen Moueffek con el Cádiz",
-    "url": "https://www.marca.com/futbol/cadiz/2026/10/05/deslumbrante-debut-aimen-moueffek-cadiz.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Mon, 05 Oct 2026 11:12:31 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac3697b5d8b0.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أول ظهور مبهر لأيمن موفق مع قادس",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "أول ظهور مبهر لأيمن موفق مع قادس",
-    "post_text": "🚨 أول ظهور مبهر لأيمن موفق مع قادس\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069770069021637",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أول_ظهور_مبهر_لأيمن_موفق_مع_قادس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/cadiz/2026/10/05/deslumbrante-debut-aimen-moueffek-cadiz.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJeTwDnMMhzmhhwSP0gNWZq"
     }
   }
 ]
