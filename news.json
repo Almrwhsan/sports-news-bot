@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mourinho defiende a Mbappé: “Es ridículo”",
+    "url": "https://as.com/futbol/primera/mourinho-defiende-a-mbappe-es-ridiculo-f202610-d/",
+    "summary": "Señala a la prensa de generar la ola de enfado hacia él. “No ha fallado a sus obligaciones”, alude. “Si hay pitos en el Bernabéu, para vosotros será una gran victoria”, añade.",
+    "published": "Fri, 09 Oct 2026 08:29:40 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NIGA2AIQS5HAVLMPVLFW5OKZVI.JPG?auth=8300badcdd3eb61007a8155bba494b7df034de9cd62ae6b91a379aae84c70776",
+    "media_type": "image/jpeg",
+    "arabic_title": "مورينيو يدافع عن مبابي: هذا أمر سخيف",
+    "arabic_summary": "ويشير إلى الصحافة بأنها ولدت موجة الغضب تجاهه. ويلمح إلى أنه \"لم يقصر في التزاماته\". ويضيف: \"إذا أطلقت صافرات الاستهجان في البرنابيو، فسيكون ذلك انتصارًا عظيمًا لك\".",
+    "translation_status": "translated",
+    "post_title": "مورينيو يدافع عن مبابي: هذا أمر سخيف",
+    "post_text": "🚨 مورينيو يدافع عن مبابي: هذا أمر سخيف\n\n📝 ويشير إلى الصحافة بأنها ولدت موجة الغضب تجاهه. ويلمح إلى أنه \"لم يقصر في التزاماته\". ويضيف: \"إذا أطلقت صافرات الاستهجان في البرنابيو، فسيكون ذلك انتصارًا عظيمًا لك\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1072980788700565",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_يدافع_عن_مبابي_هذا_أمر_سخيف.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/mourinho-defiende-a-mbappe-es-ridiculo-f202610-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARcQ0Vw8hnKiFfRMFCWjya7"
+    }
+  },
+  {
     "title": "Listen: The Premiership is back - weekend preview",
     "url": "https://www.bbc.co.uk/sounds/play/p0pftxly?at_medium=RSS&at_campaign=rss",
     "summary": "It's the SPFL weekend preview",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATGOGcoBtMo5gQ0Z4ae6uu8"
-    }
-  },
-  {
-    "title": "Scott withdraws from England and could miss 'several weeks'",
-    "url": "https://www.skysports.com/football/news/12040/13595264/alex-scott-bournemouth-midfielder-withdraws-from-england-duty-and-could-miss-several-weeks-with-tendon-injury",
-    "summary": "Alex Scott is withdrawing from the England squad after picking up a tendon injury in the 7-0 win over Croatia.",
-    "published": "Mon, 05 Oct 2026 09:16:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-alex-scott-england_7367300.jpg?20261003155554",
-    "media_type": "image/jpg",
-    "arabic_title": "سكوت ينسحب من إنجلترا وقد يغيب لعدة أسابيع",
-    "arabic_summary": "انسحب أليكس سكوت من تشكيلة منتخب إنجلترا بعد تعرضه لإصابة في الوتر خلال الفوز 7-0 على كرواتيا.",
-    "translation_status": "translated",
-    "post_title": "سكوت ينسحب من إنجلترا وقد يغيب لعدة أسابيع",
-    "post_text": "🚨 سكوت ينسحب من إنجلترا وقد يغيب لعدة أسابيع\n\n📝 انسحب أليكس سكوت من تشكيلة منتخب إنجلترا بعد تعرضه لإصابة في الوتر خلال الفوز 7-0 على كرواتيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1069455362386441",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سكوت_ينسحب_من_إنجلترا_وقد_يغيب_لعدة_أسابيع.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13595264/alex-scott-bournemouth-midfielder-withdraws-from-england-duty-and-could-miss-several-weeks-with-tendon-injury",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZ_rUbyqhO5weVN7HWqdOX0"
     }
   }
 ]
