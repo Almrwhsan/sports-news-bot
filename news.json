@@ -1,5 +1,39 @@
 [
   {
+    "title": "'You will see me back' - Smith vows 2027 return after Swiss Darts Trophy win",
+    "url": "https://www.skysports.com/darts/news/12040/13597050/swiss-darts-trophy-former-world-champion-michael-smith-plans-on-playing-100-per-cent-of-the-tournaments-in-2027-after-opening-win",
+    "summary": "Former world champion Michael Smith says he plans on \"playing 100 per cent of the tournaments\" in 2027 after an opening win at the Swiss Darts Trophy.",
+    "published": "Fri, 09 Oct 2026 23:05:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/25/12/1920x1080/skysports-michael-smith-darts_7104716.jpg?20251208122026",
+    "media_type": "image/jpg",
+    "arabic_title": "\"ستراني مرة أخرى\" - يتعهد سميث بالعودة لعام 2027 بعد فوزه بكأس السهام السويسرية",
+    "arabic_summary": "يقول بطل العالم السابق مايكل سميث إنه يخطط \"للعب 100 في المائة من البطولات\" في عام 2027 بعد فوزه الافتتاحي في كأس السهام السويسرية.",
+    "translation_status": "translated",
+    "post_title": "\"ستراني مرة أخرى\" - يتعهد سميث بالعودة لعام 2027 بعد فوزه بكأس السهام السويسرية",
+    "post_text": "🚨 \"ستراني مرة أخرى\" - يتعهد سميث بالعودة لعام 2027 بعد فوزه بكأس السهام السويسرية\n\n📝 يقول بطل العالم السابق مايكل سميث إنه يخطط \"للعب 100 في المائة من البطولات\" في عام 2027 بعد فوزه الافتتاحي في كأس السهام السويسرية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073956778602966",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ستراني_مرة_أخرى_-_يتعهد_سميث_بالعودة_لعام_2027_بعد_فوزه_بكأس_السهام_السويسرية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/darts/news/12040/13597050/swiss-darts-trophy-former-world-champion-michael-smith-plans-on-playing-100-per-cent-of-the-tournaments-in-2027-after-opening-win",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhJ7k6WX-mfuFueR_lqVRQY"
+    }
+  },
+  {
     "title": "Arteta says conscience clear over time at Man City",
     "url": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
     "summary": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AbFGtS_gLmau3zzSKfuQPqO"
-    }
-  },
-  {
-    "title": "Starfelt estará mes y medio de baja",
-    "url": "https://www.marca.com/futbol/celta/2026/10/05/starfelt-estara-mes-medio-baja.html",
-    "summary": "Sufre una rotura fibrilar con afectación en el tendón del muslo derecho",
-    "published": "Mon, 05 Oct 2026 18:31:36 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac1135db3593.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيغيب Starfelt لمدة شهر ونصف",
-    "arabic_summary": "يعاني من تمزق ليفي يؤثر على وتر فخذه الأيمن",
-    "translation_status": "translated",
-    "post_title": "سيغيب Starfelt لمدة شهر ونصف",
-    "post_text": "🚨 سيغيب Starfelt لمدة شهر ونصف\n\n📝 يعاني من تمزق ليفي يؤثر على وتر فخذه الأيمن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070387375626573",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيغيب_Starfelt_لمدة_شهر_ونصف.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/celta/2026/10/05/starfelt-estara-mes-medio-baja.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0uOgqbD7gedlq96sBYLld-"
     }
   }
 ]
