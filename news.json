@@ -1,5 +1,39 @@
 [
   {
+    "title": "Preston beaten by Millwall in Alexander's first game in charge",
+    "url": "https://www.skysports.com/football/preston-north-end-vs-millwall/report/560599",
+    "summary": "Camiel Neghli ensured it was a baptism of fire for new Preston manager Graham Alexander as his late strike sealed a 1-0 win for Millwall at Deepdale.",
+    "published": "Sat, 10 Oct 2026 17:15:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-cami-camiel-neghli_7373381.jpg?20261010174020",
+    "media_type": "image/jpg",
+    "arabic_title": "تعرض بريستون للهزيمة على يد ميلوول في أول مباراة للكسندر",
+    "arabic_summary": "أكد كاميل نيغلي أن الأمر كان بمثابة معمودية النار لمدير بريستون الجديد جراهام ألكساندر، حيث أدى هدفه المتأخر إلى فوز ميلوول 1-0 على ديبديل.",
+    "translation_status": "translated",
+    "post_title": "تعرض بريستون للهزيمة على يد ميلوول في أول مباراة للكسندر",
+    "post_text": "🚨 تعرض بريستون للهزيمة على يد ميلوول في أول مباراة للكسندر\n\n📝 أكد كاميل نيغلي أن الأمر كان بمثابة معمودية النار لمدير بريستون الجديد جراهام ألكساندر، حيث أدى هدفه المتأخر إلى فوز ميلوول 1-0 على ديبديل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074267971905180",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تعرض_بريستون_للهزيمة_على_يد_ميلوول_في_أول_مباراة_للكسندر.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/preston-north-end-vs-millwall/report/560599",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ajz_2rPLj2ZL-0Ot4zAPPqa"
+    }
+  },
+  {
     "title": "What impact has break had & how will Reedijk fare? Premiership questions",
     "url": "https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo?at_medium=RSS&at_campaign=rss",
     "summary": "After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdXjJyAKchMeqZdzdb0PkNw"
-    }
-  },
-  {
-    "title": "Frenkie vuelve al grupo...¡136 días después!",
-    "url": "https://as.com/futbol/frenkie-vuelve-al-grupo136-dias-despues-f202610-n/",
-    "summary": "El centrocampista holandés no se ejercitaba con sus compañeros desde el pasado 22 de mayo. Adeyemi también se incorporó este martes.",
-    "published": "Tue, 06 Oct 2026 10:26:34 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NKUVOTDDB3QMR33OU3S6NLSUGQ.JPG?auth=80586da52c48ef50669a4c0f80096500cae56b1202c6b50c3482476d99e1d3b7",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعود فرينكي إلى المجموعة... بعد 136 يومًا!",
-    "arabic_summary": "ولم يتدرب لاعب خط الوسط الهولندي مع زملائه في الفريق منذ 22 مايو. وانضم أديمي أيضًا يوم الثلاثاء.",
-    "translation_status": "translated",
-    "post_title": "يعود فرينكي إلى المجموعة... بعد 136 يومًا!",
-    "post_text": "🚨 يعود فرينكي إلى المجموعة... بعد 136 يومًا!\n\n📝 ولم يتدرب لاعب خط الوسط الهولندي مع زملائه في الفريق منذ 22 مايو. وانضم أديمي أيضًا يوم الثلاثاء.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071290908869553",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_فرينكي_إلى_المجموعة..._بعد_136_يومًا!.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/frenkie-vuelve-al-grupo136-dias-despues-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUrxU1unGdvRKHodnMBQf9Y"
     }
   }
 ]
