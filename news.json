@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las imágenes del Alavés - Atlético de Madrid",
+    "url": "https://as.com/futbol/fotorrelato/las-imagenes-del-alaves-atletico-de-madrid-f202610-f/",
+    "summary": "El Atlético de Madrid ganó 1-2 al Deportivo Alavés en Mendizorroza en el partido correspondiente a la octava jornada de LaLiga EA Sports. Grimaldo, Lucas Boyé y Cuti Romero, los goleadores.",
+    "published": "Sat, 10 Oct 2026 16:09:07 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YLEPCXMTNBBY7BH4BDLP32HXIQ.JPG?auth=f9e498c99e498fbc5e3684ae0addca6eb5084c96a9b593361a8309a452b00bbb",
+    "media_type": "image/jpeg",
+    "arabic_title": "صور ألافيس - أتلتيكو مدريد",
+    "arabic_summary": "فاز أتلتيكو مدريد على ديبورتيفو ألافيس بنتيجة 1-2 في مينديزوروزا، في المباراة التي أقيمت ضمن منافسات اليوم الثامن من الدوري الإسباني، EA Sports. جريمالدو ولوكاس بوي وكوتي روميرو سجلوا الأهداف.",
+    "translation_status": "translated",
+    "post_title": "صور ألافيس - أتلتيكو مدريد",
+    "post_text": "🚨 صور ألافيس - أتلتيكو مدريد\n\n📝 فاز أتلتيكو مدريد على ديبورتيفو ألافيس بنتيجة 1-2 في مينديزوروزا، في المباراة التي أقيمت ضمن منافسات اليوم الثامن من الدوري الإسباني، EA Sports. جريمالدو ولوكاس بوي وكوتي روميرو سجلوا الأهداف.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074326201899357",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/صور_ألافيس_-_أتلتيكو_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/fotorrelato/las-imagenes-del-alaves-atletico-de-madrid-f202610-f/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5Qbn5h2KkrkfuvhZQORU1K"
+    }
+  },
+  {
     "title": "I've got my own questions on Man City case - Carrick",
     "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
     "summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQn9q1H_HzQ6fKXW6gYaZPe"
-    }
-  },
-  {
-    "title": "La despedida Más Monumental: Messi ya es historia y hace llorar a toda Argentina",
-    "url": "https://www.marca.com/futbol/2026/10/07/despedida-monumental-messi-historia-llorar-toda-argentina.html",
-    "summary": "El astro vivió un día lleno de emociones, culminado con un partido en el que fue el mejor",
-    "published": "Wed, 07 Oct 2026 04:10:39 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/yLV9jne.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الوداع الأضخم: أصبح ميسي الآن تاريخًا ويجعل الأرجنتين كلها تبكي",
-    "arabic_summary": "وعاش النجم يوماً مليئاً بالمشاعر، وبلغ ذروته في مباراة كان الأفضل فيها",
-    "translation_status": "translated",
-    "post_title": "الوداع الأضخم: أصبح ميسي الآن تاريخًا ويجعل الأرجنتين كلها تبكي",
-    "post_text": "🚨 الوداع الأضخم: أصبح ميسي الآن تاريخًا ويجعل الأرجنتين كلها تبكي\n\n📝 وعاش النجم يوماً مليئاً بالمشاعر، وبلغ ذروته في مباراة كان الأفضل فيها\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071340875531223",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الوداع_الأضخم_أصبح_ميسي_الآن_تاريخًا_ويجعل_الأرجنتين_كلها_تبكي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/07/despedida-monumental-messi-historia-llorar-toda-argentina.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAWwpmhLgLlrg4EUHjAKtR7"
     }
   }
 ]
