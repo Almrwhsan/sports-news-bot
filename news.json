@@ -1,5 +1,39 @@
 [
   {
+    "title": "Swansea fight back to beat Norwich and extend Championship lead",
+    "url": "https://www.skysports.com/football/swansea-city-vs-norwich-city/report/560602",
+    "summary": "Adam Idah made up for three near misses in the first half to head Championship leaders Swansea to a 2-1 home win over Norwich.",
+    "published": "Sat, 10 Oct 2026 14:35:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-moussa-yeo-swansea_7373014.jpg?20261010144004",
+    "media_type": "image/jpg",
+    "arabic_title": "سوانزي يقاتل ليهزم نورويتش ويعزز صدارة البطولة",
+    "arabic_summary": "عوض آدم إيداه ثلاث مرات كادت أن تضيع في الشوط الأول ليقود سوانزي متصدر البطولة للفوز 2-1 على ضيفه نورويتش.",
+    "translation_status": "translated",
+    "post_title": "سوانزي يقاتل ليهزم نورويتش ويعزز صدارة البطولة",
+    "post_text": "🚨 سوانزي يقاتل ليهزم نورويتش ويعزز صدارة البطولة\n\n📝 عوض آدم إيداه ثلاث مرات كادت أن تضيع في الشوط الأول ليقود سوانزي متصدر البطولة للفوز 2-1 على ضيفه نورويتش.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074202668578377",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سوانزي_يقاتل_ليهزم_نورويتش_ويعزز_صدارة_البطولة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/swansea-city-vs-norwich-city/report/560602",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5AgFoJ_7NDsQTfrrMwEaEJ"
+    }
+  },
+  {
     "title": "Bristol City extend Charlton's winless run to six games",
     "url": "https://www.skysports.com/football/charlton-athletic-vs-bristol-city/report/560596",
     "summary": "Bristol City goalkeeper Sam Tickle pulled off two big saves in the second half to extend Charlton's winless run in the Championship to six matches after a 1-1 draw at The Valley.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ay59-bZMO3IiX24c4v8E7Jv"
-    }
-  },
-  {
-    "title": "King Kane marks milestone match with star display as England beat Czech Republic",
-    "url": "https://www.skysports.com/football/england-vs-czech-republic/report/554078",
-    "summary": "Harry Kane marked his record-equalling 125th cap with a sensational display as he led England to a 3-0 win over Czech Republic at Wembley.",
-    "published": "Tue, 06 Oct 2026 21:33:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-kane-england_7370037.jpg?20261006210834",
-    "media_type": "image/jpg",
-    "arabic_title": "الملك كين يحتفل بمباراته التاريخية مع عرض النجوم حيث فازت إنجلترا على جمهورية التشيك",
-    "arabic_summary": "سجل هاري كين مباراته الدولية رقم 125 التي تعادل الرقم القياسي بأداء مثير حيث قاد إنجلترا للفوز 3-0 على جمهورية التشيك في ويمبلي.",
-    "translation_status": "translated",
-    "post_title": "الملك كين يحتفل بمباراته التاريخية مع عرض النجوم حيث فازت إنجلترا على جمهورية التشيك",
-    "post_text": "🚨 الملك كين يحتفل بمباراته التاريخية مع عرض النجوم حيث فازت إنجلترا على جمهورية التشيك\n\n📝 سجل هاري كين مباراته الدولية رقم 125 التي تعادل الرقم القياسي بأداء مثير حيث قاد إنجلترا للفوز 3-0 على جمهورية التشيك في ويمبلي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071091155556195",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الملك_كين_يحتفل_بمباراته_التاريخية_مع_عرض_النجوم_حيث_فازت_إنجلترا_على_جمهورية_ال.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/england-vs-czech-republic/report/554078",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFxk0zptSpnKJM6p2PwoaZE"
     }
   }
 ]
