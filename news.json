@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hay nets stoppage-time winner as Dundee come from behind to beat Falkirk",
+    "url": "https://www.skysports.com/football/falkirk-vs-dundee/report/558377",
+    "summary": "Ashley Hay scrambled in a stoppage-time winner on his comeback from injury to secure Dundee a 2-1 victory at Falkirk in the Scottish Premiership.",
+    "published": "Sat, 10 Oct 2026 16:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-ashley-hay-dundee_7373401.jpg?20261010174416",
+    "media_type": "image/jpg",
+    "arabic_title": "سجل هاي هدف الفوز في الوقت المحتسب بدل الضائع حيث عاد دندي من الخلف ليهزم فالكيرك",
+    "arabic_summary": "سجل آشلي هاي هدف الفوز في الوقت المحتسب بدل الضائع بعد عودته من الإصابة ليضمن فوز دندي 2-1 على فالكيرك في الدوري الاسكتلندي الممتاز.",
+    "translation_status": "translated",
+    "post_title": "سجل هاي هدف الفوز في الوقت المحتسب بدل الضائع حيث عاد دندي من الخلف ليهزم فالكيرك",
+    "post_text": "🚨 سجل هاي هدف الفوز في الوقت المحتسب بدل الضائع حيث عاد دندي من الخلف ليهزم فالكيرك\n\n📝 سجل آشلي هاي هدف الفوز في الوقت المحتسب بدل الضائع بعد عودته من الإصابة ليضمن فوز دندي 2-1 على فالكيرك في الدوري الاسكتلندي الممتاز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074270778571566",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سجل_هاي_هدف_الفوز_في_الوقت_المحتسب_بدل_الضائع_حيث_عاد_دندي_من_الخلف_ليهزم_فالكير.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/falkirk-vs-dundee/report/558377",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9XOxbGyDY8jfsfMDLigtA4"
+    }
+  },
+  {
     "title": "Preston beaten by Millwall in Alexander's first game in charge",
     "url": "https://www.skysports.com/football/preston-north-end-vs-millwall/report/560599",
     "summary": "Camiel Neghli ensured it was a baptism of fire for new Preston manager Graham Alexander as his late strike sealed a 1-0 win for Millwall at Deepdale.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5gx1xNl0jvYLLYHtnETHxu"
-    }
-  },
-  {
-    "title": "Julián otea el panorama de agentes",
-    "url": "https://as.com/futbol/primera/julian-otea-el-panorama-de-agentes-f202610-n/",
-    "summary": "Según pudo saber AS, el argentino valora un cambio de representante tras lo acontecido el pasado verano. Varias agencias, detrás de su firma.",
-    "published": "Tue, 06 Oct 2026 12:00:48 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/I4FIHZSKAZLA3JZFBJALK3ZENY.jpg?auth=76bb6522179018ef3be930d10cdecb7f60ef22caa9f70a196a22a5cf2e8ec8d7",
-    "media_type": "image/jpeg",
-    "arabic_title": "جوليان يستعرض بانوراما العملاء",
-    "arabic_summary": "وكما علمت صحيفة AS، فإن الأرجنتيني يفكر في تغيير ممثله بعد ما حدث في الصيف الماضي. عدة وكالات، خلف شركتك.",
-    "translation_status": "translated",
-    "post_title": "جوليان يستعرض بانوراما العملاء",
-    "post_text": "🚨 جوليان يستعرض بانوراما العملاء\n\n📝 وكما علمت صحيفة AS، فإن الأرجنتيني يفكر في تغيير ممثله بعد ما حدث في الصيف الماضي. عدة وكالات، خلف شركتك.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071297012202276",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوليان_يستعرض_بانوراما_العملاء.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/julian-otea-el-panorama-de-agentes-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdXjJyAKchMeqZdzdb0PkNw"
     }
   }
 ]
