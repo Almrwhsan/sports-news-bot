@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bordalás: “¿Carvajal? Entiendo la pregunta pero mi mente está en el Barça”",
+    "url": "https://www.marca.com/futbol/getafe/2026/10/09/bordalas-carvajal-entiendo-pregunta-mi-mente-partido-barcelona.html",
+    "summary": "El técnico azulón comparecía en la previa del partido frente al FC Barcelona y respondía al interés azulón en el ex del Real Madrid",
+    "published": "Fri, 09 Oct 2026 15:22:08 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/fhcz61goFDemO6U9c.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بوردالاس: \"كارفاخال؟ أنا أفهم السؤال ولكن رأيي في برشلونة\"",
+    "arabic_summary": "ظهر مدرب أزولون قبل المباراة ضد برشلونة ورد على اهتمام أزولون بلاعب ريال مدريد السابق",
+    "translation_status": "translated",
+    "post_title": "بوردالاس: \"كارفاخال؟ أنا أفهم السؤال ولكن رأيي في برشلونة\"",
+    "post_text": "🚨 بوردالاس: \"كارفاخال؟ أنا أفهم السؤال ولكن رأيي في برشلونة\"\n\n📝 ظهر مدرب أزولون قبل المباراة ضد برشلونة ورد على اهتمام أزولون بلاعب ريال مدريد السابق\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073882971943680",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوردالاس_كارفاخال؟_أنا_أفهم_السؤال_ولكن_رأيي_في_برشلونة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/getafe/2026/10/09/bordalas-carvajal-entiendo-pregunta-mi-mente-partido-barcelona.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkS9mE3BcSCA0sI3usd2qLq"
+    }
+  },
+  {
     "title": "Bowen's late penalty saved as West Ham held by QPR",
     "url": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605",
     "summary": "Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvD7nZmt0mZkdhsUJg77hGS"
-    }
-  },
-  {
-    "title": "El Girona sobrevive a las bajas",
-    "url": "https://as.com/futbol/el-girona-sobrevive-a-las-bajas-f202610-n/",
-    "summary": "El cuadro de Quique Álvarez supera el parón de selecciones sin conocer la derrota y recupera efectivos.",
-    "published": "Mon, 05 Oct 2026 21:50:54 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GXGGNA7STJAXPLH3EVI5YPVP7A.jpg?auth=00e8578b7960538b9af91521e708c4b24671c9563d14fb55772350b55a0e4d64",
-    "media_type": "image/jpeg",
-    "arabic_title": "جيرونا ينجو من الخسائر",
-    "arabic_summary": "يتغلب فريق كيكي ألفاريز على استراحة المنتخب الوطني دون أن يعرف الهزيمة ويستعيد قواته.",
-    "translation_status": "translated",
-    "post_title": "جيرونا ينجو من الخسائر",
-    "post_text": "🚨 جيرونا ينجو من الخسائر\n\n📝 يتغلب فريق كيكي ألفاريز على استراحة المنتخب الوطني دون أن يعرف الهزيمة ويستعيد قواته.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070212002310777",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيرونا_ينجو_من_الخسائر.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/el-girona-sobrevive-a-las-bajas-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AB7rYQ_KnelBghR27aZVWvL"
     }
   }
 ]
