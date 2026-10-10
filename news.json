@@ -1,5 +1,39 @@
 [
   {
+    "title": "Caparrós: “Siento el apoyo hasta de la gente del Betis”",
+    "url": "https://as.com/futbol/caparros-siento-el-apoyo-hasta-de-la-gente-del-betis-f202610-n/",
+    "summary": "El presidente de honor del Sevilla sigue recuperándose del cáncer de colon que le fue diagnosticado en junio y espera volver a Nervión a comienzos de 2027",
+    "published": "Sat, 10 Oct 2026 08:00:22 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NUVWAEMT45C5HJN53MZHSZ4F2U.jpg?auth=e6f3f6f27ba5447d3918a44fbaf55d9e2872adc3f4723fd876d2aa10c21afa5a",
+    "media_type": "image/jpeg",
+    "arabic_title": "كاباروس: \"أشعر بالدعم حتى من سكان بيتيس\"",
+    "arabic_summary": "يواصل الرئيس الفخري لإشبيلية تعافيه من سرطان القولون الذي تم تشخيصه في يونيو ويأمل في العودة إلى نيرفيون في بداية عام 2027",
+    "translation_status": "translated",
+    "post_title": "كاباروس: \"أشعر بالدعم حتى من سكان بيتيس\"",
+    "post_text": "🚨 كاباروس: \"أشعر بالدعم حتى من سكان بيتيس\"\n\n📝 يواصل الرئيس الفخري لإشبيلية تعافيه من سرطان القولون الذي تم تشخيصه في يونيو ويأمل في العودة إلى نيرفيون في بداية عام 2027\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074050948593549",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاباروس_أشعر_بالدعم_حتى_من_سكان_بيتيس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/caparros-siento-el-apoyo-hasta-de-la-gente-del-betis-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvipOSusRBxomAU13TXgtpj"
+    }
+  },
+  {
     "title": "England's Smith shines with Baycurrent Classic set for final-round thriller",
     "url": "https://www.skysports.com/watch/video/13597124/the-baycurrent-classic-day-three-highlights",
     "summary": "Highlights from the third round of the PGA Tour Baycurrent Classic.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArBUoHDfa-7-81GXjPyfxOS"
-    }
-  },
-  {
-    "title": "Brais Méndez reivindica a Oyarzabal: “Que no esté entre los 30 mejores del mundo es una aberración”",
-    "url": "https://www.marca.com/radio/2026/10/06/brais-mendez-reivindica-oyarzabal-30-mejores-mundo-aberracion.html",
-    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
-    "published": "Tue, 06 Oct 2026 08:22:39 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d43DM1gRnPs7qzaeG.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "برايس مينديز يبرئ أويارزابال: \"عدم وجوده ضمن أفضل 30 لاعبًا في العالم هو انحراف\"",
-    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
-    "translation_status": "translated",
-    "post_title": "برايس مينديز يبرئ أويارزابال: \"عدم وجوده ضمن أفضل 30 لاعبًا في العالم هو انحراف\"",
-    "post_text": "🚨 برايس مينديز يبرئ أويارزابال: \"عدم وجوده ضمن أفضل 30 لاعبًا في العالم هو انحراف\"\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070469442285033",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برايس_مينديز_يبرئ_أويارزابال_عدم_وجوده_ضمن_أفضل_30_لاعبًا_في_العالم_هو_انحراف.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/radio/2026/10/06/brais-mendez-reivindica-oyarzabal-30-mejores-mundo-aberracion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APdDnK0RDSrh9r40e9kxIVA"
     }
   }
 ]
