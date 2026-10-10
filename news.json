@@ -1,5 +1,39 @@
 [
   {
+    "title": "Can Ferraris work together to beat Verstappen at Singapore GP?",
+    "url": "https://www.skysports.com/f1/news/12040/13597106/singapore-gp-can-charles-leclerc-and-lewis-hamilton-work-together-to-beat-max-verstappen-in-sundays-race",
+    "summary": "Lewis Hamilton says Ferrari will do \"whatever it takes\" as a team to beat Max Verstappen in Sunday's Singapore Grand Prix.",
+    "published": "Sat, 10 Oct 2026 17:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-lewis-hamilton_7373236.jpg?20261010163413",
+    "media_type": "image/jpg",
+    "arabic_title": "هل يستطيع فيراري العمل معًا للتغلب على فيرشتابن في جائزة سنغافورة الكبرى؟",
+    "arabic_summary": "قال لويس هاميلتون إن فريق فيراري سيفعل \"كل ما يلزم\" كفريق للتغلب على ماكس فيرستابين في سباق جائزة سنغافورة الكبرى يوم الأحد.",
+    "translation_status": "translated",
+    "post_title": "هل يستطيع فيراري العمل معًا للتغلب على فيرشتابن في جائزة سنغافورة الكبرى؟",
+    "post_text": "🚨 هل يستطيع فيراري العمل معًا للتغلب على فيرشتابن في جائزة سنغافورة الكبرى؟\n\n📝 قال لويس هاميلتون إن فريق فيراري سيفعل \"كل ما يلزم\" كفريق للتغلب على ماكس فيرستابين في سباق جائزة سنغافورة الكبرى يوم الأحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074344265230884",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_يستطيع_فيراري_العمل_معًا_للتغلب_على_فيرشتابن_في_جائزة_سنغافورة_الكبرى؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13597106/singapore-gp-can-charles-leclerc-and-lewis-hamilton-work-together-to-beat-max-verstappen-in-sundays-race",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "APvFPeGFAZPMzUIiSl4XrrI"
+    }
+  },
+  {
     "title": "Naderi scores twice as Rangers beat Kilmarnock to move top",
     "url": "https://www.skysports.com/football/rangers-vs-kilmarnock/report/558380",
     "summary": "Ryan Naderi scored a double as Rangers moved top of the Scottish Premiership with a 3-1 win over Kilmarnock.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Abr3RnTEBxfhB7z9R9hrwle"
-    }
-  },
-  {
-    "title": "Villarreal: Un equipo que aún está en fase de construcción",
-    "url": "https://www.marca.com/futbol/primera-division/2026/10/07/villarreal-equipo-aun-fase-construccion.html",
-    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
-    "published": "Wed, 07 Oct 2026 06:11:30 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/23/6ab42c1584558.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فياريال: فريق لا يزال في مرحلة البناء",
-    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
-    "translation_status": "translated",
-    "post_title": "فياريال: فريق لا يزال في مرحلة البناء",
-    "post_text": "🚨 فياريال: فريق لا يزال في مرحلة البناء\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071359028862741",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فياريال_فريق_لا_يزال_في_مرحلة_البناء.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/10/07/villarreal-equipo-aun-fase-construccion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATGWg_Re4fLexvq-F47cFmp"
     }
   }
 ]
