@@ -1,5 +1,39 @@
 [
   {
+    "title": "Posible once del Getafe en la jornada 8 de LaLiga EA Sports",
+    "url": "https://as.com/futbol/primera/posible-once-del-getafe-en-la-jornada-8-de-laliga-ea-sports-f202610-n/",
+    "summary": "El cuadro de Bordalás visita al FC Barcelona en el Camp Nou.",
+    "published": "Sat, 10 Oct 2026 09:49:33 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RKYCQT2MEVHXLGNOGD57G73NZY.JPG?auth=dae58915e826aac80b71ae2b70d36e3a14900876f9c102fed1362447d97f77da",
+    "media_type": "image/jpeg",
+    "arabic_title": "من المحتمل أن يواجه خيتافي 11 مباراة في اليوم الثامن من الدوري الإسباني EA Sports",
+    "arabic_summary": "يزور فريق بوردالاس نادي برشلونة في الكامب نو.",
+    "translation_status": "translated",
+    "post_title": "من المحتمل أن يواجه خيتافي 11 مباراة في اليوم الثامن من الدوري الإسباني EA Sports",
+    "post_text": "🚨 من المحتمل أن يواجه خيتافي 11 مباراة في اليوم الثامن من الدوري الإسباني EA Sports\n\n📝 يزور فريق بوردالاس نادي برشلونة في الكامب نو.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074347225230588",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_المحتمل_أن_يواجه_خيتافي_11_مباراة_في_اليوم_الثامن_من_الدوري_الإسباني_EA_Sport.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/posible-once-del-getafe-en-la-jornada-8-de-laliga-ea-sports-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXE2_PKVuT1L3AciulGuOTu"
+    }
+  },
+  {
     "title": "Can Ferraris work together to beat Verstappen at Singapore GP?",
     "url": "https://www.skysports.com/f1/news/12040/13597106/singapore-gp-can-charles-leclerc-and-lewis-hamilton-work-together-to-beat-max-verstappen-in-sundays-race",
     "summary": "Lewis Hamilton says Ferrari will do \"whatever it takes\" as a team to beat Max Verstappen in Sunday's Singapore Grand Prix.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7Zfz77pXWDi-Pf23jS-Mpj"
-    }
-  },
-  {
-    "title": "Sky Sports to show England's ODI tri-series in Pakistan",
-    "url": "https://www.skysports.com/cricket/news/12040/13595770/sky-sports-to-show-englands-odi-tri-series-against-pakistan-and-sri-lanka-live-from-october-18-31",
-    "summary": "Sky Sports will broadcast England's one-day international tri-series against Pakistan and Sri Lanka in full this October.",
-    "published": "Wed, 07 Oct 2026 11:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-cricket-odi-sri-lanka_7370448.jpg?20261007122004",
-    "media_type": "image/jpg",
-    "arabic_title": "سكاي سبورتس تعرض سلسلة ODI الثلاثية الإنجليزية في باكستان",
-    "arabic_summary": "ستبث قناة سكاي سبورتس مباريات إنجلترا الدولية الثلاثية لمدة يوم واحد ضد باكستان وسريلانكا بالكامل في شهر أكتوبر المقبل.",
-    "translation_status": "translated",
-    "post_title": "سكاي سبورتس تعرض سلسلة ODI الثلاثية الإنجليزية في باكستان",
-    "post_text": "🚨 سكاي سبورتس تعرض سلسلة ODI الثلاثية الإنجليزية في باكستان\n\n📝 ستبث قناة سكاي سبورتس مباريات إنجلترا الدولية الثلاثية لمدة يوم واحد ضد باكستان وسريلانكا بالكامل في شهر أكتوبر المقبل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071369972194980",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سكاي_سبورتس_تعرض_سلسلة_ODI_الثلاثية_الإنجليزية_في_باكستان.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13595770/sky-sports-to-show-englands-odi-tri-series-against-pakistan-and-sri-lanka-live-from-october-18-31",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Abr3RnTEBxfhB7z9R9hrwle"
     }
   }
 ]
