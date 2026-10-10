@@ -1,5 +1,39 @@
 [
   {
+    "title": "Northampton beat Bath in chaotic 18-try, 119-point classic",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13597376/gallagher-prem-northampton-saints-run-riot-to-defeat-bath-71-48-in-second-highest-scoring-game-in-history-of-competition",
+    "summary": "Northampton Saints ran riot to defeat Bath 71-48 in the second highest-scoring Gallagher Prem game in history.",
+    "published": "Sat, 10 Oct 2026 18:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-northampton-saints_7373380.jpg?20261010174010",
+    "media_type": "image/jpg",
+    "arabic_title": "فاز نورثامبتون على باث في 18 محاولة فوضوية و 119 نقطة كلاسيكية",
+    "arabic_summary": "قام نورثهامبتون ساينتس بأعمال شغب ليهزم باث 71-48 في ثاني أعلى مباراة لفريق غالاغر بريم في التاريخ.",
+    "translation_status": "translated",
+    "post_title": "فاز نورثامبتون على باث في 18 محاولة فوضوية و 119 نقطة كلاسيكية",
+    "post_text": "🚨 فاز نورثامبتون على باث في 18 محاولة فوضوية و 119 نقطة كلاسيكية\n\n📝 قام نورثهامبتون ساينتس بأعمال شغب ليهزم باث 71-48 في ثاني أعلى مباراة لفريق غالاغر بريم في التاريخ.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074357181896259",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاز_نورثامبتون_على_باث_في_18_محاولة_فوضوية_و_119_نقطة_كلاسيكية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/news/12040/13597376/gallagher-prem-northampton-saints-run-riot-to-defeat-bath-71-48-in-second-highest-scoring-game-in-history-of-competition",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmJzkFP6t1IvNA5Kfi9PIbG"
+    }
+  },
+  {
     "title": "Posible once del Getafe en la jornada 8 de LaLiga EA Sports",
     "url": "https://as.com/futbol/primera/posible-once-del-getafe-en-la-jornada-8-de-laliga-ea-sports-f202610-n/",
     "summary": "El cuadro de Bordalás visita al FC Barcelona en el Camp Nou.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ALZ0PtMS53Y--uoH3V4vaux"
-    }
-  },
-  {
-    "title": "What's the story, Pocognoli? What we learned from his first Scotland camp",
-    "url": "https://www.skysports.com/football/news/12040/13596031/scotland-what-did-we-learn-from-sebastian-pocognolis-first-four-nations-league-games-in-charge",
-    "summary": "Following Steve Clarke&#8217;s resignation as national team head coach, there was a thirst from Scotland fans for change.",
-    "published": "Wed, 07 Oct 2026 10:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-nations-league-scotland_7370228.jpg?20261007090940",
-    "media_type": "image/jpg",
-    "arabic_title": "ما القصة يا بوكوجنولي؟ ما تعلمناه من معسكره الأول في اسكتلندا",
-    "arabic_summary": "بعد استقالة ستيف كلارك من منصبه كمدرب للمنتخب الوطني، كان هناك تعطش لدى مشجعي اسكتلندا للتغيير.",
-    "translation_status": "translated",
-    "post_title": "ما القصة يا بوكوجنولي؟ ما تعلمناه من معسكره الأول في اسكتلندا",
-    "post_text": "🚨 ما القصة يا بوكوجنولي؟ ما تعلمناه من معسكره الأول في اسكتلندا\n\n📝 بعد استقالة ستيف كلارك من منصبه كمدرب للمنتخب الوطني، كان هناك تعطش لدى مشجعي اسكتلندا للتغيير.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071369805528330",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_القصة_يا_بوكوجنولي؟_ما_تعلمناه_من_معسكره_الأول_في_اسكتلندا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13596031/scotland-what-did-we-learn-from-sebastian-pocognolis-first-four-nations-league-games-in-charge",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7Zfz77pXWDi-Pf23jS-Mpj"
     }
   }
 ]
