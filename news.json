@@ -1,5 +1,39 @@
 [
   {
+    "title": "Funes: \"En la segunda parte solo ha habido un equipo\"",
+    "url": "https://www.marca.com/futbol/malaga/2026/10/10/funes-segunda-parte-habido-equipo.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Sat, 10 Oct 2026 00:11:34 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/10/6ac9667988d23.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فونيس: \"في الشوط الثاني كان هناك فريق واحد فقط\"",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "فونيس: \"في الشوط الثاني كان هناك فريق واحد فقط\"",
+    "post_text": "🚨 فونيس: \"في الشوط الثاني كان هناك فريق واحد فقط\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074317335233577",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فونيس_في_الشوط_الثاني_كان_هناك_فريق_واحد_فقط.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/10/10/funes-segunda-parte-habido-equipo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aa333qqCdGWsKtGBbYZKA4-"
+    }
+  },
+  {
     "title": "Neuer le cuesta un disgusto al Bayern",
     "url": "https://as.com/futbol/internacional/neuer-le-cuesta-un-disgusto-al-bayern-f202610-n/",
     "summary": "Dos errores inusuales del portero alemán impidieron que el campeón recuperara el liderato de la Bundesliga.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAhRsRycs_6v0avPbyTFqd5"
-    }
-  },
-  {
-    "title": "\"Claro que me gustaría volver al Madrid, pero no debemos forzar nada\"",
-    "url": "https://www.marca.com/futbol/nations-league/2026/10/07/luka-modric-secreto-eterna-juventud-me-sienta-asi-quiero-seguir-jugando.html",
-    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
-    "published": "Wed, 07 Oct 2026 01:38:43 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/faO2U1gnOJgIqC4a9.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"بالطبع أود العودة إلى مدريد، لكن لا يجب أن نجبر على أي شيء\"",
-    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
-    "translation_status": "translated",
-    "post_title": "\"بالطبع أود العودة إلى مدريد، لكن لا يجب أن نجبر على أي شيء\"",
-    "post_text": "🚨 \"بالطبع أود العودة إلى مدريد، لكن لا يجب أن نجبر على أي شيء\"\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071309838867660",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بالطبع_أود_العودة_إلى_مدريد،_لكن_لا_يجب_أن_نجبر_على_أي_شيء.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/10/07/luka-modric-secreto-eterna-juventud-me-sienta-asi-quiero-seguir-jugando.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ay0UeVHMmxlr_VyQJD08e6t"
     }
   }
 ]
