@@ -1,5 +1,39 @@
 [
   {
+    "title": "Joaquín Caparrós espera volver en enero al Sánchez-Pizjuán",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/10/joaquin-caparros-espera-volver-enero-sanchez-pizjuan.html",
+    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
+    "published": "Sat, 10 Oct 2026 09:29:14 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/29/6abba4d40ad43.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يأمل خواكين كاباروس في العودة إلى سانشيز بيزخوان في يناير",
+    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
+    "translation_status": "translated",
+    "post_title": "يأمل خواكين كاباروس في العودة إلى سانشيز بيزخوان في يناير",
+    "post_text": "🚨 يأمل خواكين كاباروس في العودة إلى سانشيز بيزخوان في يناير\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074366368562007",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يأمل_خواكين_كاباروس_في_العودة_إلى_سانشيز_بيزخوان_في_يناير.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/10/joaquin-caparros-espera-volver-enero-sanchez-pizjuan.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A62yC0wWs57e_jzBm12Mq3Y"
+    }
+  },
+  {
     "title": "Northampton beat Bath in chaotic 18-try, 119-point classic",
     "url": "https://www.skysports.com/rugby-union/news/12040/13597376/gallagher-prem-northampton-saints-run-riot-to-defeat-bath-71-48-in-second-highest-scoring-game-in-history-of-competition",
     "summary": "Northampton Saints ran riot to defeat Bath 71-48 in the second highest-scoring Gallagher Prem game in history.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AP5JdUvIMGVAN-oVu6VikJt"
-    }
-  },
-  {
-    "title": "\"Ni el Gobierno...\"",
-    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/gobierno.html",
-    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
-    "published": "Wed, 07 Oct 2026 06:16:39 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac4cdac2ca88.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"ولا حتى الحكومة...\"",
-    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
-    "translation_status": "translated",
-    "post_title": "\"ولا حتى الحكومة...\"",
-    "post_text": "🚨 \"ولا حتى الحكومة...\"\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071369688861675",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ولا_حتى_الحكومة....png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/gobierno.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ALZ0PtMS53Y--uoH3V4vaux"
     }
   }
 ]
