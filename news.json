@@ -1,5 +1,39 @@
 [
   {
+    "title": "Málaga - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
+    "url": "https://www.marca.com/futbol/primera-division/2026/10/09/01-0101-20261009-182-177.html",
+    "summary": "Sigue en vivo y en directo el Málaga - Espanyol de LaLiga EA Sports con todos los goles y estadísticas del partido",
+    "published": "Fri, 09 Oct 2026 19:01:18 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "ملقا - اسبانيول مباشر | آخر الأخبار من LALIGA EA Sports مباشرة اليوم",
+    "arabic_summary": "تابع ملقا - اسبانيول من الدوري الإسباني EA Sports بث حي ومباشر مع جميع أهداف وإحصائيات المباراة",
+    "translation_status": "translated",
+    "post_title": "ملقا - اسبانيول مباشر | آخر الأخبار من LALIGA EA Sports مباشرة اليوم",
+    "post_text": "🚨 ملقا - اسبانيول مباشر | آخر الأخبار من LALIGA EA Sports مباشرة اليوم\n\n📝 تابع ملقا - اسبانيول من الدوري الإسباني EA Sports بث حي ومباشر مع جميع أهداف وإحصائيات المباراة\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073973705267940",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملقا_-_اسبانيول_مباشر_آخر_الأخبار_من_LALIGA_EA_Sports_مباشرة_اليوم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOfN2tTs7hfcj89Ufo23bVQ"
+    }
+  },
+  {
     "title": "From doomscrolling to defiance - how do Man City fans feel?",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm040l634249o?at_medium=RSS&at_campaign=rss",
     "summary": "With Manchester City found guilty of the majority of 115 charges against them, how are their fans feeling?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_QW766yykiqa1eJ9N_AXVJ"
-    }
-  },
-  {
-    "title": "8 de octubre, nuevo día clave para el futuro de Rakan Al-Thani",
-    "url": "https://www.marca.com/futbol/malaga/2026/10/05/8-octubre-nuevo-dia-clave-futuro-rakan-thani.html",
-    "summary": "El hijo del jeque prestará declaración en Málaga",
-    "published": "Mon, 05 Oct 2026 20:36:54 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac3ed28e28ff.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "8 أكتوبر، يوم مهم جديد لمستقبل راكان آل ثاني",
-    "arabic_summary": "نجل الشيخ سيدلي ببيان في ملقة",
-    "translation_status": "translated",
-    "post_title": "8 أكتوبر، يوم مهم جديد لمستقبل راكان آل ثاني",
-    "post_text": "🚨 8 أكتوبر، يوم مهم جديد لمستقبل راكان آل ثاني\n\n📝 نجل الشيخ سيدلي ببيان في ملقة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070399845625326",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/8_أكتوبر،_يوم_مهم_جديد_لمستقبل_راكان_آل_ثاني.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/malaga/2026/10/05/8-octubre-nuevo-dia-clave-futuro-rakan-thani.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aq_T5dTjIRtkuq3l89seFAu"
     }
   }
 ]
