@@ -1,5 +1,39 @@
 [
   {
+    "title": "Brentford still unbeaten after Ajer levels at Villa",
+    "url": "https://www.skysports.com/football/aston-villa-vs-brentford/report/559495",
+    "summary": "Kristoffer Ajer's equaliser earned a 2-2 draw for Brentford at Aston Villa to maintain their unbeaten start to the Premier League season.",
+    "published": "Sat, 10 Oct 2026 17:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kristoffer-ajer-aaron-hickey_7373312.jpg?20261010170531",
+    "media_type": "image/jpg",
+    "arabic_title": "برينتفورد لا يزال خاليًا من الهزائم بعد مستويات أجر في فيلا",
+    "arabic_summary": "حقق هدف التعادل الذي سجله كريستوفر أجر التعادل 2-2 لبرينتفورد في أستون فيلا ليحافظ على بدايته الخالية من الهزائم في موسم الدوري الإنجليزي الممتاز.",
+    "translation_status": "translated",
+    "post_title": "برينتفورد لا يزال خاليًا من الهزائم بعد مستويات أجر في فيلا",
+    "post_text": "🚨 برينتفورد لا يزال خاليًا من الهزائم بعد مستويات أجر في فيلا\n\n📝 حقق هدف التعادل الذي سجله كريستوفر أجر التعادل 2-2 لبرينتفورد في أستون فيلا ليحافظ على بدايته الخالية من الهزائم في موسم الدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074233311908646",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برينتفورد_لا_يزال_خاليًا_من_الهزائم_بعد_مستويات_أجر_في_فيلا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/aston-villa-vs-brentford/report/559495",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AKABi6eTlj8xFrVIngPVmYQ"
+    }
+  },
+  {
     "title": "Ipswich late show keeps Fulham winless under Arbeloa",
     "url": "https://www.skysports.com/football/ipswich-town-vs-fulham/report/559500",
     "summary": "Fulham remain winless in the Premier League under Alvaro Arbeloa after Ipswich stung them with two late goals in a 2-1 win.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Akc7A4sxT6TTQ05Ad8dzHPb"
-    }
-  },
-  {
-    "title": "Güler decide si ser Guti o ser Modric",
-    "url": "https://as.com/opinion/arda-guler-a-un-paso-de-la-consagracion-f202610-n/",
-    "summary": "El turco es uno de los fichajes más brillantes del Madrid de los últimos tiempos, pero su futuro como titular indiscutible para por poder adaptarse a posiciones más retrasadas.",
-    "published": "Mon, 05 Oct 2026 18:08:14 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/EPPU3F6AJRHYFA747DPR56566I.jpg?auth=b3b9773f573ee77b345bd9e17409f280cdf7dd07d5604a49f3a2deaa8f2e25b3",
-    "media_type": "image/jpeg",
-    "arabic_title": "جولر يقرر ما إذا كان جوتي أم مودريتش",
-    "arabic_summary": "يعد التركي واحدًا من أكثر التعاقدات الرائعة مع ريال مدريد في الآونة الأخيرة، لكن مستقبله كلاعب أساسي لا جدال فيه حتى يتمكن من التكيف مع المواقف الأكثر تخلفًا.",
-    "translation_status": "translated",
-    "post_title": "جولر يقرر ما إذا كان جوتي أم مودريتش",
-    "post_text": "🚨 جولر يقرر ما إذا كان جوتي أم مودريتش\n\n📝 يعد التركي واحدًا من أكثر التعاقدات الرائعة مع ريال مدريد في الآونة الأخيرة، لكن مستقبله كلاعب أساسي لا جدال فيه حتى يتمكن من التكيف مع المواقف الأكثر تخلفًا.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071216442210333",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جولر_يقرر_ما_إذا_كان_جوتي_أم_مودريتش.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/arda-guler-a-un-paso-de-la-consagracion-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXy_3DZBr2yYAXX3k6lagIm"
     }
   }
 ]
