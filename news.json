@@ -1,5 +1,39 @@
 [
   {
+    "title": "Aramco Korea Championship | Day three highlights",
+    "url": "https://www.skysports.com/watch/video/13597146/aramco-korea-championship-day-three-highlights",
+    "summary": "Highlights from the third round of the Aramco Korea Championship.",
+    "published": "Sat, 10 Oct 2026 09:42:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-d-a_7372701.jpg?20261010094536",
+    "media_type": "image/jpg",
+    "arabic_title": "بطولة أرامكو كوريا | أبرز أحداث اليوم الثالث",
+    "arabic_summary": "مقتطفات من الجولة الثالثة لبطولة أرامكو كوريا.",
+    "translation_status": "translated",
+    "post_title": "بطولة أرامكو كوريا | أبرز أحداث اليوم الثالث",
+    "post_text": "🚨 بطولة أرامكو كوريا | أبرز أحداث اليوم الثالث\n\n📝 مقتطفات من الجولة الثالثة لبطولة أرامكو كوريا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074079955257315",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطولة_أرامكو_كوريا_أبرز_أحداث_اليوم_الثالث.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13597146/aramco-korea-championship-day-three-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AybPuUfTqs3maiDDt2FsH2H"
+    }
+  },
+  {
     "title": "\"Si ahora tenemos que cuestionar a Morata...\"",
     "url": "https://www.marca.com/futbol/leganes/2026/10/09/ruben-albes-cuestionar-morata-creo-pajaros-estan-disparando-escopetas.html",
     "summary": "El técnico del Leganés asegura que vio en su equipo rebeldía tras el 4-0 encajado en Cádiz",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AU8CJVME9SdB5R5pFmjElO_"
-    }
-  },
-  {
-    "title": "All the goals from the Women's Super League - matchweek five",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
-    "summary": "Watch every goal from matchweek five of the Women's Super League 2026-27 season.",
-    "published": "Mon, 05 Oct 2026 08:55:39 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2517/live/470ea640-c038-11f1-a64c-550be9e3c66b.jpg",
-    "media_type": null,
-    "arabic_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة الخامسة",
-    "arabic_summary": "شاهد كل هدف من الجولة الخامسة من دوري السوبر للسيدات لموسم 2026-27.",
-    "translation_status": "translated",
-    "post_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة الخامسة",
-    "post_text": "🚨 جميع أهداف الدوري الممتاز للسيدات - الجولة الخامسة\n\n📝 شاهد كل هدف من الجولة الخامسة من دوري السوبر للسيدات لموسم 2026-27.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070551668943477",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جميع_أهداف_الدوري_الممتاز_للسيدات_-_الجولة_الخامسة.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-pD79wr-jCtzdaGMAEDn5j"
     }
   }
 ]
