@@ -1,5 +1,39 @@
 [
   {
+    "title": "Singapore GP: Hamilton targets Verstappen pole fight in 2.30pm Qualifying",
+    "url": "https://www.skysports.com/f1/live-blog/12040/13597107/f1-singapore-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-marina-bay-circuit-race-weekend",
+    "summary": "",
+    "published": "Sat, 10 Oct 2026 08:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7371348.jpg?20261010135415",
+    "media_type": "image/jpg",
+    "arabic_title": "جائزة سنغافورة الكبرى: هاميلتون يستهدف معركة فيرستابين من أول المنطلقين في التصفيات الساعة 2.30 ظهرًا",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "جائزة سنغافورة الكبرى: هاميلتون يستهدف معركة فيرستابين من أول المنطلقين في التصفيات الساعة 2.30 ظهرًا",
+    "post_text": "🚨 جائزة سنغافورة الكبرى: هاميلتون يستهدف معركة فيرستابين من أول المنطلقين في التصفيات الساعة 2.30 ظهرًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074058265259484",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جائزة_سنغافورة_الكبرى_هاميلتون_يستهدف_معركة_فيرستابين_من_أول_المنطلقين_في_التصفي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/live-blog/12040/13597107/f1-singapore-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-marina-bay-circuit-race-weekend",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHo-P_yDvhyMpezjoV6RJMI"
+    }
+  },
+  {
     "title": "Caparrós: “Siento el apoyo hasta de la gente del Betis”",
     "url": "https://as.com/futbol/caparros-siento-el-apoyo-hasta-de-la-gente-del-betis-f202610-n/",
     "summary": "El presidente de honor del Sevilla sigue recuperándose del cáncer de colon que le fue diagnosticado en junio y espera volver a Nervión a comienzos de 2027",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVePLgKcm5nKe1_YWqHnmVM"
-    }
-  },
-  {
-    "title": "India's World Cup-winning captain Harmanpreet steps down",
-    "url": "https://www.skysports.com/cricket/news/12040/13595632/harmanpreet-kaur-indias-world-cup-winning-captain-steps-down-from-role-across-all-three-formats-of-cricket",
-    "summary": "India's World Cup-winning captain Harmanpreet Kaur has stepped down from the role across all three formats.",
-    "published": "Tue, 06 Oct 2026 08:45:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/25/11/1920x1080/skysports-harmanpreet-kaur_7070452.jpg?20251103095653",
-    "media_type": "image/jpg",
-    "arabic_title": "يتنحى كابتن منتخب الهند الفائز بكأس العالم هارمانبريت عن منصبه",
-    "arabic_summary": "استقال قائد منتخب الهند الفائز بكأس العالم، هارمانبريت كور، من منصبه في جميع الأشكال الثلاثة.",
-    "translation_status": "translated",
-    "post_title": "يتنحى كابتن منتخب الهند الفائز بكأس العالم هارمانبريت عن منصبه",
-    "post_text": "🚨 يتنحى كابتن منتخب الهند الفائز بكأس العالم هارمانبريت عن منصبه\n\n📝 استقال قائد منتخب الهند الفائز بكأس العالم، هارمانبريت كور، من منصبه في جميع الأشكال الثلاثة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070514328947211",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتنحى_كابتن_منتخب_الهند_الفائز_بكأس_العالم_هارمانبريت_عن_منصبه.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13595632/harmanpreet-kaur-indias-world-cup-winning-captain-steps-down-from-role-across-all-three-formats-of-cricket",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArBUoHDfa-7-81GXjPyfxOS"
     }
   }
 ]
