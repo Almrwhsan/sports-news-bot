@@ -1,5 +1,39 @@
 [
   {
+    "title": "Shai y la conexión canadiense: Atlético Ottawa y Jonathan David",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/09/shai-conexion-canadiense-atletico-ottawa-jonathan-david.html",
+    "summary": "La llegada del nuevo inversor amplía el vínculo con el país norteamericano",
+    "published": "Fri, 09 Oct 2026 17:15:04 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac8e0661cab9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "شاي والاتصال الكندي: أتلتيكو أوتاوا وجوناثان ديفيد",
+    "arabic_summary": "وصول المستثمر الجديد يوسع الارتباط مع الدولة الواقعة في أمريكا الشمالية",
+    "translation_status": "translated",
+    "post_title": "شاي والاتصال الكندي: أتلتيكو أوتاوا وجوناثان ديفيد",
+    "post_text": "🚨 شاي والاتصال الكندي: أتلتيكو أوتاوا وجوناثان ديفيد\n\n📝 وصول المستثمر الجديد يوسع الارتباط مع الدولة الواقعة في أمريكا الشمالية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073924115272899",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شاي_والاتصال_الكندي_أتلتيكو_أوتاوا_وجوناثان_ديفيد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/09/shai-conexion-canadiense-atletico-ottawa-jonathan-david.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhPkQh5u7WH0brR44jKqdcU"
+    }
+  },
+  {
     "title": "El ‘hijo del fútbol holandés’ cumple su promesa",
     "url": "https://as.com/futbol/el-hijo-del-futbol-holandes-cumple-su-promesa-f202610-n/",
     "summary": "Holanda recupera la autoestima competitiva y el buen juego con la llegada de Xavi. Él está feliz y se mimetiza con la cultura neerlandesa.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8xS8gofjJvfZZQKrM8r3Vk"
-    }
-  },
-  {
-    "title": "BTS of Wakefield's Grand Final celebrations! - The Bench with Jenna & Jon",
-    "url": "https://www.skysports.com/watch/video/13595334/the-bench-podcast-inside-the-winning-wakefield-dressing-room-at-old-trafford",
-    "summary": "Moments after winning the Super League Grand Final, Jenna, Jon and Sam head inside the Wakefield Trinity dressing room to join the celebrations.",
-    "published": "Mon, 05 Oct 2026 12:03:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-bench-pod_7368835.jpg?20261005140528",
-    "media_type": "image/jpg",
-    "arabic_title": "احتفالات BTS من ويكفيلد بالنهائي الكبير! - المقعد مع جينا وجون",
-    "arabic_summary": "بعد لحظات من الفوز بالنهائي الكبير لدوري السوبر، تتوجه جينا وجون وسام إلى غرفة تبديل الملابس في ويكفيلد ترينيتي للانضمام إلى الاحتفالات.",
-    "translation_status": "translated",
-    "post_title": "احتفالات BTS من ويكفيلد بالنهائي الكبير! - المقعد مع جينا وجون",
-    "post_text": "🚨 احتفالات BTS من ويكفيلد بالنهائي الكبير! - المقعد مع جينا وجون\n\n📝 بعد لحظات من الفوز بالنهائي الكبير لدوري السوبر، تتوجه جينا وجون وسام إلى غرفة تبديل الملابس في ويكفيلد ترينيتي للانضمام إلى الاحتفالات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070281062303871",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/احتفالات_BTS_من_ويكفيلد_بالنهائي_الكبير!_-_المقعد_مع_جينا_وجون.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13595334/the-bench-podcast-inside-the-winning-wakefield-dressing-room-at-old-trafford",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7Vz2scDkcWvcKetMow3v-s"
     }
   }
 ]
