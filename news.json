@@ -1,5 +1,39 @@
 [
   {
+    "title": "Manolo: \"La primera parte ha sido buena; el problema ha estado en la segunda\"",
+    "url": "https://www.marca.com/futbol/espanyol/2026/10/10/manolo-gonzalez-primera-parte-sido-buena-problema-segunda.html",
+    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
+    "published": "Sat, 10 Oct 2026 00:28:52 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/10/6ac96a5903ea1.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مانولو: \"الشوط الأول كان جيداً، والمشكلة كانت في الشوط الثاني\"",
+    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
+    "translation_status": "translated",
+    "post_title": "مانولو: \"الشوط الأول كان جيداً، والمشكلة كانت في الشوط الثاني\"",
+    "post_text": "🚨 مانولو: \"الشوط الأول كان جيداً، والمشكلة كانت في الشوط الثاني\"\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074329138565730",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانولو_الشوط_الأول_كان_جيداً،_والمشكلة_كانت_في_الشوط_الثاني.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/espanyol/2026/10/10/manolo-gonzalez-primera-parte-sido-buena-problema-segunda.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AO9rySb1en-GCxrPv30zobI"
+    }
+  },
+  {
     "title": "Las imágenes del Alavés - Atlético de Madrid",
     "url": "https://as.com/futbol/fotorrelato/las-imagenes-del-alaves-atletico-de-madrid-f202610-f/",
     "summary": "El Atlético de Madrid ganó 1-2 al Deportivo Alavés en Mendizorroza en el partido correspondiente a la octava jornada de LaLiga EA Sports. Grimaldo, Lucas Boyé y Cuti Romero, los goleadores.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ay3fG0ynj94u5p8tivqM2py"
-    }
-  },
-  {
-    "title": "Samu Rodríguez: \"No puedes decirle que no al Oviedo\"",
-    "url": "https://www.marca.com/futbol/oviedo/2026/10/07/samu-rodriguez-puedes-decirle-oviedo.html",
-    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
-    "published": "Wed, 07 Oct 2026 06:10:26 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac50fe4801a1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "سامو رودريغيز: \"لا يمكنك أن تقول لا لأوفييدو\"",
-    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
-    "translation_status": "translated",
-    "post_title": "سامو رودريغيز: \"لا يمكنك أن تقول لا لأوفييدو\"",
-    "post_text": "🚨 سامو رودريغيز: \"لا يمكنك أن تقول لا لأوفييدو\"\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071344355530875",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سامو_رودريغيز_لا_يمكنك_أن_تقول_لا_لأوفييدو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/07/samu-rodriguez-puedes-decirle-oviedo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQn9q1H_HzQ6fKXW6gYaZPe"
     }
   }
 ]
