@@ -1,5 +1,39 @@
 [
   {
+    "title": "Verstappen wins wet Singapore Sprint after Russell crashes",
+    "url": "https://www.skysports.com/f1/news/12040/13597101/singapore-gp-sprint-max-verstappen-beats-lewis-hamilton-after-george-russell-crashes-out-from-lead",
+    "summary": "Max Verstappen won a rain-affected Singapore Grand Prix Sprint after George Russell dramatically crashed out from the lead.",
+    "published": "Sat, 10 Oct 2026 11:30:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7372816.jpg?20261010133221",
+    "media_type": "image/jpg",
+    "arabic_title": "Verstappen يفوز بسباق سنغافورة الرطب بعد تحطم راسل",
+    "arabic_summary": "فاز ماكس فيرستابين بسباق جائزة سنغافورة الكبرى المتأثر بالمطر بعد أن خرج جورج راسل بشكل كبير من الصدارة.",
+    "translation_status": "translated",
+    "post_title": "Verstappen يفوز بسباق سنغافورة الرطب بعد تحطم راسل",
+    "post_text": "🚨 Verstappen يفوز بسباق سنغافورة الرطب بعد تحطم راسل\n\n📝 فاز ماكس فيرستابين بسباق جائزة سنغافورة الكبرى المتأثر بالمطر بعد أن خرج جورج راسل بشكل كبير من الصدارة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074094901922487",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Verstappen_يفوز_بسباق_سنغافورة_الرطب_بعد_تحطم_راسل.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13597101/singapore-gp-sprint-max-verstappen-beats-lewis-hamilton-after-george-russell-crashes-out-from-lead",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHDGgg1YSXOi4KrehNLt1f3"
+    }
+  },
+  {
     "title": "Alcaraz displays new look in win at Shanghai Masters",
     "url": "https://www.skysports.com/tennis/news/12040/13597159/carlos-alcaraz-spaniard-displays-new-look-in-victory-at-shanghai-masters-as-mirra-andreeva-qinwen-zheng-make-china-open-final",
     "summary": "Carlos Alcaraz's exceptional touch at the net, alongside a slick new look, was on full display during his opening victory at the Shanghai Masters on Saturday.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AD0dj26mBkPJyilM1w-7fOC"
-    }
-  },
-  {
-    "title": "Adrián Marín: \"Siempre he sabido reinventarme y salir a flote\"",
-    "url": "https://www.marca.com/futbol/2026/10/06/adrian-marin-siempre-he-sabido-reinventarme-salir-flote.html",
-    "summary": "El lateral murciano brilla en Orlando y abre las puertas a MARCA para hablar de su camino hacia la MLS en la que ha estallado el ciclón Griezmann",
-    "published": "Tue, 06 Oct 2026 10:08:10 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/fRbis1gmf84BSyI51.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أدريان مارين: \"لقد عرفت دائمًا كيفية إعادة اكتشاف نفسي والبقاء على قدميه\"",
-    "arabic_summary": "الظهير المورسي يتألق في أورلاندو ويفتح الأبواب لصحيفة ماركا للحديث عن طريقه إلى الدوري الأمريكي الذي اندلع فيه إعصار جريزمان",
-    "translation_status": "translated",
-    "post_title": "أدريان مارين: \"لقد عرفت دائمًا كيفية إعادة اكتشاف نفسي والبقاء على قدميه\"",
-    "post_text": "🚨 أدريان مارين: \"لقد عرفت دائمًا كيفية إعادة اكتشاف نفسي والبقاء على قدميه\"\n\n📝 الظهير المورسي يتألق في أورلاندو ويفتح الأبواب لصحيفة ماركا للحديث عن طريقه إلى الدوري الأمريكي الذي اندلع فيه إعصار جريزمان\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070579242274053",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أدريان_مارين_لقد_عرفت_دائمًا_كيفية_إعادة_اكتشاف_نفسي_والبقاء_على_قدميه.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/06/adrian-marin-siempre-he-sabido-reinventarme-salir-flote.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-k73eYImvzmXZS03Mxm0Ty"
     }
   }
 ]
