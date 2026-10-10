@@ -1,5 +1,39 @@
 [
   {
+    "title": "England's Smith shines with Baycurrent Classic set for final-round thriller",
+    "url": "https://www.skysports.com/watch/video/13597124/the-baycurrent-classic-day-three-highlights",
+    "summary": "Highlights from the third round of the PGA Tour Baycurrent Classic.",
+    "published": "Sat, 10 Oct 2026 08:06:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/f-a-aa_7372647.jpg?20261010080932",
+    "media_type": "image/jpg",
+    "arabic_title": "يتألق الإنجليزي سميث مع فريق Baycurrent Classic المقرر في الجولة النهائية من الإثارة",
+    "arabic_summary": "أبرز أحداث الجولة الثالثة من جولة PGA Baycurrent Classic.",
+    "translation_status": "translated",
+    "post_title": "يتألق الإنجليزي سميث مع فريق Baycurrent Classic المقرر في الجولة النهائية من الإثارة",
+    "post_text": "🚨 يتألق الإنجليزي سميث مع فريق Baycurrent Classic المقرر في الجولة النهائية من الإثارة\n\n📝 أبرز أحداث الجولة الثالثة من جولة PGA Baycurrent Classic.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074032795262031",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتألق_الإنجليزي_سميث_مع_فريق_Baycurrent_Classic_المقرر_في_الجولة_النهائية_من_الإ.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13597124/the-baycurrent-classic-day-three-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZFfb2iQs_IIX3tf932WAUt"
+    }
+  },
+  {
     "title": "Opetaia could fight Wilder on Fury-AJ undercard: 'He’s ready to go!'",
     "url": "https://www.skysports.com/boxing/news/12040/13597094/fury-vs-joshua-undercard-jai-opetaia-could-fight-deontay-wilder-on-principality-stadium-bill",
     "summary": "Deontay Wilder could fight Jai Opetaia on the undercard of the Tyson Fury vs Anthony Joshua blockbuster clash on December 11.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APdDnK0RDSrh9r40e9kxIVA"
-    }
-  },
-  {
-    "title": "Apuestas y pronósticos Croacia vs España",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/05/apuestas-pronosticos-croacia-vs-espana.html",
-    "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
-    "published": "Mon, 05 Oct 2026 11:41:36 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac370a084be6.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الرهان والتوقعات مباراة كرواتيا وأسبانيا",
-    "arabic_summary": "يقول مدرب ملقة: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. في الوقت الحاضر، كل شيء يؤثر عليهم\".",
-    "translation_status": "translated",
-    "post_title": "الرهان والتوقعات مباراة كرواتيا وأسبانيا",
-    "post_text": "🚨 الرهان والتوقعات مباراة كرواتيا وأسبانيا\n\n📝 يقول مدرب ملقة: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. في الوقت الحاضر، كل شيء يؤثر عليهم\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070458158952828",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الرهان_والتوقعات_مباراة_كرواتيا_وأسبانيا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/05/apuestas-pronosticos-croacia-vs-espana.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Au5sZ6zpCKn_rXc1Ldfm5k5"
     }
   }
 ]
