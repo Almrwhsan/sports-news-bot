@@ -1,5 +1,39 @@
 [
   {
+    "title": "Chelsea add third straight after half-time against Bournemouth LIVE!",
+    "url": "https://www.skysports.com/football/chelsea-vs-bournemouth/live/559496",
+    "summary": "",
+    "published": "Sat, 10 Oct 2026 13:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-jordan-henderson_7373084.jpg?20261010152114",
+    "media_type": "image/jpg",
+    "arabic_title": "تشيلسي يضيف الثالث على التوالي بعد نهاية الشوط الأول أمام بورنموث لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "تشيلسي يضيف الثالث على التوالي بعد نهاية الشوط الأول أمام بورنموث لايف!",
+    "post_text": "🚨 تشيلسي يضيف الثالث على التوالي بعد نهاية الشوط الأول أمام بورنموث لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074146768583967",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشيلسي_يضيف_الثالث_على_التوالي_بعد_نهاية_الشوط_الأول_أمام_بورنموث_لايف!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/chelsea-vs-bournemouth/live/559496",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADRypbUzcAWvwHQK7sTz9Zc"
+    }
+  },
+  {
     "title": "La revolución que no lo fue",
     "url": "https://as.com/futbol/la-revolucion-que-no-lo-fue-f202610-n/",
     "summary": "Manolo González hizo hasta cinco cambios en un once que funcionó la primera hora y se cayó en el tramo final. Los cambios no funcionaron.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3CDEE8DffKPlmSE1lQYo6s"
-    }
-  },
-  {
-    "title": "Predicted PL table - latest from the Sky Sports supercomputer",
-    "url": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
-    "summary": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
-    "published": "Tue, 06 Oct 2026 12:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7343497.jpg?20260906175307",
-    "media_type": "image/jpg",
-    "arabic_title": "جدول PL المتوقع - الأحدث من الكمبيوتر العملاق Sky Sports",
-    "arabic_summary": "من سينتهي في موسم الدوري الإنجليزي الممتاز 2026/27؟ تحقق من أحدث الترتيب المتوقع والمتوقع، وفقًا للكمبيوتر العملاق Sky Sports.",
-    "translation_status": "translated",
-    "post_title": "جدول PL المتوقع - الأحدث من الكمبيوتر العملاق Sky Sports",
-    "post_text": "🚨 جدول PL المتوقع - الأحدث من الكمبيوتر العملاق Sky Sports\n\n📝 من سينتهي في موسم الدوري الإنجليزي الممتاز 2026/27؟ تحقق من أحدث الترتيب المتوقع والمتوقع، وفقًا للكمبيوتر العملاق Sky Sports.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070793722252605",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جدول_PL_المتوقع_-_الأحدث_من_الكمبيوتر_العملاق_Sky_Sports.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwMlRH9JJ-ZN8-3Et6yLvhg"
     }
   }
 ]
