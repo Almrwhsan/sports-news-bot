@@ -1,5 +1,39 @@
 [
   {
+    "title": "El juvenil Imga viaja a Vallecas y aspira a un debut especial",
+    "url": "https://www.marca.com/futbol/athletic/2026/10/09/juvenil-imga-viaja-vallecas-aspira-debut-especial.html",
+    "summary": "Aurtenetxe y Javi Martínez, campeón del mundo, los últimos que se estrenaron con 17 años",
+    "published": "Fri, 09 Oct 2026 16:03:30 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac4fde22b578.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يسافر الشاب Imga إلى فاليكاس ويطمح إلى ظهور خاص لأول مرة",
+    "arabic_summary": "أورتينتكس وخافي مارتينيز، بطل العالم، آخر من ظهر لأول مرة بعمر 17 عامًا",
+    "translation_status": "translated",
+    "post_title": "يسافر الشاب Imga إلى فاليكاس ويطمح إلى ظهور خاص لأول مرة",
+    "post_text": "🚨 يسافر الشاب Imga إلى فاليكاس ويطمح إلى ظهور خاص لأول مرة\n\n📝 أورتينتكس وخافي مارتينيز، بطل العالم، آخر من ظهر لأول مرة بعمر 17 عامًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073900895275221",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يسافر_الشاب_Imga_إلى_فاليكاس_ويطمح_إلى_ظهور_خاص_لأول_مرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/athletic/2026/10/09/juvenil-imga-viaja-vallecas-aspira-debut-especial.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnOKA6561uwcxgGfBsQ3v7m"
+    }
+  },
+  {
     "title": "Everton owners consider selling club two years after takeover",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
     "summary": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEY4WM1ilNSEazLwhYixrbK"
-    }
-  },
-  {
-    "title": "Littler beaten in semi-finals of World Youth Championship",
-    "url": "https://www.skysports.com/darts/news/12040/13595523/luke-littler-beaten-by-cam-crabtree-in-semi-finals-of-world-youth-championship",
-    "summary": "Luke Littler lost to Cam Crabtree in the semi-finals of the World Youth Championship.",
-    "published": "Mon, 05 Oct 2026 18:21:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-luke-littler-world-grand-prix_7364194.jpg?20260929151453",
-    "media_type": "image/jpg",
-    "arabic_title": "تعرض ليتلير للهزيمة في الدور نصف النهائي من بطولة العالم للشباب",
-    "arabic_summary": "خسر لوك ليتلر أمام كام كرابتري في الدور نصف النهائي من بطولة العالم للشباب.",
-    "translation_status": "translated",
-    "post_title": "تعرض ليتلير للهزيمة في الدور نصف النهائي من بطولة العالم للشباب",
-    "post_text": "🚨 تعرض ليتلير للهزيمة في الدور نصف النهائي من بطولة العالم للشباب\n\n📝 خسر لوك ليتلر أمام كام كرابتري في الدور نصف النهائي من بطولة العالم للشباب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070223292309648",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تعرض_ليتلير_للهزيمة_في_الدور_نصف_النهائي_من_بطولة_العالم_للشباب.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/news/12040/13595523/luke-littler-beaten-by-cam-crabtree-in-semi-finals-of-world-youth-championship",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKxPAqomrB8pXOEVN6r8I5G"
     }
   }
 ]
