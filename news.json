@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sunderland vs Brighton LIVE!",
+    "url": "https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/live/559503",
+    "summary": "",
+    "published": "Mon, 28 Sep 2026 10:21:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-enzo-le-fee-wilson-isidor_7354053.jpg?20260916220445",
+    "media_type": "image/jpg",
+    "arabic_title": "سندرلاند ضد برايتون بث مباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "سندرلاند ضد برايتون بث مباشر!",
+    "post_text": "🚨 سندرلاند ضد برايتون بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074001381931839",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سندرلاند_ضد_برايتون_بث_مباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/live/559503",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdLF6mZnIm1WVLR88kSKjKA"
+    }
+  },
+  {
     "title": "As it happened - All Blacks POWER away vs Australia to retain Bledisloe Cup",
     "url": "https://www.skysports.com/rugby-union/live-blog/12040/13596789/new-zealand-vs-australia-live-all-blacks-host-wallabies-in-first-bledisloe-cup-test-updates-latest-scores-team-news-commentary",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyQo5GCJPy3XnfrXl-PVRBi"
-    }
-  },
-  {
-    "title": "NFL suspends two officials; one punished for swearing at player",
-    "url": "https://www.skysports.com/nfl/news/12040/13595617/nfl-suspends-official-jeff-seeman-for-two-games-for-swearing-at-arizona-cardinals-tight-end-trey-mcbride",
-    "summary": "The NFL has suspended a line judge for two games for swearing at Arizona Cardinals tight end Trey McBride.",
-    "published": "Tue, 06 Oct 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-trey-mcbride-arizona-cardinals_7369315.jpg?20261006071417",
-    "media_type": "image/jpg",
-    "arabic_title": "اتحاد كرة القدم الأميركي يعلق اثنين من المسؤولين. واحد يعاقب على الشتائم على اللاعب",
-    "arabic_summary": "قام اتحاد كرة القدم الأميركي بإيقاف حكم خطي لمباراتين بسبب الشتائم في نهاية فريق أريزونا كاردينالز تري ماكبرايد.",
-    "translation_status": "translated",
-    "post_title": "اتحاد كرة القدم الأميركي يعلق اثنين من المسؤولين. واحد يعاقب على الشتائم على اللاعب",
-    "post_text": "🚨 اتحاد كرة القدم الأميركي يعلق اثنين من المسؤولين. واحد يعاقب على الشتائم على اللاعب\n\n📝 قام اتحاد كرة القدم الأميركي بإيقاف حكم خطي لمباراتين بسبب الشتائم في نهاية فريق أريزونا كاردينالز تري ماكبرايد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070434482288529",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اتحاد_كرة_القدم_الأميركي_يعلق_اثنين_من_المسؤولين._واحد_يعاقب_على_الشتائم_على_الل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13595617/nfl-suspends-official-jeff-seeman-for-two-games-for-swearing-at-arizona-cardinals-tight-end-trey-mcbride",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFK90M8ty28Y4MA9pl0pXRt"
     }
   }
 ]
