@@ -1,5 +1,39 @@
 [
   {
+    "title": "Manu Trigueros: “El Villarreal tiene calidad arriba y el Madrid deja espacios...”",
+    "url": "https://as.com/futbol/primera/manu-trigueros-el-villarreal-tiene-calidad-arriba-y-el-madrid-deja-espacios-f202610-n/",
+    "summary": "La leyenda del Villarreal atiende a AS en la previa del choque entre el submarino y el Real Madrid. Repasa su carrera y avanza sus próximos pasos vinculados al club de sus amores.",
+    "published": "Sat, 10 Oct 2026 08:17:21 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/V4U7WPTSPVA6DFK3ASCAN5GDCQ.jpeg?auth=ae71ee527fa7a527b2beabd0a5d6ee398d62ff2f0cb62a7b6d0ea2d415ab466c",
+    "media_type": "image/jpeg",
+    "arabic_title": "مانو تريجيروس: \"فياريال يتمتع بالجودة في القمة ومدريد يترك المساحة...\"",
+    "arabic_summary": "أسطورة فياريال يحضر مباراة AS في الفترة التي سبقت المواجهة بين الغواصة وريال مدريد. يستعرض مسيرته المهنية ويتقدم في خطواته التالية المرتبطة بالنادي الذي يحبه.",
+    "translation_status": "translated",
+    "post_title": "مانو تريجيروس: \"فياريال يتمتع بالجودة في القمة ومدريد يترك المساحة...\"",
+    "post_text": "🚨 مانو تريجيروس: \"فياريال يتمتع بالجودة في القمة ومدريد يترك المساحة...\"\n\n📝 أسطورة فياريال يحضر مباراة AS في الفترة التي سبقت المواجهة بين الغواصة وريال مدريد. يستعرض مسيرته المهنية ويتقدم في خطواته التالية المرتبطة بالنادي الذي يحبه.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074387011893276",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانو_تريجيروس_فياريال_يتمتع_بالجودة_في_القمة_ومدريد_يترك_المساحة....png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/manu-trigueros-el-villarreal-tiene-calidad-arriba-y-el-madrid-deja-espacios-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Axw9aw6tiTIDhge2k--Lyca"
+    }
+  },
+  {
     "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
     "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
     "summary": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWrBBcI8Xtwd5JAT3RnzlwG"
-    }
-  },
-  {
-    "title": "\"Merino no necesita cuerda\"",
-    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/merino-necesita-cuerda.html",
-    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
-    "published": "Wed, 07 Oct 2026 06:16:54 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac56569522be.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"ميرينو لا يحتاج إلى حبل\"",
-    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
-    "translation_status": "translated",
-    "post_title": "\"ميرينو لا يحتاج إلى حبل\"",
-    "post_text": "🚨 \"ميرينو لا يحتاج إلى حبل\"\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071374405527870",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميرينو_لا_يحتاج_إلى_حبل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/10/07/merino-necesita-cuerda.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxXnuv_N3iDI49p_jZ_Y_bF"
     }
   }
 ]
