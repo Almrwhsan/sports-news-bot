@@ -1,5 +1,39 @@
 [
   {
+    "title": "From doomscrolling to defiance - how do Man City fans feel?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm040l634249o?at_medium=RSS&at_campaign=rss",
+    "summary": "With Manchester City found guilty of the majority of 115 charges against them, how are their fans feeling?",
+    "published": "Fri, 09 Oct 2026 09:02:26 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6438/live/09304790-c22a-11f1-babe-4199b0e7ccea.png",
+    "media_type": null,
+    "arabic_title": "من الهلاك إلى التحدي – ما هو شعور مشجعي مانشستر سيتي؟",
+    "arabic_summary": "بعد إدانة مانشستر سيتي بأغلبية التهم الـ 115 الموجهة إليهم، كيف تشعر جماهيرهم؟",
+    "translation_status": "translated",
+    "post_title": "من الهلاك إلى التحدي – ما هو شعور مشجعي مانشستر سيتي؟",
+    "post_text": "🚨 من الهلاك إلى التحدي – ما هو شعور مشجعي مانشستر سيتي؟\n\n📝 بعد إدانة مانشستر سيتي بأغلبية التهم الـ 115 الموجهة إليهم، كيف تشعر جماهيرهم؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073970488601595",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_الهلاك_إلى_التحدي_–_ما_هو_شعور_مشجعي_مانشستر_سيتي؟.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cm040l634249o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AE7KD1ZlTIxoxDRlx0cRI9b"
+    }
+  },
+  {
     "title": "Más de 1M de visitas en ‘X’: el saludo entre Laporta y Xavi al reencontrarse en el homenaje a Pedrito",
     "url": "https://as.com/futbol/videos/mas-de-1m-de-visitas-en-x-el-saludo-entre-laporta-y-xavi-al-reencontrarse-en-el-homenaje-a-pedrito-f202610-v/",
     "summary": "El presidente del FC Barcelona y el seleccionador neerlandés volvieron a estar juntos en el acto de homenaje al canario. El momento de su reencuentro, grabado por el periodista Alfredo Martínez, ya es viral. Juzguen ustedes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aq_T5dTjIRtkuq3l89seFAu"
-    }
-  },
-  {
-    "title": "Benín se ‘cuela’ en la fiesta de Messi",
-    "url": "https://as.com/futbol/internacional/benin-se-cuela-en-la-fiesta-de-messi-f202610-n/",
-    "summary": "La selección africana será el rival de Argentina en el partido en el que Messi se despedirá de la Albiceleste y de su afición.",
-    "published": "Mon, 05 Oct 2026 21:59:59 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/G6KF76OHUJPWZCYJELGS5VBTTE.jpg?auth=54e1609a1521643dcdaaab2f1eea2efdbc4751a17a785af8fb28a02b8b9d655b",
-    "media_type": "image/jpeg",
-    "arabic_title": "بنين \"تتسلل\" إلى حفلة ميسي",
-    "arabic_summary": "وسيكون المنتخب الإفريقي منافسًا للأرجنتين في المباراة التي سيودع فيها ميسي الألبيسيليستي وجماهيره.",
-    "translation_status": "translated",
-    "post_title": "بنين \"تتسلل\" إلى حفلة ميسي",
-    "post_text": "🚨 بنين \"تتسلل\" إلى حفلة ميسي\n\n📝 وسيكون المنتخب الإفريقي منافسًا للأرجنتين في المباراة التي سيودع فيها ميسي الألبيسيليستي وجماهيره.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070399928958651",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بنين_تتسلل_إلى_حفلة_ميسي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/benin-se-cuela-en-la-fiesta-de-messi-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvOnMQNYMe0H41vIyavQBAj"
     }
   }
 ]
