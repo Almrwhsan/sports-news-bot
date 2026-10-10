@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los campeones de la Intercontinental serán homenajeados en el Bernabéu",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/09/campeones-intercontinental-seran-homenajeados-bernabeu.html",
+    "summary": "El equipo sub 20 dirigido por Álvaro López ofrecerá el histórico título juvenil conquistado el pasado 19 de septiembre",
+    "published": "Fri, 09 Oct 2026 17:56:00 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac9076acf05e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيتم تكريم أبطال الإنتركونتيننتال في البرنابيو",
+    "arabic_summary": "سيقدم فريق تحت 20 عامًا بقيادة ألفارو لوبيز اللقب التاريخي للشباب الذي فاز به في 19 سبتمبر",
+    "translation_status": "translated",
+    "post_title": "سيتم تكريم أبطال الإنتركونتيننتال في البرنابيو",
+    "post_text": "🚨 سيتم تكريم أبطال الإنتركونتيننتال في البرنابيو\n\n📝 سيقدم فريق تحت 20 عامًا بقيادة ألفارو لوبيز اللقب التاريخي للشباب الذي فاز به في 19 سبتمبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1073930571938920",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيتم_تكريم_أبطال_الإنتركونتيننتال_في_البرنابيو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/09/campeones-intercontinental-seran-homenajeados-bernabeu.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIowEynF1Gf7Hn8Rs50mF9f"
+    }
+  },
+  {
     "title": "Ibiza 1-1 Real Madrid Castilla: resumen, resultado y goles",
     "url": "https://as.com/futbol/primera-rfef/ibiza-real-madrid-castilla-en-directo-primera-federacion-en-vivo-f202610-d/",
     "summary": "Ibiza 1-1 Real Madrid Castilla: resumen, resultado y goles",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8UDcnrlvUfXdgCLSBHd2vn"
-    }
-  },
-  {
-    "title": "Uruguay informa de que Martín Satriano regresa por \"un proceso inflamatorio\" en su rodilla",
-    "url": "https://www.marca.com/futbol/getafe/2026/10/05/uruguay-informa-martin-satriano-regresa-espana-proceso-inflamatorio-rodilla.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Mon, 05 Oct 2026 12:22:18 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/07/6a9f13de27091.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ذكرت أوروغواي أن مارتين ساتريانو يعود بسبب \"عملية التهابية\" في ركبته",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "ذكرت أوروغواي أن مارتين ساتريانو يعود بسبب \"عملية التهابية\" في ركبته",
-    "post_text": "🚨 ذكرت أوروغواي أن مارتين ساتريانو يعود بسبب \"عملية التهابية\" في ركبته\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1070309672301010",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ذكرت_أوروغواي_أن_مارتين_ساتريانو_يعود_بسبب_عملية_التهابية_في_ركبته.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/getafe/2026/10/05/uruguay-informa-martin-satriano-regresa-espana-proceso-inflamatorio-rodilla.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkHmN5fqEwMKcWRAZv_wjuq"
     }
   }
 ]
