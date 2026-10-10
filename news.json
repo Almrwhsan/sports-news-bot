@@ -1,5 +1,39 @@
 [
   {
+    "title": "¿Y tú, no sales nunca?",
+    "url": "https://as.com/opinion/y-tu-no-sales-nunca-f202610-n/",
+    "summary": "Es increíble que haya gente que le critique, por no decir que le eche mierda encima, por disfrutar un poco de la existencia cuando tiene descanso. Orearse el cerebro, sobre todo cuando se vive bajo presión, es esencial.",
+    "published": "Fri, 09 Oct 2026 23:44:18 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MK5TZJ7KCVFK3OSDKEJDAOLH5Q.jpg?auth=97954d82abc7fde1fa04bcc72385be168610775f201d4d8ccf0370729c0b6917",
+    "media_type": "image/jpeg",
+    "arabic_title": "وأنت، ألا تخرج أبداً؟",
+    "arabic_summary": "إنه أمر لا يصدق أن هناك أشخاصًا ينتقدونه، ناهيك عن إهانةه، لأنه يستمتع بالحياة قليلاً عندما يكون لديه فترة راحة. إن تنشيط عقلك، خاصة عندما تعيش تحت الضغط، أمر ضروري.",
+    "translation_status": "translated",
+    "post_title": "وأنت، ألا تخرج أبداً؟",
+    "post_text": "🚨 وأنت، ألا تخرج أبداً؟\n\n📝 إنه أمر لا يصدق أن هناك أشخاصًا ينتقدونه، ناهيك عن إهانةه، لأنه يستمتع بالحياة قليلاً عندما يكون لديه فترة راحة. إن تنشيط عقلك، خاصة عندما تعيش تحت الضغط، أمر ضروري.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1074273971904580",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وأنت،_ألا_تخرج_أبداً؟.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/y-tu-no-sales-nunca-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AKASIPtVby0c2UioJC8ZaPi"
+    }
+  },
+  {
     "title": "Hay nets stoppage-time winner as Dundee come from behind to beat Falkirk",
     "url": "https://www.skysports.com/football/falkirk-vs-dundee/report/558377",
     "summary": "Ashley Hay scrambled in a stoppage-time winner on his comeback from injury to secure Dundee a 2-1 victory at Falkirk in the Scottish Premiership.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQq7P6x7LQEOFH99hg-EYaL"
-    }
-  },
-  {
-    "title": "Hamilton: Ferrari have to catch up with rivals on power",
-    "url": "https://www.skysports.com/f1/news/12040/13595500/lewis-hamilton-insists-ferrari-must-catch-up-with-rivals-on-power-unit-performance-for-2027-f1-season",
-    "summary": "Lewis Hamilton is urging Ferrari to improve the performance of their power unit for the 2027 Formula 1 season as the 41-year-old eyes a shot at a record eighth world championship next year.",
-    "published": "Wed, 07 Oct 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7369058.jpg?20261005170935",
-    "media_type": "image/jpg",
-    "arabic_title": "هاميلتون: على فيراري اللحاق بمنافسيه على السلطة",
-    "arabic_summary": "حث لويس هاميلتون فريق فيراري على تحسين أداء وحدة الطاقة الخاصة به لموسم 2027 من بطولة العالم للفورمولا 1، حيث يتطلع السائق البالغ من العمر 41 عامًا إلى تحقيق رقم قياسي في بطولة العالم الثامنة العام المقبل.",
-    "translation_status": "translated",
-    "post_title": "هاميلتون: على فيراري اللحاق بمنافسيه على السلطة",
-    "post_text": "🚨 هاميلتون: على فيراري اللحاق بمنافسيه على السلطة\n\n📝 حث لويس هاميلتون فريق فيراري على تحسين أداء وحدة الطاقة الخاصة به لموسم 2027 من بطولة العالم للفورمولا 1، حيث يتطلع السائق البالغ من العمر 41 عامًا إلى تحقيق رقم قياسي في بطولة العالم الثامنة العام المقبل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071303365534974",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هاميلتون_على_فيراري_اللحاق_بمنافسيه_على_السلطة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13595500/lewis-hamilton-insists-ferrari-must-catch-up-with-rivals-on-power-unit-performance-for-2027-f1-season",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5gx1xNl0jvYLLYHtnETHxu"
     }
   }
 ]
