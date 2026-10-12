@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rueda de prensa de Simeone y Hancko, en directo | Última hora del Atlético - Manchester United en Champions",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/12/6accb622b364eacdc8ab53a9.html",
+    "summary": "El técnico y el central atienden a la prensa en la previa del partido de Champions del conjunto rojiblanco ante el Manchester United",
+    "published": "Mon, 12 Oct 2026 13:21:43 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/uXgrszgQtTg.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "المؤتمر الصحفي لسيميوني وهانكو مباشر | اللحظة الأخيرة لأتلتيكو - مانشستر يونايتد في دوري أبطال أوروبا",
+    "arabic_summary": "المدرب وقلب الدفاع يحضران للصحافة قبل مباراة الفريق الأحمر والأبيض في دوري أبطال أوروبا ضد مانشستر يونايتد",
+    "translation_status": "translated",
+    "post_title": "المؤتمر الصحفي لسيميوني وهانكو مباشر | اللحظة الأخيرة لأتلتيكو - مانشستر يونايتد في دوري أبطال أوروبا",
+    "post_text": "🚨 المؤتمر الصحفي لسيميوني وهانكو مباشر | اللحظة الأخيرة لأتلتيكو - مانشستر يونايتد في دوري أبطال أوروبا\n\n📝 المدرب وقلب الدفاع يحضران للصحافة قبل مباراة الفريق الأحمر والأبيض في دوري أبطال أوروبا ضد مانشستر يونايتد\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076118751720102",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لسيميوني_وهانكو_مباشر_اللحظة_الأخيرة_لأتلتيكو_-_مانشستر_يونايتد_ف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/12/6accb622b364eacdc8ab53a9.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ax9vkcTZ8m12UKUS-ErI1nK"
+    }
+  },
+  {
     "title": "El siguiente Al-Thani en el punto de mira",
     "url": "https://www.marca.com/futbol/malaga/2026/10/12/siguiente-thani-punto-mira.html",
     "summary": "Nasser Al-Thani y sus viajes por Europa están en el foco policial",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1pkhC-bkxfmbvqV95Ki5sM"
-    }
-  },
-  {
-    "title": "Mazazo para el Sporting: Antonio Casas, fuera hasta 2027",
-    "url": "https://www.marca.com/futbol/sporting/2026/10/08/mazazo-sporting-antonio-casas-fuera-2027.html",
-    "summary": "El delantero andaluz tendrá que frenar durante los próximos meses tras la lesión sufrida ante el Celta Fortuna",
-    "published": "Thu, 08 Oct 2026 11:29:46 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac762044b0a8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "- سبورتنج: أنطونيو كاساس، خارج الخدمة حتى عام 2027",
-    "arabic_summary": "وسيتعين على المهاجم الأندلسي أن يتباطأ في الأشهر المقبلة بعد الإصابة التي تعرض لها أمام سيلتا فورتونا",
-    "translation_status": "translated",
-    "post_title": "- سبورتنج: أنطونيو كاساس، خارج الخدمة حتى عام 2027",
-    "post_text": "🚨 - سبورتنج: أنطونيو كاساس، خارج الخدمة حتى عام 2027\n\n📝 وسيتعين على المهاجم الأندلسي أن يتباطأ في الأشهر المقبلة بعد الإصابة التي تعرض لها أمام سيلتا فورتونا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072490055416305",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/-_سبورتنج_أنطونيو_كاساس،_خارج_الخدمة_حتى_عام_2027.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sporting/2026/10/08/mazazo-sporting-antonio-casas-fuera-2027.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFj3qAB98WvohBcxkM3d6Zg"
     }
   }
 ]
