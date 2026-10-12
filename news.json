@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rueda de prensa de Flick y Cubarsí, en directo | Última hora del partido de Champions entre el Galatasaray y el Barcelona",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/12/6accf03bb364eacdc8ad89f6.html",
+    "summary": "Los culés se miden este martes al conjunto turco",
+    "published": "Mon, 12 Oct 2026 17:29:57 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/17918158567850.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "المؤتمر الصحفي فليك وكوبارسي مباشر | الدقيقة الأخيرة من مباراة دوري أبطال أوروبا بين غلطة سراي وبرشلونة",
+    "arabic_summary": "ويواجه فريق culés الفريق التركي يوم الثلاثاء",
+    "translation_status": "translated",
+    "post_title": "المؤتمر الصحفي فليك وكوبارسي مباشر | الدقيقة الأخيرة من مباراة دوري أبطال أوروبا بين غلطة سراي وبرشلونة",
+    "post_text": "🚨 المؤتمر الصحفي فليك وكوبارسي مباشر | الدقيقة الأخيرة من مباراة دوري أبطال أوروبا بين غلطة سراي وبرشلونة\n\n📝 ويواجه فريق culés الفريق التركي يوم الثلاثاء\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076338241698153",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_فليك_وكوبارسي_مباشر_الدقيقة_الأخيرة_من_مباراة_دوري_أبطال_أوروبا_ب.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/12/6accf03bb364eacdc8ad89f6.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmsImDmY0QpxfDyRASvw5Ro"
+    }
+  },
+  {
     "title": "World heavyweight title will be on the line for Fury vs AJ",
     "url": "https://www.skysports.com/boxing/news/12040/13598248/fury-vs-joshua-the-wba-super-heavyweight-world-championship-will-be-on-the-line-for-cardiff-fight-confirms-frank-warren",
     "summary": "Tyson Fury and Anthony Joshua will fight for the WBA world heavyweight championship when they box on December 11, confirmed Frank Warren.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKyZHNCBSPtiInmY949ass6"
-    }
-  },
-  {
-    "title": "Maresca will be demanding a siege mentality from Man City - Pulis",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x3908kpqo?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport columnist Tony Pulis explains why Manchester City players have a great chance to show unity and togetherness when they travel to Anfield on Sunday.",
-    "published": "Fri, 09 Oct 2026 05:25:04 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
-    "media_type": null,
-    "arabic_title": "سوف تطالب ماريسكا بعقلية الحصار من مان سيتي - بوليس",
-    "arabic_summary": "يشرح توني بوليس، كاتب العمود في بي بي سي سبورت، لماذا يتمتع لاعبو مانشستر سيتي بفرصة كبيرة لإظهار الوحدة والعمل الجماعي عندما يسافرون إلى أنفيلد يوم الأحد.",
-    "translation_status": "translated",
-    "post_title": "سوف تطالب ماريسكا بعقلية الحصار من مان سيتي - بوليس",
-    "post_text": "🚨 سوف تطالب ماريسكا بعقلية الحصار من مان سيتي - بوليس\n\n📝 يشرح توني بوليس، كاتب العمود في بي بي سي سبورت، لماذا يتمتع لاعبو مانشستر سيتي بفرصة كبيرة لإظهار الوحدة والعمل الجماعي عندما يسافرون إلى أنفيلد يوم الأحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072879852043992",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سوف_تطالب_ماريسكا_بعقلية_الحصار_من_مان_سيتي_-_بوليس.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmy4x3908kpqo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvB1QGru1oDti3N7q02RABv"
     }
   }
 ]
