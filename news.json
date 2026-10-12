@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pellegrini iguala el arranque del Betis campeón de Liga",
+    "url": "https://www.marca.com/futbol/betis/2026/10/12/pellegrini-iguala-arranque-betis-campeon-liga.html",
+    "summary": "Sólo en la temporada 1934-35, con O'Connell, firmaron los verdiblancos un comienzo similar",
+    "published": "Mon, 12 Oct 2026 10:47:29 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6acc9e0d6d966.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بيليجريني يعادل بداية بطل الدوري بيتيس",
+    "arabic_summary": "فقط في موسم 1934–35، مع أوكونيل، كان للفريق الأخضر والأبيض بداية مماثلة",
+    "translation_status": "translated",
+    "post_title": "بيليجريني يعادل بداية بطل الدوري بيتيس",
+    "post_text": "🚨 بيليجريني يعادل بداية بطل الدوري بيتيس\n\n📝 فقط في موسم 1934–35، مع أوكونيل، كان للفريق الأخضر والأبيض بداية مماثلة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1075994285065882",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيليجريني_يعادل_بداية_بطل_الدوري_بيتيس.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/10/12/pellegrini-iguala-arranque-betis-campeon-liga.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A82kliTM4BjdLGwo8QcK9Oi"
+    }
+  },
+  {
     "title": "Un gol más repartido que nunca",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/10/12/gol-mas-repartido-nunca.html",
     "summary": "Con el estreno ante el Dépor de Jon Martín, Zakharyan y Guedes, el conjunto txuriurdin suma hasta 10 goleadores distintos en los nueve partidos que ha disputado este curso",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyxW-_LtX8KlerGlB8Y5N7W"
-    }
-  },
-  {
-    "title": "FIA introducing measures to avoid ‘software bug’ chaos repeat",
-    "url": "https://www.skysports.com/f1/news/12040/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
-    "summary": "The FIA will introduce further changes to wet-weather engine software from the United States Grand Prix after completing a review into the \"software bug\" that further delayed the start of last week's rain-hit race in Malaysia.",
-    "published": "Thu, 08 Oct 2026 10:50:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-2026-bahrain-gp_7367708.jpg?20261004084949",
-    "media_type": "image/jpg",
-    "arabic_title": "يتخذ الاتحاد الدولي للسيارات تدابير لتجنب تكرار فوضى \"الأخطاء البرمجية\".",
-    "arabic_summary": "سيُجري الاتحاد الدولي للسيارات المزيد من التغييرات على برمجيات المحركات في الطقس الرطب من جائزة الولايات المتحدة الكبرى بعد الانتهاء من مراجعة \"الخلل البرمجي\" الذي أدى إلى تأخير انطلاق السباق الأسبوع الماضي تحت الأمطار في ماليزيا.",
-    "translation_status": "translated",
-    "post_title": "يتخذ الاتحاد الدولي للسيارات تدابير لتجنب تكرار فوضى \"الأخطاء البرمجية\".",
-    "post_text": "🚨 يتخذ الاتحاد الدولي للسيارات تدابير لتجنب تكرار فوضى \"الأخطاء البرمجية\".\n\n📝 سيُجري الاتحاد الدولي للسيارات المزيد من التغييرات على برمجيات المحركات في الطقس الرطب من جائزة الولايات المتحدة الكبرى بعد الانتهاء من مراجعة \"الخلل البرمجي\" الذي أدى إلى تأخير انطلاق السباق الأسبوع الماضي تحت الأمطار في ماليزيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072360832095894",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتخذ_الاتحاد_الدولي_للسيارات_تدابير_لتجنب_تكرار_فوضى_الأخطاء_البرمجية..png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvrAwLbE1ZTKFC6T6zJSHN8"
     }
   }
 ]
