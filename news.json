@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los daños del parón se quedan en mínimos",
+    "url": "https://www.marca.com/futbol/primera-division/2026/10/12/danos-paron-quedan-minimos.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Mon, 12 Oct 2026 13:42:32 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accc75ab104f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يبقى الضرر الناتج عن التوقف عند الحد الأدنى",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "يبقى الضرر الناتج عن التوقف عند الحد الأدنى",
+    "post_text": "🚨 يبقى الضرر الناتج عن التوقف عند الحد الأدنى\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076162265049084",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يبقى_الضرر_الناتج_عن_التوقف_عند_الحد_الأدنى.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/2026/10/12/danos-paron-quedan-minimos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASSAB8b_nY2M_yy8DlSYUhe"
+    }
+  },
+  {
     "title": "A secret invite and other 'pinch-me' moments before Leicester woke up",
     "url": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
     "summary": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AH-tWh4IKOU5qDDbra3PIaz"
-    }
-  },
-  {
-    "title": "Russell, Antonelli to race with different specs amid Mercedes upgrade concern",
-    "url": "https://www.skysports.com/f1/news/12040/13596354/mercedes-drivers-george-russell-kimi-antonelli-to-split-car-packages-at-singapore-gp-after-sepang-struggles-with-updates",
-    "summary": "George Russell will race Mercedes' older-specification car, while Kimi Antonelli will run an upgraded package at the Singapore Grand Prix as the team bid to get to the bottom of why the updates introduced in Malaysia did not deliver the expected performance.",
-    "published": "Thu, 08 Oct 2026 15:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-george-russell-kimi-antonelli_7371366.jpg?20261008151357",
-    "media_type": "image/jpg",
-    "arabic_title": "راسل وأنتونيلي يتسابقان بمواصفات مختلفة وسط مخاوف من ترقية مرسيدس",
-    "arabic_summary": "سيتنافس جورج راسل مع سيارة مرسيدس ذات المواصفات الأقدم، بينما سيستخدم كيمي أنتونيلي حزمة مطورة في سباق جائزة سنغافورة الكبرى حيث يحاول الفريق الوصول إلى السبب وراء عدم تقديم التحديثات التي تم تقديمها في ماليزيا للأداء المتوقع.",
-    "translation_status": "translated",
-    "post_title": "راسل وأنتونيلي يتسابقان بمواصفات مختلفة وسط مخاوف من ترقية مرسيدس",
-    "post_text": "🚨 راسل وأنتونيلي يتسابقان بمواصفات مختلفة وسط مخاوف من ترقية مرسيدس\n\n📝 سيتنافس جورج راسل مع سيارة مرسيدس ذات المواصفات الأقدم، بينما سيستخدم كيمي أنتونيلي حزمة مطورة في سباق جائزة سنغافورة الكبرى حيث يحاول الفريق الوصول إلى السبب وراء عدم تقديم التحديثات التي تم تقديمها في ماليزيا للأداء المتوقع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072527025412608",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راسل_وأنتونيلي_يتسابقان_بمواصفات_مختلفة_وسط_مخاوف_من_ترقية_مرسيدس.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13596354/mercedes-drivers-george-russell-kimi-antonelli-to-split-car-packages-at-singapore-gp-after-sepang-struggles-with-updates",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARNBM22endEA_GlYfYAqZiE"
     }
   }
 ]
