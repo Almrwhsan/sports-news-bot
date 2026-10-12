@@ -1,5 +1,39 @@
 [
   {
+    "title": "La 'resurrección' de Isco Alarcón",
+    "url": "https://www.marca.com/futbol/betis/2026/10/12/resurreccion-isco-alarcon.html",
+    "summary": "El malagueño, decisivo ante Osasuna con un doblete, empieza a dejar atrás su calvario",
+    "published": "Mon, 12 Oct 2026 12:02:56 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accafcccf459.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"قيامة\" إيسكو ألاركون",
+    "arabic_summary": "بدأ الرجل القادم من ملقة، الذي لعب دوراً حاسماً ضد أوساسونا بثنائية، في تجاوز محنته وراءه",
+    "translation_status": "translated",
+    "post_title": "\"قيامة\" إيسكو ألاركون",
+    "post_text": "🚨 \"قيامة\" إيسكو ألاركون\n\n📝 بدأ الرجل القادم من ملقة، الذي لعب دوراً حاسماً ضد أوساسونا بثنائية، في تجاوز محنته وراءه\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076055705059740",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قيامة_إيسكو_ألاركون.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/10/12/resurreccion-isco-alarcon.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADz82rOc6k7LMexhocJcBTN"
+    }
+  },
+  {
     "title": "Mbappé se dispara en la encuesta de L'Équipe por el Balón de Oro... y Lamine no está ni en el podio",
     "url": "https://www.marca.com/futbol/balon-oro/2026/10/12/mbappe-dispara-encuesta-l-equipe-balon-oro-lamine-podio.html",
     "summary": "El delantero francés domina la votación del medio galo antes de la entrega del galardón el 26 de octubre en Londres",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARxwC9_6RYPbuG-D-ur4awg"
-    }
-  },
-  {
-    "title": "El vídeo viral dedicado a Messi por una jugadora en España que gusta a Agüero y hace llorar a Argentina",
-    "url": "https://www.marca.com/futbol/2026/10/08/video-viral-dedicado-messi-jugadora-espana-gusta-agueero-llorar-argentina-video.html",
-    "summary": "",
-    "published": "Thu, 08 Oct 2026 10:29:24 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/eCfDI.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الفيديو واسع الانتشار المخصص لميسي من قبل لاعب في إسبانيا الذي يحبه أغويرو ويجعل الأرجنتين تبكي",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "الفيديو واسع الانتشار المخصص لميسي من قبل لاعب في إسبانيا الذي يحبه أغويرو ويجعل الأرجنتين تبكي",
-    "post_text": "🚨 الفيديو واسع الانتشار المخصص لميسي من قبل لاعب في إسبانيا الذي يحبه أغويرو ويجعل الأرجنتين تبكي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072398355425475",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفيديو_واسع_الانتشار_المخصص_لميسي_من_قبل_لاعب_في_إسبانيا_الذي_يحبه_أغويرو_ويجعل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/08/video-viral-dedicado-messi-jugadora-espana-gusta-agueero-llorar-argentina-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATM-vxVVWhRTmpJPwOZ3bsp"
     }
   }
 ]
