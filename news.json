@@ -1,5 +1,39 @@
 [
   {
+    "title": "El siguiente Al-Thani en el punto de mira",
+    "url": "https://www.marca.com/futbol/malaga/2026/10/12/siguiente-thani-punto-mira.html",
+    "summary": "Nasser Al-Thani y sus viajes por Europa están en el foco policial",
+    "published": "Mon, 12 Oct 2026 13:18:21 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accc1eed9c97.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "آل ثاني القادم في دائرة الضوء",
+    "arabic_summary": "ناصر آل ثاني ورحلاته عبر أوروبا هي في مركز اهتمام الشرطة",
+    "translation_status": "translated",
+    "post_title": "آل ثاني القادم في دائرة الضوء",
+    "post_text": "🚨 آل ثاني القادم في دائرة الضوء\n\n📝 ناصر آل ثاني ورحلاته عبر أوروبا هي في مركز اهتمام الشرطة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076114671720510",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آل_ثاني_القادم_في_دائرة_الضوء.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/10/12/siguiente-thani-punto-mira.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtXVLkHTDGmNvhy6E-_D9B2"
+    }
+  },
+  {
     "title": "Jagoba Arrasate vuelve a Osasuna; Ramis, destituido",
     "url": "https://www.marca.com/futbol/osasuna/2026/10/12/arrasate-vuelve-osasuna-sustituir-ramis.html",
     "summary": "El técnico vuelve al club tras más de dos años para revertir la mala racha existente con Luis Miguel Ramis",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFj3qAB98WvohBcxkM3d6Zg"
-    }
-  },
-  {
-    "title": "Ya está todo listo pero... ¿por qué no se hace oficial el fichaje de Carvajal por el Getafe?",
-    "url": "https://www.marca.com/futbol/2026/10/08/listo-oficial-fichaje-carvajal-getaf-video.html",
-    "summary": "",
-    "published": "Thu, 08 Oct 2026 11:23:57 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/fe9S21gns3uDC91a7.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كل شيء جاهز ولكن... لماذا لم يتم الإعلان عن توقيع كارفاخال لخيتافي بشكل رسمي؟",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كل شيء جاهز ولكن... لماذا لم يتم الإعلان عن توقيع كارفاخال لخيتافي بشكل رسمي؟",
-    "post_text": "🚨 كل شيء جاهز ولكن... لماذا لم يتم الإعلان عن توقيع كارفاخال لخيتافي بشكل رسمي؟\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072475358751108",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كل_شيء_جاهز_ولكن..._لماذا_لم_يتم_الإعلان_عن_توقيع_كارفاخال_لخيتافي_بشكل_رسمي؟.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/08/listo-oficial-fichaje-carvajal-getaf-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5mx9SSHcF7M-zCJSwpnxcy"
     }
   }
 ]
