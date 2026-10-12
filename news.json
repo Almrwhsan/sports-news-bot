@@ -1,5 +1,39 @@
 [
   {
+    "title": "Maldini Jr. expía sus pecados: del accidente y el positivo por alcohol a... ¿'MVP' de la Serie A?",
+    "url": "https://www.marca.com/futbol/liga-italiana/2026/10/12/maldini-jr-expia-pecados-accidente-positivo-alcohol-mvp-serie.html",
+    "summary": "El hijo de Paolo y nieto de Cesara encadena cuatro partidos marcando con el Cagliari",
+    "published": "Mon, 12 Oct 2026 12:36:22 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "serie_a",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accb75632477.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مالديني جونيور يكفر عن خطاياه: من الحادث واختبار الكحول الإيجابي إلى... أفضل لاعب في الدوري الإيطالي؟",
+    "arabic_summary": "نجل باولو وحفيد سيزارا يسجلان أربع مباريات لصالح كالياري",
+    "translation_status": "translated",
+    "post_title": "مالديني جونيور يكفر عن خطاياه: من الحادث واختبار الكحول الإيجابي إلى... أفضل لاعب في الدوري الإيطالي؟",
+    "post_text": "🚨 مالديني جونيور يكفر عن خطاياه: من الحادث واختبار الكحول الإيجابي إلى... أفضل لاعب في الدوري الإيطالي؟\n\n📝 نجل باولو وحفيد سيزارا يسجلان أربع مباريات لصالح كالياري\n\n🏷️ الدوري الإيطالي\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076080421723935",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مالديني_جونيور_يكفر_عن_خطاياه_من_الحادث_واختبار_الكحول_الإيجابي_إلى..._أفضل_لاعب.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/liga-italiana/2026/10/12/maldini-jr-expia-pecados-accidente-positivo-alcohol-mvp-serie.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ATbo8OJspdS75wZmijAhKPC"
+    }
+  },
+  {
     "title": "Man City: When will their financial charges case be resolved?",
     "url": "https://www.skysports.com/football/news/12040/13598124/manchester-city-charges-latest-on-sanctions-hearing-and-appeal-against-guilty-verdict",
     "summary": "It is the biggest scandal in the history of English football. But two weeks after the Premier League independent commission&#8217;s findings against Manchester City were published, how much closer are we to reaching a resolution?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ad5G2F6ditcyBlUoPw0aE2G"
-    }
-  },
-  {
-    "title": "Tchouaméni rompe su silencio: \"No me arrepiento\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/08/tchouameni-rompe-silencio-me-arrepiento.html",
-    "summary": "El centrocampista galo se defiende reconociendo que asumió riesgos durante el pasado Mundial: \"asumí riesgos. Ese no era yo\"",
-    "published": "Thu, 08 Oct 2026 11:09:44 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac75cc61f575.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تشواميني يخرج عن صمته: \"لست نادما\"",
-    "arabic_summary": "يدافع لاعب خط الوسط الفرنسي عن نفسه بالاعتراف بأنه خاطر خلال كأس العالم الأخيرة: \"لقد خاطرت. لم يكن هذا أنا\"",
-    "translation_status": "translated",
-    "post_title": "تشواميني يخرج عن صمته: \"لست نادما\"",
-    "post_text": "🚨 تشواميني يخرج عن صمته: \"لست نادما\"\n\n📝 يدافع لاعب خط الوسط الفرنسي عن نفسه بالاعتراف بأنه خاطر خلال كأس العالم الأخيرة: \"لقد خاطرت. لم يكن هذا أنا\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072425658756078",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشواميني_يخرج_عن_صمته_لست_نادما.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/08/tchouameni-rompe-silencio-me-arrepiento.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYq0J53BvQ7bNcVOORKVqyV"
     }
   }
 ]
