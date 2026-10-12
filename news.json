@@ -1,5 +1,39 @@
 [
   {
+    "title": "Burgos CF - Granada en directo | Última hora de LALIGA Hypermotion en vivo hoy",
+    "url": "https://www.marca.com/futbol/segunda-division/2026/10/12/01-0102-20261012-951-5683.html",
+    "summary": "",
+    "published": "Mon, 12 Oct 2026 14:45:00 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "بورغوس - غرناطة مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "بورغوس - غرناطة مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
+    "post_text": "🚨 بورغوس - غرناطة مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076234978375146",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بورغوس_-_غرناطة_مباشر_الأخبار_العاجلة_من_LALIGA_Hypermotion_مباشرة_اليوم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvoGXn4TxdZI7MNDAfPP8nc"
+    }
+  },
+  {
     "title": "De la Barrera, en el alambre: una crisis que va más allá del entrenador",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/12/barrera-alambre-crisis-alla-entrenador.html",
     "summary": "El gallego es la víctima de una mala planificación y una plantilla que no mejora a la del curso pasado",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXRRnTkZghdMpDeGowp6tQK"
-    }
-  },
-  {
-    "title": "Brasil es una trituradora",
-    "url": "https://as.com/futbol/internacional/brasil-es-una-trituradora-f202610-n/",
-    "summary": "En lo que va de temporada en el Brasileirão, hasta 19 entrenadores han sido destituidos de sus respectivos cargos. El útimo ha sio Fernando Diniz.",
-    "published": "Thu, 08 Oct 2026 13:56:29 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UVUXXK224VFKLPOMDC64DTTYQY.jpg?auth=d71c368399a584ddda7261a372bb1acf53d1c7034a505ba68d4903424103737e",
-    "media_type": "image/jpeg",
-    "arabic_title": "البرازيل كسارة",
-    "arabic_summary": "حتى الآن هذا الموسم في الدوري البرازيلي، تم إقالة ما يصل إلى 19 مدربًا من مناصبهم. وكان الأخير فرناندو دينيز.",
-    "translation_status": "translated",
-    "post_title": "البرازيل كسارة",
-    "post_text": "🚨 البرازيل كسارة\n\n📝 حتى الآن هذا الموسم في الدوري البرازيلي، تم إقالة ما يصل إلى 19 مدربًا من مناصبهم. وكان الأخير فرناندو دينيز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072609845404326",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/البرازيل_كسارة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/brasil-es-una-trituradora-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4j3OK_r3J6fYeoSQqWBu6v"
     }
   }
 ]
