@@ -1,5 +1,39 @@
 [
   {
+    "title": "Henderson, de 'desertor' por irse a Arabia a capitán de la 'Xabineta': doblete y asistencia con 36 años",
+    "url": "https://www.marca.com/futbol/premier-league/2026/10/12/henderson-desertor-irse-arabia-capitan-xabineta-doblete-asistencia-36-anos.html",
+    "summary": "El '14' del Chelsea se reivindicó ante el Bournemouth, golazo de falta incluido",
+    "published": "Mon, 12 Oct 2026 14:46:06 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accd644b07f9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هندرسون، من \"الفار\" للذهاب إلى الجزيرة العربية إلى قائد \"زابينيتا\": ثنائية وتمريرة حاسمة بعمر 36 عامًا",
+    "arabic_summary": "وثبت رقم \"14\" لتشيلسي نفسه أمام بورنموث، بما في ذلك هدف رائع من ركلة حرة",
+    "translation_status": "translated",
+    "post_title": "هندرسون، من \"الفار\" للذهاب إلى الجزيرة العربية إلى قائد \"زابينيتا\": ثنائية وتمريرة حاسمة بعمر 36 عامًا",
+    "post_text": "🚨 هندرسون، من \"الفار\" للذهاب إلى الجزيرة العربية إلى قائد \"زابينيتا\": ثنائية وتمريرة حاسمة بعمر 36 عامًا\n\n📝 وثبت رقم \"14\" لتشيلسي نفسه أمام بورنموث، بما في ذلك هدف رائع من ركلة حرة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076276785037632",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هندرسون،_من_الفار_للذهاب_إلى_الجزيرة_العربية_إلى_قائد_زابينيتا_ثنائية_وتمريرة_حا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/12/henderson-desertor-irse-arabia-capitan-xabineta-doblete-asistencia-36-anos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkaclY5UZPh_xyg4PvHSuE0"
+    }
+  },
+  {
     "title": "Can Robinson solve Aberdeen's lack of goals?",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g10llk42ko?at_medium=RSS&at_campaign=rss",
     "summary": "Aberdeen draw a blank again in Sunday's home loss to St Johnstone, but manager Stephen Robinson is sure his team can find a solution.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnQNhVJw55Aq5BpXISN855c"
-    }
-  },
-  {
-    "title": "Exigencias de la UEFA a la FIFA",
-    "url": "https://as.com/futbol/internacional/exigencias-de-la-uefa-a-la-fifa-f202610-n/",
-    "summary": "El organismo que preside Ceferin insiste en el cambio de gobernanza de la FIFA y hace públicas unas propuestas para ello.",
-    "published": "Thu, 08 Oct 2026 14:51:44 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JGJVNWOVXJCZJNWGT6P5BHMOUM.jpg?auth=18e7666365f18474ea3dadaa9ac6bdc25236a3b617129e60dc19ec7e505dbd1d",
-    "media_type": "image/jpeg",
-    "arabic_title": "اليويفا يطالب الفيفا",
-    "arabic_summary": "وتصر الهيئة التي يرأسها تشيفيرين على تغيير إدارة الفيفا وتعلن عن بعض المقترحات في هذا الشأن.",
-    "translation_status": "translated",
-    "post_title": "اليويفا يطالب الفيفا",
-    "post_text": "🚨 اليويفا يطالب الفيفا\n\n📝 وتصر الهيئة التي يرأسها تشيفيرين على تغيير إدارة الفيفا وتعلن عن بعض المقترحات في هذا الشأن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072632178735426",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليويفا_يطالب_الفيفا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/exigencias-de-la-uefa-a-la-fifa-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIG_pB8yoxJcTKSPWtOsoZv"
     }
   }
 ]
