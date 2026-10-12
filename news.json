@@ -1,5 +1,39 @@
 [
   {
+    "title": "La hora de Julián Alvarez",
+    "url": "https://as.com/futbol/champions/la-hora-de-julian-alvarez-f202610-n/",
+    "summary": "El argentino podría ser titular ante el Manchester United. Simeone, que no ensayó nada en la sesión de hoy, sabe del buen rendimiento de La ‘Araña’ en Champions la pasada temporada: diez goles y cuatro asistencias en quince partidos.",
+    "published": "Mon, 12 Oct 2026 13:05:28 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OKNTECTESNIITLTFVZXG6Y2OVA.jpg?auth=0479293103dfc8d957bf8548751c1a333525e907d6590642a2fc2ffc793e18e1",
+    "media_type": "image/jpeg",
+    "arabic_title": "زمن جوليان ألفاريز",
+    "arabic_summary": "يمكن أن يبدأ الأرجنتيني ضد مانشستر يونايتد. يعرف سيميوني، الذي لم يتدرب على أي شيء في جلسة اليوم، أداء لا أرانيا الجيد في دوري أبطال أوروبا الموسم الماضي: عشرة أهداف وأربع تمريرات حاسمة في خمسة عشر مباراة.",
+    "translation_status": "translated",
+    "post_title": "زمن جوليان ألفاريز",
+    "post_text": "🚨 زمن جوليان ألفاريز\n\n📝 يمكن أن يبدأ الأرجنتيني ضد مانشستر يونايتد. يعرف سيميوني، الذي لم يتدرب على أي شيء في جلسة اليوم، أداء لا أرانيا الجيد في دوري أبطال أوروبا الموسم الماضي: عشرة أهداف وأربع تمريرات حاسمة في خمسة عشر مباراة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1075933428405301",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زمن_جوليان_ألفاريز.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/la-hora-de-julian-alvarez-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVg2dCwyt_NPYTySuDms9oF"
+    }
+  },
+  {
     "title": "Bashir, Pope given new England contracts",
     "url": "https://www.skysports.com/cricket/news/12040/13592978/england-cricket-central-contracts-shoaib-bashir-ollie-pope-deals-renewed-as-henry-crocombe-jordan-cox-sign-for-two-years",
     "summary": "England have renewed the central contracts of Ollie Pope and Shoaib Bashir for one year despite the duo dropping out of the Test XI but Zak Crawley's expiring deal has not been extended.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXqAtpWpqyIsh6rc-o_H5A_"
-    }
-  },
-  {
-    "title": "Johan Vásquez, en el radar del Atlético",
-    "url": "https://as.com/futbol/primera/johan-vasquez-en-el-radar-del-atletico-f202610-n/",
-    "summary": "Mateu Alemany sigue muy de cerca al capitán del Genoa. Internacional por México, acaba contrato con su actual club en 2028. Importantes equipos de Italia tantearon su fichaje el pasado verano.",
-    "published": "Thu, 08 Oct 2026 08:51:33 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FZJCOB7EJZFEBPG3ZIFSDIPAWM.jpg?auth=03af2181e0c5f49164a1a0beef59532fa2bba30de8c71a131086d514abdbcc49",
-    "media_type": "image/jpeg",
-    "arabic_title": "يوهان فاسكيز، على رادار أتلتيكو",
-    "arabic_summary": "ماتيو أليماني يتابع قائد جنوة عن كثب. دولي للمكسيك، وينتهي عقده مع ناديه الحالي في عام 2028. واختبرت فرق مهمة في إيطاليا توقيعه في الصيف الماضي.",
-    "translation_status": "translated",
-    "post_title": "يوهان فاسكيز، على رادار أتلتيكو",
-    "post_text": "🚨 يوهان فاسكيز، على رادار أتلتيكو\n\n📝 ماتيو أليماني يتابع قائد جنوة عن كثب. دولي للمكسيك، وينتهي عقده مع ناديه الحالي في عام 2028. واختبرت فرق مهمة في إيطاليا توقيعه في الصيف الماضي.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072279958770648",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يوهان_فاسكيز،_على_رادار_أتلتيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/johan-vasquez-en-el-radar-del-atletico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9ImEJSkmn9quoqK2I_GdOf"
     }
   }
 ]
