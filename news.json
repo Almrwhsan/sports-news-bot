@@ -1,5 +1,39 @@
 [
   {
+    "title": "Inside the Huddle: Did Shanahan find his Julio Jones with 49ers?",
+    "url": "https://www.skysports.com/nfl/news/12040/13598217/mike-evans-has-given-kyle-shanahan-and-san-francisco-49ers-their-julio-jones-says-neil-reynolds",
+    "summary": "",
+    "published": "Mon, 12 Oct 2026 15:40:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-mike-evans-inside-the-huddle_7375188.jpg?20261012153842",
+    "media_type": "image/jpg",
+    "arabic_title": "داخل التجمع: هل وجد شاناهان خوليو جونز مع 49ers؟",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "داخل التجمع: هل وجد شاناهان خوليو جونز مع 49ers؟",
+    "post_text": "🚨 داخل التجمع: هل وجد شاناهان خوليو جونز مع 49ers؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076227901709187",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/داخل_التجمع_هل_وجد_شاناهان_خوليو_جونز_مع_49ers؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/nfl/news/12040/13598217/mike-evans-has-given-kyle-shanahan-and-san-francisco-49ers-their-julio-jones-says-neil-reynolds",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AiI2B_iwZyvh0-OZNiOiqrH"
+    }
+  },
+  {
     "title": "Boyé alcanza a Toni Martínez",
     "url": "https://www.marca.com/futbol/alaves/2026/10/12/boye-alcanza-toni-martinez.html",
     "summary": "El argentino ha marcado los mismos goles que el murciano desde la llegada de Quique. Entre ambos han hecho el 66% de los tantos con el técnico madrileño en el banquillo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5QktYXD0gjTpJ6PRK4h6Rd"
-    }
-  },
-  {
-    "title": "Ceferin quiere seguir hasta 2031",
-    "url": "https://as.com/futbol/internacional/ceferin-quiere-seguir-hasta-2031-f202610-n/",
-    "summary": "El dirigente esloveno aspirará a la relección. Sería su cuarto mandato. Lo anunció de manera oficial hoy en Berlín.",
-    "published": "Thu, 08 Oct 2026 14:24:40 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZQYVXDPSFBDSTIVFCHHTEYEWQY.jpg?auth=c4a64bb77bc0a57a8cc61b7a75c601d8ec84182143d603af212086d0ca64af5e",
-    "media_type": "image/jpeg",
-    "arabic_title": "يريد تشيفيرين الاستمرار حتى عام 2031",
-    "arabic_summary": "وسيسعى الزعيم السلوفيني إلى إعادة انتخابه. وستكون ولايته الرابعة. وقد أعلن ذلك رسميًا اليوم في برلين.",
-    "translation_status": "translated",
-    "post_title": "يريد تشيفيرين الاستمرار حتى عام 2031",
-    "post_text": "🚨 يريد تشيفيرين الاستمرار حتى عام 2031\n\n📝 وسيسعى الزعيم السلوفيني إلى إعادة انتخابه. وستكون ولايته الرابعة. وقد أعلن ذلك رسميًا اليوم في برلين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072609988737645",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يريد_تشيفيرين_الاستمرار_حتى_عام_2031.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/ceferin-quiere-seguir-hasta-2031-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqBxTkJCviuwGQL4AIfgLV2"
     }
   }
 ]
