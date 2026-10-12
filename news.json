@@ -1,5 +1,39 @@
 [
   {
+    "title": "La mirada al cielo de Diomande: \"Va por ti, Roxane\"",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/12/mirada-cielo-diomande-ti-roxane.html",
+    "summary": "El delantero marfileño dedicó su primer gol con el Madrid a Roxane, su hermana fallecida a los 15 años, que siempre creyó en él",
+    "published": "Mon, 12 Oct 2026 14:48:41 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/10/11/6acb9900103dd.r_d.252-37-0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "نظرة ديوماندي إلى السماء: \"إنها لك يا روكسان\"",
+    "arabic_summary": "أهدى المهاجم الإيفواري هدفه الأول مع ريال مدريد إلى روكسان، شقيقته التي توفيت عن عمر يناهز 15 عاماً، والتي كانت تؤمن به دائماً.",
+    "translation_status": "translated",
+    "post_title": "نظرة ديوماندي إلى السماء: \"إنها لك يا روكسان\"",
+    "post_text": "🚨 نظرة ديوماندي إلى السماء: \"إنها لك يا روكسان\"\n\n📝 أهدى المهاجم الإيفواري هدفه الأول مع ريال مدريد إلى روكسان، شقيقته التي توفيت عن عمر يناهز 15 عاماً، والتي كانت تؤمن به دائماً.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076256355039675",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نظرة_ديوماندي_إلى_السماء_إنها_لك_يا_روكسان.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/12/mirada-cielo-diomande-ti-roxane.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6UjlgqHowS_E6bIHlstp1G"
+    }
+  },
+  {
     "title": "Burgos CF - Granada en directo | Última hora de LALIGA Hypermotion en vivo hoy",
     "url": "https://www.marca.com/futbol/segunda-division/2026/10/12/01-0102-20261012-951-5683.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwWrrG3mdPBZzc0z6NudvRj"
-    }
-  },
-  {
-    "title": "Aubameyang: “Es la primera vez en mi carrera que me lesiono más de diez días”",
-    "url": "https://www.marca.com/futbol/deportivo/2026/10/08/aubameyang-primera-vez-mi-carrera-me-lesiono-mas-diez-dias.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Thu, 08 Oct 2026 13:37:29 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac77f0079631.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أوباميانج: \"إنها المرة الأولى في مسيرتي التي أتعرض فيها للإصابة منذ أكثر من عشرة أيام\"",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "أوباميانج: \"إنها المرة الأولى في مسيرتي التي أتعرض فيها للإصابة منذ أكثر من عشرة أيام\"",
-    "post_text": "🚨 أوباميانج: \"إنها المرة الأولى في مسيرتي التي أتعرض فيها للإصابة منذ أكثر من عشرة أيام\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072617058736938",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوباميانج_إنها_المرة_الأولى_في_مسيرتي_التي_أتعرض_فيها_للإصابة_منذ_أكثر_من_عشرة_أ.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/deportivo/2026/10/08/aubameyang-primera-vez-mi-carrera-me-lesiono-mas-diez-dias.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXRRnTkZghdMpDeGowp6tQK"
     }
   }
 ]
