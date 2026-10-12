@@ -1,5 +1,39 @@
 [
   {
+    "title": "Shields targets Price fight in early 2027",
+    "url": "https://www.skysports.com/boxing/news/12040/13598152/claressa-shields-targets-lauren-price-fight-in-early-2027-she-always-wants-to-fight-the-best",
+    "summary": "Claressa Shields is looking to fight Lauren Price in early 2027.",
+    "published": "Mon, 12 Oct 2026 12:40:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-claressa-shields_7323645.jpg?20260816215629",
+    "media_type": "image/jpg",
+    "arabic_title": "تستهدف Shields معركة الأسعار في أوائل عام 2027",
+    "arabic_summary": "تتطلع كلاريسا شيلدز لمحاربة لورين برايس في أوائل عام 2027.",
+    "translation_status": "translated",
+    "post_title": "تستهدف Shields معركة الأسعار في أوائل عام 2027",
+    "post_text": "🚨 تستهدف Shields معركة الأسعار في أوائل عام 2027\n\n📝 تتطلع كلاريسا شيلدز لمحاربة لورين برايس في أوائل عام 2027.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1075961821735795",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تستهدف_Shields_معركة_الأسعار_في_أوائل_عام_2027.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13598152/claressa-shields-targets-lauren-price-fight-in-early-2027-she-always-wants-to-fight-the-best",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AviZ-QDIvYACrG0E7_y5AQ9"
+    }
+  },
+  {
     "title": "Antony, pendiente de revisión por unas molestias musculares",
     "url": "https://www.marca.com/futbol/betis/2026/10/12/antony-pendiente-revision-molestias-musculares.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAAvGQZcuKN6KjfFHQrOc9C"
-    }
-  },
-  {
-    "title": "El particular homenaje por parte de la Selección a Pedro, uno de los héroes de 2010",
-    "url": "https://www.marca.com/futbol/seleccion/2026/10/08/particular-homenaje-parte-seleccion-pedro-heroes-2010-video.html",
-    "summary": "",
-    "published": "Thu, 08 Oct 2026 09:15:33 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/fdw5U1gnqAwyYx2SV.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تكريم خاص من الفريق الوطني لبيدرو، أحد أبطال عام 2010",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "تكريم خاص من الفريق الوطني لبيدرو، أحد أبطال عام 2010",
-    "post_text": "🚨 تكريم خاص من الفريق الوطني لبيدرو، أحد أبطال عام 2010\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072306728767971",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تكريم_خاص_من_الفريق_الوطني_لبيدرو،_أحد_أبطال_عام_2010.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/08/particular-homenaje-parte-seleccion-pedro-heroes-2010-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYyvHIT2ubD16wmr7f8m8EK"
     }
   }
 ]
