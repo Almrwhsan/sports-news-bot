@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Newcastle espía a Otorbi en Santander",
+    "url": "https://www.marca.com/futbol/valencia/2026/10/12/newcastle-espia-otorbi-santander.html",
+    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
+    "published": "Mon, 12 Oct 2026 16:17:47 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6acce9e7cf609.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "نيوكاسل يتجسس على أوتوربي في سانتاندير",
+    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
+    "translation_status": "translated",
+    "post_title": "نيوكاسل يتجسس على أوتوربي في سانتاندير",
+    "post_text": "🚨 نيوكاسل يتجسس على أوتوربي في سانتاندير\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076307065034604",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيوكاسل_يتجسس_على_أوتوربي_في_سانتاندير.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/10/12/newcastle-espia-otorbi-santander.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7ClcpHdNniw2qongu_CWjs"
+    }
+  },
+  {
     "title": "El Oporto vuelve a La Cartuja, escenario de uno de sus cuatro títulos continentales",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/12/oporto-vuelve-cartuja-escenario-cuatro-titulos-continentales.html",
     "summary": "Fue el escenario de su título en la Copa de la UEFA de 2003 frente al Celtic de Glasgow",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0CfeBgQ2Z-1j044I8k4gaV"
-    }
-  },
-  {
-    "title": "Mbappé, la gente esperaba a Cristiano Ronaldo",
-    "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/09/mbappe-gente-esperaba-cristiano-ronaldo.html",
-    "summary": "'Mis notas de la semana', por Juan Ignacio García Ochoa",
-    "published": "Fri, 09 Oct 2026 06:14:39 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac8222a554db.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "مبابي، الناس كانوا ينتظرون كريستيانو رونالدو",
-    "arabic_summary": "\"ملاحظاتي لهذا الأسبوع\"، بقلم خوان إجناسيو غارسيا أوتشوا",
-    "translation_status": "translated",
-    "post_title": "مبابي، الناس كانوا ينتظرون كريستيانو رونالدو",
-    "post_text": "🚨 مبابي، الناس كانوا ينتظرون كريستيانو رونالدو\n\n📝 \"ملاحظاتي لهذا الأسبوع\"، بقلم خوان إجناسيو غارسيا أوتشوا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072839355381375",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي،_الناس_كانوا_ينتظرون_كريستيانو_رونالدو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/09/mbappe-gente-esperaba-cristiano-ronaldo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbSSbUk6JTa1IGFgEnT223e"
     }
   }
 ]
