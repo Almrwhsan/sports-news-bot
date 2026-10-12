@@ -1,5 +1,39 @@
 [
   {
+    "title": "La explosión de Baena",
+    "url": "https://as.com/futbol/primera/la-explosion-de-baena-f202610-n/",
+    "summary": "El jugador del Atlético ha participado en seis goles en lo que llevamos de Liga (cuatro tantos y dos asistencias).",
+    "published": "Mon, 12 Oct 2026 04:40:58 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FQ46JFRSXFO4DNOVTGUXQWPO6M.jpg?auth=c70056d9c33649d87bff761c6030e4b1d79d598e29fe7627696b19bf4fcd92f5",
+    "media_type": "image/jpeg",
+    "arabic_title": "انفجار باينا",
+    "arabic_summary": "وشارك لاعب أتلتيكو في ستة أهداف حتى الآن في الدوري (أربعة أهداف وتمريرتين حاسمتين).",
+    "translation_status": "translated",
+    "post_title": "انفجار باينا",
+    "post_text": "🚨 انفجار باينا\n\n📝 وشارك لاعب أتلتيكو في ستة أهداف حتى الآن في الدوري (أربعة أهداف وتمريرتين حاسمتين).\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1075594908439153",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/انفجار_باينا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/la-explosion-de-baena-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZIQwpvasTTBVAc-S5ybbzr"
+    }
+  },
+  {
     "title": "América – Medellín hoy, en vivo online: partido de Liga BetPlay, en directo",
     "url": "https://colombia.as.com/futbol/america-medellin-hoy-en-vivo-online-partido-de-liga-betplay-en-directo-f202610-d/",
     "summary": "Sigue en vivo online América – Medellín, partido por la jornada 14 de la Liga BetPlay, que se jugará hoy 11 de octubre desde las 8:15 p. m., en el estadio Pascual Guerrero de Cali.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjwLtaxOarBzriRe1o20ZHh"
-    }
-  },
-  {
-    "title": "Why Bears genius has become one of NFL's most important figures",
-    "url": "https://www.skysports.com/nfl/news/12040/13596088/ben-johnson-why-chicago-bears-mastermind-has-become-one-of-the-most-important-figures-in-the-nfl",
-    "summary": "The NFL needs the Ben Johnsons of the world. The genius and the belligerence. The brainiac and the maniac.&#160;",
-    "published": "Thu, 08 Oct 2026 06:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-ben-johnson-chicago-bears_7370685.jpg?20261007160140",
-    "media_type": "image/jpg",
-    "arabic_title": "لماذا أصبحت عبقرية الدببة واحدة من أهم الشخصيات في اتحاد كرة القدم الأميركي",
-    "arabic_summary": "يحتاج اتحاد كرة القدم الأميركي إلى بن جونسون في العالم. العبقرية والحرب. العقلي والمجنون.",
-    "translation_status": "translated",
-    "post_title": "لماذا أصبحت عبقرية الدببة واحدة من أهم الشخصيات في اتحاد كرة القدم الأميركي",
-    "post_text": "🚨 لماذا أصبحت عبقرية الدببة واحدة من أهم الشخصيات في اتحاد كرة القدم الأميركي\n\n📝 يحتاج اتحاد كرة القدم الأميركي إلى بن جونسون في العالم. العبقرية والحرب. العقلي والمجنون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1071990892132888",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لماذا_أصبحت_عبقرية_الدببة_واحدة_من_أهم_الشخصيات_في_اتحاد_كرة_القدم_الأميركي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13596088/ben-johnson-why-chicago-bears-mastermind-has-become-one-of-the-most-important-figures-in-the-nfl",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUGcCTyCiN2OhKrHJbm9Bsy"
     }
   }
 ]
