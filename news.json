@@ -1,5 +1,39 @@
 [
   {
+    "title": "Problemas para Gündogan",
+    "url": "https://as.com/futbol/problemas-para-gundogan-f202610-n/",
+    "summary": "El exjugador del Barcelona,ahora en el Galatasaray apenas tiene minutos en su nuevo equipo, próximo rival de los blaugrana.",
+    "published": "Mon, 12 Oct 2026 13:11:25 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/L2UWKD63OVBF5AWZWCVBG6W4KI.png?auth=a7d7c7ce60a08232e75a0ecc93eda241d39df4ef2e647b0368c51af144cc3ad4",
+    "media_type": "image/png",
+    "arabic_title": "مشاكل لجوندوجان",
+    "arabic_summary": "لاعب برشلونة السابق، الآن في غلطة سراي، بالكاد يملك دقائق مع فريقه الجديد، المنافس التالي للبلوجرانا.",
+    "translation_status": "translated",
+    "post_title": "مشاكل لجوندوجان",
+    "post_text": "🚨 مشاكل لجوندوجان\n\n📝 لاعب برشلونة السابق، الآن في غلطة سراي، بالكاد يملك دقائق مع فريقه الجديد، المنافس التالي للبلوجرانا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1075937695071541",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مشاكل_لجوندوجان.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/problemas-para-gundogan-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AB3mOzoAzhniXSXwyBP4o7o"
+    }
+  },
+  {
     "title": "La hora de Julián Alvarez",
     "url": "https://as.com/futbol/champions/la-hora-de-julian-alvarez-f202610-n/",
     "summary": "El argentino podría ser titular ante el Manchester United. Simeone, que no ensayó nada en la sesión de hoy, sabe del buen rendimiento de La ‘Araña’ en Champions la pasada temporada: diez goles y cuatro asistencias en quince partidos.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ah3gYB49nLj25fkaUJm7dEz"
-    }
-  },
-  {
-    "title": "Robbie Ure se seca, pero sigue 4º en la Bota de Oro",
-    "url": "https://as.com/futbol/primera/robbie-ure-se-seca-pero-sigue-4-en-la-bota-de-oro-f202610-n/",
-    "summary": "El delantero escocés había marcado 20 goles 20 partidos con el Sirius. El Sevilla pagó 6,5 millones por él pero no ha visto puerta en 11 encuentros, entre Nervión y Escocia.",
-    "published": "Thu, 08 Oct 2026 08:33:16 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/N4CPWSQT2NDOZP27PDINGI57EU.jpg?auth=6412b7f4fca60e44561d4f1af27597d273951f4a59f49cc1e5337fa0f134b19d",
-    "media_type": "image/jpeg",
-    "arabic_title": "يجف روبي أور، لكنه يظل في المركز الرابع في الحذاء الذهبي",
-    "arabic_summary": "وسجل المهاجم الاسكتلندي 20 هدفا في 20 مباراة لصالح سيريوس. دفع إشبيلية 6.5 مليون يورو لضمه لكنه لم يسجل في 11 مباراة بين نيرفيون واسكتلندا.",
-    "translation_status": "translated",
-    "post_title": "يجف روبي أور، لكنه يظل في المركز الرابع في الحذاء الذهبي",
-    "post_text": "🚨 يجف روبي أور، لكنه يظل في المركز الرابع في الحذاء الذهبي\n\n📝 وسجل المهاجم الاسكتلندي 20 هدفا في 20 مباراة لصالح سيريوس. دفع إشبيلية 6.5 مليون يورو لضمه لكنه لم يسجل في 11 مباراة بين نيرفيون واسكتلندا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072279882103989",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يجف_روبي_أور،_لكنه_يظل_في_المركز_الرابع_في_الحذاء_الذهبي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/robbie-ure-se-seca-pero-sigue-4-en-la-bota-de-oro-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXqAtpWpqyIsh6rc-o_H5A_"
     }
   }
 ]
