@@ -1,5 +1,39 @@
 [
   {
+    "title": "Championship Catch-up: Swans soaring, Burnley win and Eckert saga ends",
+    "url": "https://www.skysports.com/football/news/12040/13598196/swansea-soaring-burnley-get-their-first-win-and-tonda-eckert-saga-ends-championship-catch-up",
+    "summary": "",
+    "published": "Tue, 13 Oct 2026 07:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-championship-catch_7375150.jpg?20261012150238",
+    "media_type": "image/jpg",
+    "arabic_title": "اللحاق بالبطولة: البجع يرتفع، فوز بيرنلي وتنتهي ملحمة إيكيرت",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "اللحاق بالبطولة: البجع يرتفع، فوز بيرنلي وتنتهي ملحمة إيكيرت",
+    "post_text": "🚨 اللحاق بالبطولة: البجع يرتفع، فوز بيرنلي وتنتهي ملحمة إيكيرت\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076845584980752",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اللحاق_بالبطولة_البجع_يرتفع،_فوز_بيرنلي_وتنتهي_ملحمة_إيكيرت.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13598196/swansea-soaring-burnley-get-their-first-win-and-tonda-eckert-saga-ends-championship-catch-up",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Akap4ozI2miMj-ws8kXtie4"
+    }
+  },
+  {
     "title": "Peterborough deny making illegal approach for Savage",
     "url": "https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo?at_medium=RSS&at_campaign=rss",
     "summary": "Darragh MacAnthony denies claims by Forest Green owner Dale Vince that Peterborough made an illegal approach for manager Robbie Savage.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlEaASnAm-VHqOijPg4zerp"
-    }
-  },
-  {
-    "title": "Menos leyendas, más obreros: así han cambiado los banquillos de LaLiga",
-    "url": "https://as.com/futbol/primera/menos-leyendas-mas-obreros-asi-han-cambiado-los-banquillos-de-laliga-f202610-n/",
-    "summary": "Esta temporada es la que menos grandes futbolistas están entrenando en Primera. Varios no jugaron en la élite y ‘picaron piedra’ hasta llegar.",
-    "published": "Fri, 09 Oct 2026 11:50:11 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/AJCHUYY3TKDFLIXWG4VUOXSIBM.jpg?auth=fc12de25b63d967127446922823bddd808237d9032b4c850216c7defec0ca391",
-    "media_type": "image/jpeg",
-    "arabic_title": "أساطير أقل، المزيد من العمال: هكذا تغيرت مقاعد الدوري الإسباني",
-    "arabic_summary": "هذا الموسم هو الموسم الذي يتدرب فيه أقل عدد من لاعبي كرة القدم العظماء في دوري الدرجة الأولى. لم يلعب العديد منهم في النخبة و\"الحجر المكسر\" للوصول إلى هناك.",
-    "translation_status": "translated",
-    "post_title": "أساطير أقل، المزيد من العمال: هكذا تغيرت مقاعد الدوري الإسباني",
-    "post_text": "🚨 أساطير أقل، المزيد من العمال: هكذا تغيرت مقاعد الدوري الإسباني\n\n📝 هذا الموسم هو الموسم الذي يتدرب فيه أقل عدد من لاعبي كرة القدم العظماء في دوري الدرجة الأولى. لم يلعب العديد منهم في النخبة و\"الحجر المكسر\" للوصول إلى هناك.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073116812020296",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أساطير_أقل،_المزيد_من_العمال_هكذا_تغيرت_مقاعد_الدوري_الإسباني.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/menos-leyendas-mas-obreros-asi-han-cambiado-los-banquillos-de-laliga-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARJ2ddT0PQf73U3EnqA7Kfi"
     }
   }
 ]
