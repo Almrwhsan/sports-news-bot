@@ -1,5 +1,39 @@
 [
   {
+    "title": "Agoumé, sobre la expulsión de Isaac: \"No creo que haya hecho nada malo\"",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/13/agoume-sobre-expulsion-isaac-creo-haya-hecho-malo.html",
+    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
+    "published": "Tue, 13 Oct 2026 01:59:32 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6acd745990526.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغومي عن طرد إسحاق: \"لا أعتقد أنه ارتكب أي خطأ\"",
+    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
+    "translation_status": "translated",
+    "post_title": "أغومي عن طرد إسحاق: \"لا أعتقد أنه ارتكب أي خطأ\"",
+    "post_text": "🚨 أغومي عن طرد إسحاق: \"لا أعتقد أنه ارتكب أي خطأ\"\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076944951637482",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغومي_عن_طرد_إسحاق_لا_أعتقد_أنه_ارتكب_أي_خطأ.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/13/agoume-sobre-expulsion-isaac-creo-haya-hecho-malo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYb2YMR5t-l1XHUWXPBwmVH"
+    }
+  },
+  {
     "title": "Griezmann ilusiona con un partido Orlando City vs Atlético de Madrid en diciembre",
     "url": "https://as.com/us/videos/griezmann-ilusiona-con-un-partido-orlando-city-vs-atletico-de-madrid-en-diciembre-f202610-v/",
     "summary": "Antoinde Griezmann, lanzó un guiño en una de sus historias de Instagram donde propone un amistoso ante su ex club el Atlético de Madrid y el Orlando City.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9PqLpqXPGlq-BRTrqPk60I"
-    }
-  },
-  {
-    "title": "Tzolakis, un Adonis bajo los palos de la Premier esculpido por Mendilibar: \"Valdrá 60, 70 u 80 millones\"",
-    "url": "https://www.marca.com/futbol/premier-league/2026/10/09/tzolakis-adonis-palos-premier-esculpido-mendilibar-valdra-60-70-u-80-millones.html",
-    "summary": "El guardameta griego ha confirmado en el parón de selecciones las excelentes sensaciones transmitidas durante el inicio de temporada con el Hull City",
-    "published": "Fri, 09 Oct 2026 06:19:48 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7d020330e5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تزولاكيس، أدونيس تحت عصي الدوري الإنجليزي منحوتة منديليبار: \"سيكون بقيمة 60 أو 70 أو 80 مليونًا\"",
-    "arabic_summary": "وأكد الحارس اليوناني خلال كسر المنتخب الوطني الأحاسيس الممتازة التي نقلها خلال بداية الموسم مع هال سيتي",
-    "translation_status": "translated",
-    "post_title": "تزولاكيس، أدونيس تحت عصي الدوري الإنجليزي منحوتة منديليبار: \"سيكون بقيمة 60 أو 70 أو 80 مليونًا\"",
-    "post_text": "🚨 تزولاكيس، أدونيس تحت عصي الدوري الإنجليزي منحوتة منديليبار: \"سيكون بقيمة 60 أو 70 أو 80 مليونًا\"\n\n📝 وأكد الحارس اليوناني خلال كسر المنتخب الوطني الأحاسيس الممتازة التي نقلها خلال بداية الموسم مع هال سيتي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073116158687028",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تزولاكيس،_أدونيس_تحت_عصي_الدوري_الإنجليزي_منحوتة_منديليبار_سيكون_بقيمة_60_أو_70_.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/09/tzolakis-adonis-palos-premier-esculpido-mendilibar-valdra-60-70-u-80-millones.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AmNrolE4ayLzDIDT_mAfDGt"
     }
   }
 ]
