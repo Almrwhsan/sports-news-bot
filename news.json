@@ -1,5 +1,39 @@
 [
   {
+    "title": "Brilliant angles show Maharaj's juggling catch to dismiss Renshaw",
+    "url": "https://www.skysports.com/watch/video/13598168/australia-vs-south-africa-first-test-brilliant-angles-show-keshav-maharajs-juggling-catch-to-dismiss-matt-renshaw",
+    "summary": "Matt Renshaw was caught and bowled by Keshav Maharaj during day four of the first Test after the decision was reviewed.",
+    "published": "Mon, 12 Oct 2026 13:21:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-cricket-maharaj_7375073.jpg?20261012133154",
+    "media_type": "image/jpg",
+    "arabic_title": "تُظهر الزوايا الرائعة قدرة مهراج على طرد رينشو",
+    "arabic_summary": "تم القبض على مات رينشو ورميه بواسطة كيشاف مهراج خلال اليوم الرابع من الاختبار الأول بعد مراجعة القرار.",
+    "translation_status": "translated",
+    "post_title": "تُظهر الزوايا الرائعة قدرة مهراج على طرد رينشو",
+    "post_text": "🚨 تُظهر الزوايا الرائعة قدرة مهراج على طرد رينشو\n\n📝 تم القبض على مات رينشو ورميه بواسطة كيشاف مهراج خلال اليوم الرابع من الاختبار الأول بعد مراجعة القرار.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076659144999396",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تُظهر_الزوايا_الرائعة_قدرة_مهراج_على_طرد_رينشو.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13598168/australia-vs-south-africa-first-test-brilliant-angles-show-keshav-maharajs-juggling-catch-to-dismiss-matt-renshaw",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ab6kLRy63UAgmZUrRSFcVsa"
+    }
+  },
+  {
     "title": "Coventry stun Newcastle in game of spectacular goals!",
     "url": "https://www.skysports.com/watch/video/13598341/coventry-city-4-1-newcastle-united-premier-league-highlights",
     "summary": "FREE TO WATCH: Highlights from the Premier League match between Coventry City and Newcastle United.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0fI4BsBI-ICsQtKxmhPTNr"
-    }
-  },
-  {
-    "title": "Koundé, entre el récord y la incertidumbre",
-    "url": "https://as.com/futbol/primera/kounde-entre-el-record-y-la-incertidumbre-f202610-n/",
-    "summary": "El lateral, a día de hoy suplente, puede convertirse ante el Getafe en el francés con más partidos en la historia del Barcelona.",
-    "published": "Fri, 09 Oct 2026 07:07:16 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/D5BLQHBNRNGWPASZ6TG2ITLZMY.jpg?auth=04f5557a36223a610aacb9f4aef23ef8bb423a2071dbf9447128f23b51a15742",
-    "media_type": "image/jpeg",
-    "arabic_title": "كوندي بين السجل وعدم اليقين",
-    "arabic_summary": "يمكن للظهير، الذي يلعب حاليًا كبديل، أن يصبح اللاعب الفرنسي صاحب أكبر عدد من المباريات في تاريخ برشلونة ضد خيتافي.",
-    "translation_status": "translated",
-    "post_title": "كوندي بين السجل وعدم اليقين",
-    "post_text": "🚨 كوندي بين السجل وعدم اليقين\n\n📝 يمكن للظهير، الذي يلعب حاليًا كبديل، أن يصبح اللاعب الفرنسي صاحب أكبر عدد من المباريات في تاريخ برشلونة ضد خيتافي.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072936432038334",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوندي_بين_السجل_وعدم_اليقين.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/kounde-entre-el-record-y-la-incertidumbre-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8xA8SCT9hFhGXbZ2jRLhta"
     }
   }
 ]
