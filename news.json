@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valdano le ofrece al Atlético la solución para acabar con \"el lío en el que se metió Julián Alvarez\"",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/13/valdano-le-ofrece-atletico-solucion-acabar-lio-metio-julian-alvarez.html",
+    "summary": "\"Julián Álvarez es el mejor jugador de la plantilla, por lo menos desde mi punto de vista. No puedes prescindir del mejor si quieres hacer un equipo grande\"",
+    "published": "Tue, 13 Oct 2026 08:44:41 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6acdd2aab56e2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فالدانو يعرض على أتلتيكو الحل لإنهاء \"الفوضى التي وقع فيها جوليان ألفاريز\"",
+    "arabic_summary": "\"جوليان ألفاريز هو أفضل لاعب في الفريق، على الأقل من وجهة نظري. لا يمكنك الاستغناء عن الأفضل إذا كنت تريد تكوين فريق رائع\"",
+    "translation_status": "translated",
+    "post_title": "فالدانو يعرض على أتلتيكو الحل لإنهاء \"الفوضى التي وقع فيها جوليان ألفاريز\"",
+    "post_text": "🚨 فالدانو يعرض على أتلتيكو الحل لإنهاء \"الفوضى التي وقع فيها جوليان ألفاريز\"\n\n📝 \"جوليان ألفاريز هو أفضل لاعب في الفريق، على الأقل من وجهة نظري. لا يمكنك الاستغناء عن الأفضل إذا كنت تريد تكوين فريق رائع\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076979054967405",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالدانو_يعرض_على_أتلتيكو_الحل_لإنهاء_الفوضى_التي_وقع_فيها_جوليان_ألفاريز.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/13/valdano-le-ofrece-atletico-solucion-acabar-lio-metio-julian-alvarez.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Au7avowUPpIrrSjMPa_hLdS"
+    }
+  },
+  {
     "title": "El tercer mejor equipo del último mes y medio",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/10/13/tercer-mejor-equipo-ultimo-mes-medio.html",
     "summary": "La Real ha sumado 13 de los 18 últimos puntos, sólo menos que Barcelona y Atlético",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVgbO87HuseTVEWxWPWxq3T"
-    }
-  },
-  {
-    "title": "Every word Maresca said on Man City charges verdict",
-    "url": "https://www.skysports.com/football/news/12040/13596798/man-city-charges-every-word-from-enzo-marescas-first-press-conference-after-guilty-verdict-from-independent-premier-league-commission",
-    "summary": "",
-    "published": "Fri, 09 Oct 2026 10:59:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-enzo-maresca-news_7371930.png?20261009104009",
-    "media_type": "image/jpg",
-    "arabic_title": "كل كلمة قالها ماريسكا في مانشستر سيتي هي الحكم",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كل كلمة قالها ماريسكا في مانشستر سيتي هي الحكم",
-    "post_text": "🚨 كل كلمة قالها ماريسكا في مانشستر سيتي هي الحكم\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073137228684921",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كل_كلمة_قالها_ماريسكا_في_مانشستر_سيتي_هي_الحكم.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13596798/man-city-charges-every-word-from-enzo-marescas-first-press-conference-after-guilty-verdict-from-independent-premier-league-commission",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Az3QdXHt_cm-6SUJJCs1Cox"
     }
   }
 ]
