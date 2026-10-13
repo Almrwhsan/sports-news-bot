@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Rayo – Athletic apunta a la primera semana de noviembre",
+    "url": "https://www.marca.com/futbol/athletic/2026/10/12/rayo-athletic-apunta-primera-semana-noviembre.html",
+    "summary": "El miércoles 4 de noviembre asoma como la opción principal para disputar a puerta cerrada los 77 minutos restantes tras la suspensión del choque por lanzamiento de objetos",
+    "published": "Mon, 12 Oct 2026 18:05:42 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6acd04c817096.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الريو – أهداف أتلتيك في الأسبوع الأول من شهر نوفمبر",
+    "arabic_summary": "ويظهر الأربعاء 4 نوفمبر كخيار أساسي للعب الـ77 دقيقة المتبقية خلف أبواب موصدة بعد توقف المواجهة بسبب رمي أشياء.",
+    "translation_status": "translated",
+    "post_title": "الريو – أهداف أتلتيك في الأسبوع الأول من شهر نوفمبر",
+    "post_text": "🚨 الريو – أهداف أتلتيك في الأسبوع الأول من شهر نوفمبر\n\n📝 ويظهر الأربعاء 4 نوفمبر كخيار أساسي للعب الـ77 دقيقة المتبقية خلف أبواب موصدة بعد توقف المواجهة بسبب رمي أشياء.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076551425010168",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الريو_–_أهداف_أتلتيك_في_الأسبوع_الأول_من_شهر_نوفمبر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/athletic/2026/10/12/rayo-athletic-apunta-primera-semana-noviembre.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjufFlnIjXtg2Nk71404HNp"
+    }
+  },
+  {
     "title": "Cubarsí: \"Todos ya saben que Lamine es el mejor del mundo\"",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/12/cubarsi-mundo-lamine-mejor-mundo.html",
     "summary": "El defensa ve a su compañero ganando el Balón de Oro",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AqV02l7wAhh21T9aK4YSE8c"
-    }
-  },
-  {
-    "title": "Swiss Darts Trophy 2026: Schedule, draw, dates as Bunting defends his title",
-    "url": "https://www.skysports.com/darts/news/12040/13596573/swiss-darts-trophy-2026-schedule-draw-dates-as-stephen-bunting-defends-his-title-and-european-championship-race-hots-up",
-    "summary": "Stephen Bunting will begin his defence of the Swiss Darts Trophy against Jeffrey de Graaf or Sietse Lap as the race for European Championship qualification continues.",
-    "published": "Thu, 08 Oct 2026 16:02:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-stephen-bunting-darts_7371443.jpg?20261008160924",
-    "media_type": "image/jpg",
-    "arabic_title": "كأس السهام السويسرية 2026: جدول، قرعة، مواعيد بينما يدافع بونتينج عن لقبه",
-    "arabic_summary": "سيبدأ ستيفن بونتينج دفاعه عن كأس السهام السويسرية ضد جيفري دي جراف أو سيتسي لاب مع استمرار السباق على التأهل لبطولة أوروبا.",
-    "translation_status": "translated",
-    "post_title": "كأس السهام السويسرية 2026: جدول، قرعة، مواعيد بينما يدافع بونتينج عن لقبه",
-    "post_text": "🚨 كأس السهام السويسرية 2026: جدول، قرعة، مواعيد بينما يدافع بونتينج عن لقبه\n\n📝 سيبدأ ستيفن بونتينج دفاعه عن كأس السهام السويسرية ضد جيفري دي جراف أو سيتسي لاب مع استمرار السباق على التأهل لبطولة أوروبا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072888035376507",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كأس_السهام_السويسرية_2026_جدول،_قرعة،_مواعيد_بينما_يدافع_بونتينج_عن_لقبه.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/news/12040/13596573/swiss-darts-trophy-2026-schedule-draw-dates-as-stephen-bunting-defends-his-title-and-european-championship-race-hots-up",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AR3L4ZYej4kMgtFUxHLD3bO"
     }
   }
 ]
