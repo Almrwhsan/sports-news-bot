@@ -1,5 +1,39 @@
 [
   {
+    "title": "Andy Carroll desvela que \"futbolistas conocidos\" le confesaron que sufrieron abusos sexuales de hombres",
+    "url": "https://www.marca.com/futbol/2026/10/13/andy-carroll-desvela-futbolistas-conocidos-le-confesaron-sufrieron-abusos-sexuales-hombres.html",
+    "summary": "\"Hay cosas que no se pueden superar, y eso jamás lo superaré. Pero ahora sé que la gente puede ver quién era yo entonces y por lo que he pasado\"",
+    "published": "Tue, 13 Oct 2026 07:53:23 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6acdc6bac1597.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يكشف آندي كارول أن \"لاعبي كرة قدم معروفين\" اعترفوا له بتعرضهم لاعتداءات جنسية من رجال",
+    "arabic_summary": "\"هناك أشياء لا يمكنك التغلب عليها، ولن أتغلب على ذلك أبدًا. لكنني أعلم الآن أن الناس يمكنهم معرفة من كنت في ذلك الوقت وما مررت به.\"",
+    "translation_status": "translated",
+    "post_title": "يكشف آندي كارول أن \"لاعبي كرة قدم معروفين\" اعترفوا له بتعرضهم لاعتداءات جنسية من رجال",
+    "post_text": "🚨 يكشف آندي كارول أن \"لاعبي كرة قدم معروفين\" اعترفوا له بتعرضهم لاعتداءات جنسية من رجال\n\n📝 \"هناك أشياء لا يمكنك التغلب عليها، ولن أتغلب على ذلك أبدًا. لكنني أعلم الآن أن الناس يمكنهم معرفة من كنت في ذلك الوقت وما مررت به.\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076948801637097",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يكشف_آندي_كارول_أن_لاعبي_كرة_قدم_معروفين_اعترفوا_له_بتعرضهم_لاعتداءات_جنسية_من_ر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/13/andy-carroll-desvela-futbolistas-conocidos-le-confesaron-sufrieron-abusos-sexuales-hombres.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAVGv3Vy_J7VpdGWwr045vk"
+    }
+  },
+  {
     "title": "Agoumé, sobre la expulsión de Isaac: \"No creo que haya hecho nada malo\"",
     "url": "https://www.marca.com/futbol/sevilla/2026/10/13/agoume-sobre-expulsion-isaac-creo-haya-hecho-malo.html",
     "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AtHZ0cGFTi1z-av5lTqOdKk"
-    }
-  },
-  {
-    "title": "El 'alumno' Maresca amenaza el mejor inicio del 'maestro' Guardiola: \"Sé que si no gano será un desastre\"",
-    "url": "https://www.marca.com/futbol/premier-league/2026/10/09/alumno-maresca-amenaza-mejor-inicio-maestro-guardiola-se-gano-sera-desastre.html",
-    "summary": "El nuevo entrenador del City puede igualar las seis victorias que enlazó Pep en 2017 y 2024",
-    "published": "Fri, 09 Oct 2026 06:19:05 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7a009da3e3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"الطالب\" ماريسكا يهدد أفضل بداية لـ \"المعلم\" جوارديولا: \"أعلم أنني إذا لم أفز فستكون كارثة\"",
-    "arabic_summary": "ويمكن لمدرب السيتي الجديد أن يعادل الانتصارات الستة التي حققها بيب في عامي 2017 و2024",
-    "translation_status": "translated",
-    "post_title": "\"الطالب\" ماريسكا يهدد أفضل بداية لـ \"المعلم\" جوارديولا: \"أعلم أنني إذا لم أفز فستكون كارثة\"",
-    "post_text": "🚨 \"الطالب\" ماريسكا يهدد أفضل بداية لـ \"المعلم\" جوارديولا: \"أعلم أنني إذا لم أفز فستكون كارثة\"\n\n📝 ويمكن لمدرب السيتي الجديد أن يعادل الانتصارات الستة التي حققها بيب في عامي 2017 و2024\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073116055353705",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الطالب_ماريسكا_يهدد_أفضل_بداية_لـ_المعلم_جوارديولا_أعلم_أنني_إذا_لم_أفز_فستكون_ك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/09/alumno-maresca-amenaza-mejor-inicio-maestro-guardiola-se-gano-sera-desastre.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9PqLpqXPGlq-BRTrqPk60I"
     }
   }
 ]
