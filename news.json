@@ -1,5 +1,39 @@
 [
   {
+    "title": "Louis Vuitton presenta la ‘nueva equipación’ del Real Madrid",
+    "url": "https://as.com/tikitakas/videos/louis-vuitton-presenta-la-nueva-equipacion-del-real-madrid-f202610-v/",
+    "summary": "La marca italiana ha compartido en sus redes sociales la nueva ropa formal y formal de viaje que lucirá el conjunto merengue en el segundo año de su asociación.",
+    "published": "Tue, 13 Oct 2026 09:43:19 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261013/1224716_094230_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "لويس فويتون يقدم الطقم الجديد لريال مدريد",
+    "arabic_summary": "شاركت العلامة التجارية الإيطالية على شبكاتها الاجتماعية ملابس السفر الرسمية والرسمية الجديدة التي سترتديها ملابس الميرينجو في السنة الثانية من تأسيسها.",
+    "translation_status": "translated",
+    "post_title": "لويس فويتون يقدم الطقم الجديد لريال مدريد",
+    "post_text": "🚨 لويس فويتون يقدم الطقم الجديد لريال مدريد\n\n📝 شاركت العلامة التجارية الإيطالية على شبكاتها الاجتماعية ملابس السفر الرسمية والرسمية الجديدة التي سترتديها ملابس الميرينجو في السنة الثانية من تأسيسها.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077185644946746",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لويس_فويتون_يقدم_الطقم_الجديد_لريال_مدريد.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AM-dE37IUiJlhyB9j4L_k4i"
+    }
+  },
+  {
     "title": "“Pude ir al Madrid…”",
     "url": "https://as.com/futbol/internacional/tuve-la-oportunidad-de-fichar-por-el-madrid-f202610-n/",
     "summary": "La leyenda del Manchester United y Ecuador, Antonio Valencia, atiende a AS en exclusiva en la previa del duelo entre los mancunianos y el Atlético de Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6YY9mBXKYA8-Gsaci5y2sH"
-    }
-  },
-  {
-    "title": "Explained: The FIA 'human error' during Singapore Sprint Qualifying",
-    "url": "https://www.skysports.com/watch/video/13596983/singapore-gp-the-fia-human-error-which-created-power-disparity-in-sprint-qualifying-explained",
-    "summary": "Sky Sports News' Craig Slater explains the FIA 'human error' which caused a power disparity between the cars during Sprint Qualifying at the Singapore Grand Prix.",
-    "published": "Fri, 09 Oct 2026 16:23:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-craig-slater_7372320.jpg?20261009162855",
-    "media_type": "image/jpg",
-    "arabic_title": "موضح: \"خطأ بشري\" من الاتحاد الدولي للسيارات أثناء تصفيات سباق السرعة في سنغافورة",
-    "arabic_summary": "يشرح كريج سلاتر من قناة Sky Sports News \"الخطأ البشري\" الذي ارتكبه الاتحاد الدولي للسيارات والذي تسبب في تفاوت في القوة بين السيارات أثناء تصفيات Sprint في سباق الجائزة الكبرى في سنغافورة.",
-    "translation_status": "translated",
-    "post_title": "موضح: \"خطأ بشري\" من الاتحاد الدولي للسيارات أثناء تصفيات سباق السرعة في سنغافورة",
-    "post_text": "🚨 موضح: \"خطأ بشري\" من الاتحاد الدولي للسيارات أثناء تصفيات سباق السرعة في سنغافورة\n\n📝 يشرح كريج سلاتر من قناة Sky Sports News \"الخطأ البشري\" الذي ارتكبه الاتحاد الدولي للسيارات والذي تسبب في تفاوت في القوة بين السيارات أثناء تصفيات Sprint في سباق الجائزة الكبرى في سنغافورة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073410561990921",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/موضح_خطأ_بشري_من_الاتحاد_الدولي_للسيارات_أثناء_تصفيات_سباق_السرعة_في_سنغافورة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13596983/singapore-gp-the-fia-human-error-which-created-power-disparity-in-sprint-qualifying-explained",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Apw5MT2MfDHz0FwBjG7W0vQ"
     }
   }
 ]
