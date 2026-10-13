@@ -1,5 +1,39 @@
 [
   {
+    "title": "Una oportunidad para Alba Redondo",
+    "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/10/09/oportunidad-alba-redondo.html",
+    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
+    "published": "Fri, 09 Oct 2026 09:37:32 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7a39040c72.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فرصة لألبا ريدوندو",
+    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
+    "translation_status": "translated",
+    "post_title": "فرصة لألبا ريدوندو",
+    "post_text": "🚨 فرصة لألبا ريدوندو\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077043904960920",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرصة_لألبا_ريدوندو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/10/09/oportunidad-alba-redondo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOIXpEUyfuD45BOJJ0eUgsV"
+    }
+  },
+  {
     "title": "El árbitro del Levante-Sevilla denunció el lanzamiento de \"multitud\" de botellas al campo",
     "url": "https://www.marca.com/futbol/levante/2026/10/13/arbitro-levante-sevilla-denuncio-lanzamiento-multitud-botellas-campo.html",
     "summary": "Sucedió durante uno de los goles que marcó Isaac Romero",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AgFN3qftRe9gs8W1UdOFmsn"
-    }
-  },
-  {
-    "title": "Misión: potenciar a Rachad",
-    "url": "https://as.com/futbol/primera-rfef/mision-potenciar-a-rachad-f202610-n/",
-    "summary": "El delantero se ha sometido a un tratamiento en la rodilla para combatir molestias y mejorar el rendimiento. En lugar de infiltrar, solucionar. Para recuperar su mejor versión.",
-    "published": "Fri, 09 Oct 2026 12:46:59 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YIKA2HSCBNEXLLVK3Y7X45VV2M.JPG?auth=ab5d3da782ce5050e6b9cf03cdba69097bae21fe71924c1a1db003c586d51b49",
-    "media_type": "image/jpeg",
-    "arabic_title": "المهمة: تمكين رشاد",
-    "arabic_summary": "وخضع المهاجم لعلاج في ركبته لمكافحة الانزعاج وتحسين الأداء. بدلا من التسلل، حل. لاستعادة أفضل نسخة لديك.",
-    "translation_status": "translated",
-    "post_title": "المهمة: تمكين رشاد",
-    "post_text": "🚨 المهمة: تمكين رشاد\n\n📝 وخضع المهاجم لعلاج في ركبته لمكافحة الانزعاج وتحسين الأداء. بدلا من التسلل، حل. لاستعادة أفضل نسخة لديك.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073236735341637",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المهمة_تمكين_رشاد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera-rfef/mision-potenciar-a-rachad-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A70OY7ZMAh4UJFSaRG6g-wt"
     }
   }
 ]
