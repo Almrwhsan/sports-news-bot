@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cubarsí: \"Todos ya saben que Lamine es el mejor del mundo\"",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/12/cubarsi-mundo-lamine-mejor-mundo.html",
+    "summary": "El defensa ve a su compañero ganando el Balón de Oro",
+    "published": "Mon, 12 Oct 2026 17:55:23 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accfeac9f3c8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كوبارسي: \"الجميع يعلم أن لامين هو الأفضل في العالم\"",
+    "arabic_summary": "يرى المدافع أن زميله يفوز بالكرة الذهبية",
+    "translation_status": "translated",
+    "post_title": "كوبارسي: \"الجميع يعلم أن لامين هو الأفضل في العالم\"",
+    "post_text": "🚨 كوبارسي: \"الجميع يعلم أن لامين هو الأفضل في العالم\"\n\n📝 يرى المدافع أن زميله يفوز بالكرة الذهبية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076390878359556",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوبارسي_الجميع_يعلم_أن_لامين_هو_الأفضل_في_العالم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/12/cubarsi-mundo-lamine-mejor-mundo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvYQR0GCRPMYdlICbcVA92R"
+    }
+  },
+  {
     "title": "¿Cómo les fue a los equipos que cesaron a sus entrenadores en octubre?",
     "url": "https://www.marca.com/futbol/primera-division/2026/10/12/como-les-equipos-cesaron-entrenadores-octubre.html",
     "summary": "Osasuna se ha sumado a la lista de clubes que han cambiado de técnico dos meses después de arrancar la competición en los últimos años",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AR3L4ZYej4kMgtFUxHLD3bO"
-    }
-  },
-  {
-    "title": "La salvajada de Lamine en el último entrenamiento: según lo vean les recordará a uno de los más grandes",
-    "url": "https://as.com/futbol/videos/lamine-se-inventa-esta-jugada-y-la-reaccion-de-sus-companeros-lo-dice-todo-esta-desatado-f202610-v/",
-    "summary": "El Barça ha compartido la última exhibición del jugador español en el entrenamiento previo al duelo de LaLiga contra el Getafe. Unas jugadas que demuestran su confianza tras el parón de selecciones.",
-    "published": "Fri, 09 Oct 2026 05:32:49 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261008/1223391_184708_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "وحشية لامين في الجلسة التدريبية الأخيرة: كما ترونها، ستذكركم بواحدة من أعظم",
-    "arabic_summary": "شارك برشلونة آخر عرض للاعب الإسباني في التدريبات قبل مبارزة الدوري الإسباني ضد خيتافي. بعض المسرحيات التي تظهر ثقتهم بعد انقطاع المنتخب الوطني.",
-    "translation_status": "translated",
-    "post_title": "وحشية لامين في الجلسة التدريبية الأخيرة: كما ترونها، ستذكركم بواحدة من أعظم",
-    "post_text": "🚨 وحشية لامين في الجلسة التدريبية الأخيرة: كما ترونها، ستذكركم بواحدة من أعظم\n\n📝 شارك برشلونة آخر عرض للاعب الإسباني في التدريبات قبل مبارزة الدوري الإسباني ضد خيتافي. بعض المسرحيات التي تظهر ثقتهم بعد انقطاع المنتخب الوطني.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072885055376805",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وحشية_لامين_في_الجلسة_التدريبية_الأخيرة_كما_ترونها،_ستذكركم_بواحدة_من_أعظم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5SbCe4GOfDNn8Rrkb2FOEq"
     }
   }
 ]
