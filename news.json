@@ -1,5 +1,39 @@
 [
   {
+    "title": "Gol de Dela (2-2) en el Levante 3-3 Sevilla",
+    "url": "https://www.marca.com/futbol/2026/10/12/gol-dela-2-2-levante-3-3-sevilla-video.html",
+    "summary": "",
+    "published": "Mon, 12 Oct 2026 23:40:51 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6acd53c98ac16.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هدف ديلا (2-2) في ليفانتي 3-3 إشبيلية",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هدف ديلا (2-2) في ليفانتي 3-3 إشبيلية",
+    "post_text": "🚨 هدف ديلا (2-2) في ليفانتي 3-3 إشبيلية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076758321656145",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_ديلا_(2-2)_في_ليفانتي_3-3_إشبيلية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/12/gol-dela-2-2-levante-3-3-sevilla-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvlPtc5nk6HjpKJvtUuMGnl"
+    }
+  },
+  {
     "title": "Valdano sentencia con un apunte sobre la roja a Vinicius que pocos vieron y es muy relevante",
     "url": "https://as.com/futbol/videos/valdano-sentencia-con-un-apunte-sobre-la-roja-a-vincius-que-pocos-vieron-y-es-muy-relevante-f202610-v/",
     "summary": "El comentarista y analista de Movistar Plus+ habló en ‘La casa del fútbol’ sobre la expulsión del brasileño en el partido ante el Villarreal.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKNS84QqqSTK0RvXr_hR3R-"
-    }
-  },
-  {
-    "title": "Everton sale Q&A: Why are the owners doing this, and how much is club worth?",
-    "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-    "summary": "",
-    "published": "Fri, 09 Oct 2026 09:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-    "media_type": "image/jpg",
-    "arabic_title": "سؤال وجواب بشأن بيع إيفرتون: لماذا يفعل الملاك ذلك، وما هي قيمة النادي؟",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "سؤال وجواب بشأن بيع إيفرتون: لماذا يفعل الملاك ذلك، وما هي قيمة النادي؟",
-    "post_text": "🚨 سؤال وجواب بشأن بيع إيفرتون: لماذا يفعل الملاك ذلك، وما هي قيمة النادي؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073028948695749",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سؤال_وجواب_بشأن_بيع_إيفرتون_لماذا_يفعل_الملاك_ذلك،_وما_هي_قيمة_النادي؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWMHjz8iNgjmtQgcaveFq-T"
     }
   }
 ]
