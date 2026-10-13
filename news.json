@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Celta es un muro",
+    "url": "https://www.marca.com/futbol/celta/2026/10/13/celta-muro.html",
+    "summary": "Es el equipo que menos encaja de LaLiga",
+    "published": "Tue, 13 Oct 2026 11:56:10 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace000b03907.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيلتا هو الجدار",
+    "arabic_summary": "إنه الفريق الأقل ملائمة في الدوري الإسباني",
+    "translation_status": "translated",
+    "post_title": "سيلتا هو الجدار",
+    "post_text": "🚨 سيلتا هو الجدار\n\n📝 إنه الفريق الأقل ملائمة في الدوري الإسباني\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077080444957266",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيلتا_هو_الجدار.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/celta/2026/10/13/celta-muro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1rHTYzo8VtvFh3ownhdHbr"
+    }
+  },
+  {
     "title": "Tras el lío con Vinicius, Pedrerol da con la tecla del sentir madridista",
     "url": "https://as.com/futbol/videos/pedrerol-radiografia-el-sentir-del-madridismo-tras-el-enesimo-lio-arbitral-el-city-en-el-ajo-f202610-v/",
     "summary": "Pedrerol analizó el malestar de la afición tras las últimas decisiones arbitrales y lo comparó con las duras críticas que recibe el City en la Premier pese a no haber sido condenado.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEE1-zXNekbFT7Hhy7vH6hC"
-    }
-  },
-  {
-    "title": "Primera gran final para el Real Madrid",
-    "url": "https://as.com/futbol/videos/primera-gran-final-para-el-real-madrid-f202610-v/",
-    "summary": "El club blanco recibe al Villarreal en casa y no puede permitirse un nuevo pinchazo. Con el Barça ya a 6 puntos, tiene que mantenerse cerca para acortar distancias en El Clásico. Por su parte el club blaugrana recibe al Getafe y el Atleti visita Vitoria tras 4 partidos consecutivos sin ganar allí. Regresan los Pronósticos de As con las mejores predicciones de la jornada 8 de LaLiga EA Sports.",
-    "published": "Fri, 09 Oct 2026 15:12:08 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261009/1223689_120140_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "أول نهائي كبير لريال مدريد",
-    "arabic_summary": "يستقبل النادي الأبيض فياريال على أرضه ولا يستطيع تحمل ثقب آخر. مع وجود برشلونة على بعد 6 نقاط بالفعل، يتعين عليه البقاء قريبًا لتقليص الفارق في الكلاسيكو. من جانبه، يستقبل البلوجرانا خيتافي والأتليتي يزور فيتوريا بعد 4 مباريات متتالية دون الفوز هناك. تعود توقعات Ace مع أفضل التوقعات لمباراة الجولة 8 من LaLiga EA Sports.",
-    "translation_status": "translated",
-    "post_title": "أول نهائي كبير لريال مدريد",
-    "post_text": "🚨 أول نهائي كبير لريال مدريد\n\n📝 يستقبل النادي الأبيض فياريال على أرضه ولا يستطيع تحمل ثقب آخر. مع وجود برشلونة على بعد 6 نقاط بالفعل، يتعين عليه البقاء قريبًا لتقليص الفارق في الكلاسيكو. من جانبه، يستقبل البلوجرانا خيتافي والأتليتي يزور فيتوريا بعد 4 مباريات متتالية دون الفوز هناك. تعود توقعات Ace مع أفضل التوقعات لمباراة الجولة 8 من LaLiga EA Sports.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073269198671724",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أول_نهائي_كبير_لريال_مدريد.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGOy5jJ-jn3HE-rtuXUctMr"
     }
   }
 ]
