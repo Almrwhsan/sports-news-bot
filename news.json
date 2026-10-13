@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Levante y el Ciutat, comunión perfecta",
+    "url": "https://www.marca.com/futbol/levante/2026/10/12/levante-ciutat-comunion-perfecta.html",
+    "summary": "El cuadro granota ha puntuado en doce de los últimos quince partidos en Orriols",
+    "published": "Mon, 12 Oct 2026 23:32:42 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6acd51e8cc9ed.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ليفانتي وسيوتات، شركة مثالية",
+    "arabic_summary": "سجل فريق Granota نقاطًا في اثنتي عشرة مباراة من أصل خمسة عشر مباراة في أوريولز",
+    "translation_status": "translated",
+    "post_title": "ليفانتي وسيوتات، شركة مثالية",
+    "post_text": "🚨 ليفانتي وسيوتات، شركة مثالية\n\n📝 سجل فريق Granota نقاطًا في اثنتي عشرة مباراة من أصل خمسة عشر مباراة في أوريولز\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076744951657482",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليفانتي_وسيوتات،_شركة_مثالية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/levante/2026/10/12/levante-ciutat-comunion-perfecta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcrzJm5gqg5LwLoRz4JBvR4"
+    }
+  },
+  {
     "title": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
     "url": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
     "summary": "Newcastle boss Matthias Jaissle has apologised to the travelling fans following their 4-1 loss at Coventry, as Jamie Carragher said they were \"beaten up\" once again on the road.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4XVVHn2pOBBLHS9OCcUS-z"
-    }
-  },
-  {
-    "title": "El Madrid ‘convierte’ a Olise en el mejor pagado del Bayern",
-    "url": "https://as.com/futbol/internacional/el-madrid-convierte-a-olise-en-el-mejor-pagado-del-bayern-f202610-n/",
-    "summary": "En el Allianz ya preparan una oferta récord para renovar al extremo más allá de 2029. La condición del francés: una cláusula de rescisión.",
-    "published": "Fri, 09 Oct 2026 08:58:06 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/S5MVWW4345NWHDQ3VVXPA5IBBQ.jpg?auth=a6780c5cbee4f1d94e8eef8126dc3add3f75d7b1e544654ac3110514dcd901a9",
-    "media_type": "image/jpeg",
-    "arabic_title": "مدريد \"يجعل\" أوليس الأعلى أجرا في بايرن",
-    "arabic_summary": "في أليانز، يقومون بالفعل بإعداد عرض قياسي لتجديد الجناح بعد عام 2029. شرط الفرنسي: شرط إنهاء العقد.",
-    "translation_status": "translated",
-    "post_title": "مدريد \"يجعل\" أوليس الأعلى أجرا في بايرن",
-    "post_text": "🚨 مدريد \"يجعل\" أوليس الأعلى أجرا في بايرن\n\n📝 في أليانز، يقومون بالفعل بإعداد عرض قياسي لتجديد الجناح بعد عام 2029. شرط الفرنسي: شرط إنهاء العقد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073000225365288",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مدريد_يجعل_أوليس_الأعلى_أجرا_في_بايرن.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/el-madrid-convierte-a-olise-en-el-mejor-pagado-del-bayern-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AciF2ehov40U3_oyVp674of"
     }
   }
 ]
