@@ -1,5 +1,39 @@
 [
   {
+    "title": "Coventry thrash Newcastle to claim first home win of season",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
+    "published": "Mon, 12 Oct 2026 21:35:07 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615d/live/7ef559e0-c683-11f1-a64c-550be9e3c66b.jpg",
+    "media_type": null,
+    "arabic_title": "كوفنتري يسحق نيوكاسل ليحقق فوزه الأول على أرضه هذا الموسم",
+    "arabic_summary": "فاجأ كوفنتري سيتي نيوكاسل يونايتد بفوز مؤكد 4-1 ليحقق فوزه الأول في الدوري الإنجليزي الممتاز على أرضه منذ 25 عامًا.",
+    "translation_status": "translated",
+    "post_title": "كوفنتري يسحق نيوكاسل ليحقق فوزه الأول على أرضه هذا الموسم",
+    "post_text": "🚨 كوفنتري يسحق نيوكاسل ليحقق فوزه الأول على أرضه هذا الموسم\n\n📝 فاجأ كوفنتري سيتي نيوكاسل يونايتد بفوز مؤكد 4-1 ليحقق فوزه الأول في الدوري الإنجليزي الممتاز على أرضه منذ 25 عامًا.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077259084939402",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوفنتري_يسحق_نيوكاسل_ليحقق_فوزه_الأول_على_أرضه_هذا_الموسم.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6T-L412nVtiqGKdteC28KR"
+    }
+  },
+  {
     "title": "Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...",
     "url": "https://as.com/futbol/primera/mercado-de-fichajes-en-directo-rumores-altas-y-bajas-de-laliga-premier-serie-a-f202610-d-10/",
     "summary": "Sigue en directo las últimas noticias sobre el mercado de fichajes del 12 de octubre de 2026: bajas, altas...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHx04hhLT1rkFCuwcbLlG1C"
-    }
-  },
-  {
-    "title": "England take control of World Cup play-off with win in Greece",
-    "url": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-    "summary": "England are in control of their World Cup play-off with Greece after winning the first leg 3-1 in Crete.",
-    "published": "Fri, 09 Oct 2026 19:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-england-lionesses_7372418.jpg?20261009185834",
-    "media_type": "image/jpg",
-    "arabic_title": "إنجلترا تسيطر على تصفيات كأس العالم بفوزها في اليونان",
-    "arabic_summary": "سيطرت إنجلترا على اليونان في تصفيات كأس العالم بعد فوزها في مباراة الذهاب 3-1 في جزيرة كريت.",
-    "translation_status": "translated",
-    "post_title": "إنجلترا تسيطر على تصفيات كأس العالم بفوزها في اليونان",
-    "post_text": "🚨 إنجلترا تسيطر على تصفيات كأس العالم بفوزها في اليونان\n\n📝 سيطرت إنجلترا على اليونان في تصفيات كأس العالم بعد فوزها في مباراة الذهاب 3-1 في جزيرة كريت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073785785286732",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تسيطر_على_تصفيات_كأس_العالم_بفوزها_في_اليونان.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASGbq0cfWn67M26npfLvRpd"
     }
   }
 ]
