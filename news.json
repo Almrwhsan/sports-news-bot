@@ -1,5 +1,39 @@
 [
   {
+    "title": "Menos dramas y más trabajar",
+    "url": "https://as.com/opinion/menos-dramas-y-mas-trabajar-f202610-n/",
+    "summary": "“Si la energía que dedica Mourinho a los árbitros la enfocara en su equipo...”",
+    "published": "Mon, 12 Oct 2026 22:14:03 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GGZ4HS5STRLJXOQSNC5AS4NABI.jpg?auth=849581954e6911bf89e04386d689287a2ae707c7943fd4b01d5a8b17a367f7ac",
+    "media_type": "image/jpeg",
+    "arabic_title": "دراما أقل والمزيد من العمل",
+    "arabic_summary": "\"إذا كانت الطاقة التي يخصصها مورينيو للحكام مركزة على فريقه...\"",
+    "translation_status": "translated",
+    "post_title": "دراما أقل والمزيد من العمل",
+    "post_text": "🚨 دراما أقل والمزيد من العمل\n\n📝 \"إذا كانت الطاقة التي يخصصها مورينيو للحكام مركزة على فريقه...\"\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076986488299995",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دراما_أقل_والمزيد_من_العمل.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/menos-dramas-y-mas-trabajar-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALJcdPfmtpZieu4FctUgqHK"
+    }
+  },
+  {
     "title": "Valdano le ofrece al Atlético la solución para acabar con \"el lío en el que se metió Julián Alvarez\"",
     "url": "https://www.marca.com/futbol/atletico/2026/10/13/valdano-le-ofrece-atletico-solucion-acabar-lio-metio-julian-alvarez.html",
     "summary": "\"Julián Álvarez es el mejor jugador de la plantilla, por lo menos desde mi punto de vista. No puedes prescindir del mejor si quieres hacer un equipo grande\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxtJvX7Y1HS56SVcDUUW3Pj"
-    }
-  },
-  {
-    "title": "El Villarreal no esquiva la bala Mbappé",
-    "url": "https://as.com/futbol/primera/el-villarreal-no-esquiva-la-bala-mbappe-f202610-n/",
-    "summary": "El Submarino es uno de los que mejor se le da al delantero francés en LaLiga, con cinco goles y una asistencia en cuatro partidos.",
-    "published": "Fri, 09 Oct 2026 12:21:05 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BKALFO4KVFII7PEFCVNLOL3TS4.jpg?auth=ee418a3196797c24e2072838cfe3413e743a143452df8c69157def63928664be",
-    "media_type": "image/jpeg",
-    "arabic_title": "فياريال لا يتفادى رصاصة مبابي",
-    "arabic_summary": "يعد The Submarine أحد أفضل المهاجمين الفرنسيين في الدوري الإسباني، حيث سجل خمسة أهداف وتمريرة حاسمة واحدة في أربع مباريات.",
-    "translation_status": "translated",
-    "post_title": "فياريال لا يتفادى رصاصة مبابي",
-    "post_text": "🚨 فياريال لا يتفادى رصاصة مبابي\n\n📝 يعد The Submarine أحد أفضل المهاجمين الفرنسيين في الدوري الإسباني، حيث سجل خمسة أهداف وتمريرة حاسمة واحدة في أربع مباريات.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073137112018266",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فياريال_لا_يتفادى_رصاصة_مبابي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-villarreal-no-esquiva-la-bala-mbappe-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVgbO87HuseTVEWxWPWxq3T"
     }
   }
 ]
