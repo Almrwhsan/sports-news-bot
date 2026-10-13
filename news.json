@@ -1,5 +1,39 @@
 [
   {
+    "title": "Life as a Wag in the transfer window",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+    "published": "Sat, 08 Aug 2026 05:15:34 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
+    "media_type": null,
+    "arabic_title": "الحياة كهزات في فترة الانتقالات",
+    "arabic_summary": "كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟",
+    "translation_status": "translated",
+    "post_title": "الحياة كهزات في فترة الانتقالات",
+    "post_text": "🚨 الحياة كهزات في فترة الانتقالات\n\n📝 كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077298864935424",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحياة_كهزات_في_فترة_الانتقالات.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvsGJ93NYrRE7uVdmZlCEei"
+    }
+  },
+  {
     "title": "How does Cas work and why can't Man City appeal to it?",
     "url": "https://www.bbc.co.uk/sport/football/articles/c920v34y4l2zo?at_medium=RSS&at_campaign=rss",
     "summary": "The Court of Arbitration for Sport (CAS) regulates legal disputes across the world of sport",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ad-IGbLIUmwn82dFmYmESav"
-    }
-  },
-  {
-    "title": "Bordalás: “¿Carvajal? Entiendo la pregunta pero mi mente está en el Barça”",
-    "url": "https://www.marca.com/futbol/getafe/2026/10/09/bordalas-carvajal-entiendo-pregunta-mi-mente-partido-barcelona.html",
-    "summary": "El técnico azulón comparecía en la previa del partido frente al FC Barcelona y respondía al interés azulón en el ex del Real Madrid",
-    "published": "Fri, 09 Oct 2026 15:22:08 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/fhcz61goFDemO6U9c.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بوردالاس: \"كارفاخال؟ أنا أفهم السؤال ولكن رأيي في برشلونة\"",
-    "arabic_summary": "ظهر مدرب أزولون قبل المباراة ضد برشلونة ورد على اهتمام أزولون بلاعب ريال مدريد السابق",
-    "translation_status": "translated",
-    "post_title": "بوردالاس: \"كارفاخال؟ أنا أفهم السؤال ولكن رأيي في برشلونة\"",
-    "post_text": "🚨 بوردالاس: \"كارفاخال؟ أنا أفهم السؤال ولكن رأيي في برشلونة\"\n\n📝 ظهر مدرب أزولون قبل المباراة ضد برشلونة ورد على اهتمام أزولون بلاعب ريال مدريد السابق\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073882971943680",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوردالاس_كارفاخال؟_أنا_أفهم_السؤال_ولكن_رأيي_في_برشلونة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/getafe/2026/10/09/bordalas-carvajal-entiendo-pregunta-mi-mente-partido-barcelona.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkS9mE3BcSCA0sI3usd2qLq"
     }
   }
 ]
