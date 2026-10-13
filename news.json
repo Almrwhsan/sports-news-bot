@@ -1,5 +1,39 @@
 [
   {
+    "title": "London Lions given lesson by Portland in historic game for British basketball",
+    "url": "https://www.skysports.com/nba/news/12040/13598348/nba-london-lions-make-history-against-portland-trail-blazers-but-get-a-lesson-in-oregon",
+    "summary": "The London Lions became the first British club to face an NBA team but suffered a heavy 119-66 defeat to the Portland Trail Blazers in Oregon on Monday.",
+    "published": "Mon, 12 Oct 2026 22:35:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-portland-trail-blazers_7375509.jpg?20261012232701",
+    "media_type": "image/jpg",
+    "arabic_title": "تلقى فريق لندن ليونز درسًا من بورتلاند في المباراة التاريخية لكرة السلة البريطانية",
+    "arabic_summary": "أصبح فريق أسود لندن أول فريق بريطاني يواجه فريقا في دوري كرة السلة الأميركي للمحترفين، لكنه تعرض لهزيمة ثقيلة 119-66 أمام بورتلاند تريل بليزرز في ولاية أوريغون يوم الاثنين.",
+    "translation_status": "translated",
+    "post_title": "تلقى فريق لندن ليونز درسًا من بورتلاند في المباراة التاريخية لكرة السلة البريطانية",
+    "post_text": "🚨 تلقى فريق لندن ليونز درسًا من بورتلاند في المباراة التاريخية لكرة السلة البريطانية\n\n📝 أصبح فريق أسود لندن أول فريق بريطاني يواجه فريقا في دوري كرة السلة الأميركي للمحترفين، لكنه تعرض لهزيمة ثقيلة 119-66 أمام بورتلاند تريل بليزرز في ولاية أوريغون يوم الاثنين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076662078332436",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تلقى_فريق_لندن_ليونز_درسًا_من_بورتلاند_في_المباراة_التاريخية_لكرة_السلة_البريطان.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/nba/news/12040/13598348/nba-london-lions-make-history-against-portland-trail-blazers-but-get-a-lesson-in-oregon",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0Rty1pPi8dWDIX_GMT8oO0"
+    }
+  },
+  {
     "title": "Brilliant angles show Maharaj's juggling catch to dismiss Renshaw",
     "url": "https://www.skysports.com/watch/video/13598168/australia-vs-south-africa-first-test-brilliant-angles-show-keshav-maharajs-juggling-catch-to-dismiss-matt-renshaw",
     "summary": "Matt Renshaw was caught and bowled by Keshav Maharaj during day four of the first Test after the decision was reviewed.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AtZ_pMx-24xvz6p3dITkw68"
-    }
-  },
-  {
-    "title": "Buccaneers @ Cowboys",
-    "url": "https://www.skysports.com/watch/video/13596703/tampa-bay-buccaneers-at-dallas-cowboys-week-five-nfl-highlights",
-    "summary": "Highlights of the Tampa Bay Buccaneers against the Dallas Cowboys from Week 5 of the NFL season.",
-    "published": "Fri, 09 Oct 2026 06:29:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-nfl-highlights_7371748.jpg?20261009063944",
-    "media_type": "image/jpg",
-    "arabic_title": "القراصنة @ رعاة البقر",
-    "arabic_summary": "أبرز أحداث تامبا باي القراصنة ضد دالاس كاوبويز من الأسبوع الخامس من موسم اتحاد كرة القدم الأميركي.",
-    "translation_status": "translated",
-    "post_title": "القراصنة @ رعاة البقر",
-    "post_text": "🚨 القراصنة @ رعاة البقر\n\n📝 أبرز أحداث تامبا باي القراصنة ضد دالاس كاوبويز من الأسبوع الخامس من موسم اتحاد كرة القدم الأميركي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072939235371387",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/القراصنة_@_رعاة_البقر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13596703/tampa-bay-buccaneers-at-dallas-cowboys-week-five-nfl-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0fI4BsBI-ICsQtKxmhPTNr"
     }
   }
 ]
