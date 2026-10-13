@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los rebeldes del Galatasaray",
+    "url": "https://as.com/futbol/primera/los-rebeldes-del-galatasaray-f202610-n/",
+    "summary": "Oshimen, Rafael Leão y Leroy Sané destacan por su talento pero también por un carácter volcánico.",
+    "published": "Mon, 12 Oct 2026 21:53:26 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OFMICNWDDVGFPD4TAPFANVLX2A.jpg?auth=19502334b04f598915b17f8ecfd68dd4d4ca8fe7c8c3d439222648d2dea58ae7",
+    "media_type": "image/jpeg",
+    "arabic_title": "متمردي غلطة سراي",
+    "arabic_summary": "يتميز كل من أوشيمين ورافائيل لياو وليروي ساني بموهبتهم ولكن أيضًا بشخصيتهم البركانية.",
+    "translation_status": "translated",
+    "post_title": "متمردي غلطة سراي",
+    "post_text": "🚨 متمردي غلطة سراي\n\n📝 يتميز كل من أوشيمين ورافائيل لياو وليروي ساني بموهبتهم ولكن أيضًا بشخصيتهم البركانية.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077196688278975",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/متمردي_غلطة_سراي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/los-rebeldes-del-galatasaray-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkMSsGpoTRZi4I-erYgQ5L4"
+    }
+  },
+  {
     "title": "“Roma se enamoró de Mourinho a primera vista...”",
     "url": "https://as.com/futbol/champions/roma-se-enamoro-de-mourinho-a-primera-vista-f202610-n/",
     "summary": "Un reconocido periodista romano, el artista del famoso mural de Mou en la Vespa y un taxista ‘tifoso’ de la Roma guían a AS por los años del portugués en la ciudad eterna.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQdcukwhur_QtBfqsgUwqvg"
-    }
-  },
-  {
-    "title": "Escándalo político por el City",
-    "url": "https://as.com/futbol/internacional/lio-politico-por-el-caso-city-f202610-n/",
-    "summary": "Las declaraciones del Primer ministro británico, Andy Burnham, en defensa de Abu Dabi generan inquietud en la Premier. “Los clubes temen una injerencia política”, informa ‘BBC’.",
-    "published": "Fri, 09 Oct 2026 13:08:40 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260930/1220382_163358_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "فضيحة سياسية على المدينة",
-    "arabic_summary": "تصريحات رئيس الوزراء البريطاني آندي بورنهام دفاعاً عن أبوظبي تثير قلق رئيس الوزراء. وذكرت \"بي بي سي\" أن \"الأندية تخشى التدخل السياسي\".",
-    "translation_status": "translated",
-    "post_title": "فضيحة سياسية على المدينة",
-    "post_text": "🚨 فضيحة سياسية على المدينة\n\n📝 تصريحات رئيس الوزراء البريطاني آندي بورنهام دفاعاً عن أبوظبي تثير قلق رئيس الوزراء. وذكرت \"بي بي سي\" أن \"الأندية تخشى التدخل السياسي\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073426035322707",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فضيحة_سياسية_على_المدينة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQbvIyKq5QJMxNKcurBrGGi"
     }
   }
 ]
