@@ -1,5 +1,39 @@
 [
   {
+    "title": "How do Women's World Cup hopes look for home nations?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&at_campaign=rss",
+    "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?",
+    "published": "Mon, 12 Oct 2026 09:27:17 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png",
+    "media_type": null,
+    "arabic_title": "كيف تبدو آمال كأس العالم للسيدات بالنسبة للدول المحلية؟",
+    "arabic_summary": "تخوض إنجلترا وويلز وأيرلندا الشمالية واسكتلندا وجمهورية أيرلندا تصفيات كأس العالم للسيدات. كيف تبدو آفاقهم؟",
+    "translation_status": "translated",
+    "post_title": "كيف تبدو آمال كأس العالم للسيدات بالنسبة للدول المحلية؟",
+    "post_text": "🚨 كيف تبدو آمال كأس العالم للسيدات بالنسبة للدول المحلية؟\n\n📝 تخوض إنجلترا وويلز وأيرلندا الشمالية واسكتلندا وجمهورية أيرلندا تصفيات كأس العالم للسيدات. كيف تبدو آفاقهم؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1076667781665199",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_تبدو_آمال_كأس_العالم_للسيدات_بالنسبة_للدول_المحلية؟.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwsGHWK2jxy38-tgsRk9wuk"
+    }
+  },
+  {
     "title": "London Lions given lesson by Portland in historic game for British basketball",
     "url": "https://www.skysports.com/nba/news/12040/13598348/nba-london-lions-make-history-against-portland-trail-blazers-but-get-a-lesson-in-oregon",
     "summary": "The London Lions became the first British club to face an NBA team but suffered a heavy 119-66 defeat to the Portland Trail Blazers in Oregon on Monday.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxiSI5eL_ravWeTH6Ur8tbI"
-    }
-  },
-  {
-    "title": "Un mes para achuchar al Barcelona",
-    "url": "https://as.com/futbol/primera/un-mes-para-achuchar-al-barcelona-f202610-n/",
-    "summary": "El Atlético vuelve a la Liga con ganas de mantener la racha de victorias seguidas. Recibe a los de Flick antes del parón de noviembre.",
-    "published": "Fri, 09 Oct 2026 07:13:34 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MZJIY5MIXBP6NPCPJ3WAT525KI.jpg?auth=0a06b11d6dd3300c6fc917e18666f0bd873d7ed77f2cecd592a8e978b0271433",
-    "media_type": "image/jpeg",
-    "arabic_title": "شهر لعناق برشلونة",
-    "arabic_summary": "يعود أتلتيكو إلى الدوري راغبًا في الحفاظ على سلسلة الانتصارات المتتالية. استقبل فريق فليك قبل عطلة نوفمبر.",
-    "translation_status": "translated",
-    "post_title": "شهر لعناق برشلونة",
-    "post_text": "🚨 شهر لعناق برشلونة\n\n📝 يعود أتلتيكو إلى الدوري راغبًا في الحفاظ على سلسلة الانتصارات المتتالية. استقبل فريق فليك قبل عطلة نوفمبر.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1072939172038060",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شهر_لعناق_برشلونة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/un-mes-para-achuchar-al-barcelona-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtZ_pMx-24xvz6p3dITkw68"
     }
   }
 ]
