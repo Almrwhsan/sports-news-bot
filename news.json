@@ -1,5 +1,39 @@
 [
   {
+    "title": "Roma 0 - Real Madrid 1: resumen, resultado y goles",
+    "url": "https://as.com/futbol/roma-real-madrid-hoy-en-directo-ultima-hora-de-la-youth-league-en-vivo-f202610-d/",
+    "summary": "Segunda victoria consecutiva de los blancos en la Youth League. El equipo de Álvaro López fue de menos a más y consiguió los tres puntos gracias a un gol de su capitán Carlos Díez.",
+    "published": "Wed, 14 Oct 2026 13:56:21 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VNBM5J3AB5BFBKAAFZY5NINADE.jpeg?auth=080af5369c580fae5ed170db2493712a85599c18cc06a602966fa3eba6e007a2",
+    "media_type": "image/jpeg",
+    "arabic_title": "روما 0 - ريال مدريد 1: ملخص، نتيجة، أهداف",
+    "arabic_summary": "الفوز الثاني على التوالي للأبيض في دوري الشباب. انتقل فريق ألفارو لوبيز من مستوى أقل إلى أكثر وحصل على النقاط الثلاث بفضل هدف قائده كارلوس دييز.",
+    "translation_status": "translated",
+    "post_title": "روما 0 - ريال مدريد 1: ملخص، نتيجة، أهداف",
+    "post_text": "🚨 روما 0 - ريال مدريد 1: ملخص، نتيجة، أهداف\n\n📝 الفوز الثاني على التوالي للأبيض في دوري الشباب. انتقل فريق ألفارو لوبيز من مستوى أقل إلى أكثر وحصل على النقاط الثلاث بفضل هدف قائده كارلوس دييز.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078169111515066",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روما_0_-_ريال_مدريد_1_ملخص،_نتيجة،_أهداف.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/roma-real-madrid-hoy-en-directo-ultima-hora-de-la-youth-league-en-vivo-f202610-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8T0IhMHESxGyZVPP89T31D"
+    }
+  },
+  {
     "title": "Donde Huijsen se hizo gladiador",
     "url": "https://as.com/futbol/champions/donde-huijsen-se-hizo-gladiador-f202610-n/",
     "summary": "Una cesión de seis meses a la Roma le hizo explotar. De ahí pasó al Bournemouth, a cambio de algo más de 22M€. Esta noche regresa al once, tras cumplir en Liga la sanción del derbi.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9NOxUSW7NI7DIcohneHIDF"
-    }
-  },
-  {
-    "title": "‘Rajadón’ de Laporta contra el Madrid: “Está perdiendo prestigio, reconocimiento y credibilidad a todos los niveles”",
-    "url": "https://as.com/futbol/rajadon-de-laporta-contra-el-madrid-esta-perdiendo-prestigio-reconocimiento-y-credibilidad-a-todos-los-niveles-f202610-n/",
-    "summary": "El presidente blaugrana arremetió sin piedad contra el club blanco, al que acusó de “arrogante, prepotente y soberbio”.",
-    "published": "Sat, 10 Oct 2026 10:49:51 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261010/1224010_105836_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "راجادون لابورتا ضد ريال مدريد: \"إنه يفقد الهيبة والاعتراف والمصداقية على كافة المستويات\"",
-    "arabic_summary": "وهاجم رئيس البلوجرانا النادي الأبيض بلا رحمة، واتهمه بـ\"المتغطرس والمتغطرس والمتغطرس\".",
-    "translation_status": "translated",
-    "post_title": "راجادون لابورتا ضد ريال مدريد: \"إنه يفقد الهيبة والاعتراف والمصداقية على كافة المستويات\"",
-    "post_text": "🚨 راجادون لابورتا ضد ريال مدريد: \"إنه يفقد الهيبة والاعتراف والمصداقية على كافة المستويات\"\n\n📝 وهاجم رئيس البلوجرانا النادي الأبيض بلا رحمة، واتهمه بـ\"المتغطرس والمتغطرس والمتغطرس\".\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075416735123637",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راجادون_لابورتا_ضد_ريال_مدريد_إنه_يفقد_الهيبة_والاعتراف_والمصداقية_على_كافة_المس.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A3-IutioO6MlQr8vyuL6BOb"
     }
   }
 ]
