@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jon Guridi, nueva baja en el Sevilla contra el Real Madrid",
+    "url": "https://as.com/futbol/primera/jon-guridi-nueva-baja-en-el-sevilla-contra-el-real-madrid-f202610-n/",
+    "summary": "El centrocampista vasco sufre una lesión en el aductor largo del muslo izquierda. Sierra tiene para varios meses e Isaac Romero deberá cumplir sanción.",
+    "published": "Wed, 14 Oct 2026 09:46:55 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZBFUAYLADBBGPCT5G3I3EUDTPE.jpg?auth=2f7f144125d0c30af9fd576d1307360e769df0dd359d5176d340bd344a20eaff",
+    "media_type": "image/jpeg",
+    "arabic_title": "جون جوريدي، خسارة جديدة لإشبيلية أمام ريال مدريد",
+    "arabic_summary": "يعاني لاعب خط الوسط الباسكي من إصابة في العضلة المقربة الطويلة لفخذه الأيسر. أمام سييرا عدة أشهر ويجب أن يخضع إسحاق روميرو لعقوبة.",
+    "translation_status": "translated",
+    "post_title": "جون جوريدي، خسارة جديدة لإشبيلية أمام ريال مدريد",
+    "post_text": "🚨 جون جوريدي، خسارة جديدة لإشبيلية أمام ريال مدريد\n\n📝 يعاني لاعب خط الوسط الباسكي من إصابة في العضلة المقربة الطويلة لفخذه الأيسر. أمام سييرا عدة أشهر ويجب أن يخضع إسحاق روميرو لعقوبة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078020081529969",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جون_جوريدي،_خسارة_جديدة_لإشبيلية_أمام_ريال_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/jon-guridi-nueva-baja-en-el-sevilla-contra-el-real-madrid-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvI_W7nTHlJyQuW9L5FkUpp"
+    }
+  },
+  {
     "title": "Alucinante Lamine",
     "url": "https://as.com/futbol/champions/alucinante-lamine-f202610-n/",
     "summary": "El ‘10’ decidió el partido en una segunda parte frenética. Fue el MVP del partido y tiene una espina clavada con la Champions. Lleva ya ocho goles y nueve asistencias.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2Y3AjvoLH1DHExZ1ORJas1"
-    }
-  },
-  {
-    "title": "Quique, el hombre que lo cambió todo",
-    "url": "https://as.com/futbol/primera/quique-el-hombre-que-lo-cambio-todo-f202610-n/",
-    "summary": "“Lo que hizo fue ponerle mucho orden al equipo”. Antonio López recuerda con AS cómo la llegada del hoy técnico del Alavés devolvió a la victoria al Atleti",
-    "published": "Fri, 09 Oct 2026 23:37:41 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NIFCXUIDJNDTPPYNYA5Y2PTLDE.jpg?auth=f08d8d59b563163fa840dc0eeb0ed59f595a272bb06185887bd1174312bdebc2",
-    "media_type": "image/jpeg",
-    "arabic_title": "كيكي، الرجل الذي غير كل شيء",
-    "arabic_summary": "\"ما فعله هو جلب الكثير من النظام للفريق.\" يتذكر أنطونيو لوبيز مع AS كيف أن وصول مدرب ألافيس الحالي أعاد الأتليتي إلى النصر",
-    "translation_status": "translated",
-    "post_title": "كيكي، الرجل الذي غير كل شيء",
-    "post_text": "🚨 كيكي، الرجل الذي غير كل شيء\n\n📝 \"ما فعله هو جلب الكثير من النظام للفريق.\" يتذكر أنطونيو لوبيز مع AS كيف أن وصول مدرب ألافيس الحالي أعاد الأتليتي إلى النصر\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074257551906222",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيكي،_الرجل_الذي_غير_كل_شيء.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/quique-el-hombre-que-lo-cambio-todo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQdUZRxcfsIubPlHi7pfwC4"
     }
   }
 ]
