@@ -1,5 +1,39 @@
 [
   {
+    "title": "Antony entra en una lista de 24 futbolistas frente al Oporto",
+    "url": "https://www.marca.com/futbol/betis/2026/10/13/antony-entra-lista-24-futbolistas-frente-oporto.html",
+    "summary": "El brasileño supera las molestias musculares que sufrió ante Osasuna y estará disponible",
+    "published": "Tue, 13 Oct 2026 15:59:47 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace39477e2ba.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أنطوني يدخل قائمة مكونة من 24 لاعباً ضد بورتو",
+    "arabic_summary": "يتغلب البرازيلي على آلام العضلات التي عانى منها ضد أوساسونا وسيكون متاحًا",
+    "translation_status": "translated",
+    "post_title": "أنطوني يدخل قائمة مكونة من 24 لاعباً ضد بورتو",
+    "post_text": "🚨 أنطوني يدخل قائمة مكونة من 24 لاعباً ضد بورتو\n\n📝 يتغلب البرازيلي على آلام العضلات التي عانى منها ضد أوساسونا وسيكون متاحًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077347098263934",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنطوني_يدخل_قائمة_مكونة_من_24_لاعباً_ضد_بورتو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/10/13/antony-entra-lista-24-futbolistas-frente-oporto.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZtwynyJGLB75T7aw2uWTfV"
+    }
+  },
+  {
     "title": "Life as a Wag in the transfer window",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
     "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlUS-rv83aohAycd0lNpyJT"
-    }
-  },
-  {
-    "title": "'You can be a mum and a footballer - they can co-exist'",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ck9dzlv95lw3o?at_medium=RSS&at_campaign=rss",
-    "summary": "Northern Ireland striker Simone Magill tells BBC Sport NI about balancing motherhood with her return to football and how her life has changed since giving birth to daughter Skye earlier this year.",
-    "published": "Fri, 09 Oct 2026 08:19:59 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ffe/live/054a7870-c307-11f1-8f04-85217d686658.jpg",
-    "media_type": null,
-    "arabic_title": "\"يمكنك أن تكوني أمًا ولاعب كرة قدم - يمكنهما التعايش\"",
-    "arabic_summary": "أخبرت مهاجمة أيرلندا الشمالية سيمون ماجيل بي بي سي سبورت NI عن الموازنة بين الأمومة وعودتها إلى كرة القدم وكيف تغيرت حياتها منذ أن أنجبت ابنتها سكاي في وقت سابق من هذا العام.",
-    "translation_status": "translated",
-    "post_title": "\"يمكنك أن تكوني أمًا ولاعب كرة قدم - يمكنهما التعايش\"",
-    "post_text": "🚨 \"يمكنك أن تكوني أمًا ولاعب كرة قدم - يمكنهما التعايش\"\n\n📝 أخبرت مهاجمة أيرلندا الشمالية سيمون ماجيل بي بي سي سبورت NI عن الموازنة بين الأمومة وعودتها إلى كرة القدم وكيف تغيرت حياتها منذ أن أنجبت ابنتها سكاي في وقت سابق من هذا العام.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073886225276688",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يمكنك_أن_تكوني_أمًا_ولاعب_كرة_قدم_-_يمكنهما_التعايش.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/ck9dzlv95lw3o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ad-IGbLIUmwn82dFmYmESav"
     }
   }
 ]
