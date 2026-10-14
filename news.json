@@ -1,5 +1,39 @@
 [
   {
+    "title": "Una presentadora se burla de un futbolista a costa de las trampas del City: \"Eso es un poco vergonzoso, ¿no?\"",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/14/presentadora-burla-futbolista-costa-trampas-city-poco-vergonzos-video.html",
+    "summary": "",
+    "published": "Wed, 14 Oct 2026 10:53:05 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/fypz61gppuA9NvPN2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مذيع يسخر من لاعب كرة قدم على حساب غش السيتي: \"هذا محرج بعض الشيء، أليس كذلك؟\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "مذيع يسخر من لاعب كرة قدم على حساب غش السيتي: \"هذا محرج بعض الشيء، أليس كذلك؟\"",
+    "post_text": "🚨 مذيع يسخر من لاعب كرة قدم على حساب غش السيتي: \"هذا محرج بعض الشيء، أليس كذلك؟\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078003324864978",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مذيع_يسخر_من_لاعب_كرة_قدم_على_حساب_غش_السيتي_هذا_محرج_بعض_الشيء،_أليس_كذلك؟.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/14/presentadora-burla-futbolista-costa-trampas-city-poco-vergonzos-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEVf2v_UOovjeve34NwVfpi"
+    }
+  },
+  {
     "title": "Goleada pucelana por 5-0 diez años después",
     "url": "https://www.marca.com/futbol/valladolid/2026/10/14/goleada-pucelana-5-0-diez-anos-despues.html",
     "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1BMWVSwqWGBFcriNZ-uV94"
-    }
-  },
-  {
-    "title": "Ten-player Brighton win at Sunderland to stay third",
-    "url": "https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/report/559503",
-    "summary": "High-flying Brighton and Hove Albion won 2-0 at Sunderland to make it three straight Premier League wins without conceding despite having to play more than half an hour with ten men.",
-    "published": "Sat, 10 Oct 2026 17:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-maxim-de-cuyper-brighton_7373201.jpg?20261010161840",
-    "media_type": "image/jpg",
-    "arabic_title": "برايتون بعشرة لاعبين يفوز على سندرلاند ليبقى في المركز الثالث",
-    "arabic_summary": "فاز فريق برايتون آند هوف ألبيون المتألق 2-0 على مضيفه سندرلاند ليحقق انتصاره الثالث على التوالي في الدوري الإنجليزي الممتاز دون أن تهتز شباكه على الرغم من اضطراره للعب أكثر من نصف ساعة بعشرة لاعبين.",
-    "translation_status": "translated",
-    "post_title": "برايتون بعشرة لاعبين يفوز على سندرلاند ليبقى في المركز الثالث",
-    "post_text": "🚨 برايتون بعشرة لاعبين يفوز على سندرلاند ليبقى في المركز الثالث\n\n📝 فاز فريق برايتون آند هوف ألبيون المتألق 2-0 على مضيفه سندرلاند ليحقق انتصاره الثالث على التوالي في الدوري الإنجليزي الممتاز دون أن تهتز شباكه على الرغم من اضطراره للعب أكثر من نصف ساعة بعشرة لاعبين.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074225435242767",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برايتون_بعشرة_لاعبين_يفوز_على_سندرلاند_ليبقى_في_المركز_الثالث.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/report/559503",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlAfgfIeCKgP4bxLJfAFIsv"
     }
   }
 ]
