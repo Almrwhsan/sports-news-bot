@@ -1,5 +1,39 @@
 [
   {
+    "title": "Viking 3-3 Bayern Munich | Resumen",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/14/viking-3-3-bayern-munich-resumen-video.html",
+    "summary": "",
+    "published": "Wed, 14 Oct 2026 09:18:42 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/fyO_Q1gpobRidWzcK.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الفايكنج 3-3 بايرن ميونخ | استئناف",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "الفايكنج 3-3 بايرن ميونخ | استئناف",
+    "post_text": "🚨 الفايكنج 3-3 بايرن ميونخ | استئناف\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077937164871594",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفايكنج_3-3_بايرن_ميونخ_استئناف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/14/viking-3-3-bayern-munich-resumen-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjWLXiZxBe1Fj6tupgHEfSG"
+    }
+  },
+  {
     "title": "Qué pasó en Mestalla... un 14 de octubre: la riada de 1957 y el estadio anegado por completo de agua",
     "url": "https://www.marca.com/futbol/valencia/2026/10/14/paso-mestalla-14-octubre-riada-1957-estadio-anegado-completo-agua.html",
     "summary": "Fue una de las noches más trágicas que vivió la ciudad inundándola toda y Mestalla no fue excepción: ahora bien, actuó de refugio con sus gradas para evitar mayor tragedia humana",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJm14GYYRfJnnKhBRIhv74p"
-    }
-  },
-  {
-    "title": "Matarazzo: “Es el momento de mostrar quiénes somos y qué queremos”",
-    "url": "https://as.com/futbol/primera/matarazzo-es-el-momento-de-mostrar-quienes-somos-y-que-queremos-f202610-n/",
-    "summary": "El técnico de la Real Sociedad indica que Fort puede jugar y que Marchal ha tenido fiebre. No ve al Deportivo como al típico equipo que sube de Segunda.",
-    "published": "Sat, 10 Oct 2026 12:19:26 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VIJ3NDE25BIBRH6V2T6KNEQVWI.jpg?auth=4000215b1ea46db64600f4fa3274fd15034ffc43f8039af5bdb2fb376747ce45",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماتاراتزو: \"حان الوقت لنظهر من نحن وماذا نريد\"",
-    "arabic_summary": "وأشار مدرب ريال سوسيداد إلى أن فورت يمكنه اللعب وأن مارشال يعاني من الحمى. وهو لا يرى أن ديبورتيفو هو الفريق النموذجي الذي صعد من الدرجة الثانية.",
-    "translation_status": "translated",
-    "post_title": "ماتاراتزو: \"حان الوقت لنظهر من نحن وماذا نريد\"",
-    "post_text": "🚨 ماتاراتزو: \"حان الوقت لنظهر من نحن وماذا نريد\"\n\n📝 وأشار مدرب ريال سوسيداد إلى أن فورت يمكنه اللعب وأن مارشال يعاني من الحمى. وهو لا يرى أن ديبورتيفو هو الفريق النموذجي الذي صعد من الدرجة الثانية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074161735249137",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماتاراتزو_حان_الوقت_لنظهر_من_نحن_وماذا_نريد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/matarazzo-es-el-momento-de-mostrar-quienes-somos-y-que-queremos-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYwAIsJDtLKtSrld0NiuOeF"
     }
   }
 ]
