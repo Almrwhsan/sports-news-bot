@@ -1,5 +1,39 @@
 [
   {
+    "title": "Papers: Bournemouth open to £100m Scott sale in January",
+    "url": "https://www.skysports.com/football/news/12040/13599140/alex-scott-transfer-news-bournemouth-open-to-100m-sale-of-england-international-in-january-paper-talk",
+    "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+    "published": "Mon, 12 Oct 2026 23:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+    "media_type": "image/jpg",
+    "arabic_title": "الأوراق: بورنموث منفتح على بيع سكوت بقيمة 100 مليون جنيه إسترليني في يناير",
+    "arabic_summary": "أهم الأخبار والإشاعات المنقولة من صحف الأربعاء..",
+    "translation_status": "translated",
+    "post_title": "الأوراق: بورنموث منفتح على بيع سكوت بقيمة 100 مليون جنيه إسترليني في يناير",
+    "post_text": "🚨 الأوراق: بورنموث منفتح على بيع سكوت بقيمة 100 مليون جنيه إسترليني في يناير\n\n📝 أهم الأخبار والإشاعات المنقولة من صحف الأربعاء..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077634148235229",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_بورنموث_منفتح_على_بيع_سكوت_بقيمة_100_مليون_جنيه_إسترليني_في_يناير.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13599140/alex-scott-transfer-news-bournemouth-open-to-100m-sale-of-england-international-in-january-paper-talk",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A_LViFNDLRki9USPkjZe6hM"
+    }
+  },
+  {
     "title": "Próximo partido del Barcelona en Champions League: rival, fecha y horario de la jornada 3",
     "url": "https://as.com/futbol/champions/proximo-partido-del-barcelona-en-champions-league-rival-fecha-y-horario-de-la-jornada-3-f202610-n/",
     "summary": "El conjunto que dirige Hansi Flick afrontará un nuevo duelo de Champions, otra vez fuera de casa, en apenas siete días.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjE7MHYrWdpL743DSBZAgYl"
-    }
-  },
-  {
-    "title": "Fernando Roig: “Somos lo que visualicé hace 30 años que seríamos”",
-    "url": "https://as.com/futbol/primera/fernando-roig-somos-lo-que-visualice-hace-30-anos-que-seriamos-f202610-n/",
-    "summary": "El mandatario cumple 30 años como presidente del Villarreal, tres décadas que repasa en AS.",
-    "published": "Sat, 10 Oct 2026 04:59:52 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261010/1223963_061918_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "فرناندو رويج: \"نحن ما تخيلت أننا سنكون عليه قبل 30 عامًا\"",
-    "arabic_summary": "يحتفل الرئيس بمرور 30 ​​عامًا على توليه منصب رئيس فياريال، وثلاثة عقود يستعرضها في صحيفة AS.",
-    "translation_status": "translated",
-    "post_title": "فرناندو رويج: \"نحن ما تخيلت أننا سنكون عليه قبل 30 عامًا\"",
-    "post_text": "🚨 فرناندو رويج: \"نحن ما تخيلت أننا سنكون عليه قبل 30 عامًا\"\n\n📝 يحتفل الرئيس بمرور 30 ​​عامًا على توليه منصب رئيس فياريال، وثلاثة عقود يستعرضها في صحيفة AS.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073937238604920",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرناندو_رويج_نحن_ما_تخيلت_أننا_سنكون_عليه_قبل_30_عامًا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwQ8f1nCF8jPbMYoGQto9zi"
     }
   }
 ]
