@@ -1,5 +1,39 @@
 [
   {
+    "title": "En Roma empezó todo...",
+    "url": "https://as.com/futbol/en-roma-empezo-todo-f202610-n/",
+    "summary": "El ciclo ganador de los blancos con tres Champions ganadas comenzó en la capital italiana y acabaría en septiembre de 2018, con la visita del Roma al estadio Bernabéu...",
+    "published": "Wed, 14 Oct 2026 12:42:05 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/B7VOIY75CRGTXEFRJA6XXTAH6M.jpg?auth=afe85db62d36ef4ee7df1e2121fb28139745919a69a927e41083cddfe44dacdb",
+    "media_type": "image/jpeg",
+    "arabic_title": "بدأ كل شيء في روما..",
+    "arabic_summary": "بدأت سلسلة انتصارات الفريق الأبيض بثلاثة انتصارات في دوري أبطال أوروبا في العاصمة الإيطالية وستنتهي في سبتمبر 2018، بزيارة روما إلى ملعب البرنابيو...",
+    "translation_status": "translated",
+    "post_title": "بدأ كل شيء في روما..",
+    "post_text": "🚨 بدأ كل شيء في روما..\n\n📝 بدأت سلسلة انتصارات الفريق الأبيض بثلاثة انتصارات في دوري أبطال أوروبا في العاصمة الإيطالية وستنتهي في سبتمبر 2018، بزيارة روما إلى ملعب البرنابيو...\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078123224852988",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بدأ_كل_شيء_في_روما...png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/en-roma-empezo-todo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AS6zbNQ_VVoRdNnq1jxOVIR"
+    }
+  },
+  {
     "title": "Totti, el romano que me hizo llorar",
     "url": "https://as.com/opinion/totti-el-romano-que-me-hizo-llorar-f202610-n/",
     "summary": "Cuando leyó una carta titulada ‘Speravo de mori ch’i de pi’, el río de lágrimas llegó a mi casa. Lo confieso. Como me pasó con el adiós de Santillana, Camacho, Zizou, Raúl, Kroos, Modric, Ancelotti, Carvajal... Leyendas con botas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhrDyukNkOJIr-CXWlhq_TV"
-    }
-  },
-  {
-    "title": "Resumen y goles del Alavés vs Atlético, jornada 9 de LaLiga EA Sports",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-alaves-vs-atletico-jornada-9-de-laliga-ea-sports-f202610-v/",
-    "summary": "Un soberbio pase del andaluz al Cuti Romero desatascó un partido donde el Alavés igualó el gol de Grimaldo con un penalti de Le Normand. Ángel Pérez fue expulsado y el asedio colchonero tuvo premio final.",
-    "published": "Sat, 10 Oct 2026 16:31:40 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "ملخص وأهداف مباراة ألافيس وأتلتيكو، الجولة 9 من الدوري الإسباني، EA Sports",
-    "arabic_summary": "تمريرة رائعة من الأندلسي إلى كوتي روميرو فتحت المباراة حيث عادل ألافيس هدف جريمالدو من ركلة جزاء من لو نورماند. تم طرد أنجيل بيريز وكان لحصار الفراش المكافأة النهائية.",
-    "translation_status": "translated",
-    "post_title": "ملخص وأهداف مباراة ألافيس وأتلتيكو، الجولة 9 من الدوري الإسباني، EA Sports",
-    "post_text": "🚨 ملخص وأهداف مباراة ألافيس وأتلتيكو، الجولة 9 من الدوري الإسباني، EA Sports\n\n📝 تمريرة رائعة من الأندلسي إلى كوتي روميرو فتحت المباراة حيث عادل ألافيس هدف جريمالدو من ركلة جزاء من لو نورماند. تم طرد أنجيل بيريز وكان لحصار الفراش المكافأة النهائية.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075417398456904",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملخص_وأهداف_مباراة_ألافيس_وأتلتيكو،_الجولة_9_من_الدوري_الإسباني،_EA_Sports.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/videos/resumen-y-goles-del-alaves-vs-atletico-jornada-9-de-laliga-ea-sports-f202610-v/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AK67fK5iUnsAR4RWFLxN0mj"
     }
   }
 ]
