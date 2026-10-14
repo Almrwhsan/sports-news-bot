@@ -1,5 +1,39 @@
 [
   {
+    "title": "Declarado de alto riesgo el Barcelona-Real Madrid",
+    "url": "https://as.com/futbol/primera/declarado-de-alto-riesgo-el-barcelona-real-madrid-f202610-n/",
+    "summary": "El primer Clásico de la temporada se disputará a partir de las 21:00 horas del domingo 25 de este mes en el Spotify Camp Nou.",
+    "published": "Wed, 14 Oct 2026 10:30:54 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IAVWTQXTTFPHJKUGO7EDTGQT34.jpg?auth=9f5cc6b2a342ece88c9eb8e003b4dc74c5f7af5480d9215d0f5aaaf19afe9937",
+    "media_type": "image/jpeg",
+    "arabic_title": "أعلن برشلونة-ريال مدريد عن خطورة عالية",
+    "arabic_summary": "ستقام أول مباراة كلاسيكو لهذا الموسم في تمام الساعة 9:00 مساءً. يوم الأحد 25 من الشهر الجاري على ملعب Spotify Camp Nou.",
+    "translation_status": "translated",
+    "post_title": "أعلن برشلونة-ريال مدريد عن خطورة عالية",
+    "post_text": "🚨 أعلن برشلونة-ريال مدريد عن خطورة عالية\n\n📝 ستقام أول مباراة كلاسيكو لهذا الموسم في تمام الساعة 9:00 مساءً. يوم الأحد 25 من الشهر الجاري على ملعب Spotify Camp Nou.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078053824859928",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أعلن_برشلونة-ريال_مدريد_عن_خطورة_عالية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/declarado-de-alto-riesgo-el-barcelona-real-madrid-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASneGqCiQaD05Qvgkeq1mAq"
+    }
+  },
+  {
     "title": "Feyi-Waboso expected to be fit for England's Nations Championship campaign",
     "url": "https://www.skysports.com/rugby-union/news/12040/13599229/immanuel-feyi-waboso-expected-to-be-fit-for-englands-nations-championship-fixture-against-australia-in-november",
     "summary": "Immanuel Feyi-Waboso is expected to be fit for England's Nations Championship campaign this autumn after receiving a positive update on his hamstring injury.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8Kz_gLS0fEZPNKgvf8p78x"
-    }
-  },
-  {
-    "title": "De Rossi y los suyos ganaron el primer partido de la temporada frenando a la Fiorentina",
-    "url": "https://as.com/futbol/internacional/de-rossi-y-los-suyos-ganaron-el-primer-partido-de-la-temporada-frenando-a-la-fiorentina-f202610-n/",
-    "summary": "El Genoa logró su primera victoria de la temporada al vencer por 2-1 a la Fiorentina ante su afición. Messias volvió a marcar por primera vez desde marzo.",
-    "published": "Sat, 10 Oct 2026 15:10:15 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/Q6SADVZQWVLIJMVHHH24ZIR43Y.jpg?auth=53b6481f70f3d0e57eb2cbb499a732473d62c67f47f2d4fc0fdcdb2b42794eb3",
-    "media_type": "image/jpeg",
-    "arabic_title": "فاز دي روسي وفريقه بالمباراة الأولى هذا الموسم، وأوقفوا فيورنتينا",
-    "arabic_summary": "وحقق جنوى فوزه الأول هذا الموسم بفوزه على فيورنتينا 2-1 أمام جماهيره. وسجل ميسياس مرة أخرى للمرة الأولى منذ مارس.",
-    "translation_status": "translated",
-    "post_title": "فاز دي روسي وفريقه بالمباراة الأولى هذا الموسم، وأوقفوا فيورنتينا",
-    "post_text": "🚨 فاز دي روسي وفريقه بالمباراة الأولى هذا الموسم، وأوقفوا فيورنتينا\n\n📝 وحقق جنوى فوزه الأول هذا الموسم بفوزه على فيورنتينا 2-1 أمام جماهيره. وسجل ميسياس مرة أخرى للمرة الأولى منذ مارس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074280598570584",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاز_دي_روسي_وفريقه_بالمباراة_الأولى_هذا_الموسم،_وأوقفوا_فيورنتينا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/de-rossi-y-los-suyos-ganaron-el-primer-partido-de-la-temporada-frenando-a-la-fiorentina-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Amo0L8i7oz6ZWbuoPBuvwIf"
     }
   }
 ]
