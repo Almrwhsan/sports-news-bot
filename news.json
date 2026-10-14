@@ -1,5 +1,39 @@
 [
   {
+    "title": "¡Mala noche para el Barcelona!, aficionados de Galatasaray no dejan dormir al equipo",
+    "url": "https://as.com/us/videos/mala-noche-para-el-barcelona-aficionados-de-galatasaray-no-dejan-dormir-al-equipo-f202610-v/",
+    "summary": "En la noche previa a la Fecha 2 de Champions League, la fanaticada turca se dio cita en el hotel de concentración de los blaugrana para una ruidosa serenata.",
+    "published": "Tue, 13 Oct 2026 17:31:31 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261013/1224929_172721_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "ليلة سيئة لبرشلونة! جماهير غلطة سراي لا تترك الفريق ينام",
+    "arabic_summary": "في الليلة التي سبقت الجولة الثانية من دوري أبطال أوروبا، تجمعت الجماهير التركية في فندق البلوجرانا لغناء أغنية صاخبة.",
+    "translation_status": "translated",
+    "post_title": "ليلة سيئة لبرشلونة! جماهير غلطة سراي لا تترك الفريق ينام",
+    "post_text": "🚨 ليلة سيئة لبرشلونة! جماهير غلطة سراي لا تترك الفريق ينام\n\n📝 في الليلة التي سبقت الجولة الثانية من دوري أبطال أوروبا، تجمعت الجماهير التركية في فندق البلوجرانا لغناء أغنية صاخبة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077385791593398",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليلة_سيئة_لبرشلونة!_جماهير_غلطة_سراي_لا_تترك_الفريق_ينام.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJV5nwRM3qfJ0sgGnt1UGd1"
+    }
+  },
+  {
     "title": "Antony entra en una lista de 24 futbolistas frente al Oporto",
     "url": "https://www.marca.com/futbol/betis/2026/10/13/antony-entra-lista-24-futbolistas-frente-oporto.html",
     "summary": "El brasileño supera las molestias musculares que sufrió ante Osasuna y estará disponible",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVLpRvk78i5G91TVfswD7gn"
-    }
-  },
-  {
-    "title": "EFL preview: Savage salvation and a happy homecoming?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmzxl500q40qo?at_medium=RSS&at_campaign=rss",
-    "summary": "Here are the five things across the EFL that you should be keeping your eyes on this weekend.",
-    "published": "Fri, 09 Oct 2026 08:47:06 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ca/live/682e5c20-c3bd-11f1-9798-abffda1e61e7.png",
-    "media_type": null,
-    "arabic_title": "معاينة EFL: الخلاص الوحشي وعودة سعيدة للوطن؟",
-    "arabic_summary": "فيما يلي الأشياء الخمسة في الدوري الإنجليزي الممتاز والتي يجب أن تراقبها في نهاية هذا الأسبوع.",
-    "translation_status": "translated",
-    "post_title": "معاينة EFL: الخلاص الوحشي وعودة سعيدة للوطن؟",
-    "post_text": "🚨 معاينة EFL: الخلاص الوحشي وعودة سعيدة للوطن؟\n\n📝 فيما يلي الأشياء الخمسة في الدوري الإنجليزي الممتاز والتي يجب أن تراقبها في نهاية هذا الأسبوع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073892875276023",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/معاينة_EFL_الخلاص_الوحشي_وعودة_سعيدة_للوطن؟.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmzxl500q40qo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlUS-rv83aohAycd0lNpyJT"
     }
   }
 ]
