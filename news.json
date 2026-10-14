@@ -1,5 +1,39 @@
 [
   {
+    "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
+    "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
+    "summary": "Arsenal scored three goals in seven second-half minutes to beat Lille 3-0 and continue their winning start in the Champions League.",
+    "published": "Tue, 13 Oct 2026 21:45:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "champions_league",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-eberechi-eze-myles-lewis-skelly_7376277.jpg?20261013214010",
+    "media_type": "image/jpg",
+    "arabic_title": "ساكا يتألق في فوز أرسنال على ليل بدوري أبطال أوروبا",
+    "arabic_summary": "سجل أرسنال ثلاثة أهداف في سبع دقائق بالشوط الثاني ليفوز على ليل 3-0 ويواصل بدايته المظفرة في دوري أبطال أوروبا.",
+    "translation_status": "translated",
+    "post_title": "ساكا يتألق في فوز أرسنال على ليل بدوري أبطال أوروبا",
+    "post_text": "🚨 ساكا يتألق في فوز أرسنال على ليل بدوري أبطال أوروبا\n\n📝 سجل أرسنال ثلاثة أهداف في سبع دقائق بالشوط الثاني ليفوز على ليل 3-0 ويواصل بدايته المظفرة في دوري أبطال أوروبا.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077504691581508",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساكا_يتألق_في_فوز_أرسنال_على_ليل_بدوري_أبطال_أوروبا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6W2rAro5ZFZc-St4Fdcc8I"
+    }
+  },
+  {
     "title": "Primera victoria del Barça en la Youth League",
     "url": "https://www.marca.com/futbol/youth-league/2026/10/13/primera-victoria-barca-youth-league.html",
     "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "At0WxedT5rW6ovzUa-Cj7d8"
-    }
-  },
-  {
-    "title": "Wainwright opens Leicester account with Gloucester win in front of Prince Harry",
-    "url": "https://www.skysports.com/rugby-union/news/12040/13597061/gallagher-prem-aaron-wainwright-scores-his-first-try-for-leicester-tigers-as-they-defeat-gloucester-in-front-of-prince-harry",
-    "summary": "Wales back-rower Aaron Wainwright scored his first try for Leicester Tigers as they defeated Gloucester 38-31 in a forward-dominated contest in the Gallagher Prem watched by The Duke of Sussex, Prince Harry.",
-    "published": "Fri, 09 Oct 2026 22:22:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-aaron-wainwright_7372548.jpg?20261009220848",
-    "media_type": "image/jpg",
-    "arabic_title": "وينرايت يفتتح حساب ليستر بفوز غلوستر أمام الأمير هاري",
-    "arabic_summary": "سجل لاعب التجديف الخلفي في ويلز آرون وينرايت محاولته الأولى لفريق ليستر تايجرز عندما هزموا جلوستر 38-31 في مسابقة يهيمن عليها المهاجمون في غالاغر بريم وشاهدها دوق ساسكس، الأمير هاري.",
-    "translation_status": "translated",
-    "post_title": "وينرايت يفتتح حساب ليستر بفوز غلوستر أمام الأمير هاري",
-    "post_text": "🚨 وينرايت يفتتح حساب ليستر بفوز غلوستر أمام الأمير هاري\n\n📝 سجل لاعب التجديف الخلفي في ويلز آرون وينرايت محاولته الأولى لفريق ليستر تايجرز عندما هزموا جلوستر 38-31 في مسابقة يهيمن عليها المهاجمون في غالاغر بريم وشاهدها دوق ساسكس، الأمير هاري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073912678607376",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وينرايت_يفتتح_حساب_ليستر_بفوز_غلوستر_أمام_الأمير_هاري.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-union/news/12040/13597061/gallagher-prem-aaron-wainwright-scores-his-first-try-for-leicester-tigers-as-they-defeat-gloucester-in-front-of-prince-harry",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A62fbMjoDqmljAMCSl2MBY1"
     }
   }
 ]
