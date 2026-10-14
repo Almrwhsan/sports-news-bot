@@ -1,5 +1,39 @@
 [
   {
+    "title": "David Mella es el mejor sustento de Yeremay",
+    "url": "https://www.marca.com/futbol/deportivo/2026/10/14/david-mella-mejor-sustento-yeremay.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Wed, 14 Oct 2026 13:39:40 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/6acf69acacb29.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ديفيد ميلا هو أفضل دعم لييريماي",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "ديفيد ميلا هو أفضل دعم لييريماي",
+    "post_text": "🚨 ديفيد ميلا هو أفضل دعم لييريماي\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078249958173648",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديفيد_ميلا_هو_أفضل_دعم_لييريماي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/deportivo/2026/10/14/david-mella-mejor-sustento-yeremay.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9jQobTjqjWo4rxNMtsixeK"
+    }
+  },
+  {
     "title": "Volvió el Madrid inmortal",
     "url": "https://as.com/futbol/champions/volvio-el-madrid-inmortal-f202610-n/",
     "summary": "El equipo blanco gana a la heroica un partido que perdía por 1-3 en el 82′. Los suplentes sacan a Mourinho de un buen lío.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnK4gEnluLZFcNNKYEoyqo3"
-    }
-  },
-  {
-    "title": "El precedente por el que clama el Madrid: agarrón de pelo a Marcelo que no fue penalti... y ya había VAR",
-    "url": "https://as.com/futbol/videos/el-precedente-por-el-que-clama-el-madrid-agarron-de-pelo-a-marcelo-que-no-fue-penalti-f202610-v/",
-    "summary": "Tras el gol anulado a Vinicius, fueron muchos los madridistas que sacaron a colación esta acción sobre el brasileño en un Real Madrid-Alavés de 2020.",
-    "published": "Sat, 10 Oct 2026 21:26:28 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261010/1224152_205850_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "السابقة التي يطالب بها ريال مدريد: تم إمساك مارسيلو من شعره ولم تكن ركلة جزاء.. وكان هناك بالفعل VAR",
-    "arabic_summary": "بعد الهدف الملغي ضد فينيسيوس، كان هناك العديد من مشجعي ريال مدريد الذين أثاروا هذا الأمر بشأن البرازيلي في مباراة ريال مدريد وألافيس في عام 2020.",
-    "translation_status": "translated",
-    "post_title": "السابقة التي يطالب بها ريال مدريد: تم إمساك مارسيلو من شعره ولم تكن ركلة جزاء.. وكان هناك بالفعل VAR",
-    "post_text": "🚨 السابقة التي يطالب بها ريال مدريد: تم إمساك مارسيلو من شعره ولم تكن ركلة جزاء.. وكان هناك بالفعل VAR\n\n📝 بعد الهدف الملغي ضد فينيسيوس، كان هناك العديد من مشجعي ريال مدريد الذين أثاروا هذا الأمر بشأن البرازيلي في مباراة ريال مدريد وألافيس في عام 2020.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075419405123370",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/السابقة_التي_يطالب_بها_ريال_مدريد_تم_إمساك_مارسيلو_من_شعره_ولم_تكن_ركلة_جزاء.._و.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhwM8QXhyxFi5QSBp38GDJr"
     }
   }
 ]
