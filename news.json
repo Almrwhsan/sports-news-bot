@@ -1,5 +1,39 @@
 [
   {
+    "title": "Clasificación de la Champions League, en directo: el Barça se coloca primero y Atlético y Villarreal suman sus primeros puntos",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/13/clasificacion-champions-league-directo-barca-coloca-primero-fase-liga.html",
+    "summary": "Todos los detalles sobre los equipos de la máxima competición europea",
+    "published": "Tue, 13 Oct 2026 22:26:16 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "champions_league",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa180882f7b9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تصنيف دوري أبطال أوروبا، مباشر: برشلونة يحتل المركز الأول، وأتلتيكو وفياريال يضيفان أولى نقاطهما",
+    "arabic_summary": "كل التفاصيل حول الفرق في المنافسة الأوروبية الكبرى",
+    "translation_status": "translated",
+    "post_title": "تصنيف دوري أبطال أوروبا، مباشر: برشلونة يحتل المركز الأول، وأتلتيكو وفياريال يضيفان أولى نقاطهما",
+    "post_text": "🚨 تصنيف دوري أبطال أوروبا، مباشر: برشلونة يحتل المركز الأول، وأتلتيكو وفياريال يضيفان أولى نقاطهما\n\n📝 كل التفاصيل حول الفرق في المنافسة الأوروبية الكبرى\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078092538189390",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تصنيف_دوري_أبطال_أوروبا،_مباشر_برشلونة_يحتل_المركز_الأول،_وأتلتيكو_وفياريال_يضيف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/13/clasificacion-champions-league-directo-barca-coloca-primero-fase-liga.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALG0x-zzoT0Hbg-EJeRLmUU"
+    }
+  },
+  {
     "title": "¿A qué hora se juega el Roma - Real Madrid? TV, horario, dónde y cómo ver hoy la Champions online",
     "url": "https://as.com/futbol/champions/a-que-hora-se-juega-el-roma-real-madrid-tv-horario-donde-y-como-ver-hoy-la-champions-online-f202610-n/",
     "summary": "Fecha, horario, cómo ver en vivo y en directo en televisión y cómo seguir online el Roma - Real Madrid, jornada 2 de la fase liga de la Champions League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Awee9QQrDDmcBax6-XhctbL"
-    }
-  },
-  {
-    "title": "Football Daily",
-    "url": "https://www.bbc.co.uk/sounds/play/m0032mc0?at_medium=RSS&at_campaign=rss",
-    "summary": "Conor McNamara joins Ian Dennis and John Murray ahead of a big Premier League weekend.",
-    "published": "Fri, 09 Oct 2026 15:51:00 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg",
-    "media_type": null,
-    "arabic_title": "كرة القدم اليومية",
-    "arabic_summary": "ينضم كونور ماكنمارا إلى إيان دينيس وجون موراي قبل عطلة نهاية أسبوع كبيرة في الدوري الإنجليزي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "كرة القدم اليومية",
-    "post_text": "🚨 كرة القدم اليومية\n\n📝 ينضم كونور ماكنمارا إلى إيان دينيس وجون موراي قبل عطلة نهاية أسبوع كبيرة في الدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074389368559707",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كرة_القدم_اليومية.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sounds/play/m0032mc0?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuyDBq-rc2AlM4vUtCmoWSu"
     }
   }
 ]
