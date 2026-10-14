@@ -1,5 +1,39 @@
 [
   {
+    "title": "Volvió el Madrid inmortal",
+    "url": "https://as.com/futbol/champions/volvio-el-madrid-inmortal-f202610-n/",
+    "summary": "El equipo blanco gana a la heroica un partido que perdía por 1-3 en el 82′. Los suplentes sacan a Mourinho de un buen lío.",
+    "published": "Wed, 14 Oct 2026 20:55:05 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261014/1225554_213619_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "لقد عادت مدريد الخالدة",
+    "arabic_summary": "ويحقق الفريق الأبيض فوزاً بطولياً في المباراة التي خسرها بنتيجة 1-3 في الدقيقة 82. البدلاء يخرجون مورينيو من ورطة كبيرة.",
+    "translation_status": "translated",
+    "post_title": "لقد عادت مدريد الخالدة",
+    "post_text": "🚨 لقد عادت مدريد الخالدة\n\n📝 ويحقق الفريق الأبيض فوزاً بطولياً في المباراة التي خسرها بنتيجة 1-3 في الدقيقة 82. البدلاء يخرجون مورينيو من ورطة كبيرة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078247004840610",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_عادت_مدريد_الخالدة.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7kMBBa8BbviRKdhUtwMMPU"
+    }
+  },
+  {
     "title": "La otra toma del golazo de Mbappé en Champions que revivió al Madrid",
     "url": "https://as.com/us/videos/la-otra-toma-del-golazo-de-mbappe-en-champions-que-revivio-al-madrid-f202610-v/",
     "summary": "Luego de que la Roma sorprendiera al cuadro merengue, Mbappé se mandó un zapatazo en un error de la defensa, para empatar el encuentro.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhwM8QXhyxFi5QSBp38GDJr"
-    }
-  },
-  {
-    "title": "Iñigo: “Nos faltó rematar para hacer un partido redondo”",
-    "url": "https://as.com/futbol/primera/inigo-nos-falto-rematar-para-hacer-un-partido-redondo-f202610-n/",
-    "summary": "El técnico del Villarreal se marcha satisfecho, a pesar de la derrota. “Es frustrante no puntuar”, afirma.",
-    "published": "Sat, 10 Oct 2026 21:28:09 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WQWVOKAWNJNO7PFWFW7TXNUD5E.jpg?auth=80264e7948070b3f4c31cfa049bce44a094b54dc85aa2abb1729aec7e12536c3",
-    "media_type": "image/jpeg",
-    "arabic_title": "إنييغو: \"كنا بحاجة إلى الانتهاء من أجل خوض مباراة الجولة\"",
-    "arabic_summary": "مدرب فياريال يغادر راضيا رغم الهزيمة. يقول: \"من المحبط عدم التسجيل\".",
-    "translation_status": "translated",
-    "post_title": "إنييغو: \"كنا بحاجة إلى الانتهاء من أجل خوض مباراة الجولة\"",
-    "post_text": "🚨 إنييغو: \"كنا بحاجة إلى الانتهاء من أجل خوض مباراة الجولة\"\n\n📝 مدرب فياريال يغادر راضيا رغم الهزيمة. يقول: \"من المحبط عدم التسجيل\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075419561790021",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنييغو_كنا_بحاجة_إلى_الانتهاء_من_أجل_خوض_مباراة_الجولة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/inigo-nos-falto-rematar-para-hacer-un-partido-redondo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ap-eZhb816kXtHVplBtGQ5J"
     }
   }
 ]
