@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rueda de prensa de Mourinho y Tchouameni en Roma, en directo",
+    "url": "https://as.com/futbol/champions/rueda-de-prensa-de-mourinho-y-tchouameni-en-roma-en-directo-f202610-d/",
+    "summary": "Portugués y francés, ante la prensa en la víspera de la segunda jornada de Champions. Sigue todas las reacciones.",
+    "published": "Tue, 13 Oct 2026 16:53:36 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://www.youtube.com/watch?v=lhFR0KhphTs",
+    "media_type": "application/octet-stream",
+    "arabic_title": "المؤتمر الصحفي لمورينيو وتشواميني في روما مباشر",
+    "arabic_summary": "البرتغاليون والفرنسيون أمام الصحافة عشية اليوم الثاني لدوري أبطال أوروبا. متابعة جميع ردود الفعل.",
+    "translation_status": "translated",
+    "post_title": "المؤتمر الصحفي لمورينيو وتشواميني في روما مباشر",
+    "post_text": "🚨 المؤتمر الصحفي لمورينيو وتشواميني في روما مباشر\n\n📝 البرتغاليون والفرنسيون أمام الصحافة عشية اليوم الثاني لدوري أبطال أوروبا. متابعة جميع ردود الفعل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077637528234891",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لمورينيو_وتشواميني_في_روما_مباشر.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AWHpv7wc4GdX7Ql-IcW1FiZ"
+    }
+  },
+  {
     "title": "Papers: Bournemouth open to £100m Scott sale in January",
     "url": "https://www.skysports.com/football/news/12040/13599140/alex-scott-transfer-news-bournemouth-open-to-100m-sale-of-england-international-in-january-paper-talk",
     "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0dkXMG3lYgDBHxc1tOP8rM"
-    }
-  },
-  {
-    "title": "Sorloth se estrena en una convocatoria esta temporada",
-    "url": "https://www.marca.com/futbol/atletico/2026/10/09/sorloth-estrena-convocatoria-temporada.html",
-    "summary": "El noruego es la gran novedad rojiblanca junto a Barrios, que también sale de lesión.",
-    "published": "Fri, 09 Oct 2026 18:08:47 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/10/09/6ac90e3294849.r_d.1621-513-0.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ظهر سورلوث لأول مرة في مكالمة هذا الموسم",
-    "arabic_summary": "ويعد النرويجي هو النبأ الكبير للفريق الأحمر والأبيض إلى جانب باريوس الذي خرج أيضًا من الإصابة.",
-    "translation_status": "translated",
-    "post_title": "ظهر سورلوث لأول مرة في مكالمة هذا الموسم",
-    "post_text": "🚨 ظهر سورلوث لأول مرة في مكالمة هذا الموسم\n\n📝 ويعد النرويجي هو النبأ الكبير للفريق الأحمر والأبيض إلى جانب باريوس الذي خرج أيضًا من الإصابة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073937161938261",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ظهر_سورلوث_لأول_مرة_في_مكالمة_هذا_الموسم.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/10/09/sorloth-estrena-convocatoria-temporada.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjE7MHYrWdpL743DSBZAgYl"
     }
   }
 ]
