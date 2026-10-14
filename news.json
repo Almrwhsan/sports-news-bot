@@ -1,5 +1,39 @@
 [
   {
+    "title": "Goleada pucelana por 5-0 diez años después",
+    "url": "https://www.marca.com/futbol/valladolid/2026/10/14/goleada-pucelana-5-0-diez-anos-despues.html",
+    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
+    "published": "Wed, 14 Oct 2026 10:39:30 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/6acf3fafa5566.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سحق بوسيلانا 5-0 بعد عشر سنوات",
+    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
+    "translation_status": "translated",
+    "post_title": "سحق بوسيلانا 5-0 بعد عشر سنوات",
+    "post_text": "🚨 سحق بوسيلانا 5-0 بعد عشر سنوات\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077995454865765",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سحق_بوسيلانا_5-0_بعد_عشر_سنوات.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valladolid/2026/10/14/goleada-pucelana-5-0-diez-anos-despues.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFBYmwXMBhJWU80MC06Qjow"
+    }
+  },
+  {
     "title": "El capitán del Viking, acosado en redes por la expulsión de Olise: \"Niñita llorona\"",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/14/capitan-viking-acosado-redes-expulsion-olise-ninita-llorona.html",
     "summary": "Hasta el director deportivo del Bayern llegó a definir el juego de Tripic como de \"canalla\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlAfgfIeCKgP4bxLJfAFIsv"
-    }
-  },
-  {
-    "title": "Alphonse Le Grande edges Sea Lantern for historic Cesarewitch win",
-    "url": "https://www.skysports.com/racing/news/12040/13597377/cesarewitch-alphonse-le-grande-edges-sea-lantern-for-historic-newmarket-win",
-    "summary": "Alphonse Le Grande became only the second horse in history to win the Club Godolphin Cesarewitch twice when coming with a late rattle to foil a major gamble on Sea Lantern at Newmarket.",
-    "published": "Sat, 10 Oct 2026 16:48:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-alphonse-le-grande_7373273.jpg?20261010165043",
-    "media_type": "image/jpg",
-    "arabic_title": "ألفونس لو غراندي يتفوق على Sea Lantern ليحقق فوزًا تاريخيًا في سيزارويتش",
-    "arabic_summary": "أصبح ألفونس لو غراندي الحصان الثاني فقط في التاريخ الذي يفوز بسباق Club Godolphin Cesarewitch مرتين عندما جاء بخشخشة متأخرة لإحباط مقامرة كبيرة على Sea Lantern في نيوماركت.",
-    "translation_status": "translated",
-    "post_title": "ألفونس لو غراندي يتفوق على Sea Lantern ليحقق فوزًا تاريخيًا في سيزارويتش",
-    "post_text": "🚨 ألفونس لو غراندي يتفوق على Sea Lantern ليحقق فوزًا تاريخيًا في سيزارويتش\n\n📝 أصبح ألفونس لو غراندي الحصان الثاني فقط في التاريخ الذي يفوز بسباق Club Godolphin Cesarewitch مرتين عندما جاء بخشخشة متأخرة لإحباط مقامرة كبيرة على Sea Lantern في نيوماركت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074222068576437",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ألفونس_لو_غراندي_يتفوق_على_Sea_Lantern_ليحقق_فوزًا_تاريخيًا_في_سيزارويتش.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13597377/cesarewitch-alphonse-le-grande-edges-sea-lantern-for-historic-newmarket-win",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AV0pguux416_rc7R2NenMZq"
     }
   }
 ]
