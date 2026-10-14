@@ -1,5 +1,39 @@
 [
   {
+    "title": "Antony: \"Estamos construyendo ese espíritu de ganar\"",
+    "url": "https://www.marca.com/futbol/betis/2026/10/15/antony-construyendo-ese-espiritu-ganar.html",
+    "summary": "Feliz por el pleno de triunfos de su equipo en la Liga de Campeones",
+    "published": "Thu, 15 Oct 2026 00:17:49 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6acfff55b3482.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أنتوني: \"نحن نبني روح الفوز\"",
+    "arabic_summary": "سعيد بفوز فريقه الكامل في دوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "أنتوني: \"نحن نبني روح الفوز\"",
+    "post_text": "🚨 أنتوني: \"نحن نبني روح الفوز\"\n\n📝 سعيد بفوز فريقه الكامل في دوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078262061505771",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنتوني_نحن_نبني_روح_الفوز.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/10/15/antony-construyendo-ese-espiritu-ganar.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAj6mDACPQae3W41bnUDyyk"
+    }
+  },
+  {
     "title": "\"Es importante ganar, pero también lo es cómo se gana\"",
     "url": "https://www.marca.com/futbol/betis/2026/10/15/importante-ganar-como-gana.html",
     "summary": "Pellegrini, encantado con el seis de seis puntos en Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADnuSdL9OYGixulfaPNBJLG"
-    }
-  },
-  {
-    "title": "How Antonelli could win F1 world title as soon as the next race",
-    "url": "https://www.skysports.com/f1/news/12040/13597654/kimi-antonelli-f1-title-permutations-how-mercedes-driver-could-clinch-world-championship-at-united-states-gp",
-    "summary": "Kimi Antonelli could become Formula 1's youngest world champion as early as the next race - the United States Grand Prix - on October 25.",
-    "published": "Sun, 11 Oct 2026 19:20:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7374560.jpg?20261011191233",
-    "media_type": "image/jpg",
-    "arabic_title": "كيف يمكن أن يفوز أنتونيلي بلقب بطولة العالم للفورمولا 1 بمجرد السباق التالي",
-    "arabic_summary": "من الممكن أن يصبح كيمي أنتونيلي أصغر بطل عالم في الفورمولا 1 في وقت مبكر من السباق التالي - جائزة الولايات المتحدة الكبرى - في 25 أكتوبر.",
-    "translation_status": "translated",
-    "post_title": "كيف يمكن أن يفوز أنتونيلي بلقب بطولة العالم للفورمولا 1 بمجرد السباق التالي",
-    "post_text": "🚨 كيف يمكن أن يفوز أنتونيلي بلقب بطولة العالم للفورمولا 1 بمجرد السباق التالي\n\n📝 من الممكن أن يصبح كيمي أنتونيلي أصغر بطل عالم في الفورمولا 1 في وقت مبكر من السباق التالي - جائزة الولايات المتحدة الكبرى - في 25 أكتوبر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075423568456287",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_يمكن_أن_يفوز_أنتونيلي_بلقب_بطولة_العالم_للفورمولا_1_بمجرد_السباق_التالي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13597654/kimi-antonelli-f1-title-permutations-how-mercedes-driver-could-clinch-world-championship-at-united-states-gp",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANPOsPRQJo_94LAP0_cpCta"
     }
   }
 ]
