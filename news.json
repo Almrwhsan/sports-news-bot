@@ -1,5 +1,39 @@
 [
   {
+    "title": "EFL latest: Police investigating after Swansea's Eom targeted by alleged racist chanting",
+    "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+    "summary": "",
+    "published": "Tue, 13 Oct 2026 23:04:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-eom-ji-sung-swansea_7376416.png?20261013230147",
+    "media_type": "image/jpg",
+    "arabic_title": "EFL الأحدث: الشرطة تحقق بعد استهداف فريق Swansea's Eom بهتافات عنصرية مزعومة",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "EFL الأحدث: الشرطة تحقق بعد استهداف فريق Swansea's Eom بهتافات عنصرية مزعومة",
+    "post_text": "🚨 EFL الأحدث: الشرطة تحقق بعد استهداف فريق Swansea's Eom بهتافات عنصرية مزعومة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077709401561037",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/EFL_الأحدث_الشرطة_تحقق_بعد_استهداف_فريق_Swansea's_Eom_بهتافات_عنصرية_مزعومة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkB9hoeTR-chcWZFOZfh9Qj"
+    }
+  },
+  {
     "title": "Las mejores imágenes de la remontada del Barcelona en Estambul",
     "url": "https://as.com/futbol/fotorrelato/las-mejores-imagenes-de-la-remontada-del-barcelona-en-estambul-f202610-f/",
     "summary": "El Barcelona reaccionó tras el gol inicial del Galatasaray y acabó imponiéndose por 1-4 en el Rams Park.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFFCDYCHe_aURZN_g3pjVVb"
-    }
-  },
-  {
-    "title": "Rüdiger... o Rüdiger",
-    "url": "https://as.com/futbol/primera/rudiger-o-rudiger-f202610-n/",
-    "summary": "Sin Asencio ni Militao, lesionados, ni Huijsen, sancionado, ante el Villarreal la gran certeza es Rambo. Konaté llega, aunque al límite tras su lesión con Francia.",
-    "published": "Sat, 10 Oct 2026 07:10:39 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JIBUN7WN4JBH5GN4VTEMMONH6E.jpg?auth=520177fa88975cc12e875414538bc4222df667a38ee8c0fb3209d8cd512094ad",
-    "media_type": "image/jpeg",
-    "arabic_title": "روديجر...يا روديجر",
-    "arabic_summary": "بدون أسينسيو أو ميليتاو، مصابين، أو هويسن للإيقاف، ضد فياريال، اليقين الكبير هو رامبو. كوناتي يصل رغم وصوله إلى الحد الأقصى بعد إصابته مع فرنسا.",
-    "translation_status": "translated",
-    "post_title": "روديجر...يا روديجر",
-    "post_text": "🚨 روديجر...يا روديجر\n\n📝 بدون أسينسيو أو ميليتاو، مصابين، أو هويسن للإيقاف، ضد فياريال، اليقين الكبير هو رامبو. كوناتي يصل رغم وصوله إلى الحد الأقصى بعد إصابته مع فرنسا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1073963855268925",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روديجر...يا_روديجر.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/rudiger-o-rudiger-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AchHiBBh_SBwYwvzQqWTaMU"
     }
   }
 ]
