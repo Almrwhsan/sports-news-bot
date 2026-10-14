@@ -1,5 +1,39 @@
 [
   {
+    "title": "British and Irish Lions Women to face France in first match",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13599112/british-and-irish-lions-women-cardiffs-principality-stadium-to-host-teams-first-ever-match-against-france",
+    "summary": "The British and Irish Lions Women's team will face France at Principality Stadium in Cardiff on Friday August 27, marking the first-ever match played by a Lions Women's team.",
+    "published": "Wed, 14 Oct 2026 10:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rugby-womens-rugby_7376560.jpg?20261014082330",
+    "media_type": "image/jpg",
+    "arabic_title": "سيدات الأسود البريطانية والإيرلندية يواجهن فرنسا في المباراة الأولى",
+    "arabic_summary": "سيواجه فريق الأسود البريطاني والإيرلندي النسائي فرنسا على ملعب الإمارة في كارديف يوم الجمعة 27 أغسطس، وهي أول مباراة على الإطلاق يلعبها فريق الأسود النسائي.",
+    "translation_status": "translated",
+    "post_title": "سيدات الأسود البريطانية والإيرلندية يواجهن فرنسا في المباراة الأولى",
+    "post_text": "🚨 سيدات الأسود البريطانية والإيرلندية يواجهن فرنسا في المباراة الأولى\n\n📝 سيواجه فريق الأسود البريطاني والإيرلندي النسائي فرنسا على ملعب الإمارة في كارديف يوم الجمعة 27 أغسطس، وهي أول مباراة على الإطلاق يلعبها فريق الأسود النسائي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1077979391534038",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيدات_الأسود_البريطانية_والإيرلندية_يواجهن_فرنسا_في_المباراة_الأولى.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/news/12040/13599112/british-and-irish-lions-women-cardiffs-principality-stadium-to-host-teams-first-ever-match-against-france",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzKjHKC4AsdDzOEDuxw9ZFX"
+    }
+  },
+  {
     "title": "Abelardo alerta al Barcelona de lo que \"le falta\" para ganar la Champions: \"Ojalá me equivoque...\"",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/14/abelardo-alerta-barcelona-le-falta-ganar-champions-central-garantias.html",
     "summary": "\"Creo que al Barça le falta algo atrás, un central de garantías\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A34Z-CSK_Z5WykFn8uj8J5U"
-    }
-  },
-  {
-    "title": "Mourinho calls criticism of Mbappe 'ridiculous'",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crvg6lx2yj29o?at_medium=RSS&at_campaign=rss",
-    "summary": "Jose Mourinho defends Kylian Mbappe who has been scrutinised during the international break.",
-    "published": "Fri, 09 Oct 2026 09:57:48 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c3/live/5e166100-c3c3-11f1-8fc5-335d62f6730b.jpg",
-    "media_type": null,
-    "arabic_title": "مورينيو يصف انتقادات مبابي بالسخيفة",
-    "arabic_summary": "يدافع جوزيه مورينيو عن كيليان مبابي الذي تعرض للتدقيق خلال فترة الاستراحة الدولية.",
-    "translation_status": "translated",
-    "post_title": "مورينيو يصف انتقادات مبابي بالسخيفة",
-    "post_text": "🚨 مورينيو يصف انتقادات مبابي بالسخيفة\n\n📝 يدافع جوزيه مورينيو عن كيليان مبابي الذي تعرض للتدقيق خلال فترة الاستراحة الدولية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1074206551911322",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_يصف_انتقادات_مبابي_بالسخيفة.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/crvg6lx2yj29o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADwC3cth0sY8GciMxygZaMX"
     }
   }
 ]
