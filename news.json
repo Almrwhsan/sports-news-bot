@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las portadas del día: no es milagro, es orgullo",
+    "url": "https://www.marca.com/futbol/album/2026/10/15/portadas-dia-milagro-orgullo.html",
+    "summary": "Así vienen las primeras páginas de este jueves 15 de octubre de 2026",
+    "published": "Thu, 15 Oct 2026 01:56:56 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad016c2154a9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغلفة اليوم: إنها ليست معجزة، إنها فخر",
+    "arabic_summary": "هكذا تأتي الصفحات الأولى لهذا الخميس 15 أكتوبر 2026",
+    "translation_status": "translated",
+    "post_title": "أغلفة اليوم: إنها ليست معجزة، إنها فخر",
+    "post_text": "🚨 أغلفة اليوم: إنها ليست معجزة، إنها فخر\n\n📝 هكذا تأتي الصفحات الأولى لهذا الخميس 15 أكتوبر 2026\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078314334833877",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم_إنها_ليست_معجزة،_إنها_فخر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/album/2026/10/15/portadas-dia-milagro-orgullo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdBvh1zVuo4KxAZBScfDuSv"
+    }
+  },
+  {
     "title": "Cucho: \"Hay que demostrar que estamos para grandes cosas\"",
     "url": "https://www.marca.com/futbol/betis/2026/10/15/cucho-hay-demostrar-grandes-cosas.html",
     "summary": "El delantero anotó su primer gol como verdiblanco en Champions League",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZIQwpvasTTBVAc-S5ybbzr"
-    }
-  },
-  {
-    "title": "América – Medellín hoy, en vivo online: partido de Liga BetPlay, en directo",
-    "url": "https://colombia.as.com/futbol/america-medellin-hoy-en-vivo-online-partido-de-liga-betplay-en-directo-f202610-d/",
-    "summary": "Sigue en vivo online América – Medellín, partido por la jornada 14 de la Liga BetPlay, que se jugará hoy 11 de octubre desde las 8:15 p. m., en el estadio Pascual Guerrero de Cali.",
-    "published": "Mon, 12 Oct 2026 00:02:31 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/536RO7P6YZATFD6XHPAIV7OJXU.jpeg?auth=bd6f2c81e41a523860429fd98776e806ab5e7a9d357de4798747d9ece68fbc78",
-    "media_type": "image/jpeg",
-    "arabic_title": "أمريكا - ميديلين اليوم، مباشر عبر الإنترنت: مباراة BetPlay League، مباشر",
-    "arabic_summary": "تابع América – Medellín مباشرة عبر الإنترنت، مباراة الجولة 14 من BetPlay League، والتي ستقام اليوم 11 أكتوبر، من الساعة 8:15 مساءً. م.، على ملعب باسكوال غيريرو في كالي.",
-    "translation_status": "translated",
-    "post_title": "أمريكا - ميديلين اليوم، مباشر عبر الإنترنت: مباراة BetPlay League، مباشر",
-    "post_text": "🚨 أمريكا - ميديلين اليوم، مباشر عبر الإنترنت: مباراة BetPlay League، مباشر\n\n📝 تابع América – Medellín مباشرة عبر الإنترنت، مباراة الجولة 14 من BetPlay League، والتي ستقام اليوم 11 أكتوبر، من الساعة 8:15 مساءً. م.، على ملعب باسكوال غيريرو في كالي.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075431008455543",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أمريكا_-_ميديلين_اليوم،_مباشر_عبر_الإنترنت_مباراة_BetPlay_League،_مباشر.png",
-    "image_type": "real",
-    "image_source": "https://colombia.as.com/futbol/america-medellin-hoy-en-vivo-online-partido-de-liga-betplay-en-directo-f202610-d/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGepJe52hhfRyfbIqeKj4KN"
     }
   }
 ]
