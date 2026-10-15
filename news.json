@@ -1,5 +1,39 @@
 [
   {
+    "title": "Wardley: Davison could help AJ with 'inside knowledge' of Fury",
+    "url": "https://www.skysports.com/boxing/news/12040/13598936/fury-vs-joshua-ben-davison-can-help-anthony-joshua-with-inside-knowledge-for-tyson-fury-says-fabio-wardley",
+    "summary": "Fabio Wardley suggested trainer Ben Davison could help Anthony Joshua with \"some inside knowledge\" going into his fight with Tyson Fury.",
+    "published": "Thu, 15 Oct 2026 07:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-anthony-joshua-boxing_7376993.jpg?20261014173852",
+    "media_type": "image/jpg",
+    "arabic_title": "واردلي: يمكن أن يساعد دافيسون AJ في \"المعرفة الداخلية\" بفيوري",
+    "arabic_summary": "اقترح فابيو واردلي أن المدرب بن دافيسون يمكنه مساعدة أنتوني جوشوا \"ببعض المعرفة الداخلية\" في معركته مع تايسون فيوري.",
+    "translation_status": "translated",
+    "post_title": "واردلي: يمكن أن يساعد دافيسون AJ في \"المعرفة الداخلية\" بفيوري",
+    "post_text": "🚨 واردلي: يمكن أن يساعد دافيسون AJ في \"المعرفة الداخلية\" بفيوري\n\n📝 اقترح فابيو واردلي أن المدرب بن دافيسون يمكنه مساعدة أنتوني جوشوا \"ببعض المعرفة الداخلية\" في معركته مع تايسون فيوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078538994811411",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/واردلي_يمكن_أن_يساعد_دافيسون_AJ_في_المعرفة_الداخلية_بفيوري.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13598936/fury-vs-joshua-ben-davison-can-help-anthony-joshua-with-inside-knowledge-for-tyson-fury-says-fabio-wardley",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3T0wvYuulndveE_EdMhIt-"
+    }
+  },
+  {
     "title": "Roma da la solución",
     "url": "https://as.com/futbol/champions/roma-da-la-solucion-f202610-n/",
     "summary": "Una remontada imposible con muchas enseñanzas y nombres propios: Güler, Bernardo, Valverde, Endrick, Espí, Diomande...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJCdEsng_0f970AIOWCliTQ"
-    }
-  },
-  {
-    "title": "Sale a la luz el empujón de Vinicius a un empleado de LaLiga tras la roja",
-    "url": "https://as.com/futbol/videos/el-empujon-de-vinicius-a-un-empleado-de-laliga-en-el-tunel-de-vestuarios-no-se-vio-en-tv-f202610-v/",
-    "summary": "El jugador brasileño del Real Madrid abandonó el campo tras su expulsión empujando a un empleado que vigilaba la pantalla del VAR.",
-    "published": "Mon, 12 Oct 2026 07:02:13 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261012/1224404_065920_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "دفعة فينيسيوس لأحد موظفي الدوري الإسباني بعد ظهور البطاقة الحمراء",
-    "arabic_summary": "غادر لاعب ريال مدريد البرازيلي أرض الملعب بعد طرده، ودفع أحد الموظفين الذي كان يراقب شاشة VAR.",
-    "translation_status": "translated",
-    "post_title": "دفعة فينيسيوس لأحد موظفي الدوري الإسباني بعد ظهور البطاقة الحمراء",
-    "post_text": "🚨 دفعة فينيسيوس لأحد موظفي الدوري الإسباني بعد ظهور البطاقة الحمراء\n\n📝 غادر لاعب ريال مدريد البرازيلي أرض الملعب بعد طرده، ودفع أحد الموظفين الذي كان يراقب شاشة VAR.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075912451740732",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دفعة_فينيسيوس_لأحد_موظفي_الدوري_الإسباني_بعد_ظهور_البطاقة_الحمراء.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AByKJ5QEjA5Zt-rSZ5fd1hI"
     }
   }
 ]
