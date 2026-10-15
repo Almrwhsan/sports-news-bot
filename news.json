@@ -1,5 +1,39 @@
 [
   {
+    "title": "Messi suma 427 asistencias y mete a su Inter Miami en los Playoffs de la MLS",
+    "url": "https://www.marca.com/futbol/estados-unidos/2026/10/15/messi-suma-427-asistencias-mete-inter-miami-playoffs-mls.html",
+    "summary": "Leo Messi suma 427 asistencias en su carrera y sigue confirmándose como el futbolista con más pases de gol de la historia del fútbol",
+    "published": "Thu, 15 Oct 2026 05:09:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad0437ac26bb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يضيف ميسي 427 تمريرة حاسمة ويضع فريقه إنتر ميامي في تصفيات الدوري الأمريكي",
+    "arabic_summary": "قدم ليو ميسي 427 تمريرة حاسمة في مسيرته ويواصل تأكيد نفسه كلاعب صاحب أكبر عدد من التمريرات الحاسمة في تاريخ كرة القدم.",
+    "translation_status": "translated",
+    "post_title": "يضيف ميسي 427 تمريرة حاسمة ويضع فريقه إنتر ميامي في تصفيات الدوري الأمريكي",
+    "post_text": "🚨 يضيف ميسي 427 تمريرة حاسمة ويضع فريقه إنتر ميامي في تصفيات الدوري الأمريكي\n\n📝 قدم ليو ميسي 427 تمريرة حاسمة في مسيرته ويواصل تأكيد نفسه كلاعب صاحب أكبر عدد من التمريرات الحاسمة في تاريخ كرة القدم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078495368149107",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يضيف_ميسي_427_تمريرة_حاسمة_ويضع_فريقه_إنتر_ميامي_في_تصفيات_الدوري_الأمريكي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/estados-unidos/2026/10/15/messi-suma-427-asistencias-mete-inter-miami-playoffs-mls.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADYwC3F5TSDf_MjjAJnvW7W"
+    }
+  },
+  {
     "title": "Dos hijas de Maradona piden penas de entre 10 y 15 años de prisión para médicos acusados",
     "url": "https://www.marca.com/futbol/argentina/2026/10/15/dos-hijas-maradona-piden-penas-10-15-anos-prision-medicos-acusados.html",
     "summary": "\"Mataron a un héroe mitológico, a un guerrero capaz de ir y volver del olvido y de la muerte cuando lo deseaba. Y lo hicieron obviamente de una manera muy cobarde\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8ODASW9M_XhyVHrylGRT1H"
-    }
-  },
-  {
-    "title": "“La Fábrica es la mejor cantera del mundo, te mete el gen de competir”",
-    "url": "https://as.com/futbol/champions/la-fabrica-es-la-mejor-cantera-del-mundo-te-mete-el-gen-de-competir-f202610-n/",
-    "summary": "Rafa Marín vuelve este martes a La Cerámica como baluarte del Nápoles de Allegri y el canterano blanco se cita con AS.",
-    "published": "Mon, 12 Oct 2026 07:55:45 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261012/1224419_082034_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "\"المصنع هو أفضل مقلع في العالم، فهو يمنحك الجين الذي يجعلك قادرًا على المنافسة\"",
-    "arabic_summary": "يعود رافا مارين إلى لا سيراميكا يوم الثلاثاء كمعقل لفريق نابولي بقيادة أليجري ويلتقي اللاعب الشاب الأبيض مع AS.",
-    "translation_status": "translated",
-    "post_title": "\"المصنع هو أفضل مقلع في العالم، فهو يمنحك الجين الذي يجعلك قادرًا على المنافسة\"",
-    "post_text": "🚨 \"المصنع هو أفضل مقلع في العالم، فهو يمنحك الجين الذي يجعلك قادرًا على المنافسة\"\n\n📝 يعود رافا مارين إلى لا سيراميكا يوم الثلاثاء كمعقل لفريق نابولي بقيادة أليجري ويلتقي اللاعب الشاب الأبيض مع AS.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075912841740693",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المصنع_هو_أفضل_مقلع_في_العالم،_فهو_يمنحك_الجين_الذي_يجعلك_قادرًا_على_المنافسة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuKUjg3_c62xcfvrkEriz2N"
     }
   }
 ]
