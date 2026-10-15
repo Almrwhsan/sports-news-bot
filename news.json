@@ -1,5 +1,39 @@
 [
   {
+    "title": "Roma da la solución",
+    "url": "https://as.com/futbol/champions/roma-da-la-solucion-f202610-n/",
+    "summary": "Una remontada imposible con muchas enseñanzas y nombres propios: Güler, Bernardo, Valverde, Endrick, Espí, Diomande...",
+    "published": "Thu, 15 Oct 2026 05:44:33 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TCWRJWY7FZDW7EGSTNZQGXALAU.JPG?auth=8be251cee2a07a16cfbfd33e7b2b6842f1bc746b8a4a952e6615c6c5856018f3",
+    "media_type": "image/jpeg",
+    "arabic_title": "روما تقدم الحل",
+    "arabic_summary": "عودة مستحيلة بدروس وأسماء كثيرة: جولر، برناردو، فالفيردي، إندريك، إسبي، ديوماندي...",
+    "translation_status": "translated",
+    "post_title": "روما تقدم الحل",
+    "post_text": "🚨 روما تقدم الحل\n\n📝 عودة مستحيلة بدروس وأسماء كثيرة: جولر، برناردو، فالفيردي، إندريك، إسبي، ديوماندي...\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078527038145940",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روما_تقدم_الحل.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/roma-da-la-solucion-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsasqVumIDkQN_un-pgs4Mv"
+    }
+  },
+  {
     "title": "Kiss vows Wallabies will 'return fire' vs All Blacks | Rennie: Quality win was coming",
     "url": "https://www.skysports.com/rugby-union/australia-vs-new-zealand/preview/111860",
     "summary": "Australia head coach Les Kiss has vowed the Wallabies will \"return fire\" against the All Blacks in Saturday's return Bledisloe Cup Test in Sydney, live on Sky Sports.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AByKJ5QEjA5Zt-rSZ5fd1hI"
-    }
-  },
-  {
-    "title": "Flick, con los mismos que golearon al Getafe",
-    "url": "https://as.com/futbol/champions/flick-con-los-mismos-que-golearon-al-getafe-f202610-n/",
-    "summary": "El técnico alemán repite convocatoria para el partido de Champions en Estambul. Tal como avanzó, Frenkie y Raphinha se quedan en Barcelona para acabar de poner punto final a sus lesiones.",
-    "published": "Mon, 12 Oct 2026 07:27:42 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/G55ZRDCYINPB7NSMA4LCMP3UTU.jpg?auth=6df26f8c4117ae857e816ec378c889e6c9ba8ca76deb713a9e62f88913b39fcf",
-    "media_type": "image/jpeg",
-    "arabic_title": "فليك، مع نفس الفريق الذي فاز على خيتافي",
-    "arabic_summary": "ويكرر المدرب الألماني دعوته لمباراة دوري أبطال أوروبا في إسطنبول. كما ورد، يبقى فرينكي ورافينيا في برشلونة للانتهاء من وضع حد لإصاباتهما.",
-    "translation_status": "translated",
-    "post_title": "فليك، مع نفس الفريق الذي فاز على خيتافي",
-    "post_text": "🚨 فليك، مع نفس الفريق الذي فاز على خيتافي\n\n📝 ويكرر المدرب الألماني دعوته لمباراة دوري أبطال أوروبا في إسطنبول. كما ورد، يبقى فرينكي ورافينيا في برشلونة للانتهاء من وضع حد لإصاباتهما.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075912568407387",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فليك،_مع_نفس_الفريق_الذي_فاز_على_خيتافي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/flick-con-los-mismos-que-golearon-al-getafe-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8XLGkl2SVjKWmwMEnHGRK0"
     }
   }
 ]
