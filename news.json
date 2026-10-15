@@ -1,5 +1,39 @@
 [
   {
+    "title": "Se las traían muy felices y acabó en tragedia: la narración de RAC1 del Roma-Real Madrid que es puro deleite para el madridismo",
+    "url": "https://as.com/futbol/videos/se-las-traian-muy-felices-y-acabo-en-tragedia-la-narracion-de-rac1-del-roma-real-madrid-que-es-puro-deleite-para-el-madridismo-f202610-v/",
+    "summary": "Los compañeros de RAC1 narraron el partido entre Roma-Real Madrid, pasando de la absoluta felicidad con el 3-1 al silencio sepulcral con el 3-4.",
+    "published": "Thu, 15 Oct 2026 10:44:51 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261015/1225744_103450_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "لقد كانوا سعداء للغاية وانتهى الأمر بمأساة: رواية RAC1 عن مباراة روما وريال مدريد هي فرحة خالصة لمشجعي ريال مدريد",
+    "arabic_summary": "روى زملاء فريق RAC1 المباراة بين روما وريال مدريد، والتي انتقلت من السعادة المطلقة بنتيجة 3-1 إلى الصمت المميت بنتيجة 3-4.",
+    "translation_status": "translated",
+    "post_title": "لقد كانوا سعداء للغاية وانتهى الأمر بمأساة: رواية RAC1 عن مباراة روما وريال مدريد هي فرحة خالصة لمشجعي ريال مدريد",
+    "post_text": "🚨 لقد كانوا سعداء للغاية وانتهى الأمر بمأساة: رواية RAC1 عن مباراة روما وريال مدريد هي فرحة خالصة لمشجعي ريال مدريد\n\n📝 روى زملاء فريق RAC1 المباراة بين روما وريال مدريد، والتي انتقلت من السعادة المطلقة بنتيجة 3-1 إلى الصمت المميت بنتيجة 3-4.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078772691454708",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_كانوا_سعداء_للغاية_وانتهى_الأمر_بمأساة_رواية_RAC1_عن_مباراة_روما_وريال_مدريد.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0XsGve6UpxTYxgem2DXnjf"
+    }
+  },
+  {
     "title": "Emili Vicente, el entrenador que convirtió al Andorra en una familia antes de su trágica muerte",
     "url": "https://www.marca.com/futbol/andorra/2026/10/15/emili-vicente-entrenador-convirtio-andorra-familia-tragica-muerte.html",
     "summary": "En el 84 aniversario del club tricolor, cuatro futbolistas recuerdan la temporada 2016-17, cuando el equipo rozó el ascenso a Tercera división",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAzd_ksMlAd_jts1VhgcN0r"
-    }
-  },
-  {
-    "title": "Nadie aprovecha la ausencia de Raphinha para el Pichichi",
-    "url": "https://www.marca.com/futbol/premios-marca/2026/10/12/nadie-aprovecha-ausencia-raphinha-pichichi.html",
-    "summary": "El brasileño sigue en lo más alto de la tabla con 12 goles... pero ninguno de los perseguidores marca",
-    "published": "Mon, 12 Oct 2026 08:19:21 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/11/6acbc2a221af3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لا أحد يستغل غياب رافينيا عن البيتشيتشي",
-    "arabic_summary": "ويظل البرازيلي في صدارة الترتيب برصيد 12 هدفاً...ولكن لم يسجل أي من المنافسين",
-    "translation_status": "translated",
-    "post_title": "لا أحد يستغل غياب رافينيا عن البيتشيتشي",
-    "post_text": "🚨 لا أحد يستغل غياب رافينيا عن البيتشيتشي\n\n📝 ويظل البرازيلي في صدارة الترتيب برصيد 12 هدفاً...ولكن لم يسجل أي من المنافسين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075916731740304",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_أحد_يستغل_غياب_رافينيا_عن_البيتشيتشي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premios-marca/2026/10/12/nadie-aprovecha-ausencia-raphinha-pichichi.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcDXnWjstDFabQNv5e-GLEM"
     }
   }
 ]
