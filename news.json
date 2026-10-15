@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Barça ya no cae ni mal",
+    "url": "https://as.com/opinion/el-barca-ya-no-cae-ni-mal-f202610-n/",
+    "summary": "El Barça ya no cae ni mal",
+    "published": "Thu, 15 Oct 2026 10:50:21 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/G5KGDI5YCVLHDNKRNNTYTJMRZQ.jpg?auth=992e3187137b62dbde8902c9e4b6488081e3fef0556047a83734f52b4f1c9eaf",
+    "media_type": "image/jpeg",
+    "arabic_title": "برشلونة لم يعد يسقط بشكل سيء",
+    "arabic_summary": "برشلونة لم يعد يسقط بشكل سيء",
+    "translation_status": "translated",
+    "post_title": "برشلونة لم يعد يسقط بشكل سيء",
+    "post_text": "🚨 برشلونة لم يعد يسقط بشكل سيء\n\n📝 برشلونة لم يعد يسقط بشكل سيء\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1078719498126694",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_لم_يعد_يسقط_بشكل_سيء.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/el-barca-ya-no-cae-ni-mal-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AU-MZuRVD3vYszLf98bfDN-"
+    }
+  },
+  {
     "title": "Raphinha se reincorpora al trabajo con sus compañeros",
     "url": "https://as.com/futbol/primera/raphinha-se-reincorpora-al-trabajo-con-sus-companeros-f202610-n/",
     "summary": "El brasileño, si los médicos y Flick lo consideran oportuno, podría volver a la convocatoria contra el Betis. Igual que De Jong.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjDLTFaWzjfs_JvXZIu3b0z"
-    }
-  },
-  {
-    "title": "Hancko: “Este Atleti es incluso mejor que la temporada pasada”",
-    "url": "https://as.com/futbol/champions/hancko-este-atleti-es-incluso-mejor-que-la-temporada-pasada-f202610-n/",
-    "summary": "El eslovaco confía en la evolución rojiblanca. “El año pasado estuvimos muy cerca de alcanzar la final y sería fantástico poder hacerlo este”.",
-    "published": "Mon, 12 Oct 2026 12:14:45 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/D3PS6GSL6ZJLPIIQDHN7NB72VU.jpg?auth=2a55a5df96daf95d9012a49ffa8de479bbc61186b71115fadc5752f18e970eba",
-    "media_type": "image/jpeg",
-    "arabic_title": "هانكو: \"هذا الأتليتي أفضل من الموسم الماضي\"",
-    "arabic_summary": "السلوفاكي يثق في التطور الأحمر والأبيض. \"في العام الماضي كنا قريبين جدًا من الوصول إلى النهائي وسيكون من الرائع القيام بذلك هذا العام.\"",
-    "translation_status": "translated",
-    "post_title": "هانكو: \"هذا الأتليتي أفضل من الموسم الماضي\"",
-    "post_text": "🚨 هانكو: \"هذا الأتليتي أفضل من الموسم الماضي\"\n\n📝 السلوفاكي يثق في التطور الأحمر والأبيض. \"في العام الماضي كنا قريبين جدًا من الوصول إلى النهائي وسيكون من الرائع القيام بذلك هذا العام.\"\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1075918251740152",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هانكو_هذا_الأتليتي_أفضل_من_الموسم_الماضي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/hancko-este-atleti-es-incluso-mejor-que-la-temporada-pasada-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASGUeDZN7jqsTmjWKe8CO67"
     }
   }
 ]
