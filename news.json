@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Nou Mestalla concreta su cubierta textil y rediseña las zonas VIP y de prensa",
+    "url": "https://www.marca.com/futbol/valencia/2026/10/16/nou-mestalla-concreta-cubierta-textil-redisena-zonas-vip-prensa.html",
+    "summary": "El Ayuntamiento autoriza la alternativa del proyecto que fija un voladizo de membrana de PVC e introduce cambios en las zonas de Hospitality y de medios de comunicación",
+    "published": "Fri, 16 Oct 2026 12:10:14 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1f5c76094f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يحدد Nou Mestalla غلافه النسيجي ويعيد تصميم مناطق كبار الشخصيات والصحافة",
+    "arabic_summary": "وافق مجلس المدينة على البديل للمشروع الذي يعمل على إصلاح ناتئ غشاء PVC وإدخال تغييرات في مجالات الضيافة والإعلام",
+    "translation_status": "translated",
+    "post_title": "يحدد Nou Mestalla غلافه النسيجي ويعيد تصميم مناطق كبار الشخصيات والصحافة",
+    "post_text": "🚨 يحدد Nou Mestalla غلافه النسيجي ويعيد تصميم مناطق كبار الشخصيات والصحافة\n\n📝 وافق مجلس المدينة على البديل للمشروع الذي يعمل على إصلاح ناتئ غشاء PVC وإدخال تغييرات في مجالات الضيافة والإعلام\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079954314669879",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يحدد_Nou_Mestalla_غلافه_النسيجي_ويعيد_تصميم_مناطق_كبار_الشخصيات_والصحافة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/10/16/nou-mestalla-concreta-cubierta-textil-redisena-zonas-vip-prensa.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Al_AgF5EY-KsZ8FXSYTC2lE"
+    }
+  },
+  {
     "title": "Otro gol pasado el minuto 60 y van ¡13 de 18!",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/10/16/gol-pasado-minuto-60-13-18.html",
     "summary": "La Real se dejó dos puntos muy valiosos con el postrero tanto de la USG y otros días ha visto como la heroica le ha salvado de perderlos por esas dianas al final",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUp0-o0x7c9Rdyxd6LiFfj7"
-    }
-  },
-  {
-    "title": "La segunda vida de las leyendas",
-    "url": "https://as.com/futbol/fotorrelato/la-segunda-vida-de-las-leyendas-f202610-f/",
-    "summary": "Diez grandes estrellas del fútbol que, tras colgar las botas, emprendieron nuevos caminos como entrenadores, empresarios, directivos y comunicadores.",
-    "published": "Mon, 12 Oct 2026 22:14:46 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MEO3NYQLRJCJZG3WNNCOVXD4ZI.jpg?auth=7341422a94919c34aa499b6dc79f444b6c52bcde6ea8ac3715c589beaab42e26",
-    "media_type": "image/jpeg",
-    "arabic_title": "الحياة الثانية للأساطير",
-    "arabic_summary": "عشرة من نجوم كرة القدم العظماء، الذين، بعد اعتزالهم أحذيتهم، شرعوا في مسارات جديدة كمدربين ورجال أعمال ومديرين ومتصلين.",
-    "translation_status": "translated",
-    "post_title": "الحياة الثانية للأساطير",
-    "post_text": "🚨 الحياة الثانية للأساطير\n\n📝 عشرة من نجوم كرة القدم العظماء، الذين، بعد اعتزالهم أحذيتهم، شرعوا في مسارات جديدة كمدربين ورجال أعمال ومديرين ومتصلين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076806608317983",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحياة_الثانية_للأساطير.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/la-segunda-vida-de-las-leyendas-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoeiM46tqFIU37XfdcMAz13"
     }
   }
 ]
