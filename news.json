@@ -1,5 +1,39 @@
 [
   {
+    "title": "Calero: \"Por mucho que alguno diga que el Oviedo no sabe a qué juega, sabe perfectamente a qué juega\"",
+    "url": "https://www.marca.com/futbol/oviedo/2026/10/16/calero-diga-oviedo-juega-perfectamente-juega.html",
+    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
+    "published": "Fri, 16 Oct 2026 12:43:27 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/27/6a907319e2899.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كاليرو: \"مهما قال شخص ما أن أوفييدو لا يعرف ما يلعبه، فهو يعرف جيدًا ما يلعبه\"",
+    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
+    "translation_status": "translated",
+    "post_title": "كاليرو: \"مهما قال شخص ما أن أوفييدو لا يعرف ما يلعبه، فهو يعرف جيدًا ما يلعبه\"",
+    "post_text": "🚨 كاليرو: \"مهما قال شخص ما أن أوفييدو لا يعرف ما يلعبه، فهو يعرف جيدًا ما يلعبه\"\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080078457990798",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاليرو_مهما_قال_شخص_ما_أن_أوفييدو_لا_يعرف_ما_يلعبه،_فهو_يعرف_جيدًا_ما_يلعبه.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/16/calero-diga-oviedo-juega-perfectamente-juega.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJlkRxE0ajNO_Y3EB9U7Gu7"
+    }
+  },
+  {
     "title": "Ferran, al descubierto",
     "url": "https://www.marca.com/futbol/psg/album/2026/10/16/ferran-descubierto.html",
     "summary": "Ferran Torres se ha convertido en el protagonista de una campaña de moda en la que posa como imagen y embajador la línea Iuman Intimissimi de la popular firma italiana de ropa interior masculina",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0c-qMmHsR0x-EJGYjGKsR1"
-    }
-  },
-  {
-    "title": "“¿Ganar al Real Madrid? En el fútbol pueden pasar muchas cosas\"",
-    "url": "https://as.com/futbol/internacional/ganar-al-real-madrid-en-el-futbol-pueden-pasar-muchas-cosas-f202610-n/",
-    "summary": "Javier Cordero, fisioterapeuta del LASK, atiende a AS tras la histórica clasificación del equipo austriaco a la Champions League y antes del partido contra el Real Madrid.",
-    "published": "Mon, 12 Oct 2026 21:57:05 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/S7M2BAXBQNHNPBUTIYTHGUWG5A.jpeg?auth=d001b57279c3add383818a5843a3180ed6eac621396847bcedad70a76755103c",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"هل تريد الفوز على ريال مدريد؟ أشياء كثيرة يمكن أن تحدث في كرة القدم.\"",
-    "arabic_summary": "خافيير كورديرو، أخصائي العلاج الطبيعي في لاسك، يعالج AS بعد التأهل التاريخي للفريق النمساوي إلى دوري أبطال أوروبا وقبل المباراة ضد ريال مدريد.",
-    "translation_status": "translated",
-    "post_title": "\"هل تريد الفوز على ريال مدريد؟ أشياء كثيرة يمكن أن تحدث في كرة القدم.\"",
-    "post_text": "🚨 \"هل تريد الفوز على ريال مدريد؟ أشياء كثيرة يمكن أن تحدث في كرة القدم.\"\n\n📝 خافيير كورديرو، أخصائي العلاج الطبيعي في لاسك، يعالج AS بعد التأهل التاريخي للفريق النمساوي إلى دوري أبطال أوروبا وقبل المباراة ضد ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076888321643145",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_تريد_الفوز_على_ريال_مدريد؟_أشياء_كثيرة_يمكن_أن_تحدث_في_كرة_القدم..png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/ganar-al-real-madrid-en-el-futbol-pueden-pasar-muchas-cosas-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A3_wB5zJuwxn6a8CjkhLWTL"
     }
   }
 ]
