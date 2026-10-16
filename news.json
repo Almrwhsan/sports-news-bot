@@ -1,5 +1,39 @@
 [
   {
+    "title": "Paulinho está de moda",
+    "url": "https://as.com/futbol/internacional/paulinho-esta-de-moda-f202610-n/",
+    "summary": "El exfutbolista del Barcelona, ahora director deportivo, es la última adquisición de Cruzeiro para que el proyecto del club sea más ambicioso.",
+    "published": "Fri, 16 Oct 2026 10:48:32 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KGEZKEJXMVATVFUPSBXKHE4DPA.jpg?auth=df49f5a34f189579e677360302845224e039b3631556331bdd0223773d92dfbf",
+    "media_type": "image/jpeg",
+    "arabic_title": "باولينيو في الموضة",
+    "arabic_summary": "ويعد لاعب كرة القدم السابق في برشلونة، والذي يشغل الآن منصب المدير الرياضي، أحدث عملية استحواذ لشركة كروزيرو لجعل مشروع النادي أكثر طموحًا.",
+    "translation_status": "translated",
+    "post_title": "باولينيو في الموضة",
+    "post_text": "🚨 باولينيو في الموضة\n\n📝 ويعد لاعب كرة القدم السابق في برشلونة، والذي يشغل الآن منصب المدير الرياضي، أحدث عملية استحواذ لشركة كروزيرو لجعل مشروع النادي أكثر طموحًا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079651464700164",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باولينيو_في_الموضة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/paulinho-esta-de-moda-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUoTY0O7CsXxAQ3ASROSgrn"
+    }
+  },
+  {
     "title": "Bellingham, hasta 2031",
     "url": "https://as.com/futbol/primera/bellingham-hasta-2031-f202610-n/",
     "summary": "El internacional inglés, además, verá mejorado su contrato, acorde a la importancia y el impacto de su juego.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "An1WRwnrQbUfqkOH9Gy4Ubs"
-    }
-  },
-  {
-    "title": "El \"niño bonito\" de Luis Enrique y Zidane: \"Amo todo de él, todo\"",
-    "url": "https://www.marca.com/futbol/2026/10/12/nino-bonito-luis-enrique-zidane-am-video.html",
-    "summary": "",
-    "published": "Mon, 12 Oct 2026 16:17:50 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/61gpEiD_fcHIu.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"الفتى الجميل\" للويس إنريكي وزيدان: \"أحب كل شيء فيه، كل شيء\"",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "\"الفتى الجميل\" للويس إنريكي وزيدان: \"أحب كل شيء فيه، كل شيء\"",
-    "post_text": "🚨 \"الفتى الجميل\" للويس إنريكي وزيدان: \"أحب كل شيء فيه، كل شيء\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076310171700960",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفتى_الجميل_للويس_إنريكي_وزيدان_أحب_كل_شيء_فيه،_كل_شيء.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/12/nino-bonito-luis-enrique-zidane-am-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMHgZx7vucxKGyfEaZ5xStl"
     }
   }
 ]
