@@ -1,5 +1,39 @@
 [
   {
+    "title": "Atlético, ritmo de campeonato",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/16/atletico-ritmo-campeonato.html",
+    "summary": "Los rojiblancos, que buscan la quinta victoria seguida, llevan a estas alturas sólo un punto menos que el año que logró su última Liga. Objetivo recortar en el Clásico",
+    "published": "Fri, 16 Oct 2026 08:05:04 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/6acfc5ee6a3d0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وتيرة البطولة الرياضية",
+    "arabic_summary": "الروخيبلانكوس، الذين يبحثون عن فوزهم الخامس على التوالي، في هذه المرحلة أقل بنقطة واحدة فقط من العام الذي فازوا فيه بالدوري الأخير. الهدف هو القطع في الكلاسيكو",
+    "translation_status": "translated",
+    "post_title": "وتيرة البطولة الرياضية",
+    "post_text": "🚨 وتيرة البطولة الرياضية\n\n📝 الروخيبلانكوس، الذين يبحثون عن فوزهم الخامس على التوالي، في هذه المرحلة أقل بنقطة واحدة فقط من العام الذي فازوا فيه بالدوري الأخير. الهدف هو القطع في الكلاسيكو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079774764687834",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وتيرة_البطولة_الرياضية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/16/atletico-ritmo-campeonato.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqLTSJTBnFGfj6ZE7MuUXTe"
+    }
+  },
+  {
     "title": "Ser delantero del Valencia, hoy: solo un gol de un '9'... mientras sí rinden en los otros 19 equipos",
     "url": "https://www.marca.com/futbol/valencia/2026/10/16/delantero-valencia-hoy-gol-9-rinden-otros-19-equipos.html",
     "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvVbnMVzQynGlkmm1Ar92gY"
-    }
-  },
-  {
-    "title": "Bellingham se dispone a cortar un jamón y vean lo que sucede",
-    "url": "https://as.com/tikitakas/videos/la-tecnica-de-bellingham-cortando-una-pata-de-jamon-que-ha-generado-todo-tipo-de-comentarios-f202610-v/",
-    "summary": "La empresa Andares Gourmet ha estado hoy en Valdebebas y ha grabado al inglés cortando una buena pata de jamón.",
-    "published": "Mon, 12 Oct 2026 17:13:54 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261012/1224540_170907_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "بيلينجهام على وشك قطع لحم الخنزير ورؤية ما سيحدث",
-    "arabic_summary": "كانت شركة Andares Gourmet في فالديبيباس اليوم وسجلت الرجل الإنجليزي وهو يقطع ساقًا جيدة من لحم الخنزير.",
-    "translation_status": "translated",
-    "post_title": "بيلينجهام على وشك قطع لحم الخنزير ورؤية ما سيحدث",
-    "post_text": "🚨 بيلينجهام على وشك قطع لحم الخنزير ورؤية ما سيحدث\n\n📝 كانت شركة Andares Gourmet في فالديبيباس اليوم وسجلت الرجل الإنجليزي وهو يقطع ساقًا جيدة من لحم الخنزير.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076687768329867",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيلينجهام_على_وشك_قطع_لحم_الخنزير_ورؤية_ما_سيحدث.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApIIFbFt1H3J3ZRSCd7U2wQ"
     }
   }
 ]
