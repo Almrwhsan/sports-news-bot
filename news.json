@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kochorashvili, entre algodones a dos días del encuentro del Bernabéu",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/16/kochorashvili-algodones-dos-dias-encuentro-bernabeu.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Fri, 16 Oct 2026 12:19:33 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1ec02f128e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كوخوراشفيلي، بين القطنات قبل يومين من مباراة البرنابيو",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "كوخوراشفيلي، بين القطنات قبل يومين من مباراة البرنابيو",
+    "post_text": "🚨 كوخوراشفيلي، بين القطنات قبل يومين من مباراة البرنابيو\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080004124664898",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوخوراشفيلي،_بين_القطنات_قبل_يومين_من_مباراة_البرنابيو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/16/kochorashvili-algodones-dos-dias-encuentro-bernabeu.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtpwGGuh57Ll26n-ZZPzbI7"
+    }
+  },
+  {
     "title": "Is Mahomes entering Brady-like second half of career?",
     "url": "https://www.skysports.com/nfl/news/12040/13599523/patrick-mahomes-is-kansas-city-chiefs-quarterback-entering-tom-brady-like-second-half-of-hall-of-fame-career",
     "summary": "Have you forgotten about the career Patrick Mahomes is putting together?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A01GVcTcXsQPUUgHqrl7zpQ"
-    }
-  },
-  {
-    "title": "Rueda de prensa de Hansi Flick, en directo: declaraciones previas al Galatasaray - Barcelona de Champions",
-    "url": "https://as.com/futbol/champions/rueda-de-prensa-de-hansi-flick-en-directo-declaraciones-previas-al-galatasaray-barcelona-de-champions-f202610-d/",
-    "summary": "Sigue en directo la rueda de prensa de Hansi Flick previa al Galatasaray - Barcelona, partido de la fase liga de la Champions League.",
-    "published": "Mon, 12 Oct 2026 14:55:01 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=bKzbmd_u2mI",
-    "media_type": "application/octet-stream",
-    "arabic_title": "المؤتمر الصحفي لهانسي فليك، مباشر: تصريحات قبل مباراة غلطة سراي - برشلونة دوري أبطال أوروبا",
-    "arabic_summary": "تابعوا المؤتمر الصحفي لهانسي فليك مباشرة قبل مباراة غلطة سراي وبرشلونة، مباراة في مرحلة الدوري بدوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "المؤتمر الصحفي لهانسي فليك، مباشر: تصريحات قبل مباراة غلطة سراي - برشلونة دوري أبطال أوروبا",
-    "post_text": "🚨 المؤتمر الصحفي لهانسي فليك، مباشر: تصريحات قبل مباراة غلطة سراي - برشلونة دوري أبطال أوروبا\n\n📝 تابعوا المؤتمر الصحفي لهانسي فليك مباشرة قبل مباراة غلطة سراي وبرشلونة، مباراة في مرحلة الدوري بدوري أبطال أوروبا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076813724983938",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لهانسي_فليك،_مباشر_تصريحات_قبل_مباراة_غلطة_سراي_-_برشلونة_دوري_أب.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AH2wkvHIZ6aDTtr700HvBhv"
     }
   }
 ]
