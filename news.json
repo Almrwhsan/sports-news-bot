@@ -1,5 +1,39 @@
 [
   {
+    "title": "\"Hágala usted\": la reacción de Juan Manuel Rodríguez cuando le preguntaron por su 'primer' once en Las Palmas",
+    "url": "https://www.marca.com/futbol/las-palmas/2026/10/16/reaccion-juan-manuel-rodriguez-le-preguntaron-primer-once-palmas-video.html",
+    "summary": "",
+    "published": "Fri, 16 Oct 2026 13:25:16 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/g5VqI1gqW4j6L_btf.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"افعل ذلك بنفسك\": رد فعل خوان مانويل رودريغيز عندما سُئل عن أول أحد عشر مباراة له في لاس بالماس",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "\"افعل ذلك بنفسك\": رد فعل خوان مانويل رودريغيز عندما سُئل عن أول أحد عشر مباراة له في لاس بالماس",
+    "post_text": "🚨 \"افعل ذلك بنفسك\": رد فعل خوان مانويل رودريغيز عندما سُئل عن أول أحد عشر مباراة له في لاس بالماس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080125787986065",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/افعل_ذلك_بنفسك_رد_فعل_خوان_مانويل_رودريغيز_عندما_سُئل_عن_أول_أحد_عشر_مباراة_له_ف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/las-palmas/2026/10/16/reaccion-juan-manuel-rodriguez-le-preguntaron-primer-once-palmas-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwVqUNCJnYZh64wo1chWq89"
+    }
+  },
+  {
     "title": "Uruguay y Costa Rica, próximos rivales de Argentina",
     "url": "https://as.com/futbol/internacional/uruguay-y-costa-rica-proximos-rivales-de-argentina-f202610-n/",
     "summary": "La Albiceleste disputará los amistosos el 13 y el 17 de noviembre. Será la primera ventana internacional sin Messi. Se cumple así con una de las exigencias de Scaloni: competir contra “rivales potentes”",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABYE2-LopZK1ypqjEt93iMi"
-    }
-  },
-  {
-    "title": "Fallece el exfutbolista del Racing 'Chisco",
-    "url": "https://www.marca.com/futbol/racing-santander/2026/10/13/fallece-exfutbolista-racing-chisco.html",
-    "summary": "Militó en el club de 1965 a 1971",
-    "published": "Tue, 13 Oct 2026 09:09:35 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6acdd929250bc.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "وفاة لاعب فريق راسينغ شيسكو السابق",
-    "arabic_summary": "لعب للنادي من عام 1965 إلى عام 1971",
-    "translation_status": "translated",
-    "post_title": "وفاة لاعب فريق راسينغ شيسكو السابق",
-    "post_text": "🚨 وفاة لاعب فريق راسينغ شيسكو السابق\n\n📝 لعب للنادي من عام 1965 إلى عام 1971\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076999808298663",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وفاة_لاعب_فريق_راسينغ_شيسكو_السابق.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/racing-santander/2026/10/13/fallece-exfutbolista-racing-chisco.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ahe4LzKMwbe2bwI8Kb0Urca"
     }
   }
 ]
