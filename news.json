@@ -1,5 +1,39 @@
 [
   {
+    "title": "Chirino antepuso el Almería a un Mundial con Curazao",
+    "url": "https://www.marca.com/futbol/almeria/2026/10/16/chirino-antepuso-almeria-mundial-curazao.html",
+    "summary": "El lateral neerlandés desvela que rechazó jugar con la selección caribeña durante la fase clasificatoria para centrarse en el ascenso",
+    "published": "Fri, 16 Oct 2026 10:18:57 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1dde891d88.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وضع شيرينو ألميريا قبل كأس العالم مع كوراساو",
+    "arabic_summary": "كشف الظهير الهولندي أنه رفض اللعب مع المنتخب الكاريبي خلال مرحلة التصفيات للتركيز على الصعود",
+    "translation_status": "translated",
+    "post_title": "وضع شيرينو ألميريا قبل كأس العالم مع كوراساو",
+    "post_text": "🚨 وضع شيرينو ألميريا قبل كأس العالم مع كوراساو\n\n📝 كشف الظهير الهولندي أنه رفض اللعب مع المنتخب الكاريبي خلال مرحلة التصفيات للتركيز على الصعود\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079865468012097",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وضع_شيرينو_ألميريا_قبل_كأس_العالم_مع_كوراساو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/almeria/2026/10/16/chirino-antepuso-almeria-mundial-curazao.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEUqtZWq6AJhZ4t9zCjB2gM"
+    }
+  },
+  {
     "title": "Abde y Valles, entre los candidatos al mejor gol y mejor parada de la jornada de Champions",
     "url": "https://www.marca.com/futbol/betis/2026/10/16/abde-valles-candidatos-mejor-gol-mejor-parada-jornada-champions.html",
     "summary": "La UEFA toma nota e incluye a los verdiblancos entre los mejores de la segunda fecha",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aa0del64EytmGijv5MablHs"
-    }
-  },
-  {
-    "title": "El Larguero, en directo: tensión entre el Real Madrid y el arbitraje y vuelve la Champions",
-    "url": "https://as.com/videos/mas_videos/el-larguero-en-directo-tension-entre-el-real-madrid-y-el-arbitraje-y-vuelve-la-champions-f202610-v/",
-    "summary": "Disfruta en vivo con las novedades y la última hora de todo el deporte. El Larguero, el programa líder de la radio deportiva nocturna.",
-    "published": "Mon, 12 Oct 2026 20:24:17 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=m4lqfgPyIU0",
-    "media_type": "application/octet-stream",
-    "arabic_title": "إل لارغويرو مباشر: توتر بين ريال مدريد والتحكيم وعودة دوري أبطال أوروبا",
-    "arabic_summary": "استمتع بالأخبار الحية وآخر الأخبار في جميع الألعاب الرياضية. El Larguero، البرنامج الرائد في الإذاعة الرياضية الليلية.",
-    "translation_status": "translated",
-    "post_title": "إل لارغويرو مباشر: توتر بين ريال مدريد والتحكيم وعودة دوري أبطال أوروبا",
-    "post_text": "🚨 إل لارغويرو مباشر: توتر بين ريال مدريد والتحكيم وعودة دوري أبطال أوروبا\n\n📝 استمتع بالأخبار الحية وآخر الأخبار في جميع الألعاب الرياضية. El Larguero، البرنامج الرائد في الإذاعة الرياضية الليلية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076761644989146",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إل_لارغويرو_مباشر_توتر_بين_ريال_مدريد_والتحكيم_وعودة_دوري_أبطال_أوروبا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ACzt-hH54LwreTFlflUGumM"
     }
   }
 ]
