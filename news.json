@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arabia Saudí mantiene la Copa Asia pese a la escalada en el conflicto bélico de la zona",
+    "url": "https://www.marca.com/futbol/2026/10/16/arabia-saudi-mantiene-copa-asia-pese-escalada-conflicto-belicon-zona.html",
+    "summary": "El torneo continental convocará a jugadores como Kang-in (Atlético)",
+    "published": "Fri, 16 Oct 2026 11:11:55 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1e8248f9e1.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وتحتفظ السعودية بكأس آسيا رغم تصاعد الصراع الحربي في المنطقة",
+    "arabic_summary": "ستستدعي البطولة القارية لاعبين مثل كانغ إن (أتلتيكو)",
+    "translation_status": "translated",
+    "post_title": "وتحتفظ السعودية بكأس آسيا رغم تصاعد الصراع الحربي في المنطقة",
+    "post_text": "🚨 وتحتفظ السعودية بكأس آسيا رغم تصاعد الصراع الحربي في المنطقة\n\n📝 ستستدعي البطولة القارية لاعبين مثل كانغ إن (أتلتيكو)\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079890568009587",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وتحتفظ_السعودية_بكأس_آسيا_رغم_تصاعد_الصراع_الحربي_في_المنطقة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/16/arabia-saudi-mantiene-copa-asia-pese-escalada-conflicto-belicon-zona.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqDKvyvbydQbQxifazUXyBV"
+    }
+  },
+  {
     "title": "Clara Serrajordi, nominada para el Golden Girl",
     "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/10/16/clara-serrajordi-nominada-golden-girl.html",
     "summary": "La jugadora del Barcelona está entre las diez candidatas junto a sus compañeras Sydney Schertenleib o Giulia Galli, amén de la madridista Felicia Schröder",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQeFGTszOOqdcTtk5EYehGj"
-    }
-  },
-  {
-    "title": "Dela lidera la épica reacción del Levante",
-    "url": "https://as.com/futbol/primera/dela-lidera-la-epica-reaccion-del-levante-f202610-n/",
-    "summary": "El central marcó el 2-2 y un disparo suyo acabó en el rechace que le cayó a Ndukwe para empatar. Isaac, expulsado por dirigirse a la grada tras marcar.",
-    "published": "Mon, 12 Oct 2026 21:17:11 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "ديلا يقود رد فعل ليفانتي الملحمي",
-    "arabic_summary": "جعل قلب الدفاع النتيجة 2-2 وانتهت تسديدته المرتدة إلى ندوكوي ليدرك التعادل. إسحاق، يُطرد بسبب ذهابه إلى المدرجات بعد تسجيله.",
-    "translation_status": "translated",
-    "post_title": "ديلا يقود رد فعل ليفانتي الملحمي",
-    "post_text": "🚨 ديلا يقود رد فعل ليفانتي الملحمي\n\n📝 جعل قلب الدفاع النتيجة 2-2 وانتهت تسديدته المرتدة إلى ندوكوي ليدرك التعادل. إسحاق، يُطرد بسبب ذهابه إلى المدرجات بعد تسجيله.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076771631654814",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديلا_يقود_رد_فعل_ليفانتي_الملحمي.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AePeMtN68R4AiVX98onLxKc"
     }
   }
 ]
