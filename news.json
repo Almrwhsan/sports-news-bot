@@ -1,5 +1,39 @@
 [
   {
+    "title": "Roberto regresa al RCDE Stadium con un nuevo cuadro bajo el brazo",
+    "url": "https://as.com/futbol/primera/roberto-regresa-al-rcde-stadium-con-un-nuevo-cuadro-bajo-el-brazo-f202610-n/",
+    "summary": "La visita del Atlético de Madrid, el equipo de su admirado Fernando Torres, será el primer partido del ‘pichichi’ del Espanyol en casa desde su debut en la Selección española.",
+    "published": "Fri, 16 Oct 2026 16:10:47 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5YT3GIADJBNO3NO5TYWKHOHNZE.jpg?auth=cbedb8078580ff3c6d2b551dd2f0b830f3b6bc789fb2ec051d9645aa873f4080",
+    "media_type": "image/jpeg",
+    "arabic_title": "يعود روبرتو إلى ملعب RCDE بلوحة جديدة تحت ذراعه",
+    "arabic_summary": "ستكون زيارة أتلتيكو مدريد، فريق فرناندو توريس المحبوب، أول مباراة لهداف إسبانيول على أرضه منذ أول ظهور له مع المنتخب الإسباني.",
+    "translation_status": "translated",
+    "post_title": "يعود روبرتو إلى ملعب RCDE بلوحة جديدة تحت ذراعه",
+    "post_text": "🚨 يعود روبرتو إلى ملعب RCDE بلوحة جديدة تحت ذراعه\n\n📝 ستكون زيارة أتلتيكو مدريد، فريق فرناندو توريس المحبوب، أول مباراة لهداف إسبانيول على أرضه منذ أول ظهور له مع المنتخب الإسباني.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079906211341356",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_روبرتو_إلى_ملعب_RCDE_بلوحة_جديدة_تحت_ذراعه.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/roberto-regresa-al-rcde-stadium-con-un-nuevo-cuadro-bajo-el-brazo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcyefYvSVmzSolf0B6ZiKfu"
+    }
+  },
+  {
     "title": "Mallorca reúne al futuro del fútbol femenino mundial en la octava East Mallorca Girls Cup",
     "url": "https://www.marca.com/futbol/futbol-femenino/2026/10/16/mallorca-reune-futuro-futbol-femenino-mundial-octava-east-mallorca-girls-cup.html",
     "summary": "Más de 70 equipos de cerca de 20 nacionalidades participan en uno de los torneos internacionales de referencia del fútbol femenino de base",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWZi8Ki-q9X1_JVDv2BqqP9"
-    }
-  },
-  {
-    "title": "A este Eldense no se le puede dejar con vida porque resucita",
-    "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/10/eldense-le-pude-dejar-vida.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Sat, 10 Oct 2026 20:28:26 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/10/185130.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لا يمكن ترك هذا Eldense على قيد الحياة لأنه قام",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "لا يمكن ترك هذا Eldense على قيد الحياة لأنه قام",
-    "post_text": "🚨 لا يمكن ترك هذا Eldense على قيد الحياة لأنه قام\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076795764985734",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_يمكن_ترك_هذا_Eldense_على_قيد_الحياة_لأنه_قام.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/10/eldense-le-pude-dejar-vida.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqQTmFMCNOEYjJWNnh3PgYu"
     }
   }
 ]
