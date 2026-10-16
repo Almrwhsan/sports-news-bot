@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rugby League World Cup 2026: Samoa rout France in men's competition",
+    "url": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+    "summary": "",
+    "published": "Fri, 16 Oct 2026 11:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-rugby-league-world-cup_7376612.jpg?20261014100649",
+    "media_type": "image/jpg",
+    "arabic_title": "كأس العالم لدوري الرجبي 2026: ساموا تهزم فرنسا في منافسات الرجال",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "كأس العالم لدوري الرجبي 2026: ساموا تهزم فرنسا في منافسات الرجال",
+    "post_text": "🚨 كأس العالم لدوري الرجبي 2026: ساموا تهزم فرنسا في منافسات الرجال\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1079625891369388",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كأس_العالم_لدوري_الرجبي_2026_ساموا_تهزم_فرنسا_في_منافسات_الرجال.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEX-VPYxySFrrvCrCi7Pmtj"
+    }
+  },
+  {
     "title": "Oblak nunca se fue",
     "url": "https://as.com/futbol/primera/oblak-nunca-se-fue-f202610-n/",
     "summary": "El Atleti “en construcción”, como lo define el Cholo, crece sobre las intervenciones del esloveno. Puerta a cero ante el United con cuatro paradas. Jan está ya a solo cinco partidos de los 553 de Adelardo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ACfA8QjmuiTS4hM1jaL3Qsu"
-    }
-  },
-  {
-    "title": "Four Super League clubs show support for NRL deal after Leigh criticism",
-    "url": "https://www.skysports.com/rugby-league/news/12040/13598221/leeds-rhinos-st-helens-hull-kr-hull-fc-release-statements-in-support-of-nrl-investment-after-leigh-leopards-owner-comes-out-against-deal",
-    "summary": "Leeds Rhinos, St Helens, Hull KR and Hull FC have released statements in favour of the NRL's investment in Super League after Leigh Leopards owner Derek Beaumont came out against the deal on social media.",
-    "published": "Mon, 12 Oct 2026 16:35:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-peter-vlandys-rugby-league_7320759.jpg?20260813160933",
-    "media_type": "image/jpg",
-    "arabic_title": "تظهر أربعة أندية من الدوري الممتاز دعمها لصفقة NRL بعد انتقادات لي",
-    "arabic_summary": "أصدر كل من Leeds Rhinos وSt Helens وHull KR وHull FC بيانات لصالح استثمار NRL في الدوري الممتاز بعد أن عارض مالك Leigh Leopards Derek Beaumont الصفقة على وسائل التواصل الاجتماعي.",
-    "translation_status": "translated",
-    "post_title": "تظهر أربعة أندية من الدوري الممتاز دعمها لصفقة NRL بعد انتقادات لي",
-    "post_text": "🚨 تظهر أربعة أندية من الدوري الممتاز دعمها لصفقة NRL بعد انتقادات لي\n\n📝 أصدر كل من Leeds Rhinos وSt Helens وHull KR وHull FC بيانات لصالح استثمار NRL في الدوري الممتاز بعد أن عارض مالك Leigh Leopards Derek Beaumont الصفقة على وسائل التواصل الاجتماعي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076304395034871",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تظهر_أربعة_أندية_من_الدوري_الممتاز_دعمها_لصفقة_NRL_بعد_انتقادات_لي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-league/news/12040/13598221/leeds-rhinos-st-helens-hull-kr-hull-fc-release-statements-in-support-of-nrl-investment-after-leigh-leopards-owner-comes-out-against-deal",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AiZk1QeHj0XY09fP3zK8TJa"
     }
   }
 ]
