@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arteta: Arsenal will take new team photo including Saliba",
+    "url": "https://www.skysports.com/football/news/12040/13599972/mikel-arteta-says-arsenal-plan-to-take-another-team-photo-including-william-saliba-after-defenders-omission",
+    "summary": "Mikel Arteta says Arsenal will take a new team photograph including William Saliba after the defender's surprise absence from the one published this week.",
+    "published": "Fri, 16 Oct 2026 14:30:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-william-saliba_7260206.jpg?20260528122151",
+    "media_type": "image/jpg",
+    "arabic_title": "أرتيتا: أرسنال سيلتقط صورة الفريق الجديد بما في ذلك صليبا",
+    "arabic_summary": "يقول ميكيل أرتيتا إن أرسنال سيلتقط صورة جديدة للفريق بما في ذلك ويليام صليبا بعد الغياب المفاجئ للمدافع عن الصورة المنشورة هذا الأسبوع.",
+    "translation_status": "translated",
+    "post_title": "أرتيتا: أرسنال سيلتقط صورة الفريق الجديد بما في ذلك صليبا",
+    "post_text": "🚨 أرتيتا: أرسنال سيلتقط صورة الفريق الجديد بما في ذلك صليبا\n\n📝 يقول ميكيل أرتيتا إن أرسنال سيلتقط صورة جديدة للفريق بما في ذلك ويليام صليبا بعد الغياب المفاجئ للمدافع عن الصورة المنشورة هذا الأسبوع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080128357985808",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أرتيتا_أرسنال_سيلتقط_صورة_الفريق_الجديد_بما_في_ذلك_صليبا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13599972/mikel-arteta-says-arsenal-plan-to-take-another-team-photo-including-william-saliba-after-defenders-omission",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AobfgKTgtbohKm4ps-2FM2W"
+    }
+  },
+  {
     "title": "\"Hágala usted\": la reacción de Juan Manuel Rodríguez cuando le preguntaron por su 'primer' once en Las Palmas",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/16/reaccion-juan-manuel-rodriguez-le-preguntaron-primer-once-palmas-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-jL3YCStg2aDhGv1rMjosT"
-    }
-  },
-  {
-    "title": "A qué hora es el Galatasaray - Barcelona: horario y dónde ver hoy en TV el partido de Champions League",
-    "url": "https://www.marca.com/futbol/barcelona/2026/10/13/que-hora-galatasaray-barcelona-horario-donde-ver-hoy-tv-partido-champions-league.html",
-    "summary": "Los culés visitan al equipo turco en la segunda jornada de la máxima competición europea",
-    "published": "Tue, 13 Oct 2026 08:45:52 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accee115b259.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ما هو وقت غلطة سراي - برشلونة: الجدول الزمني ومكان مشاهدة مباراة دوري أبطال أوروبا على شاشة التلفزيون اليوم",
-    "arabic_summary": "يزور فريق culés الفريق التركي في اليوم الثاني من المسابقة الأوروبية الكبرى",
-    "translation_status": "translated",
-    "post_title": "ما هو وقت غلطة سراي - برشلونة: الجدول الزمني ومكان مشاهدة مباراة دوري أبطال أوروبا على شاشة التلفزيون اليوم",
-    "post_text": "🚨 ما هو وقت غلطة سراي - برشلونة: الجدول الزمني ومكان مشاهدة مباراة دوري أبطال أوروبا على شاشة التلفزيون اليوم\n\n📝 يزور فريق culés الفريق التركي في اليوم الثاني من المسابقة الأوروبية الكبرى\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1076999648298679",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هو_وقت_غلطة_سراي_-_برشلونة_الجدول_الزمني_ومكان_مشاهدة_مباراة_دوري_أبطال_أوروب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/13/que-hora-galatasaray-barcelona-horario-donde-ver-hoy-tv-partido-champions-league.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABYE2-LopZK1ypqjEt93iMi"
     }
   }
 ]
