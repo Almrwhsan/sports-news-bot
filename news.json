@@ -1,5 +1,39 @@
 [
   {
+    "title": "Clasificación de LaLiga EA Sports 2026/2027, en directo: jornada 9, ahora en vivo",
+    "url": "https://as.com/resultados/futbol/primera/clasificacion",
+    "summary": "Así marcha la tabla de Primera División, la lucha por el título, los puestos de Champions y Europa, el descenso...",
+    "published": "Fri, 16 Oct 2026 20:24:39 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UIG6STBWNZCD3DAQG6LYGONOPA.jpg?auth=8796df6f08b6c2d239140f4e608fd7b81cf7cc71b3101d187ddc38ae303b37cc",
+    "media_type": "image/jpeg",
+    "arabic_title": "تصنيف الدوري الإسباني EA Sports 2026/2027، مباشر: الجولة 9، مباشر الآن",
+    "arabic_summary": "هكذا تسير الأمور في جدول الدرجة الأولى، الصراع على اللقب، الأبطال والمراكز الأوروبية، الهبوط...",
+    "translation_status": "translated",
+    "post_title": "تصنيف الدوري الإسباني EA Sports 2026/2027، مباشر: الجولة 9، مباشر الآن",
+    "post_text": "🚨 تصنيف الدوري الإسباني EA Sports 2026/2027، مباشر: الجولة 9، مباشر الآن\n\n📝 هكذا تسير الأمور في جدول الدرجة الأولى، الصراع على اللقب، الأبطال والمراكز الأوروبية، الهبوط...\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080553397943304",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تصنيف_الدوري_الإسباني_EA_Sports_20262027،_مباشر_الجولة_9،_مباشر_الآن.png",
+    "image_type": "real",
+    "image_source": "https://as.com/resultados/futbol/primera/clasificacion",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArbsibmHiD_1B-NShdDeVKN"
+    }
+  },
+  {
     "title": "Hamza no viaja a Sevilla",
     "url": "https://as.com/futbol/hamza-no-viaja-a-sevilla-f202610-n/",
     "summary": "Hansi Flick se lleva a 23 futbolistas para jugar contra el Betis, con el único descarte del joven delantero egipcio, que participará con el filial.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-YfR62tfmzcqqtcrFREh7w"
-    }
-  },
-  {
-    "title": "El Sabadell, un equipo sin vértigo que no deja de mirar hacia arriba",
-    "url": "https://www.marca.com/futbol/sabadell/2026/10/13/sabadell-equipo-vertigo-deja-mirar.html",
-    "summary": "Los arlequinados, de Segunda Federación hace apenas dos años, se han asentado en puestos de 'playoffs'",
-    "published": "Tue, 13 Oct 2026 11:18:21 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6acdf6de2d50e.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ساباديل، فريق بلا دوار ولا يتوقف أبدًا عن التطلع إلى الأعلى",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "ساباديل، فريق بلا دوار ولا يتوقف أبدًا عن التطلع إلى الأعلى",
-    "post_text": "🚨 ساباديل، فريق بلا دوار ولا يتوقف أبدًا عن التطلع إلى الأعلى\n\n📝 Los arlequinados, de Segunda Federación hace apenas dos años, se han asentado en puestos de 'playoffs'\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077059264959384",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساباديل،_فريق_بلا_دوار_ولا_يتوقف_أبدًا_عن_التطلع_إلى_الأعلى.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sabadell/2026/10/13/sabadell-equipo-vertigo-deja-mirar.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApEF93mgcCjv2xD6VLvXVB9"
     }
   }
 ]
