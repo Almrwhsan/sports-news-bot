@@ -1,5 +1,39 @@
 [
   {
+    "title": "Borja Iglesias se defiende de las críticas",
+    "url": "https://www.marca.com/futbol/celta/2026/10/17/borja-iglesias-defiende-criticas.html",
+    "summary": "Lanza una carta abierta a los que piensan que no ha estado centrado en su equipo en el arranque de temporada",
+    "published": "Sat, 17 Oct 2026 15:45:23 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b7a05d2ba6.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بورخا إغليسياس يدافع عن نفسه ضد الانتقادات",
+    "arabic_summary": "ويوجه رسالة مفتوحة إلى من يعتقد أنه لم يركز على فريقه في بداية الموسم",
+    "translation_status": "translated",
+    "post_title": "بورخا إغليسياس يدافع عن نفسه ضد الانتقادات",
+    "post_text": "🚨 بورخا إغليسياس يدافع عن نفسه ضد الانتقادات\n\n📝 ويوجه رسالة مفتوحة إلى من يعتقد أنه لم يركز على فريقه في بداية الموسم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081079617890682",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بورخا_إغليسياس_يدافع_عن_نفسه_ضد_الانتقادات.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/celta/2026/10/17/borja-iglesias-defiende-criticas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASppnepVUnz0-I4Qr5Il5kB"
+    }
+  },
+  {
     "title": "Alemany: \"¿Pubill? Esperamos que esté muchos años con nosotros\"",
     "url": "https://www.marca.com/futbol/atletico/2026/10/17/mateu-alemany-pubill-contentos-esperamos-anos-nosotros.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8-kun8x6AdYN6T96foFNWK"
-    }
-  },
-  {
-    "title": "Kessié, el regreso del 'presidente': \"Sigo siendo el mismo Franck\"",
-    "url": "https://www.marca.com/futbol/liga-italiana/2026/10/14/kessie-regreso-presidente-sigo-siendo-franck.html",
-    "summary": "El ex del Barcelona volvió a marcar con la Atalanta... ¡nueve años después!",
-    "published": "Wed, 14 Oct 2026 06:38:24 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace4a1da24b1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كيسييه، عودة \"الرئيس\": \"ما زلت نفس فرانك\"",
-    "arabic_summary": "لاعب برشلونة السابق يسجل مرة أخرى لأتالانتا.. بعد تسع سنوات!",
-    "translation_status": "translated",
-    "post_title": "كيسييه، عودة \"الرئيس\": \"ما زلت نفس فرانك\"",
-    "post_text": "🚨 كيسييه، عودة \"الرئيس\": \"ما زلت نفس فرانك\"\n\n📝 لاعب برشلونة السابق يسجل مرة أخرى لأتالانتا.. بعد تسع سنوات!\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077831731548804",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيسييه،_عودة_الرئيس_ما_زلت_نفس_فرانك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/liga-italiana/2026/10/14/kessie-regreso-presidente-sigo-siendo-franck.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgdZhUEKPYxaYAfmLlTKbtu"
     }
   }
 ]
