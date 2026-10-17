@@ -1,5 +1,39 @@
 [
   {
+    "title": "Militão, convocado",
+    "url": "https://as.com/futbol/militao-convocado-f202610-n/",
+    "summary": "El central vuelve a una convocatoria seis meses después de romperse el tendón proximal del bíceps femoral. José Mourinho confirmó en rueda de prensa la presencia del brasileño en la lista para el partido ante el Sevilla.",
+    "published": "Sat, 17 Oct 2026 09:20:24 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XCYGMGBMMNDOVMR7EMUR2QSCTA.jpg?auth=75517fc6a26f005b4312df06b794b4449137b61747a2afb3bc259ea3c18141b7",
+    "media_type": "image/jpeg",
+    "arabic_title": "المناضل، تم استدعاؤه",
+    "arabic_summary": "يعود قلب الدفاع إلى الفريق بعد ستة أشهر من إصابته بتمزق في وتر العضلة ذات الرأسين الفخذية القريبة. وأكد جوزيه مورينيو في مؤتمر صحفي تواجد البرازيلي في قائمة مباراة إشبيلية.",
+    "translation_status": "translated",
+    "post_title": "المناضل، تم استدعاؤه",
+    "post_text": "🚨 المناضل، تم استدعاؤه\n\n📝 يعود قلب الدفاع إلى الفريق بعد ستة أشهر من إصابته بتمزق في وتر العضلة ذات الرأسين الفخذية القريبة. وأكد جوزيه مورينيو في مؤتمر صحفي تواجد البرازيلي في قائمة مباراة إشبيلية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081010647897579",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المناضل،_تم_استدعاؤه.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/militao-convocado-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADEM1M_kJJEb-ktox_Ao-Ag"
+    }
+  },
+  {
     "title": "Uribes insta a Tebas a “pedir perdón al Real Madrid” y el presidente de LaLiga le responde: “Imparcialidad”",
     "url": "https://as.com/futbol/uribes-es-inaceptable-tebas-deberia-pedir-perdon-al-real-madrid-f202610-n/",
     "summary": "El presidente del CSD considera “terrible” la comparación de Real Madrid TV con la propaganda nazi y confirma que los servicios jurídicos estudian posibles responsabilidades disciplinarias",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2C7PN3a66C8Qnlhe22M8Zp"
-    }
-  },
-  {
-    "title": "Futbolistas que jugaron en la Roma y en el Real Madrid",
-    "url": "https://as.com/futbol/fotorrelato/futbolistas-que-jugaron-en-la-roma-y-en-el-real-madrid-f202610-f/",
-    "summary": "Hacemos un repaso por los futbolistas que han formado parte de la plantilla de ambos equipos a lo largo de la historia.",
-    "published": "Tue, 13 Oct 2026 22:09:06 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YYQXSOOF3ZCBVOPP6C6YEFA6CE.jpg?auth=97d10629388f3efe3a2bb34af2a8b937f807e8fedf989a52a80f8cde8cdcaed9",
-    "media_type": "image/jpeg",
-    "arabic_title": "لاعبو كرة القدم الذين لعبوا لروما وريال مدريد",
-    "arabic_summary": "نستعرض لاعبي كرة القدم الذين كانوا جزءًا من تشكيلة الفريقين عبر التاريخ.",
-    "translation_status": "translated",
-    "post_title": "لاعبو كرة القدم الذين لعبوا لروما وريال مدريد",
-    "post_text": "🚨 لاعبو كرة القدم الذين لعبوا لروما وريال مدريد\n\n📝 نستعرض لاعبي كرة القدم الذين كانوا جزءًا من تشكيلة الفريقين عبر التاريخ.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077757634889547",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لاعبو_كرة_القدم_الذين_لعبوا_لروما_وريال_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/futbolistas-que-jugaron-en-la-roma-y-en-el-real-madrid-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYDNeVNlIeFsCar7efiGDKR"
     }
   }
 ]
