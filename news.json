@@ -1,5 +1,39 @@
 [
   {
+    "title": "El líder no descansa: séptima victoria seguida del Almería",
+    "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/17/lider-descansa-septima-victoria-seguida-almeria.html",
+    "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
+    "published": "Sat, 17 Oct 2026 15:57:29 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/17/140829.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الزعيم لا يرتاح: الفوز السابع على التوالي لألميريا",
+    "arabic_summary": "ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل",
+    "translation_status": "translated",
+    "post_title": "الزعيم لا يرتاح: الفوز السابع على التوالي لألميريا",
+    "post_text": "🚨 الزعيم لا يرتاح: الفوز السابع على التوالي لألميريا\n\n📝 ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081087264556584",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الزعيم_لا_يرتاح_الفوز_السابع_على_التوالي_لألميريا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/17/lider-descansa-septima-victoria-seguida-almeria.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Azx77RN5bIqquYLULFUTmOp"
+    }
+  },
+  {
     "title": "Borja Iglesias se defiende de las críticas",
     "url": "https://www.marca.com/futbol/celta/2026/10/17/borja-iglesias-defiende-criticas.html",
     "summary": "Lanza una carta abierta a los que piensan que no ha estado centrado en su equipo en el arranque de temporada",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWGz-YM3jQjfPZOW6ZnXd_N"
-    }
-  },
-  {
-    "title": "'Awful' and 'disrespectful' - Carra and Rooney criticise Martinez outburst",
-    "url": "https://www.skysports.com/football/news/12040/13599115/lisandro-martinez-jamie-carragher-says-man-utd-defenders-comments-criticising-hierarchy-are-awful-as-wayne-rooney-brands-them-disrespectful",
-    "summary": "Jamie Carragher has branded Lisandro Martinez's comments criticising the Manchester United hierarchy as \"awful\" - saying the player should look at himself because of his \"really poor\" start to the season.",
-    "published": "Wed, 14 Oct 2026 07:06:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lisandro-martinez_7376571.jpg?20261014092822",
-    "media_type": "image/jpg",
-    "arabic_title": "\"فظيع\" و\"غير محترم\" - كارا وروني ينتقدان فورة مارتينيز",
-    "arabic_summary": "وصف جيمي كاراغر تعليقات ليساندرو مارتينيز التي تنتقد التسلسل الهرمي لمانشستر يونايتد بأنها \"مروعة\" - قائلًا إن اللاعب يجب أن ينظر إلى نفسه بسبب بدايته \"السيئة حقًا\" لهذا الموسم.",
-    "translation_status": "translated",
-    "post_title": "\"فظيع\" و\"غير محترم\" - كارا وروني ينتقدان فورة مارتينيز",
-    "post_text": "🚨 \"فظيع\" و\"غير محترم\" - كارا وروني ينتقدان فورة مارتينيز\n\n📝 وصف جيمي كاراغر تعليقات ليساندرو مارتينيز التي تنتقد التسلسل الهرمي لمانشستر يونايتد بأنها \"مروعة\" - قائلًا إن اللاعب يجب أن ينظر إلى نفسه بسبب بدايته \"السيئة حقًا\" لهذا الموسم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077839184881392",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فظيع_وغير_محترم_-_كارا_وروني_ينتقدان_فورة_مارتينيز.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13599115/lisandro-martinez-jamie-carragher-says-man-utd-defenders-comments-criticising-hierarchy-are-awful-as-wayne-rooney-brands-them-disrespectful",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8-kun8x6AdYN6T96foFNWK"
     }
   }
 ]
