@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cameron equaliser earns a point for Dundee United at St Johnstone",
+    "url": "https://www.skysports.com/football/st-johnstone-vs-dundee-united/report/558386",
+    "summary": "Lyall Cameron's 79th-minute strike earned Dundee United a deserved 1-1 draw at St Johnstone.",
+    "published": "Sat, 17 Oct 2026 16:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-dundee-united-lyall_7379305.jpg?20261017182746",
+    "media_type": "image/jpg",
+    "arabic_title": "هدف التعادل لكاميرون يمنح نقطة لدندي يونايتد في سانت جونستون",
+    "arabic_summary": "هدف ليال كاميرون في الدقيقة 79 منح دندي يونايتد التعادل المستحق 1-1 مع مضيفه سانت جونستون.",
+    "translation_status": "translated",
+    "post_title": "هدف التعادل لكاميرون يمنح نقطة لدندي يونايتد في سانت جونستون",
+    "post_text": "🚨 هدف التعادل لكاميرون يمنح نقطة لدندي يونايتد في سانت جونستون\n\n📝 هدف ليال كاميرون في الدقيقة 79 منح دندي يونايتد التعادل المستحق 1-1 مع مضيفه سانت جونستون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080912251240752",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_التعادل_لكاميرون_يمنح_نقطة_لدندي_يونايتد_في_سانت_جونستون.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/st-johnstone-vs-dundee-united/report/558386",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnN6X-hy5pgVTIH4SjUbfjx"
+    }
+  },
+  {
     "title": "La reacción en frío de Mourinho a lo que dijo Tebas es pura gasolina para el madridismo",
     "url": "https://as.com/futbol/videos/la-reaccion-en-frio-de-mourinho-a-lo-que-dijo-tebas-es-pura-gasolina-para-el-madridismo-f202610-v/",
     "summary": "El entrenador del Real Madrid hizo más leña del árbol caído pese a su tono sosegado a la hora de opinar sobre las declaraciones del presidente de LaLiga.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADq_N0bhi61WbggAGxoj4Y2"
-    }
-  },
-  {
-    "title": "Rueda de prensa de Mourinho y Tchouameni en Roma, en directo",
-    "url": "https://as.com/futbol/champions/rueda-de-prensa-de-mourinho-y-tchouameni-en-roma-en-directo-f202610-d/",
-    "summary": "Portugués y francés, ante la prensa en la víspera de la segunda jornada de Champions. Sigue todas las reacciones.",
-    "published": "Tue, 13 Oct 2026 16:53:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=lhFR0KhphTs",
-    "media_type": "application/octet-stream",
-    "arabic_title": "المؤتمر الصحفي لمورينيو وتشواميني في روما مباشر",
-    "arabic_summary": "البرتغاليون والفرنسيون أمام الصحافة عشية اليوم الثاني لدوري أبطال أوروبا. متابعة جميع ردود الفعل.",
-    "translation_status": "translated",
-    "post_title": "المؤتمر الصحفي لمورينيو وتشواميني في روما مباشر",
-    "post_text": "🚨 المؤتمر الصحفي لمورينيو وتشواميني في روما مباشر\n\n📝 البرتغاليون والفرنسيون أمام الصحافة عشية اليوم الثاني لدوري أبطال أوروبا. متابعة جميع ردود الفعل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077637528234891",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لمورينيو_وتشواميني_في_روما_مباشر.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWHpv7wc4GdX7Ql-IcW1FiZ"
     }
   }
 ]
