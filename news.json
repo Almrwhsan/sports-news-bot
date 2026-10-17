@@ -1,5 +1,39 @@
 [
   {
+    "title": "Quique: \"La riqueza del equipo es que ha competido todos los partidos\"",
+    "url": "https://www.marca.com/futbol/alaves/2026/10/17/quique-riqueza-equipo-competido-todos-partidos.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Sat, 17 Oct 2026 13:55:33 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7db5ae9f6e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كيكي: \"ثروة الفريق تكمن في قدرته على المنافسة في كل مباراة\"",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "كيكي: \"ثروة الفريق تكمن في قدرته على المنافسة في كل مباراة\"",
+    "post_text": "🚨 كيكي: \"ثروة الفريق تكمن في قدرته على المنافسة في كل مباراة\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081053364559974",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيكي_ثروة_الفريق_تكمن_في_قدرته_على_المنافسة_في_كل_مباراة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/alaves/2026/10/17/quique-riqueza-equipo-competido-todos-partidos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ap4HdvbjLSlIYKVkb0heUtM"
+    }
+  },
+  {
     "title": "Champions Cup: Munster beat Racing on day of Foley tributes as Saracens, Bath lose",
     "url": "https://www.skysports.com/rugby-union/munster-vs-racing/report/113424",
     "summary": "A decade to the day since the rugby world learned of head coach Anthony Foley&#8217;s death at the age of 42, Munster marked the poignant anniversary with a stirring 33-25 Champions Cup victory over Racing 92.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0X9O6B-ByVSDSHVtVsU1s-"
-    }
-  },
-  {
-    "title": "Malen-Dybala, una pareja letal para Gasperini",
-    "url": "https://as.com/opinion/malen-dybala-una-pareja-letal-para-gasperini-f202610-n/",
-    "summary": "Un empate en inferioridad en Como confirmó el buen momento del conjunto de la capital. Manu Koné sigue en el equipo tras su gran Mundial.",
-    "published": "Tue, 13 Oct 2026 22:26:49 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/V5QE37DO4ZL3HJQALCAXYTKJAU.jpg?auth=a0d3388d2638d5ba02c7935746ffba0f31581314464864e757e7afc973a0535b",
-    "media_type": "image/jpeg",
-    "arabic_title": "مالين ديبالا، الثنائي القاتل لجاسبريني",
-    "arabic_summary": "التعادل بالدونية في كومو أكد اللحظة الجيدة لفريق العاصمة. لا يزال مانو كوني ضمن الفريق بعد مشاركته الرائعة في كأس العالم.",
-    "translation_status": "translated",
-    "post_title": "مالين ديبالا، الثنائي القاتل لجاسبريني",
-    "post_text": "🚨 مالين ديبالا، الثنائي القاتل لجاسبريني\n\n📝 التعادل بالدونية في كومو أكد اللحظة الجيدة لفريق العاصمة. لا يزال مانو كوني ضمن الفريق بعد مشاركته الرائعة في كأس العالم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077799291552048",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مالين_ديبالا،_الثنائي_القاتل_لجاسبريني.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/malen-dybala-una-pareja-letal-para-gasperini-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANaUr8RpeMqXzNRSyRO6IYR"
     }
   }
 ]
