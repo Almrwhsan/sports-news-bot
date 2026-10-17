@@ -1,5 +1,39 @@
 [
   {
+    "title": "Xabi convence, el ‘Dibu’ asusta",
+    "url": "https://as.com/futbol/internacional/xabi-convence-el-dibu-asusta-f202610-n/",
+    "summary": "El argentino, sustituido en camilla, sufrió una fuerte conmoción cuando el Chelsea ya ganaba al Everton. Doblete de Neto y 1ª portería a cero para los ‘blues’ en Premier.",
+    "published": "Sat, 17 Oct 2026 13:45:58 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226592_132428_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "تشابي يقنع، \"ديبو\" يخيف",
+    "arabic_summary": "وأصيب اللاعب الأرجنتيني، الذي تم استبداله على نقالة، بارتجاج شديد في المخ عندما كان تشيلسي يهزم إيفرتون بالفعل. شباك نيتو المزدوجة والأولى النظيفة لفريق \"البلوز\" في الدوري الممتاز.",
+    "translation_status": "translated",
+    "post_title": "تشابي يقنع، \"ديبو\" يخيف",
+    "post_text": "🚨 تشابي يقنع، \"ديبو\" يخيف\n\n📝 وأصيب اللاعب الأرجنتيني، الذي تم استبداله على نقالة، بارتجاج شديد في المخ عندما كان تشيلسي يهزم إيفرتون بالفعل. شباك نيتو المزدوجة والأولى النظيفة لفريق \"البلوز\" في الدوري الممتاز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080793557919288",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشابي_يقنع،_ديبو_يخيف.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzvFg3S4_KPr13D1WHtvDd6"
+    }
+  },
+  {
     "title": "Rueda de prensa de Mourinho, en directo | Última hora del Real Madrid - Sevilla en LaLiga",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/17/6ad326906c283cdca8a45c98.html",
     "summary": "El técnico luso atiende a la prensa en la previa del encuentro en el Bernabéu",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdnJ1yLAMzESFyWlNv09_bZ"
-    }
-  },
-  {
-    "title": "Álex Sola regresa al grupo tras cumplir una semana de sanción disciplinaria",
-    "url": "https://www.marca.com/futbol/almeria/2026/10/13/alex-sola-regresa-grupo-cumplir-semana-sancion-disciplinaria.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Tue, 13 Oct 2026 13:47:13 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/6ac64195060cc.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعود Alex Sola إلى المجموعة بعد أن قضى أسبوعًا من العقوبة التأديبية",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "يعود Alex Sola إلى المجموعة بعد أن قضى أسبوعًا من العقوبة التأديبية",
-    "post_text": "🚨 يعود Alex Sola إلى المجموعة بعد أن قضى أسبوعًا من العقوبة التأديبية\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077251198273524",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_Alex_Sola_إلى_المجموعة_بعد_أن_قضى_أسبوعًا_من_العقوبة_التأديبية.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/almeria/2026/10/13/alex-sola-regresa-grupo-cumplir-semana-sancion-disciplinaria.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4vrzBmalxC5-qgRGYymdFz"
     }
   }
 ]
