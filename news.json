@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rueda de prensa de Mourinho, en directo | Última hora del Real Madrid - Sevilla en LaLiga",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/17/6ad326906c283cdca8a45c98.html",
+    "summary": "El técnico luso atiende a la prensa en la previa del encuentro en el Bernabéu",
+    "published": "Sat, 17 Oct 2026 09:43:57 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/hqLtW_uEuW8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "المؤتمر الصحفي لمورينيو مباشر | الدقيقة الأخيرة من مباراة ريال مدريد وإشبيلية في الدوري الإسباني",
+    "arabic_summary": "المدرب البرتغالي يتحدث للصحافة قبل المباراة في البرنابيو",
+    "translation_status": "translated",
+    "post_title": "المؤتمر الصحفي لمورينيو مباشر | الدقيقة الأخيرة من مباراة ريال مدريد وإشبيلية في الدوري الإسباني",
+    "post_text": "🚨 المؤتمر الصحفي لمورينيو مباشر | الدقيقة الأخيرة من مباراة ريال مدريد وإشبيلية في الدوري الإسباني\n\n📝 المدرب البرتغالي يتحدث للصحافة قبل المباراة في البرنابيو\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080789944586316",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لمورينيو_مباشر_الدقيقة_الأخيرة_من_مباراة_ريال_مدريد_وإشبيلية_في_ا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/17/6ad326906c283cdca8a45c98.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJY_qZq90Vs5DFiaiA3ifxS"
+    }
+  },
+  {
     "title": "Reinier: “¿Volver al Madrid? ¿Por qué no?”",
     "url": "https://as.com/futbol/internacional/reinier-volver-al-madrid-por-que-no-f202610-n/",
     "summary": "La estrella de Atletico Mineiro y exjugador del Real Madrid atiende a AS desde Belo Horizonte, donde ha relanzado su carrera.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4vrzBmalxC5-qgRGYymdFz"
-    }
-  },
-  {
-    "title": "Ex-Port Vale & Gillingham captain Loft dies at 39",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&at_campaign=rss",
-    "summary": "Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.",
-    "published": "Mon, 12 Oct 2026 15:12:32 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17fc/live/1ebca980-c650-11f1-b47f-e3f9cf703bc3.jpg",
-    "media_type": null,
-    "arabic_title": "توفي لوفت، كابتن فريق بورت فايل آند جيلينجهام السابق، عن عمر يناهز 39 عامًا",
-    "arabic_summary": "توفي كابتن فريق بورت فايل وجيلينغهام السابق، دوج لوفت، عن عمر يناهز 39 عامًا، إثر حالة طبية طارئة.",
-    "translation_status": "translated",
-    "post_title": "توفي لوفت، كابتن فريق بورت فايل آند جيلينجهام السابق، عن عمر يناهز 39 عامًا",
-    "post_text": "🚨 توفي لوفت، كابتن فريق بورت فايل آند جيلينجهام السابق، عن عمر يناهز 39 عامًا\n\n📝 توفي كابتن فريق بورت فايل وجيلينغهام السابق، دوج لوفت، عن عمر يناهز 39 عامًا، إثر حالة طبية طارئة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077248161607161",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توفي_لوفت،_كابتن_فريق_بورت_فايل_آند_جيلينجهام_السابق،_عن_عمر_يناهز_39_عامًا.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AffAKBPsFxwsDsLV6JCyU40"
     }
   }
 ]
