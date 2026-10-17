@@ -1,5 +1,39 @@
 [
   {
+    "title": "'I am telling you the truth' - Carrick on Martinez fallout",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
+    "published": "Fri, 16 Oct 2026 13:59:12 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg",
+    "media_type": null,
+    "arabic_title": "\"أنا أقول لك الحقيقة\" - كاريك عن تداعيات مارتينيز",
+    "arabic_summary": "قال مايكل كاريك، مدرب مانشستر يونايتد، إنه يقول الحقيقة بشأن رحيل النادي بعد المقابلة المثيرة التي أجراها ليساندرو مارتينيز بعد المباراة.",
+    "translation_status": "translated",
+    "post_title": "\"أنا أقول لك الحقيقة\" - كاريك عن تداعيات مارتينيز",
+    "post_text": "🚨 \"أنا أقول لك الحقيقة\" - كاريك عن تداعيات مارتينيز\n\n📝 قال مايكل كاريك، مدرب مانشستر يونايتد، إنه يقول الحقيقة بشأن رحيل النادي بعد المقابلة المثيرة التي أجراها ليساندرو مارتينيز بعد المباراة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080844011247576",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنا_أقول_لك_الحقيقة_-_كاريك_عن_تداعيات_مارتينيز.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmLBD81z-W1k1SpVSQoZzLW"
+    }
+  },
+  {
     "title": "Newcastle vs Aston Villa LIVE!",
     "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/live/559511",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6W2rAro5ZFZc-St4Fdcc8I"
-    }
-  },
-  {
-    "title": "Primera victoria del Barça en la Youth League",
-    "url": "https://www.marca.com/futbol/youth-league/2026/10/13/primera-victoria-barca-youth-league.html",
-    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
-    "published": "Tue, 13 Oct 2026 17:59:10 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace516d0ea68.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أول فوز للبارسا في دوري الشباب",
-    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
-    "translation_status": "translated",
-    "post_title": "أول فوز للبارسا في دوري الشباب",
-    "post_text": "🚨 أول فوز للبارسا في دوري الشباب\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077501214915189",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أول_فوز_للبارسا_في_دوري_الشباب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/youth-league/2026/10/13/primera-victoria-barca-youth-league.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ao5OoJT1Q50AsFCxNPn9Ske"
     }
   }
 ]
