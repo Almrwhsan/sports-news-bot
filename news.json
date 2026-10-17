@@ -1,5 +1,39 @@
 [
   {
+    "title": "Beñat San José: \"Nadie quiere estar en esta situación\"",
+    "url": "https://www.marca.com/futbol/rayo/2026/10/17/benat-san-jose-nadie-quiere-situacion.html",
+    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
+    "published": "Sat, 17 Oct 2026 13:20:56 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac117e573b90.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بينيات سان خوسيه: \"لا أحد يريد أن يكون في هذا الوضع\"",
+    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
+    "translation_status": "translated",
+    "post_title": "بينيات سان خوسيه: \"لا أحد يريد أن يكون في هذا الوضع\"",
+    "post_text": "🚨 بينيات سان خوسيه: \"لا أحد يريد أن يكون في هذا الوضع\"\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080872244578086",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بينيات_سان_خوسيه_لا_أحد_يريد_أن_يكون_في_هذا_الوضع.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/rayo/2026/10/17/benat-san-jose-nadie-quiere-situacion.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ACOKSpNQvUYhb6xuOiomlu6"
+    }
+  },
+  {
     "title": "Real Sociedad B - Almería: horario, dónde ver en TV y canal del partido de LaLiga Hypermotion",
     "url": "https://www.marca.com/futbol/segunda-division/2026/10/17/real-sociedad-b-almeria-horario-donde-ver-tv-canal-partido-laliga-hypermotion.html",
     "summary": "Real Sociedad B y Almería se enfrentan el sábado 17 de octubre a las 14:00 horas en el Estadio Izan en el partido correspondiente a la jornada 10 de LaLiga Hypermotion.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Afh_-qCi1YZ0GcqFJa-eXfC"
-    }
-  },
-  {
-    "title": "¿O es de esto de lo que se queja Mourinho? La polémica frase del árbitro a Valverde en el sorteo",
-    "url": "https://as.com/futbol/videos/es-esto-de-lo-que-se-queja-mourinho-la-polemica-conversacion-que-hubo-en-el-sorteo-inicial-f202610-v/",
-    "summary": "Mourinho ha reivindicado en sala de prensa “ver el primer minuto del partido ante el Villarreal” al ser cuestionado por la polémica arbitral. Este vídeo publicado por DAZN y captado por la RFEF Cam ha creado gran revuelo en redes.",
-    "published": "Tue, 13 Oct 2026 16:48:02 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261013/1224904_164422_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "أم أن هذا ما يشكو منه مورينيو؟ عبارة الحكم المثيرة للجدل لفالفيردي في القرعة",
-    "arabic_summary": "وادعى مورينيو في غرفة الصحافة أنه “شاهد الدقيقة الأولى من المباراة ضد فياريال” عند سؤاله عن الجدل التحكيمي. أثار هذا الفيديو الذي نشرته DAZN وتم التقاطه بواسطة كاميرا RFEF ضجة على وسائل التواصل الاجتماعي.",
-    "translation_status": "translated",
-    "post_title": "أم أن هذا ما يشكو منه مورينيو؟ عبارة الحكم المثيرة للجدل لفالفيردي في القرعة",
-    "post_text": "🚨 أم أن هذا ما يشكو منه مورينيو؟ عبارة الحكم المثيرة للجدل لفالفيردي في القرعة\n\n📝 وادعى مورينيو في غرفة الصحافة أنه “شاهد الدقيقة الأولى من المباراة ضد فياريال” عند سؤاله عن الجدل التحكيمي. أثار هذا الفيديو الذي نشرته DAZN وتم التقاطه بواسطة كاميرا RFEF ضجة على وسائل التواصل الاجتماعي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077593354905975",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أم_أن_هذا_ما_يشكو_منه_مورينيو؟_عبارة_الحكم_المثيرة_للجدل_لفالفيردي_في_القرعة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYijyZdkA4zSMH0eKN02pVi"
     }
   }
 ]
