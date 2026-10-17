@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Espanyol se agarra a la vuelta de Javi Puado",
+    "url": "https://www.marca.com/futbol/espanyol/2026/10/17/espanyol-agarra-vuelta-javi-puado.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Sat, 17 Oct 2026 16:15:07 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/17/6ad382da9e9d3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إسبانيول يتمسك بعودة خابي بوادو",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "إسبانيول يتمسك بعودة خابي بوادو",
+    "post_text": "🚨 إسبانيول يتمسك بعودة خابي بوادو\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081089644556346",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إسبانيول_يتمسك_بعودة_خابي_بوادو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/espanyol/2026/10/17/espanyol-agarra-vuelta-javi-puado.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9vPce86eygxLHv60-l-eAH"
+    }
+  },
+  {
     "title": "El líder no descansa: séptima victoria seguida del Almería",
     "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/17/lider-descansa-septima-victoria-seguida-almeria.html",
     "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AX1Yavrqski98rfNeY9bQVP"
-    }
-  },
-  {
-    "title": "El 'villano' Asensio se reencuentra con Emery: \"Cuida cada detalle y es muy cercano\"",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/14/villano-asensio-reencuentra-emery-cuida-detalle-cercano.html",
-    "summary": "El mediapunta balear, que militó en el Aston Villa durante la segunda mitad de la temporada 24-25, regresó el pasado fin de semana con Fenerbahçe",
-    "published": "Wed, 14 Oct 2026 06:39:46 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace4c6431f1b.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أسينسيو \"الشرير\" يجتمع مجددًا مع إيمري: \"إنه يهتم بكل التفاصيل وهو قريب جدًا\"",
-    "arabic_summary": "وعاد صانع الألعاب البلياري، الذي لعب لأستون فيلا خلال النصف الثاني من موسم 24-25، نهاية الأسبوع الماضي مع فنربخشه.",
-    "translation_status": "translated",
-    "post_title": "أسينسيو \"الشرير\" يجتمع مجددًا مع إيمري: \"إنه يهتم بكل التفاصيل وهو قريب جدًا\"",
-    "post_text": "🚨 أسينسيو \"الشرير\" يجتمع مجددًا مع إيمري: \"إنه يهتم بكل التفاصيل وهو قريب جدًا\"\n\n📝 وعاد صانع الألعاب البلياري، الذي لعب لأستون فيلا خلال النصف الثاني من موسم 24-25، نهاية الأسبوع الماضي مع فنربخشه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077839058214738",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أسينسيو_الشرير_يجتمع_مجددًا_مع_إيمري_إنه_يهتم_بكل_التفاصيل_وهو_قريب_جدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/14/villano-asensio-reencuentra-emery-cuida-detalle-cercano.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWGz-YM3jQjfPZOW6ZnXd_N"
     }
   }
 ]
