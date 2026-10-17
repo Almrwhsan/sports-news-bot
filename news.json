@@ -1,5 +1,39 @@
 [
   {
+    "title": "Isak clinches win for Liverpool over nine-man Brentford",
+    "url": "https://www.skysports.com/football/brentford-vs-liverpool/report/559505",
+    "summary": "Alexander Isak scored on his return from injury as Liverpool fought back from a goal down to clinch a 2-1 victory over Brentford, who had Yehor Yarmoliuk and Vitaly Janelt sent off.",
+    "published": "Sat, 17 Oct 2026 17:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-alexander-isak-liverpool_7379104.jpg?20261017164515",
+    "media_type": "image/jpg",
+    "arabic_title": "إيساك يحقق الفوز لليفربول على برينتفورد المكون من تسعة لاعبين",
+    "arabic_summary": "سجل ألكسندر إيساك هدفاً لدى عودته من الإصابة، ليعوض ليفربول تأخره بهدف ليحقق الفوز 2-1 على برينتفورد، الذي طرد منه يهور يارموليوك وفيتالي جانلت.",
+    "translation_status": "translated",
+    "post_title": "إيساك يحقق الفوز لليفربول على برينتفورد المكون من تسعة لاعبين",
+    "post_text": "🚨 إيساك يحقق الفوز لليفربول على برينتفورد المكون من تسعة لاعبين\n\n📝 سجل ألكسندر إيساك هدفاً لدى عودته من الإصابة، ليعوض ليفربول تأخره بهدف ليحقق الفوز 2-1 على برينتفورد، الذي طرد منه يهور يارموليوك وفيتالي جانلت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080847951247182",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيساك_يحقق_الفوز_لليفربول_على_برينتفورد_المكون_من_تسعة_لاعبين.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/brentford-vs-liverpool/report/559505",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABMLwzW6-jB46LqX_4GJFA5"
+    }
+  },
+  {
     "title": "'I am telling you the truth' - Carrick on Martinez fallout",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
     "summary": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A27rHvsAdTRgfML69q73Nro"
-    }
-  },
-  {
-    "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
-    "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
-    "summary": "Arsenal scored three goals in seven second-half minutes to beat Lille 3-0 and continue their winning start in the Champions League.",
-    "published": "Tue, 13 Oct 2026 21:45:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "champions_league",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-eberechi-eze-myles-lewis-skelly_7376277.jpg?20261013214010",
-    "media_type": "image/jpg",
-    "arabic_title": "ساكا يتألق في فوز أرسنال على ليل بدوري أبطال أوروبا",
-    "arabic_summary": "سجل أرسنال ثلاثة أهداف في سبع دقائق بالشوط الثاني ليفوز على ليل 3-0 ويواصل بدايته المظفرة في دوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "ساكا يتألق في فوز أرسنال على ليل بدوري أبطال أوروبا",
-    "post_text": "🚨 ساكا يتألق في فوز أرسنال على ليل بدوري أبطال أوروبا\n\n📝 سجل أرسنال ثلاثة أهداف في سبع دقائق بالشوط الثاني ليفوز على ليل 3-0 ويواصل بدايته المظفرة في دوري أبطال أوروبا.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077504691581508",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساكا_يتألق_في_فوز_أرسنال_على_ليل_بدوري_أبطال_أوروبا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6W2rAro5ZFZc-St4Fdcc8I"
     }
   }
 ]
