@@ -1,5 +1,39 @@
 [
   {
+    "title": "¿Turno para Ceballos?",
+    "url": "https://as.com/futbol/primera/turno-para-ceballos-f202610-n/",
+    "summary": "El utrerano llegó hace un mes y medio y aún no fue titular con el Betis. Se espera que pueda tener más protagonismo ante el Barcelona por la esperada rotación.",
+    "published": "Fri, 16 Oct 2026 23:35:27 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FTDLGW37XZL4DKTTC6YHUCHAS4.jpg?auth=ce5b55fafd5adbb71613172d4c32c1179cd9cfc04577dbe16d43699a60781559",
+    "media_type": "image/jpeg",
+    "arabic_title": "التحول لثيبايوس؟",
+    "arabic_summary": "وصل أوتريرانو منذ شهر ونصف ولم يبدأ بعد مع بيتيس. ومن المتوقع أن يكون له حضور أكبر أمام برشلونة بسبب المداورة المتوقعة.",
+    "translation_status": "translated",
+    "post_title": "التحول لثيبايوس؟",
+    "post_text": "🚨 التحول لثيبايوس؟\n\n📝 وصل أوتريرانو منذ شهر ونصف ولم يبدأ بعد مع بيتيس. ومن المتوقع أن يكون له حضور أكبر أمام برشلونة بسبب المداورة المتوقعة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080887341243243",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التحول_لثيبايوس؟.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/turno-para-ceballos-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0ijaqjHYsvRXfyf1qs-TaY"
+    }
+  },
+  {
     "title": "Murrell scores two as Falkirk claim Edinburgh double by beating Hibs",
     "url": "https://www.skysports.com/football/hibernian-vs-falkirk/report/558384",
     "summary": "Falkirk registered a stunning Edinburgh double as they put Hibs to the sword with a 2-1 win in an entertaining Scottish Premiership clash at Easter Road.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AtcURwnwrAmNtGVw8jtngIm"
-    }
-  },
-  {
-    "title": "Man Utd latest: VOTE! Do you agree with explosive Martinez interview?",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Tue, 13 Oct 2026 22:12:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار مانشستر يونايتد: التصويت! هل توافق على مقابلة مارتينيز المتفجرة؟",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار مانشستر يونايتد: التصويت! هل توافق على مقابلة مارتينيز المتفجرة؟",
-    "post_text": "🚨 آخر أخبار مانشستر يونايتد: التصويت! هل توافق على مقابلة مارتينيز المتفجرة؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077601044905206",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_مانشستر_يونايتد_التصويت!_هل_توافق_على_مقابلة_مارتينيز_المتفجرة؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKE1O41hNq1R_iGdc-1a1gt"
     }
   }
 ]
