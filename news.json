@@ -1,5 +1,39 @@
 [
   {
+    "title": "Red Roses' 41-game unbeaten run ended in dramatic fashion",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13600098/wxv-global-series-england-stunned-by-a-late-rally-from-canada-as-red-roses-41-match-unbeaten-run-ends-with-24-21-loss",
+    "summary": "England's 41-game unbeaten run is over after they were stunned by a late rally from Canada, the Red Roses falling 24-21 in their WXV Global Series clash in Toronto.",
+    "published": "Sat, 17 Oct 2026 07:28:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-canada-england_7378640.jpg?20261017073910",
+    "media_type": "image/jpg",
+    "arabic_title": "انتهت مسيرة Red Roses التي استمرت 41 مباراة بدون هزيمة بطريقة دراماتيكية",
+    "arabic_summary": "انتهت مسيرة إنجلترا الخالية من الهزائم في 41 مباراة بعد أن فاجأتهم كندا في وقت متأخر، حيث سقط فريق Red Roses بنتيجة 24-21 في مواجهة سلسلة WXV العالمية في تورونتو.",
+    "translation_status": "translated",
+    "post_title": "انتهت مسيرة Red Roses التي استمرت 41 مباراة بدون هزيمة بطريقة دراماتيكية",
+    "post_text": "🚨 انتهت مسيرة Red Roses التي استمرت 41 مباراة بدون هزيمة بطريقة دراماتيكية\n\n📝 انتهت مسيرة إنجلترا الخالية من الهزائم في 41 مباراة بعد أن فاجأتهم كندا في وقت متأخر، حيث سقط فريق Red Roses بنتيجة 24-21 في مواجهة سلسلة WXV العالمية في تورونتو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080705887928055",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/انتهت_مسيرة_Red_Roses_التي_استمرت_41_مباراة_بدون_هزيمة_بطريقة_دراماتيكية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/news/12040/13600098/wxv-global-series-england-stunned-by-a-late-rally-from-canada-as-red-roses-41-match-unbeaten-run-ends-with-24-21-loss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ad2Z8PRzdNI61-W_24gLAo-"
+    }
+  },
+  {
     "title": "The England keeper set to face his dad at a World Cup",
     "url": "https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o?at_medium=RSS&at_campaign=rss",
     "summary": "Colin Gordon will be coaching Argentina at the World Cup, while son Chris will be playing for England.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Az6070Hx8-CuqMr_oPGaIMh"
-    }
-  },
-  {
-    "title": "Carvajal ya se entrena con el Getafe",
-    "url": "https://www.marca.com/futbol/getafe/2026/10/13/carvajal-entrena-getaf-video.html",
-    "summary": "",
-    "published": "Tue, 13 Oct 2026 12:51:21 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace0d1b1514d.png",
-    "media_type": "image/jpeg",
-    "arabic_title": "كارفاخال يتدرب بالفعل مع خيتافي",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كارفاخال يتدرب بالفعل مع خيتافي",
-    "post_text": "🚨 كارفاخال يتدرب بالفعل مع خيتافي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077101704955140",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كارفاخال_يتدرب_بالفعل_مع_خيتافي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/getafe/2026/10/13/carvajal-entrena-getaf-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvZaiaO0iWgdmjrS0rJ1yE-"
     }
   }
 ]
