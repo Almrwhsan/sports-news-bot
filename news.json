@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hato starts for Chelsea at Everton with Chavarria missing LIVE!",
+    "url": "https://www.skysports.com/football/everton-vs-chelsea/live/559507",
+    "summary": "",
+    "published": "Mon, 28 Sep 2026 10:09:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-jordan-henderson_7373262.jpg?20261010164222",
+    "media_type": "image/jpg",
+    "arabic_title": "هاتو يبدأ مع تشيلسي في إيفرتون مع غياب شافاريا عن البث المباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هاتو يبدأ مع تشيلسي في إيفرتون مع غياب شافاريا عن البث المباشر!",
+    "post_text": "🚨 هاتو يبدأ مع تشيلسي في إيفرتون مع غياب شافاريا عن البث المباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080591997939444",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هاتو_يبدأ_مع_تشيلسي_في_إيفرتون_مع_غياب_شافاريا_عن_البث_المباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/everton-vs-chelsea/live/559507",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVhPejZ5aTzv3YMx4eRtjvE"
+    }
+  },
+  {
     "title": "Ibai Gómez palpita el partido de la jornada: \"Contra el Murcia es el encuentro más especial hasta ahora\"",
     "url": "https://www.marca.com/futbol/zaragoza/2026/10/16/ibai-gomez-palpita-partido-jornada-murcia-encuentro-especial.html",
     "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1rHTYzo8VtvFh3ownhdHbr"
-    }
-  },
-  {
-    "title": "Tras el lío con Vinicius, Pedrerol da con la tecla del sentir madridista",
-    "url": "https://as.com/futbol/videos/pedrerol-radiografia-el-sentir-del-madridismo-tras-el-enesimo-lio-arbitral-el-city-en-el-ajo-f202610-v/",
-    "summary": "Pedrerol analizó el malestar de la afición tras las últimas decisiones arbitrales y lo comparó con las duras críticas que recibe el City en la Premier pese a no haber sido condenado.",
-    "published": "Tue, 13 Oct 2026 05:34:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261013/1224650_053209_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "بعد الفوضى مع فينيسيوس، بيدريرول يجد مفتاح مشاعر ريال مدريد",
-    "arabic_summary": "وقام بيدريرول بتحليل انزعاج الجماهير بعد قرارات التحكيم الأخيرة وقارنها بالانتقادات اللاذعة التي يتلقاها السيتي في الدوري الإنجليزي الممتاز على الرغم من عدم إدانته.",
-    "translation_status": "translated",
-    "post_title": "بعد الفوضى مع فينيسيوس، بيدريرول يجد مفتاح مشاعر ريال مدريد",
-    "post_text": "🚨 بعد الفوضى مع فينيسيوس، بيدريرول يجد مفتاح مشاعر ريال مدريد\n\n📝 وقام بيدريرول بتحليل انزعاج الجماهير بعد قرارات التحكيم الأخيرة وقارنها بالانتقادات اللاذعة التي يتلقاها السيتي في الدوري الإنجليزي الممتاز على الرغم من عدم إدانته.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077077061624271",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بعد_الفوضى_مع_فينيسيوس،_بيدريرول_يجد_مفتاح_مشاعر_ريال_مدريد.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABSvZ_XYXg6cKd75W_GJO4V"
     }
   }
 ]
