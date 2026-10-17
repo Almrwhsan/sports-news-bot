@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arteta told Arsenal job cuts will help create success",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to \"achieve the success we want to create\".",
+    "published": "Fri, 16 Oct 2026 15:31:54 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec1/live/f5372550-c973-11f1-80fc-ab418b149008.jpg",
+    "media_type": null,
+    "arabic_title": "وقال أرتيتا لأرسنال إن تخفيض الوظائف سيساعد في تحقيق النجاح",
+    "arabic_summary": "قال مدرب أرسنال، ميكيل أرتيتا، إنه قيل له إن قرار النادي بإلغاء 60 وظيفة تم اتخاذه من أجل \"تحقيق النجاح الذي نريد تحقيقه\".",
+    "translation_status": "translated",
+    "post_title": "وقال أرتيتا لأرسنال إن تخفيض الوظائف سيساعد في تحقيق النجاح",
+    "post_text": "🚨 وقال أرتيتا لأرسنال إن تخفيض الوظائف سيساعد في تحقيق النجاح\n\n📝 قال مدرب أرسنال، ميكيل أرتيتا، إنه قيل له إن قرار النادي بإلغاء 60 وظيفة تم اتخاذه من أجل \"تحقيق النجاح الذي نريد تحقيقه\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080937711238206",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وقال_أرتيتا_لأرسنال_إن_تخفيض_الوظائف_سيساعد_في_تحقيق_النجاح.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ACLsxiw3dciqVu4JtZQo4sO"
+    }
+  },
+  {
     "title": "Dónde ver hoy el Valencia CF - Athletic Club: a qué hora es y canal del partido de LaLiga EA Sports",
     "url": "https://www.marca.com/futbol/primera-division/2026/10/17/valencia-cf-athletic-club-horario-donde-ver-tv-canal-partido-laliga-ea-sports.html",
     "summary": "Valencia y Athletic se enfrentan el sábado 17 de octubre a las 21:00 horas en Mestalla en el partido correspondiente a la jornada 9 de LaLiga EA Sports.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFwUT6rP1MqmuUrS0--Prsu"
-    }
-  },
-  {
-    "title": "EFL latest: Police investigating after Swansea's Eom targeted by alleged racist chanting",
-    "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-    "summary": "",
-    "published": "Tue, 13 Oct 2026 23:04:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-eom-ji-sung-swansea_7376416.png?20261013230147",
-    "media_type": "image/jpg",
-    "arabic_title": "EFL الأحدث: الشرطة تحقق بعد استهداف فريق Swansea's Eom بهتافات عنصرية مزعومة",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "EFL الأحدث: الشرطة تحقق بعد استهداف فريق Swansea's Eom بهتافات عنصرية مزعومة",
-    "post_text": "🚨 EFL الأحدث: الشرطة تحقق بعد استهداف فريق Swansea's Eom بهتافات عنصرية مزعومة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077709401561037",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/EFL_الأحدث_الشرطة_تحقق_بعد_استهداف_فريق_Swansea's_Eom_بهتافات_عنصرية_مزعومة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkB9hoeTR-chcWZFOZfh9Qj"
     }
   }
 ]
