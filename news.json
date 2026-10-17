@@ -1,5 +1,39 @@
 [
   {
+    "title": "Resumen del Villarreal vs. Elche, jornada 9 de LaLiga EA Sports",
+    "url": "https://as.com/futbol/videos/resumen-del-villarreal-vs-elche-jornada-9-de-laliga-ea-sports-f202610-v/",
+    "summary": "El submarino amarillo acusa la falta de puntería ante un Elche que estuvo frágil en defensa, pero sobrevivío a las acometidas de los de Íñigo Pérez.",
+    "published": "Sat, 17 Oct 2026 16:33:04 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "ملخص مباراة فياريال وإلتشي، الجولة 9 من الدوري الإسباني، EA Sports",
+    "arabic_summary": "تتهم الغواصة الصفراء بعدم وجود هدف ضد فريق إلتشي الذي كان هشًا في الدفاع، لكنه نجا من هجمات رجال إنييغو بيريز.",
+    "translation_status": "translated",
+    "post_title": "ملخص مباراة فياريال وإلتشي، الجولة 9 من الدوري الإسباني، EA Sports",
+    "post_text": "🚨 ملخص مباراة فياريال وإلتشي، الجولة 9 من الدوري الإسباني، EA Sports\n\n📝 تتهم الغواصة الصفراء بعدم وجود هدف ضد فريق إلتشي الذي كان هشًا في الدفاع، لكنه نجا من هجمات رجال إنييغو بيريز.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081102604555050",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملخص_مباراة_فياريال_وإلتشي،_الجولة_9_من_الدوري_الإسباني،_EA_Sports.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/videos/resumen-del-villarreal-vs-elche-jornada-9-de-laliga-ea-sports-f202610-v/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aq5Z-NvV1pP-b1HDqOTCWba"
+    }
+  },
+  {
     "title": "Williams stars as Golden State Valkyries beat Atlanta Dream in WNBA Finals Game 1",
     "url": "https://www.skysports.com/nba/news/12040/13600326/wnba-finals-gabby-williams-stars-as-golden-state-valkyries-beat-atlanta-dream-in-wnba-finals-game-1",
     "summary": "Gabby Williams converted two free throws with 1:18 left to put Golden State ahead, two more with 4.1 seconds to go, and finished with 26 points as the Valkyries held off the Atlanta Dream 68-64 in Game 1 of the WNBA Finals.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AgeIeJB6ocUgzO9YLBmZ_xS"
-    }
-  },
-  {
-    "title": "Apuestas y pronósticos Roma vs Real Madrid",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/13/apuestas-pronosticos-roma-vs-real-madrid.html",
-    "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
-    "published": "Tue, 13 Oct 2026 14:01:14 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accb6f337557.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الرهان والتوقعات مباراة روما وريال مدريد",
-    "arabic_summary": "يقول مدرب ملقة: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. في الوقت الحاضر، كل شيء يؤثر عليهم\".",
-    "translation_status": "translated",
-    "post_title": "الرهان والتوقعات مباراة روما وريال مدريد",
-    "post_text": "🚨 الرهان والتوقعات مباراة روما وريال مدريد\n\n📝 يقول مدرب ملقة: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. في الوقت الحاضر، كل شيء يؤثر عليهم\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077838798214764",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الرهان_والتوقعات_مباراة_روما_وريال_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/13/apuestas-pronosticos-roma-vs-real-madrid.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8nFUWUGchpknWvju7vRw2t"
     }
   }
 ]
