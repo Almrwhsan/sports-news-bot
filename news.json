@@ -1,5 +1,39 @@
 [
   {
+    "title": "Yarmoliuk sent off for headbutt with Brentford leading Liverpool LIVE!",
+    "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
+    "summary": "",
+    "published": "Sat, 17 Oct 2026 13:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-yehor-yarmolyuk-premier-league_7379031.jpg?20261017160347",
+    "media_type": "image/jpg",
+    "arabic_title": "تم طرد يارموليوك بسبب ضربة بالرأس مع برينتفورد يقود ليفربول لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "تم طرد يارموليوك بسبب ضربة بالرأس مع برينتفورد يقود ليفربول لايف!",
+    "post_text": "🚨 تم طرد يارموليوك بسبب ضربة بالرأس مع برينتفورد يقود ليفربول لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080776897920954",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_طرد_يارموليوك_بسبب_ضربة_بالرأس_مع_برينتفورد_يقود_ليفربول_لايف!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnO15enMHPZLnreWgSZJgjb"
+    }
+  },
+  {
     "title": "Bellingham es el futuro capitán del Real Madrid",
     "url": "https://as.com/opinion/bellingham-es-el-futuro-capitan-del-real-madrid-f202610-n/",
     "summary": "Jude ganará un Balón de Oro. Tiene talento, orgullo competitivo y personalidad para alcanzarlo. Es un líder dentro y fuera del campo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AU582R2RiNAt9VIBbq0HrZM"
-    }
-  },
-  {
-    "title": "Fallece la madre de Koke; minuto de silencio en el Metropolitano",
-    "url": "https://as.com/futbol/champions/fallece-la-madre-de-koke-f202610-n/",
-    "summary": "El capitán no entra en la lista de Simeone para el partido de Champions frente al Manchester United. El Metropolitano guardó un minuto de silencio y hay brazaletes negros.",
-    "published": "Tue, 13 Oct 2026 13:28:32 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XWODFGUVOZD6JFA4LFLMDRHYAE.jpg?auth=139a260ae5e23cd23d6b9ad01a471b5f1aecea372dfd8ba99d720b29614e6d56",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماتت والدة كوكي. دقيقة صمت في متروبوليتان",
-    "arabic_summary": "الكابتن ليس ضمن قائمة سيميوني لمباراة دوري أبطال أوروبا ضد مانشستر يونايتد. التزم المطران دقيقة صمت ووضعت شارات سوداء على أذرعه.",
-    "translation_status": "translated",
-    "post_title": "ماتت والدة كوكي. دقيقة صمت في متروبوليتان",
-    "post_text": "🚨 ماتت والدة كوكي. دقيقة صمت في متروبوليتان\n\n📝 الكابتن ليس ضمن قائمة سيميوني لمباراة دوري أبطال أوروبا ضد مانشستر يونايتد. التزم المطران دقيقة صمت ووضعت شارات سوداء على أذرعه.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077248468273797",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماتت_والدة_كوكي._دقيقة_صمت_في_متروبوليتان.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/fallece-la-madre-de-koke-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGTyXY24CgGuG_O7ro42dOK"
     }
   }
 ]
