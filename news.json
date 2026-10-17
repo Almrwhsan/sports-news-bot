@@ -1,5 +1,39 @@
 [
   {
+    "title": "Murrell scores two as Falkirk claim Edinburgh double by beating Hibs",
+    "url": "https://www.skysports.com/football/hibernian-vs-falkirk/report/558384",
+    "summary": "Falkirk registered a stunning Edinburgh double as they put Hibs to the sword with a 2-1 win in an entertaining Scottish Premiership clash at Easter Road.",
+    "published": "Sat, 17 Oct 2026 16:50:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-jacob-falkirk-murrell_7379265.jpg?20261017175924",
+    "media_type": "image/jpg",
+    "arabic_title": "سجل موريل هدفين ليحقق فالكيرك ثنائية إدنبرة بفوزه على هيبس",
+    "arabic_summary": "سجل فالكيرك ثنائية إدنبره المذهلة حيث وضع هيبس في مواجهة السيف بفوزه 2-1 في مباراة ممتعة في الدوري الاسكتلندي الممتاز على طريق إيستر.",
+    "translation_status": "translated",
+    "post_title": "سجل موريل هدفين ليحقق فالكيرك ثنائية إدنبرة بفوزه على هيبس",
+    "post_text": "🚨 سجل موريل هدفين ليحقق فالكيرك ثنائية إدنبرة بفوزه على هيبس\n\n📝 سجل فالكيرك ثنائية إدنبره المذهلة حيث وضع هيبس في مواجهة السيف بفوزه 2-1 في مباراة ممتعة في الدوري الاسكتلندي الممتاز على طريق إيستر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080879754577335",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سجل_موريل_هدفين_ليحقق_فالكيرك_ثنائية_إدنبرة_بفوزه_على_هيبس.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/hibernian-vs-falkirk/report/558384",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aq_NRiwQOutjpYZ4bWxHn02"
+    }
+  },
+  {
     "title": "Beñat San José: \"Nadie quiere estar en esta situación\"",
     "url": "https://www.marca.com/futbol/rayo/2026/10/17/benat-san-jose-nadie-quiere-situacion.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKE1O41hNq1R_iGdc-1a1gt"
-    }
-  },
-  {
-    "title": "What fans can expect from the African GP",
-    "url": "https://www.skysports.com/watch/video/13598822/f1-what-fans-can-expect-from-the-african-grand-prix",
-    "summary": "Naomi Schiff teases fans about what to expect from the African Grand Prix.",
-    "published": "Tue, 13 Oct 2026 12:50:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-africa-gp_7375854.jpg?20261013125704",
-    "media_type": "image/jpg",
-    "arabic_title": "ما يمكن أن يتوقعه المشجعون من سباق الجائزة الكبرى الأفريقي",
-    "arabic_summary": "ناعومي شيف تثير غضب المشجعين حول ما يمكن توقعه من سباق الجائزة الكبرى الأفريقي.",
-    "translation_status": "translated",
-    "post_title": "ما يمكن أن يتوقعه المشجعون من سباق الجائزة الكبرى الأفريقي",
-    "post_text": "🚨 ما يمكن أن يتوقعه المشجعون من سباق الجائزة الكبرى الأفريقي\n\n📝 ناعومي شيف تثير غضب المشجعين حول ما يمكن توقعه من سباق الجائزة الكبرى الأفريقي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077597554905555",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_يمكن_أن_يتوقعه_المشجعون_من_سباق_الجائزة_الكبرى_الأفريقي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13598822/f1-what-fans-can-expect-from-the-african-grand-prix",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Afh_-qCi1YZ0GcqFJa-eXfC"
     }
   }
 ]
