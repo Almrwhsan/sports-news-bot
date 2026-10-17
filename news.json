@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rueda de prensa de Hansi Flick, en directo: declaraciones previas al Betis - Barcelona de LaLiga, en vivo",
+    "url": "https://as.com/futbol/primera/rueda-de-prensa-de-hansi-flick-en-directo-declaraciones-previas-al-betis-barcelona-de-laliga-en-vivo-f202610-d/",
+    "summary": "Sigue en directo la rueda de prensa de Hansi Flick previa al Betis - Barcelona, partido de la jornada 9 de LaLiga EA Sports.",
+    "published": "Fri, 16 Oct 2026 11:46:12 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://www.youtube.com/watch?v=gCu_CX7SGI0",
+    "media_type": "application/octet-stream",
+    "arabic_title": "المؤتمر الصحفي لهانسي فليك، مباشر: تصريحات قبل مباراة بيتيس - برشلونة، في الدوري الإسباني، مباشرة",
+    "arabic_summary": "تابع المؤتمر الصحفي لهانسي فليك مباشرة قبل مباراة بيتيس - برشلونة، الجولة 9 من الدوري الإسباني EA Sports.",
+    "translation_status": "translated",
+    "post_title": "المؤتمر الصحفي لهانسي فليك، مباشر: تصريحات قبل مباراة بيتيس - برشلونة، في الدوري الإسباني، مباشرة",
+    "post_text": "🚨 المؤتمر الصحفي لهانسي فليك، مباشر: تصريحات قبل مباراة بيتيس - برشلونة، في الدوري الإسباني، مباشرة\n\n📝 تابع المؤتمر الصحفي لهانسي فليك مباشرة قبل مباراة بيتيس - برشلونة، الجولة 9 من الدوري الإسباني EA Sports.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1080371844628126",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لهانسي_فليك،_مباشر_تصريحات_قبل_مباراة_بيتيس_-_برشلونة،_في_الدوري_.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApFpDNOXiydYgCfLCUymCSZ"
+    }
+  },
+  {
     "title": "Ramón Díaz: “Deseché a Corinthians esperando a River”",
     "url": "https://as.com/futbol/internacional/ramon-diaz-deseche-a-corinthians-esperando-a-river-f202610-n/",
     "summary": "El entrenador riojano rompió su silencio en medio de los rumores que le acercan al banquillo de el Monumental: “No se comunicaron con nosotros. Siempre deseo que le vaya bien al club”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsY5AV0ymYvM3JgBDIKTyYT"
-    }
-  },
-  {
-    "title": "Hinchas del Real Madrid tienen que reprender a Vinícius",
-    "url": "https://as.com/us/videos/hinchas-del-real-madrid-tienen-que-reprender-a-vinicius-f202610-v/",
-    "summary": "‘Vini’ cometió una tontería al jalarle el cabello a un rival, además, después empujó a un juez, lo que le traería una sanción aún más severa.",
-    "published": "Mon, 12 Oct 2026 22:52:54 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261012/1224615_224828_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "يجب على مشجعي ريال مدريد أن يوبخوا فينيسيوس",
-    "arabic_summary": "لقد فعل \"فيني\" شيئًا غبيًا من خلال شد شعر منافس، ثم دفع القاضي، الأمر الذي من شأنه أن يفرض عليه عقوبة أشد.",
-    "translation_status": "translated",
-    "post_title": "يجب على مشجعي ريال مدريد أن يوبخوا فينيسيوس",
-    "post_text": "🚨 يجب على مشجعي ريال مدريد أن يوبخوا فينيسيوس\n\n📝 لقد فعل \"فيني\" شيئًا غبيًا من خلال شد شعر منافس، ثم دفع القاضي، الأمر الذي من شأنه أن يفرض عليه عقوبة أشد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077003568298287",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يجب_على_مشجعي_ريال_مدريد_أن_يوبخوا_فينيسيوس.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A29J43tQxuoG4YNwxdTKmBG"
     }
   }
 ]
