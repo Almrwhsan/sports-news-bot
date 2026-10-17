@@ -1,5 +1,39 @@
 [
   {
+    "title": "Real Madrid TV, a la carga con malicia: “El CTA es el CFB: club de fans del Barça”",
+    "url": "https://as.com/futbol/videos/real-madrid-tv-a-la-carga-con-malicia-el-cta-es-el-cfb-club-de-fans-del-barca-f202610-v/",
+    "summary": "La televisión privada de la entidad blanca se defendió de las acusadiones de Javier Tebas de sus prácticas maliciosas de comunicación atacando al FC Barcelona y al colectivo arbitral de la siguiente manera.",
+    "published": "Sat, 17 Oct 2026 11:19:15 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226561_111520_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "قناة ريال مدريد تتهم بالخبث: \"CTA هو CFB: نادي مشجعي برشلونة\"",
+    "arabic_summary": "دافع التلفزيون الخاص بالكيان الأبيض عن نفسه أمام اتهامات خافيير تيباس بممارساته التواصلية الخبيثة، وذلك بمهاجمة نادي برشلونة وفريق التحكيم على النحو التالي.",
+    "translation_status": "translated",
+    "post_title": "قناة ريال مدريد تتهم بالخبث: \"CTA هو CFB: نادي مشجعي برشلونة\"",
+    "post_text": "🚨 قناة ريال مدريد تتهم بالخبث: \"CTA هو CFB: نادي مشجعي برشلونة\"\n\n📝 دافع التلفزيون الخاص بالكيان الأبيض عن نفسه أمام اتهامات خافيير تيباس بممارساته التواصلية الخبيثة، وذلك بمهاجمة نادي برشلونة وفريق التحكيم على النحو التالي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081027724562538",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قناة_ريال_مدريد_تتهم_بالخبث_CTA_هو_CFB_نادي_مشجعي_برشلونة.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A92BbCXrkp7xIeJcYx3NSOK"
+    }
+  },
+  {
     "title": "Simeone abre el debate de un sexto cambio: \"Son muchos partidos, minutos... vamos en ese camino\"",
     "url": "https://www.marca.com/futbol/atletico/2026/10/17/simeone-abre-debate-sexto-cambio-son-partidos-minutos-ese-camino.html",
     "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aw4g_AFV5yeLBLaXLJH_wx1"
-    }
-  },
-  {
-    "title": "La Roma que no se construyó en un día",
-    "url": "https://as.com/opinion/la-roma-que-no-se-construyo-en-un-dia-f202610-n/",
-    "summary": "Finalmente a Gasperini se le ha entregado el equipo más adecuado para realizar su juego eléctrico.",
-    "published": "Tue, 13 Oct 2026 22:22:25 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5BELIU5IGRNQVJ7CW3WOILQLRQ.jpg?auth=9ac9d5ef7432144d6937e53467255e488091db2fe379605ff87bc55f920c6dc7",
-    "media_type": "image/jpeg",
-    "arabic_title": "روما التي لم يتم بناؤها في يوم واحد",
-    "arabic_summary": "وأخيرًا، تم تزويد جاسبريني بالمعدات الأكثر ملائمة لأداء لعبته الكهربائية.",
-    "translation_status": "translated",
-    "post_title": "روما التي لم يتم بناؤها في يوم واحد",
-    "post_text": "🚨 روما التي لم يتم بناؤها في يوم واحد\n\n📝 وأخيرًا، تم تزويد جاسبريني بالمعدات الأكثر ملائمة لأداء لعبته الكهربائية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077765214888789",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روما_التي_لم_يتم_بناؤها_في_يوم_واحد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/la-roma-que-no-se-construyo-en-un-dia-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AToErLpTq5zN6teKZKwpiJQ"
     }
   }
 ]
