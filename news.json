@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mourinho cambia los pies del Madrid",
+    "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/19/mourinho-cambia-pies-madrid.html",
+    "summary": "La opinión de Santiago Siguero",
+    "published": "Mon, 19 Oct 2026 00:07:09 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/18/6ad53dc5824d8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مورينيو يغير أقدام مدريد",
+    "arabic_summary": "رأي سانتياغو فويرو",
+    "translation_status": "translated",
+    "post_title": "مورينيو يغير أقدام مدريد",
+    "post_text": "🚨 مورينيو يغير أقدام مدريد\n\n📝 رأي سانتياغو فويرو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081994214465889",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_يغير_أقدام_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/19/mourinho-cambia-pies-madrid.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzWNVxFTFedz9YJRVcX2bk4"
+    }
+  },
+  {
     "title": "Diego López, de vuelta con Mou",
     "url": "https://as.com/futbol/primera/diego-lopez-de-vuelta-con-mou-f202610-n/",
     "summary": "Sin Nuno Santos, sancionado, sube al primer equipo desde el Castilla. Dirigió el calentamiento ante el Sevilla. Es el entrenador de porteros de López de Lerma.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJ35pPt_Syh7wrfrhY3Td7w"
-    }
-  },
-  {
-    "title": "Alineación confirmada del Real Madrid contra la Roma en la Champions League",
-    "url": "https://as.com/futbol/champions/alineacion-confirmada-del-real-madrid-contra-la-roma-en-la-champions-league-f202610-n/",
-    "summary": "Mourinho no hará probaturas y formará con un once competitivo para sacar los tres puntos del Olímpico tras haber ganado el primer duelo de la Champions.",
-    "published": "Wed, 14 Oct 2026 18:23:03 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DWJHQ5OISBIT3DYGYUA5YKYPVI.jpg?auth=e2cf222b790e1a6a3e638562229b662e3594a048448217ef780471cceae51ed6",
-    "media_type": "image/jpeg",
-    "arabic_title": "التشكيل الرسمي لريال مدريد أمام روما في دوري أبطال أوروبا",
-    "arabic_summary": "لن يرتكب مورينيو أي أخطاء وسيشكل أحد عشر فريقًا تنافسيًا للحصول على النقاط الثلاث من الفريق الأولمبي بعد فوزه في المواجهة الأولى في دوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "التشكيل الرسمي لريال مدريد أمام روما في دوري أبطال أوروبا",
-    "post_text": "🚨 التشكيل الرسمي لريال مدريد أمام روما في دوري أبطال أوروبا\n\n📝 لن يرتكب مورينيو أي أخطاء وسيشكل أحد عشر فريقًا تنافسيًا للحصول على النقاط الثلاث من الفريق الأولمبي بعد فوزه في المواجهة الأولى في دوري أبطال أوروبا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078233758175268",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التشكيل_الرسمي_لريال_مدريد_أمام_روما_في_دوري_أبطال_أوروبا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/alineacion-confirmada-del-real-madrid-contra-la-roma-en-la-champions-league-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AmorlMI7SSjsxZLBRm45OSe"
     }
   }
 ]
