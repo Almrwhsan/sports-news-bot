@@ -1,5 +1,39 @@
 [
   {
+    "title": "Man City maintain perfect WSL record as Chelsea, Man Utd, London City win",
+    "url": "https://www.skysports.com/football/news/12040/13600686/man-city-maintain-perfect-record-as-chelsea-man-utd-and-london-city-lionesses-all-win-womens-super-league-round-up",
+    "summary": "Manchester City held off a spirited fightback from Brighton to close out a 3-2 win and maintain their perfect start in the Women&#8217;s Super League.",
+    "published": "Sun, 18 Oct 2026 16:26:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-khadija-shaw-wsl_7379863.jpg?20261018145606",
+    "media_type": "image/jpg",
+    "arabic_title": "يحتفظ مان سيتي بسجل مثالي في دوري WSL حيث يفوز تشيلسي ومانشستر يونايتد ولندن سيتي",
+    "arabic_summary": "صمد مانشستر سيتي في مواجهة قوية من برايتون لينهي الفوز بنتيجة 3-2 ويحافظ على بدايته المثالية في الدوري الممتاز للسيدات.",
+    "translation_status": "translated",
+    "post_title": "يحتفظ مان سيتي بسجل مثالي في دوري WSL حيث يفوز تشيلسي ومانشستر يونايتد ولندن سيتي",
+    "post_text": "🚨 يحتفظ مان سيتي بسجل مثالي في دوري WSL حيث يفوز تشيلسي ومانشستر يونايتد ولندن سيتي\n\n📝 صمد مانشستر سيتي في مواجهة قوية من برايتون لينهي الفوز بنتيجة 3-2 ويحافظ على بدايته المثالية في الدوري الممتاز للسيدات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081923411139636",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يحتفظ_مان_سيتي_بسجل_مثالي_في_دوري_WSL_حيث_يفوز_تشيلسي_ومانشستر_يونايتد_ولندن_سيت.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13600686/man-city-maintain-perfect-record-as-chelsea-man-utd-and-london-city-lionesses-all-win-womens-super-league-round-up",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AA6RiZ8dd9IKEL2o2XeScf9"
+    }
+  },
+  {
     "title": "Ten unusual jobs in football",
     "url": "https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&at_campaign=rss",
     "summary": "What are some of the lesser known jobs in football? BBC Bitesize Careers finds out!",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AygLVL6m5002ce30Vyw4CR9"
-    }
-  },
-  {
-    "title": "Ave, Arda",
-    "url": "https://as.com/futbol/champions/ave-arda-f202610-n/",
-    "summary": "Güler se estrena en Roma en esta Champions después de cumplir sanción ante el Inter. Su última aparición en Europa fue un doblete en Múnich.",
-    "published": "Wed, 14 Oct 2026 15:06:25 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261002/1221297_201007_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "شارع، أردا",
-    "arabic_summary": "يظهر جولر لأول مرة في روما في دوري أبطال أوروبا بعد أن قضى عقوبة الإيقاف أمام إنتر. آخر ظهور له في أوروبا كان مزدوجًا في ميونيخ.",
-    "translation_status": "translated",
-    "post_title": "شارع، أردا",
-    "post_text": "🚨 شارع، أردا\n\n📝 يظهر جولر لأول مرة في روما في دوري أبطال أوروبا بعد أن قضى عقوبة الإيقاف أمام إنتر. آخر ظهور له في أوروبا كان مزدوجًا في ميونيخ.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078211221510855",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شارع،_أردا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APzZqGcJcTMYF2cmYCkg8KC"
     }
   }
 ]
