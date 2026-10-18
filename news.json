@@ -1,5 +1,39 @@
 [
   {
+    "title": "Espí se rebela",
+    "url": "https://as.com/futbol/primera/espi-se-rebela-f202610-n/",
+    "summary": "El ariete sigue aprovechando sus escasos minutos (38′) con goles (3) pese a que Mou deja claro que Mbappé no va a rotar: “Estar en la misma plantilla que Kylian no es fácil”.",
+    "published": "Sun, 18 Oct 2026 07:54:26 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MMCV3HTXPFJVZFJY4H4N2237P4.jpg?auth=d949fb7b31971f3cc4e4b88ee80608a42d2e46084b19462ae076814fa8fe8c36",
+    "media_type": "image/jpeg",
+    "arabic_title": "متمردي إسبي",
+    "arabic_summary": "يواصل المهاجم الاستفادة من دقائقه القليلة (38 دقيقة) بتسجيل الأهداف (3) على الرغم من أن مو يوضح أن مبابي لن يتناوب: \"التواجد في نفس الفريق مع كيليان ليس بالأمر السهل\".",
+    "translation_status": "translated",
+    "post_title": "متمردي إسبي",
+    "post_text": "🚨 متمردي إسبي\n\n📝 يواصل المهاجم الاستفادة من دقائقه القليلة (38 دقيقة) بتسجيل الأهداف (3) على الرغم من أن مو يوضح أن مبابي لن يتناوب: \"التواجد في نفس الفريق مع كيليان ليس بالأمر السهل\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081900054475305",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/متمردي_إسبي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/espi-se-rebela-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ab_lIrrtxlyY-qi05wM3J2R"
+    }
+  },
+  {
     "title": "Los veteranos no entienden de colores",
     "url": "https://as.com/futbol/primera/los-veteranos-no-entienden-de-colores-f202610-n/",
     "summary": "Cada vez son más habituales los partidos entre exfutbolistas, pero no siempre los equipos están plagados de leyendas. Aquí desgranamos las convocatorias.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APUPTQqloygrYc8EQka2Z_N"
-    }
-  },
-  {
-    "title": "Sunderland latest: Le Bris urges players to 'respect' Torreense",
-    "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Sat, 10 Oct 2026 18:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار سندرلاند: يحث لو بريس اللاعبين على \"احترام\" تورينسي",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار سندرلاند: يحث لو بريس اللاعبين على \"احترام\" تورينسي",
-    "post_text": "🚨 آخر أخبار سندرلاند: يحث لو بريس اللاعبين على \"احترام\" تورينسي\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078182144847096",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_سندرلاند_يحث_لو_بريس_اللاعبين_على_احترام_تورينسي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGQdITfM4BBF8E5iPQ3SHGC"
     }
   }
 ]
