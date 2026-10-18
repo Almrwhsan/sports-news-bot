@@ -1,5 +1,39 @@
 [
   {
+    "title": "Manolo González: \"Se nos va el partido en una situación controlable\"",
+    "url": "https://www.marca.com/futbol/espanyol/2026/10/17/manolo-gonzalez-partido-situacion-controlable.html",
+    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
+    "published": "Sat, 17 Oct 2026 17:22:22 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/17/6ad39289c2b1c.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مانولو جونزاليس: \"المباراة تنتهي في وضع يمكن السيطرة عليه\"",
+    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
+    "translation_status": "translated",
+    "post_title": "مانولو جونزاليس: \"المباراة تنتهي في وضع يمكن السيطرة عليه\"",
+    "post_text": "🚨 مانولو جونزاليس: \"المباراة تنتهي في وضع يمكن السيطرة عليه\"\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081675611164416",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانولو_جونزاليس_المباراة_تنتهي_في_وضع_يمكن_السيطرة_عليه.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/espanyol/2026/10/17/manolo-gonzalez-partido-situacion-controlable.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABK6cCQt9R3FmpVSr4LX_uy"
+    }
+  },
+  {
     "title": "Botham reopens war of words with Stokes over Ashes fallout",
     "url": "https://www.skysports.com/cricket/news/12040/13600558/ian-botham-reopens-war-of-words-with-ben-stokes-over-ashes-fallout",
     "summary": "Lord Ian Botham has reopened his war of words with recently retired England captain Ben Stokes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASneGqCiQaD05Qvgkeq1mAq"
-    }
-  },
-  {
-    "title": "Feyi-Waboso expected to be fit for England's Nations Championship campaign",
-    "url": "https://www.skysports.com/rugby-union/news/12040/13599229/immanuel-feyi-waboso-expected-to-be-fit-for-englands-nations-championship-fixture-against-australia-in-november",
-    "summary": "Immanuel Feyi-Waboso is expected to be fit for England's Nations Championship campaign this autumn after receiving a positive update on his hamstring injury.",
-    "published": "Wed, 14 Oct 2026 13:42:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-immanuel-feyi-waboso_7376779.jpg?20261014135325",
-    "media_type": "image/jpg",
-    "arabic_title": "من المتوقع أن يكون Feyi-Waboso لائقًا لحملة بطولة الأمم الإنجليزية",
-    "arabic_summary": "من المتوقع أن يكون إيمانويل فيي-وابوسو لائقًا للمشاركة في بطولة الأمم الإنجليزية هذا الخريف بعد تلقيه تحديثًا إيجابيًا بشأن إصابته في أوتار الركبة.",
-    "translation_status": "translated",
-    "post_title": "من المتوقع أن يكون Feyi-Waboso لائقًا لحملة بطولة الأمم الإنجليزية",
-    "post_text": "🚨 من المتوقع أن يكون Feyi-Waboso لائقًا لحملة بطولة الأمم الإنجليزية\n\n📝 من المتوقع أن يكون إيمانويل فيي-وابوسو لائقًا للمشاركة في بطولة الأمم الإنجليزية هذا الخريف بعد تلقيه تحديثًا إيجابيًا بشأن إصابته في أوتار الركبة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078050374860273",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_المتوقع_أن_يكون_Feyi-Waboso_لائقًا_لحملة_بطولة_الأمم_الإنجليزية.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-union/news/12040/13599229/immanuel-feyi-waboso-expected-to-be-fit-for-englands-nations-championship-fixture-against-australia-in-november",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5QtUwQId5zO8Rs3txrPEeL"
     }
   }
 ]
