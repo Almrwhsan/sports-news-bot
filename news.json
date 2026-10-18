@@ -1,5 +1,39 @@
 [
   {
+    "title": "¡Arrasate, qué bueno que volviste!",
+    "url": "https://as.com/futbol/arrasate-que-bueno-que-volviste-f202610-n/",
+    "summary": "El efecto Jagoba cambia la cara de Osasuna. El Racing, sin capacidad de respuesta ni efectividad.",
+    "published": "Sun, 18 Oct 2026 15:03:02 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "تخلص منه، من الجيد أنك عدت!",
+    "arabic_summary": "تأثير جاجوبا يغير وجه أوساسونا. السباق دون استجابة أو فعالية.",
+    "translation_status": "translated",
+    "post_title": "تخلص منه، من الجيد أنك عدت!",
+    "post_text": "🚨 تخلص منه، من الجيد أنك عدت!\n\n📝 تأثير جاجوبا يغير وجه أوساسونا. السباق دون استجابة أو فعالية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081796067819037",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تخلص_منه،_من_الجيد_أنك_عدت!.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/arrasate-que-bueno-que-volviste-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AO-9ijFK5C7PNlZX6BlpLi9"
+    }
+  },
+  {
     "title": "Nottingham Forest 'suffocating' Arsenal LIVE! & highlights",
     "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5tmIBfW8OdArXB08WBZhQG"
-    }
-  },
-  {
-    "title": "Roma venera al Totti que no se fue al Madrid: “Siempre fue fiel”",
-    "url": "https://as.com/futbol/roma-venera-al-totti-que-no-se-fue-al-madrid-siempre-fue-fiel-f202610-n/",
-    "summary": "El eterno ‘Capitano’, que acaba de cumplir 50 años, sigue muy vivo en el imaginario romanista. En sus calles y en sus tiendas: “Aún nos piden su camiseta”.",
-    "published": "Wed, 14 Oct 2026 12:18:28 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PGSYILDODRJX7E6XQB72ZE2KTU.jpg?auth=2e74c0308e2aa19fc4a2cb37033de8419b7ee84c27f82e41ba71cc29397b9423",
-    "media_type": "image/jpeg",
-    "arabic_title": "روما يُكرّم توتي الذي لم يذهب إلى مدريد: \"كان مخلصًا دائمًا\"",
-    "arabic_summary": "لا يزال \"الكابيتانو\" الأبدي، الذي بلغ للتو الخمسين من عمره، حيًا جدًا في الخيال الروماني. في شوارعهم وفي متاجرهم: «ما زالوا يطلبون منا قمصانهم».",
-    "translation_status": "translated",
-    "post_title": "روما يُكرّم توتي الذي لم يذهب إلى مدريد: \"كان مخلصًا دائمًا\"",
-    "post_text": "🚨 روما يُكرّم توتي الذي لم يذهب إلى مدريد: \"كان مخلصًا دائمًا\"\n\n📝 لا يزال \"الكابيتانو\" الأبدي، الذي بلغ للتو الخمسين من عمره، حيًا جدًا في الخيال الروماني. في شوارعهم وفي متاجرهم: «ما زالوا يطلبون منا قمصانهم».\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078113111520666",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روما_يُكرّم_توتي_الذي_لم_يذهب_إلى_مدريد_كان_مخلصًا_دائمًا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/roma-venera-al-totti-que-no-se-fue-al-madrid-siempre-fue-fiel-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxbLgLOop8mmlkCF8_PxKWB"
     }
   }
 ]
