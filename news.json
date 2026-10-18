@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nzonzi: “Nadie en el mundo está a la altura de Mbappé”",
+    "url": "https://as.com/futbol/nzonzi-nadie-en-el-mundo-esta-a-la-altura-de-mbappe-f202610-n/",
+    "summary": "El expivote del Sevilla analiza el estado de Camavinga (con el que coincidió en el Rennes), Mbappé y Tchouameni y valora la figura de Rodri: “Ahora es el mejor en su puesto”",
+    "published": "Sun, 18 Oct 2026 05:19:22 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CH6TRY6A5JLS7JVBB44QQXAS6Q.jpg?auth=5b95f0e5f6e14cb1bf35b4efd0745de1aae88556ca0419bbefcf086e0799b8b0",
+    "media_type": "image/jpeg",
+    "arabic_title": "نزونزي: لا أحد في العالم يضاهي مبابي",
+    "arabic_summary": "يحلل محور إشبيلية السابق وضع كامافينجا (الذي تزامن معه في رين)، ومبابي وتشواميني ويقدر رودري: \"الآن هو الأفضل في مركزه\"",
+    "translation_status": "translated",
+    "post_title": "نزونزي: لا أحد في العالم يضاهي مبابي",
+    "post_text": "🚨 نزونزي: لا أحد في العالم يضاهي مبابي\n\n📝 يحلل محور إشبيلية السابق وضع كامافينجا (الذي تزامن معه في رين)، ومبابي وتشواميني ويقدر رودري: \"الآن هو الأفضل في مركزه\"\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081556171176360",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نزونزي_لا_أحد_في_العالم_يضاهي_مبابي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/nzonzi-nadie-en-el-mundo-esta-a-la-altura-de-mbappe-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A99kEw4u0YTwuwZ_HQThvrd"
+    }
+  },
+  {
     "title": "¿Qué cambios tras lo de Roma?",
     "url": "https://as.com/opinion/que-cambios-tras-lo-de-roma-f202610-n/",
     "summary": "No soy quién para exigir respuestas a The Special One pero, simplemente, como cualquier otro madridista de bien, quiero entender mejor cuál es su plan para el equipo de aquí en adelante.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ALdNY1Fbb-PmAOG1iwEkfLg"
-    }
-  },
-  {
-    "title": "Time to rise? Ranking European football's sleeping giants",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
-    "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
-    "published": "Sat, 10 Oct 2026 05:14:17 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb5/live/a8fc7030-c259-11f1-bc2e-018d645d8d21.png",
-    "media_type": null,
-    "arabic_title": "وقت النهوض؟ ترتيب عمالقة كرة القدم النائمين في أوروبا",
-    "arabic_summary": "من سامبدوريا إلى سانت إتيان وريال سرقسطة، من هم عمالقة كرة القدم الأوروبية النائمون؟",
-    "translation_status": "translated",
-    "post_title": "وقت النهوض؟ ترتيب عمالقة كرة القدم النائمين في أوروبا",
-    "post_text": "🚨 وقت النهوض؟ ترتيب عمالقة كرة القدم النائمين في أوروبا\n\n📝 من سامبدوريا إلى سانت إتيان وريال سرقسطة، من هم عمالقة كرة القدم الأوروبية النائمون؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078007111531266",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وقت_النهوض؟_ترتيب_عمالقة_كرة_القدم_النائمين_في_أوروبا.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASRZjjYzQ2JDJZyR6pL2cM7"
     }
   }
 ]
