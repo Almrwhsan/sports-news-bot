@@ -1,5 +1,39 @@
 [
   {
+    "title": "NFL London LIVE! Texans leading Jags at Wembley",
+    "url": "https://www.skysports.com/nfl/live-blog/12040/13600279/nfl-london-games-2026-live-updates-result-highlights-from-jacksonville-jaguars-against-houston-texans-at-wembley-stadium",
+    "summary": "",
+    "published": "Sun, 18 Oct 2026 14:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-calen-bullock-texans_7379935.jpg?20261018154935",
+    "media_type": "image/jpg",
+    "arabic_title": "اتحاد كرة القدم الأميركي لندن لايف! تكساس يقودون Jags في ويمبلي",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "اتحاد كرة القدم الأميركي لندن لايف! تكساس يقودون Jags في ويمبلي",
+    "post_text": "🚨 اتحاد كرة القدم الأميركي لندن لايف! تكساس يقودون Jags في ويمبلي\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081729181159059",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اتحاد_كرة_القدم_الأميركي_لندن_لايف!_تكساس_يقودون_Jags_في_ويمبلي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/nfl/live-blog/12040/13600279/nfl-london-games-2026-live-updates-result-highlights-from-jacksonville-jaguars-against-houston-texans-at-wembley-stadium",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AH1OZtvfaSf1nzTRvzGAGcU"
+    }
+  },
+  {
     "title": "“Valverde debe plantearse hacia dónde orientar su carrera”",
     "url": "https://as.com/futbol/primera/valverde-debe-plantearse-hacia-donde-orientar-su-carrera-f202610-n/",
     "summary": "Hierro, Iván Campo, Miguel Torres, Alkorta y Guti, todos exjugadores polivalentes, reflexionan en AS sobre el mejor encaje del uruguayo en el Real Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdIzz1P6IwAgjiD8u-NeRnO"
-    }
-  },
-  {
-    "title": "Rooney atiza a Cristiano: \"No está llevando bien el final de su carrera internacional\"",
-    "url": "https://www.marca.com/futbol/2026/10/14/rooney-atiza-cristiano-llevando-bien-final-carrera-internacional.html",
-    "summary": "El ex delantero y compañero del luso en el Manchester United reconoce que cree que está llevando mal el momento de decir adiós al fútbol",
-    "published": "Wed, 14 Oct 2026 13:05:03 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/6acf61d2d5c50.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "روني يهاجم كريستيانو: لا يتعامل مع نهاية مسيرته الدولية بشكل جيد",
-    "arabic_summary": "اعترف المهاجم السابق وزميل البرتغالي في مانشستر يونايتد بأنه يعتقد أنه يتعامل مع لحظة توديع كرة القدم بشكل سيء.",
-    "translation_status": "translated",
-    "post_title": "روني يهاجم كريستيانو: لا يتعامل مع نهاية مسيرته الدولية بشكل جيد",
-    "post_text": "🚨 روني يهاجم كريستيانو: لا يتعامل مع نهاية مسيرته الدولية بشكل جيد\n\n📝 اعترف المهاجم السابق وزميل البرتغالي في مانشستر يونايتد بأنه يعتقد أنه يتعامل مع لحظة توديع كرة القدم بشكل سيء.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078072458191398",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روني_يهاجم_كريستيانو_لا_يتعامل_مع_نهاية_مسيرته_الدولية_بشكل_جيد.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/14/rooney-atiza-cristiano-llevando-bien-final-carrera-internacional.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5FFhSBwPHgW2obXCjjyF1z"
     }
   }
 ]
