@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mateo Busquets pitará el Real Madrid-Sevilla",
+    "url": "https://as.com/futbol/primera/mateo-busquets-pitara-el-real-madrid-sevilla-f202610-n/",
+    "summary": "El mallorquín es el árbitro elegido por el Comité de Designaciones para el partido entre los merengues e hispalenses de este domingo.",
+    "published": "Sat, 17 Oct 2026 12:18:32 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226561_111520_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "ماتيو بوسكيتس يطلق صافرة الإنذار لصالح مباراة ريال مدريد وإشبيلية",
+    "arabic_summary": "مايوركا هو الحكم الذي اختارته لجنة التعيينات لمباراة الميرينجي وإشبيلية يوم الأحد.",
+    "translation_status": "translated",
+    "post_title": "ماتيو بوسكيتس يطلق صافرة الإنذار لصالح مباراة ريال مدريد وإشبيلية",
+    "post_text": "🚨 ماتيو بوسكيتس يطلق صافرة الإنذار لصالح مباراة ريال مدريد وإشبيلية\n\n📝 مايوركا هو الحكم الذي اختارته لجنة التعيينات لمباراة الميرينجي وإشبيلية يوم الأحد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081308001201177",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماتيو_بوسكيتس_يطلق_صافرة_الإنذار_لصالح_مباراة_ريال_مدريد_وإشبيلية.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AC7n8L8p3xcn3VLQ9DH6TTq"
+    }
+  },
+  {
     "title": "Alerta Champions en el PSG: Nuno Mendes, KO",
     "url": "https://as.com/futbol/internacional/alerta-champions-en-el-psg-nuno-mendes-ko-f202610-n/",
     "summary": "El lateral portugués dejó a su equipo con diez cuando se marchó a los vestuarios cariacontecido tras sufrir molestias físicas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3jcgasa3LwfAtHtHkHoWie"
-    }
-  },
-  {
-    "title": "Betis - Oporto: ¡Que suene la música de la Champions en La Cartuja!",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/14/betis-oporto-suene-musica-champions-cartuja.html",
-    "summary": "Los verdiblancos vuelven a jugar un partido del torneo como locales 21 años después",
-    "published": "Wed, 14 Oct 2026 06:46:53 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6acdff95e6021.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيتيس - بورتو: دع موسيقى دوري أبطال أوروبا تعزف في لا كارتوجا!",
-    "arabic_summary": "يلعب فريق Verdiblancos مباراة البطولة على أرضه مرة أخرى بعد 21 عامًا",
-    "translation_status": "translated",
-    "post_title": "بيتيس - بورتو: دع موسيقى دوري أبطال أوروبا تعزف في لا كارتوجا!",
-    "post_text": "🚨 بيتيس - بورتو: دع موسيقى دوري أبطال أوروبا تعزف في لا كارتوجا!\n\n📝 يلعب فريق Verdiblancos مباراة البطولة على أرضه مرة أخرى بعد 21 عامًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077847118213932",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيتيس_-_بورتو_دع_موسيقى_دوري_أبطال_أوروبا_تعزف_في_لا_كارتوجا!.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/14/betis-oporto-suene-musica-champions-cartuja.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ag_Huy3Q4X2YNfWFBjuAFOh"
     }
   }
 ]
