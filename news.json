@@ -1,5 +1,39 @@
 [
   {
+    "title": "Life as a Wag in the transfer window",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+    "published": "Sat, 08 Aug 2026 05:15:34 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
+    "media_type": null,
+    "arabic_title": "الحياة كهزات في فترة الانتقالات",
+    "arabic_summary": "كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟",
+    "translation_status": "translated",
+    "post_title": "الحياة كهزات في فترة الانتقالات",
+    "post_text": "🚨 الحياة كهزات في فترة الانتقالات\n\n📝 كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081870997811544",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحياة_كهزات_في_فترة_الانتقالات.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AGQ_NIi3wRHrjO_VPSt6d0_"
+    }
+  },
+  {
     "title": "Bournemouth beat 10-man Sunderland to pick up first league win of season",
     "url": "https://www.skysports.com/football/bournemouth-vs-sunderland/report/559504",
     "summary": "Marcus Tavernier and Evanilson both struck in a comfortable 2-0 win over 10-man Sunderland as Bournemouth picked up their first Premier League win of the season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8T0IhMHESxGyZVPP89T31D"
-    }
-  },
-  {
-    "title": "Donde Huijsen se hizo gladiador",
-    "url": "https://as.com/futbol/champions/donde-huijsen-se-hizo-gladiador-f202610-n/",
-    "summary": "Una cesión de seis meses a la Roma le hizo explotar. De ahí pasó al Bournemouth, a cambio de algo más de 22M€. Esta noche regresa al once, tras cumplir en Liga la sanción del derbi.",
-    "published": "Wed, 14 Oct 2026 12:44:17 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DPTDKFB2WVGUPELLIUUIK4AFT4.jpg?auth=8d2a572d0458eb86f9ad4a2fa23a1cb80dcb0e87cd525d4fc47b1fc875ec9ebb",
-    "media_type": "image/jpeg",
-    "arabic_title": "حيث أصبح Huijsen مصارعًا",
-    "arabic_summary": "لقد تسببت إعارة روما لمدة ستة أشهر في انفجاره. ومن هناك انتقل إلى بورنموث مقابل ما يزيد قليلاً عن 22 مليون يورو. الليلة يعود إلى الحادية عشرة، بعد أن قضى عقوبة الديربي في الدوري.",
-    "translation_status": "translated",
-    "post_title": "حيث أصبح Huijsen مصارعًا",
-    "post_text": "🚨 حيث أصبح Huijsen مصارعًا\n\n📝 لقد تسببت إعارة روما لمدة ستة أشهر في انفجاره. ومن هناك انتقل إلى بورنموث مقابل ما يزيد قليلاً عن 22 مليون يورو. الليلة يعود إلى الحادية عشرة، بعد أن قضى عقوبة الديربي في الدوري.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078163004849010",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حيث_أصبح_Huijsen_مصارعًا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/donde-huijsen-se-hizo-gladiador-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7iCnMNeRBF5BGPyJS9qn3L"
     }
   }
 ]
