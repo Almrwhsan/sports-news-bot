@@ -10,7 +10,7 @@
       "id": "authorized_stream",
       "name": "Authorized Live Stream",
       "event_title": "Authorized Live",
-      "stream_url": "https://kurdtv.org/api/public/hls?u=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2F6U0D8teal5TM_WSU3e_DdQ-CjDsv7slfkUR3N4Do136NGdyRnUQ1LaZj5uEuKSSR1GovOM1pCYC31VXOLsfeRw%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM%2Fdynamic_highlatency.m3u8%3Ftype%3Dlive",
+      "stream_url": "https://18soso.s3.us-east-2.amazonaws.com/bein1/480p/manifest.m3u8Q-CjDsv7slfkUR3N4Do136NGdyRnUQ1LaZj5uEuKSSR1GovOM1pCYC31VXOLsfeRw%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM%2Fdynamic_highlatency.m3u8%3Ftype%3Dlive",
       "enabled": true,
       "status": "testing",
       "preferred_variant": 1
