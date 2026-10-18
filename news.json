@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nottingham Forest 'suffocating' Arsenal LIVE! & highlights",
+    "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
+    "summary": "",
+    "published": "Sun, 18 Oct 2026 14:55:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7380063.jpg?20261018172800",
+    "media_type": "image/jpg",
+    "arabic_title": "نوتنغهام فورست يخنق أرسنال بث مباشر! ويسلط الضوء",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "نوتنغهام فورست يخنق أرسنال بث مباشر! ويسلط الضوء",
+    "post_text": "🚨 نوتنغهام فورست يخنق أرسنال بث مباشر! ويسلط الضوء\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081781011153876",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نوتنغهام_فورست_يخنق_أرسنال_بث_مباشر!_ويسلط_الضوء.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AX4kONQQDW2OP05dLQVjlXw"
+    }
+  },
+  {
     "title": "Lorient - Mónaco, en directo: Ligue 1, hoy en vivo",
     "url": "https://as.com/futbol/internacional/lorient-monaco-en-directo-ligue-1-hoy-en-vivo-f202610-n/",
     "summary": "Lorient - Mónaco, en directo: Ligue 1, hoy en vivo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxbLgLOop8mmlkCF8_PxKWB"
-    }
-  },
-  {
-    "title": "England rocked by injury on eve of World Cup",
-    "url": "https://www.skysports.com/rugby-league/news/12040/13599247/rugby-league-world-cup-england-rocked-by-injury-with-perth-bears-bound-morgan-smithies-ruled-out",
-    "summary": "England have been rocked by injury on the eve of the Rugby League World Cup with Perth Bears-bound Morgan Smithies ruled out of the tournament.",
-    "published": "Wed, 14 Oct 2026 14:22:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-morgan-smithies-rugby-league_7376822.jpg?20261014141848",
-    "media_type": "image/jpg",
-    "arabic_title": "هزت الإصابة إنجلترا عشية كأس العالم",
-    "arabic_summary": "تعرضت إنجلترا لصدمة من الإصابة عشية كأس العالم لدوري الرجبي مع استبعاد مورجان سميثيز من بيرث بيرز من البطولة.",
-    "translation_status": "translated",
-    "post_title": "هزت الإصابة إنجلترا عشية كأس العالم",
-    "post_text": "🚨 هزت الإصابة إنجلترا عشية كأس العالم\n\n📝 تعرضت إنجلترا لصدمة من الإصابة عشية كأس العالم لدوري الرجبي مع استبعاد مورجان سميثيز من بيرث بيرز من البطولة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078103134854997",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هزت_الإصابة_إنجلترا_عشية_كأس_العالم.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-league/news/12040/13599247/rugby-league-world-cup-england-rocked-by-injury-with-perth-bears-bound-morgan-smithies-ruled-out",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AK5tToivqXZYWTH17e7zqQe"
     }
   }
 ]
