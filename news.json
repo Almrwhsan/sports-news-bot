@@ -1,5 +1,39 @@
 [
   {
+    "title": "Alerta Champions en el PSG: Nuno Mendes, KO",
+    "url": "https://as.com/futbol/internacional/alerta-champions-en-el-psg-nuno-mendes-ko-f202610-n/",
+    "summary": "El lateral portugués dejó a su equipo con diez cuando se marchó a los vestuarios cariacontecido tras sufrir molestias físicas.",
+    "published": "Sat, 17 Oct 2026 17:22:34 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/44SQTAM4OZPJZONGA2HMTNND7U.jpg?auth=7d16c6f4d67e30d1a3998e77fb16599d930bf5ffdb375042ca8ea2cda0d9792f",
+    "media_type": "image/jpeg",
+    "arabic_title": "تنبيه الأبطال في باريس سان جيرمان: نونو مينديز، KO",
+    "arabic_summary": "ترك الظهير البرتغالي فريقه بعشرة لاعبين عندما ذهب إلى غرفة خلع الملابس وبدا مكتئبًا بعد معاناته من إزعاج جسدي.",
+    "translation_status": "translated",
+    "post_title": "تنبيه الأبطال في باريس سان جيرمان: نونو مينديز، KO",
+    "post_text": "🚨 تنبيه الأبطال في باريس سان جيرمان: نونو مينديز، KO\n\n📝 ترك الظهير البرتغالي فريقه بعشرة لاعبين عندما ذهب إلى غرفة خلع الملابس وبدا مكتئبًا بعد معاناته من إزعاج جسدي.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081132741218703",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تنبيه_الأبطال_في_باريس_سان_جيرمان_نونو_مينديز،_KO.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/alerta-champions-en-el-psg-nuno-mendes-ko-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AosxcHma2yPZHvzNzX0eGcC"
+    }
+  },
+  {
     "title": "Resumen del Villarreal vs. Elche, jornada 9 de LaLiga EA Sports",
     "url": "https://as.com/futbol/videos/resumen-del-villarreal-vs-elche-jornada-9-de-laliga-ea-sports-f202610-v/",
     "summary": "El submarino amarillo acusa la falta de puntería ante un Elche que estuvo frágil en defensa, pero sobrevivío a las acometidas de los de Íñigo Pérez.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ag_Huy3Q4X2YNfWFBjuAFOh"
-    }
-  },
-  {
-    "title": "Choque de jeques entre City y PSG",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/14/choque-jeques-city-psg.html",
-    "summary": "Luis Enrique se reencuentra con un Enzo Maresca que, a los mandos del Chelsea, le derrotó en la final del Mundial de clubes 2025",
-    "published": "Wed, 14 Oct 2026 06:40:30 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/13/6ace5b3db5b31.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "صراع الشيوخ بين السيتي وباريس سان جيرمان",
-    "arabic_summary": "يجتمع لويس إنريكي مجددًا مع إنزو ماريسكا الذي هزمه بقيادة تشيلسي في نهائي كأس العالم للأندية 2025.",
-    "translation_status": "translated",
-    "post_title": "صراع الشيوخ بين السيتي وباريس سان جيرمان",
-    "post_text": "🚨 صراع الشيوخ بين السيتي وباريس سان جيرمان\n\n📝 يجتمع لويس إنريكي مجددًا مع إنزو ماريسكا الذي هزمه بقيادة تشيلسي في نهائي كأس العالم للأندية 2025.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1077842791547698",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/صراع_الشيوخ_بين_السيتي_وباريس_سان_جيرمان.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/14/choque-jeques-city-psg.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgeIeJB6ocUgzO9YLBmZ_xS"
     }
   }
 ]
