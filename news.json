@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lorient - Mónaco, en directo: Ligue 1, hoy en vivo",
+    "url": "https://as.com/futbol/internacional/lorient-monaco-en-directo-ligue-1-hoy-en-vivo-f202610-n/",
+    "summary": "Lorient - Mónaco, en directo: Ligue 1, hoy en vivo",
+    "published": "Sun, 18 Oct 2026 14:54:46 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "ligue_1",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FFQQ6ONDUFGMRKMSXQGQ2N3JAY.jpg?auth=f22d1e4a40f3637dd1842c371675059da5c34af671e9564d6a1f54939ff4b8a2",
+    "media_type": "image/jpeg",
+    "arabic_title": "لوريان - موناكو، بث مباشر: الدوري الفرنسي، بث مباشر اليوم",
+    "arabic_summary": "لوريان - موناكو، بث مباشر: الدوري الفرنسي، بث مباشر اليوم",
+    "translation_status": "translated",
+    "post_title": "لوريان - موناكو، بث مباشر: الدوري الفرنسي، بث مباشر اليوم",
+    "post_text": "🚨 لوريان - موناكو، بث مباشر: الدوري الفرنسي، بث مباشر اليوم\n\n📝 لوريان - موناكو، بث مباشر: الدوري الفرنسي، بث مباشر اليوم\n\n🏷️ الدوري الفرنسي\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1081777234487587",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لوريان_-_موناكو،_بث_مباشر_الدوري_الفرنسي،_بث_مباشر_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/lorient-monaco-en-directo-ligue-1-hoy-en-vivo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ATDS0GNhbGrnrdpA4-KAHxe"
+    }
+  },
+  {
     "title": "Este Castilla tiene Ángel",
     "url": "https://as.com/futbol/primera-rfef/este-castilla-tiene-angel-f202610-n/",
     "summary": "Tercer gol de Carvajal, que también forzó una expulsión, en tres partidos. Empató tras un autogol de Cestero. Leiva y Ciria sellaron la remontada. Destiny asustó al final.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AK5tToivqXZYWTH17e7zqQe"
-    }
-  },
-  {
-    "title": "Clasificación de la Champions League, en directo: el Barça se coloca primero y Atlético y Villarreal suman sus primeros puntos",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/13/clasificacion-champions-league-directo-barca-coloca-primero-fase-liga.html",
-    "summary": "Todos los detalles sobre los equipos de la máxima competición europea",
-    "published": "Tue, 13 Oct 2026 22:26:16 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "champions_league",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa180882f7b9.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تصنيف دوري أبطال أوروبا، مباشر: برشلونة يحتل المركز الأول، وأتلتيكو وفياريال يضيفان أولى نقاطهما",
-    "arabic_summary": "كل التفاصيل حول الفرق في المنافسة الأوروبية الكبرى",
-    "translation_status": "translated",
-    "post_title": "تصنيف دوري أبطال أوروبا، مباشر: برشلونة يحتل المركز الأول، وأتلتيكو وفياريال يضيفان أولى نقاطهما",
-    "post_text": "🚨 تصنيف دوري أبطال أوروبا، مباشر: برشلونة يحتل المركز الأول، وأتلتيكو وفياريال يضيفان أولى نقاطهما\n\n📝 كل التفاصيل حول الفرق في المنافسة الأوروبية الكبرى\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078092538189390",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تصنيف_دوري_أبطال_أوروبا،_مباشر_برشلونة_يحتل_المركز_الأول،_وأتلتيكو_وفياريال_يضيف.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/13/clasificacion-champions-league-directo-barca-coloca-primero-fase-liga.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ALG0x-zzoT0Hbg-EJeRLmUU"
     }
   }
 ]
