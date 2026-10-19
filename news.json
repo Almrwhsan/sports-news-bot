@@ -1,5 +1,39 @@
 [
   {
+    "title": "El PSG-Barça no peligra pese a la tensión en París",
+    "url": "https://as.com/futbol/el-psg-barca-no-peligra-pese-a-la-tension-en-paris-f202610-n/",
+    "summary": "Las protestas para la mejora educativa se saldó con más de 2.000 detenidos. El martes no hay manifestaciones previstas y el partido se jugará sin problemas.",
+    "published": "Mon, 19 Oct 2026 10:30:25 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SB5SOU2HKFGIZABESOTYCQLBDM.JPG?auth=bcb2c07706a8452cc2722ff7740e64b442ca60ec215e5cb9eac6e8c301ebc46b",
+    "media_type": "image/jpeg",
+    "arabic_title": "باريس سان جيرمان-برشلونة ليس في خطر رغم التوتر في باريس",
+    "arabic_summary": "وأسفرت الاحتجاجات المطالبة بتحسين التعليم عن اعتقال أكثر من 2000 شخص. لا توجد مظاهرات مخطط لها يوم الثلاثاء وستلعب المباراة دون مشاكل.",
+    "translation_status": "translated",
+    "post_title": "باريس سان جيرمان-برشلونة ليس في خطر رغم التوتر في باريس",
+    "post_text": "🚨 باريس سان جيرمان-برشلونة ليس في خطر رغم التوتر في باريس\n\n📝 وأسفرت الاحتجاجات المطالبة بتحسين التعليم عن اعتقال أكثر من 2000 شخص. لا توجد مظاهرات مخطط لها يوم الثلاثاء وستلعب المباراة دون مشاكل.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082449054420405",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باريس_سان_جيرمان-برشلونة_ليس_في_خطر_رغم_التوتر_في_باريس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/el-psg-barca-no-peligra-pese-a-la-tension-en-paris-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Akgwune2G5nKGHQpqyFE-gn"
+    }
+  },
+  {
     "title": "Mbappé gana el Onze de Oro",
     "url": "https://as.com/futbol/internacional/mbappe-gana-el-onze-de-oro-f202610-n/",
     "summary": "El delantero francés del Real Madrid gana el galardón de la revista, a una semana d ela entrega del Balón de Oro en Londres.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4jkw-ijKvaBCe3HbmU2O9c"
-    }
-  },
-  {
-    "title": "El Barça de Flick ‘golea’ a todos",
-    "url": "https://as.com/futbol/el-barca-de-flick-golea-a-todos-f202610-n/",
-    "summary": "Ningún equipo de Europa se acerca, ni por asomo, al caudal atacante del FC Barcelona en este inicio de curso. Sus 43 goles en diez partidos le sitúan como líder absoluto en todas las estadísticas ofensivas.",
-    "published": "Thu, 15 Oct 2026 07:43:00 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261013/1225036_211401_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "فليك برشلونة \"جوليا\" الجميع",
-    "arabic_summary": "لا يوجد فريق في أوروبا يقترب حتى ولو من بعيد من التدفق الهجومي لبرشلونة في بداية الموسم. أهدافه الـ 43 في عشر مباريات تجعله القائد المطلق في جميع الإحصائيات الهجومية.",
-    "translation_status": "translated",
-    "post_title": "فليك برشلونة \"جوليا\" الجميع",
-    "post_text": "🚨 فليك برشلونة \"جوليا\" الجميع\n\n📝 لا يوجد فريق في أوروبا يقترب حتى ولو من بعيد من التدفق الهجومي لبرشلونة في بداية الموسم. أهدافه الـ 43 في عشر مباريات تجعله القائد المطلق في جميع الإحصائيات الهجومية.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078679334797377",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فليك_برشلونة_جوليا_الجميع.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AyjXdIM0gfy6OL71XEu-4DC"
     }
   }
 ]
