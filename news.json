@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hancko: “El Atlético ha subido el nivel”",
+    "url": "https://as.com/futbol/champions/hancko-el-atletico-ha-subido-el-nivel-f202610-n/",
+    "summary": "El defensa del Atlético manifestó que “Cuti nos ha ayudado mucho, Pubill ha progresado mucho y me gusta jugar con los dos. Y Grimaldo tiene mucha calidad”.",
+    "published": "Mon, 19 Oct 2026 16:07:48 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JHJSNBMBHNN3FDU5PWVIMC5HHY.jpg?auth=17ba113711178443f303f0827eed30be7ec76f0fbbee0caabf9b2081c818126f",
+    "media_type": "image/jpeg",
+    "arabic_title": "هانكو: \"أتلتيكو رفع المستوى\"",
+    "arabic_summary": "صرح مدافع أتلتيكو أن \"كوتي ساعدنا كثيرًا، لقد تقدم بوبيل كثيرًا وأحب اللعب مع كليهما. وجريمالدو يتمتع بالكثير من الجودة\".",
+    "translation_status": "translated",
+    "post_title": "هانكو: \"أتلتيكو رفع المستوى\"",
+    "post_text": "🚨 هانكو: \"أتلتيكو رفع المستوى\"\n\n📝 صرح مدافع أتلتيكو أن \"كوتي ساعدنا كثيرًا، لقد تقدم بوبيل كثيرًا وأحب اللعب مع كليهما. وجريمالدو يتمتع بالكثير من الجودة\".\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082708344394476",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هانكو_أتلتيكو_رفع_المستوى.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/hancko-el-atletico-ha-subido-el-nivel-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeXmGiePqU6ZMdIFzjAqNVA"
+    }
+  },
+  {
     "title": "El Metropolitano une el campo y la consola en el torneo 'Esports + Sports'",
     "url": "https://www.marca.com/futbol/mas-futbol/2026/10/19/metropolitano-une-campo-consola-torneo-esports-sports.html",
     "summary": "Madrid in Game celebra los días 24 y 25 de octubre una competición que combina fútbol 3x3 y EA Sports FC 27 en tres categorías",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxV0PQ9me-tRpoRRHicpxMt"
-    }
-  },
-  {
-    "title": "Infantino sorry for World Cup plan and set to ditch Peace Prize",
-    "url": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
-    "summary": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday - and the Peace Prize he awarded to US President Donald Trump looks set to be ditched.",
-    "published": "Thu, 15 Oct 2026 16:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-    "media_type": "image/jpg",
-    "arabic_title": "إنفانتينو آسف لخطة كأس العالم ويستعد للتخلي عن جائزة السلام",
-    "arabic_summary": "اعتذر رئيس الاتحاد الدولي لكرة القدم جياني إنفانتينو عن خطته الخاصة بكأس العالم خلال اجتماع لمجلس الاتحاد الدولي لكرة القدم استمر ثلاث ساعات في زيوريخ يوم الخميس، ويبدو أنه سيتم التخلي عن جائزة السلام التي منحها للرئيس الأمريكي دونالد ترامب.",
-    "translation_status": "translated",
-    "post_title": "إنفانتينو آسف لخطة كأس العالم ويستعد للتخلي عن جائزة السلام",
-    "post_text": "🚨 إنفانتينو آسف لخطة كأس العالم ويستعد للتخلي عن جائزة السلام\n\n📝 اعتذر رئيس الاتحاد الدولي لكرة القدم جياني إنفانتينو عن خطته الخاصة بكأس العالم خلال اجتماع لمجلس الاتحاد الدولي لكرة القدم استمر ثلاث ساعات في زيوريخ يوم الخميس، ويبدو أنه سيتم التخلي عن جائزة السلام التي منحها للرئيس الأمريكي دونالد ترامب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079101038088540",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنفانتينو_آسف_لخطة_كأس_العالم_ويستعد_للتخلي_عن_جائزة_السلام.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9IH0EdDuEbuf4CCXLxNae5"
     }
   }
 ]
