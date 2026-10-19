@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Atlético, en el horizonte de Teresa: “Volveré a disfrutar...”",
+    "url": "https://as.com/futbol/femenino/el-atletico-en-el-horizonte-de-teresa-volvere-a-disfrutar-f202610-n/",
+    "summary": "La centrocampista gallega, ex del Real Madrid, y el club rojiblanco negocian su vinculación. Al haber acabado contrato en junio, puede ser inscrita aunque el mercado esté cerrado.",
+    "published": "Mon, 19 Oct 2026 23:15:54 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PRU57NALXNBEJIQIXCPR2EIH4Q.webp?auth=aad64c0d6b8dd715f68654230f0d49005eeda485c18f86603441ec4410240f14",
+    "media_type": "image/webp",
+    "arabic_title": "أتلتيكو في أفق تيريزا: \"سأستمتع مرة أخرى...\"",
+    "arabic_summary": "يتفاوض لاعب خط الوسط الجاليكي، الذي كان يلعب سابقًا في ريال مدريد، مع نادي روخيبلانكو حول علاقتهما. وبعد أن أنهت عقدها في يونيو/حزيران، يمكنها التسجيل حتى لو كان السوق مغلقًا.",
+    "translation_status": "translated",
+    "post_title": "أتلتيكو في أفق تيريزا: \"سأستمتع مرة أخرى...\"",
+    "post_text": "🚨 أتلتيكو في أفق تيريزا: \"سأستمتع مرة أخرى...\"\n\n📝 يتفاوض لاعب خط الوسط الجاليكي، الذي كان يلعب سابقًا في ريال مدريد، مع نادي روخيبلانكو حول علاقتهما. وبعد أن أنهت عقدها في يونيو/حزيران، يمكنها التسجيل حتى لو كان السوق مغلقًا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082975254367785",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_في_أفق_تيريزا_سأستمتع_مرة_أخرى....png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/femenino/el-atletico-en-el-horizonte-de-teresa-volvere-a-disfrutar-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXji_fLB-2z7eiB8QyQN3Bc"
+    }
+  },
+  {
     "title": "El Mirandés destituye a Antxon Muneta y anuncia la salida de Alain Arroyo y César Remón",
     "url": "https://www.marca.com/futbol/mirandes/2026/10/19/mirandes-destituye-antxon-muneta-anuncia-salida-alain-arroyo-cesar-remon.html",
     "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0ciXG7KNrQ3xSHHKSDT5ra"
-    }
-  },
-  {
-    "title": "Kartal shocks Svitolina to reach first WTA 1000 semi-final",
-    "url": "https://www.skysports.com/watch/video/13599844/elina-svitolina-vs-sonay-kartal-wuhan-open-highlights",
-    "summary": "Highlights of the Wuhan Open quarter-final between Elina Svitolina and Sonay Kartal.",
-    "published": "Fri, 16 Oct 2026 08:25:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-kartal-tennis_7378034.jpg?20261016082959",
-    "media_type": "image/jpg",
-    "arabic_title": "كارتال يصدم سفيتولينا ويبلغ نصف نهائي بطولة WTA 1000 لأول مرة",
-    "arabic_summary": "أبرز أحداث ربع نهائي بطولة ووهان المفتوحة بين إيلينا سفيتولينا وسوناي كارتال.",
-    "translation_status": "translated",
-    "post_title": "كارتال يصدم سفيتولينا ويبلغ نصف نهائي بطولة WTA 1000 لأول مرة",
-    "post_text": "🚨 كارتال يصدم سفيتولينا ويبلغ نصف نهائي بطولة WTA 1000 لأول مرة\n\n📝 أبرز أحداث ربع نهائي بطولة ووهان المفتوحة بين إيلينا سفيتولينا وسوناي كارتال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079580968040547",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كارتال_يصدم_سفيتولينا_ويبلغ_نصف_نهائي_بطولة_WTA_1000_لأول_مرة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13599844/elina-svitolina-vs-sonay-kartal-wuhan-open-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APux4ez70gPuXo70VcGm01X"
     }
   }
 ]
