@@ -1,5 +1,39 @@
 [
   {
+    "title": "What did we learn from England in the first round of RLWC 2026?",
+    "url": "https://www.skysports.com/rugby-league/news/12040/13600528/rugby-league-world-cup-2026-what-we-learnt-from-englands-opener-the-australia-test-and-ignoring-points-require",
+    "summary": "It was a week of highs and lows for England men and women in the Rugby League World Cup, with England women's massive 70-4 win over Wales women being followed by a tough 30-12 loss for England against Tonga.",
+    "published": "Mon, 19 Oct 2026 12:20:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-england-rugby-league_7380640.jpg?20261019121403",
+    "media_type": "image/jpg",
+    "arabic_title": "ماذا تعلمنا من إنجلترا في الجولة الأولى من RLWC 2026؟",
+    "arabic_summary": "لقد كان أسبوعًا من الارتفاعات والانخفاضات للرجال والسيدات في إنجلترا في كأس العالم لدوري الرجبي، حيث أعقب فوز إنجلترا الضخم بنتيجة 70-4 على سيدات ويلز خسارة صعبة 30-12 لإنجلترا أمام تونغا.",
+    "translation_status": "translated",
+    "post_title": "ماذا تعلمنا من إنجلترا في الجولة الأولى من RLWC 2026؟",
+    "post_text": "🚨 ماذا تعلمنا من إنجلترا في الجولة الأولى من RLWC 2026؟\n\n📝 لقد كان أسبوعًا من الارتفاعات والانخفاضات للرجال والسيدات في إنجلترا في كأس العالم لدوري الرجبي، حيث أعقب فوز إنجلترا الضخم بنتيجة 70-4 على سيدات ويلز خسارة صعبة 30-12 لإنجلترا أمام تونغا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082719977726646",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماذا_تعلمنا_من_إنجلترا_في_الجولة_الأولى_من_RLWC_2026؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/news/12040/13600528/rugby-league-world-cup-2026-what-we-learnt-from-englands-opener-the-australia-test-and-ignoring-points-require",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1cTTeRosXYji8M07JeoZLq"
+    }
+  },
+  {
     "title": "¡Otra vez problemas con el vuelo del Barça!",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/19/vez-problemas-vuelo-barca.html",
     "summary": "Tras la odisea de regreso de Sevilla, el Barcelona se topa con la niebla de París",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Apr-XzTIRhBKW45ebnAJNR5"
-    }
-  },
-  {
-    "title": "Pendientes de la vuelta de Stefan Bajcetic",
-    "url": "https://www.marca.com/futbol/celta-fortuna/2026/10/15/pendientes-vuelta-stefan-bajcetic.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Thu, 15 Oct 2026 10:40:38 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/03/6a478fa0da5a1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أقراط عودة ستيفان باجسيتيتش",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "أقراط عودة ستيفان باجسيتيتش",
-    "post_text": "🚨 أقراط عودة ستيفان باجسيتيتش\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079099218088722",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أقراط_عودة_ستيفان_باجسيتيتش.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/celta-fortuna/2026/10/15/pendientes-vuelta-stefan-bajcetic.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArlV5b657SjhRWwkgB0e3aZ"
     }
   }
 ]
