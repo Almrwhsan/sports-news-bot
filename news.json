@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Mirandés destituye a Antxon Muneta y anuncia la salida de Alain Arroyo y César Remón",
+    "url": "https://www.marca.com/futbol/mirandes/2026/10/19/mirandes-destituye-antxon-muneta-anuncia-salida-alain-arroyo-cesar-remon.html",
+    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
+    "published": "Mon, 19 Oct 2026 14:48:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/19/6ad61184cf712.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميرانديس يقيل أنتسون مونيتا ويعلن رحيل آلان أرويو وسيزار ريمون",
+    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
+    "translation_status": "translated",
+    "post_title": "ميرانديس يقيل أنتسون مونيتا ويعلن رحيل آلان أرويو وسيزار ريمون",
+    "post_text": "🚨 ميرانديس يقيل أنتسون مونيتا ويعلن رحيل آلان أرويو وسيزار ريمون\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082972344368076",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميرانديس_يقيل_أنتسون_مونيتا_ويعلن_رحيل_آلان_أرويو_وسيزار_ريمون.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/mirandes/2026/10/19/mirandes-destituye-antxon-muneta-anuncia-salida-alain-arroyo-cesar-remon.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "APSiYzA5GA60rTTgvkq3uXO"
+    }
+  },
+  {
     "title": "Cucho Hernández sufre una lesión en la zona del sóleo proximal izquierdo",
     "url": "https://www.marca.com/futbol/betis/2026/10/19/cucho-hernandez-sufre-lesion-zona-soleo-proximal-izquierdo.html",
     "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APux4ez70gPuXo70VcGm01X"
-    }
-  },
-  {
-    "title": "SE Dons: From YouTube and Sunday League to the brink of FA Cup history",
-    "url": "https://www.skysports.com/football/news/12040/13599738/se-dons-how-the-youtube-football-sensation-went-from-sunday-league-to-one-win-away-from-fa-cup-first-round-history",
-    "summary": "\"Some things don't need commentary.\"",
-    "published": "Fri, 16 Oct 2026 09:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-se-dons-non-league_7377771.jpg?20261015190244",
-    "media_type": "image/jpg",
-    "arabic_title": "SE Dons: من YouTube ودوري الأحد إلى حافة تاريخ كأس الاتحاد الإنجليزي",
-    "arabic_summary": "\"بعض الأشياء لا تحتاج إلى تعليق.\"",
-    "translation_status": "translated",
-    "post_title": "SE Dons: من YouTube ودوري الأحد إلى حافة تاريخ كأس الاتحاد الإنجليزي",
-    "post_text": "🚨 SE Dons: من YouTube ودوري الأحد إلى حافة تاريخ كأس الاتحاد الإنجليزي\n\n📝 \"بعض الأشياء لا تحتاج إلى تعليق.\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079581064707204",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/SE_Dons_من_YouTube_ودوري_الأحد_إلى_حافة_تاريخ_كأس_الاتحاد_الإنجليزي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13599738/se-dons-how-the-youtube-football-sensation-went-from-sunday-league-to-one-win-away-from-fa-cup-first-round-history",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYzi7Der6EZvtTlzTWH697W"
     }
   }
 ]
