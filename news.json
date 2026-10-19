@@ -1,5 +1,39 @@
 [
   {
+    "title": "Safónov, el muro ante el Barça; Nuno Mendes, la grieta",
+    "url": "https://as.com/futbol/internacional/safonov-el-muro-ante-el-barca-nuno-mendes-la-grieta-f202610-n/",
+    "summary": "Luis Enrique no tendrá ante el Barça a Nuno Mendes... pero sí a Akliouche. Además, el portero ruso se ha consolidado como indiscutible en el PSG y ha cogido el testigo de Donnarumma.",
+    "published": "Mon, 19 Oct 2026 09:43:08 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/M2C5ZO75XBGL3JO3A3KGOT23GM.png?auth=4ad0de3e490107dcb4ae90261d2592eb6aa7db4aa2898d4728e15537a731e86a",
+    "media_type": "image/png",
+    "arabic_title": "سافونوف، الجدار ضد برشلونة؛ نونو مينديز، الكراك",
+    "arabic_summary": "لن يكون لدى لويس إنريكي نونو مينديز ضد برشلونة، لكنه سيستخدم أكليوش. علاوة على ذلك، أثبت حارس المرمى الروسي نفسه كلاعب لا جدال فيه في باريس سان جيرمان وتولى المهمة خلفًا لدوناروما.",
+    "translation_status": "translated",
+    "post_title": "سافونوف، الجدار ضد برشلونة؛ نونو مينديز، الكراك",
+    "post_text": "🚨 سافونوف، الجدار ضد برشلونة؛ نونو مينديز، الكراك\n\n📝 لن يكون لدى لويس إنريكي نونو مينديز ضد برشلونة، لكنه سيستخدم أكليوش. علاوة على ذلك، أثبت حارس المرمى الروسي نفسه كلاعب لا جدال فيه في باريس سان جيرمان وتولى المهمة خلفًا لدوناروما.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082412714424039",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سافونوف،_الجدار_ضد_برشلونة؛_نونو_مينديز،_الكراك.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/safonov-el-muro-ante-el-barca-nuno-mendes-la-grieta-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aghc25jZJqO34ClDMB1s-u4"
+    }
+  },
+  {
     "title": "Oyarzabal ya solo tiene por delante el récord de Satrústegui",
     "url": "https://as.com/futbol/oyarzabal-ya-solo-tiene-por-delante-el-record-de-satrustegui-f202610-n/",
     "summary": "El capitán de la Real Sociedad lideró el triunfo ante el Málaga con dos goles que le permiten igualar registros históricos y colocarse a un paso de la cima.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArJBbw7I5wG9CQa9ltN2UIR"
-    }
-  },
-  {
-    "title": "El Real Madrid mantiene que nada es casual",
-    "url": "https://as.com/futbol/primera/el-real-madrid-mantiene-que-nada-es-casual-f202610-n/",
-    "summary": "El club considera además que lo ocurrido el sábado y la remontada en Roma es lo que necesitaba el equipo para lograr la unión del vestuario.",
-    "published": "Thu, 15 Oct 2026 08:43:16 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261014/1225554_213619_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "ويؤكد ريال مدريد أن لا شيء يأتي من قبيل الصدفة",
-    "arabic_summary": "ويعتقد النادي أيضًا أن ما حدث يوم السبت والعودة في روما هو ما يحتاجه الفريق لتوحيد غرفة خلع الملابس.",
-    "translation_status": "translated",
-    "post_title": "ويؤكد ريال مدريد أن لا شيء يأتي من قبيل الصدفة",
-    "post_text": "🚨 ويؤكد ريال مدريد أن لا شيء يأتي من قبيل الصدفة\n\n📝 ويعتقد النادي أيضًا أن ما حدث يوم السبت والعودة في روما هو ما يحتاجه الفريق لتوحيد غرفة خلع الملابس.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078679584797352",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويؤكد_ريال_مدريد_أن_لا_شيء_يأتي_من_قبيل_الصدفة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXOpXvmi0HlMVA860e3XFC4"
     }
   }
 ]
