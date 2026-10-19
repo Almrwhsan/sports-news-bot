@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Cádiz pierde la paciencia con Celades",
+    "url": "https://www.marca.com/futbol/cadiz/2026/10/19/cadiz-pierde-paciencia-celades.html",
+    "summary": "El club comunica la destitución del técnico catalán, que solo ha sumado siete puntos de 30 y que deja al equipo en zona de descenso a Primera Federación",
+    "published": "Mon, 19 Oct 2026 09:23:50 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/6acf9e59cea9e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "قادس ينفد صبره مع سيلاديس",
+    "arabic_summary": "النادي يعلن إقالة المدرب الكتالوني الذي أضاف سبع نقاط فقط من أصل 30 ويترك الفريق في منطقة الهبوط إلى الدرجة الأولى",
+    "translation_status": "translated",
+    "post_title": "قادس ينفد صبره مع سيلاديس",
+    "post_text": "🚨 قادس ينفد صبره مع سيلاديس\n\n📝 النادي يعلن إقالة المدرب الكتالوني الذي أضاف سبع نقاط فقط من أصل 30 ويترك الفريق في منطقة الهبوط إلى الدرجة الأولى\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082642427734401",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قادس_ينفد_صبره_مع_سيلاديس.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/cadiz/2026/10/19/cadiz-pierde-paciencia-celades.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqFiVcTRl-pvkODFdcf8KMY"
+    }
+  },
+  {
     "title": "España - México: horario y dónde ver hoy en TV el partido del Mundial sub17 femenino",
     "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/10/19/espana-mexico-horario-ver-hoy-tv-partido-mundial-sub17-femenino.html",
     "summary": "Los detalles del primer partido",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADGgcyeEQJgh0H_4LOwidGu"
-    }
-  },
-  {
-    "title": "'Unsatisfactory' Lord's pitch dug up by MCC after first demerit point",
-    "url": "https://www.skysports.com/cricket/news/12040/13599552/lords-pitch-dug-up-after-unsatisfactory-rating-by-icc-and-demerit-point-following-england-vs-new-zealand-test",
-    "summary": "The Lord's pitch that was used for England's Test against New Zealand in June has been re-laid by the Marylebone Cricket Club and will be out of action for two or three years.",
-    "published": "Thu, 15 Oct 2026 12:16:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lords-test-2026-england_7377515.jpg?20261015123437",
-    "media_type": "image/jpg",
-    "arabic_title": "عرض لورد \"غير المرضي\" الذي حفره مركز تحدي الألفية بعد نقطة الحرمان الأولى",
-    "arabic_summary": "تم إعادة وضع ملعب لورد الذي تم استخدامه في اختبار إنجلترا ضد نيوزيلندا في يونيو من قبل نادي ماريليبون للكريكيت وسيكون خارج الملاعب لمدة عامين أو ثلاثة أعوام.",
-    "translation_status": "translated",
-    "post_title": "عرض لورد \"غير المرضي\" الذي حفره مركز تحدي الألفية بعد نقطة الحرمان الأولى",
-    "post_text": "🚨 عرض لورد \"غير المرضي\" الذي حفره مركز تحدي الألفية بعد نقطة الحرمان الأولى\n\n📝 تم إعادة وضع ملعب لورد الذي تم استخدامه في اختبار إنجلترا ضد نيوزيلندا في يونيو من قبل نادي ماريليبون للكريكيت وسيكون خارج الملاعب لمدة عامين أو ثلاثة أعوام.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078852058113438",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عرض_لورد_غير_المرضي_الذي_حفره_مركز_تحدي_الألفية_بعد_نقطة_الحرمان_الأولى.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13599552/lords-pitch-dug-up-after-unsatisfactory-rating-by-icc-and-demerit-point-following-england-vs-new-zealand-test",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Awj5I0bdR6iqX0Mh6UQ5CmE"
     }
   }
 ]
