@@ -1,5 +1,39 @@
 [
   {
+    "title": "'King of the Monsters!' - Haas reveal special US GP car livery",
+    "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+    "summary": "",
+    "published": "Mon, 19 Oct 2026 16:27:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-haas-livery-2026-united-states-gp_7380882.png?20261019162513",
+    "media_type": "image/jpg",
+    "arabic_title": "\"ملك الوحوش!\" - هاس تكشف عن كسوة سيارة US GP الخاصة",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "\"ملك الوحوش!\" - هاس تكشف عن كسوة سيارة US GP الخاصة",
+    "post_text": "🚨 \"ملك الوحوش!\" - هاس تكشف عن كسوة سيارة US GP الخاصة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082909971040980",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملك_الوحوش!_-_هاس_تكشف_عن_كسوة_سيارة_US_GP_الخاصة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZ6zbbHohz4uuTOmiRoA2hZ"
+    }
+  },
+  {
     "title": "Getting to know Man Utd boss Olid",
     "url": "https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o?at_medium=RSS&at_campaign=rss",
     "summary": "It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArlyMo4QkHLdMx7KJs5SvKi"
-    }
-  },
-  {
-    "title": "Sergio Esteban, renovación estancada por el Atlético",
-    "url": "https://as.com/futbol/primera/sergio-esteban-renovacion-estancada-por-el-atletico-f202610-n/",
-    "summary": "El delantero del filial, campeón de Europa Sub-19 con España, se recupera de una lesión. Es una de las joyas de la Academia, acaba contrato en 2028, el club quiere renovarle, pero todo está parado. El entorno del jugador apuesta por un proyecto deportivo de primer nivel.",
-    "published": "Fri, 16 Oct 2026 07:27:30 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/H4COWGLMKNHEXMSOA5YGJ7ADRY.jpg?auth=80ecd746a8008488d0490f2350313bb1430ee72fd4dd7b605a1a3ff2b8d368d9",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيرجيو إستيبان، التجديد متوقف من قبل أتلتيكو",
-    "arabic_summary": "ويتعافى مهاجم الفريق الرديف، بطل أوروبا تحت 19 عاما مع إسبانيا، من الإصابة. إنه أحد جواهر الأكاديمية، عقده ينتهي في 2028، النادي يريد التجديد له، لكن كل شيء متوقف. بيئة اللاعب ملتزمة بمشروع رياضي رفيع المستوى.",
-    "translation_status": "translated",
-    "post_title": "سيرجيو إستيبان، التجديد متوقف من قبل أتلتيكو",
-    "post_text": "🚨 سيرجيو إستيبان، التجديد متوقف من قبل أتلتيكو\n\n📝 ويتعافى مهاجم الفريق الرديف، بطل أوروبا تحت 19 عاما مع إسبانيا، من الإصابة. إنه أحد جواهر الأكاديمية، عقده ينتهي في 2028، النادي يريد التجديد له، لكن كل شيء متوقف. بيئة اللاعب ملتزمة بمشروع رياضي رفيع المستوى.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079577578040886",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيرجيو_إستيبان،_التجديد_متوقف_من_قبل_أتلتيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/sergio-esteban-renovacion-estancada-por-el-atletico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwO2gPI5AmdyHXylFkobNYh"
     }
   }
 ]
