@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Barça arrasa en superioridad numérica a Real Madrid y Atlético",
+    "url": "https://as.com/futbol/primera/el-barca-arrasa-en-superioridad-numerica-a-real-madrid-y-atletico-f202610-n/",
+    "summary": "Los culés han jugado 862 minutos con uno más en la última década, mientras el Madrid lo hizo con uno menos en 91 minutos. Los blancos son los que más penaltis reciben.",
+    "published": "Mon, 19 Oct 2026 09:25:57 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6K5UU2KOGBDJ5AIB4ISE2BIV6I.JPG?auth=7b5fc297fb39bcc801b3ab6ad54ce385210634e244b3d606678ddd49724027bc",
+    "media_type": "image/jpeg",
+    "arabic_title": "برشلونة يكتسح ريال مدريد وأتلتيكو في التفوق العددي",
+    "arabic_summary": "لعب فريق culés 862 دقيقة مع مباراة واحدة إضافية في العقد الماضي، في حين فعل ريال مدريد ذلك مع مباراة واحدة أقل في 91 دقيقة. البيض هم الذين يحصلون على أكبر عدد من العقوبات.",
+    "translation_status": "translated",
+    "post_title": "برشلونة يكتسح ريال مدريد وأتلتيكو في التفوق العددي",
+    "post_text": "🚨 برشلونة يكتسح ريال مدريد وأتلتيكو في التفوق العددي\n\n📝 لعب فريق culés 862 دقيقة مع مباراة واحدة إضافية في العقد الماضي، في حين فعل ريال مدريد ذلك مع مباراة واحدة أقل في 91 دقيقة. البيض هم الذين يحصلون على أكبر عدد من العقوبات.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082402631091714",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_يكتسح_ريال_مدريد_وأتلتيكو_في_التفوق_العددي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-barca-arrasa-en-superioridad-numerica-a-real-madrid-y-atletico-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AlApwjc4IdhBy0aALf75N1s"
+    }
+  },
+  {
     "title": "Nadie lo vio y no fue un detalle menor: lo que hizo Güler tras el pitido final con toda la educación del mundo",
     "url": "https://as.com/futbol/videos/nadie-lo-vio-y-no-fue-un-detalle-menor-lo-que-hizo-guler-tras-el-pitido-final-con-toda-la-educacion-del-mundo-f202610-v/",
     "summary": "El centrocampista turco se acercó a saludar a Peque y dialogar sobre la acción del codazo en la primera mitad. Fue una charla corta, de apenas segundos, donde Arda no parecía estar de acuerdo con el sevillista.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ay2YCR9SIOYKsk_cyN4ARpf"
-    }
-  },
-  {
-    "title": "'Very good for the confidence' - Iraola impressed by Barcola and Wirtz in LASK win",
-    "url": "https://www.skysports.com/watch/video/13599452/andoni-iraola-praised-bradley-barcolas-hat-trick-and-florian-wirtzs-impressive-display",
-    "summary": "Andoni Iraola praised Bradley Barcola and Florian Wirtz after Liverpool's 6-3 win over LASK, with Barcola netting his first set of goals for the club with a hat-trick and Wirtz providing an assist.",
-    "published": "Thu, 15 Oct 2026 06:43:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-wirtz-liverpool-barcola_7377298.jpg?20261015065845",
-    "media_type": "image/jpg",
-    "arabic_title": "\"جيد جدًا من حيث الثقة\" - أعجب إيراولا بباركولا وفيرتز في فوز لاسك",
-    "arabic_summary": "أشاد أندوني إيراولا ببرادلي باركولا وفلوريان فيرتز بعد فوز ليفربول 6-3 على لاسك، حيث سجل باركولا أول مجموعة من الأهداف للنادي بثلاثية وقدم فيرتز تمريرة حاسمة.",
-    "translation_status": "translated",
-    "post_title": "\"جيد جدًا من حيث الثقة\" - أعجب إيراولا بباركولا وفيرتز في فوز لاسك",
-    "post_text": "🚨 \"جيد جدًا من حيث الثقة\" - أعجب إيراولا بباركولا وفيرتز في فوز لاسك\n\n📝 أشاد أندوني إيراولا ببرادلي باركولا وفلوريان فيرتز بعد فوز ليفربول 6-3 على لاسك، حيث سجل باركولا أول مجموعة من الأهداف للنادي بثلاثية وقدم فيرتز تمريرة حاسمة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1078680014797309",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيد_جدًا_من_حيث_الثقة_-_أعجب_إيراولا_بباركولا_وفيرتز_في_فوز_لاسك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13599452/andoni-iraola-praised-bradley-barcolas-hat-trick-and-florian-wirtzs-impressive-display",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5Lx7yoysCDixYsqjWSYJzU"
     }
   }
 ]
