@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Málaga se lleva su primer varapalo serio",
+    "url": "https://www.marca.com/futbol/malaga/2026/10/19/malaga-lleva-primer-varapalo-serio.html",
+    "summary": "Runrún en la grada de La Rosaleda tras el 2-5 de la Real",
+    "published": "Mon, 19 Oct 2026 14:36:54 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/06/6ac4ff3ed6683.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ملقا يتعرض لأول انتكاسة خطيرة",
+    "arabic_summary": "رونرون في مدرجات لا روساليدا بعد فوز ريال 2-5",
+    "translation_status": "translated",
+    "post_title": "ملقا يتعرض لأول انتكاسة خطيرة",
+    "post_text": "🚨 ملقا يتعرض لأول انتكاسة خطيرة\n\n📝 رونرون في مدرجات لا روساليدا بعد فوز ريال 2-5\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082951154370195",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملقا_يتعرض_لأول_انتكاسة_خطيرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/10/19/malaga-lleva-primer-varapalo-serio.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVIZCpN3eZ9QlNuc3nqS8qo"
+    }
+  },
+  {
     "title": "Futbolistas que no recordabas que jugaron en el Stuttgart",
     "url": "https://as.com/futbol/fotorrelato/futbolistas-que-no-recordabas-que-jugaron-en-el-stuttgart-f202610-f/",
     "summary": "Rüdiger jugará contra su primer equipo profesional, donde destacaron Mario Gómez, Rüdiger o Jurgen Klinsmann.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AklFXOYyyGaClEm3V0T9khH"
-    }
-  },
-  {
-    "title": "Las portadas del día: un récord de velocidad para la historia",
-    "url": "https://www.marca.com/futbol/album/2026/10/16/portadas-dia-record-velocidad-historia.html",
-    "summary": "Así vienen las primeras páginas de este viernes 16 de octubre de 2026.",
-    "published": "Fri, 16 Oct 2026 01:51:26 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad166d7d3612.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أغلفة اليوم: سجل سرعة للتاريخ",
-    "arabic_summary": "هكذا تأتي الصفحات الأولى من يوم الجمعة 16 أكتوبر 2026.",
-    "translation_status": "translated",
-    "post_title": "أغلفة اليوم: سجل سرعة للتاريخ",
-    "post_text": "🚨 أغلفة اليوم: سجل سرعة للتاريخ\n\n📝 هكذا تأتي الصفحات الأولى من يوم الجمعة 16 أكتوبر 2026.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079576628040981",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم_سجل_سرعة_للتاريخ.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/album/2026/10/16/portadas-dia-record-velocidad-historia.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6NDDUTmkdEdYYUTQXqLVEb"
     }
   }
 ]
