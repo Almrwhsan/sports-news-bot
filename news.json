@@ -1,5 +1,39 @@
 [
   {
+    "title": "Futbolistas que no recordabas que jugaron en el Stuttgart",
+    "url": "https://as.com/futbol/fotorrelato/futbolistas-que-no-recordabas-que-jugaron-en-el-stuttgart-f202610-f/",
+    "summary": "Rüdiger jugará contra su primer equipo profesional, donde destacaron Mario Gómez, Rüdiger o Jurgen Klinsmann.",
+    "published": "Mon, 19 Oct 2026 22:13:54 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TFUNJJUABRGIXERTHKDUB5BJP4.jpg?auth=9d09ca3b4b8e26ab86fdffaa30c44e6e7182a2bd936be6f43f12e3cb78196776",
+    "media_type": "image/jpeg",
+    "arabic_title": "لاعبو كرة قدم لا تتذكرونهم الذين لعبوا مع شتوتغارت",
+    "arabic_summary": "سيلعب روديجر ضد فريقه المحترف الأول، حيث تألق ماريو جوميز وروديجر ويورغن كلينسمان.",
+    "translation_status": "translated",
+    "post_title": "لاعبو كرة قدم لا تتذكرونهم الذين لعبوا مع شتوتغارت",
+    "post_text": "🚨 لاعبو كرة قدم لا تتذكرونهم الذين لعبوا مع شتوتغارت\n\n📝 سيلعب روديجر ضد فريقه المحترف الأول، حيث تألق ماريو جوميز وروديجر ويورغن كلينسمان.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082942614371049",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لاعبو_كرة_قدم_لا_تتذكرونهم_الذين_لعبوا_مع_شتوتغارت.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/fotorrelato/futbolistas-que-no-recordabas-que-jugaron-en-el-stuttgart-f202610-f/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A91lOq5-KuCKSzSzXyRL0UC"
+    }
+  },
+  {
     "title": "Reaction as Spurs secure first win of the season vs Coventry LIVE!",
     "url": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/live/559513",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6NDDUTmkdEdYYUTQXqLVEb"
-    }
-  },
-  {
-    "title": "Flamengo sobrevive en La Plata",
-    "url": "https://as.com/futbol/internacional/flamengo-sobrevive-en-la-plata-f202610-n/",
-    "summary": "El equipo carioca se vio superado por Estudiantes, que no fue capaz de marcar a pesar de generar varias ocasiones claras.",
-    "published": "Fri, 16 Oct 2026 02:23:39 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XG53RYIXNJJMRFSBC3W6MNAXXI.jpg?auth=cd079a1c9fb87c29bc94cea65129727299939cb9c1aa3b238c917dbf5b944a40",
-    "media_type": "image/jpeg",
-    "arabic_title": "فلامينجو يعيش في لابلاتا",
-    "arabic_summary": "وتعرض فريق ريو لهزيمة أمام إستوديانتس الذي لم يتمكن من التسجيل رغم خلقه عدة فرص واضحة.",
-    "translation_status": "translated",
-    "post_title": "فلامينجو يعيش في لابلاتا",
-    "post_text": "🚨 فلامينجو يعيش في لابلاتا\n\n📝 وتعرض فريق ريو لهزيمة أمام إستوديانتس الذي لم يتمكن من التسجيل رغم خلقه عدة فرص واضحة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079576771374300",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فلامينجو_يعيش_في_لابلاتا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/flamengo-sobrevive-en-la-plata-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5UBoVEy0f7KY3iR4dJlCFX"
     }
   }
 ]
