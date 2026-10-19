@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rueda de prensa de Luis Enrique antes del PSG-Barcelona, en directo",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/19/rueda-prensa-luis-enrique-psg-barcelona-video.html",
+    "summary": "",
+    "published": "Mon, 19 Oct 2026 13:01:51 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/19/6ad5f89a19e5c.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "المؤتمر الصحفي للويس إنريكي قبل مباراة باريس سان جيرمان وبرشلونة، مباشر",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "المؤتمر الصحفي للويس إنريكي قبل مباراة باريس سان جيرمان وبرشلونة، مباشر",
+    "post_text": "🚨 المؤتمر الصحفي للويس إنريكي قبل مباراة باريس سان جيرمان وبرشلونة، مباشر\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1082770724388238",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_للويس_إنريكي_قبل_مباراة_باريس_سان_جيرمان_وبرشلونة،_مباشر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/19/rueda-prensa-luis-enrique-psg-barcelona-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AweaVfa3DBsiMlygIMo3gxo"
+    }
+  },
+  {
     "title": "\"Nos ofrecieron a De Gea gratis y 'A-Cap' dijo: “Es un portero de la vieja escuela, no deberíamos ficharlo\"",
     "url": "https://www.marca.com/futbol/liga-italiana/2026/10/19/ofrecieron-gea-gratis-cap-dijo-portero-vieja-escuela-deberiamos-ficharlo.html",
     "summary": "Andrés Blázquez, CEO del Genoa, denuncia los \"millones perdidos\" por la batalla legal que existía sobre la propiedad del club",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Az7L5l0fYxmudhrd-6ceuO2"
-    }
-  },
-  {
-    "title": "Listen: Scottish Premiership weekend preview after European blows",
-    "url": "https://www.bbc.co.uk/sounds/play/p0ph0g51?at_medium=RSS&at_campaign=rss",
-    "summary": "Full Scottish premiership preview with Craig Telfer, Scott Allan and Conor Sammon.",
-    "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0ph0g7f.jpg",
-    "media_type": null,
-    "arabic_title": "استمع: معاينة نهاية الأسبوع للدوري الاسكتلندي الممتاز بعد الضربات الأوروبية",
-    "arabic_summary": "معاينة كاملة لرئاسة الوزراء الاسكتلندية مع كريج تيلفر وسكوت آلان وكونور سامون.",
-    "translation_status": "translated",
-    "post_title": "استمع: معاينة نهاية الأسبوع للدوري الاسكتلندي الممتاز بعد الضربات الأوروبية",
-    "post_text": "🚨 استمع: معاينة نهاية الأسبوع للدوري الاسكتلندي الممتاز بعد الضربات الأوروبية\n\n📝 معاينة كاملة لرئاسة الوزراء الاسكتلندية مع كريج تيلفر وسكوت آلان وكونور سامون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079571551374822",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استمع_معاينة_نهاية_الأسبوع_للدوري_الاسكتلندي_الممتاز_بعد_الضربات_الأوروبية.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sounds/play/p0ph0g51?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A_W0qFZjDsoaLOySRYqf_bj"
     }
   }
 ]
