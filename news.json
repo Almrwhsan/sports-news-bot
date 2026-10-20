@@ -1,5 +1,39 @@
 [
   {
+    "title": "Scorecard: Pakistan vs England, ODI tri-series",
+    "url": "https://www.skysports.com/cricket/pakistan-v-england/scorecard/d97e0d28-3d0d-5c75-aad7-50ce21f5c49b",
+    "summary": "Latest score from Rawalpindi.",
+    "published": "Tue, 20 Oct 2026 08:55:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-brook-engkand-mens-odi-cricket_7381289.jpg?20261020072231",
+    "media_type": "image/jpg",
+    "arabic_title": "بطاقة الأداء: باكستان ضد إنجلترا، سلسلة ODI الثلاثية",
+    "arabic_summary": "آخر نتيجة من روالبندي.",
+    "translation_status": "translated",
+    "post_title": "بطاقة الأداء: باكستان ضد إنجلترا، سلسلة ODI الثلاثية",
+    "post_text": "🚨 بطاقة الأداء: باكستان ضد إنجلترا، سلسلة ODI الثلاثية\n\n📝 آخر نتيجة من روالبندي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083560680975909",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطاقة_الأداء_باكستان_ضد_إنجلترا،_سلسلة_ODI_الثلاثية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/pakistan-v-england/scorecard/d97e0d28-3d0d-5c75-aad7-50ce21f5c49b",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOXCje1UijHvcNVgMS1mVu0"
+    }
+  },
+  {
     "title": "Pregala del Balón de Oro en París",
     "url": "https://as.com/futbol/champions/pregala-del-balon-de-oro-en-paris-f202610-n/",
     "summary": "Hasta 17 jugadores están nominados por France Football para la gala del próximo día 26. Lamine es la gran atracción, pero hay más: Dembélé, Rodri, Vitinha, Fabián, Ferran, Kvaratskhelia. La valoración conjunta de las plantillas asciende a 2.660 millones de euros.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4vbhvB_r7H2bprgyozs4mE"
-    }
-  },
-  {
-    "title": "Calero: \"Por mucho que alguno diga que el Oviedo no sabe a qué juega, sabe perfectamente a qué juega\"",
-    "url": "https://www.marca.com/futbol/oviedo/2026/10/16/calero-diga-oviedo-juega-perfectamente-juega.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Fri, 16 Oct 2026 12:43:27 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/27/6a907319e2899.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كاليرو: \"مهما قال شخص ما أن أوفييدو لا يعرف ما يلعبه، فهو يعرف جيدًا ما يلعبه\"",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "كاليرو: \"مهما قال شخص ما أن أوفييدو لا يعرف ما يلعبه، فهو يعرف جيدًا ما يلعبه\"",
-    "post_text": "🚨 كاليرو: \"مهما قال شخص ما أن أوفييدو لا يعرف ما يلعبه، فهو يعرف جيدًا ما يلعبه\"\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080078457990798",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاليرو_مهما_قال_شخص_ما_أن_أوفييدو_لا_يعرف_ما_يلعبه،_فهو_يعرف_جيدًا_ما_يلعبه.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/16/calero-diga-oviedo-juega-perfectamente-juega.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJlkRxE0ajNO_Y3EB9U7Gu7"
     }
   }
 ]
