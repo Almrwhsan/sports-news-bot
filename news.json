@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Girona se queda sin Boñar dos o tres meses",
+    "url": "https://www.marca.com/futbol/girona/2026/10/19/girona-queda-bonar-dos-tres-meses.html",
+    "summary": "El futbolista sufre una lesión en el tobillo que frena su proyección en el equipo",
+    "published": "Mon, 19 Oct 2026 20:39:33 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/19/6ad6638eedb80.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "جيرونا سيبقى بدون بونار لمدة شهرين أو ثلاثة أشهر",
+    "arabic_summary": "يعاني لاعب كرة القدم من إصابة في الكاحل تبطئ من تقدمه في الفريق",
+    "translation_status": "translated",
+    "post_title": "جيرونا سيبقى بدون بونار لمدة شهرين أو ثلاثة أشهر",
+    "post_text": "🚨 جيرونا سيبقى بدون بونار لمدة شهرين أو ثلاثة أشهر\n\n📝 يعاني لاعب كرة القدم من إصابة في الكاحل تبطئ من تقدمه في الفريق\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083403280991649",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيرونا_سيبقى_بدون_بونار_لمدة_شهرين_أو_ثلاثة_أشهر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/girona/2026/10/19/girona-queda-bonar-dos-tres-meses.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AANpg5hiRyb57quylU3jjhy"
+    }
+  },
+  {
     "title": "Reese scores 30 points as Atlanta win at Golden State to level WNBA Finals",
     "url": "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1",
     "summary": "Angel Reese delivered 30 points and 16 rebounds in Game 2 of the WNBA Finals after she struggled down the stretch in the series opener, as the Atlanta Dream stymied the Golden State Valkyries at&#160;both ends in the second half to win 79-65 and level the best-of-seven series at 1-1.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aef4joykwE90-hO1NG3W91m"
-    }
-  },
-  {
-    "title": "El matrimonio con un famoso futbolista que acabó en \"infierno\": \"Fue como si me abriesen el corazón y soplasen dentro\"",
-    "url": "https://www.marca.com/futbol/album/2026/10/16/matrimonio-famoso-futbolista-acabo-infierno-me-abriesen-corazon-abierto-soplasen.html",
-    "summary": "AnneKee Molenaar habló abiertamente sobre el fin de su relación con Matthijs de Ligt, defensa del Manchester United. La modelo neerlandesa describió la separación del futbolista tras 12 meses casados como un \"infierno\" que le provocó un verdadero sufrimiento físico. \"Fue un año difícil. Un año de muchos cambios, pero por el cual también estoy muy agradecida. Es un cambio abrupto; sentimos que nos falta algo y eso nos entristece. Sentimos dolor. Lo viví realmente como algo físico. Simplemente dolor físico... es, en efecto, un proceso de duelo. Fue como si me estuvieran sometiendo a una cirugía a corazón abierto y alguien estuviera soplando sobre mi corazón. Así de frágil y vulnerable me sentí. Herida».\", explicó en RTL Boulevard. AnneKee Molenaar aclaró que \"entiendo que la gente piense que ha tenido que ocurrir algo grave. Me cuesta decir esto, pero no es así en absoluto. Hemos vivido momentos maravillosos a lo largo de todos estos años; sin embargo, el año pasado llegamos a la conclusión de que el sentimiento romántico ya no existía\".",
-    "published": "Fri, 16 Oct 2026 11:38:31 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1f084c54f1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "زواج لاعب كرة شهير انتهى بـ«الجحيم»: «كأنهم فتحوا قلبي وانفجروا بداخله»",
-    "arabic_summary": "تحدثت آنكي مولينار بصراحة عن انتهاء علاقتها مع مدافع مانشستر يونايتد ماتياس دي ليخت. ووصفت العارضة الهولندية انفصالها عن لاعب كرة القدم بعد 12 شهرا من الزواج بـ\"الجحيم\" الذي سبب لها معاناة جسدية حقيقية. وأوضحت على قناة RTL Boulevard: \"لقد كان عامًا صعبًا. كان عامًا مليئًا بالعديد من التغييرات، لكنني أيضًا ممتنة جدًا له. إنه تغيير مفاجئ؛ نشعر أننا نفتقد شيئًا ما وهذا ما يجعلنا حزينين. نشعر بالألم. لقد عايشت الأمر حقًا كشيء جسدي. ببساطة الألم الجسدي ... إنها في الواقع عملية حزن. كان الأمر كما لو كنت أخضع لعملية جراحية في القلب المفتوح وكان شخص ما ينفخ على قلبي. هكذا شعرت بالهشاشة والضعف. شعرت بالألم\". أوضحت AnneKee Molenaar قائلة: \"أتفهم أن الناس يعتقدون أن شيئًا خطيرًا يجب أن يحدث. من الصعب بالنسبة لي أن أقول هذا، لكن هذا ليس هو الحال على الإطلاق. لقد حظينا بلحظات رائعة طوال هذه السنوات؛ ومع ذلك، في العام الماضي توصلنا إلى نتيجة مفادها أن الشعور الرومانسي لم يعد موجودًا\".",
-    "translation_status": "translated",
-    "post_title": "زواج لاعب كرة شهير انتهى بـ«الجحيم»: «كأنهم فتحوا قلبي وانفجروا بداخله»",
-    "post_text": "🚨 زواج لاعب كرة شهير انتهى بـ«الجحيم»: «كأنهم فتحوا قلبي وانفجروا بداخله»\n\n📝 تحدثت آنكي مولينار بصراحة عن انتهاء علاقتها مع مدافع مانشستر يونايتد ماتياس دي ليخت. ووصفت العارضة الهولندية انفصالها عن لاعب كرة القدم بعد 12 شهرا من الزواج بـ\"الجحيم\" الذي سبب لها معاناة جسدية حقيقية. وأوضحت على قناة RTL Boulevard: \"لقد كان عامًا صعبًا. كان عامًا مليئًا بالعديد من التغييرات، لكنني أيضًا ممتنة جدًا له. إنه تغيير مفاجئ؛ نشعر أننا نفتقد شيئًا ما وهذا ما يجعلنا حزينين. نشعر بالألم. لقد عايشت الأمر حقًا كشيء جسدي. ببساطة الألم الجسدي ... إنها في الواقع عملية حزن. كان الأمر كما ل...\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079934798005164",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زواج_لاعب_كرة_شهير_انتهى_بـ«الجحيم»_«كأنهم_فتحوا_قلبي_وانفجروا_بداخله».png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/album/2026/10/16/matrimonio-famoso-futbolista-acabo-infierno-me-abriesen-corazon-abierto-soplasen.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhbMylzrMkWJzQHEqEuE-Sl"
     }
   }
 ]
