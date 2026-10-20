@@ -1,5 +1,39 @@
 [
   {
+    "title": "La pasarela de París",
+    "url": "https://as.com/futbol/champions/la-pasarela-de-paris-f202610-n/",
+    "summary": "El PSG-Barcelona es un partido para disfrutar en el que se habla sólo de fútbol, muy alejado de lo que nos espera este fin de semana.",
+    "published": "Tue, 20 Oct 2026 07:06:39 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/O4Y5X3XGHBKK7GCHPANSPBLE3Y.jpg?auth=1de9538ed411006c5d9a224d9a904395d362576049b8c08108a1474b1b4b7bb0",
+    "media_type": "image/jpeg",
+    "arabic_title": "منصة باريس",
+    "arabic_summary": "باريس سان جيرمان-برشلونة هي مباراة ممتعة نتحدث فيها فقط عن كرة القدم، بعيدًا جدًا عما ينتظرنا في نهاية هذا الأسبوع.",
+    "translation_status": "translated",
+    "post_title": "منصة باريس",
+    "post_text": "🚨 منصة باريس\n\n📝 باريس سان جيرمان-برشلونة هي مباراة ممتعة نتحدث فيها فقط عن كرة القدم، بعيدًا جدًا عما ينتظرنا في نهاية هذا الأسبوع.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083636204301690",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/منصة_باريس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/la-pasarela-de-paris-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeduFY9BLmtcOOTZatawPK2"
+    }
+  },
+  {
     "title": "El picotazo 50 se resiste",
     "url": "https://www.marca.com/futbol/atletico/2026/10/20/picotazo-50-resiste.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ApFpDNOXiydYgCfLCUymCSZ"
-    }
-  },
-  {
-    "title": "Ramón Díaz: “Deseché a Corinthians esperando a River”",
-    "url": "https://as.com/futbol/internacional/ramon-diaz-deseche-a-corinthians-esperando-a-river-f202610-n/",
-    "summary": "El entrenador riojano rompió su silencio en medio de los rumores que le acercan al banquillo de el Monumental: “No se comunicaron con nosotros. Siempre deseo que le vaya bien al club”.",
-    "published": "Fri, 16 Oct 2026 17:23:19 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BJKZVNIE3JFINN3FCFNJOOEHOI.webp?auth=fa07819dfdbf8828020b494f28e3c9478298ae5d1a5de37fe5d8f81c0d901202",
-    "media_type": "image/webp",
-    "arabic_title": "رامون دياز: \"لقد رميت كورينثيانز في انتظار ريفر\"",
-    "arabic_summary": "وخرج مدرب ريوخا عن صمته وسط الشائعات التي جعلته أقرب إلى مقاعد البدلاء في مونومنتال: \"لم يتواصلوا معنا. أتمنى دائما أن يؤدي النادي بشكل جيد\".",
-    "translation_status": "translated",
-    "post_title": "رامون دياز: \"لقد رميت كورينثيانز في انتظار ريفر\"",
-    "post_text": "🚨 رامون دياز: \"لقد رميت كورينثيانز في انتظار ريفر\"\n\n📝 وخرج مدرب ريوخا عن صمته وسط الشائعات التي جعلته أقرب إلى مقاعد البدلاء في مونومنتال: \"لم يتواصلوا معنا. أتمنى دائما أن يؤدي النادي بشكل جيد\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080150294650281",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رامون_دياز_لقد_رميت_كورينثيانز_في_انتظار_ريفر.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/ramon-diaz-deseche-a-corinthians-esperando-a-river-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AK96QYpvnN7Y59A-K0s8j9l"
     }
   }
 ]
