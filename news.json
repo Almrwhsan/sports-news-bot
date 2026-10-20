@@ -1,5 +1,39 @@
 [
   {
+    "title": "Reese scores 30 points as Atlanta win at Golden State to level WNBA Finals",
+    "url": "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1",
+    "summary": "Angel Reese delivered 30 points and 16 rebounds in Game 2 of the WNBA Finals after she struggled down the stretch in the series opener, as the Atlanta Dream stymied the Golden State Valkyries at&#160;both ends in the second half to win 79-65 and level the best-of-seven series at 1-1.",
+    "published": "Tue, 20 Oct 2026 06:29:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-angel-reese-wnba_7381259.jpg?20261020064518",
+    "media_type": "image/jpg",
+    "arabic_title": "سجل ريس 30 نقطة ليقود أتلانتا للفوز على غولدن ستايت ليعادل نهائيات WNBA",
+    "arabic_summary": "سجلت Angel Reese 30 نقطة واستحوذت على 16 كرة مرتدة في المباراة الثانية من نهائيات WNBA بعد أن عانت في المباراة الافتتاحية للسلسلة، حيث أحبط فريق Atlanta Dream فريق Golden State Valkyries عند كلا الطرفين في الشوط الثاني ليفوز 79-65 ويعادل أفضل سلسلة من أصل سبعة بنتيجة 1-1.",
+    "translation_status": "translated",
+    "post_title": "سجل ريس 30 نقطة ليقود أتلانتا للفوز على غولدن ستايت ليعادل نهائيات WNBA",
+    "post_text": "🚨 سجل ريس 30 نقطة ليقود أتلانتا للفوز على غولدن ستايت ليعادل نهائيات WNBA\n\n📝 سجلت Angel Reese 30 نقطة واستحوذت على 16 كرة مرتدة في المباراة الثانية من نهائيات WNBA بعد أن عانت في المباراة الافتتاحية للسلسلة، حيث أحبط فريق Atlanta Dream فريق Golden State Valkyries عند كلا الطرفين في الشوط الثاني ليفوز 79-65 ويعادل أفضل سلسلة من أصل سبعة بنتيجة 1-1.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083399934325317",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سجل_ريس_30_نقطة_ليقود_أتلانتا_للفوز_على_غولدن_ستايت_ليعادل_نهائيات_WNBA.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASDGONYxJNM-fV9kWmBtkkz"
+    }
+  },
+  {
     "title": "El Larguero, en directo: en busca de la imagen de La Roja y Luis Enrique desafía a una Barça en racha",
     "url": "https://as.com/videos/mas_videos/el-larguero-en-directo-tension-entre-el-real-madrid-y-el-arbitraje-vuelve-la-champions-league-f202610-v/",
     "summary": "Disfruta en vivo con las novedades y la última hora de todo el deporte. El Larguero, el programa líder de la radio deportiva nocturna.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhbMylzrMkWJzQHEqEuE-Sl"
-    }
-  },
-  {
-    "title": "Ander Herrera, sobre lo que es jugar con Messi, Neymar y Mbappé: \"y añadiría un cuarto monstruo\"",
-    "url": "https://www.marca.com/futbol/2026/10/16/ander-herrera-sobre-jugar-messi-neymar-mbappe-anadiria-cuarto-monstruo.html",
-    "summary": "El futbolista español de 37 años repasa en Rio Ferdinand su actual etapa en el Zaragoza, además de lo que ha vivido en su dilatada carrera",
-    "published": "Fri, 16 Oct 2026 11:54:50 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1f3963c367.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أندير هيريرا عن اللعب مع ميسي ونيمار ومبابي: \"وأود أن أضيف وحشًا رابعًا\"",
-    "arabic_summary": "ويستعرض اللاعب الإسباني البالغ من العمر 37 عاماً في ريو فرديناند مرحلته الحالية في سرقسطة، بالإضافة إلى ما عاشه في مسيرته الطويلة",
-    "translation_status": "translated",
-    "post_title": "أندير هيريرا عن اللعب مع ميسي ونيمار ومبابي: \"وأود أن أضيف وحشًا رابعًا\"",
-    "post_text": "🚨 أندير هيريرا عن اللعب مع ميسي ونيمار ومبابي: \"وأود أن أضيف وحشًا رابعًا\"\n\n📝 ويستعرض اللاعب الإسباني البالغ من العمر 37 عاماً في ريو فرديناند مرحلته الحالية في سرقسطة، بالإضافة إلى ما عاشه في مسيرته الطويلة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079934841338493",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أندير_هيريرا_عن_اللعب_مع_ميسي_ونيمار_ومبابي_وأود_أن_أضيف_وحشًا_رابعًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/16/ander-herrera-sobre-jugar-messi-neymar-mbappe-anadiria-cuarto-monstruo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjjhPl-hEnWRB7LcrBlexV3"
     }
   }
 ]
