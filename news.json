@@ -1,5 +1,39 @@
 [
   {
+    "title": "La Champions, territorio Julián",
+    "url": "https://as.com/futbol/champions/la-champions-territorio-julian-f202610-n/",
+    "summary": "Apunta a titular ante el Stuttgart. Su último gol con la rojiblanca fue ante el Arsenal, hace seis meses. Crece en lo anímico y en lo físico.",
+    "published": "Mon, 19 Oct 2026 23:42:58 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/HN4USDAE4NNYDPBUYWJONKT7TU.jpg?auth=cd12f66819cb57d1931c81075863d1dd4cd94eecc5f4c4eb9da2cac5678962a5",
+    "media_type": "image/jpeg",
+    "arabic_title": "دوري أبطال أوروبا، إقليم جوليان",
+    "arabic_summary": "ويهدف إلى البدء ضد شتوتغارت. آخر هدف له مع الأحمر والأبيض كان ضد أرسنال قبل ستة أشهر. ينمو عاطفيا وجسديا.",
+    "translation_status": "translated",
+    "post_title": "دوري أبطال أوروبا، إقليم جوليان",
+    "post_text": "🚨 دوري أبطال أوروبا، إقليم جوليان\n\n📝 ويهدف إلى البدء ضد شتوتغارت. آخر هدف له مع الأحمر والأبيض كان ضد أرسنال قبل ستة أشهر. ينمو عاطفيا وجسديا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083845840947393",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دوري_أبطال_أوروبا،_إقليم_جوليان.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/la-champions-territorio-julian-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwOKgd4M1Z0_gK-NpDCh4-1"
+    }
+  },
+  {
     "title": "Former world boxing champion cleared of petrol station assault",
     "url": "https://www.skysports.com/boxing/news/12040/13601465/joe-cordina-former-boxing-world-champion-cleared-of-assaulting-man-he-punched-outside-petrol-station",
     "summary": "Former boxing world champion Joe Cordina has been cleared of assaulting a man he punched outside a petrol station.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQXN30ZiOXRO_87mZuDjaeH"
-    }
-  },
-  {
-    "title": "Jugadores que han defendido la camiseta del Espanyol y del Atleti",
-    "url": "https://as.com/futbol/fotorrelato/jugadores-que-han-defendido-la-camiseta-del-espanyol-y-del-atleti-f202610-f/",
-    "summary": "Atlético de Madrid y Espanyol han compartido numerosos jugadores que defendieron los colores de ambos clubes. Aquí repasamos la lista completa.",
-    "published": "Fri, 16 Oct 2026 22:08:16 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/I6GCXDUUI5MVXOICWLTMK5SPCQ.jpg",
-    "media_type": "image/jpeg",
-    "arabic_title": "اللاعبون الذين دافعوا عن قميصي إسبانيول وأتليتي",
-    "arabic_summary": "شارك أتلتيكو مدريد وإسبانيول مع العديد من اللاعبين الذين دافعوا عن ألوان كلا الناديين. هنا نراجع القائمة الكاملة.",
-    "translation_status": "translated",
-    "post_title": "اللاعبون الذين دافعوا عن قميصي إسبانيول وأتليتي",
-    "post_text": "🚨 اللاعبون الذين دافعوا عن قميصي إسبانيول وأتليتي\n\n📝 شارك أتلتيكو مدريد وإسبانيول مع العديد من اللاعبين الذين دافعوا عن ألوان كلا الناديين. هنا نراجع القائمة الكاملة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080714531260524",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اللاعبون_الذين_دافعوا_عن_قميصي_إسبانيول_وأتليتي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/jugadores-que-han-defendido-la-camiseta-del-espanyol-y-del-atleti-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMynp89Ioy52Ifapn-zWdeO"
     }
   }
 ]
