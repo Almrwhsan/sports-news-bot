@@ -1,5 +1,39 @@
 [
   {
+    "title": "Dubois: Fight with Fury would be 'ground-breaking'",
+    "url": "https://www.skysports.com/boxing/news/12040/13601466/daniel-dubois-fight-with-tyson-fury-next-year-would-be-ground-breaking-thatll-be-the-next-level-for-me",
+    "summary": "Daniel Dubois is gunning for a \"ground-breaking\" 2027 showdown with Tyson Fury.",
+    "published": "Tue, 20 Oct 2026 17:28:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-dubois-aj-fury_7369196.jpg?20261005211543",
+    "media_type": "image/jpg",
+    "arabic_title": "دوبوا: القتال بغضب سيكون أمراً رائداً",
+    "arabic_summary": "يتطلع دانييل دوبوا إلى مواجهة \"رائدة\" في عام 2027 مع تايسون فيوري.",
+    "translation_status": "translated",
+    "post_title": "دوبوا: القتال بغضب سيكون أمراً رائداً",
+    "post_text": "🚨 دوبوا: القتال بغضب سيكون أمراً رائداً\n\n📝 يتطلع دانييل دوبوا إلى مواجهة \"رائدة\" في عام 2027 مع تايسون فيوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083745324290778",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دوبوا_القتال_بغضب_سيكون_أمراً_رائداً.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13601466/daniel-dubois-fight-with-tyson-fury-next-year-would-be-ground-breaking-thatll-be-the-next-level-for-me",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ab9UmfhtFhbEhaWNfepiJLR"
+    }
+  },
+  {
     "title": "Konaté: \"¿La camiseta de Ceuta? No sabía a qué se refería y no supe qué hacer\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/20/konate-camiseta-ceuta-sabia-referia-supe.html",
     "summary": "El francés fue el jugador que atendió a los medios en la previa del partido contra el Leipzig",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A14CXAB1YO5wYFYaeUxvJii"
-    }
-  },
-  {
-    "title": "Rugby League World Cup LIVE! England suffer heavy loss to Tonga",
-    "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament",
-    "summary": "",
-    "published": "Sat, 17 Oct 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-england_7378697.jpg?20261017112411",
-    "media_type": "image/jpg",
-    "arabic_title": "كأس العالم لدوري الرجبي لايف! إنجلترا تتكبد خسارة فادحة أمام تونجا",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كأس العالم لدوري الرجبي لايف! إنجلترا تتكبد خسارة فادحة أمام تونجا",
-    "post_text": "🚨 كأس العالم لدوري الرجبي لايف! إنجلترا تتكبد خسارة فادحة أمام تونجا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080599004605410",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كأس_العالم_لدوري_الرجبي_لايف!_إنجلترا_تتكبد_خسارة_فادحة_أمام_تونجا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A3PJzdyChUzBe-SecB2cFca"
     }
   }
 ]
