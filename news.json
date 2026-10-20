@@ -1,5 +1,39 @@
 [
   {
+    "title": "Posible once del Atlético ante el Stuttgart en Champions hoy",
+    "url": "https://as.com/futbol/champions/posible-once-del-atletico-ante-el-stuttgart-en-champions-hoy-f202610-n/",
+    "summary": "Simeone se ha llevado a todos a Alemania menos a los lesionados Koke y Cuti Romero. Johnny Cardoso vuelve a la lista.",
+    "published": "Mon, 19 Oct 2026 23:39:59 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2HUIRI2HF5FX3GKJN4J7JWZC4M.png?auth=e4fd3417bb29f6e6c8e1b8e09814293da8f840523bdab15f01e4098fb4c94903",
+    "media_type": "image/png",
+    "arabic_title": "أحد عشر هدفًا محتملًا لأتلتيكو ضد شتوتجارت في دوري أبطال أوروبا اليوم",
+    "arabic_summary": "أخذ سيميوني الجميع إلى ألمانيا باستثناء كوكي وكوتي روميرو المصابين. يعود جوني كاردوسو إلى القائمة.",
+    "translation_status": "translated",
+    "post_title": "أحد عشر هدفًا محتملًا لأتلتيكو ضد شتوتجارت في دوري أبطال أوروبا اليوم",
+    "post_text": "🚨 أحد عشر هدفًا محتملًا لأتلتيكو ضد شتوتجارت في دوري أبطال أوروبا اليوم\n\n📝 أخذ سيميوني الجميع إلى ألمانيا باستثناء كوكي وكوتي روميرو المصابين. يعود جوني كاردوسو إلى القائمة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083426840989293",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أحد_عشر_هدفًا_محتملًا_لأتلتيكو_ضد_شتوتجارت_في_دوري_أبطال_أوروبا_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/posible-once-del-atletico-ante-el-stuttgart-en-champions-hoy-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4QqXE8VRMCV_BfrawyukeI"
+    }
+  },
+  {
     "title": "El protagonista equivocado",
     "url": "https://as.com/opinion/el-protagonista-equivocado-f202610-n/",
     "summary": "A Diomande, que brilló, le recordó sus defectos y al ausente, Vinicius, su grandeza...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AtpwGGuh57Ll26n-ZZPzbI7"
-    }
-  },
-  {
-    "title": "Is Mahomes entering Brady-like second half of career?",
-    "url": "https://www.skysports.com/nfl/news/12040/13599523/patrick-mahomes-is-kansas-city-chiefs-quarterback-entering-tom-brady-like-second-half-of-hall-of-fame-career",
-    "summary": "Have you forgotten about the career Patrick Mahomes is putting together?",
-    "published": "Fri, 16 Oct 2026 12:20:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-chiefs-nfl-mahomes_7377439.jpg?20261015105734",
-    "media_type": "image/jpg",
-    "arabic_title": "هل يدخل Mahomes النصف الثاني من حياته المهنية مثل برادي؟",
-    "arabic_summary": "هل نسيت المهنة التي يجمعها باتريك ماهومز؟",
-    "translation_status": "translated",
-    "post_title": "هل يدخل Mahomes النصف الثاني من حياته المهنية مثل برادي؟",
-    "post_text": "🚨 هل يدخل Mahomes النصف الثاني من حياته المهنية مثل برادي؟\n\n📝 هل نسيت المهنة التي يجمعها باتريك ماهومز؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079965431335434",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_يدخل_Mahomes_النصف_الثاني_من_حياته_المهنية_مثل_برادي؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13599523/patrick-mahomes-is-kansas-city-chiefs-quarterback-entering-tom-brady-like-second-half-of-hall-of-fame-career",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcNika1_k02dixzvPIrGLyO"
     }
   }
 ]
