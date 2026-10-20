@@ -1,5 +1,39 @@
 [
   {
+    "title": "Laporta: “Del Madrid hablaremos a partir de mañana, porque tiene miga”",
+    "url": "https://as.com/futbol/champions/laporta-del-madrid-hablaremos-a-partir-de-manana-porque-tiene-miga-f202610-n/",
+    "summary": "El presidente del Barcelona dejó otro recado para el conjunto blanco a su llegada a la comida de directivas antes del encuentro ante el PSG.",
+    "published": "Tue, 20 Oct 2026 11:22:04 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261020/1227539_105957_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "لابورتا: سنتحدث عن مدريد ابتداء من الغد لأنه به فتات",
+    "arabic_summary": "وترك رئيس برشلونة رسالة أخرى للفريق الأبيض لدى وصوله إلى مجلس الإدارة قبل المباراة ضد باريس سان جيرمان.",
+    "translation_status": "translated",
+    "post_title": "لابورتا: سنتحدث عن مدريد ابتداء من الغد لأنه به فتات",
+    "post_text": "🚨 لابورتا: سنتحدث عن مدريد ابتداء من الغد لأنه به فتات\n\n📝 وترك رئيس برشلونة رسالة أخرى للفريق الأبيض لدى وصوله إلى مجلس الإدارة قبل المباراة ضد باريس سان جيرمان.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083853974279913",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لابورتا_سنتحدث_عن_مدريد_ابتداء_من_الغد_لأنه_به_فتات.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AneJpgJeiKgYgY8zw8ZJfm_"
+    }
+  },
+  {
     "title": "Ingredientes de la receta contra el Barça",
     "url": "https://as.com/futbol/femenino/ingredientes-de-la-receta-contra-el-barca-f202610-n/",
     "summary": "El equipo blaugrana perdió otra vez ante la Real Sociedad. Los rivales bien cerrados, las transiciones rápidas y la polémica arbitral, presentes en tres de sus seis derrotas ligueras en siete años.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUUawqSj2wR8TsRcVt6jEeY"
-    }
-  },
-  {
-    "title": "England thumped by Tonga in World Cup opener",
-    "url": "https://www.skysports.com/rugby-league/england-vs-tonga/report/64270",
-    "summary": "England were handed a Rugby League World Cup reality check after a 30-12 thumping by Tonga in their tournament opener.",
-    "published": "Sat, 17 Oct 2026 12:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rugby-leauge-england_7378705.jpg?20261017115834",
-    "media_type": "image/jpg",
-    "arabic_title": "إنجلترا تسحق تونجا في المباراة الافتتاحية لكأس العالم",
-    "arabic_summary": "حصلت إنجلترا على اختبار واقعي لكأس العالم لدوري الرجبي بعد فوزها الساحق على تونجا 30-12 في المباراة الافتتاحية للبطولة.",
-    "translation_status": "translated",
-    "post_title": "إنجلترا تسحق تونجا في المباراة الافتتاحية لكأس العالم",
-    "post_text": "🚨 إنجلترا تسحق تونجا في المباراة الافتتاحية لكأس العالم\n\n📝 حصلت إنجلترا على اختبار واقعي لكأس العالم لدوري الرجبي بعد فوزها الساحق على تونجا 30-12 في المباراة الافتتاحية للبطولة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080723254592985",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تسحق_تونجا_في_المباراة_الافتتاحية_لكأس_العالم.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-league/england-vs-tonga/report/64270",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbEcoeYVbPv4In91UCkQUvI"
     }
   }
 ]
