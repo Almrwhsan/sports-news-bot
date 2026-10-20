@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mourinho: \"¿Intocable Vinicius? Lo único que no se puede tocar es el escudo\"",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/20/mourinho-intocable-vinicius-unico-tocar-escu-video.html",
+    "summary": "",
+    "published": "Tue, 20 Oct 2026 13:57:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/gEqzY1grrCKiks8n9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مورينيو: \"فينيسيوس منبوذ؟ الشيء الوحيد الذي لا يمكن لمسه هو الدرع\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "مورينيو: \"فينيسيوس منبوذ؟ الشيء الوحيد الذي لا يمكن لمسه هو الدرع\"",
+    "post_text": "🚨 مورينيو: \"فينيسيوس منبوذ؟ الشيء الوحيد الذي لا يمكن لمسه هو الدرع\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083756827622961",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_فينيسيوس_منبوذ؟_الشيء_الوحيد_الذي_لا_يمكن_لمسه_هو_الدرع.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/20/mourinho-intocable-vinicius-unico-tocar-escu-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AbF703Gc2VoR0YiOLQGkph-"
+    }
+  },
+  {
     "title": "El Real Madrid, con Vinicius y diez más para recibir al Leipzig",
     "url": "https://as.com/futbol/champions/el-real-madrid-con-vinicius-y-diez-mas-para-recibir-al-leipzig-f202610-n/",
     "summary": "El equipo blanco se ejercitó sin novedades más allá de las ausencias de Asencio y Rodrygo. Mourinho confirmó que el brasileño será titular ante su sanción en Liga.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Alr1dH-3xNv1dgwsdRPVEz-"
-    }
-  },
-  {
-    "title": "¿Kylian Mbappé deja el futbol por el futbol americano?",
-    "url": "https://as.com/us/videos/kylian-mbappe-deja-el-futbol-por-el-futbol-americano-f202610-v/",
-    "summary": "El jugador francés convivió con el corredor de los Atlanta Falcons, Bijan Robinson, en París para poner a prueba sus dotes en el futbol americano.",
-    "published": "Fri, 16 Oct 2026 21:52:27 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261016/1226446_214902_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "هل يترك كيليان مبابي كرة القدم من أجل كرة القدم الأمريكية؟",
-    "arabic_summary": "وعاش اللاعب الفرنسي مع فريق أتلانتا فالكونز، بيجان روبنسون، في باريس لاختبار مهاراته في كرة القدم الأمريكية.",
-    "translation_status": "translated",
-    "post_title": "هل يترك كيليان مبابي كرة القدم من أجل كرة القدم الأمريكية؟",
-    "post_text": "🚨 هل يترك كيليان مبابي كرة القدم من أجل كرة القدم الأمريكية؟\n\n📝 وعاش اللاعب الفرنسي مع فريق أتلانتا فالكونز، بيجان روبنسون، في باريس لاختبار مهاراته في كرة القدم الأمريكية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080650234600287",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_يترك_كيليان_مبابي_كرة_القدم_من_أجل_كرة_القدم_الأمريكية؟.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Av_WB_MOVQj9kv6LV60Y3Wz"
     }
   }
 ]
