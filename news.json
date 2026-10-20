@@ -1,5 +1,39 @@
 [
   {
+    "title": "Laporta, claro: “Con el Real Madrid ya no hay relación, hay un enfrentamiento”",
+    "url": "https://as.com/futbol/laporta-claro-con-el-real-madrid-ya-no-hay-relacion-hay-un-enfrentamiento-f202610-n/",
+    "summary": "El presidente blaugrana reconoció en una entrevista a ‘L’Équipe’ que desde ‘el caso Negreira’ hay una guerra abierta entre ambos clubes.",
+    "published": "Mon, 19 Oct 2026 17:26:30 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GB23VK7B53DRVIH6AFNBCFBNVA.jpg?auth=4229f5854cc37874bd9d69a7ddb8da3ecf64209667e1a3fece1286bddc398d75",
+    "media_type": "image/jpeg",
+    "arabic_title": "لابورتا بالطبع: \"لم تعد هناك علاقة مع ريال مدريد، هناك مواجهة\"",
+    "arabic_summary": "اعترف رئيس البلوجرانا في مقابلة مع صحيفة ليكيب أنه منذ قضية نيجريرا كانت هناك حرب مفتوحة بين الناديين.",
+    "translation_status": "translated",
+    "post_title": "لابورتا بالطبع: \"لم تعد هناك علاقة مع ريال مدريد، هناك مواجهة\"",
+    "post_text": "🚨 لابورتا بالطبع: \"لم تعد هناك علاقة مع ريال مدريد، هناك مواجهة\"\n\n📝 اعترف رئيس البلوجرانا في مقابلة مع صحيفة ليكيب أنه منذ قضية نيجريرا كانت هناك حرب مفتوحة بين الناديين.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083296687668975",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لابورتا_بالطبع_لم_تعد_هناك_علاقة_مع_ريال_مدريد،_هناك_مواجهة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/laporta-claro-con-el-real-madrid-ya-no-hay-relacion-hay-un-enfrentamiento-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "An_LtY0IipDhq7-1kjT7PXC"
+    }
+  },
+  {
     "title": "Atlético, un inicio de campeonato",
     "url": "https://as.com/futbol/primera/atletico-un-inicio-de-campeonato-f202610-n/",
     "summary": "El equipo de Simeone lleva una puntuación similar a cuando fue campeón: dos puntos menos que en la 13-14 y uno que en la 20-21. Ha marcado 19 goles y encajado ocho. Han anotado nueve jugadores. Un buen arranque liguero, aunque el Barcelona está de récord.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Avz0mH6M5z0N1KAAsGDLrjB"
-    }
-  },
-  {
-    "title": "Deportivo - Levante: horario y dónde ver hoy en TV y online el partido de la jornada 9 de LaLiga EA Sports",
-    "url": "https://www.marca.com/futbol/primera-division/2026/10/16/deportivo-levante-horario-donde-ver-hoy-tv-online-partido-jornada-9-laliga-ea-sports.html",
-    "summary": "Dos rivales directos se miden en el estadio ABANCA-Riazor",
-    "published": "Fri, 16 Oct 2026 09:29:03 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/14/11301672644569.png",
-    "media_type": "image/jpeg",
-    "arabic_title": "ديبورتيفو - ليفانتي: جدول ومكان مشاهدة مباراة الجولة 9 من الدوري الإسباني اليوم على شاشة التلفزيون وعبر الإنترنت EA Sports",
-    "arabic_summary": "يلتقي منافسان مباشران في ملعب أبانكا-ريازور",
-    "translation_status": "translated",
-    "post_title": "ديبورتيفو - ليفانتي: جدول ومكان مشاهدة مباراة الجولة 9 من الدوري الإسباني اليوم على شاشة التلفزيون وعبر الإنترنت EA Sports",
-    "post_text": "🚨 ديبورتيفو - ليفانتي: جدول ومكان مشاهدة مباراة الجولة 9 من الدوري الإسباني اليوم على شاشة التلفزيون وعبر الإنترنت EA Sports\n\n📝 يلتقي منافسان مباشران في ملعب أبانكا-ريازور\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079797104685600",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديبورتيفو_-_ليفانتي_جدول_ومكان_مشاهدة_مباراة_الجولة_9_من_الدوري_الإسباني_اليوم_ع.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/10/16/deportivo-levante-horario-donde-ver-hoy-tv-online-partido-jornada-9-laliga-ea-sports.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJ9711Kivfs8olhV4XDFbbs"
     }
   }
 ]
