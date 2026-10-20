@@ -1,5 +1,39 @@
 [
   {
+    "title": "Clasificación de fase liga de la Champions League 2026/2027, en directo: jornada 3, ahora en vivo",
+    "url": "https://as.com/resultados/futbol/champions/clasificacion/",
+    "summary": "Así marcha la tabla de la fase liga de la UEFA Champions League, la lucha por el top-8, los puestos de Champions y Europa, el descenso...",
+    "published": "Tue, 20 Oct 2026 19:05:49 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "champions_league",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BP2IBUPK75E5VC5Y2KFLX6LLBU.jpg?auth=365b30ec58abf1d159c24be25a411cd989434cd5ee5b32e93db0443015065fbd",
+    "media_type": "image/jpeg",
+    "arabic_title": "التصنيف المرحلي لدوري أبطال أوروبا 2026/2027، مباشر: الجولة 3، مباشر الآن",
+    "arabic_summary": "هذه هي الطريقة التي يسير بها جدول مراحل دوري أبطال أوروبا، الصراع على المراكز الثمانية الأولى، دوري أبطال أوروبا والمراكز الأوروبية، والهبوط...",
+    "translation_status": "translated",
+    "post_title": "التصنيف المرحلي لدوري أبطال أوروبا 2026/2027، مباشر: الجولة 3، مباشر الآن",
+    "post_text": "🚨 التصنيف المرحلي لدوري أبطال أوروبا 2026/2027، مباشر: الجولة 3، مباشر الآن\n\n📝 هذه هي الطريقة التي يسير بها جدول مراحل دوري أبطال أوروبا، الصراع على المراكز الثمانية الأولى، دوري أبطال أوروبا والمراكز الأوروبية، والهبوط...\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083869394278371",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التصنيف_المرحلي_لدوري_أبطال_أوروبا_20262027،_مباشر_الجولة_3،_مباشر_الآن.png",
+    "image_type": "real",
+    "image_source": "https://as.com/resultados/futbol/champions/clasificacion/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AuuT2m_uoDYQs1gFjpU-fF2"
+    }
+  },
+  {
     "title": "Cambio radical del PSG por el Barça",
     "url": "https://as.com/futbol/internacional/clon-bomba-para-el-barca-f202610-n/",
     "summary": "Luis Enrique ha perfeccionado en París el estilo de juego con el que tuvo éxito con el Barcelona y ha elevado al PSG a una dimensión inalcanzable en Europa.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AeEPerEjvxKiEBnvpDOvlTd"
-    }
-  },
-  {
-    "title": "Hasta Henry se rinde a la anomalía de Baena",
-    "url": "https://as.com/futbol/primera/hasta-henry-se-rinde-a-la-anomalia-de-baena-f202610-n/",
-    "summary": "Los elogios de la estrella francesa sirven para visibilizar la aportación global del jugador andaluz.",
-    "published": "Sat, 17 Oct 2026 05:15:07 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226509_061116_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "حتى هنري يستسلم لشذوذ باينا",
-    "arabic_summary": "إن إشادة النجم الفرنسي تعمل على إبراز المساهمة العالمية للاعب الأندلسي.",
-    "translation_status": "translated",
-    "post_title": "حتى هنري يستسلم لشذوذ باينا",
-    "post_text": "🚨 حتى هنري يستسلم لشذوذ باينا\n\n📝 إن إشادة النجم الفرنسي تعمل على إبراز المساهمة العالمية للاعب الأندلسي.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080738931258084",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حتى_هنري_يستسلم_لشذوذ_باينا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgIar2R_pSLRebaF1L1v1qR"
     }
   }
 ]
