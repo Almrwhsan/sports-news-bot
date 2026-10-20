@@ -1,5 +1,39 @@
 [
   {
+    "title": "Demichelis: “El Madrid no puede quejarse de la plantilla que tiene”",
+    "url": "https://as.com/futbol/primera/demichelis-el-madrid-no-puede-quejarse-de-la-plantilla-que-tiene-f202610-n/",
+    "summary": "“Juegue quien juegue... son todos muy buenos”, opina en una mesa redonda con la prensa española. Defiende a su equipo tras el 6-1 del Bayern. Y a Mastantuono: “Sí es para el Madrid”.",
+    "published": "Mon, 19 Oct 2026 17:50:39 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261019/1227308_203506_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "ديميكيليس: لا يمكن لريال مدريد أن يشتكي من الفريق الذي يملكه",
+    "arabic_summary": "\"أيًا كان من يلعب... فكلهم جيدون جدًا\"، كما يقول في طاولة مستديرة مع الصحافة الإسبانية. وهو يدافع عن فريقه بعد فوز بايرن بنتيجة 6-1. وإلى ماستانتونو: \"نعم، إنه لمدريد\".",
+    "translation_status": "translated",
+    "post_title": "ديميكيليس: لا يمكن لريال مدريد أن يشتكي من الفريق الذي يملكه",
+    "post_text": "🚨 ديميكيليس: لا يمكن لريال مدريد أن يشتكي من الفريق الذي يملكه\n\n📝 \"أيًا كان من يلعب... فكلهم جيدون جدًا\"، كما يقول في طاولة مستديرة مع الصحافة الإسبانية. وهو يدافع عن فريقه بعد فوز بايرن بنتيجة 6-1. وإلى ماستانتونو: \"نعم، إنه لمدريد\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083333027665341",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديميكيليس_لا_يمكن_لريال_مدريد_أن_يشتكي_من_الفريق_الذي_يملكه.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9qkMROyHgIzOdHYjtjy5Qa"
+    }
+  },
+  {
     "title": "Nadie se percató y es digno de mencionar: el gesto de Mourinho en pleno Real Madrid vs. Sevilla",
     "url": "https://as.com/futbol/videos/el-gesto-que-nadie-vio-de-mourinho-en-el-cambio-de-militao-absolutamente-ejemplar-f202610-v/",
     "summary": "El técnico portugués dejó una imagen que han recogido desde la grada que es ejemplar. Esto es lo primero que hizo en el cambio.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvX6-raCTmw7JwuZrFxya1l"
-    }
-  },
-  {
-    "title": "Chirino antepuso el Almería a un Mundial con Curazao",
-    "url": "https://www.marca.com/futbol/almeria/2026/10/16/chirino-antepuso-almeria-mundial-curazao.html",
-    "summary": "El lateral neerlandés desvela que rechazó jugar con la selección caribeña durante la fase clasificatoria para centrarse en el ascenso",
-    "published": "Fri, 16 Oct 2026 10:18:57 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad1dde891d88.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "وضع شيرينو ألميريا قبل كأس العالم مع كوراساو",
-    "arabic_summary": "كشف الظهير الهولندي أنه رفض اللعب مع المنتخب الكاريبي خلال مرحلة التصفيات للتركيز على الصعود",
-    "translation_status": "translated",
-    "post_title": "وضع شيرينو ألميريا قبل كأس العالم مع كوراساو",
-    "post_text": "🚨 وضع شيرينو ألميريا قبل كأس العالم مع كوراساو\n\n📝 كشف الظهير الهولندي أنه رفض اللعب مع المنتخب الكاريبي خلال مرحلة التصفيات للتركيز على الصعود\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079865468012097",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وضع_شيرينو_ألميريا_قبل_كأس_العالم_مع_كوراساو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/almeria/2026/10/16/chirino-antepuso-almeria-mundial-curazao.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AEUqtZWq6AJhZ4t9zCjB2gM"
     }
   }
 ]
