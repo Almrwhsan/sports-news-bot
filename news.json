@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Atlético sueña con el Top-6 en el ‘Penaltifest’",
+    "url": "https://as.com/futbol/champions/el-atletico-suena-con-el-top-6-en-el-penaltifest-f202610-n/",
+    "summary": "El equipo rojiblanco se impone en un partido con cuatro penaltis, dos por equipo (el Atleti marcó uno). Doblete de Obama y goles de Trujillano y Gross.",
+    "published": "Tue, 20 Oct 2026 15:02:16 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/P3BE3PHDZRDTJG4K6VPXMCDSIE.jpg?auth=58772b49432395e70ec0c745b7c4efc2cb16ea4a1dee3e266474ed3f58c08a10",
+    "media_type": "image/jpeg",
+    "arabic_title": "أتلتيكو يحلم بالتواجد ضمن الستة الأوائل في \"Penaltifest\"",
+    "arabic_summary": "الفريق الأحمر والأبيض يفوز بمباراة بأربع ركلات جزاء، اثنتين لكل فريق (أحرز الأتليتي واحدة). ثنائية من أوباما وهدفين من تروخيانو وجروس.",
+    "translation_status": "translated",
+    "post_title": "أتلتيكو يحلم بالتواجد ضمن الستة الأوائل في \"Penaltifest\"",
+    "post_text": "🚨 أتلتيكو يحلم بالتواجد ضمن الستة الأوائل في \"Penaltifest\"\n\n📝 الفريق الأحمر والأبيض يفوز بمباراة بأربع ركلات جزاء، اثنتين لكل فريق (أحرز الأتليتي واحدة). ثنائية من أوباما وهدفين من تروخيانو وجروس.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083882674277043",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_يحلم_بالتواجد_ضمن_الستة_الأوائل_في_Penaltifest.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/el-atletico-suena-con-el-top-6-en-el-penaltifest-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ac0icZYYz4ag82hsefmiRKj"
+    }
+  },
+  {
     "title": "Nuevas imágenes de la acción de Konaté con Ure en el gol de Mbappé: “Es falta clara”",
     "url": "https://as.com/futbol/primera/nuevas-imagenes-de-la-accion-de-konate-con-ure-en-el-gol-de-mbappe-f202610-n/",
     "summary": "El Sevilla se quejó de esa posible falta previa, pero durante la retransmisión no se pudo ver esta secuencia.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-nqdf2zY4zWfIHDZCAmCfN"
-    }
-  },
-  {
-    "title": "El Rayo-Athletic se reanudará a puerta cerrada",
-    "url": "https://as.com/futbol/primera/el-rayo-athletic-se-reanudara-a-puerta-cerrada-f202610-n/",
-    "summary": "El Juez Único de Competición establece que se dispute lo que resta del partido (se interrumpió en el minuto 24), sin público en las gradas. El Rayo deberá asumir los gastos de desplazamiento del Athletic Club.",
-    "published": "Sat, 17 Oct 2026 11:59:40 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226575_122813_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "سوف يستأنف فريق Rayo-Athletic خلف أبواب مغلقة",
-    "arabic_summary": "يقرر حكم المنافسة الفردية أن يتم لعب ما تبقى من المباراة (توقفت في الدقيقة 24)، بدون جمهور في المدرجات. يجب أن يتحمل رايو نفقات سفر النادي الرياضي.",
-    "translation_status": "translated",
-    "post_title": "سوف يستأنف فريق Rayo-Athletic خلف أبواب مغلقة",
-    "post_text": "🚨 سوف يستأنف فريق Rayo-Athletic خلف أبواب مغلقة\n\n📝 يقرر حكم المنافسة الفردية أن يتم لعب ما تبقى من المباراة (توقفت في الدقيقة 24)، بدون جمهور في المدرجات. يجب أن يتحمل رايو نفقات سفر النادي الرياضي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080743221257655",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سوف_يستأنف_فريق_Rayo-Athletic_خلف_أبواب_مغلقة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9XH1u4TJql27iAWUAtUBjs"
     }
   }
 ]
