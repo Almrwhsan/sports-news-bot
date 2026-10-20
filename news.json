@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Castilla encuentra ‘9′",
+    "url": "https://as.com/futbol/primera-rfef/el-castilla-encuentra-9-f202610-n/",
+    "summary": "Ángel Carvajal se apodera del puesto con tres goles en tres partidos. Su cesión en Valladolid fue un éxito y La Fábrica ya recoge los frutos.",
+    "published": "Mon, 19 Oct 2026 13:07:04 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TVXMMI7M3JDNRAFDZSINX4SOFY.JPG?auth=4c6062e48ed4195cce873756bd5a7582d20e04c32ddf81635a9dfd922c305b95",
+    "media_type": "image/jpeg",
+    "arabic_title": "كاستيا تجد الرقم 9",
+    "arabic_summary": "أنخيل كارفاخال يتولى المسؤولية برصيد ثلاثة أهداف في ثلاث مباريات. كانت مهمته في بلد الوليد ناجحة، وبدأ لا فابريكا يجني ثمارها بالفعل.",
+    "translation_status": "translated",
+    "post_title": "كاستيا تجد الرقم 9",
+    "post_text": "🚨 كاستيا تجد الرقم 9\n\n📝 أنخيل كارفاخال يتولى المسؤولية برصيد ثلاثة أهداف في ثلاث مباريات. كانت مهمته في بلد الوليد ناجحة، وبدأ لا فابريكا يجني ثمارها بالفعل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083236334341677",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاستيا_تجد_الرقم_9.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera-rfef/el-castilla-encuentra-9-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvS5dXphHoxS9U6WKwL4Vsz"
+    }
+  },
+  {
     "title": "Carvajal debuta con empate",
     "url": "https://as.com/futbol/primera/carvajal-debuta-con-empate-f202610-n/",
     "summary": "Satriano iguala para el Getafe. Álvaro adelanta al Rayo en el 11′. Djené, expulsado en el 28′. El Rayo dejó vivo al Getafe.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArsrSNaD1SP0spkvIafVDcb"
-    }
-  },
-  {
-    "title": "Apelación mantiene los cuatro partidos de sanción a Vinicius",
-    "url": "https://as.com/futbol/primera/apelacion-mantiene-los-cuatro-partidos-de-sancion-a-vinicius-f202610-n/",
-    "summary": "El órgano desestima el recurso del Madrid y ratifica el castigo impuesto por el Comité de Disciplina tras su sanción con el Villarreal. El carioca no podrá jugar el Clásico.",
-    "published": "Fri, 16 Oct 2026 12:01:22 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/O42SDXVJMJPMVFPVA6KKVZH5KM.jpg?auth=ee64ad83a31c6842859a02e6370a88ee252323aeb912bc477f973effa9bb5308",
-    "media_type": "image/jpeg",
-    "arabic_title": "الاستئناف يؤيد إيقاف فينيسيوس أربع مباريات",
-    "arabic_summary": "الهيئة ترفض استئناف مدريد وتصادق على العقوبة التي فرضتها اللجنة التأديبية بعد معاقبتها مع فياريال. لن يتمكن كاريوكا من لعب الكلاسيكو.",
-    "translation_status": "translated",
-    "post_title": "الاستئناف يؤيد إيقاف فينيسيوس أربع مباريات",
-    "post_text": "🚨 الاستئناف يؤيد إيقاف فينيسيوس أربع مباريات\n\n📝 الهيئة ترفض استئناف مدريد وتصادق على العقوبة التي فرضتها اللجنة التأديبية بعد معاقبتها مع فياريال. لن يتمكن كاريوكا من لعب الكلاسيكو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1079707568027887",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الاستئناف_يؤيد_إيقاف_فينيسيوس_أربع_مباريات.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/apelacion-mantiene-los-cuatro-partidos-de-sancion-a-vinicius-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7SPQDjUDz0tBqKTuJqsOPC"
     }
   }
 ]
