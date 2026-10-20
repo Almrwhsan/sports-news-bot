@@ -1,5 +1,39 @@
 [
   {
+    "title": "Qué explicaciones hay a la polémica captada por la Refcam del Betis-Barcelona",
+    "url": "https://as.com/futbol/primera/que-explicaciones-hay-a-la-polemica-captada-por-la-refcam-del-betis-barcelona-f202610-n/",
+    "summary": "De Burgos pidió a Del Cerro que revisara en el VAR una posible mano en La Cartuja. Una petición que ha levantado controversia.",
+    "published": "Tue, 20 Oct 2026 15:23:05 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261019/1227221_164133_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "ما هي التفسيرات الموجودة للجدل الذي استحوذت عليه ريفكام بيتيس وبرشلونة؟",
+    "arabic_summary": "طلب دي بورجوس من ديل سيرو مراجعة لمسة يد محتملة في لا كارتوجا في تقنية VAR. الطلب الذي أثار الجدل.",
+    "translation_status": "translated",
+    "post_title": "ما هي التفسيرات الموجودة للجدل الذي استحوذت عليه ريفكام بيتيس وبرشلونة؟",
+    "post_text": "🚨 ما هي التفسيرات الموجودة للجدل الذي استحوذت عليه ريفكام بيتيس وبرشلونة؟\n\n📝 طلب دي بورجوس من ديل سيرو مراجعة لمسة يد محتملة في لا كارتوجا في تقنية VAR. الطلب الذي أثار الجدل.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1083861904279120",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هي_التفسيرات_الموجودة_للجدل_الذي_استحوذت_عليه_ريفكام_بيتيس_وبرشلونة؟.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1383gZt6rZbEVC9S6x7ULz"
+    }
+  },
+  {
     "title": "Everton legend Ferguson returns to management in Irish League",
     "url": "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
     "summary": "Ex-Everton and Rangers striker Duncan Ferguson is named as the new manager of Irish Premiership club Glentoran.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AqkCMA-9R8co3heizkQNL6v"
-    }
-  },
-  {
-    "title": "Alineación posible del Espanyol ante el Atlético de Madrid en LaLiga EA Sports",
-    "url": "https://as.com/futbol/primera/alineacion-posible-del-espanyol-ante-el-atletico-de-madrid-en-laliga-ea-sports-f202610-n/",
-    "summary": "Manolo González medita devolverle la titularidad a Dmitrovic, ya sin las molestias que le dejaron como suplente ante el Málaga. Roberto, principal baza ofensiva.",
-    "published": "Fri, 16 Oct 2026 23:23:27 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5TXMRGRCFNE7PDLWH6VTBPIAGM.jpg?auth=19bf15709568a8bb5d4f242969fd3901e507438976f07f407cf6c7bfc35a11fe",
-    "media_type": "image/jpeg",
-    "arabic_title": "التشكيلة المحتملة لإسبانيول أمام أتلتيكو مدريد في الدوري الإسباني EA Sports",
-    "arabic_summary": "يفكر مانولو جونزاليس في إعادة اللقب إلى دميتروفيتش، الآن دون الانزعاج الذي تركه كبديل ضد ملقة. روبرتو، الأصل الهجومي الرئيسي.",
-    "translation_status": "translated",
-    "post_title": "التشكيلة المحتملة لإسبانيول أمام أتلتيكو مدريد في الدوري الإسباني EA Sports",
-    "post_text": "🚨 التشكيلة المحتملة لإسبانيول أمام أتلتيكو مدريد في الدوري الإسباني EA Sports\n\n📝 يفكر مانولو جونزاليس في إعادة اللقب إلى دميتروفيتش، الآن دون الانزعاج الذي تركه كبديل ضد ملقة. روبرتو، الأصل الهجومي الرئيسي.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080731277925516",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التشكيلة_المحتملة_لإسبانيول_أمام_أتلتيكو_مدريد_في_الدوري_الإسباني_EA_Sports.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/alineacion-posible-del-espanyol-ante-el-atletico-de-madrid-en-laliga-ea-sports-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ahp8VvuM_FZf0m8_i8gU9eq"
     }
   }
 ]
