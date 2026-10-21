@@ -1,5 +1,39 @@
 [
   {
+    "title": "La pregunta que se puede hacer Flick",
+    "url": "https://as.com/opinion/la-pregunta-que-se-puede-hacer-flick-f202610-n/",
+    "summary": "Tal vez el entrenador alemán del Barça pensó que el PSG puede esperar a junio y miró al Madrid.",
+    "published": "Tue, 20 Oct 2026 22:02:22 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RD7IY2UH3ZMFXKQHVNMNPQYB4A.jpg?auth=e5c9414f8074cca25aa4b7ba9f8e05e28e7fa443b0c4f25df0e5c385c7606fbe",
+    "media_type": "image/jpeg",
+    "arabic_title": "السؤال الذي يمكن طرحه فليك",
+    "arabic_summary": "ربما اعتقد المدرب الألماني لبرشلونة أن باريس سان جيرمان يمكنه الانتظار حتى يونيو ونظر إلى مدريد.",
+    "translation_status": "translated",
+    "post_title": "السؤال الذي يمكن طرحه فليك",
+    "post_text": "🚨 السؤال الذي يمكن طرحه فليك\n\n📝 ربما اعتقد المدرب الألماني لبرشلونة أن باريس سان جيرمان يمكنه الانتظار حتى يونيو ونظر إلى مدريد.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084508334214477",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/السؤال_الذي_يمكن_طرحه_فليك.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/la-pregunta-que-se-puede-hacer-flick-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AS-RdCZBeVkXKW4JlXuv_3I"
+    }
+  },
+  {
     "title": "“Diomande triunfará en el Real Madrid”",
     "url": "https://as.com/futbol/champions/diomande-triunfara-en-el-real-madrid-f202610-n/",
     "summary": "El ojeador que le llevó al RB Leipzig analiza para AS cómo fue su fichaje y qué porvenir le imagina. Se trata de Rafa González, el ‘Monchi asturiano’ al que deslumbró en el Bernabéu.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADb5kIGKGiPaUMWDLcmACEs"
-    }
-  },
-  {
-    "title": "Don Pedro: de las risas al ajuste de cuentas",
-    "url": "https://as.com/futbol/pedro-de-las-risas-al-ajuste-de-cuentas-f202610-n/",
-    "summary": "El genio canario que brilló en el Barça, Chelsea, Roma, Lazio y Selección cuelga las botas en mitad de una denuncia de Xavi con aires de reivindicación: “Fue infravalorado”. Periodistas que le siguieron de cerca y expertos en marketing analizan su caso.",
-    "published": "Sat, 17 Oct 2026 08:44:59 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/H65VIRNS2VNQDIR5BGXHTV7HXI.jpg?auth=576d92bcff021b254e30203f607ff10b40c18d979dfffa39aeba4d2be7775557",
-    "media_type": "image/jpeg",
-    "arabic_title": "دون بيدرو: من الضحك إلى الحساب",
-    "arabic_summary": "العبقري الكناري الذي تألق في برشلونة وتشيلسي وروما ولاتسيو والمنتخب الوطني يعلق حذائه وسط شكوى من تشافي مع جو من التبرير: \"لقد تم التقليل من قيمته\". الصحفيون الذين تابعوه عن كثب وخبراء التسويق يحللون قضيته.",
-    "translation_status": "translated",
-    "post_title": "دون بيدرو: من الضحك إلى الحساب",
-    "post_text": "🚨 دون بيدرو: من الضحك إلى الحساب\n\n📝 العبقري الكناري الذي تألق في برشلونة وتشيلسي وروما ولاتسيو والمنتخب الوطني يعلق حذائه وسط شكوى من تشافي مع جو من التبرير: \"لقد تم التقليل من قيمته\". الصحفيون الذين تابعوه عن كثب وخبراء التسويق يحللون قضيته.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080962097902434",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دون_بيدرو_من_الضحك_إلى_الحساب.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/pedro-de-las-risas-al-ajuste-de-cuentas-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkZCjRqGDBc3Vy9ivtFDsDx"
     }
   }
 ]
