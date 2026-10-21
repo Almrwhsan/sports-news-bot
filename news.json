@@ -1,5 +1,39 @@
 [
   {
+    "title": "Vean la barbaridad de Vitinha para mandar a la lona al Barça por primera vez esta temporada",
+    "url": "https://as.com/futbol/videos/vean-la-barbaridad-de-vitinha-para-mandar-a-la-lona-al-barca-por-primera-vez-esta-temporada-f202610-v/",
+    "summary": "El portugués se sacó esta latigazo desde fuera del área para poner el 3-2 en el marcador. Golazo.",
+    "published": "Tue, 20 Oct 2026 21:16:57 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261020/1227805_211547_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "شاهد وحشية فيتينيا التي أرسلت برشلونة إلى اللوحة لأول مرة هذا الموسم",
+    "arabic_summary": "وسدد البرتغالي هذه الكرة من خارج منطقة الجزاء لتصبح النتيجة 3-2. هدف عظيم.",
+    "translation_status": "translated",
+    "post_title": "شاهد وحشية فيتينيا التي أرسلت برشلونة إلى اللوحة لأول مرة هذا الموسم",
+    "post_text": "🚨 شاهد وحشية فيتينيا التي أرسلت برشلونة إلى اللوحة لأول مرة هذا الموسم\n\n📝 وسدد البرتغالي هذه الكرة من خارج منطقة الجزاء لتصبح النتيجة 3-2. هدف عظيم.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084240644241246",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شاهد_وحشية_فيتينيا_التي_أرسلت_برشلونة_إلى_اللوحة_لأول_مرة_هذا_الموسم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdFLfgmppRcZgPaSnW99XGL"
+    }
+  },
+  {
     "title": "England manager Wiegman signs contract extension",
     "url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
     "summary": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWhlJdafdRpzT8coPc08cgb"
-    }
-  },
-  {
-    "title": "Almeraq proves his class in British Champions Sprint",
-    "url": "https://www.skysports.com/racing/news/12040/13600183/ascot-almeraq-proves-his-class-in-british-champions-sprint",
-    "summary": "Almeraq confirmed himself as this season&#8217;s star sprinter with a third top-level triumph of the campaign in the Qatar Racing British Champions Sprint Stakes at Ascot.",
-    "published": "Sat, 17 Oct 2026 14:02:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-almeraq-racing_7378943.jpg?20261017150124",
-    "media_type": "image/jpg",
-    "arabic_title": "المراق يثبت تفوقه في سباق السرعة للأبطال البريطانيين",
-    "arabic_summary": "أكد المرق نفسه على أنه العداء النجم لهذا الموسم بفوزه الثالث على مستوى عالٍ هذا الموسم في بطولة قطر ريسينغ البريطانية سبرينت ستيكس في أسكوت.",
-    "translation_status": "translated",
-    "post_title": "المراق يثبت تفوقه في سباق السرعة للأبطال البريطانيين",
-    "post_text": "🚨 المراق يثبت تفوقه في سباق السرعة للأبطال البريطانيين\n\n📝 أكد المرق نفسه على أنه العداء النجم لهذا الموسم بفوزه الثالث على مستوى عالٍ هذا الموسم في بطولة قطر ريسينغ البريطانية سبرينت ستيكس في أسكوت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080836451248332",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المراق_يثبت_تفوقه_في_سباق_السرعة_للأبطال_البريطانيين.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13600183/ascot-almeraq-proves-his-class-in-british-champions-sprint",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOz-vrQfKX00s3ORXYyut7O"
     }
   }
 ]
