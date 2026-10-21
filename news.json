@@ -1,5 +1,39 @@
 [
   {
+    "title": "El coste de no tener razón",
+    "url": "https://as.com/opinion/el-coste-de-no-tener-razon-f202610-n/",
+    "summary": "Bastaba con tener dos ojos, unas nociones básicas de fútbol y, sobre todo, cierta independencia de criterio para reconocer lo indispensable de Güler. Cabe preguntarse entonces qué es lo que faltó estos años a los distintos técnicos...",
+    "published": "Wed, 21 Oct 2026 00:00:20 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GQ3UQPAYBRKODGWG2BUDPHAGRA.jpg?auth=56289e28a691e57845f2b90e7517f2b823d61e1f3b7e1d0dba12ae4a56e8dbfb",
+    "media_type": "image/jpeg",
+    "arabic_title": "تكلفة عدم كونك على حق",
+    "arabic_summary": "كان يكفي أن يكون لديك عينان، وبعض المفاهيم الأساسية لكرة القدم، وقبل كل شيء، قدر معين من الاستقلال في الحكم للاعتراف بأنه لا غنى عن جولر. ومن الجدير أن نسأل إذن ما الذي فقده الفنيون المختلفون هذه السنوات ...",
+    "translation_status": "translated",
+    "post_title": "تكلفة عدم كونك على حق",
+    "post_text": "🚨 تكلفة عدم كونك على حق\n\n📝 كان يكفي أن يكون لديك عينان، وبعض المفاهيم الأساسية لكرة القدم، وقبل كل شيء، قدر معين من الاستقلال في الحكم للاعتراف بأنه لا غنى عن جولر. ومن الجدير أن نسأل إذن ما الذي فقده الفنيون المختلفون هذه السنوات ...\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084327950899182",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تكلفة_عدم_كونك_على_حق.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/el-coste-de-no-tener-razon-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANBhibH4npE_5kSa8rIxQ-o"
+    }
+  },
+  {
     "title": "Yecla: “¡A por el Barça!”",
     "url": "https://as.com/futbol/primera/yecla-a-por-el-barca-f202610-n/",
     "summary": "“Somos el Real Madrid y nos los vamos a comer”, claman en la sede social de la Peña Vino Tinto. Epicentro vikingo de la localidad de casi 40.000 habitantes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aq_NRiwQOutjpYZ4bWxHn02"
-    }
-  },
-  {
-    "title": "Beñat San José: \"Nadie quiere estar en esta situación\"",
-    "url": "https://www.marca.com/futbol/rayo/2026/10/17/benat-san-jose-nadie-quiere-situacion.html",
-    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
-    "published": "Sat, 17 Oct 2026 13:20:56 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac117e573b90.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بينيات سان خوسيه: \"لا أحد يريد أن يكون في هذا الوضع\"",
-    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
-    "translation_status": "translated",
-    "post_title": "بينيات سان خوسيه: \"لا أحد يريد أن يكون في هذا الوضع\"",
-    "post_text": "🚨 بينيات سان خوسيه: \"لا أحد يريد أن يكون في هذا الوضع\"\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080872244578086",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بينيات_سان_خوسيه_لا_أحد_يريد_أن_يكون_في_هذا_الوضع.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/rayo/2026/10/17/benat-san-jose-nadie-quiere-situacion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ACOKSpNQvUYhb6xuOiomlu6"
     }
   }
 ]
