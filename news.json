@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los 10 nominados al mejor Balón de Oro de la historia",
+    "url": "https://as.com/futbol/balon-de-oro/los-10-nominados-al-mejor-balon-de-oro-de-la-historia-f202610-n/",
+    "summary": "Los finalistas son Messi, Cristiano, Di Stéfano, Cruyff, Platini, Rummenigge, Ronaldo, Keegan, Van Basten y Beckenbauer.",
+    "published": "Tue, 20 Oct 2026 15:58:11 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/AF7PQM5S4NCNZA3F3256C5ZUJQ.jpg?auth=681a4c02196a7b381d79ad61ed8d907a995b2d7b7adabb39837a7317699df7d8",
+    "media_type": "image/jpeg",
+    "arabic_title": "10 مرشحين لجائزة أفضل الكرة الذهبية في التاريخ",
+    "arabic_summary": "المتأهلون للنهائي هم ميسي، كريستيانو، دي ستيفانو، كرويف، بلاتيني، رومينيجه، رونالدو، كيجان، فان باستن وبيكنباور.",
+    "translation_status": "translated",
+    "post_title": "10 مرشحين لجائزة أفضل الكرة الذهبية في التاريخ",
+    "post_text": "🚨 10 مرشحين لجائزة أفضل الكرة الذهبية في التاريخ\n\n📝 المتأهلون للنهائي هم ميسي، كريستيانو، دي ستيفانو، كرويف، بلاتيني، رومينيجه، رونالدو، كيجان، فان باستن وبيكنباور.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084099917588652",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/10_مرشحين_لجائزة_أفضل_الكرة_الذهبية_في_التاريخ.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/balon-de-oro/los-10-nominados-al-mejor-balon-de-oro-de-la-historia-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAsi2I72EmQhbq109PhtsUB"
+    }
+  },
+  {
     "title": "Real Madrid - Leipzig: TV, a qué hora es, cómo y dónde ver hoy la Champions League online",
     "url": "https://as.com/futbol/champions/real-madrid-leipzig-tv-a-que-hora-es-como-y-donde-ver-hoy-la-champions-league-online-f202610-n/",
     "summary": "Fecha, horario, cómo ver en vivo y en directo en televisión y cómo seguir online el Real Madrid - Leipzig, correspondiente a la tercera jornada de la Champions League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AI-802sKKYVnTNFfqNlI3yN"
-    }
-  },
-  {
-    "title": "Mourinho: \"¿Sanción a Vini? Estoy contento porque pensaba que le iban a sancionar más\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/17/mourinho-sancion-vini-contento-pensaba-le-iban-sancionar.html",
-    "summary": "El entrenador madridista atendió a los medios en la previa del encuentro ante el Sevilla",
-    "published": "Sat, 17 Oct 2026 10:29:45 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/17/g9WAg1gqpoJ6LYxnR.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "مورينيو: \"عقوبة فيني؟ أنا سعيد لأنني اعتقدت أنهم سيعاقبونه أكثر\"",
-    "arabic_summary": "تحدث مدرب ريال مدريد لوسائل الإعلام قبل المباراة ضد إشبيلية",
-    "translation_status": "translated",
-    "post_title": "مورينيو: \"عقوبة فيني؟ أنا سعيد لأنني اعتقدت أنهم سيعاقبونه أكثر\"",
-    "post_text": "🚨 مورينيو: \"عقوبة فيني؟ أنا سعيد لأنني اعتقدت أنهم سيعاقبونه أكثر\"\n\n📝 تحدث مدرب ريال مدريد لوسائل الإعلام قبل المباراة ضد إشبيلية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080785711253406",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_عقوبة_فيني؟_أنا_سعيد_لأنني_اعتقدت_أنهم_سيعاقبونه_أكثر.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/17/mourinho-sancion-vini-contento-pensaba-le-iban-sancionar.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJJhy-U-0JR4m9cBRkB1kPY"
     }
   }
 ]
