@@ -1,5 +1,39 @@
 [
   {
+    "title": "Fàbregas y Carrick siguen moviendo los hilos",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/21/fabregas-carrick-siguen-moviendo-hilos.html",
+    "summary": "Ambos se enfrentan esta noche a los mandos de Como y Manchester United",
+    "published": "Wed, 21 Oct 2026 06:15:15 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7daf4df122.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يواصل فابريغاس وكاريك السيطرة على الأمور",
+    "arabic_summary": "كلاهما يواجه مديري كومو ومانشستر يونايتد الليلة",
+    "translation_status": "translated",
+    "post_title": "يواصل فابريغاس وكاريك السيطرة على الأمور",
+    "post_text": "🚨 يواصل فابريغاس وكاريك السيطرة على الأمور\n\n📝 كلاهما يواجه مديري كومو ومانشستر يونايتد الليلة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084430367555607",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يواصل_فابريغاس_وكاريك_السيطرة_على_الأمور.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/21/fabregas-carrick-siguen-moviendo-hilos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AKYVKC5I9esJ_eHNxwjksz3"
+    }
+  },
+  {
     "title": "García Pimienta \"Los errores del 'playoff' tienen que servirnos para el futuro\"",
     "url": "https://www.marca.com/futbol/almeria/2026/10/21/garcia-pimienta-errores-playoff-servirnos-futuro.html",
     "summary": "El técnico del Almería explica el punto de inflexión tras las derrotas ante Tenerife y Sabadell y analiza la presión del ascenso",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A89BruONeMzJ_i0AHPVhNUt"
-    }
-  },
-  {
-    "title": "La secuencia del brutal choque entre Dibu Martínez y Branthwaite: acabó en camilla e inmovilizado",
-    "url": "https://as.com/futbol/fotorrelato/la-secuencia-del-brutal-choque-entre-dibu-martinez-y-branthwaite-acabo-en-camilla-e-inmovilizado-f202610-f/",
-    "summary": "Golpe tremendo el que sufrió el portero del Chelsea con Branthwaite en el partido del Everton ante el Chelsea. Tras momentos de tensión, fue trasladado fuera del estadio.",
-    "published": "Sat, 17 Oct 2026 14:37:36 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/S2TAVQD2JVHKXPIDRRVMYVJFZE.JPG?auth=46f43345c8a1df4abad3b2771e49c9302af2d6ea0c3114eb3fe770b0eb9d22d4",
-    "media_type": "image/jpeg",
-    "arabic_title": "تسلسل الاشتباك الوحشي بين ديبو مارتينيز وبرانثويت: انتهى به الأمر على نقالة وشل حركته",
-    "arabic_summary": "ضربة قوية تعرض لها حارس مرمى تشيلسي مع برانثويت في مباراة إيفرتون أمام تشيلسي. وبعد لحظات من التوتر تم نقله خارج الملعب.",
-    "translation_status": "translated",
-    "post_title": "تسلسل الاشتباك الوحشي بين ديبو مارتينيز وبرانثويت: انتهى به الأمر على نقالة وشل حركته",
-    "post_text": "🚨 تسلسل الاشتباك الوحشي بين ديبو مارتينيز وبرانثويت: انتهى به الأمر على نقالة وشل حركته\n\n📝 ضربة قوية تعرض لها حارس مرمى تشيلسي مع برانثويت في مباراة إيفرتون أمام تشيلسي. وبعد لحظات من التوتر تم نقله خارج الملعب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080948761237101",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تسلسل_الاشتباك_الوحشي_بين_ديبو_مارتينيز_وبرانثويت_انتهى_به_الأمر_على_نقالة_وشل_ح.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/la-secuencia-del-brutal-choque-entre-dibu-martinez-y-branthwaite-acabo-en-camilla-e-inmovilizado-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZJW6AsyZVSeubIwIeQRy3B"
     }
   }
 ]
