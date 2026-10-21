@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pistons complete late combeack against Celtics",
+    "url": "https://www.skysports.com/watch/video/13601772/boston-celtics-detroit-pistons-nba-highlights",
+    "summary": "Highlights of the NBA match between Detroit Pistons and Boston Celtics.",
+    "published": "Wed, 21 Oct 2026 06:54:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-boston-detroit-pistons_7382526.jpg?20261021070419",
+    "media_type": "image/jpg",
+    "arabic_title": "أكمل بيستونز عودته المتأخرة ضد سلتكس",
+    "arabic_summary": "أبرز أحداث مباراة الدوري الاميركي للمحترفين بين ديترويت بيستونز وبوسطن سيلتيكس.",
+    "translation_status": "translated",
+    "post_title": "أكمل بيستونز عودته المتأخرة ضد سلتكس",
+    "post_text": "🚨 أكمل بيستونز عودته المتأخرة ضد سلتكس\n\n📝 أبرز أحداث مباراة الدوري الاميركي للمحترفين بين ديترويت بيستونز وبوسطن سيلتيكس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084362757562368",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أكمل_بيستونز_عودته_المتأخرة_ضد_سلتكس.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13601772/boston-celtics-detroit-pistons-nba-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOF9nXafdZCjYhLs1Bcns3P"
+    }
+  },
+  {
     "title": "Betis - Feyenoord: A por la tercera en Europa",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/20/betis-tercera-europa.html",
     "summary": "Los verdiblancos quieren seguir inmaculados para acercar el objetivo del top 24 frente al Feyenoord",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Avt3NGrN09n0Y8st3ZzNErZ"
-    }
-  },
-  {
-    "title": "El día que Fofana ‘defendió’ a Mbappé ante los cambios de Luis Enrique",
-    "url": "https://as.com/futbol/primera/el-dia-que-fofana-defendio-a-mbappe-ante-los-cambios-de-luis-enrique-f202610-n/",
-    "summary": "El ahora pivote del Sevilla criticó que el asturiano le cambiara en un Mónaco-PSG. Mantienen una gran relación desde que coincidieron en Clairefontaine: “Hay dos Kylian distintos”.",
-    "published": "Sat, 17 Oct 2026 08:38:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/K7AT4YZF5MPB62CAUP2D3EGGOI.jpg?auth=f9e11779c374e6c5cc040261987c514df14a733d00013cac5167b2d295f6740c",
-    "media_type": "image/jpeg",
-    "arabic_title": "اليوم الذي دافع فيه فوفانا عن مبابي ضد تغييرات لويس إنريكي",
-    "arabic_summary": "انتقد محور إشبيلية الآن أن الأستوري قام بتغييره في موناكو-باريس سان جيرمان. لقد كانت لديهما علاقة رائعة منذ أن التقيا في كليرفونتين: \"هناك كيليان مختلفان\".",
-    "translation_status": "translated",
-    "post_title": "اليوم الذي دافع فيه فوفانا عن مبابي ضد تغييرات لويس إنريكي",
-    "post_text": "🚨 اليوم الذي دافع فيه فوفانا عن مبابي ضد تغييرات لويس إنريكي\n\n📝 انتقد محور إشبيلية الآن أن الأستوري قام بتغييره في موناكو-باريس سان جيرمان. لقد كانت لديهما علاقة رائعة منذ أن التقيا في كليرفونتين: \"هناك كيليان مختلفان\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080890954576215",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليوم_الذي_دافع_فيه_فوفانا_عن_مبابي_ضد_تغييرات_لويس_إنريكي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-dia-que-fofana-defendio-a-mbappe-ante-los-cambios-de-luis-enrique-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ag7eZrT4ijV-AG-1ah03E7j"
     }
   }
 ]
