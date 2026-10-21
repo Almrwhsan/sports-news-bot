@@ -1,5 +1,39 @@
 [
   {
+    "title": "El 'top-8' del Atlético pasa por ganar ‘casi’ todo",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/21/top-8-atletico-pasa-ganar.html",
+    "summary": "Tras dejarse cinco puntos en dos salidas, los rojiblancos, que se quejan de un penalti sobre Hancko, se jugarán parte de sus opciones la próxima jornada... ante el Bayern",
+    "published": "Wed, 21 Oct 2026 06:19:28 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/21/6ad7e801a3109.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يتضمن تصنيف \"الثمانية الأوائل\" في أتلتيكو الفوز بكل شيء \"تقريبًا\".",
+    "arabic_summary": "بعد خسارة خمس نقاط في مباراتين، سيلعب الفريق الأحمر والأبيض، الذي يشتكي من ركلة جزاء ضد هانكو، جزءًا من خياراته في اليوم التالي... ضد بايرن.",
+    "translation_status": "translated",
+    "post_title": "يتضمن تصنيف \"الثمانية الأوائل\" في أتلتيكو الفوز بكل شيء \"تقريبًا\".",
+    "post_text": "🚨 يتضمن تصنيف \"الثمانية الأوائل\" في أتلتيكو الفوز بكل شيء \"تقريبًا\".\n\n📝 بعد خسارة خمس نقاط في مباراتين، سيلعب الفريق الأحمر والأبيض، الذي يشتكي من ركلة جزاء ضد هانكو، جزءًا من خياراته في اليوم التالي... ضد بايرن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084470977551546",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتضمن_تصنيف_الثمانية_الأوائل_في_أتلتيكو_الفوز_بكل_شيء_تقريبًا..png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/21/top-8-atletico-pasa-ganar.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJcm1IzG6GS8y2oOulPUBBF"
+    }
+  },
+  {
     "title": "Diomande entra en ebullición",
     "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/20/diomande-entra-ebullicion.html",
     "summary": "Se reencuentra con el Leipzig y Tonybet valora positivamente que pueda ver portería con el Real Madrid",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzqRJSaL3eiHXSSiNp2vhNU"
-    }
-  },
-  {
-    "title": "Real demand Tebas resign over Goebbels comparison",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Real Madrid have called for the \"immediate resignation\" of La Liga president Javier Tebas after he compared the club's management to Joseph Goebbels.",
-    "published": "Fri, 16 Oct 2026 15:43:32 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2b/live/02651960-c976-11f1-8791-fbfa2cae660f.jpg",
-    "media_type": null,
-    "arabic_title": "الطلب الحقيقي على استقالة تيباس بسبب مقارنة جوبلز",
-    "arabic_summary": "دعا ريال مدريد إلى \"الاستقالة الفورية\" لرئيس رابطة الدوري الإسباني خافيير تيباس بعد تشبيهه إدارة النادي بجوزيف جوبلز.",
-    "translation_status": "translated",
-    "post_title": "الطلب الحقيقي على استقالة تيباس بسبب مقارنة جوبلز",
-    "post_text": "🚨 الطلب الحقيقي على استقالة تيباس بسبب مقارنة جوبلز\n\n📝 دعا ريال مدريد إلى \"الاستقالة الفورية\" لرئيس رابطة الدوري الإسباني خافيير تيباس بعد تشبيهه إدارة النادي بجوزيف جوبلز.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080948281237149",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الطلب_الحقيقي_على_استقالة_تيباس_بسبب_مقارنة_جوبلز.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVeWff76BhxkPGNwnydGAWa"
     }
   }
 ]
