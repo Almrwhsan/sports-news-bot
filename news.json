@@ -1,5 +1,39 @@
 [
   {
+    "title": "Real Madrid - Leipzig: alineaciones del partido de Champions League",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/20/real-madrid-leipzig-alineaciones-probables-partido-champions-league.html",
+    "summary": "Once del duelo de Champions de este miércoles en el Bernabéu",
+    "published": "Tue, 20 Oct 2026 20:18:12 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7b04e87747.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريال مدريد - لايبزيج: تشكيل الفريق لمباراة دوري أبطال أوروبا",
+    "arabic_summary": "11 مباراة من مباراة دوري أبطال أوروبا يوم الأربعاء في البرنابيو",
+    "translation_status": "translated",
+    "post_title": "ريال مدريد - لايبزيج: تشكيل الفريق لمباراة دوري أبطال أوروبا",
+    "post_text": "🚨 ريال مدريد - لايبزيج: تشكيل الفريق لمباراة دوري أبطال أوروبا\n\n📝 11 مباراة من مباراة دوري أبطال أوروبا يوم الأربعاء في البرنابيو\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084651217533522",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_-_لايبزيج_تشكيل_الفريق_لمباراة_دوري_أبطال_أوروبا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/20/real-madrid-leipzig-alineaciones-probables-partido-champions-league.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdKE_SBeZRpMrge7y9EDaiv"
+    }
+  },
+  {
     "title": "LeBron gets into HEATED exchange with fan on 76ers debut",
     "url": "https://www.skysports.com/watch/video/13601889/nba-lebron-james-gets-into-heated-exchange-with-fan-on-philadelphia-76ers-debut",
     "summary": "LeBron James got into some heated exchanges with the New York Knicks crowd on his debut for the Philadelphia 76ers.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1gWlDDwc43XTdFEbl4eEy3"
-    }
-  },
-  {
-    "title": "Chema Andrés, en el proceso perfecto para llegar a la cima",
-    "url": "https://as.com/futbol/chema-andres-en-el-proceso-perfecto-para-llegar-a-la-cima-f202610-n/",
-    "summary": "Su compromiso profesional con el Real Madrid finiquitó, pero no así su matrimonio moral con un club que siempre le ha valorado de manera sobresaliente.",
-    "published": "Sun, 18 Oct 2026 05:20:02 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226541_095544_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "Chema Andrés، في عملية مثالية للوصول إلى القمة",
-    "arabic_summary": "انتهى التزامه الاحترافي مع ريال مدريد، لكن زواجه الأخلاقي مع النادي الذي كان دائمًا يقدره كثيرًا لم ينته.",
-    "translation_status": "translated",
-    "post_title": "Chema Andrés، في عملية مثالية للوصول إلى القمة",
-    "post_text": "🚨 Chema Andrés، في عملية مثالية للوصول إلى القمة\n\n📝 انتهى التزامه الاحترافي مع ريال مدريد، لكن زواجه الأخلاقي مع النادي الذي كان دائمًا يقدره كثيرًا لم ينته.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081539844511326",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Chema_Andrés،_في_عملية_مثالية_للوصول_إلى_القمة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXXz4Sl9KeAMe6ZN3AwYSaF"
     }
   }
 ]
