@@ -1,5 +1,39 @@
 [
   {
+    "title": "Al Barça todavía no le alcanza",
+    "url": "https://as.com/opinion/al-barca-todavia-no-le-alcanza-f202610-n/",
+    "summary": "Era la prueba del algodón para comprobar si los de Flick podían mirar a los ojos a los de Luis Enrique.",
+    "published": "Tue, 20 Oct 2026 21:50:10 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VBSEXPT5MBIW3HKQULY6FI5Y7Y.jpg?auth=6ea01a803521ffba4890ebe044bc1bbda369f8acee32093867b0c864f05debdf",
+    "media_type": "image/jpeg",
+    "arabic_title": "لا يزال هذا غير كاف لبرشلونة",
+    "arabic_summary": "لقد كان اختبار القطن للتحقق مما إذا كان فريق فليك يستطيع النظر في عيون لويس إنريكي.",
+    "translation_status": "translated",
+    "post_title": "لا يزال هذا غير كاف لبرشلونة",
+    "post_text": "🚨 لا يزال هذا غير كاف لبرشلونة\n\n📝 لقد كان اختبار القطن للتحقق مما إذا كان فريق فليك يستطيع النظر في عيون لويس إنريكي.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084383814226929",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_يزال_هذا_غير_كاف_لبرشلونة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/al-barca-todavia-no-le-alcanza-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AymL8RrgqG9GclTI69j3S8L"
+    }
+  },
+  {
     "title": "Iñigo: “La fase clave, que era justo antes del descanso, no la hemos sabido jugar”",
     "url": "https://www.marca.com/futbol/villarreal/2026/10/21/inigo-perez-fase-clave-justo-descanso-hemos-sabido-jugar.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnN6X-hy5pgVTIH4SjUbfjx"
-    }
-  },
-  {
-    "title": "La reacción en frío de Mourinho a lo que dijo Tebas es pura gasolina para el madridismo",
-    "url": "https://as.com/futbol/videos/la-reaccion-en-frio-de-mourinho-a-lo-que-dijo-tebas-es-pura-gasolina-para-el-madridismo-f202610-v/",
-    "summary": "El entrenador del Real Madrid hizo más leña del árbol caído pese a su tono sosegado a la hora de opinar sobre las declaraciones del presidente de LaLiga.",
-    "published": "Sat, 17 Oct 2026 08:39:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261017/1226529_082923_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رد فعل مورينيو البارد على ما قاله تيباس هو بنزين خالص لجماهير ريال مدريد",
-    "arabic_summary": "وزاد مدرب ريال مدريد الزيت على الشجرة المتساقطة رغم لهجته الهادئة عند إبداء رأيه في تصريحات رئيس رابطة الليغا.",
-    "translation_status": "translated",
-    "post_title": "رد فعل مورينيو البارد على ما قاله تيباس هو بنزين خالص لجماهير ريال مدريد",
-    "post_text": "🚨 رد فعل مورينيو البارد على ما قاله تيباس هو بنزين خالص لجماهير ريال مدريد\n\n📝 وزاد مدرب ريال مدريد الزيت على الشجرة المتساقطة رغم لهجته الهادئة عند إبداء رأيه في تصريحات رئيس رابطة الليغا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080902244575086",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رد_فعل_مورينيو_البارد_على_ما_قاله_تيباس_هو_بنزين_خالص_لجماهير_ريال_مدريد.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AW9MdZmRZEKpVQ_rBW3x1l5"
     }
   }
 ]
