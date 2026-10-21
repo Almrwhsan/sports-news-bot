@@ -1,5 +1,39 @@
 [
   {
+    "title": "Emery ‘resucita’ a Nico Jackson: “Cuando me llamó y hablé con él…”",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/21/emery-resucita-nico-jackson-me-llamo-hable.html",
+    "summary": "El delantero senegalés suma cinco goles en sus nueve primeros partidos con el Aston Villa",
+    "published": "Wed, 21 Oct 2026 06:15:26 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad77dfd00b74.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إيمري يعيد إحياء نيكو جاكسون: \"عندما اتصل بي وتحدثت معه...\"",
+    "arabic_summary": "المهاجم السنغالي لديه خمسة أهداف في أول تسع مباريات له مع أستون فيلا",
+    "translation_status": "translated",
+    "post_title": "إيمري يعيد إحياء نيكو جاكسون: \"عندما اتصل بي وتحدثت معه...\"",
+    "post_text": "🚨 إيمري يعيد إحياء نيكو جاكسون: \"عندما اتصل بي وتحدثت معه...\"\n\n📝 المهاجم السنغالي لديه خمسة أهداف في أول تسع مباريات له مع أستون فيلا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084439004221410",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيمري_يعيد_إحياء_نيكو_جاكسون_عندما_اتصل_بي_وتحدثت_معه....png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/21/emery-resucita-nico-jackson-me-llamo-hable.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AD--Y2iL_s1Q0i11zwVhww7"
+    }
+  },
+  {
     "title": "El Madrid condicionó a Flick",
     "url": "https://as.com/futbol/champions/el-madrid-condiciono-a-flick-f202610-n/",
     "summary": "Rodri fue suplente; Pedri y Raphinha no pasaron de una hora. Incluso protegió a Espart. El Clásico pesó en todas sus decisiones.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdFHVdI668ims8AkxN5b3IY"
-    }
-  },
-  {
-    "title": "Espanyol - Atlético de Madrid: las mejores imágenes del partido",
-    "url": "https://as.com/futbol/fotorrelato/espanyol-atletico-de-madrid-las-mejores-imagenes-del-partido-f202610-f/",
-    "summary": "El Espanyol y el Atlético de Madrid se han enfrentrado en un nuevo duelo de LaLiga EA Sports. Repasa las mejores imágenes del partido, con los momentos más destacados sobre el césped y el ambiente en las gradas.",
-    "published": "Sat, 17 Oct 2026 13:39:52 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DRUHQ4UFQBHW3GHDXGRR4MUEBU.JPG?auth=28479fabb8944780231192a10d64a43b8fe0c3ed8a0775d62cb5b3caf1918196",
-    "media_type": "image/jpeg",
-    "arabic_title": "اسبانيول - أتلتيكو مدريد: أفضل صور المباراة",
-    "arabic_summary": "يواجه إسبانيول وأتلتيكو مدريد مواجهة جديدة في الدوري الإسباني من EA Sports. قم باستعراض أفضل صور المباراة، مع أبرز اللقطات على أرض الملعب والأجواء في المدرجات.",
-    "translation_status": "translated",
-    "post_title": "اسبانيول - أتلتيكو مدريد: أفضل صور المباراة",
-    "post_text": "🚨 اسبانيول - أتلتيكو مدريد: أفضل صور المباراة\n\n📝 يواجه إسبانيول وأتلتيكو مدريد مواجهة جديدة في الدوري الإسباني من EA Sports. قم باستعراض أفضل صور المباراة، مع أبرز اللقطات على أرض الملعب والأجواء في المدرجات.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080948514570459",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اسبانيول_-_أتلتيكو_مدريد_أفضل_صور_المباراة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/espanyol-atletico-de-madrid-las-mejores-imagenes-del-partido-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2zYW8DVDtiIQYQxcyAmPgN"
     }
   }
 ]
