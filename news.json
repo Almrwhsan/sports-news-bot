@@ -1,5 +1,39 @@
 [
   {
+    "title": "El PSG-Barça cubrió las expectativas",
+    "url": "https://www.marca.com/futbol/champions-league/opinion/2026/10/21/psg-barca-cubrio-expectativas.html",
+    "summary": "Al otro lado del espejo",
+    "published": "Wed, 21 Oct 2026 06:25:43 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7de5d3ca6f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "حقق باريس سان جيرمان-برشلونة التوقعات",
+    "arabic_summary": "على الجانب الآخر من المرآة",
+    "translation_status": "translated",
+    "post_title": "حقق باريس سان جيرمان-برشلونة التوقعات",
+    "post_text": "🚨 حقق باريس سان جيرمان-برشلونة التوقعات\n\n📝 على الجانب الآخر من المرآة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084482864217024",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حقق_باريس_سان_جيرمان-برشلونة_التوقعات.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/opinion/2026/10/21/psg-barca-cubrio-expectativas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIPs6U88imNgsha9O_zcvXO"
+    }
+  },
+  {
     "title": "El 'top-8' del Atlético pasa por ganar ‘casi’ todo",
     "url": "https://www.marca.com/futbol/atletico/2026/10/21/top-8-atletico-pasa-ganar.html",
     "summary": "Tras dejarse cinco puntos en dos salidas, los rojiblancos, que se quejan de un penalti sobre Hancko, se jugarán parte de sus opciones la próxima jornada... ante el Bayern",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJhSFsjF_Oi1lZAj4I75GKe"
-    }
-  },
-  {
-    "title": "Cancelo, el último ‘robo’ de Deco",
-    "url": "https://as.com/futbol/primera/cancelo-el-ultimo-robo-de-deco-f202610-n/",
-    "summary": "El portugués, al que el director deportivo sacó gratis del Al Hilal, ha tumbado los peores pronósticos de los agoreros y ha cambiado las críticas de su primera etapa por los elogios.",
-    "published": "Sat, 17 Oct 2026 07:04:09 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/H72WH42IGBFMHOPQ5K2Q265344.jpg?auth=c67991ecbb5bcad5a869199c01cd2e7f05973e85821216745290f11fd97c50c2",
-    "media_type": "image/jpeg",
-    "arabic_title": "كانسيلو، أحدث \"سرقة\" ديكو",
-    "arabic_summary": "وقلب البرتغالي، الذي تعاقد معه المدير الرياضي مجاناً من الهلال، أسوأ توقعات المتشائمين واستبدل الانتقادات التي وجهت له في مرحلته الأولى بالثناء.",
-    "translation_status": "translated",
-    "post_title": "كانسيلو، أحدث \"سرقة\" ديكو",
-    "post_text": "🚨 كانسيلو، أحدث \"سرقة\" ديكو\n\n📝 وقلب البرتغالي، الذي تعاقد معه المدير الرياضي مجاناً من الهلال، أسوأ توقعات المتشائمين واستبدل الانتقادات التي وجهت له في مرحلته الأولى بالثناء.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080955784569732",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كانسيلو،_أحدث_سرقة_ديكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/cancelo-el-ultimo-robo-de-deco-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AzqRJSaL3eiHXSSiNp2vhNU"
     }
   }
 ]
