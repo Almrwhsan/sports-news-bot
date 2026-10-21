@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arrasate y la fórmula del arraigo",
+    "url": "https://as.com/futbol/arrasate-y-la-formula-del-arraigo-f202610-n/",
+    "summary": "El regreso del entrenador de Osasuna a El Sadar reactiva un idilio eterno: la demostración de que el método de comunión entre club, grada y banquillo sí funciona.",
+    "published": "Wed, 21 Oct 2026 09:15:53 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DEEPO5RSTWEJGTX3WEEVBYAHAY.jpg?auth=2740f47b7e9f8b7a759175efb50f83165f394254b1f12920b904787511ba5632",
+    "media_type": "image/jpeg",
+    "arabic_title": "Arrasate وصيغة الجذور",
+    "arabic_summary": "عودة مدرب أوساسونا إلى الصدر تعيد إحياء قصيدة شاعرية أبدية: إثبات نجاح أسلوب التواصل بين النادي والمدرجات ومقاعد البدلاء.",
+    "translation_status": "translated",
+    "post_title": "Arrasate وصيغة الجذور",
+    "post_text": "🚨 Arrasate وصيغة الجذور\n\n📝 عودة مدرب أوساسونا إلى الصدر تعيد إحياء قصيدة شاعرية أبدية: إثبات نجاح أسلوب التواصل بين النادي والمدرجات ومقاعد البدلاء.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084657884199522",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Arrasate_وصيغة_الجذور.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/arrasate-y-la-formula-del-arraigo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Anv78Lo3JePMJNsvRoXAJHc"
+    }
+  },
+  {
     "title": "Real Madrid - Leipzig: alineaciones del partido de Champions League",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/20/real-madrid-leipzig-alineaciones-probables-partido-champions-league.html",
     "summary": "Once del duelo de Champions de este miércoles en el Bernabéu",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhOGe84yB3uxpDyQmw38D5L"
-    }
-  },
-  {
-    "title": "El ‘Día D’ en el Bernabéu",
-    "url": "https://as.com/futbol/primera/el-dia-d-en-el-bernabeu-f202610-n/",
-    "summary": "Diomande será titular en la banda izquierda, algo que hasta ahora sólo ha sucedido una vez. Primera de las cuatro jornadas sin Vinicius. Llega el tercer mejor visitante de la Liga.",
-    "published": "Sat, 17 Oct 2026 23:47:34 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RCYEJYY6J5NBRBDYTTMZ47CJ6I.jpg?auth=e8ba31e45dabb41440f47cd321e0a1bf56c4ac36b7659721f18f9489117de156",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"يوم النصر\" في البرنابيو",
-    "arabic_summary": "سيبدأ ديوماندي في الجناح الأيسر، وهو الأمر الذي حدث مرة واحدة فقط حتى الآن. أول أربعة أيام بدون فينيسيوس. وصول ثالث أفضل زائر في الدوري.",
-    "translation_status": "translated",
-    "post_title": "\"يوم النصر\" في البرنابيو",
-    "post_text": "🚨 \"يوم النصر\" في البرنابيو\n\n📝 سيبدأ ديوماندي في الجناح الأيسر، وهو الأمر الذي حدث مرة واحدة فقط حتى الآن. أول أربعة أيام بدون فينيسيوس. وصول ثالث أفضل زائر في الدوري.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081539774511333",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يوم_النصر_في_البرنابيو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-dia-d-en-el-bernabeu-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1gWlDDwc43XTdFEbl4eEy3"
     }
   }
 ]
