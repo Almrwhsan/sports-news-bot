@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nusa: el puñal que sí continuó en el Leipzig",
+    "url": "https://as.com/opinion/nusa-el-punal-que-si-continuo-en-el-leipzig-f202610-n/",
+    "summary": "El noruego es la gran figura de un equipo al que ha vuelto Nkunku. Demichelis fue la sorprendente elección del club para sustituir a un Ole Werner que había logrado un meritorio tercer puesto en la Bundesliga...",
+    "published": "Wed, 21 Oct 2026 00:05:32 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "bundesliga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4DDU4RRWRNHLTNIMIRSTULBIFY.JPG?auth=9b4d41e61ebf4c9c8b29b02dcfa202eac5cb6e0504411a37965bcb8172f6ca6f",
+    "media_type": "image/jpeg",
+    "arabic_title": "نوسا: الخنجر الذي استمر في لايبزيغ",
+    "arabic_summary": "النرويجي هو الشخصية العظيمة للفريق الذي عاد إليه نكونكو. كان ديميكليس هو الاختيار المفاجئ للنادي ليحل محل أولي فيرنر الذي حقق المركز الثالث في الدوري الألماني...",
+    "translation_status": "translated",
+    "post_title": "نوسا: الخنجر الذي استمر في لايبزيغ",
+    "post_text": "🚨 نوسا: الخنجر الذي استمر في لايبزيغ\n\n📝 النرويجي هو الشخصية العظيمة للفريق الذي عاد إليه نكونكو. كان ديميكليس هو الاختيار المفاجئ للنادي ليحل محل أولي فيرنر الذي حقق المركز الثالث في الدوري الألماني...\n\n🏷️ الدوري الألماني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084410134224297",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نوسا_الخنجر_الذي_استمر_في_لايبزيغ.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/nusa-el-punal-que-si-continuo-en-el-leipzig-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALcyIEm2kp2ImsY_1oTB-D_"
+    }
+  },
+  {
     "title": "Los vaciles de Lucas Hernández en su \"increíble marcaje\" a Lamine Yamal: colleja, caricia, risas...",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/21/vaciles-lucas-hernandez-increible-marcaje-lamine-yamal-colleja-caricia-risas.html",
     "summary": "Lucas Hernández, que marcó un gol y frenó a Lamine Yamal, fue uno de los pilares del PSG en su triunfo contra el Barcelona",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aj1SF1r9XJjw3I_qqGxDMkn"
-    }
-  },
-  {
-    "title": "Sorry Derby beaten at home by Stoke",
-    "url": "https://www.skysports.com/football/derby-county-vs-stoke-city/report/560621",
-    "summary": "Luke Graham scored his first goal for Stoke as they won 1-0 at Pride Park to pile more pressure on struggling Derby.",
-    "published": "Sat, 17 Oct 2026 17:15:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-derby-stoke_7379035.jpg?20261017160646",
-    "media_type": "image/jpg",
-    "arabic_title": "آسف ديربي خسر على أرضه أمام ستوك",
-    "arabic_summary": "سجل لوك جراهام هدفه الأول لصالح ستوك عندما فاز 1-0 على ملعب برايد بارك ليزيد الضغط على ديربي المتعثر.",
-    "translation_status": "translated",
-    "post_title": "آسف ديربي خسر على أرضه أمام ستوك",
-    "post_text": "🚨 آسف ديربي خسر على أرضه أمام ستوك\n\n📝 سجل لوك جراهام هدفه الأول لصالح ستوك عندما فاز 1-0 على ملعب برايد بارك ليزيد الضغط على ديربي المتعثر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080931011238876",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آسف_ديربي_خسر_على_أرضه_أمام_ستوك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/derby-county-vs-stoke-city/report/560621",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A70FP_UEY3_Hem5HKM2i3Bt"
     }
   }
 ]
