@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Atleti se aletarga y Julián despierta",
+    "url": "https://www.marca.com/futbol/atletico/opinion/2026/10/21/atleti-aletarga-julian-despierta.html",
+    "summary": "En copa de balón",
+    "published": "Wed, 21 Oct 2026 06:26:18 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7db17dab28.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يصبح الأتليتي خاملًا ويستيقظ جوليان",
+    "arabic_summary": "في كأس الكرة",
+    "translation_status": "translated",
+    "post_title": "يصبح الأتليتي خاملًا ويستيقظ جوليان",
+    "post_text": "🚨 يصبح الأتليتي خاملًا ويستيقظ جوليان\n\n📝 في كأس الكرة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084512010880776",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يصبح_الأتليتي_خاملًا_ويستيقظ_جوليان.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/opinion/2026/10/21/atleti-aletarga-julian-despierta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYndpEQ70C1j_5l2_XpoBdp"
+    }
+  },
+  {
     "title": "La pregunta que se puede hacer Flick",
     "url": "https://as.com/opinion/la-pregunta-que-se-puede-hacer-flick-f202610-n/",
     "summary": "Tal vez el entrenador alemán del Barça pensó que el PSG puede esperar a junio y miró al Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfGnZiNi87GfjjwBNVtxV7-"
-    }
-  },
-  {
-    "title": "Un experimento con Lamine en La Cartuja",
-    "url": "https://as.com/futbol/un-experimento-con-lamine-en-la-cartuja-f202610-n/",
-    "summary": "Allí jugó su único partido como 10 en el Barça. Él mismo intuye que acabará ahí, pero Flick no ha repetido aún aquel invento porque todos coinciden en que su sitio aún es la banda.",
-    "published": "Sat, 17 Oct 2026 10:14:24 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KXBGEGNZXFOXVK6D2BCGCUE6DY.jpg?auth=5ac35e7e2e88a1bf3896f5460fa0ea642917add0617025c1d67f1688076e66a9",
-    "media_type": "image/jpeg",
-    "arabic_title": "تجربة مع لامين في لا كارتوجا",
-    "arabic_summary": "هناك لعب مباراته الوحيدة كرقم 10 مع برشلونة. هو نفسه يشعر أن الأمر سينتهي عند هذا الحد، لكن فليك لم يكرر ذلك الاختراع بعد لأن الجميع متفقون على أن مكانه لا يزال في الفرقة.",
-    "translation_status": "translated",
-    "post_title": "تجربة مع لامين في لا كارتوجا",
-    "post_text": "🚨 تجربة مع لامين في لا كارتوجا\n\n📝 هناك لعب مباراته الوحيدة كرقم 10 مع برشلونة. هو نفسه يشعر أن الأمر سينتهي عند هذا الحد، لكن فليك لم يكرر ذلك الاختراع بعد لأن الجميع متفقون على أن مكانه لا يزال في الفرقة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080965437902100",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تجربة_مع_لامين_في_لا_كارتوجا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/un-experimento-con-lamine-en-la-cartuja-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADb5kIGKGiPaUMWDLcmACEs"
     }
   }
 ]
