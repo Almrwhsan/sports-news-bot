@@ -1,5 +1,39 @@
 [
   {
+    "title": "Próximo partido del Atlético en Champions: rival, fecha y horario de la jornada 4",
+    "url": "https://as.com/futbol/champions/proximo-partido-del-atletico-en-champions-rival-fecha-y-horario-de-la-jornada-4-f202610-n/",
+    "summary": "Los del Cholo Simeone jugarán la cuarta jornada ante el Bayern Múnich tras el encuentro ante el Stuttgart",
+    "published": "Tue, 20 Oct 2026 20:54:06 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GZYNMITNHFKDXA73XBJDGCOMK4.jpg?auth=170bd7379849912cd0e88c578e4a4869393091ee180396be8dff3b30106e9bd2",
+    "media_type": "image/jpeg",
+    "arabic_title": "مباراة أتلتيكو القادمة في دوري أبطال أوروبا: المنافس، تاريخ ووقت الجولة الرابعة",
+    "arabic_summary": "سيلعب رجال تشولو سيميوني الجولة الرابعة ضد بايرن ميونيخ بعد المباراة ضد شتوتغارت",
+    "translation_status": "translated",
+    "post_title": "مباراة أتلتيكو القادمة في دوري أبطال أوروبا: المنافس، تاريخ ووقت الجولة الرابعة",
+    "post_text": "🚨 مباراة أتلتيكو القادمة في دوري أبطال أوروبا: المنافس، تاريخ ووقت الجولة الرابعة\n\n📝 سيلعب رجال تشولو سيميوني الجولة الرابعة ضد بايرن ميونيخ بعد المباراة ضد شتوتغارت\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084391007559543",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مباراة_أتلتيكو_القادمة_في_دوري_أبطال_أوروبا_المنافس،_تاريخ_ووقت_الجولة_الرابعة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/proximo-partido-del-atletico-en-champions-rival-fecha-y-horario-de-la-jornada-4-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AyFN6I3sC5kNHEpK3hKzAq7"
+    }
+  },
+  {
     "title": "Al Barça todavía no le alcanza",
     "url": "https://as.com/opinion/al-barca-todavia-no-le-alcanza-f202610-n/",
     "summary": "Era la prueba del algodón para comprobar si los de Flick podían mirar a los ojos a los de Luis Enrique.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ayyg8tFO5Ydb_uslg8ICGkK"
-    }
-  },
-  {
-    "title": "Cameron equaliser earns a point for Dundee United at St Johnstone",
-    "url": "https://www.skysports.com/football/st-johnstone-vs-dundee-united/report/558386",
-    "summary": "Lyall Cameron's 79th-minute strike earned Dundee United a deserved 1-1 draw at St Johnstone.",
-    "published": "Sat, 17 Oct 2026 16:50:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-dundee-united-lyall_7379305.jpg?20261017182746",
-    "media_type": "image/jpg",
-    "arabic_title": "هدف التعادل لكاميرون يمنح نقطة لدندي يونايتد في سانت جونستون",
-    "arabic_summary": "هدف ليال كاميرون في الدقيقة 79 منح دندي يونايتد التعادل المستحق 1-1 مع مضيفه سانت جونستون.",
-    "translation_status": "translated",
-    "post_title": "هدف التعادل لكاميرون يمنح نقطة لدندي يونايتد في سانت جونستون",
-    "post_text": "🚨 هدف التعادل لكاميرون يمنح نقطة لدندي يونايتد في سانت جونستون\n\n📝 هدف ليال كاميرون في الدقيقة 79 منح دندي يونايتد التعادل المستحق 1-1 مع مضيفه سانت جونستون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080912251240752",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_التعادل_لكاميرون_يمنح_نقطة_لدندي_يونايتد_في_سانت_جونستون.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/st-johnstone-vs-dundee-united/report/558386",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnN6X-hy5pgVTIH4SjUbfjx"
     }
   }
 ]
