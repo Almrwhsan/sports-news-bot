@@ -1,5 +1,39 @@
 [
   {
+    "title": "El violento tifo de los ultras del PSG que denuncia el Barcelona: \"masacre\" a lo Jason en Viernes 13",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/21/violento-tifo-ultras-psg-denuncia-barcelona-masacre-jason-viernes-13-video.html",
+    "summary": "",
+    "published": "Wed, 21 Oct 2026 09:51:41 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2024/12/11/H.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "التيفوس العنيف لألتراس باريس سان جيرمان الذي يدينه برشلونة: \"مذبحة\" على طريقة لا جيسون يوم الجمعة الثالث عشر",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "التيفوس العنيف لألتراس باريس سان جيرمان الذي يدينه برشلونة: \"مذبحة\" على طريقة لا جيسون يوم الجمعة الثالث عشر",
+    "post_text": "🚨 التيفوس العنيف لألتراس باريس سان جيرمان الذي يدينه برشلونة: \"مذبحة\" على طريقة لا جيسون يوم الجمعة الثالث عشر\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084575894207721",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التيفوس_العنيف_لألتراس_باريس_سان_جيرمان_الذي_يدينه_برشلونة_مذبحة_على_طريقة_لا_جي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/21/violento-tifo-ultras-psg-denuncia-barcelona-masacre-jason-viernes-13-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVV-skOHEo4Yjeqnfm_AaBn"
+    }
+  },
+  {
     "title": "Las primeras víctimas de Diomande: “Jamás vi algo así en mi vida” | Minuto 116",
     "url": "https://as.com/audio/podcast/minuto-116/las-primeras-victimas-de-diomande-jamas-vi-algo-asi-en-mi-vida-minuto-116-f202610-n/",
     "summary": "Hay un Diomande que costó 120 millones de euros, fichó por el Real Madrid e impresionó contra el Sevilla. Y hubo un Diomande, incluso antes del del Leipzig al que se enfrenta este miércoles y del Leganés, de 16 años en Estados Unidos que apenas conoce nadie. Minuto 116 da voz a dos de los que sufrieron en aquella época desconocida.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AosxcHma2yPZHvzNzX0eGcC"
-    }
-  },
-  {
-    "title": "Resumen del Villarreal vs. Elche, jornada 9 de LaLiga EA Sports",
-    "url": "https://as.com/futbol/videos/resumen-del-villarreal-vs-elche-jornada-9-de-laliga-ea-sports-f202610-v/",
-    "summary": "El submarino amarillo acusa la falta de puntería ante un Elche que estuvo frágil en defensa, pero sobrevivío a las acometidas de los de Íñigo Pérez.",
-    "published": "Sat, 17 Oct 2026 16:33:04 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "ملخص مباراة فياريال وإلتشي، الجولة 9 من الدوري الإسباني، EA Sports",
-    "arabic_summary": "تتهم الغواصة الصفراء بعدم وجود هدف ضد فريق إلتشي الذي كان هشًا في الدفاع، لكنه نجا من هجمات رجال إنييغو بيريز.",
-    "translation_status": "translated",
-    "post_title": "ملخص مباراة فياريال وإلتشي، الجولة 9 من الدوري الإسباني، EA Sports",
-    "post_text": "🚨 ملخص مباراة فياريال وإلتشي، الجولة 9 من الدوري الإسباني، EA Sports\n\n📝 تتهم الغواصة الصفراء بعدم وجود هدف ضد فريق إلتشي الذي كان هشًا في الدفاع، لكنه نجا من هجمات رجال إنييغو بيريز.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081102604555050",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملخص_مباراة_فياريال_وإلتشي،_الجولة_9_من_الدوري_الإسباني،_EA_Sports.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/videos/resumen-del-villarreal-vs-elche-jornada-9-de-laliga-ea-sports-f202610-v/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aq5Z-NvV1pP-b1HDqOTCWba"
     }
   }
 ]
