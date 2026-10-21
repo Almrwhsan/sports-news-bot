@@ -1,5 +1,39 @@
 [
   {
+    "title": "What's happened to Igor Thiago?",
+    "url": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27",
+    "summary": "Igor Thiago's first season as a Premier League player, in 2024/25, was heavily disrupted by knee injuries - and he more than made up for lost time the following season.",
+    "published": "Wed, 21 Oct 2026 10:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-igor-thiago-brentford_7381579.jpg?20261020122340",
+    "media_type": "image/jpg",
+    "arabic_title": "ماذا حدث لإيجور تياجو؟",
+    "arabic_summary": "تعطل الموسم الأول لإيجور تياجو كلاعب في الدوري الإنجليزي الممتاز، في 2024/25، بشدة بسبب إصابات الركبة - وقد عوض الوقت الضائع في الموسم التالي.",
+    "translation_status": "translated",
+    "post_title": "ماذا حدث لإيجور تياجو؟",
+    "post_text": "🚨 ماذا حدث لإيجور تياجو؟\n\n📝 تعطل الموسم الأول لإيجور تياجو كلاعب في الدوري الإنجليزي الممتاز، في 2024/25، بشدة بسبب إصابات الركبة - وقد عوض الوقت الضائع في الموسم التالي.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1084515414213769",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماذا_حدث_لإيجور_تياجو؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtQz7Uc2Zhqbc03UDjPk9-_"
+    }
+  },
+  {
     "title": "El Atleti se aletarga y Julián despierta",
     "url": "https://www.marca.com/futbol/atletico/opinion/2026/10/21/atleti-aletarga-julian-despierta.html",
     "summary": "En copa de balón",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ak6iJKsEAogMtzTUGLslYAZ"
-    }
-  },
-  {
-    "title": "Shock en octubre en el fútbol español: “Pelé ha vuelto”",
-    "url": "https://as.com/futbol/fc-barcelona/shock-en-octubre-en-el-futbol-espanol-pele-ha-vuelto-f202610-n/",
-    "summary": "Hace 30 años, un jovencísimo brasileño puso patas arribas el fútbol español y planetario dejando tres goles para el historia en un mismo mes, uno de ellos el gran olvidado de su carrera. Aquí la historia del octubre mágico de Ronaldo Nazario de Lima.",
-    "published": "Sat, 17 Oct 2026 09:48:52 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261016/1226219_123706_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "صدمة في أكتوبر في كرة القدم الإسبانية: “بيليه عاد”",
-    "arabic_summary": "قبل 30 عامًا، قلب برازيلي شاب جدًا كرة القدم الإسبانية والعالمية رأسًا على عقب، مخلفًا ثلاثة أهداف في التاريخ في شهر واحد، أحدها أعظم منسي في مسيرته. إليكم قصة شهر أكتوبر الساحر لرونالدو نازاريو دي ليما.",
-    "translation_status": "translated",
-    "post_title": "صدمة في أكتوبر في كرة القدم الإسبانية: “بيليه عاد”",
-    "post_text": "🚨 صدمة في أكتوبر في كرة القدم الإسبانية: “بيليه عاد”\n\n📝 قبل 30 عامًا، قلب برازيلي شاب جدًا كرة القدم الإسبانية والعالمية رأسًا على عقب، مخلفًا ثلاثة أهداف في التاريخ في شهر واحد، أحدها أعظم منسي في مسيرته. إليكم قصة شهر أكتوبر الساحر لرونالدو نازاريو دي ليما.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1080965307902113",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/صدمة_في_أكتوبر_في_كرة_القدم_الإسبانية_“بيليه_عاد”.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfGnZiNi87GfjjwBNVtxV7-"
     }
   }
 ]
