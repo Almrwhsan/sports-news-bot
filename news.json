@@ -1,5 +1,39 @@
 [
   {
+    "title": "Europa League and Conference League LIVE!",
+    "url": "https://www.skysports.com/football/lech-poznan-vs-sunderland/live/577787",
+    "summary": "",
+    "published": "Mon, 19 Oct 2026 15:31:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-yasin-ayari-premier-league_7379819.jpg?20261018143634",
+    "media_type": "image/jpg",
+    "arabic_title": "الدوري الأوروبي ودوري المؤتمرات لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "الدوري الأوروبي ودوري المؤتمرات لايف!",
+    "post_text": "🚨 الدوري الأوروبي ودوري المؤتمرات لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085498280782149",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الدوري_الأوروبي_ودوري_المؤتمرات_لايف!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/lech-poznan-vs-sunderland/live/577787",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2zVcCnjhFaabOcpLMvgpB_"
+    }
+  },
+  {
     "title": "Jarvis leads at Genesis Championship to pressure McIlroy in Race to Dubai",
     "url": "https://www.skysports.com/golf/news/12040/13602191/dp-world-tour-casey-jarvis-leads-genesis-championship-and-in-position-to-overtake-rory-mcilroy-in-race-to-dubai",
     "summary": "Casey Jarvis made a strong start to his late bid for Race to Dubai glory by grabbing the early lead at the Genesis Championship, where Ryan Fox also impressed.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Anu5RlodTw2jHPUY1QoXMux"
-    }
-  },
-  {
-    "title": "US GP talking points: How will Hamilton, Norris move on from woes?",
-    "url": "https://www.skysports.com/f1/news/12040/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race",
-    "summary": "Formula 1 returns to Austin's Circuit of The Americas for the United States Grand Prix with a historic championship crowning potentially in the offing, along with several other hot topics on the agenda.",
-    "published": "Mon, 19 Oct 2026 06:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-lando-norris-lewis-hamilton_7306723.jpg?20260725195030",
-    "media_type": "image/jpg",
-    "arabic_title": "نقاط الحديث في سباق الجائزة الكبرى الأمريكي: كيف سينتقل هاميلتون ونوريس من المشاكل؟",
-    "arabic_summary": "تعود الفورمولا 1 إلى حلبة الأمريكتين في أوستن لسباق الجائزة الكبرى للولايات المتحدة مع احتمال تتويج بطولة تاريخية في المستقبل القريب، إلى جانب العديد من المواضيع الساخنة الأخرى المدرجة على جدول الأعمال.",
-    "translation_status": "translated",
-    "post_title": "نقاط الحديث في سباق الجائزة الكبرى الأمريكي: كيف سينتقل هاميلتون ونوريس من المشاكل؟",
-    "post_text": "🚨 نقاط الحديث في سباق الجائزة الكبرى الأمريكي: كيف سينتقل هاميلتون ونوريس من المشاكل؟\n\n📝 تعود الفورمولا 1 إلى حلبة الأمريكتين في أوستن لسباق الجائزة الكبرى للولايات المتحدة مع احتمال تتويج بطولة تاريخية في المستقبل القريب، إلى جانب العديد من المواضيع الساخنة الأخرى المدرجة على جدول الأعمال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082294807769163",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نقاط_الحديث_في_سباق_الجائزة_الكبرى_الأمريكي_كيف_سينتقل_هاميلتون_ونوريس_من_المشاك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbjHw2EywQ25usUogs05Dv8"
     }
   }
 ]
