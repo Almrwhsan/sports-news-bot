@@ -1,5 +1,39 @@
 [
   {
+    "title": "Leiva, premiado por su ‘Sentimiento Atlético’ por el Senado rojiblanco",
+    "url": "https://as.com/futbol/primera/leiva-premiado-por-su-sentimiento-atletico-por-el-senado-rojiblanco-f202610-n/",
+    "summary": "El artista, reconocido por ‘hacer atlético’ en su vida y su día a día en el III día alrededor de los socios que llevan más de 50 afiliados al club.",
+    "published": "Thu, 22 Oct 2026 10:41:00 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/J2YXBGLHXZHZRBLRI4FDVUBYRY.jpg?auth=2bee6eb1d41e46979d7d0e75f95723f34a1e1a2a6202459cc9e726b09ffae048",
+    "media_type": "image/jpeg",
+    "arabic_title": "ليفا، حصل على جائزة \"الشعور الرياضي\" من قبل مجلس شيوخ روجيبلانكو",
+    "arabic_summary": "الفنان معروف بكونه \"رياضيًا\" في حياته وحياته اليومية في اليوم الثالث حول الأعضاء الذين لديهم أكثر من 50 عضوًا في النادي.",
+    "translation_status": "translated",
+    "post_title": "ليفا، حصل على جائزة \"الشعور الرياضي\" من قبل مجلس شيوخ روجيبلانكو",
+    "post_text": "🚨 ليفا، حصل على جائزة \"الشعور الرياضي\" من قبل مجلس شيوخ روجيبلانكو\n\n📝 الفنان معروف بكونه \"رياضيًا\" في حياته وحياته اليومية في اليوم الثالث حول الأعضاء الذين لديهم أكثر من 50 عضوًا في النادي.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085271684138142",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليفا،_حصل_على_جائزة_الشعور_الرياضي_من_قبل_مجلس_شيوخ_روجيبلانكو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/leiva-premiado-por-su-sentimiento-atletico-por-el-senado-rojiblanco-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZk7OiDIk35lQWDbwIWNpG2"
+    }
+  },
+  {
     "title": "El Barça aún es vulnerable en Europa",
     "url": "https://as.com/futbol/champions/el-barca-aun-es-vulnerable-en-europa-f202610-n/",
     "summary": "La Champions se le sigue haciendo cuesta arriba al Barça, que ha encajado goles en los últimos 18 partidos. En París le tiraron 15 veces a puerta. Ni en Lisboa, el fatídico día del 2-8, le habían disparado tanto.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVRrfVKFW4PndhtRl1zFEVP"
-    }
-  },
-  {
-    "title": "Abde, la luz en la locura",
-    "url": "https://as.com/futbol/primera/abde-la-luz-en-la-locura-f202610-n/",
-    "summary": "El marroquí volvió a brillar pese a un contexto de dificultades ante el Barcelona y esquiva la masiva rotación habitual de Manuel Pellegrini.",
-    "published": "Sat, 17 Oct 2026 19:33:33 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RYOGOXT4QVINHLXBX6IVGRYEXU.jpg?auth=68277c9ba840c3acb439cc74960770c0f774351ecf0ceb1e9ae96fe359d4ff5b",
-    "media_type": "image/jpeg",
-    "arabic_title": "عبد، النور في الجنون",
-    "arabic_summary": "تألق المغربي مرة أخرى رغم الصعوبات أمام برشلونة وتجنب المداورة الكبيرة المعتادة لمانويل بيليجريني.",
-    "translation_status": "translated",
-    "post_title": "عبد، النور في الجنون",
-    "post_text": "🚨 عبد، النور في الجنون\n\n📝 تألق المغربي مرة أخرى رغم الصعوبات أمام برشلونة وتجنب المداورة الكبيرة المعتادة لمانويل بيليجريني.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081962267802417",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عبد،_النور_في_الجنون.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/abde-la-luz-en-la-locura-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A30IgIyzr9xUV4u1_YuEAwX"
     }
   }
 ]
