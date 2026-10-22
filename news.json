@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kochorashvili vuelve al grupo y Stassin se dosifica",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/22/kochorashvili-vuelve-grupo-stassin-dosifica.html",
+    "summary": "El georgiano deja atrás sus molestias y se ejercita con normalidad a cuatro días del duelo frente a Osasuna",
+    "published": "Thu, 22 Oct 2026 12:06:51 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9dfedb65c0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يعود Kochorashvili إلى المجموعة وجرعات Stassin",
+    "arabic_summary": "يترك الجورجي انزعاجه خلفه ويتدرب بشكل طبيعي قبل أربعة أيام من المباراة ضد أوساسونا",
+    "translation_status": "translated",
+    "post_title": "يعود Kochorashvili إلى المجموعة وجرعات Stassin",
+    "post_text": "🚨 يعود Kochorashvili إلى المجموعة وجرعات Stassin\n\n📝 يترك الجورجي انزعاجه خلفه ويتدرب بشكل طبيعي قبل أربعة أيام من المباراة ضد أوساسونا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085574817441162",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_Kochorashvili_إلى_المجموعة_وجرعات_Stassin.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/22/kochorashvili-vuelve-grupo-stassin-dosifica.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdyLFSvvvvvwAJNc16eaOJj"
+    }
+  },
+  {
     "title": "Who was right about Man Utd tactics: Carrick or Fernandes?",
     "url": "https://www.skysports.com/football/news/12040/13602279/man-utd-boss-michael-carrick-and-captain-bruno-fernandes-clash-over-tactics-in-como-defeat-but-who-was-right",
     "summary": "Manchester United captain Bruno Fernandes and head coach Michael Carrick disagreed over the team's tactics in the 4-1 Champions League defeat at Como. So who was right?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXKbgeTKQH_VOj8xzIrdEgi"
-    }
-  },
-  {
-    "title": "La reacción viral de Mbappé tras un disparo fallido de Endrick: está generando polémica",
-    "url": "https://as.com/futbol/videos/el-gesto-de-displicencia-de-mbappe-tras-una-accion-fallida-de-endrick-f202610-v/",
-    "summary": "Movistar Plus+ captó la reacción del francés después de un errático disparo a puerta del delantero brasileño, que fue de la partida contra el Sevilla. La secuencia ha generado polémica en redes.",
-    "published": "Mon, 19 Oct 2026 07:14:51 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261019/1226984_070916_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رد فعل مبابي الفيروسي بعد تسديدة إندريك الفاشلة: أثار الجدل",
-    "arabic_summary": "والتقط Movistar Plus+ رد فعل الفرنسي بعد تسديدة خاطئة على المرمى من قبل المهاجم البرازيلي، والتي كانت من المباراة ضد إشبيلية. أثار التسلسل جدلاً على الشبكات.",
-    "translation_status": "translated",
-    "post_title": "رد فعل مبابي الفيروسي بعد تسديدة إندريك الفاشلة: أثار الجدل",
-    "post_text": "🚨 رد فعل مبابي الفيروسي بعد تسديدة إندريك الفاشلة: أثار الجدل\n\n📝 والتقط Movistar Plus+ رد فعل الفرنسي بعد تسديدة خاطئة على المرمى من قبل المهاجم البرازيلي، والتي كانت من المباراة ضد إشبيلية. أثار التسلسل جدلاً على الشبكات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082358344429476",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رد_فعل_مبابي_الفيروسي_بعد_تسديدة_إندريك_الفاشلة_أثار_الجدل.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlZkoMIQy9FV7Cy6So0h0uN"
     }
   }
 ]
