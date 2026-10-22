@@ -1,5 +1,39 @@
 [
   {
+    "title": "Maresca: \"¿Phil Foden? No sé si amor es la palabra correcta\"",
+    "url": "https://www.marca.com/futbol/premier-league/2026/10/22/maresca-phil-foden-amor-palabra-correcta.html",
+    "summary": "El técnico de Manchester City habló del futbolista inglés y de su propósito de que vuelva a ser uno de los mejores futbolistas ingleses",
+    "published": "Thu, 22 Oct 2026 12:03:10 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9dd8c2d8d0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ماريسكا: \"فيل فودين؟ لا أعرف إذا كان الحب هو الكلمة الصحيحة\"",
+    "arabic_summary": "تحدث مدرب مانشستر سيتي عن لاعب كرة القدم الإنجليزي وعن نيته أن يكون مرة أخرى أحد أفضل لاعبي كرة القدم الإنجليز",
+    "translation_status": "translated",
+    "post_title": "ماريسكا: \"فيل فودين؟ لا أعرف إذا كان الحب هو الكلمة الصحيحة\"",
+    "post_text": "🚨 ماريسكا: \"فيل فودين؟ لا أعرف إذا كان الحب هو الكلمة الصحيحة\"\n\n📝 تحدث مدرب مانشستر سيتي عن لاعب كرة القدم الإنجليزي وعن نيته أن يكون مرة أخرى أحد أفضل لاعبي كرة القدم الإنجليز\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085552614110049",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماريسكا_فيل_فودين؟_لا_أعرف_إذا_كان_الحب_هو_الكلمة_الصحيحة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/22/maresca-phil-foden-amor-palabra-correcta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AreNA-I05JpbhfH1p-pVbjB"
+    }
+  },
+  {
     "title": "Kirian: \"Entiendo las críticas, porque si yo estuviera en la grada sería el primero en hacerlo\"",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/22/kirian-entiendo-criticas-estuviera-grada-seria-primero-hacerlo.html",
     "summary": "El capitán de Las Palmas aboga por no señalar culpables, sino hacer autocrítica",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A54K_C99dfe-KFB0RSXLIJa"
-    }
-  },
-  {
-    "title": "El Atlético se abona a los goles en los minutos finales",
-    "url": "https://as.com/futbol/primera/el-atletico-se-abona-a-los-goles-en-los-minutos-finales-f202610-n/",
-    "summary": "El equipo rojiblanco ha marcado ocho de sus 19 tantos ligueros en los últimos quince minutos de partido. Sucedió ante el Espanyol, pero también ante Villarreal, Real Sociedad, Alavés...",
-    "published": "Mon, 19 Oct 2026 08:16:09 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IVK26TRZWFPMZFISA2Z4TABY4U.jpg?auth=94ada46b373369a16d03168cee4c997cb27a67064eb429c7f031385623bae118",
-    "media_type": "image/jpeg",
-    "arabic_title": "أتلتيكو يسجل الأهداف في الدقائق الأخيرة",
-    "arabic_summary": "سجل الفريق الأحمر والأبيض ثمانية من أهدافه الـ19 في الدوري في آخر خمس عشرة دقيقة من المباراة. لقد حدث ذلك ضد إسبانيول، ولكن أيضًا ضد فياريال وريال سوسيداد وألافيس...",
-    "translation_status": "translated",
-    "post_title": "أتلتيكو يسجل الأهداف في الدقائق الأخيرة",
-    "post_text": "🚨 أتلتيكو يسجل الأهداف في الدقائق الأخيرة\n\n📝 سجل الفريق الأحمر والأبيض ثمانية من أهدافه الـ19 في الدوري في آخر خمس عشرة دقيقة من المباراة. لقد حدث ذلك ضد إسبانيول، ولكن أيضًا ضد فياريال وريال سوسيداد وألافيس...\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082358574429453",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_يسجل_الأهداف_في_الدقائق_الأخيرة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-atletico-se-abona-a-los-goles-en-los-minutos-finales-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArO0S1zBUsDHxF3ANVNsgXv"
     }
   }
 ]
