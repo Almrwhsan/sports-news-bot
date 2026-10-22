@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rendidos a Kane: \"Es posiblemente el mejor jugador inglés de todos los tiempos\"",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/22/rendidos-kane-posiblemente-mejor-jugador-ingles-todos-tiempos.html",
+    "summary": "Steven Gerrard se deshace en elogios hacia el capitán de Inglaterra y le sitúa por encima de todas las generaciones que ha dado el fútbol británico, en un momento en el que el ariete del Bayern se postula para llevarse uno de los grandes galardones futbolísticos que existen",
+    "published": "Thu, 22 Oct 2026 09:09:26 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/21/6ad8de1617e23.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "استسلم لكين: \"ربما يكون أفضل لاعب إنجليزي على الإطلاق\"",
+    "arabic_summary": "يشيد ستيفن جيرارد بقائد منتخب إنجلترا ويضعه فوق كل الأجيال التي أنتجتها كرة القدم البريطانية، في الوقت الذي يسعى فيه مهاجم بايرن للفوز بإحدى الجوائز الكروية العظيمة الموجودة.",
+    "translation_status": "translated",
+    "post_title": "استسلم لكين: \"ربما يكون أفضل لاعب إنجليزي على الإطلاق\"",
+    "post_text": "🚨 استسلم لكين: \"ربما يكون أفضل لاعب إنجليزي على الإطلاق\"\n\n📝 يشيد ستيفن جيرارد بقائد منتخب إنجلترا ويضعه فوق كل الأجيال التي أنتجتها كرة القدم البريطانية، في الوقت الذي يسعى فيه مهاجم بايرن للفوز بإحدى الجوائز الكروية العظيمة الموجودة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085373260794651",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استسلم_لكين_ربما_يكون_أفضل_لاعب_إنجليزي_على_الإطلاق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/22/rendidos-kane-posiblemente-mejor-jugador-ingles-todos-tiempos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "APmQQ7F4kgf0JUgAoHkGZvl"
+    }
+  },
+  {
     "title": "El capitán infiel sufrirá en su propia piel las trampas del City si es condenado: \"Espero que no pase\"",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/22/kyle-walker-capitan-infiel-sufrira-propia-piel-trampas-manchester-city-condenado.html",
     "summary": "Kyle Walker revela que se borrará el tatuaje de \"cuatro seguidos\" que lleva en la pierna si al Manchester City le retiran sus títulos de la Premier League",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXH8OXhbeHwK6ON_DfTFqji"
-    }
-  },
-  {
-    "title": "El Clásico llama a Diomande",
-    "url": "https://as.com/futbol/primera/el-clasico-llama-a-diomande-f202610-n/",
-    "summary": "El equipo blanco golea al Sevilla con un partido estelar del marfileño y doblete de Mbappé. El equipo andaluz pidió la expulsión de Güler. Volvió Militao.",
-    "published": "Sun, 18 Oct 2026 21:02:33 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TYIDFIDMPZG2NDW3UEKAYQNLGQ.jpg?auth=f085601419a45e6bcb3bb003e5a567f692a88a86302e216cc65bc02a9b27fe2b",
-    "media_type": null,
-    "arabic_title": "الكلاسيكو يستدعي ديوماندي",
-    "arabic_summary": "الفريق الأبيض يسحق إشبيلية بأداء رائع من الإيفواري وثنائية من مبابي. طلب الفريق الأندلسي طرد جولر. عاد ميليتاو .",
-    "translation_status": "translated",
-    "post_title": "الكلاسيكو يستدعي ديوماندي",
-    "post_text": "🚨 الكلاسيكو يستدعي ديوماندي\n\n📝 الفريق الأبيض يسحق إشبيلية بأداء رائع من الإيفواري وثنائية من مبابي. طلب الفريق الأندلسي طرد جولر. عاد ميليتاو .\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082176027781041",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الكلاسيكو_يستدعي_ديوماندي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-clasico-llama-a-diomande-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdqYM-DJ5lAfpdSDK063zBh"
     }
   }
 ]
