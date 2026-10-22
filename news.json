@@ -1,5 +1,39 @@
 [
   {
+    "title": "Latest scorecard: England vs Sri Lanka, ODI tri-series",
+    "url": "https://www.skysports.com/cricket/sri-lanka-v-england/scorecard/f8634e16-fe9b-5c2f-bcdb-11d451c6ebab",
+    "summary": "Latest scores from England's ODI tri-series match with Sri Lanka in Rawalpindi, Pakistan.",
+    "published": "Thu, 22 Oct 2026 09:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-banton-england-cricket_7383468.jpg?20261022091125",
+    "media_type": "image/jpg",
+    "arabic_title": "أحدث بطاقة النتائج: إنجلترا ضد سريلانكا، سلسلة ODI الثلاثية",
+    "arabic_summary": "أحدث النتائج من مباراة ODI الثلاثية لإنجلترا مع سريلانكا في روالبندي، باكستان.",
+    "translation_status": "translated",
+    "post_title": "أحدث بطاقة النتائج: إنجلترا ضد سريلانكا، سلسلة ODI الثلاثية",
+    "post_text": "🚨 أحدث بطاقة النتائج: إنجلترا ضد سريلانكا، سلسلة ODI الثلاثية\n\n📝 أحدث النتائج من مباراة ODI الثلاثية لإنجلترا مع سريلانكا في روالبندي، باكستان.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085228897475754",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أحدث_بطاقة_النتائج_إنجلترا_ضد_سريلانكا،_سلسلة_ODI_الثلاثية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/sri-lanka-v-england/scorecard/f8634e16-fe9b-5c2f-bcdb-11d451c6ebab",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A389sgZ9Q8E8MhDF0g2Yu3f"
+    }
+  },
+  {
     "title": "Piqué se atreve a dar un pronóstico para el Clásico",
     "url": "https://as.com/futbol/primera/pique-se-atreve-a-dar-un-pronostico-para-el-clasico-f202610-n/",
     "summary": "El exjugador del Barcelona se arriesgó a dar un resultado para el choque del próximo domingo en el Camp Nou. “La primera vez que Mou vino se llevó un 5-0″.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AA6RiZ8dd9IKEL2o2XeScf9"
-    }
-  },
-  {
-    "title": "Ten unusual jobs in football",
-    "url": "https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&at_campaign=rss",
-    "summary": "What are some of the lesser known jobs in football? BBC Bitesize Careers finds out!",
-    "published": "Mon, 21 Sep 2026 20:12:31 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg",
-    "media_type": null,
-    "arabic_title": "عشر وظائف غير عادية في كرة القدم",
-    "arabic_summary": "ما هي بعض الوظائف الأقل شهرة في كرة القدم؟ بي بي سي Bitesize Careers تكتشف ذلك!",
-    "translation_status": "translated",
-    "post_title": "عشر وظائف غير عادية في كرة القدم",
-    "post_text": "🚨 عشر وظائف غير عادية في كرة القدم\n\n📝 ما هي بعض الوظائف الأقل شهرة في كرة القدم؟ بي بي سي Bitesize Careers تكتشف ذلك!\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081914641140513",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عشر_وظائف_غير_عادية_في_كرة_القدم.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AR0qUe4qcOm1EF6Kbbqkwvc"
     }
   }
 ]
