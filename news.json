@@ -1,5 +1,39 @@
 [
   {
+    "title": "Otro 'milagro' de Emery: colíder en Champions con un equipo nuevo",
+    "url": "https://www.marca.com/futbol/champions-league/2026/10/22/milagro-emery-colider-champions-equipo-nuevo.html",
+    "summary": "El Aston Villa, campeón de la Europa League, vuelve a brillar entre los transatlánticos del Viejo Continente y le disputa el liderato al millonario PSG",
+    "published": "Thu, 22 Oct 2026 11:22:31 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9d598537f4.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"معجزة\" أخرى من إيمري: تقاسم صدارة دوري أبطال أوروبا مع فريق جديد",
+    "arabic_summary": "أستون فيلا بطل الدوري الأوروبي يتألق من جديد بين خطوط القارة العجوز وينازع الصدارة مع المليونير باريس سان جيرمان",
+    "translation_status": "translated",
+    "post_title": "\"معجزة\" أخرى من إيمري: تقاسم صدارة دوري أبطال أوروبا مع فريق جديد",
+    "post_text": "🚨 \"معجزة\" أخرى من إيمري: تقاسم صدارة دوري أبطال أوروبا مع فريق جديد\n\n📝 أستون فيلا بطل الدوري الأوروبي يتألق من جديد بين خطوط القارة العجوز وينازع الصدارة مع المليونير باريس سان جيرمان\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085545260777451",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/معجزة_أخرى_من_إيمري_تقاسم_صدارة_دوري_أبطال_أوروبا_مع_فريق_جديد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/22/milagro-emery-colider-champions-equipo-nuevo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUaJsrVCFRqmEKGxqF67po2"
+    }
+  },
+  {
     "title": "La vez que Iraola dijo 'no' al Liverpool: \"Me daba casi vergüenza que un club tan grande pensara en mí\"",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/22/vez-iraola-dijo-liverpool-me-daba-vergueenza-club-grande-pensara-mi.html",
     "summary": "El ahora técnico 'red' estuvo cerca de ser jugador del Liverpool con Benítez... y después",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvU40yOjJkEqiFbYUtOtBk3"
-    }
-  },
-  {
-    "title": "Spin, Crocombe and Curran: Questions for England in ODI tri-series",
-    "url": "https://www.skysports.com/cricket/news/12040/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress",
-    "summary": "As ever, there is little rest for the England men's cricket team.",
-    "published": "Mon, 19 Oct 2026 07:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-mason-crane-glamorgan-cricket_7377480.jpg?20261015115453",
-    "media_type": "image/jpg",
-    "arabic_title": "Spin وCrocombe وCurran: أسئلة لإنجلترا في سلسلة ODI الثلاثية",
-    "arabic_summary": "كما هو الحال دائما، هناك القليل من الراحة لفريق الكريكيت الإنجليزي للرجال.",
-    "translation_status": "translated",
-    "post_title": "Spin وCrocombe وCurran: أسئلة لإنجلترا في سلسلة ODI الثلاثية",
-    "post_text": "🚨 Spin وCrocombe وCurran: أسئلة لإنجلترا في سلسلة ODI الثلاثية\n\n📝 كما هو الحال دائما، هناك القليل من الراحة لفريق الكريكيت الإنجليزي للرجال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082358954429415",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Spin_وCrocombe_وCurran_أسئلة_لإنجلترا_في_سلسلة_ODI_الثلاثية.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APeL4lxsl7AWbsXKRESna5l"
     }
   }
 ]
