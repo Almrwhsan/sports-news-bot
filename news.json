@@ -1,5 +1,39 @@
 [
   {
+    "title": "West Ham vs Southampton: Predict the score!",
+    "url": "https://www.skysports.com/football/west-ham-united-vs-southampton/live/560640",
+    "summary": "",
+    "published": "Thu, 22 Oct 2026 10:07:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-efl-championship_7383630.jpg?20261022124741",
+    "media_type": "image/jpg",
+    "arabic_title": "وست هام ضد ساوثهامبتون: توقع النتيجة!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "وست هام ضد ساوثهامبتون: توقع النتيجة!",
+    "post_text": "🚨 وست هام ضد ساوثهامبتون: توقع النتيجة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085457314119579",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وست_هام_ضد_ساوثهامبتون_توقع_النتيجة!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/west-ham-united-vs-southampton/live/560640",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AiEwNGLJ9PS1bMzX-HS7qPA"
+    }
+  },
+  {
     "title": "Mijatovic le muestra el camino al cabizbajo Vinicius en el Madrid tras el impacto de Diomande",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/22/mijatovic-le-muestra-camino-cabizbajo-vinicius-madrid-impacto-diomande.html",
     "summary": "\"Me falta un poquito más de Vinicius y estoy convencido de que lo va a recuperar. Hay que dejarle un poquito de tiempo y no hay que presionarle demasiado\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZ0WNgQEy76pB9_ZywKk-xB"
-    }
-  },
-  {
-    "title": "Mbappe stars with amazing goal and Panenka penalty as Real thump Sevilla",
-    "url": "https://www.skysports.com/watch/video/13600836/real-madrid-4-1-sevilla-laliga-highlights",
-    "summary": "Highlights of the LaLiga match between Real Madrid and Sevilla.",
-    "published": "Mon, 19 Oct 2026 06:37:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-kylian-mbappe_7380365.jpg?20261019063647",
-    "media_type": "image/jpg",
-    "arabic_title": "مبابي يتألق بهدف رائع وركلة جزاء بانينكا في فوز ريال مدريد على إشبيلية",
-    "arabic_summary": "أبرز أحداث مباراة ريال مدريد وإشبيلية في الدوري الإسباني.",
-    "translation_status": "translated",
-    "post_title": "مبابي يتألق بهدف رائع وركلة جزاء بانينكا في فوز ريال مدريد على إشبيلية",
-    "post_text": "🚨 مبابي يتألق بهدف رائع وركلة جزاء بانينكا في فوز ريال مدريد على إشبيلية\n\n📝 أبرز أحداث مباراة ريال مدريد وإشبيلية في الدوري الإسباني.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082295071102470",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي_يتألق_بهدف_رائع_وركلة_جزاء_بانينكا_في_فوز_ريال_مدريد_على_إشبيلية.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13600836/real-madrid-4-1-sevilla-laliga-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQPJ-96cCC2btY-sO_zJuRF"
     }
   }
 ]
