@@ -1,5 +1,39 @@
 [
   {
+    "title": "Miguel Ángel Gil, recibido por el presidente de la República de Kazajistán",
+    "url": "https://as.com/futbol/primera/miguel-angel-gil-recibido-por-el-presidente-de-la-republica-de-kazajistan-f202610-n/",
+    "summary": "Kassym-Jomart Tokáyev recibió al consejero delegado rojiblanco en el Palacio Presidencial de Akorda en el marco de su visita al proyecto de la Academia.",
+    "published": "Thu, 22 Oct 2026 14:54:46 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7LJFNGT4UFGAJK5MRS7QNRFINE.jpg?auth=da236c270c378379f4b3db2d6e508f98d18af6b02bd1d7e68ae6220ace3f6561",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميغيل أنخيل جيل خلال استقباله رئيس جمهورية كازاخستان",
+    "arabic_summary": "استقبل قاسم جومارت توكاييف الرئيس التنفيذي باللونين الأحمر والأبيض في قصر أكوردا الرئاسي كجزء من زيارته لمشروع الأكاديمية.",
+    "translation_status": "translated",
+    "post_title": "ميغيل أنخيل جيل خلال استقباله رئيس جمهورية كازاخستان",
+    "post_text": "🚨 ميغيل أنخيل جيل خلال استقباله رئيس جمهورية كازاخستان\n\n📝 استقبل قاسم جومارت توكاييف الرئيس التنفيذي باللونين الأحمر والأبيض في قصر أكوردا الرئاسي كجزء من زيارته لمشروع الأكاديمية.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085461660785811",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميغيل_أنخيل_جيل_خلال_استقباله_رئيس_جمهورية_كازاخستان.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/miguel-angel-gil-recibido-por-el-presidente-de-la-republica-de-kazajistan-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AU6dpcsxoEERyrR9bSMNTPs"
+    }
+  },
+  {
     "title": "West Ham vs Southampton: Predict the score!",
     "url": "https://www.skysports.com/football/west-ham-united-vs-southampton/live/560640",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ad6lseSGO39mM8BPQrUi7JK"
-    }
-  },
-  {
-    "title": "Dubois vs Itauma is a heavyweight rivalry for the future",
-    "url": "https://www.skysports.com/boxing/news/12040/13600728/daniel-dubois-vs-moses-itauma-is-an-all-british-heavyweight-rivalry-for-the-future-british-boxings-in-a-great-position",
-    "summary": "Daniel Dubois and Moses Itauma could become the heavyweight rivalry to define British boxing in the years to come.",
-    "published": "Mon, 19 Oct 2026 06:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-daniel-dubois-fabio-wardley_7379525.jpg?20261018181657",
-    "media_type": "image/jpg",
-    "arabic_title": "Dubois vs Itauma هو منافسة ثقيلة الوزن للمستقبل",
-    "arabic_summary": "يمكن أن يصبح دانييل دوبوا وموسى إيتاوما منافسين في الوزن الثقيل لتعريف الملاكمة البريطانية في السنوات القادمة.",
-    "translation_status": "translated",
-    "post_title": "Dubois vs Itauma هو منافسة ثقيلة الوزن للمستقبل",
-    "post_text": "🚨 Dubois vs Itauma هو منافسة ثقيلة الوزن للمستقبل\n\n📝 يمكن أن يصبح دانييل دوبوا وموسى إيتاوما منافسين في الوزن الثقيل لتعريف الملاكمة البريطانية في السنوات القادمة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082294997769144",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Dubois_vs_Itauma_هو_منافسة_ثقيلة_الوزن_للمستقبل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13600728/daniel-dubois-vs-moses-itauma-is-an-all-british-heavyweight-rivalry-for-the-future-british-boxings-in-a-great-position",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZ0WNgQEy76pB9_ZywKk-xB"
     }
   }
 ]
