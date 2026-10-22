@@ -1,5 +1,39 @@
 [
   {
+    "title": "England chase victory over Sri Lanka in ODI tri-series LIVE!",
+    "url": "https://www.skysports.com/cricket/live-blog/12040/13602136/england-vs-sri-lanka-odi-tri-series-live-latest-cricket-scores-updates-and-video-as-harry-brooks-side-chase-victory",
+    "summary": "",
+    "published": "Thu, 22 Oct 2026 08:25:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-gus-atkinson-cricket_7381497.jpg?20261020111605",
+    "media_type": "image/jpg",
+    "arabic_title": "إنجلترا تسعى للفوز على سريلانكا في سلسلة ODI الثلاثية مباشرة!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "إنجلترا تسعى للفوز على سريلانكا في سلسلة ODI الثلاثية مباشرة!",
+    "post_text": "🚨 إنجلترا تسعى للفوز على سريلانكا في سلسلة ODI الثلاثية مباشرة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085144434150867",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تسعى_للفوز_على_سريلانكا_في_سلسلة_ODI_الثلاثية_مباشرة!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/live-blog/12040/13602136/england-vs-sri-lanka-odi-tri-series-live-latest-cricket-scores-updates-and-video-as-harry-brooks-side-chase-victory",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsJMQ9fzrwHb6UniclPgnrf"
+    }
+  },
+  {
     "title": "Edwards makes NBA HISTORY as Giannis shines on Heat debut!",
     "url": "https://www.skysports.com/watch/video/13602124/minnesota-timberwolves-miami-heat-nba-highlights",
     "summary": "Highlights from the NBA clash between Minnesota Timberwolves and Miami Heat.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlzNT82LDXz_FWpFuXWS4qO"
-    }
-  },
-  {
-    "title": "Hermanamientos, rivalidades y política en las gradas",
-    "url": "https://as.com/futbol/primera/hermanamientos-rivalidades-y-politica-en-las-gradas-f202610-n/",
-    "summary": "Las relaciones entre las aficiones del fútbol español van más allá del terreno de juego y se construyen entre amistades históricas, enemistades y diferencias ideológicas.",
-    "published": "Sun, 18 Oct 2026 07:18:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CMM33WRQ3JAFHM4KIHPBAVYGW4.JPG?auth=8abeb2b7f2570cd9e17cee6e77250e45b078a2251664a24ee9e4a57287c5c81f",
-    "media_type": "image/jpeg",
-    "arabic_title": "توأمة وخصومات وسياسة في المدرجات",
-    "arabic_summary": "العلاقات بين مشجعي كرة القدم الإسبانية تتجاوز الملعب وهي مبنية بين صداقات تاريخية وعداوات واختلافات أيديولوجية.",
-    "translation_status": "translated",
-    "post_title": "توأمة وخصومات وسياسة في المدرجات",
-    "post_text": "🚨 توأمة وخصومات وسياسة في المدرجات\n\n📝 العلاقات بين مشجعي كرة القدم الإسبانية تتجاوز الملعب وهي مبنية بين صداقات تاريخية وعداوات واختلافات أيديولوجية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081835181148459",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توأمة_وخصومات_وسياسة_في_المدرجات.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/hermanamientos-rivalidades-y-politica-en-las-gradas-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfSULZ_EPsULXjln3Ud44qL"
     }
   }
 ]
