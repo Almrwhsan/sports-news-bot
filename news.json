@@ -1,5 +1,39 @@
 [
   {
+    "title": "Polémica, análisis y reacciones del Real Madrid 4-1 Leipzig de UEFA Champions League",
+    "url": "https://as.com/futbol/champions/polemica-analisis-y-reacciones-del-real-madrid-leipzig-de-uefa-champions-league-f202610-d/",
+    "summary": "El Real Madrid vence con holgura al Leipzig y ya espera el Clásico del próximo domingo. Por ahora, nueve puntos de nueve en Champions.",
+    "published": "Thu, 22 Oct 2026 04:55:16 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/O3LH5733QBJZ7PITIIT5YX6TUI.jpg?auth=64cf4513085ced4709cc8f2dc9de197e9d098bcf05b3034e0437ccef1c0c35da",
+    "media_type": "image/jpeg",
+    "arabic_title": "جدل وتحليل وردود أفعال ريال مدريد 4-1 لايبزيج في دوري أبطال أوروبا",
+    "arabic_summary": "فاز ريال مدريد بسهولة على لايبزيغ ويتطلع بالفعل إلى مباراة الكلاسيكو يوم الأحد المقبل. في الوقت الحالي، تسع نقاط من أصل تسع في دوري أبطال أوروبا.",
+    "translation_status": "translated",
+    "post_title": "جدل وتحليل وردود أفعال ريال مدريد 4-1 لايبزيج في دوري أبطال أوروبا",
+    "post_text": "🚨 جدل وتحليل وردود أفعال ريال مدريد 4-1 لايبزيج في دوري أبطال أوروبا\n\n📝 فاز ريال مدريد بسهولة على لايبزيغ ويتطلع بالفعل إلى مباراة الكلاسيكو يوم الأحد المقبل. في الوقت الحالي، تسع نقاط من أصل تسع في دوري أبطال أوروبا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085055327493111",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جدل_وتحليل_وردود_أفعال_ريال_مدريد_4-1_لايبزيج_في_دوري_أبطال_أوروبا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/polemica-analisis-y-reacciones-del-real-madrid-leipzig-de-uefa-champions-league-f202610-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnVdxnHzPZvQu_4cc4g7yyo"
+    }
+  },
+  {
     "title": "Las polémicas de la jornada 3 de la Fase Liga de la Champions League: todos los penaltis, expulsiones y jugadas controvertidas",
     "url": "https://as.com/futbol/champions/las-polemicas-de-la-jornada-3-de-la-fase-liga-de-la-champions-league-todos-los-penaltis-expulsiones-y-jugadas-controvertidas-f202610-n/",
     "summary": "Iturralde González, analista arbitral de AS y la SER, evalúa las jugadas más controvertidas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ao9gfOVABzp7dmHhw3ZVNkM"
-    }
-  },
-  {
-    "title": "Gomez scores stunning HALFWAY-LINE goal!",
-    "url": "https://www.skysports.com/watch/video/13600600/goal-d-gomez-brighton-2-0-crystal-palace",
-    "summary": "Diego Gomez STUNS The Amex with halfway line goal in the 7th minute!",
-    "published": "Sun, 18 Oct 2026 14:17:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-brighton_7379815.jpg?20261018143310",
-    "media_type": "image/jpg",
-    "arabic_title": "جوميز يسجل هدفًا مذهلًا في منتصف الطريق!",
-    "arabic_summary": "دييجو جوميز يذهل أميكس بهدف في منتصف الملعب في الدقيقة السابعة!",
-    "translation_status": "translated",
-    "post_title": "جوميز يسجل هدفًا مذهلًا في منتصف الطريق!",
-    "post_text": "🚨 جوميز يسجل هدفًا مذهلًا في منتصف الطريق!\n\n📝 دييجو جوميز يذهل أميكس بهدف في منتصف الملعب في الدقيقة السابعة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081737317824912",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوميز_يسجل_هدفًا_مذهلًا_في_منتصف_الطريق!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13600600/goal-d-gomez-brighton-2-0-crystal-palace",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ax6nfyUE13YLFkGvEicmxCg"
     }
   }
 ]
