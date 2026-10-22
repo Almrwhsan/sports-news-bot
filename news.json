@@ -1,5 +1,39 @@
 [
   {
+    "title": "La generación Z es de Endrick y Lamine",
+    "url": "https://as.com/futbol/primera/la-generacion-z-es-de-endrick-y-lamine-f202610-n/",
+    "summary": "Entre ambos acumulan millones de seguidores en las redes sociales y decenas de patrocinios.",
+    "published": "Thu, 22 Oct 2026 07:42:37 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YDKE42RXKVF4JBKAFUYNZG5WKA.jpg?auth=fba0fc9c9c55b4548431b5c69fadd6756d7080486aa95c4c0c8e74c8ada6da8a",
+    "media_type": "image/jpeg",
+    "arabic_title": "الجيل Z من إندريك ولامين",
+    "arabic_summary": "فيما بينهم يجمعون ملايين المتابعين على الشبكات الاجتماعية وعشرات الرعاية.",
+    "translation_status": "translated",
+    "post_title": "الجيل Z من إندريك ولامين",
+    "post_text": "🚨 الجيل Z من إندريك ولامين\n\n📝 فيما بينهم يجمعون ملايين المتابعين على الشبكات الاجتماعية وعشرات الرعاية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085154617483182",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الجيل_Z_من_إندريك_ولامين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/la-generacion-z-es-de-endrick-y-lamine-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArYmNywKO3AzPHRKxZ2eKBm"
+    }
+  },
+  {
     "title": "England chase victory over Sri Lanka in ODI tri-series LIVE!",
     "url": "https://www.skysports.com/cricket/live-blog/12040/13602136/england-vs-sri-lanka-odi-tri-series-live-latest-cricket-scores-updates-and-video-as-harry-brooks-side-chase-victory",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5htKrTW24rc3cjBhm7YB8I"
-    }
-  },
-  {
-    "title": "Baena, en plan estrella, y Julián vuelve a sonreír en el Atlético",
-    "url": "https://as.com/opinion/baena-en-plan-estrella-y-julian-vuelve-a-sonreir-en-el-atletico-f202610-n/",
-    "summary": "El almeriense hizo el 0-1 y ya lleva cinco tantos en esta temporada. El Atlético se llevó un partido en el instante final. Julián ya es otro: no marcó, pero contribuyó al triunfo. Y vuelve a mostrar una sonrisa de rojiblanco.",
-    "published": "Sat, 17 Oct 2026 14:13:10 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ENOKGXMPGRKOVOQS3VTHDTB3ME.jpg?auth=4e746ddb9472b563e7bd01c55e79efcf4f006d2effc52b0d190a5048a8e67793",
-    "media_type": "image/jpeg",
-    "arabic_title": "باينا، كنجم، وجوليان يبتسمان مرة أخرى في أتلتيكو",
-    "arabic_summary": "سجل لاعب ألميريا النتيجة 0-1 وسجل خمسة أهداف هذا الموسم. فاز أتلتيكو بالمباراة في اللحظة الأخيرة. جوليان لاعب آخر بالفعل: لم يسجل، لكنه ساهم في الفوز. ويظهر ابتسامة حمراء وبيضاء مرة أخرى.",
-    "translation_status": "translated",
-    "post_title": "باينا، كنجم، وجوليان يبتسمان مرة أخرى في أتلتيكو",
-    "post_text": "🚨 باينا، كنجم، وجوليان يبتسمان مرة أخرى في أتلتيكو\n\n📝 سجل لاعب ألميريا النتيجة 0-1 وسجل خمسة أهداف هذا الموسم. فاز أتلتيكو بالمباراة في اللحظة الأخيرة. جوليان لاعب آخر بالفعل: لم يسجل، لكنه ساهم في الفوز. ويظهر ابتسامة حمراء وبيضاء مرة أخرى.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081839151148062",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باينا،_كنجم،_وجوليان_يبتسمان_مرة_أخرى_في_أتلتيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/baena-en-plan-estrella-y-julian-vuelve-a-sonreir-en-el-atletico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlzNT82LDXz_FWpFuXWS4qO"
     }
   }
 ]
