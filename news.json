@@ -1,5 +1,39 @@
 [
   {
+    "title": "Vinicius no es Vinicius",
+    "url": "https://as.com/futbol/champions/vinicius-no-es-vinicius-f202610-n/",
+    "summary": "Ante el Leipzig fue sustituido en el 70′ sin haber intentado regatear y tras sufrir dos conatos de pitada.",
+    "published": "Thu, 22 Oct 2026 05:08:29 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YEVENX63JZJFXNILANCCBP2XTI.jpg?auth=e50e14a3697fddbba51f06b9107e77fe048f77cb8a42ecca1bdca72c93bd7dd5",
+    "media_type": "image/jpeg",
+    "arabic_title": "فينيسيوس ليس فينيسيوس",
+    "arabic_summary": "ضد لايبزيغ تم استبداله في الدقيقة 70 دون أن يحاول المراوغة وبعد تعرضه لمحاولتين للصافرة.",
+    "translation_status": "translated",
+    "post_title": "فينيسيوس ليس فينيسيوس",
+    "post_text": "🚨 فينيسيوس ليس فينيسيوس\n\n📝 ضد لايبزيغ تم استبداله في الدقيقة 70 دون أن يحاول المراوغة وبعد تعرضه لمحاولتين للصافرة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085063747492269",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فينيسيوس_ليس_فينيسيوس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/vinicius-no-es-vinicius-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A93dnx2BZrwB0T6986nNKeF"
+    }
+  },
+  {
     "title": "Can McLaren 'up their game' to respond to Red Bull threat?",
     "url": "https://www.skysports.com/f1/news/12040/13601944/united-states-gp-mclaren-with-upgrades-for-austin-race-as-reigning-f1-champions-bid-to-ward-off-red-bull-threat",
     "summary": "McLaren will introduce further upgrades at the United States Grand Prix as they bid to improve their car's performance and stave off a resurgent Red Bull in the standings over the remainder of the season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGb0WsMRdzsiRwZG1kDuyzQ"
-    }
-  },
-  {
-    "title": "Aprobados y suspensos del Barça ante el Betis: Lamine marca, asiste y expulsa",
-    "url": "https://as.com/futbol/aprobados-y-suspensos-del-barca-ante-el-betis-lamine-marca-asiste-y-expulsa-f202610-n/",
-    "summary": "Nueva exhibición del crack blaugrana, que marcó uno de esos goles que darán la vuelta al mundo. Le dio tiempo a ‘regalar’ un tanto a Gabriel Jesús y a provocar la expulsión de Facundo.",
-    "published": "Sat, 17 Oct 2026 19:09:36 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZTB4AKJNLBMX7K54GBQDUBKUUI.jpg?auth=3f51d51d33f1a88de0945cd16c3eb3deddd8493b5e4ef964ab061a925bcb7201",
-    "media_type": "image/jpeg",
-    "arabic_title": "تمت الموافقة والفشل لبرشلونة ضد بيتيس: لامين يسجل ويصنع ويطرد",
-    "arabic_summary": "عرض جديد من نجم البلوجرانا الذي سجل أحد تلك الأهداف التي ستذهب حول العالم. كان لديه الوقت ليعطي القليل لغابرييل خيسوس ويتسبب في طرد فاكوندو.",
-    "translation_status": "translated",
-    "post_title": "تمت الموافقة والفشل لبرشلونة ضد بيتيس: لامين يسجل ويصنع ويطرد",
-    "post_text": "🚨 تمت الموافقة والفشل لبرشلونة ضد بيتيس: لامين يسجل ويصنع ويطرد\n\n📝 عرض جديد من نجم البلوجرانا الذي سجل أحد تلك الأهداف التي ستذهب حول العالم. كان لديه الوقت ليعطي القليل لغابرييل خيسوس ويتسبب في طرد فاكوندو.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1081752751156702",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تمت_الموافقة_والفشل_لبرشلونة_ضد_بيتيس_لامين_يسجل_ويصنع_ويطرد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/aprobados-y-suspensos-del-barca-ante-el-betis-lamine-marca-asiste-y-expulsa-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AzGQnxLvrH3NKVqrM-uPst-"
     }
   }
 ]
