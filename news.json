@@ -1,5 +1,39 @@
 [
   {
+    "title": "FNF: Enciso brings Ipswich level vs Forest LIVE! & highlights",
+    "url": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/live/559520",
+    "summary": "",
+    "published": "Fri, 23 Oct 2026 18:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-julio-enciso-morgan-gibbs-white_7385025.jpg?20261023204452",
+    "media_type": "image/jpg",
+    "arabic_title": "FNF: Enciso يرفع مستوى إيبسويتش ضد فورست لايف! ويسلط الضوء",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "FNF: Enciso يرفع مستوى إيبسويتش ضد فورست لايف! ويسلط الضوء",
+    "post_text": "🚨 FNF: Enciso يرفع مستوى إيبسويتش ضد فورست لايف! ويسلط الضوء\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086608760671101",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/FNF_Enciso_يرفع_مستوى_إيبسويتش_ضد_فورست_لايف!_ويسلط_الضوء.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/live/559520",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAGP3VfJYSM56DfFXBS1Xgj"
+    }
+  },
+  {
     "title": "Burning Up backed to rise to Futurity challenge",
     "url": "https://www.skysports.com/racing/news/12040/13602715/racing-tips-burning-up-backed-to-rise-to-futurity-challenge",
     "summary": "Ahead of another Saturday of racing, the Weekend Winners team reconvene to discuss the best betting angles.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARGPOa0JkcXc6Q9DIGNGavq"
-    }
-  },
-  {
-    "title": "Brook out cheaply as England lose third wicket chasing 303 vs Pakistan LIVE!",
-    "url": "https://www.skysports.com/cricket/live-blog/12040/13601207/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-and-video-as-harry-brooks-side-begin-50-over-tour",
-    "summary": "",
-    "published": "Tue, 20 Oct 2026 08:25:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-harry-brook-england-mens-odi-cricket_7381778.jpg?20261020150048",
-    "media_type": "image/jpg",
-    "arabic_title": "خرج بثمن بخس حيث خسرت إنجلترا الويكيت الثالث وهي تطارد 303 ضد باكستان بث مباشر!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "خرج بثمن بخس حيث خسرت إنجلترا الويكيت الثالث وهي تطارد 303 ضد باكستان بث مباشر!",
-    "post_text": "🚨 خرج بثمن بخس حيث خسرت إنجلترا الويكيت الثالث وهي تطارد 303 ضد باكستان بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083540844311226",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خرج_بثمن_بخس_حيث_خسرت_إنجلترا_الويكيت_الثالث_وهي_تطارد_303_ضد_باكستان_بث_مباشر!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/live-blog/12040/13601207/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-and-video-as-harry-brooks-side-begin-50-over-tour",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AeHCBe6RCBJaY0RgMSckm4x"
     }
   }
 ]
