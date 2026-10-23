@@ -1,5 +1,39 @@
 [
   {
+    "title": "Neymar desvela su plan de \"tocarme las pelotas\" cuando se retire y confiesa lo que le ponía \"furioso\" en Barcelona",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/23/neymar-desvela-plan-tocarme-pelotas-retire-confiesa-le-ponia-furioso-barcelona.html",
+    "summary": "\"Cuando me retire, voy a pasar un año sin hacer un carajo. Tocándome las pelotas\"",
+    "published": "Fri, 23 Oct 2026 09:39:05 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb0dd34eb9a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "نيمار يكشف خطته \"لمس خصيتي\" عند الاعتزال ويعترف بما أثار \"غضبه\" في برشلونة",
+    "arabic_summary": "\"عندما أتقاعد، سأقضي عامًا دون أن أفعل أي شيء. لمس خصيتي\"",
+    "translation_status": "translated",
+    "post_title": "نيمار يكشف خطته \"لمس خصيتي\" عند الاعتزال ويعترف بما أثار \"غضبه\" في برشلونة",
+    "post_text": "🚨 نيمار يكشف خطته \"لمس خصيتي\" عند الاعتزال ويعترف بما أثار \"غضبه\" في برشلونة\n\n📝 \"عندما أتقاعد، سأقضي عامًا دون أن أفعل أي شيء. لمس خصيتي\"\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086330980698879",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيمار_يكشف_خطته_لمس_خصيتي_عند_الاعتزال_ويعترف_بما_أثار_غضبه_في_برشلونة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/23/neymar-desvela-plan-tocarme-pelotas-retire-confiesa-le-ponia-furioso-barcelona.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2PTBy3JNW0YReqM8dGz5tV"
+    }
+  },
+  {
     "title": "El vídeo de la vergüenza del Manchester United: 776 días sin cortarse el pelo por su culpa",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/23/video-vergueenza-manchester-united-776-dias-cortarse-pelo-culpa-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3Lo78mabcH5Z9on0QXRsG1"
-    }
-  },
-  {
-    "title": "Iñigo: “Es un orgullo para el club jugar en este estadio”",
-    "url": "https://as.com/futbol/inigo-es-un-orgullo-para-el-club-jugar-en-este-estadio-f202610-n/",
-    "summary": "El técnico del Villarreal habló en la previa del partido de Champions, ante el Liverpool, en Anfield.",
-    "published": "Mon, 19 Oct 2026 20:02:18 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5MJUMBQ2JRM7PJLRKAANIM4IDM.jpg?auth=4b329cac18f8f82c9e0afdbd3038e81796b3c11f51e2e18a6e0af869e674d72e",
-    "media_type": "image/jpeg",
-    "arabic_title": "إنييجو: \"إنه لفخر للنادي أن يلعب في هذا الملعب\"",
-    "arabic_summary": "وتحدث مدرب فياريال قبل مباراة دوري أبطال أوروبا أمام ليفربول على ملعب أنفيلد.",
-    "translation_status": "translated",
-    "post_title": "إنييجو: \"إنه لفخر للنادي أن يلعب في هذا الملعب\"",
-    "post_text": "🚨 إنييجو: \"إنه لفخر للنادي أن يلعب في هذا الملعب\"\n\n📝 وتحدث مدرب فياريال قبل مباراة دوري أبطال أوروبا أمام ليفربول على ملعب أنفيلد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083213787677265",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنييجو_إنه_لفخر_للنادي_أن_يلعب_في_هذا_الملعب.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/inigo-es-un-orgullo-para-el-club-jugar-en-este-estadio-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4QVGk0k36r_cZ4Cjf9S8TO"
     }
   }
 ]
