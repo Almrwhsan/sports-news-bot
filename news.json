@@ -1,5 +1,39 @@
 [
   {
+    "title": "Williams volleys Forest in front at Ipswich!",
+    "url": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest",
+    "summary": "Neco Williams volleys Nottingham Forest in front at Ipswich Town.",
+    "published": "Fri, 23 Oct 2026 20:20:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-ipswich_7385053.jpg?20261023210640",
+    "media_type": "image/jpg",
+    "arabic_title": "ويليامز يسدد كرة مباشرة أمام فريق إيبسويتش!",
+    "arabic_summary": "نيكو ويليامز يسدد كرة مباشرة على نوتنجهام فورست أمام إيبسويتش تاون.",
+    "translation_status": "translated",
+    "post_title": "ويليامز يسدد كرة مباشرة أمام فريق إيبسويتش!",
+    "post_text": "🚨 ويليامز يسدد كرة مباشرة أمام فريق إيبسويتش!\n\n📝 نيكو ويليامز يسدد كرة مباشرة على نوتنجهام فورست أمام إيبسويتش تاون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086655963999714",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويليامز_يسدد_كرة_مباشرة_أمام_فريق_إيبسويتش!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Anr5qE95IKAGnH_V8SPkaZD"
+    }
+  },
+  {
     "title": "Trump states Paris concerns - 'NFL could have postponed Steelers-Saints'",
     "url": "https://www.skysports.com/nfl/news/12040/13602814/donald-trump-us-president-says-nfl-paris-game-on-sunday-could-have-been-postponed-amid-civil-unrest",
     "summary": "US President Donald Trump has said the NFL \"could have probably postponed\" Sunday's game in Paris between the Pittsburgh Steelers and New Orleans Saints due to street protests in the city.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFZzB9HGVkwOpVu4tMfRfEp"
-    }
-  },
-  {
-    "title": "Un realizador revela el porqué la acción de Güler y Peque no se captó con claridad por TV",
-    "url": "https://as.com/futbol/videos/un-realizador-revela-el-motivo-por-el-que-la-accion-de-guler-y-peque-no-se-capto-con-claridad-por-tv-f202610-v/",
-    "summary": "Víctor Santamaría, uno de los realizadores más icónicos de la televisión deportiva española, explicó en el Larguero por qué la jugada polémica del Real Madrid - Sevilla no se vio con nitidez durante la retransmisión del partido.",
-    "published": "Tue, 20 Oct 2026 06:44:29 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261020/1227394_063501_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "يكشف أحد المخرجين سبب عدم تصوير تصرفات \"جولر\" و\"بيكيه\" بوضوح على شاشة التلفزيون",
-    "arabic_summary": "أوضح فيكتور سانتاماريا، أحد أشهر مديري التلفزيون الرياضي الإسباني، في صحيفة El Larguero، سبب عدم رؤية المباراة المثيرة للجدل بين ريال مدريد وإشبيلية بوضوح أثناء بث المباراة.",
-    "translation_status": "translated",
-    "post_title": "يكشف أحد المخرجين سبب عدم تصوير تصرفات \"جولر\" و\"بيكيه\" بوضوح على شاشة التلفزيون",
-    "post_text": "🚨 يكشف أحد المخرجين سبب عدم تصوير تصرفات \"جولر\" و\"بيكيه\" بوضوح على شاشة التلفزيون\n\n📝 أوضح فيكتور سانتاماريا، أحد أشهر مديري التلفزيون الرياضي الإسباني، في صحيفة El Larguero، سبب عدم رؤية المباراة المثيرة للجدل بين ريال مدريد وإشبيلية بوضوح أثناء بث المباراة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083593387639305",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يكشف_أحد_المخرجين_سبب_عدم_تصوير_تصرفات_جولر_وبيكيه_بوضوح_على_شاشة_التلفزيون.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJlSOxpLgeJfzY-7DXfByJR"
     }
   }
 ]
