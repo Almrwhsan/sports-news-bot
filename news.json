@@ -1,5 +1,39 @@
 [
   {
+    "title": "Calero firma el mejor inicio del Oviedo desde su regreso al fútbol profesional",
+    "url": "https://www.marca.com/futbol/oviedo/2026/10/23/calero-firma-mejor-inicio-oviedo-regreso-futbol-profesional.html",
+    "summary": "Los azules suman 17 puntos en 10 jornadas, uno más que en el curso del ascenso y dos más que el Levante de 2024-25, aunque ocupan la octava plaza",
+    "published": "Fri, 23 Oct 2026 06:46:49 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ada388f92828.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كاليرو يوقع أفضل بداية لأوفييدو منذ عودته إلى كرة القدم الاحترافية",
+    "arabic_summary": "ويملك البلوز 17 نقطة في 10 مباريات، بفارق نقطة واحدة أكثر مما كان عليه خلال الصعود ونقطتين أكثر من ليفانتي في 2024-25، على الرغم من احتلالهم المركز الثامن.",
+    "translation_status": "translated",
+    "post_title": "كاليرو يوقع أفضل بداية لأوفييدو منذ عودته إلى كرة القدم الاحترافية",
+    "post_text": "🚨 كاليرو يوقع أفضل بداية لأوفييدو منذ عودته إلى كرة القدم الاحترافية\n\n📝 ويملك البلوز 17 نقطة في 10 مباريات، بفارق نقطة واحدة أكثر مما كان عليه خلال الصعود ونقطتين أكثر من ليفانتي في 2024-25، على الرغم من احتلالهم المركز الثامن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086244407374203",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاليرو_يوقع_أفضل_بداية_لأوفييدو_منذ_عودته_إلى_كرة_القدم_الاحترافية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/23/calero-firma-mejor-inicio-oviedo-regreso-futbol-profesional.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4BKoMYKBFCyCE-uI_KPyyy"
+    }
+  },
+  {
     "title": "El Atlético vuelve a cruzarse en el camino de Noubi",
     "url": "https://as.com/futbol/primera/el-atletico-vuelve-a-cruzarse-en-el-camino-de-noubi-f202610-n/",
     "summary": "Puede volver al once en el Metropolitano por la lesión de Ede. El club colchonero estuvo interesado en él este verano. El año pasado brilló en Copa contra los de Simeone.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ALH_bNjFTMOjGdOqB2XqLPv"
-    }
-  },
-  {
-    "title": "'King of the Monsters!' - Haas reveal special US GP car livery",
-    "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-    "summary": "",
-    "published": "Mon, 19 Oct 2026 16:27:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-haas-livery-2026-united-states-gp_7380882.png?20261019162513",
-    "media_type": "image/jpg",
-    "arabic_title": "\"ملك الوحوش!\" - هاس تكشف عن كسوة سيارة US GP الخاصة",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "\"ملك الوحوش!\" - هاس تكشف عن كسوة سيارة US GP الخاصة",
-    "post_text": "🚨 \"ملك الوحوش!\" - هاس تكشف عن كسوة سيارة US GP الخاصة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082909971040980",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملك_الوحوش!_-_هاس_تكشف_عن_كسوة_سيارة_US_GP_الخاصة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZ6zbbHohz4uuTOmiRoA2hZ"
     }
   }
 ]
