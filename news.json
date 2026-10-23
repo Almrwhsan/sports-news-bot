@@ -1,5 +1,39 @@
 [
   {
+    "title": "El 'estreno' de Gordon",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/23/estreno-gordon.html",
+    "summary": "El inglés no se ha medido jamás contra el Real Madrid en su carrera ni contra Bellingham",
+    "published": "Fri, 23 Oct 2026 11:07:46 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb20a76a112.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "العرض الأول لجوردون",
+    "arabic_summary": "لم يواجه الإنجليزي ريال مدريد مطلقًا في مسيرته أو ضد بيلينجهام",
+    "translation_status": "translated",
+    "post_title": "العرض الأول لجوردون",
+    "post_text": "🚨 العرض الأول لجوردون\n\n📝 لم يواجه الإنجليزي ريال مدريد مطلقًا في مسيرته أو ضد بيلينجهام\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086463000685677",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/العرض_الأول_لجوردون.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/23/estreno-gordon.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Au460Vfx8i8EAuRC3hSryAz"
+    }
+  },
+  {
     "title": "Tchouaméni: \"No hubo pelea con Fede Valverde como se dijo\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/23/tchouameni-hubo-pelea-fede-valverde-dijo.html",
     "summary": "El francés insiste en que el incidente con el uruguayo fue un episodio habitual de vestuario y lamenta la dimensión que alcanzó por producirse en el Real Madrid",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEBZPSxTJvpCq1mv5mbHWgr"
-    }
-  },
-  {
-    "title": "Bills safety Gardner-Johnson suspended for spitting",
-    "url": "https://www.skysports.com/nfl/news/12040/13601158/cj-gardner-johnson-buffalo-bills-safety-suspended-for-spitting-in-the-direction-of-las-vegas-raiders-players",
-    "summary": "Buffalo Bills safety CJ Gardner-Johnson has been suspended for one game without pay for spitting in the direction of Las Vegas Raiders players on Sunday.",
-    "published": "Mon, 19 Oct 2026 22:27:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-gardner-johnson-bills_7381171.jpg?20261019221718",
-    "media_type": "image/jpg",
-    "arabic_title": "تم إيقاف بيلز سلامة جاردنر جونسون بسبب البصق",
-    "arabic_summary": "تم إيقاف CJ Gardner-Johnson من فريق Buffalo Bills، لمباراة واحدة بدون أجر، بسبب البصق في اتجاه لاعبي Las Vegas Raiders يوم الأحد.",
-    "translation_status": "translated",
-    "post_title": "تم إيقاف بيلز سلامة جاردنر جونسون بسبب البصق",
-    "post_text": "🚨 تم إيقاف بيلز سلامة جاردنر جونسون بسبب البصق\n\n📝 تم إيقاف CJ Gardner-Johnson من فريق Buffalo Bills، لمباراة واحدة بدون أجر، بسبب البصق في اتجاه لاعبي Las Vegas Raiders يوم الأحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083279187670725",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_إيقاف_بيلز_سلامة_جاردنر_جونسون_بسبب_البصق.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13601158/cj-gardner-johnson-buffalo-bills-safety-suspended-for-spitting-in-the-direction-of-las-vegas-raiders-players",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAdu216lWsOPiTxXrM8DRJj"
     }
   }
 ]
