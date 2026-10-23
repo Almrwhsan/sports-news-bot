@@ -1,5 +1,39 @@
 [
   {
+    "title": "Ipswich latest: Davis on impressive start and lessons learned from last PL season",
+    "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "summary": "",
+    "published": "Fri, 23 Oct 2026 09:20:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار إبسويتش: ديفيس في بداية رائعة والدروس المستفادة من موسم الدوري الإنجليزي الماضي",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار إبسويتش: ديفيس في بداية رائعة والدروس المستفادة من موسم الدوري الإنجليزي الماضي",
+    "post_text": "🚨 آخر أخبار إبسويتش: ديفيس في بداية رائعة والدروس المستفادة من موسم الدوري الإنجليزي الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086111160720861",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_إبسويتش_ديفيس_في_بداية_رائعة_والدروس_المستفادة_من_موسم_الدوري_الإنجليز.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A412PKWU4uPhCSVDwSzokes"
+    }
+  },
+  {
     "title": "Ballon d’Or 2026: All you need to know ahead of Monday’s ceremony in London",
     "url": "https://www.skysports.com/football/news/12040/13601899/ballon-dor-2026-date-time-voting-odds-favourites-all-time-winners-boat-explained-everything-you-need-to-know",
     "summary": "The 2026 Ballon d'Or ceremony takes place in London for the first time ever on Monday October 26 - here is everything you need to know ahead of the event&#8230;",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AtQ8spiFCKoz0zAJeynxKUm"
-    }
-  },
-  {
-    "title": "Colts fire GM Ballard after poor start to season",
-    "url": "https://www.skysports.com/nfl/news/12040/13600992/indianapolis-colts-fire-general-manager-chris-ballard-following-loss-to-tennessee-titans-that-extended-poor-start-to-nfl-season",
-    "summary": "The Indianapolis Colts have fired general manager Chris Ballard following the team's disappointing start to the 2026 NFL season.&#160;",
-    "published": "Mon, 19 Oct 2026 14:47:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-chris-ballard-indianapolis-colts_7380804.jpg?20261019150041",
-    "media_type": "image/jpg",
-    "arabic_title": "يقوم المهور بطرد GM Ballard بعد بداية الموسم السيئة",
-    "arabic_summary": "أقال فريق إنديانابوليس كولتس المدير العام كريس بالارد بعد بداية الفريق المخيبة للآمال لموسم 2026 NFL.",
-    "translation_status": "translated",
-    "post_title": "يقوم المهور بطرد GM Ballard بعد بداية الموسم السيئة",
-    "post_text": "🚨 يقوم المهور بطرد GM Ballard بعد بداية الموسم السيئة\n\n📝 أقال فريق إنديانابوليس كولتس المدير العام كريس بالارد بعد بداية الفريق المخيبة للآمال لموسم 2026 NFL.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082754704389840",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يقوم_المهور_بطرد_GM_Ballard_بعد_بداية_الموسم_السيئة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13600992/indianapolis-colts-fire-general-manager-chris-ballard-following-loss-to-tennessee-titans-that-extended-poor-start-to-nfl-season",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AA69SeA3TKLLN_JWd3pmMx7"
     }
   }
 ]
