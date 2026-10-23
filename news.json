@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cipenga, el desequilibrio que impulsa al líder",
+    "url": "https://www.marca.com/futbol/almeria/2026/10/23/cipenga-desequilibrio-impulsa-lider.html",
+    "summary": "El extremo congoleño lidera la Segunda en asistencias y participaciones de gol, confirmándose como uno de los grandes pilares del Almería",
+    "published": "Fri, 23 Oct 2026 06:46:36 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ada56d932763.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "Cipenga، الخلل الذي يدفع القائد",
+    "arabic_summary": "يتصدر الجناح الكونغولي دوري الدرجة الثانية من حيث التمريرات الحاسمة والمشاركة في الأهداف، مؤكدا نفسه كأحد أعمدة ألميريا العظيمة",
+    "translation_status": "translated",
+    "post_title": "Cipenga، الخلل الذي يدفع القائد",
+    "post_text": "🚨 Cipenga، الخلل الذي يدفع القائد\n\n📝 يتصدر الجناح الكونغولي دوري الدرجة الثانية من حيث التمريرات الحاسمة والمشاركة في الأهداف، مؤكدا نفسه كأحد أعمدة ألميريا العظيمة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086233904041920",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Cipenga،_الخلل_الذي_يدفع_القائد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/almeria/2026/10/23/cipenga-desequilibrio-impulsa-lider.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3OmUCsVu7GM6c400v0oPF7"
+    }
+  },
+  {
     "title": "Un aficionado compra una camiseta de Courtois en el Genk y el portero la recompra 16 años después: “Tenía muchas ganas de tenerla en su colección”",
     "url": "https://as.com/futbol/primera/un-aficionado-compra-una-camiseta-de-courtois-en-el-genk-y-el-portero-la-recompra-16-anos-despues-tenia-muchas-ganas-de-tenerla-en-su-coleccion-f202610-n/",
     "summary": "De comprar una camiseta en una subasta a intercambiarla con el portero belga y ser invitado al Bernabéu. La divertida anécdota de un aficionado del Genk con Courtois",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlgvkhoBD_ChjG93e9wSazy"
-    }
-  },
-  {
-    "title": "La polémica del Bernabéu: no había imágenes claras para que el VAR entrase",
-    "url": "https://as.com/futbol/primera/la-polemica-del-bernabeu-no-habia-imagenes-claras-para-que-el-var-entrase-f202610-n/",
-    "summary": "LaLiga niega las especulaciones sobre la falta de tomas en la retransmisión y apunta a que las cámaras estaban siguiendo el balón, no a Güler y Peque. Algo que se confirma con la versión del CTA.",
-    "published": "Mon, 19 Oct 2026 13:56:36 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "جدل البرنابيو: لم تكن هناك صور واضحة لدخول تقنية VAR",
-    "arabic_summary": "وتنفي رابطة الدوري الإسباني التكهنات حول عدم وجود تسديدات في البث، وتشير إلى أن الكاميرات كانت تتابع الكرة، وليس جولير وبيكيه. شيء تم تأكيده مع إصدار CTA.",
-    "translation_status": "translated",
-    "post_title": "جدل البرنابيو: لم تكن هناك صور واضحة لدخول تقنية VAR",
-    "post_text": "🚨 جدل البرنابيو: لم تكن هناك صور واضحة لدخول تقنية VAR\n\n📝 وتنفي رابطة الدوري الإسباني التكهنات حول عدم وجود تسديدات في البث، وتشير إلى أن الكاميرات كانت تتابع الكرة، وليس جولير وبيكيه. شيء تم تأكيده مع إصدار CTA.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082904817708162",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جدل_البرنابيو_لم_تكن_هناك_صور_واضحة_لدخول_تقنية_VAR.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AddesYbMJ7S_xQQXGvFEoAw"
     }
   }
 ]
