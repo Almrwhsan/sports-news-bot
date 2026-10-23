@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
+    "published": "Fri, 23 Oct 2026 06:06:38 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg",
+    "media_type": null,
+    "arabic_title": "الفخر والهيبة والملف الشخصي - حملة الكرة الذهبية الرائعة",
+    "arabic_summary": "تعد جائزة الكرة الذهبية أعظم جائزة فردية في كرة القدم - وقد زاد التعطش للفوز بها في السنوات الأخيرة.",
+    "translation_status": "translated",
+    "post_title": "الفخر والهيبة والملف الشخصي - حملة الكرة الذهبية الرائعة",
+    "post_text": "🚨 الفخر والهيبة والملف الشخصي - حملة الكرة الذهبية الرائعة\n\n📝 تعد جائزة الكرة الذهبية أعظم جائزة فردية في كرة القدم - وقد زاد التعطش للفوز بها في السنوات الأخيرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086025970729380",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفخر_والهيبة_والملف_الشخصي_-_حملة_الكرة_الذهبية_الرائعة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXHMpa1i4mxb4BHliY4W1bR"
+    }
+  },
+  {
     "title": "Tchouameni y el caso Valverde: “Hubo algo feo”",
     "url": "https://as.com/futbol/primera/tchouameni-y-el-caso-valverde-hubo-algo-feo-f202610-n/",
     "summary": "Tchouameni asegura que no se pegó con Valverde y que ahora la relación entre ambos es muy buena.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ao_mX7m06CvHzwvPUwbZr4H"
-    }
-  },
-  {
-    "title": "Simeone: “Oblak evoluciona muchísimo en la faceta de jugar con el pie”",
-    "url": "https://as.com/futbol/champions/simeone-oblak-evoluciona-muchisimo-en-la-faceta-de-jugar-con-el-pie-f202610-n/",
-    "summary": "El entrenador del Atlético indicó en rueda de prensa que “cuando termine la temporada veremos qué plantilla tenemos. Necesitamos a todos los jugadores, necesitamos frescura”.",
-    "published": "Mon, 19 Oct 2026 16:04:45 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BJXBC3SFPVOLNDV4UCSSH5OI3A.jpg?auth=b325e59d06ab02511c7ad74425471758d343443dd6dcc5a821444cde23ab8457",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيميوني: أوبلاك يتطور كثيرًا في جانب اللعب بقدمه",
-    "arabic_summary": "وأشار مدرب أتلتيكو في مؤتمر صحفي إلى أنه \"عندما ينتهي الموسم سنرى التشكيلة التي لدينا. نحن بحاجة إلى كل اللاعبين، نحتاج إلى النضارة\".",
-    "translation_status": "translated",
-    "post_title": "سيميوني: أوبلاك يتطور كثيرًا في جانب اللعب بقدمه",
-    "post_text": "🚨 سيميوني: أوبلاك يتطور كثيرًا في جانب اللعب بقدمه\n\n📝 وأشار مدرب أتلتيكو في مؤتمر صحفي إلى أنه \"عندما ينتهي الموسم سنرى التشكيلة التي لدينا. نحن بحاجة إلى كل اللاعبين، نحتاج إلى النضارة\".\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082703584394952",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_أوبلاك_يتطور_كثيرًا_في_جانب_اللعب_بقدمه.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/simeone-oblak-evoluciona-muchisimo-en-la-faceta-de-jugar-con-el-pie-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdqRAxQ2z7m8SLyYFbLwY0_"
     }
   }
 ]
