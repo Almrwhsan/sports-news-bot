@@ -1,5 +1,39 @@
 [
   {
+    "title": "Yan Diomandé: de la liga semiprofesional de Estados Unidos al Real Madrid en tres años",
+    "url": "https://as.com/us/fotorrelato/yan-diomande-de-la-liga-semiprofesional-de-estados-unidos-al-real-madrid-en-tres-anos-f202610-n/",
+    "summary": "Yan Diomandé pasó de la liga semiprofesional de Estados Unidos al Real Madrid en tres años y comenzó a destacar con goles, asistencias y un récord.",
+    "published": "Fri, 23 Oct 2026 03:22:14 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NI2ZIE2TLVBVDLH6FYKSVPY55E.png?auth=8b6ecbc36f57c1476f2a2b6c03a19e989f25e4d1fbf5cdb7b3d713e0b4778e52",
+    "media_type": "image/png",
+    "arabic_title": "يان ديوماندي: من الدوري الأمريكي شبه المحترف إلى ريال مدريد في ثلاث سنوات",
+    "arabic_summary": "انتقل يان ديوماندي من الدوري شبه الاحترافي في الولايات المتحدة إلى ريال مدريد في ثلاث سنوات وبدأ يبرز بأهدافه وتمريراته الحاسمة وسجله القياسي.",
+    "translation_status": "translated",
+    "post_title": "يان ديوماندي: من الدوري الأمريكي شبه المحترف إلى ريال مدريد في ثلاث سنوات",
+    "post_text": "🚨 يان ديوماندي: من الدوري الأمريكي شبه المحترف إلى ريال مدريد في ثلاث سنوات\n\n📝 انتقل يان ديوماندي من الدوري شبه الاحترافي في الولايات المتحدة إلى ريال مدريد في ثلاث سنوات وبدأ يبرز بأهدافه وتمريراته الحاسمة وسجله القياسي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085924307406213",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يان_ديوماندي_من_الدوري_الأمريكي_شبه_المحترف_إلى_ريال_مدريد_في_ثلاث_سنوات.png",
+    "image_type": "real",
+    "image_source": "https://as.com/us/fotorrelato/yan-diomande-de-la-liga-semiprofesional-de-estados-unidos-al-real-madrid-en-tres-anos-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwCoUz_Kh-vlIi60hq7j8mB"
+    }
+  },
+  {
     "title": "El ruido no cesa en torno a Nico",
     "url": "https://as.com/futbol/primera/el-ruido-no-cesa-en-torno-a-nico-f202610-n/",
     "summary": "La pubalgia, su fallida salida al Barcelona, las palabras de su representante... el extremo vive en medio de una vorágine.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AqFiVcTRl-pvkODFdcf8KMY"
-    }
-  },
-  {
-    "title": "España - México: horario y dónde ver hoy en TV el partido del Mundial sub17 femenino",
-    "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/10/19/espana-mexico-horario-ver-hoy-tv-partido-mundial-sub17-femenino.html",
-    "summary": "Los detalles del primer partido",
-    "published": "Mon, 19 Oct 2026 09:17:28 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad0a95a211bf.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إسبانيا - المكسيك: جدول ومكان مشاهدة مباراة كأس العالم للسيدات تحت 17 سنة على شاشة التلفزيون اليوم",
-    "arabic_summary": "تفاصيل المباراة الأولى",
-    "translation_status": "translated",
-    "post_title": "إسبانيا - المكسيك: جدول ومكان مشاهدة مباراة كأس العالم للسيدات تحت 17 سنة على شاشة التلفزيون اليوم",
-    "post_text": "🚨 إسبانيا - المكسيك: جدول ومكان مشاهدة مباراة كأس العالم للسيدات تحت 17 سنة على شاشة التلفزيون اليوم\n\n📝 تفاصيل المباراة الأولى\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082630681068909",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إسبانيا_-_المكسيك_جدول_ومكان_مشاهدة_مباراة_كأس_العالم_للسيدات_تحت_17_سنة_على_شاش.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/10/19/espana-mexico-horario-ver-hoy-tv-partido-mundial-sub17-femenino.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqMtIXguMrPa5byEnhptSFU"
     }
   }
 ]
