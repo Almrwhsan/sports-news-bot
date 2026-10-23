@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mahou San Miguel y el Real Madrid renuevan su alianza hasta 2033",
+    "url": "https://as.com/futbol/primera/mahou-san-miguel-y-el-real-madrid-renuevan-su-alianza-hasta-2033-f202610-n/",
+    "summary": "El acuerdo se extiende a nuevos mercados como Oriente Medio y África y categorías con Vamos by Mahou, la gama de bebidas de malta",
+    "published": "Fri, 23 Oct 2026 11:25:03 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YHZ7W4YO75CHRLD5TTML4ONA7A.jpg?auth=0677c614a50217d1e40234fa703522eee52cec40aa9c7adcf9fcd4d9418d5dfd",
+    "media_type": "image/jpeg",
+    "arabic_title": "ماهو سان ميغيل وريال مدريد يجددان تحالفهما حتى عام 2033",
+    "arabic_summary": "وتمتد الاتفاقية إلى أسواق جديدة مثل الشرق الأوسط وأفريقيا وفئات مع فاموس باي ماهو، مجموعة مشروبات الشعير",
+    "translation_status": "translated",
+    "post_title": "ماهو سان ميغيل وريال مدريد يجددان تحالفهما حتى عام 2033",
+    "post_text": "🚨 ماهو سان ميغيل وريال مدريد يجددان تحالفهما حتى عام 2033\n\n📝 وتمتد الاتفاقية إلى أسواق جديدة مثل الشرق الأوسط وأفريقيا وفئات مع فاموس باي ماهو، مجموعة مشروبات الشعير\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086648134000497",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماهو_سان_ميغيل_وريال_مدريد_يجددان_تحالفهما_حتى_عام_2033.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/mahou-san-miguel-y-el-real-madrid-renuevan-su-alianza-hasta-2033-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Alfg_6DA7fNlIrrICaP4AcC"
+    }
+  },
+  {
     "title": "When Carra met Chelsea boss Alonso",
     "url": "https://www.skysports.com/football/news/12040/13602758/xabi-alonso-chelsea-manager-sits-down-with-former-liverpool-team-mate-jamie-carragher-for-new-boss-youtube-series",
     "summary": "Sky Sports' Jamie Carragher sat down for a wide-ranging interview with Chelsea manager Xabi Alonso in which the pair discussed his appointment at Stamford Bridge and his aims for the season, as well as looking back at their time playing together at Liverpool.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzEoDoaswBTV-YFft96y2xE"
-    }
-  },
-  {
-    "title": "Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd",
-    "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-    "summary": "",
-    "published": "Tue, 20 Oct 2026 10:25:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-harry-kane-bayern-munich_7381347.jpg?20261020083359",
-    "media_type": "image/jpg",
-    "arabic_title": "مركز النقل المباشر! تين هاج يكشف عن خمسة لاعبين أرادهم في مانشستر يونايتد",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "مركز النقل المباشر! تين هاج يكشف عن خمسة لاعبين أرادهم في مانشستر يونايتد",
-    "post_text": "🚨 مركز النقل المباشر! تين هاج يكشف عن خمسة لاعبين أرادهم في مانشستر يونايتد\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083589277639716",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مركز_النقل_المباشر!_تين_هاج_يكشف_عن_خمسة_لاعبين_أرادهم_في_مانشستر_يونايتد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6c78CuivKg5WLaoScVyb3z"
     }
   }
 ]
