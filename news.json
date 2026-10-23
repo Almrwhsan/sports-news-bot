@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mourinho lo tiene claro: libertad para sus artistas",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/23/mourinho-claro-libertad-artistas.html",
+    "summary": "El técnico portugués potencia el talento individual dentro de un sistema ofensivo que firma cifras demoledoras y busca dar el golpe en el Clásico",
+    "published": "Fri, 23 Oct 2026 07:21:00 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9e9c503f80.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مورينيو واضح: الحرية لفنانيه",
+    "arabic_summary": "يعزز المدرب البرتغالي المواهب الفردية ضمن نظام هجومي يقدم أرقامًا مذهلة ويسعى إلى إحداث تأثير في الكلاسيكو",
+    "translation_status": "translated",
+    "post_title": "مورينيو واضح: الحرية لفنانيه",
+    "post_text": "🚨 مورينيو واضح: الحرية لفنانيه\n\n📝 يعزز المدرب البرتغالي المواهب الفردية ضمن نظام هجومي يقدم أرقامًا مذهلة ويسعى إلى إحداث تأثير في الكلاسيكو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086281597370484",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_واضح_الحرية_لفنانيه.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/23/mourinho-claro-libertad-artistas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvqA0Ow9_mRckEyXfjXlZQA"
+    }
+  },
+  {
     "title": "Giménez explica su salida del Atlético y reconoce que \"Julián Alvarez pasó un momento jodido\"",
     "url": "https://www.marca.com/futbol/deportivo/2026/10/23/gimenez-explica-salida-atletico-reconoce-julian-alvarez-paso-momento-jodido.html",
     "summary": "José María Giménez se enfrenta con el Deportivo al Atlético de Madrid tras pasar 13 años en el club colchonero",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APSiYzA5GA60rTTgvkq3uXO"
-    }
-  },
-  {
-    "title": "Cucho Hernández sufre una lesión en la zona del sóleo proximal izquierdo",
-    "url": "https://www.marca.com/futbol/betis/2026/10/19/cucho-hernandez-sufre-lesion-zona-soleo-proximal-izquierdo.html",
-    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
-    "published": "Mon, 19 Oct 2026 14:47:55 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa8623f7627d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعاني كوتشو هيرنانديز من إصابة في منطقة النعلية القريبة اليسرى",
-    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
-    "translation_status": "translated",
-    "post_title": "يعاني كوتشو هيرنانديز من إصابة في منطقة النعلية القريبة اليسرى",
-    "post_text": "🚨 يعاني كوتشو هيرنانديز من إصابة في منطقة النعلية القريبة اليسرى\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082965174368793",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعاني_كوتشو_هيرنانديز_من_إصابة_في_منطقة_النعلية_القريبة_اليسرى.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/10/19/cucho-hernandez-sufre-lesion-zona-soleo-proximal-izquierdo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AE6FDacortdk56p1JNStQnN"
     }
   }
 ]
