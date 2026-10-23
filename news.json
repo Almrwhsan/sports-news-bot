@@ -1,5 +1,39 @@
 [
   {
+    "title": "Enciso capitalises on Milenkovic error to level for Ipswich",
+    "url": "https://www.skysports.com/watch/video/13602860/goal-j-enciso-41-ipswich-1-1-nottm-forest",
+    "summary": "Julio Enciso capitalises on poor Nikola Milenkovic back-pass to get Ipswich Town level against Nottingham Forest.",
+    "published": "Fri, 23 Oct 2026 20:47:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-ipswich_7385041.jpg?20261023205435",
+    "media_type": "image/jpg",
+    "arabic_title": "يستغل إنسيسو خطأ ميلينكوفيتش ليعادل إيبسويتش",
+    "arabic_summary": "يستغل خوليو إنسيسو تمريرة نيكولا ميلينكوفيتش الضعيفة ليحقق هدف التعادل لإيبسويتش تاون أمام نوتنجهام فورست.",
+    "translation_status": "translated",
+    "post_title": "يستغل إنسيسو خطأ ميلينكوفيتش ليعادل إيبسويتش",
+    "post_text": "🚨 يستغل إنسيسو خطأ ميلينكوفيتش ليعادل إيبسويتش\n\n📝 يستغل خوليو إنسيسو تمريرة نيكولا ميلينكوفيتش الضعيفة ليحقق هدف التعادل لإيبسويتش تاون أمام نوتنجهام فورست.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086673997331244",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يستغل_إنسيسو_خطأ_ميلينكوفيتش_ليعادل_إيبسويتش.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13602860/goal-j-enciso-41-ipswich-1-1-nottm-forest",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALN6wN7hNpnyAZcYuox-JIb"
+    }
+  },
+  {
     "title": "Hugo Sánchez, a 50 años de su debut: “Mi padre dijo que sería el mejor futbolista en la historia de México”",
     "url": "https://mexico.as.com/futbol/hugo-sanchez-a-50-anos-de-su-debut-mi-padre-dijo-que-seria-el-mejor-futbolista-en-la-historia-de-mexico-f202610-n/",
     "summary": "El histórico goleador mexicano recuerda sus inicios en el fútbol, la influencia de sus padres en su formación y el vínculo que mantiene con Pumas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwKxAGgt6KlrLIwACG5Lacv"
-    }
-  },
-  {
-    "title": "Los 'arquitectos' de La Roja, cara a cara en París",
-    "url": "https://www.marca.com/futbol/barcelona/2026/10/20/arquitectos-roja-cara-cara-paris.html",
-    "summary": "Pedri y Rodri se enfrentan esta noche a Fabián",
-    "published": "Tue, 20 Oct 2026 06:33:47 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/19/6ad600eb95de9.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"المهندسون المعماريون\" في لاروخا وجهاً لوجه في باريس",
-    "arabic_summary": "بيدري ورودري سيواجهان فابيان الليلة",
-    "translation_status": "translated",
-    "post_title": "\"المهندسون المعماريون\" في لاروخا وجهاً لوجه في باريس",
-    "post_text": "🚨 \"المهندسون المعماريون\" في لاروخا وجهاً لوجه في باريس\n\n📝 بيدري ورودري سيواجهان فابيان الليلة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083613067637337",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المهندسون_المعماريون_في_لاروخا_وجهاً_لوجه_في_باريس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/20/arquitectos-roja-cara-cara-paris.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AV4TgQ3U64QtzYZHvgYMWGm"
     }
   }
 ]
