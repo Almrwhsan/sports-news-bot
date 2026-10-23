@@ -1,5 +1,39 @@
 [
   {
+    "title": "Etta Eyong: La \"piña\" del retorno",
+    "url": "https://www.marca.com/futbol/levante/2026/10/23/etta-eyong-pina-retorno.html",
+    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
+    "published": "Fri, 23 Oct 2026 11:17:12 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb259ccff2b.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إيتا إيونغ: \"أناناس\" العودة",
+    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
+    "translation_status": "translated",
+    "post_title": "إيتا إيونغ: \"أناناس\" العودة",
+    "post_text": "🚨 إيتا إيونغ: \"أناناس\" العودة\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086484160683561",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيتا_إيونغ_أناناس_العودة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/levante/2026/10/23/etta-eyong-pina-retorno.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQER6g4eEy0Y2WZS27hLmaK"
+    }
+  },
+  {
     "title": "Pablo Martínez, baja de última hora para el Málaga",
     "url": "https://www.marca.com/futbol/malaga/2026/10/23/pablo-martinez-baja-ultima-hora-malaga.html",
     "summary": "El centrocampista sufre una fascitis plantar",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "An_LtY0IipDhq7-1kjT7PXC"
-    }
-  },
-  {
-    "title": "Atlético, un inicio de campeonato",
-    "url": "https://as.com/futbol/primera/atletico-un-inicio-de-campeonato-f202610-n/",
-    "summary": "El equipo de Simeone lleva una puntuación similar a cuando fue campeón: dos puntos menos que en la 13-14 y uno que en la 20-21. Ha marcado 19 goles y encajado ocho. Han anotado nueve jugadores. Un buen arranque liguero, aunque el Barcelona está de récord.",
-    "published": "Mon, 19 Oct 2026 10:44:45 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LLK5M2RKOZLZ7GIKQW3IYANZIY.jpg?auth=8d199a41d171338b8e0096cb36cfcf6ac1a65f74da1b8d92b82f5e3195b0a87c",
-    "media_type": "image/jpeg",
-    "arabic_title": "أتلتيكو، بداية البطولة",
-    "arabic_summary": "يتمتع فريق سيميوني بنتيجة مماثلة لما كان عليه عندما كان بطلاً: نقطتان أقل من 13-14 وواحدة من 20-21. سجل 19 هدفا واستقبلت شباكه ثمانية أهداف. تسعة لاعبين سجلوا. بداية جيدة للدوري رغم أن برشلونة يسجل رقما قياسيا.",
-    "translation_status": "translated",
-    "post_title": "أتلتيكو، بداية البطولة",
-    "post_text": "🚨 أتلتيكو، بداية البطولة\n\n📝 يتمتع فريق سيميوني بنتيجة مماثلة لما كان عليه عندما كان بطلاً: نقطتان أقل من 13-14 وواحدة من 20-21. سجل 19 هدفا واستقبلت شباكه ثمانية أهداف. تسعة لاعبين سجلوا. بداية جيدة للدوري رغم أن برشلونة يسجل رقما قياسيا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083284861003491",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو،_بداية_البطولة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/atletico-un-inicio-de-campeonato-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AW3mBIZdDZjZJTWwL2LERy3"
     }
   }
 ]
