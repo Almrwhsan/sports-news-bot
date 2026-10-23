@@ -1,5 +1,39 @@
 [
   {
+    "title": "Clasificación de LaLiga EA Sports 2026/2027, en directo: jornada 10, ahora en vivo",
+    "url": "https://as.com/resultados/futbol/primera/clasificacion",
+    "summary": "Así marcha la tabla de Primera División, la lucha por el título, los puestos de Champions y Europa, el descenso...",
+    "published": "Fri, 23 Oct 2026 19:13:14 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TFPWEGH7GRATRCB66P5OJEBKRE.jpg?auth=eef9d78ae82d8d753c363fc2e473bd879bd7a157ef47e95ed5e6ec23bb6b4849",
+    "media_type": "image/jpeg",
+    "arabic_title": "تصنيف LaLiga EA Sports 2026/2027، مباشر: الجولة 10، مباشر الآن",
+    "arabic_summary": "هكذا تسير الأمور في جدول الدرجة الأولى، الصراع على اللقب، الأبطال والمراكز الأوروبية، الهبوط...",
+    "translation_status": "translated",
+    "post_title": "تصنيف LaLiga EA Sports 2026/2027، مباشر: الجولة 10، مباشر الآن",
+    "post_text": "🚨 تصنيف LaLiga EA Sports 2026/2027، مباشر: الجولة 10، مباشر الآن\n\n📝 هكذا تسير الأمور في جدول الدرجة الأولى، الصراع على اللقب، الأبطال والمراكز الأوروبية، الهبوط...\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086584934006817",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تصنيف_LaLiga_EA_Sports_20262027،_مباشر_الجولة_10،_مباشر_الآن.png",
+    "image_type": "real",
+    "image_source": "https://as.com/resultados/futbol/primera/clasificacion",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANTTngiBabn9KjtxJE6PTe2"
+    }
+  },
+  {
     "title": "Rodgers' magnificent obsession lands in Paris",
     "url": "https://www.skysports.com/nfl/news/12040/13602694/nfl-paris-2026-aaron-rodgers-and-his-magnificent-obsession-ready-for-more-nfl-history-in-final-season-of-storied-career",
     "summary": "A book on the shelf behind Aaron Rodgers is entitled 'A Magnificent Obsession', to which he sees the irony-meets-humour in relation to his own NFL love affair.&#160;",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4QqXE8VRMCV_BfrawyukeI"
-    }
-  },
-  {
-    "title": "El protagonista equivocado",
-    "url": "https://as.com/opinion/el-protagonista-equivocado-f202610-n/",
-    "summary": "A Diomande, que brilló, le recordó sus defectos y al ausente, Vinicius, su grandeza...",
-    "published": "Mon, 19 Oct 2026 23:48:56 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/26EU5PCJFJMPJPT3W5XHPW5BLY.jpg?auth=16118e16caede588594d1b35d120b8761ad3789918148d3c4842bcbed4bb7613",
-    "media_type": "image/jpeg",
-    "arabic_title": "بطل الرواية الخطأ",
-    "arabic_summary": "ديوماندي الذي تألق تذكر بعيوبه والغائب فينيسيوس بعظمته..",
-    "translation_status": "translated",
-    "post_title": "بطل الرواية الخطأ",
-    "post_text": "🚨 بطل الرواية الخطأ\n\n📝 ديوماندي الذي تألق تذكر بعيوبه والغائب فينيسيوس بعظمته..\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083415740990403",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطل_الرواية_الخطأ.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/el-protagonista-equivocado-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ACYg_z9D2XYOb02Km5gHanW"
     }
   }
 ]
