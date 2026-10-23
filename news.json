@@ -1,5 +1,39 @@
 [
   {
+    "title": "A secret invite and other 'pinch-me' moments before Leicester woke up",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
+    "published": "Fri, 07 Aug 2026 12:41:51 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/f49263e0-901a-11f1-b8ee-9b3c26ad07bb.jpg",
+    "media_type": null,
+    "arabic_title": "دعوة سرية ولحظات أخرى قبل أن يستيقظ ليستر",
+    "arabic_summary": "يستعد ليستر لدوري الدرجة الأولى ولكن قبل 10 سنوات كانوا يدافعون عن لقب الدوري الإنجليزي الممتاز. لحظات الحلم لم تُنسى.",
+    "translation_status": "translated",
+    "post_title": "دعوة سرية ولحظات أخرى قبل أن يستيقظ ليستر",
+    "post_text": "🚨 دعوة سرية ولحظات أخرى قبل أن يستيقظ ليستر\n\n📝 يستعد ليستر لدوري الدرجة الأولى ولكن قبل 10 سنوات كانوا يدافعون عن لقب الدوري الإنجليزي الممتاز. لحظات الحلم لم تُنسى.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086366757361968",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دعوة_سرية_ولحظات_أخرى_قبل_أن_يستيقظ_ليستر.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqNb7KAHqL36QDmk9Go6alf"
+    }
+  },
+  {
     "title": "Van Gaal: \"Cualquiera puede jugar la Champions. La UEFA sólo piensa en el dinero, es un mundo corrupto\"",
     "url": "https://www.marca.com/futbol/champions-league/2026/10/23/gaal-cualquiera-jugar-champions-uefa-piensa-dinero-mundo-corrupto.html",
     "summary": "Louis van Gaal recomienda cambiar el sistema de competición y copiar al hockey sobre hielo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5CHOhk-PcEkRaMWLmT4Zds"
-    }
-  },
-  {
-    "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
-    "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-    "summary": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-    "published": "Fri, 04 Sep 2026 09:31:21 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc7e/live/695b4a80-a70d-11f1-adb7-ad73f5f76a76.jpg",
-    "media_type": null,
-    "arabic_title": "73 هدفًا من العمق - نطلب من كين أن يشرح لنا كيف فعل ذلك",
-    "arabic_summary": "كان هاري كين أفضل هداف في أوروبا الموسم الماضي، لكنه يلعب كلاعب خط وسط. نطلب منه أن يكسر لعبته.",
-    "translation_status": "translated",
-    "post_title": "73 هدفًا من العمق - نطلب من كين أن يشرح لنا كيف فعل ذلك",
-    "post_text": "🚨 73 هدفًا من العمق - نطلب من كين أن يشرح لنا كيف فعل ذلك\n\n📝 كان هاري كين أفضل هداف في أوروبا الموسم الماضي، لكنه يلعب كلاعب خط وسط. نطلب منه أن يكسر لعبته.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083212704344040",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/73_هدفًا_من_العمق_-_نطلب_من_كين_أن_يشرح_لنا_كيف_فعل_ذلك.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtV12HQBSUYUWOjY7bCf_yX"
     }
   }
 ]
