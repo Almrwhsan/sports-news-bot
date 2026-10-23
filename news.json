@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un aficionado compra una camiseta de Courtois en el Genk y el portero la recompra 16 años después: “Tenía muchas ganas de tenerla en su colección”",
+    "url": "https://as.com/futbol/primera/un-aficionado-compra-una-camiseta-de-courtois-en-el-genk-y-el-portero-la-recompra-16-anos-despues-tenia-muchas-ganas-de-tenerla-en-su-coleccion-f202610-n/",
+    "summary": "De comprar una camiseta en una subasta a intercambiarla con el portero belga y ser invitado al Bernabéu. La divertida anécdota de un aficionado del Genk con Courtois",
+    "published": "Fri, 23 Oct 2026 11:12:56 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/V3376QWSXVFVBAIXIUJYOHELUE.jpg?auth=95b59b6ca0f1a2a0032f935c8483e0b1dcf4f59d212f3cd774d218fa4c0cf620",
+    "media_type": "image/jpeg",
+    "arabic_title": "أحد المشجعين يشتري قميص كورتوا من جينك ويشتريه حارس المرمى مرة أخرى بعد 16 عامًا: \"لقد أراد حقًا ضمه إلى مجموعته\"",
+    "arabic_summary": "من شراء قميص في مزاد إلى تبادله مع حارس المرمى البلجيكي والدعوة إلى البرنابيو. الحكاية المضحكة لمشجع جينك مع كورتوا",
+    "translation_status": "translated",
+    "post_title": "أحد المشجعين يشتري قميص كورتوا من جينك ويشتريه حارس المرمى مرة أخرى بعد 16 عامًا: \"لقد أراد حقًا ضمه إلى مجموعته\"",
+    "post_text": "🚨 أحد المشجعين يشتري قميص كورتوا من جينك ويشتريه حارس المرمى مرة أخرى بعد 16 عامًا: \"لقد أراد حقًا ضمه إلى مجموعته\"\n\n📝 من شراء قميص في مزاد إلى تبادله مع حارس المرمى البلجيكي والدعوة إلى البرنابيو. الحكاية المضحكة لمشجع جينك مع كورتوا\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086226390709338",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أحد_المشجعين_يشتري_قميص_كورتوا_من_جينك_ويشتريه_حارس_المرمى_مرة_أخرى_بعد_16_عامًا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/un-aficionado-compra-una-camiseta-de-courtois-en-el-genk-y-el-portero-la-recompra-16-anos-despues-tenia-muchas-ganas-de-tenerla-en-su-coleccion-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHIqe-MU5_1bPookdgI9KYN"
+    }
+  },
+  {
     "title": "Coming soon: Sir David Attenborough's next great ocean journey",
     "url": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
     "summary": "Every wave has a story. Experience the stories waiting beneath the surface",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AddesYbMJ7S_xQQXGvFEoAw"
-    }
-  },
-  {
-    "title": "“Jugar de lateral derecho no es un problema...”",
-    "url": "https://as.com/futbol/champions/jugar-de-lateral-derecho-no-es-un-problema-f202610-n/",
-    "summary": "Araújo compareció ante los medios antes de la visita del Villarreal a Anfield, en la que tendrá que volver al costado de la zaga: “Obviamente me siento más cómodo de central”.",
-    "published": "Mon, 19 Oct 2026 14:36:24 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VUR4VZKONFMXHPRGICXFWUWN4A.jpg?auth=68527b26e648d391bc92837de47de43b806ea85aebdd5b352d7ac5b7544fc8be",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"اللعب في مركز الظهير الأيمن ليس مشكلة...\"",
-    "arabic_summary": "ظهر أراوخو أمام وسائل الإعلام قبل زيارة فياريال إلى آنفيلد، حيث سيتعين عليه العودة إلى الجانب الدفاعي: \"من الواضح أنني أشعر براحة أكبر كقلب دفاع\".",
-    "translation_status": "translated",
-    "post_title": "\"اللعب في مركز الظهير الأيمن ليس مشكلة...\"",
-    "post_text": "🚨 \"اللعب في مركز الظهير الأيمن ليس مشكلة...\"\n\n📝 ظهر أراوخو أمام وسائل الإعلام قبل زيارة فياريال إلى آنفيلد، حيث سيتعين عليه العودة إلى الجانب الدفاعي: \"من الواضح أنني أشعر براحة أكبر كقلب دفاع\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082904944374816",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اللعب_في_مركز_الظهير_الأيمن_ليس_مشكلة....png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/jugar-de-lateral-derecho-no-es-un-problema-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AODbH5cd_HLxAx-rHp1H4nB"
     }
   }
 ]
