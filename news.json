@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kompany taken to hospital after collapsing at Bayern's training ground",
+    "url": "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground",
+    "summary": "Vincent Kompany was taken to hospital after collapsing at Bayern Munich's training ground on Friday.",
+    "published": "Fri, 23 Oct 2026 16:57:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-vincent-kompany_7384819.jpg?20261023173822",
+    "media_type": "image/jpg",
+    "arabic_title": "ونقل كومباني إلى المستشفى بعد سقوطه في ملعب تدريب بايرن",
+    "arabic_summary": "نُقل فينسنت كومباني إلى المستشفى بعد سقوطه في ملعب تدريب بايرن ميونخ يوم الجمعة.",
+    "translation_status": "translated",
+    "post_title": "ونقل كومباني إلى المستشفى بعد سقوطه في ملعب تدريب بايرن",
+    "post_text": "🚨 ونقل كومباني إلى المستشفى بعد سقوطه في ملعب تدريب بايرن\n\n📝 نُقل فينسنت كومباني إلى المستشفى بعد سقوطه في ملعب تدريب بايرن ميونخ يوم الجمعة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086565844008726",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ونقل_كومباني_إلى_المستشفى_بعد_سقوطه_في_ملعب_تدريب_بايرن.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AP4EBWE5onLjdmh1YemqN3e"
+    }
+  },
+  {
     "title": "El 'zasca' incompleto de Juan Manuel a Darino: \"Soy respetuoso con todos... aunque hayan jugado poco\"",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/23/zasca-incompleto-juan-manuel-darino-respetuoso-todos-hayan-jugado-poco.html",
     "summary": "El exjugador argentino se había mostrado crítico por la decisión del club respecto al banquillo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ad1wE640rYAGmQ-csGIIssG"
-    }
-  },
-  {
-    "title": "El Betis alerta a su afición: Dortmund, en juego por posibles sanciones",
-    "url": "https://www.marca.com/futbol/betis/2026/10/19/betis-alerta-aficion-dortmund-juego-posibles-sanciones.html",
-    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
-    "published": "Mon, 19 Oct 2026 21:12:43 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/19/6ad667e53be28.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيتيس ينبه جماهيره: دورتموند على المحك بسبب العقوبات المحتملة",
-    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
-    "translation_status": "translated",
-    "post_title": "بيتيس ينبه جماهيره: دورتموند على المحك بسبب العقوبات المحتملة",
-    "post_text": "🚨 بيتيس ينبه جماهيره: دورتموند على المحك بسبب العقوبات المحتملة\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083408827657761",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيتيس_ينبه_جماهيره_دورتموند_على_المحك_بسبب_العقوبات_المحتملة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/10/19/betis-alerta-aficion-dortmund-juego-posibles-sanciones.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHqhifsjeyQ6BZkg1uj0dSd"
     }
   }
 ]
