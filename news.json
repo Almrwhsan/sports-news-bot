@@ -1,5 +1,39 @@
 [
   {
+    "title": "La tentación de Mourinho",
+    "url": "https://as.com/opinion/la-tentacion-de-mourinho-f202610-n/",
+    "summary": "Sería un error volver a construir el equipo pensando antes en cómo frenar al rival que en cómo hacerle daño.",
+    "published": "Fri, 23 Oct 2026 00:00:27 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LLCVT7SWTFG6PHEUEBCWG4EFTM.jpg?auth=357d3bf81482ad8dcfdeff64e68f37e7bb29020960cc7e23e369ebe025dd3423",
+    "media_type": "image/jpeg",
+    "arabic_title": "إغراء مورينيو",
+    "arabic_summary": "سيكون من الخطأ إعادة بناء الفريق بالتفكير في كيفية إيقاف الخصم بدلاً من التفكير في كيفية إيذائه.",
+    "translation_status": "translated",
+    "post_title": "إغراء مورينيو",
+    "post_text": "🚨 إغراء مورينيو\n\n📝 سيكون من الخطأ إعادة بناء الفريق بالتفكير في كيفية إيقاف الخصم بدلاً من التفكير في كيفية إيذائه.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1085808264084484",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إغراء_مورينيو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/la-tentacion-de-mourinho-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOovi4CAli7XX5pxKcOqa4D"
+    }
+  },
+  {
     "title": "La familia Soriano regresa al Metropolitano",
     "url": "https://as.com/futbol/primera/la-familia-soriano-regresa-al-metropolitano-f202610-n/",
     "summary": "Mario y su hermano Daniel fueron jugadores del Atleti en categorías inferiores. Toda su familia es colchonera. El mayor de los Soriano repasa para AS la trayectoria del Joker, del que es nutricionista, hasta llegar a Primera con el Deportivo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5X20Ey1cECuHRL6zKZyEPZ"
-    }
-  },
-  {
-    "title": "Un pozo sin fondo",
-    "url": "https://as.com/futbol/segunda/un-pozo-sin-fondo-f202610-n/",
-    "summary": "Los problemas defensivos de Las Palmas no tienen fin. Apila, en este momento del curso, la segunda peor cifra de goles encajados de su historia en Segunda.",
-    "published": "Mon, 19 Oct 2026 10:07:33 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/HGOJUCKCURCZVF344FCQ5ETXJ4.jpg?auth=b9ed64e02f3b264261ff737c925448c1a18aae79b7d222aa25de156f349f97f1",
-    "media_type": "image/jpeg",
-    "arabic_title": "حفرة بلا قاع",
-    "arabic_summary": "مشاكل لاس بالماس الدفاعية ليس لها نهاية. في هذه المرحلة من الموسم، لديهم ثاني أسوأ عدد من الأهداف التي استقبلتها شباكهم في تاريخهم في دوري الدرجة الثانية.",
-    "translation_status": "translated",
-    "post_title": "حفرة بلا قاع",
-    "post_text": "🚨 حفرة بلا قاع\n\n📝 مشاكل لاس بالماس الدفاعية ليس لها نهاية. في هذه المرحلة من الموسم، لديهم ثاني أسوأ عدد من الأهداف التي استقبلتها شباكهم في تاريخهم في دوري الدرجة الثانية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1082602911071686",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حفرة_بلا_قاع.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/segunda/un-pozo-sin-fondo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Af25Xek1KyYct5ametbIyYo"
     }
   }
 ]
