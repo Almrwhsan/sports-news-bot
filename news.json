@@ -1,5 +1,39 @@
 [
   {
+    "title": "Brunt OG puts Boro three to the good against Bolton",
+    "url": "https://www.skysports.com/watch/video/13602861/bolton-vs-middlesbrough-lewis-brunts-own-goal-extends-boltons-deficit-to-three-against-middlesbrough",
+    "summary": "Lewis Brunt scores an own goal that takes them three goals down against Middlesbrough in the Championship.",
+    "published": "Fri, 23 Oct 2026 20:49:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-football-efl_7385043.jpg?20261023205746",
+    "media_type": "image/jpg",
+    "arabic_title": "Brunt OG يضع Boro ثلاثة في صالح بولتون",
+    "arabic_summary": "سجل لويس برنت هدفًا في مرماه ليتأخر بثلاثة أهداف أمام ميدلسبره في البطولة.",
+    "translation_status": "translated",
+    "post_title": "Brunt OG يضع Boro ثلاثة في صالح بولتون",
+    "post_text": "🚨 Brunt OG يضع Boro ثلاثة في صالح بولتون\n\n📝 سجل لويس برنت هدفًا في مرماه ليتأخر بثلاثة أهداف أمام ميدلسبره في البطولة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086676443997666",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Brunt_OG_يضع_Boro_ثلاثة_في_صالح_بولتون.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13602861/bolton-vs-middlesbrough-lewis-brunts-own-goal-extends-boltons-deficit-to-three-against-middlesbrough",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHElg1BS9SqHicUwKvtm3zz"
+    }
+  },
+  {
     "title": "Enciso capitalises on Milenkovic error to level for Ipswich",
     "url": "https://www.skysports.com/watch/video/13602860/goal-j-enciso-41-ipswich-1-1-nottm-forest",
     "summary": "Julio Enciso capitalises on poor Nikola Milenkovic back-pass to get Ipswich Town level against Nottingham Forest.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkaafeCe4g7QEyl20scTbuh"
-    }
-  },
-  {
-    "title": "Al Getafe le sabe a oro",
-    "url": "https://www.marca.com/futbol/primera-division/cronica/2026/10/19/getafe-le-oro.html",
-    "summary": "En un ejercicio de supervivencia, se sobrepone al gol de Álvaro García y a la expulsión de Djené en el minuto 28 y empata con un tanto de Satriano. Carvajal se estrenó de azulón",
-    "published": "Mon, 19 Oct 2026 22:57:48 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/19/210331.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "خيتافي طعمه مثل الذهب",
-    "arabic_summary": "وفي تمرين البقاء تغلب على هدف ألفارو جارسيا وطرد جينيه في الدقيقة 28 وتعادل بهدف من ساتريانو. ظهر كارفاخال لأول مرة باللون الأزرق",
-    "translation_status": "translated",
-    "post_title": "خيتافي طعمه مثل الذهب",
-    "post_text": "🚨 خيتافي طعمه مثل الذهب\n\n📝 وفي تمرين البقاء تغلب على هدف ألفارو جارسيا وطرد جينيه في الدقيقة 28 وتعادل بهدف من ساتريانو. ظهر كارفاخال لأول مرة باللون الأزرق\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083612967637347",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خيتافي_طعمه_مثل_الذهب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/cronica/2026/10/19/getafe-le-oro.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwKxAGgt6KlrLIwACG5Lacv"
     }
   }
 ]
