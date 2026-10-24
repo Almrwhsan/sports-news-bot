@@ -1,5 +1,39 @@
 [
   {
+    "title": "Duelo de agencias por el dominio en Primera División",
+    "url": "https://as.com/futbol/primera/duelo-de-agencias-por-el-dominio-en-primera-division-f202610-n/",
+    "summary": "En el top 10 hay cinco corporaciones nacionales y otras tantas internacionales. Manda la española Gersh con 32 futbolistas. En el Madrid prima la representación familiar y Mendes lleva a cuatro azulgranas, entre ellos Lamine Yamal.",
+    "published": "Sat, 24 Oct 2026 00:17:35 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7IFLCHEUXVCK3GILXVIH32T6T4.JPG?auth=f6d797b7c1f3029364d5bab4a4071af89aab21178eed169dd7d002c059856126",
+    "media_type": "image/jpeg",
+    "arabic_title": "وكالات تتنافس على الهيمنة في القسم الأول",
+    "arabic_summary": "يوجد في المراكز العشرة الأولى خمس شركات وطنية والعديد من الشركات الدولية. ويتولى الإسباني غيرش المسؤولية مع 32 لاعباً. في مدريد، يسود التمثيل العائلي، ويأتي مينديز بأربعة لاعبين من برشلونة، من بينهم لامين يامال.",
+    "translation_status": "translated",
+    "post_title": "وكالات تتنافس على الهيمنة في القسم الأول",
+    "post_text": "🚨 وكالات تتنافس على الهيمنة في القسم الأول\n\n📝 يوجد في المراكز العشرة الأولى خمس شركات وطنية والعديد من الشركات الدولية. ويتولى الإسباني غيرش المسؤولية مع 32 لاعباً. في مدريد، يسود التمثيل العائلي، ويأتي مينديز بأربعة لاعبين من برشلونة، من بينهم لامين يامال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087095443955766",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وكالات_تتنافس_على_الهيمنة_في_القسم_الأول.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/duelo-de-agencias-por-el-dominio-en-primera-division-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AY1yXiBqgFPsl7E2FF9ea6a"
+    }
+  },
+  {
     "title": "Manolo González: “No tengo la percepción de que me juegue el cargo”",
     "url": "https://www.marca.com/futbol/espanyol/2026/10/23/manolo-gonzalez-percepcion-me-juegue-cargo.html",
     "summary": "El técnico perico contentaba de forma contundente a las dudas en relación a su futuro y un posible ‘match ball’",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Alpg1t99pSWRrLENw4Lrj4O"
-    }
-  },
-  {
-    "title": "Los campeones de la Youth: dos traspasos, un héroe en apuros y ninguno con Mourinho",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/20/campeones-youth-dos-traspasos-heroe-apuros-ninguno-mourinho.html",
-    "summary": "Se cumplen seis meses del título europeo conquistado por el juvenil del Real Madrid",
-    "published": "Tue, 20 Oct 2026 13:59:14 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7366aeb8e8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أبطال الشباب: انتقالان، بطل في ورطة ولا شيء مع مورينيو",
-    "arabic_summary": "ستة أشهر مرت على فوز فريق ريال مدريد للشباب باللقب الأوروبي",
-    "translation_status": "translated",
-    "post_title": "أبطال الشباب: انتقالان، بطل في ورطة ولا شيء مع مورينيو",
-    "post_text": "🚨 أبطال الشباب: انتقالان، بطل في ورطة ولا شيء مع مورينيو\n\n📝 ستة أشهر مرت على فوز فريق ريال مدريد للشباب باللقب الأوروبي\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083763530955624",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أبطال_الشباب_انتقالان،_بطل_في_ورطة_ولا_شيء_مع_مورينيو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/20/campeones-youth-dos-traspasos-heroe-apuros-ninguno-mourinho.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQ1d8q3lQjFoichzJvof5-d"
     }
   }
 ]
