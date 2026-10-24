@@ -1,5 +1,39 @@
 [
   {
+    "title": "Burnley sack head coach Hayen with 26-word statement",
+    "url": "https://www.skysports.com/football/news/12040/13603332/burnley-nicky-hayen-sacked-after-thrashing-at-lincoln-with-clarets-in-championship-relegation-zone",
+    "summary": "Burnley have sacked head coach Nicky Hayen.&#160;",
+    "published": "Sat, 24 Oct 2026 19:18:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-nicky-hayen-burnley_7386041.jpg?20261024190403",
+    "media_type": "image/jpg",
+    "arabic_title": "بيرنلي يقيل مدربه هاين ببيان من 26 كلمة",
+    "arabic_summary": "بيرنلي يقيل مدربه نيكي هاين.",
+    "translation_status": "translated",
+    "post_title": "بيرنلي يقيل مدربه هاين ببيان من 26 كلمة",
+    "post_text": "🚨 بيرنلي يقيل مدربه هاين ببيان من 26 كلمة\n\n📝 بيرنلي يقيل مدربه نيكي هاين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087584323906878",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيرنلي_يقيل_مدربه_هاين_ببيان_من_26_كلمة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13603332/burnley-nicky-hayen-sacked-after-thrashing-at-lincoln-with-clarets-in-championship-relegation-zone",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArTB4hO26xOBwKi11-hhxiq"
+    }
+  },
+  {
     "title": "Pellegrini: \"Antony tiene exceso de ansiedad, pero los goles llegarán\"",
     "url": "https://www.marca.com/futbol/betis/2026/10/24/pellegrini-antony-exceso-ansiedad-goles-llegaran.html",
     "summary": "El técnico del Betis comparece en la previa de la visita a Balaídos este domingo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcVYSVtcB3T6aaI8QuN5HPQ"
-    }
-  },
-  {
-    "title": "Vandevoordt, el 'florecer' del primer heredero de Courtois: \"Cualquier comparación es imposible\"",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/21/vandevoordt-florecer-primer-heredero-courtois-comparacion-imposible.html",
-    "summary": "El portero del Leipzig, ex del Genk, convivió con las comparaciones con Thibaut desde niños",
-    "published": "Wed, 21 Oct 2026 06:44:52 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7808375a0b.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فانديفوردت، الوريث الأول لكورتوا: \"أي مقارنة مستحيلة\"",
-    "arabic_summary": "وعاش حارس مرمى لايبزيج، السابق لفريق جينك، مقارنات مع تيبو منذ الطفولة",
-    "translation_status": "translated",
-    "post_title": "فانديفوردت، الوريث الأول لكورتوا: \"أي مقارنة مستحيلة\"",
-    "post_text": "🚨 فانديفوردت، الوريث الأول لكورتوا: \"أي مقارنة مستحيلة\"\n\n📝 وعاش حارس مرمى لايبزيج، السابق لفريق جينك، مقارنات مع تيبو منذ الطفولة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084523320879645",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فانديفوردت،_الوريث_الأول_لكورتوا_أي_مقارنة_مستحيلة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/21/vandevoordt-florecer-primer-heredero-courtois-comparacion-imposible.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQXPSTzX6X6MJefV3iBin-p"
     }
   }
 ]
