@@ -1,5 +1,39 @@
 [
   {
+    "title": "Güler, donde sea pero que juegue",
+    "url": "https://as.com/opinion/guler-donde-sea-pero-que-juegue-f202610-n/",
+    "summary": "El turco ha saltado con limpieza todas las vallas que ha encontrado por el camino y los correspondientes debates sobre su preferible ubicación.",
+    "published": "Fri, 23 Oct 2026 12:12:26 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BCJRYIJ7TZO2DOX4YTCUMGJWL4.jpg?auth=06008433d7f545f266595e4bcc366c34e24db67630c818c23ff7ca27f0afacd3",
+    "media_type": "image/jpeg",
+    "arabic_title": "جولر، أينما كان ولكن دعه يلعب",
+    "arabic_summary": "لقد تخطى التركي جميع العقبات التي واجهها على طول الطريق والمناقشات المقابلة حول موقعه المفضل.",
+    "translation_status": "translated",
+    "post_title": "جولر، أينما كان ولكن دعه يلعب",
+    "post_text": "🚨 جولر، أينما كان ولكن دعه يلعب\n\n📝 لقد تخطى التركي جميع العقبات التي واجهها على طول الطريق والمناقشات المقابلة حول موقعه المفضل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086747967323847",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جولر،_أينما_كان_ولكن_دعه_يلعب.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/guler-donde-sea-pero-que-juegue-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5d6nFMQkT4YG8Zy1szj7eC"
+    }
+  },
+  {
     "title": "Lankshear at the double as Middlesbrough thump Bolton to go top",
     "url": "https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/report/560631",
     "summary": "Middlesbrough moved to the Sky Bet Championship summit in emphatic fashion by thumping Bolton 5-1 at the Toughsheet Community Stadium.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANWQs2cPNka6QQZZVIATP-d"
-    }
-  },
-  {
-    "title": "Horner explains the reasons behind why he left Red Bull",
-    "url": "https://www.skysports.com/watch/video/13601318/christian-horner-explains-the-reasons-behind-why-he-left-red-bull",
-    "summary": "Christian Horner explains the reasons behind why he left Red Bull Racing.",
-    "published": "Tue, 20 Oct 2026 12:36:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-horner-red-bull_7381610.jpg?20261020124535",
-    "media_type": "image/jpg",
-    "arabic_title": "يشرح هورنر الأسباب وراء مغادرته ريد بُل",
-    "arabic_summary": "يشرح كريستيان هورنر الأسباب وراء تركه لفريق ريد بول ريسينغ.",
-    "translation_status": "translated",
-    "post_title": "يشرح هورنر الأسباب وراء مغادرته ريد بُل",
-    "post_text": "🚨 يشرح هورنر الأسباب وراء مغادرته ريد بُل\n\n📝 يشرح كريستيان هورنر الأسباب وراء تركه لفريق ريد بول ريسينغ.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083640067634637",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يشرح_هورنر_الأسباب_وراء_مغادرته_ريد_بُل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13601318/christian-horner-explains-the-reasons-behind-why-he-left-red-bull",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AigrMC49DdxSHApS8IrYdsi"
     }
   }
 ]
