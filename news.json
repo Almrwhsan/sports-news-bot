@@ -1,5 +1,39 @@
 [
   {
+    "title": "Así preparan Real Madrid y Barcelona el Clásico",
+    "url": "https://as.com/futbol/fotorrelato/asi-preparan-real-madrid-y-barcelona-el-clasico-f202610-f/",
+    "summary": "Los dos gigantes del fútbol español afinan su puesta a punto antes de enfrentarse en el primer gran duelo de la temporada.",
+    "published": "Sat, 24 Oct 2026 11:28:34 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/L4KUNJH2DFIWVBBT24MROYXJAA.jpg?auth=dce63ce039f5ff3a2e75ee9aad6adf00519f300038af775fecf1962c0c8bf46a",
+    "media_type": "image/jpeg",
+    "arabic_title": "هكذا يستعد ريال مدريد وبرشلونة للكلاسيكو",
+    "arabic_summary": "قام عملاقا كرة القدم الإسبانية بتعديل أسلوبهما قبل مواجهة بعضهما البعض في أول مبارزة كبيرة هذا الموسم.",
+    "translation_status": "translated",
+    "post_title": "هكذا يستعد ريال مدريد وبرشلونة للكلاسيكو",
+    "post_text": "🚨 هكذا يستعد ريال مدريد وبرشلونة للكلاسيكو\n\n📝 قام عملاقا كرة القدم الإسبانية بتعديل أسلوبهما قبل مواجهة بعضهما البعض في أول مبارزة كبيرة هذا الموسم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087417667256877",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هكذا_يستعد_ريال_مدريد_وبرشلونة_للكلاسيكو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/fotorrelato/asi-preparan-real-madrid-y-barcelona-el-clasico-f202610-f/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0sYxbCmRAXXaKtRhWgnE7F"
+    }
+  },
+  {
     "title": "Iqbal gets first goal as Dundee United edge Aberdeen in thriller",
     "url": "https://www.skysports.com/football/dundee-united-vs-aberdeen/report/558387",
     "summary": "Dundee United came out on top in a dramatic five-goal thriller to edge Aberdeen 3-2 at Tannadice in the Scottish Premiership.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ApZn0xuPO9B8unefg14MMVH"
-    }
-  },
-  {
-    "title": "'He's difficult to stop' - Ngumoha stars in Liverpool comeback win",
-    "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
-    "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season&#8217;s Champions League.",
-    "published": "Wed, 21 Oct 2026 07:14:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "champions_league",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-rio-ngumoha-alexis-mac-allister_7382245.jpg?20261020220125",
-    "media_type": "image/jpg",
-    "arabic_title": "\"من الصعب إيقافه\" - نجوم نجوموها في فوز ليفربول في العودة",
-    "arabic_summary": "عاد ليفربول من تأخره بهدفين ليهزم فياريال 4-3 على ملعب أنفيلد ويحقق ثلاثة انتصارات من ثلاثة في دوري أبطال أوروبا هذا الموسم.",
-    "translation_status": "translated",
-    "post_title": "\"من الصعب إيقافه\" - نجوم نجوموها في فوز ليفربول في العودة",
-    "post_text": "🚨 \"من الصعب إيقافه\" - نجوم نجوموها في فوز ليفربول في العودة\n\n📝 عاد ليفربول من تأخره بهدفين ليهزم فياريال 4-3 على ملعب أنفيلد ويحقق ثلاثة انتصارات من ثلاثة في دوري أبطال أوروبا هذا الموسم.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084372700894707",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_الصعب_إيقافه_-_نجوم_نجوموها_في_فوز_ليفربول_في_العودة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjiVv0YkPzB7aed8upaTiwe"
     }
   }
 ]
