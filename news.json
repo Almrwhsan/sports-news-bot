@@ -1,5 +1,39 @@
 [
   {
+    "title": "Enzo Alves, el nueve que viene",
+    "url": "https://as.com/futbol/primera/enzo-alves-el-nueve-que-viene-f202610-n/",
+    "summary": "El hijo de Marcelo fue titular en la Youth y marcó. Un proyecto de delantero que sigue cumpliendo pasos con vistas al primer equipo.",
+    "published": "Fri, 23 Oct 2026 12:42:04 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261021/1228101_143901_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "إنزو ألفيس، التسعة المقبلة",
+    "arabic_summary": "كان نجل مارسيلو أساسياً مع الشباب وسجل. مشروع للأمام يواصل استكمال الخطوات بهدف الفريق الأول.",
+    "translation_status": "translated",
+    "post_title": "إنزو ألفيس، التسعة المقبلة",
+    "post_text": "🚨 إنزو ألفيس، التسعة المقبلة\n\n📝 كان نجل مارسيلو أساسياً مع الشباب وسجل. مشروع للأمام يواصل استكمال الخطوات بهدف الفريق الأول.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086753650656612",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنزو_ألفيس،_التسعة_المقبلة.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIM_kaLbIbAu7PZrUm08-IW"
+    }
+  },
+  {
     "title": "Güler, donde sea pero que juegue",
     "url": "https://as.com/opinion/guler-donde-sea-pero-que-juegue-f202610-n/",
     "summary": "El turco ha saltado con limpieza todas las vallas que ha encontrado por el camino y los correspondientes debates sobre su preferible ubicación.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARUxZxQAYjZITf0xQizjRNZ"
-    }
-  },
-  {
-    "title": "Valverde convence y se convence",
-    "url": "https://as.com/futbol/primera/valverde-convence-y-se-convence-f202610-n/",
-    "summary": "Sobresaliente partido en el lateral: seis recuperaciones, cinco duelos ganados y 90% en pases. Con el tiempo, él mismo se está abriendo a jugar más abierto. Debate para el Clásico.",
-    "published": "Tue, 20 Oct 2026 07:49:29 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261020/1227432_082115_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "فالفيردي يقنع ويقتنع",
-    "arabic_summary": "مباراة رائعة على الجانب الآخر: ستة استعادات، الفوز في خمس ثنائيات، و90% في التمريرات. وبمرور الوقت، ينفتح على اللعب بشكل أكثر انفتاحًا. النقاش حول الكلاسيكو.",
-    "translation_status": "translated",
-    "post_title": "فالفيردي يقنع ويقتنع",
-    "post_text": "🚨 فالفيردي يقنع ويقتنع\n\n📝 مباراة رائعة على الجانب الآخر: ستة استعادات، الفوز في خمس ثنائيات، و90% في التمريرات. وبمرور الوقت، ينفتح على اللعب بشكل أكثر انفتاحًا. النقاش حول الكلاسيكو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083639940967983",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالفيردي_يقنع_ويقتنع.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANWQs2cPNka6QQZZVIATP-d"
     }
   }
 ]
