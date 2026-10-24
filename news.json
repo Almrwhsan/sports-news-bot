@@ -1,5 +1,39 @@
 [
   {
+    "title": "England suffer 15-try defeat against rampant Australia",
+    "url": "https://www.skysports.com/rugby-league/australia-vs-england/report/64300",
+    "summary": "England were outclassed in a 78-0 defeat to defending champions Australia but remain in with a chance of reaching the Rugby League World Cup semi-finals.",
+    "published": "Sat, 24 Oct 2026 11:09:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-australia_7385401.jpg?20261024112551",
+    "media_type": "image/jpg",
+    "arabic_title": "إنجلترا تعاني من هزيمة 15 محاولة أمام أستراليا المتفشية",
+    "arabic_summary": "تم التفوق على إنجلترا في هزيمة 78-0 أمام حامل اللقب أستراليا لكنها لا تزال تتمتع بفرصة الوصول إلى نصف نهائي كأس العالم لدوري الرجبي.",
+    "translation_status": "translated",
+    "post_title": "إنجلترا تعاني من هزيمة 15 محاولة أمام أستراليا المتفشية",
+    "post_text": "🚨 إنجلترا تعاني من هزيمة 15 محاولة أمام أستراليا المتفشية\n\n📝 تم التفوق على إنجلترا في هزيمة 78-0 أمام حامل اللقب أستراليا لكنها لا تزال تتمتع بفرصة الوصول إلى نصف نهائي كأس العالم لدوري الرجبي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087239563941354",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تعاني_من_هزيمة_15_محاولة_أمام_أستراليا_المتفشية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/australia-vs-england/report/64300",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AblyUuCS8GBIsOuKwT4INmH"
+    }
+  },
+  {
     "title": "La buena racha de Jensen amplía la espantosa del Valencia",
     "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/cronica/2026/10/23/buena-racha-jensen-amplia-espantosa-valencia.html",
     "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AP3FrVKbGcK6SLgSm_3-T-Y"
-    }
-  },
-  {
-    "title": "Olmo, roto",
-    "url": "https://as.com/futbol/champions/olmo-enciende-las-alarmas-f202610-n/",
-    "summary": "El internacional se retiró del campo abatido tras lesionarse en el aductor. Las primeras sensaciones son negativas, hablando de una rotura.",
-    "published": "Tue, 20 Oct 2026 19:34:10 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261020/1227774_195619_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "أولمو، بحيرة",
-    "arabic_summary": "غادر اللاعب الدولي الملعب مكتئبًا بعد إصابته في العضلة المقربة. الأحاسيس الأولى سلبية وتتحدث عن استراحة.",
-    "translation_status": "translated",
-    "post_title": "أولمو، بحيرة",
-    "post_text": "🚨 أولمو، بحيرة\n\n📝 غادر اللاعب الدولي الملعب مكتئبًا بعد إصابته في العضلة المقربة. الأحاسيس الأولى سلبية وتتحدث عن استراحة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083933420938635",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أولمو،_بحيرة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdhqqAVfw_VBOB3RbO8rnIr"
     }
   }
 ]
