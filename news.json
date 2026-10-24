@@ -1,5 +1,39 @@
 [
   {
+    "title": "EFL preview: 'Sleepless nights' for under pressure bosses",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6r7ymev78edo?at_medium=RSS&at_campaign=rss",
+    "summary": "Norwich City head coach Philippe Clement, Sheffield Wednesday manager Henrik Pedersen and Bristol Rovers boss Steve Evans face scrutiny.",
+    "published": "Fri, 23 Oct 2026 07:15:27 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d571/live/bf51def0-ce08-11f1-a64c-550be9e3c66b.png",
+    "media_type": null,
+    "arabic_title": "معاينة EFL: \"ليالي بلا نوم\" للرؤساء تحت الضغط",
+    "arabic_summary": "ويواجه فيليب كليمنت المدير الفني لنورويتش سيتي، وهنريك بيدرسن مدرب شيفيلد وينزداي، وستيف إيفانز مدرب بريستول روفرز، تدقيقًا.",
+    "translation_status": "translated",
+    "post_title": "معاينة EFL: \"ليالي بلا نوم\" للرؤساء تحت الضغط",
+    "post_text": "🚨 معاينة EFL: \"ليالي بلا نوم\" للرؤساء تحت الضغط\n\n📝 ويواجه فيليب كليمنت المدير الفني لنورويتش سيتي، وهنريك بيدرسن مدرب شيفيلد وينزداي، وستيف إيفانز مدرب بريستول روفرز، تدقيقًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086997190632258",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/معاينة_EFL_ليالي_بلا_نوم_للرؤساء_تحت_الضغط.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c6r7ymev78edo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ag0q7oBW_oY2H6aicODqNzQ"
+    }
+  },
+  {
     "title": "A qué hora es el Granada - Real Valladolid: horario, dónde ver en TV y canal del partido de LaLiga Hypermotion",
     "url": "https://www.marca.com/futbol/segunda-division/2026/10/23/granada-real-valladolid-horario-donde-ver-tv-canal-partido-laliga-hypermotion.html",
     "summary": "Se enfrentan en el Nuevo Los Cármenes en el partido correspondiente a la jornada 11",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AH9A3EHhhzwwIT4yZW97uaZ"
-    }
-  },
-  {
-    "title": "Horner: Wolff and Mercedes finding life easier without me",
-    "url": "https://www.skysports.com/f1/news/12040/13601257/christian-horner-says-toto-wolff-and-mercedes-are-finding-life-easier-without-him-in-formula-1",
-    "summary": "Christian Horner says Mercedes and Toto Wolff are finding life in Formula 1 \"easier\" without the former Red Bull team principal.",
-    "published": "Tue, 20 Oct 2026 15:20:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/22/03/1920x1080/skysports-toto-wolff-christian-horner_5714564.jpg?20220321184852",
-    "media_type": "image/jpg",
-    "arabic_title": "هورنر: وولف ومرسيدس يجدان الحياة أسهل بدوني",
-    "arabic_summary": "يقول كريستيان هورنر إن مرسيدس وتوتو وولف يجدان الحياة في الفورمولا 1 \"أسهل\" بدون مدير فريق ريد بول السابق.",
-    "translation_status": "translated",
-    "post_title": "هورنر: وولف ومرسيدس يجدان الحياة أسهل بدوني",
-    "post_text": "🚨 هورنر: وولف ومرسيدس يجدان الحياة أسهل بدوني\n\n📝 يقول كريستيان هورنر إن مرسيدس وتوتو وولف يجدان الحياة في الفورمولا 1 \"أسهل\" بدون مدير فريق ريد بول السابق.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083681414297169",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هورنر_وولف_ومرسيدس_يجدان_الحياة_أسهل_بدوني.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13601257/christian-horner-says-toto-wolff-and-mercedes-are-finding-life-easier-without-him-in-formula-1",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbNlsmJ6AI4DbyluGX2sEq_"
     }
   }
 ]
