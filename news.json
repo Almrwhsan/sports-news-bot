@@ -1,5 +1,39 @@
 [
   {
+    "title": "Man City behind at Villa, but pushing for an equaliser LIVE!",
+    "url": "https://www.skysports.com/football/aston-villa-vs-manchester-city/live/559515",
+    "summary": "",
+    "published": "Sat, 24 Oct 2026 11:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-nicolas-jackson-aston-villa_7385448.jpg?20261024124423",
+    "media_type": "image/jpg",
+    "arabic_title": "مانشستر سيتي متأخر عن ملعب فيلا، لكنه يسعى لتحقيق التعادل في بث مباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "مانشستر سيتي متأخر عن ملعب فيلا، لكنه يسعى لتحقيق التعادل في بث مباشر!",
+    "post_text": "🚨 مانشستر سيتي متأخر عن ملعب فيلا، لكنه يسعى لتحقيق التعادل في بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087208143944496",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانشستر_سيتي_متأخر_عن_ملعب_فيلا،_لكنه_يسعى_لتحقيق_التعادل_في_بث_مباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/aston-villa-vs-manchester-city/live/559515",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUclZB4oJCuqiIOfkXYm8zR"
+    }
+  },
+  {
     "title": "Carrión, ante su estreno en Butarque: “Quiero un equipo ganador y que sea reconocible”",
     "url": "https://www.marca.com/futbol/leganes/2026/10/23/carrion-estreno-butarque-quiero-equipo-ganador-sea-reconocible.html",
     "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKgf6gaxct_McQvSxFKvMBF"
-    }
-  },
-  {
-    "title": "¿Por qué juega el Barça con la equipación de la temporada pasada contra el PSG en Champions?",
-    "url": "https://as.com/futbol/champions/por-que-juega-el-barca-con-la-equipacion-de-la-temporada-pasada-contra-el-psg-f202610-n/",
-    "summary": "El conjunto azulgrana viste de naranja en el Parque de los Príncipes pese a ser la camiseta de la temporada pasada",
-    "published": "Tue, 20 Oct 2026 19:21:41 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6K3INIRI6JLLHMO7UOIAPSBZRI.jpg?auth=623a48bf4768b9773923140ab073ecef44382cf0641f5d34f62eb6a755380d6a",
-    "media_type": "image/jpeg",
-    "arabic_title": "لماذا يلعب برشلونة بقميص الموسم الماضي ضد باريس سان جيرمان في دوري أبطال أوروبا؟",
-    "arabic_summary": "يرتدي فريق برشلونة اللون البرتقالي في ملعب Parque de los Príncipes على الرغم من أنه قميص الموسم الماضي.",
-    "translation_status": "translated",
-    "post_title": "لماذا يلعب برشلونة بقميص الموسم الماضي ضد باريس سان جيرمان في دوري أبطال أوروبا؟",
-    "post_text": "🚨 لماذا يلعب برشلونة بقميص الموسم الماضي ضد باريس سان جيرمان في دوري أبطال أوروبا؟\n\n📝 يرتدي فريق برشلونة اللون البرتقالي في ملعب Parque de los Príncipes على الرغم من أنه قميص الموسم الماضي.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083874820944495",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لماذا_يلعب_برشلونة_بقميص_الموسم_الماضي_ضد_باريس_سان_جيرمان_في_دوري_أبطال_أوروبا؟.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/por-que-juega-el-barca-con-la-equipacion-de-la-temporada-pasada-contra-el-psg-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2qleRy-x1w89zwhTaAGiIY"
     }
   }
 ]
