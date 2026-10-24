@@ -1,5 +1,39 @@
 [
   {
+    "title": "England crush France to remain in hunt for World Cup semi-final spot",
+    "url": "https://www.skysports.com/rugby-league/england-vs-france/report/64274",
+    "summary": "England kept alive their faint hopes of reaching the Rugby League World Cup semi-finals with an 82-0 trouncing of France.",
+    "published": "Sat, 24 Oct 2026 07:17:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-rugby-league-herbie-farnworth_7385344.jpg?20261024092951",
+    "media_type": "image/jpg",
+    "arabic_title": "إنجلترا تسحق فرنسا لتظل تبحث عن مكان في نصف نهائي كأس العالم",
+    "arabic_summary": "حافظت إنجلترا على آمالها الضعيفة في الوصول إلى نصف نهائي كأس العالم لدوري الرجبي بفوزها على فرنسا 82-0.",
+    "translation_status": "translated",
+    "post_title": "إنجلترا تسحق فرنسا لتظل تبحث عن مكان في نصف نهائي كأس العالم",
+    "post_text": "🚨 إنجلترا تسحق فرنسا لتظل تبحث عن مكان في نصف نهائي كأس العالم\n\n📝 حافظت إنجلترا على آمالها الضعيفة في الوصول إلى نصف نهائي كأس العالم لدوري الرجبي بفوزها على فرنسا 82-0.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087189163946394",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تسحق_فرنسا_لتظل_تبحث_عن_مكان_في_نصف_نهائي_كأس_العالم.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/england-vs-france/report/64274",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4Pcc1eg4mze1-PhwtD1N1k"
+    }
+  },
+  {
     "title": "La solidaridad en el Clásico",
     "url": "https://as.com/futbol/primera/la-solidaridad-en-el-clasico-f202610-n/",
     "summary": "Cristiano Ronaldo, Lionel Messi y Neymar se encuentran entre los nombres que han desarrollado iniciativas en este ámbito, junto con brasileños como Endrick, Luís Henrique y Gabriel Jesus.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1383gZt6rZbEVC9S6x7ULz"
-    }
-  },
-  {
-    "title": "Everton legend Ferguson returns to management in Irish League",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
-    "summary": "Ex-Everton and Rangers striker Duncan Ferguson is named as the new manager of Irish Premiership club Glentoran.",
-    "published": "Mon, 19 Oct 2026 10:06:10 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaac/live/3a3a1250-cba6-11f1-9ee2-f74dfb8e54e5.jpg",
-    "media_type": null,
-    "arabic_title": "يعود أسطورة إيفرتون فيرجسون إلى تدريب الدوري الأيرلندي",
-    "arabic_summary": "تم تعيين مهاجم إيفرتون ورينجرز السابق دونكان فيرجسون مدربًا جديدًا لنادي جلينتوران الذي يلعب في الدوري الأيرلندي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "يعود أسطورة إيفرتون فيرجسون إلى تدريب الدوري الأيرلندي",
-    "post_text": "🚨 يعود أسطورة إيفرتون فيرجسون إلى تدريب الدوري الأيرلندي\n\n📝 تم تعيين مهاجم إيفرتون ورينجرز السابق دونكان فيرجسون مدربًا جديدًا لنادي جلينتوران الذي يلعب في الدوري الأيرلندي الممتاز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083859264279384",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_أسطورة_إيفرتون_فيرجسون_إلى_تدريب_الدوري_الأيرلندي.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYs1uh77oyIxsU3tfloBT2U"
     }
   }
 ]
