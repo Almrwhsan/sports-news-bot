@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress",
+    "url": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
+    "summary": "",
+    "published": "Sat, 24 Oct 2026 17:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-hits-misses-spurs_7386111.jpg?20261024195750",
+    "media_type": "image/jpg",
+    "arabic_title": "الضربات والإخفاقات: فريق دي زيربي المتكامل وإيمري \"العبقري\" يثيران الإعجاب",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "الضربات والإخفاقات: فريق دي زيربي المتكامل وإيمري \"العبقري\" يثيران الإعجاب",
+    "post_text": "🚨 الضربات والإخفاقات: فريق دي زيربي المتكامل وإيمري \"العبقري\" يثيران الإعجاب\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087575873907723",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الضربات_والإخفاقات_فريق_دي_زيربي_المتكامل_وإيمري_العبقري_يثيران_الإعجاب.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "At8DSHUl7oRn4q3rk2H-Ohy"
+    }
+  },
+  {
     "title": "Knicks employees to get NBA championship rings after phishing email 'mistake'",
     "url": "https://www.skysports.com/nba/news/12040/13603315/new-york-knicks-employees-to-get-nba-championship-rings-after-admitting-to-phishing-email-mistake",
     "summary": "The New York Knicks have sought to clear up what they've labelled \"misinformation\" regarding the awarding of their NBA championship rings after employees received a phishing email posing as an opportunity to claim one.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3Z5aqDm23pFUTsz-0-XY8X"
-    }
-  },
-  {
-    "title": "Nosotros o el caos",
-    "url": "https://www.marca.com/futbol/primera-division/opinion/2026/10/21/nosotros-caos.html",
-    "summary": "Sobran los motivos, por Alberto R. Barbero",
-    "published": "Wed, 21 Oct 2026 06:27:37 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad782d7d9957.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "نحن أو الفوضى",
-    "arabic_summary": "هناك الكثير من الأسباب، بقلم ألبرتو ر. باربيرو",
-    "translation_status": "translated",
-    "post_title": "نحن أو الفوضى",
-    "post_text": "🚨 نحن أو الفوضى\n\n📝 هناك الكثير من الأسباب، بقلم ألبرتو ر. باربيرو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084519677546676",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نحن_أو_الفوضى.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/opinion/2026/10/21/nosotros-caos.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdPXYWy_EhhW4LDRL5-5xbh"
     }
   }
 ]
