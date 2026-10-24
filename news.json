@@ -1,5 +1,39 @@
 [
   {
+    "title": "Gudjohnsen double steers Blackburn past Wrexham",
+    "url": "https://www.skysports.com/football/blackburn-rovers-vs-wrexham/report/560630",
+    "summary": "Andri Gudjohnsen's second brace in a week earned Blackburn a clinical 2-0 win over Wrexham.",
+    "published": "Sat, 24 Oct 2026 17:15:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-blackburn-rovers_7385786.jpg?20261024163721",
+    "media_type": "image/jpg",
+    "arabic_title": "جوديونسن يوجه بلاكبيرن ضربة مزدوجة لريكسهام",
+    "arabic_summary": "ثنائية أندري جوديونسن الثانية في أسبوع منحت بلاكبيرن الفوز بنتيجة 2-0 على ريكسهام.",
+    "translation_status": "translated",
+    "post_title": "جوديونسن يوجه بلاكبيرن ضربة مزدوجة لريكسهام",
+    "post_text": "🚨 جوديونسن يوجه بلاكبيرن ضربة مزدوجة لريكسهام\n\n📝 ثنائية أندري جوديونسن الثانية في أسبوع منحت بلاكبيرن الفوز بنتيجة 2-0 على ريكسهام.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087481337250510",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوديونسن_يوجه_بلاكبيرن_ضربة_مزدوجة_لريكسهام.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/blackburn-rovers-vs-wrexham/report/560630",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfRSAfzGz5Lfz2QrivypAx4"
+    }
+  },
+  {
     "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
     "url": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss",
     "summary": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAp51pS9VutXpbj_9BymKgs"
-    }
-  },
-  {
-    "title": "Nusa: el puñal que sí continuó en el Leipzig",
-    "url": "https://as.com/opinion/nusa-el-punal-que-si-continuo-en-el-leipzig-f202610-n/",
-    "summary": "El noruego es la gran figura de un equipo al que ha vuelto Nkunku. Demichelis fue la sorprendente elección del club para sustituir a un Ole Werner que había logrado un meritorio tercer puesto en la Bundesliga...",
-    "published": "Wed, 21 Oct 2026 00:05:32 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "bundesliga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4DDU4RRWRNHLTNIMIRSTULBIFY.JPG?auth=9b4d41e61ebf4c9c8b29b02dcfa202eac5cb6e0504411a37965bcb8172f6ca6f",
-    "media_type": "image/jpeg",
-    "arabic_title": "نوسا: الخنجر الذي استمر في لايبزيغ",
-    "arabic_summary": "النرويجي هو الشخصية العظيمة للفريق الذي عاد إليه نكونكو. كان ديميكليس هو الاختيار المفاجئ للنادي ليحل محل أولي فيرنر الذي حقق المركز الثالث في الدوري الألماني...",
-    "translation_status": "translated",
-    "post_title": "نوسا: الخنجر الذي استمر في لايبزيغ",
-    "post_text": "🚨 نوسا: الخنجر الذي استمر في لايبزيغ\n\n📝 النرويجي هو الشخصية العظيمة للفريق الذي عاد إليه نكونكو. كان ديميكليس هو الاختيار المفاجئ للنادي ليحل محل أولي فيرنر الذي حقق المركز الثالث في الدوري الألماني...\n\n🏷️ الدوري الألماني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084410134224297",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نوسا_الخنجر_الذي_استمر_في_لايبزيغ.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/nusa-el-punal-que-si-continuo-en-el-leipzig-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ALcyIEm2kp2ImsY_1oTB-D_"
     }
   }
 ]
