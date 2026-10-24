@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pellegrini: \"Antony tiene exceso de ansiedad, pero los goles llegarán\"",
+    "url": "https://www.marca.com/futbol/betis/2026/10/24/pellegrini-antony-exceso-ansiedad-goles-llegaran.html",
+    "summary": "El técnico del Betis comparece en la previa de la visita a Balaídos este domingo",
+    "published": "Sat, 24 Oct 2026 14:12:07 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/16/6aaa68a9e83cb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بيليجريني: أنتوني لديه قلق زائد لكن الأهداف ستأتي",
+    "arabic_summary": "يظهر مدرب بيتيس قبل زيارة بالايدوس ​​يوم الأحد",
+    "translation_status": "translated",
+    "post_title": "بيليجريني: أنتوني لديه قلق زائد لكن الأهداف ستأتي",
+    "post_text": "🚨 بيليجريني: أنتوني لديه قلق زائد لكن الأهداف ستأتي\n\n📝 يظهر مدرب بيتيس قبل زيارة بالايدوس ​​يوم الأحد\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087581213907189",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيليجريني_أنتوني_لديه_قلق_زائد_لكن_الأهداف_ستأتي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/10/24/pellegrini-antony-exceso-ansiedad-goles-llegaran.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASd9dKJEQXdZWgDIRvH3Cb2"
+    }
+  },
+  {
     "title": "Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress",
     "url": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQXPSTzX6X6MJefV3iBin-p"
-    }
-  },
-  {
-    "title": "Real Madrid - RB Leipzig: Vini busca brillar antes del apagón",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/21/real-madrid-rb-leipzig-vini-busca-brillar-apagon.html",
-    "summary": "Sancionado en Liga hasta finales de noviembre, el brasileño afronta ante el Leipzig su última ventana para reivindicarse antes de desaparecer dos semanas",
-    "published": "Wed, 21 Oct 2026 06:45:08 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad77632bcb90.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ريال مدريد - لايبزج: فيني يسعى للتألق قبل انقطاع التيار الكهربائي",
-    "arabic_summary": "عقوبة في الدوري حتى نهاية نوفمبر، البرازيلي يواجه لايبزيج في نافذته الأخيرة لتبرئة نفسه قبل أن يختفي لمدة أسبوعين",
-    "translation_status": "translated",
-    "post_title": "ريال مدريد - لايبزج: فيني يسعى للتألق قبل انقطاع التيار الكهربائي",
-    "post_text": "🚨 ريال مدريد - لايبزج: فيني يسعى للتألق قبل انقطاع التيار الكهربائي\n\n📝 عقوبة في الدوري حتى نهاية نوفمبر، البرازيلي يواجه لايبزيج في نافذته الأخيرة لتبرئة نفسه قبل أن يختفي لمدة أسبوعين\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084523454212965",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_-_لايبزج_فيني_يسعى_للتألق_قبل_انقطاع_التيار_الكهربائي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/21/real-madrid-rb-leipzig-vini-busca-brillar-apagon.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A3Z5aqDm23pFUTsz-0-XY8X"
     }
   }
 ]
