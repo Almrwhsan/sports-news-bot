@@ -1,5 +1,39 @@
 [
   {
+    "title": "Fulham denied penalty despite shirt pull as VAR check clears Coventry LIVE!",
+    "url": "https://www.skysports.com/football/coventry-city-vs-fulham/live/559517",
+    "summary": "",
+    "published": "Sat, 24 Oct 2026 13:30:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-brandon-thomas-asante_7385670.jpg?20261024152038",
+    "media_type": "image/jpg",
+    "arabic_title": "حُرم فولهام من ركلة جزاء على الرغم من سحب القميص بينما مسح حكم الفيديو المساعد كوفنتري لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "حُرم فولهام من ركلة جزاء على الرغم من سحب القميص بينما مسح حكم الفيديو المساعد كوفنتري لايف!",
+    "post_text": "🚨 حُرم فولهام من ركلة جزاء على الرغم من سحب القميص بينما مسح حكم الفيديو المساعد كوفنتري لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087343157264328",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حُرم_فولهام_من_ركلة_جزاء_على_الرغم_من_سحب_القميص_بينما_مسح_حكم_الفيديو_المساعد_ك.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/coventry-city-vs-fulham/live/559517",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANDJ9UA1IUJBn49DSNOujrR"
+    }
+  },
+  {
     "title": "El Clásico entró en otra dimensión hace 30 años",
     "url": "https://as.com/futbol/primera/el-clasico-entro-en-otra-dimension-hace-30-anos-f202610-n/",
     "summary": "En 1996, Barça y Madrid empezaron una ‘carrera espacial’ gracias a la Ley Bosman y los nuevos contratos de TV",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADJL9ybn1NdMPc3eeUCp9qr"
-    }
-  },
-  {
-    "title": "Who is Tobi Lawal? The UK's newest NBA star EXPLAINED!",
-    "url": "https://www.skysports.com/watch/video/13601329/tobi-lawal-the-uks-newest-nba-star",
-    "summary": "Sky Sports explains who the Tobi Lawal is and why he might light up the NBA world.",
-    "published": "Tue, 20 Oct 2026 15:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-nba-thumb_7381740.jpg?20261020144112",
-    "media_type": "image/jpg",
-    "arabic_title": "من هو توبي لاوال؟ وأوضح أحدث نجم الدوري الاميركي للمحترفين في المملكة المتحدة!",
-    "arabic_summary": "تشرح قناة سكاي سبورتس من هو توبي لاوال ولماذا قد يضيء عالم الدوري الاميركي للمحترفين.",
-    "translation_status": "translated",
-    "post_title": "من هو توبي لاوال؟ وأوضح أحدث نجم الدوري الاميركي للمحترفين في المملكة المتحدة!",
-    "post_text": "🚨 من هو توبي لاوال؟ وأوضح أحدث نجم الدوري الاميركي للمحترفين في المملكة المتحدة!\n\n📝 تشرح قناة سكاي سبورتس من هو توبي لاوال ولماذا قد يضيء عالم الدوري الاميركي للمحترفين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084185464246764",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_هو_توبي_لاوال؟_وأوضح_أحدث_نجم_الدوري_الاميركي_للمحترفين_في_المملكة_المتحدة!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13601329/tobi-lawal-the-uks-newest-nba-star",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVmZP4QqGQm3uv8rBc7JFvM"
     }
   }
 ]
