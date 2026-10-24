@@ -1,5 +1,39 @@
 [
   {
+    "title": "La amenaza fantasma",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/23/amenaza-fantasma.html",
+    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
+    "published": "Fri, 23 Oct 2026 15:28:08 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb5ee0439ee.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "التهديد الوهمي",
+    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "التهديد الوهمي",
+    "post_text": "🚨 التهديد الوهمي\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087017893963521",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التهديد_الوهمي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/23/amenaza-fantasma.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9H7ClLqhYS-Ow7Il7-T0cW"
+    }
+  },
+  {
     "title": "¿Qué jugador del Barça ficharían los aficionados del Real Madrid? Ojo, va a sorprender",
     "url": "https://as.com/futbol/videos/el-jugador-del-barca-que-ficharia-la-aficion-del-real-madrid-para-su-xi-va-a-sorprender-f202610-v/",
     "summary": "Preguntamos a los aficionados del Real Madrid por el jugador del Barcelona que ficharían para el XI de Mourinho en el Clásico.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArAXXlR5PEoYB3xvfon9hYY"
-    }
-  },
-  {
-    "title": "Pleno del Betis como local contra rivales neerlandeses",
-    "url": "https://www.marca.com/futbol/betis/2026/10/20/pleno-betis-local-rivales-neerlandeses.html",
-    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
-    "published": "Tue, 20 Oct 2026 12:49:23 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/01/30/RjyZ714g.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جلسة عامة لبيتيس على أرضه ضد غريمه الهولندي",
-    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
-    "translation_status": "translated",
-    "post_title": "جلسة عامة لبيتيس على أرضه ضد غريمه الهولندي",
-    "post_text": "🚨 جلسة عامة لبيتيس على أرضه ضد غريمه الهولندي\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083688630963114",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جلسة_عامة_لبيتيس_على_أرضه_ضد_غريمه_الهولندي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/10/20/pleno-betis-local-rivales-neerlandeses.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMV48PTpRm_KhN_RhicgAgX"
     }
   }
 ]
