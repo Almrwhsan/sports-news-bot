@@ -1,5 +1,39 @@
 [
   {
+    "title": "St Mirren 2-1 Dundee",
+    "url": "https://www.skysports.com/watch/video/13603367/st-mirren-2-1-dundee-scottish-premiership-highlights",
+    "summary": "Highlights from the Scottish Premiership match between St Mirren and Dundee.",
+    "published": "Sat, 24 Oct 2026 20:29:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/bd7b8d1ac199df6f7d46c92dfec0f502462796bc79ea6fb72090ea33b2161014_7386158.jpg?20261024203811",
+    "media_type": "image/jpg",
+    "arabic_title": "سانت ميرين 2-1 دندي",
+    "arabic_summary": "لقطات من مباراة الدوري الاسكتلندي الممتاز بين سانت ميرين ودندي.",
+    "translation_status": "translated",
+    "post_title": "سانت ميرين 2-1 دندي",
+    "post_text": "🚨 سانت ميرين 2-1 دندي\n\n📝 لقطات من مباراة الدوري الاسكتلندي الممتاز بين سانت ميرين ودندي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087592973906013",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سانت_ميرين_2-1_دندي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13603367/st-mirren-2-1-dundee-scottish-premiership-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjsKE1DUaHTbSC_9v6wkGpl"
+    }
+  },
+  {
     "title": "Spurs earn deserved win at Chelsea after Penders error and Palmer red",
     "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516",
     "summary": "Chelsea goalkeeper Mike Penders punched the ball into his own net before Mathys Tel struck a wonderful second to give Tottenham a rare but deserved 2-0 victory at Stamford Bridge in which Cole Palmer was sent off.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ah0XZGFrEvUANqF24Ssv86N"
-    }
-  },
-  {
-    "title": "¡Por donde entró! El golazo de Lamine Yamal ante Paris Saints Germain desde otra toma",
-    "url": "https://as.com/us/videos/por-donde-entro-el-golazo-de-lamine-yamal-ante-paris-saints-germain-desde-otra-toma-f202610-v/",
-    "summary": "Las gradas presenciaron el gran gol del español ante el PSG, haciendo una jugada que parecía perdida terminando en el fondo de las redes de los parisinos.",
-    "published": "Wed, 21 Oct 2026 01:03:07 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261021/1227849_005957_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "أين وصلت؟ هدف لامين يامال الرائع في مرمى باريس سان جيرمان من تسديدة أخرى",
-    "arabic_summary": "وشهدت المدرجات الهدف الرائع الذي سجله الإسباني في مرمى باريس سان جيرمان، حيث لعب مباراة بدت خاسرة وانتهت في الشباك الخلفية للباريسيين.",
-    "translation_status": "translated",
-    "post_title": "أين وصلت؟ هدف لامين يامال الرائع في مرمى باريس سان جيرمان من تسديدة أخرى",
-    "post_text": "🚨 أين وصلت؟ هدف لامين يامال الرائع في مرمى باريس سان جيرمان من تسديدة أخرى\n\n📝 وشهدت المدرجات الهدف الرائع الذي سجله الإسباني في مرمى باريس سان جيرمان، حيث لعب مباراة بدت خاسرة وانتهت في الشباك الخلفية للباريسيين.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084532324212078",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أين_وصلت؟_هدف_لامين_يامال_الرائع_في_مرمى_باريس_سان_جيرمان_من_تسديدة_أخرى.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASsMRDTfzvKIcRJDk1bwtto"
     }
   }
 ]
