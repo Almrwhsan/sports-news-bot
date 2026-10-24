@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cost of football regulator double initial estimate",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6lylk1zyqd7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The annual cost to clubs of English football's Independent Regulator (IFR) has risen to £20.3m, around double the amount initially estimated.",
+    "published": "Fri, 23 Oct 2026 12:19:33 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d09/live/8d65afc0-ceda-11f1-8507-45cb00a1c41c.jpg",
+    "media_type": null,
+    "arabic_title": "تكلفة منظم كرة القدم مضاعفة التقدير الأولي",
+    "arabic_summary": "ارتفعت التكلفة السنوية للأندية الخاضعة للهيئة التنظيمية المستقلة لكرة القدم الإنجليزية (IFR) إلى 20.3 مليون جنيه إسترليني، أي حوالي ضعف المبلغ المقدر في البداية.",
+    "translation_status": "translated",
+    "post_title": "تكلفة منظم كرة القدم مضاعفة التقدير الأولي",
+    "post_text": "🚨 تكلفة منظم كرة القدم مضاعفة التقدير الأولي\n\n📝 ارتفعت التكلفة السنوية للأندية الخاضعة للهيئة التنظيمية المستقلة لكرة القدم الإنجليزية (IFR) إلى 20.3 مليون جنيه إسترليني، أي حوالي ضعف المبلغ المقدر في البداية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087331757265468",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تكلفة_منظم_كرة_القدم_مضاعفة_التقدير_الأولي.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c6lylk1zyqd7o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AlayKxF3RHzexIf0YtejVrS"
+    }
+  },
+  {
     "title": "A qué hora es el Racing - Espanyol: horario y dónde ver hoy en TV y online el partido de LaLiga EA Sports",
     "url": "https://www.marca.com/futbol/primera-division/2026/10/24/hora-racing-espanyol-horario-ver-hoy-tv-online-partido-laliga-ea-sports.html",
     "summary": "Te contamos los detalles para que puedas disfrutar del encuentro correspondiente a la jornada 10",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Azs5_YeT_qS8TjKKwOV7noq"
-    }
-  },
-  {
-    "title": "Barcelona handed first defeat of season by PSG in classic",
-    "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638",
-    "summary": "Barcelona were handed their first defeat of the season as they lost 4-2 to Paris Saint-Germain in a Champions League classic.",
-    "published": "Tue, 20 Oct 2026 22:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-vitinha-psg_7382255.jpg?20261020220851",
-    "media_type": "image/jpg",
-    "arabic_title": "تلقى برشلونة الهزيمة الأولى هذا الموسم أمام باريس سان جيرمان في مباراة كلاسيكية",
-    "arabic_summary": "تلقى برشلونة هزيمته الأولى هذا الموسم، بخسارته أمام باريس سان جيرمان 4-2 في مباراة كلاسيكية بدوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "تلقى برشلونة الهزيمة الأولى هذا الموسم أمام باريس سان جيرمان في مباراة كلاسيكية",
-    "post_text": "🚨 تلقى برشلونة الهزيمة الأولى هذا الموسم أمام باريس سان جيرمان في مباراة كلاسيكية\n\n📝 تلقى برشلونة هزيمته الأولى هذا الموسم، بخسارته أمام باريس سان جيرمان 4-2 في مباراة كلاسيكية بدوري أبطال أوروبا.\n\n🏷️ برشلونة\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084185744246736",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تلقى_برشلونة_الهزيمة_الأولى_هذا_الموسم_أمام_باريس_سان_جيرمان_في_مباراة_كلاسيكية.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8zIWf9sd-_g4ptXCsyeFLN"
     }
   }
 ]
