@@ -1,5 +1,39 @@
 [
   {
+    "title": "Glasner and O'Neil's contrasting views on Diop's controversial foul",
+    "url": "https://www.skysports.com/watch/video/13602911/oliver-glasner-and-gary-oneils-contrasting-views-on-issa-diops-controversial-foul",
+    "summary": "Oliver Glasner and Gary O'Neil's post-match reaction to Issa Diop's controversial foul on James McAtee.",
+    "published": "Fri, 23 Oct 2026 22:47:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-football_7385176.jpg?20261023225904",
+    "media_type": "image/jpg",
+    "arabic_title": "وجهات نظر جلاسنر وأونيل المتناقضة بشأن خطأ ديوب المثير للجدل",
+    "arabic_summary": "رد فعل أوليفر جلاسنر وغاري أونيل بعد المباراة على خطأ عيسى ديوب المثير للجدل على جيمس ماكاتي.",
+    "translation_status": "translated",
+    "post_title": "وجهات نظر جلاسنر وأونيل المتناقضة بشأن خطأ ديوب المثير للجدل",
+    "post_text": "🚨 وجهات نظر جلاسنر وأونيل المتناقضة بشأن خطأ ديوب المثير للجدل\n\n📝 رد فعل أوليفر جلاسنر وغاري أونيل بعد المباراة على خطأ عيسى ديوب المثير للجدل على جيمس ماكاتي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1086956943969616",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وجهات_نظر_جلاسنر_وأونيل_المتناقضة_بشأن_خطأ_ديوب_المثير_للجدل.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13602911/oliver-glasner-and-gary-oneils-contrasting-views-on-issa-diops-controversial-foul",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Arz_Y8M9NYmEYMnRhxGBdCu"
+    }
+  },
+  {
     "title": "Littler begins quest for clean sweep in style as No 1 dominates in Dortmund",
     "url": "https://www.skysports.com/darts/news/12040/13602739/european-championship-darts-luke-littler-sets-up-nathan-aspinall-clash-as-michael-van-gerwen-is-dumped-out-in-dortmund",
     "summary": "Luke Littler began his quest of completing the clean sweep of major honours with an opening win over Willie O'Connor at the Machineseeker European Championship on Friday night in Germany.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXOJOnVHnzv-TMnIKou7VZ9"
-    }
-  },
-  {
-    "title": "Oyarzabal arranca la persecución a Satrústegui",
-    "url": "https://www.marca.com/futbol/real-sociedad/2026/10/20/oyarzabal-arranca-persecucion-satrustegui.html",
-    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
-    "published": "Tue, 20 Oct 2026 09:00:32 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/6ad7109e6fa8d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يبدأ Oyarzabal اضطهاد Satrústegui",
-    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
-    "translation_status": "translated",
-    "post_title": "يبدأ Oyarzabal اضطهاد Satrústegui",
-    "post_text": "🚨 يبدأ Oyarzabal اضطهاد Satrústegui\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1083650827633561",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يبدأ_Oyarzabal_اضطهاد_Satrústegui.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/10/20/oyarzabal-arranca-persecucion-satrustegui.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATMSaSKX4CeG2UJRQkfizV4"
     }
   }
 ]
