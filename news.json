@@ -1,5 +1,39 @@
 [
   {
+    "title": "Adeyemi-Diomande: el duelo del regate",
+    "url": "https://as.com/futbol/primera/adeyemi-diomande-el-duelo-del-regate-f202610-n/",
+    "summary": "Ambos jugadores están entre los que más regates completados promedian por cada 90’ de toda la liga.",
+    "published": "Sat, 24 Oct 2026 23:10:20 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/H4EUWHRAPVKRHI37J3DYSBOND4.jpg?auth=374bc06288c76dbb67fa0d2cbe8c97ec7267a430b01d51b41ab7f8cf85d81bf0",
+    "media_type": "image/jpeg",
+    "arabic_title": "أديمي-ديوماندي: مبارزة المراوغة",
+    "arabic_summary": "كلا اللاعبين من بين أولئك الذين حققوا متوسط ​​المراوغات الأكثر اكتمالًا لكل 90 دقيقة في الدوري بأكمله.",
+    "translation_status": "translated",
+    "post_title": "أديمي-ديوماندي: مبارزة المراوغة",
+    "post_text": "🚨 أديمي-ديوماندي: مبارزة المراوغة\n\n📝 كلا اللاعبين من بين أولئك الذين حققوا متوسط ​​المراوغات الأكثر اكتمالًا لكل 90 دقيقة في الدوري بأكمله.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087984343866876",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أديمي-ديوماندي_مبارزة_المراوغة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/adeyemi-diomande-el-duelo-del-regate-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASbQnn5tN36qqe-OFluSysg"
+    }
+  },
+  {
     "title": "Los famosos del Clásico",
     "url": "https://as.com/tikitakas/fotorrelato/los-famosos-del-clasico-f202610-f/",
     "summary": "Recopilación de personajes del cine, televisión, música... que no recordabas que han mostrado su amor por el Barcelona o el Real Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvrI8XgEpwGshm8bsoJNuGL"
-    }
-  },
-  {
-    "title": "Goti se hace sitio por dentro",
-    "url": "https://www.marca.com/futbol/oviedo/2026/10/21/goti-sitio.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Wed, 21 Oct 2026 11:43:21 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6acd303b65ba8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جوتي يفسح المجال للداخل",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "جوتي يفسح المجال للداخل",
-    "post_text": "🚨 جوتي يفسح المجال للداخل\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084669207531723",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوتي_يفسح_المجال_للداخل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/21/goti-sitio.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AzKzfgOy8sv-4EHNUH_9Xz3"
     }
   }
 ]
