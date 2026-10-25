@@ -1,5 +1,39 @@
 [
   {
+    "title": "Edin Terzic: “Mi trabajo no es buscar excusas, es encontrar soluciones”",
+    "url": "https://www.marca.com/futbol/athletic/2026/10/24/edin-terzic-mi-trabajo-buscar-excusas-encontrar-soluciones.html",
+    "summary": "El club afronta una nueva oportunidad para reencontrarse con la victoria después de cuatro partidos consecutivos sin ganar.",
+    "published": "Sat, 24 Oct 2026 15:54:09 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/17/6ad3d63547b4f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إدين ترزيتش: \"مهمتي ليست البحث عن الأعذار، بل إيجاد الحلول\"",
+    "arabic_summary": "وأمام النادي فرصة جديدة لاستعادة الفوز بعد أربع مباريات متتالية دون تحقيق الفوز.",
+    "translation_status": "translated",
+    "post_title": "إدين ترزيتش: \"مهمتي ليست البحث عن الأعذار، بل إيجاد الحلول\"",
+    "post_text": "🚨 إدين ترزيتش: \"مهمتي ليست البحث عن الأعذار، بل إيجاد الحلول\"\n\n📝 وأمام النادي فرصة جديدة لاستعادة الفوز بعد أربع مباريات متتالية دون تحقيق الفوز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087673510564626",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إدين_ترزيتش_مهمتي_ليست_البحث_عن_الأعذار،_بل_إيجاد_الحلول.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/athletic/2026/10/24/edin-terzic-mi-trabajo-buscar-excusas-encontrar-soluciones.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "APLljevoi203SFt9RlT_qEd"
+    }
+  },
+  {
     "title": "Samu Castillejo anuncia su retirada",
     "url": "https://www.marca.com/futbol/malaga/2026/10/24/samu-castillejo-anuncia-retirada.html",
     "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnkHr72Ouwkb4EjB4PNgohv"
-    }
-  },
-  {
-    "title": "The Times se disculpa con Infantino y la FIFA por informar de un \"segundo salario\" que no existió",
-    "url": "https://www.marca.com/futbol/2026/10/21/the-times-disculpa-infantino-fifa-informar-segundo-salario-existio.html",
-    "summary": "El diario británico rectifica también sus informaciones sobre una propiedad en Miami y la vinculación del presidente de la FIFA con una sociedad. El organismo denuncia un intento de socavar su imagen",
-    "published": "Wed, 21 Oct 2026 10:29:58 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad23f176b9ff.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"التايمز\" تعتذر لإنفانتينو والفيفا عن الإبلاغ عن \"راتب ثانٍ\" لم يكن موجوداً",
-    "arabic_summary": "كما تصحح الصحيفة البريطانية معلوماتها عن عقار في ميامي وارتباط رئيس الفيفا بإحدى الشركات. وتدين المنظمة محاولة تشويه صورتها",
-    "translation_status": "translated",
-    "post_title": "\"التايمز\" تعتذر لإنفانتينو والفيفا عن الإبلاغ عن \"راتب ثانٍ\" لم يكن موجوداً",
-    "post_text": "🚨 \"التايمز\" تعتذر لإنفانتينو والفيفا عن الإبلاغ عن \"راتب ثانٍ\" لم يكن موجوداً\n\n📝 كما تصحح الصحيفة البريطانية معلوماتها عن عقار في ميامي وارتباط رئيس الفيفا بإحدى الشركات. وتدين المنظمة محاولة تشويه صورتها\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084603044205006",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التايمز_تعتذر_لإنفانتينو_والفيفا_عن_الإبلاغ_عن_راتب_ثانٍ_لم_يكن_موجوداً.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/21/the-times-disculpa-infantino-fifa-informar-segundo-salario-existio.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A_mZHCe9BCbiu2hqdq0oae5"
     }
   }
 ]
