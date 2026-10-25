@@ -1,5 +1,39 @@
 [
   {
+    "title": "Consigue dos entradas para el partido que elijas de la fase de liga de la Champions",
+    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/08/31/gran-sorteo-entradas-bet365-regresa-nueva-temporada-uefa-champions-league.html",
+    "summary": "",
+    "published": "Mon, 31 Aug 2026 17:47:43 +0200",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a95a211711ca.r_d.1826-720-0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "احصل على تذكرتين للمباراة التي تختارها في مرحلة دوري أبطال أوروبا",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "احصل على تذكرتين للمباراة التي تختارها في مرحلة دوري أبطال أوروبا",
+    "post_text": "🚨 احصل على تذكرتين للمباراة التي تختارها في مرحلة دوري أبطال أوروبا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088466847151959",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/احصل_على_تذكرتين_للمباراة_التي_تختارها_في_مرحلة_دوري_أبطال_أوروبا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/08/31/gran-sorteo-entradas-bet365-regresa-nueva-temporada-uefa-champions-league.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AchQw0ouRjvMdD4W5BIy_OO"
+    }
+  },
+  {
     "title": "Ucrania defiende al Madrid",
     "url": "https://as.com/futbol/ucrania-defiende-al-madrid-f202610-n/",
     "summary": "Lunin y el canterano Illia Voloshyn, porteros en el Clásico. El del Real Madrid C viaja por la gripe de Courtois. El primero, buen balance ante el Barça...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AN9rKyP-QVY3yF-3mmCFiwg"
-    }
-  },
-  {
-    "title": "Toni Freixa: \"Esperamos con ganas al Madrid por todo lo que le hace esta institución al Barça\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/22/toni-freixa-esperamos-ganas-madrid-le-institucion-barca-video.html",
-    "summary": "",
-    "published": "Thu, 22 Oct 2026 07:25:27 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/wQTN.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "توني فريكسا: \"نحن نتطلع إلى مدريد لكل ما تفعله هذه المؤسسة لبرشلونة\"",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "توني فريكسا: \"نحن نتطلع إلى مدريد لكل ما تفعله هذه المؤسسة لبرشلونة\"",
-    "post_text": "🚨 توني فريكسا: \"نحن نتطلع إلى مدريد لكل ما تفعله هذه المؤسسة لبرشلونة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085354467463197",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توني_فريكسا_نحن_نتطلع_إلى_مدريد_لكل_ما_تفعله_هذه_المؤسسة_لبرشلونة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/22/toni-freixa-esperamos-ganas-madrid-le-institucion-barca-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AihfJVYmSpfXd0RrlV3q9uA"
     }
   }
 ]
