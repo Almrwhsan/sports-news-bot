@@ -1,5 +1,39 @@
 [
   {
+    "title": "Ucrania defiende al Madrid",
+    "url": "https://as.com/futbol/ucrania-defiende-al-madrid-f202610-n/",
+    "summary": "Lunin y el canterano Illia Voloshyn, porteros en el Clásico. El del Real Madrid C viaja por la gripe de Courtois. El primero, buen balance ante el Barça...",
+    "published": "Sun, 25 Oct 2026 11:06:22 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KOEJZ7E6JZLSRMRWD3LBV3WQ4Q.jpg?auth=d7c469ed1cedd68aa6635951f5506c2938a54cbed13a374185e16836f13cb3ec",
+    "media_type": "image/jpeg",
+    "arabic_title": "أوكرانيا تدافع عن مدريد",
+    "arabic_summary": "لونين ولاعب الشباب إيليا فولوشين، حراس المرمى في الكلاسيكو. لاعب ريال مدريد C يسافر بسبب انفلونزا كورتوا. الأول، توازن جيد ضد برشلونة.",
+    "translation_status": "translated",
+    "post_title": "أوكرانيا تدافع عن مدريد",
+    "post_text": "🚨 أوكرانيا تدافع عن مدريد\n\n📝 لونين ولاعب الشباب إيليا فولوشين، حراس المرمى في الكلاسيكو. لاعب ريال مدريد C يسافر بسبب انفلونزا كورتوا. الأول، توازن جيد ضد برشلونة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088457900486187",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوكرانيا_تدافع_عن_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/ucrania-defiende-al-madrid-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AViyUzCX8FRVVyJwrDegwif"
+    }
+  },
+  {
     "title": "Barcelona vs Real Madrid team news LIVE!",
     "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/563017",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AihfJVYmSpfXd0RrlV3q9uA"
-    }
-  },
-  {
-    "title": "Nico Paz, el Messi de Como: se corona en la Champions y está a 80 millones del Real Madrid",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/22/nico-paz-messi-corona-champions-80-millones-real-madrid.html",
-    "summary": "Nico Paz se corona en Champions League con el Como marcando dos goles y dando una asistencia contra el Manchester United",
-    "published": "Thu, 22 Oct 2026 07:37:33 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/21/gHJvQ1gsGo3p8GMN4.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "نيكو باز، ميسي كومو: يتوج بدوري أبطال أوروبا ويتأخر عن ريال مدريد بـ 80 مليونًا",
-    "arabic_summary": "فاز نيكو باز بدوري أبطال أوروبا مع كومو، وسجل هدفين وقدم تمريرة حاسمة ضد مانشستر يونايتد",
-    "translation_status": "translated",
-    "post_title": "نيكو باز، ميسي كومو: يتوج بدوري أبطال أوروبا ويتأخر عن ريال مدريد بـ 80 مليونًا",
-    "post_text": "🚨 نيكو باز، ميسي كومو: يتوج بدوري أبطال أوروبا ويتأخر عن ريال مدريد بـ 80 مليونًا\n\n📝 فاز نيكو باز بدوري أبطال أوروبا مع كومو، وسجل هدفين وقدم تمريرة حاسمة ضد مانشستر يونايتد\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085354534129857",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيكو_باز،_ميسي_كومو_يتوج_بدوري_أبطال_أوروبا_ويتأخر_عن_ريال_مدريد_بـ_80_مليونًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/22/nico-paz-messi-corona-champions-80-millones-real-madrid.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGbC4edsjtiEqJoRPAR1_FF"
     }
   }
 ]
