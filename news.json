@@ -1,5 +1,39 @@
 [
   {
+    "title": "'I persuaded my club to give me a job as a content creator'",
+    "url": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb?at_medium=RSS&at_campaign=rss",
+    "summary": "Jacob discusses his route into his job as a content creator for a football club. Find out more about his role, career progression and top tips for getting into a similar role.",
+    "published": "Fri, 25 Sep 2026 10:15:00 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png",
+    "media_type": null,
+    "arabic_title": "\"لقد أقنعت النادي بإعطائي وظيفة كمنشئ محتوى\"",
+    "arabic_summary": "يناقش جاكوب طريقه إلى وظيفته كمنشئ محتوى لأحد أندية كرة القدم. اكتشف المزيد حول دوره وتطوره الوظيفي وأهم النصائح للحصول على دور مماثل.",
+    "translation_status": "translated",
+    "post_title": "\"لقد أقنعت النادي بإعطائي وظيفة كمنشئ محتوى\"",
+    "post_text": "🚨 \"لقد أقنعت النادي بإعطائي وظيفة كمنشئ محتوى\"\n\n📝 يناقش جاكوب طريقه إلى وظيفته كمنشئ محتوى لأحد أندية كرة القدم. اكتشف المزيد حول دوره وتطوره الوظيفي وأهم النصائح للحصول على دور مماثل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088482037150440",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_أقنعت_النادي_بإعطائي_وظيفة_كمنشئ_محتوى.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANtJTTWz44-vE2o8pnpPmDG"
+    }
+  },
+  {
     "title": "Ten unusual jobs in football",
     "url": "https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&at_campaign=rss",
     "summary": "What are some of the lesser known jobs in football? BBC Bitesize Careers finds out!",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APmQQ7F4kgf0JUgAoHkGZvl"
-    }
-  },
-  {
-    "title": "El capitán infiel sufrirá en su propia piel las trampas del City si es condenado: \"Espero que no pase\"",
-    "url": "https://www.marca.com/futbol/premier-league/2026/10/22/kyle-walker-capitan-infiel-sufrira-propia-piel-trampas-manchester-city-condenado.html",
-    "summary": "Kyle Walker revela que se borrará el tatuaje de \"cuatro seguidos\" que lleva en la pierna si al Manchester City le retiran sus títulos de la Premier League",
-    "published": "Thu, 22 Oct 2026 08:51:22 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9b1d86513f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الكابتن الخائن سيعاني من مصائد السيتي بشكل مباشر إذا تمت إدانته: \"آمل ألا يحدث ذلك\"",
-    "arabic_summary": "كشف كايل ووكر أنه سيزيل وشم \"الأربعة على التوالي\" من ساقه إذا تم تجريد مانشستر سيتي من ألقاب الدوري الإنجليزي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "الكابتن الخائن سيعاني من مصائد السيتي بشكل مباشر إذا تمت إدانته: \"آمل ألا يحدث ذلك\"",
-    "post_text": "🚨 الكابتن الخائن سيعاني من مصائد السيتي بشكل مباشر إذا تمت إدانته: \"آمل ألا يحدث ذلك\"\n\n📝 كشف كايل ووكر أنه سيزيل وشم \"الأربعة على التوالي\" من ساقه إذا تم تجريد مانشستر سيتي من ألقاب الدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085365580795419",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الكابتن_الخائن_سيعاني_من_مصائد_السيتي_بشكل_مباشر_إذا_تمت_إدانته_آمل_ألا_يحدث_ذلك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/22/kyle-walker-capitan-infiel-sufrira-propia-piel-trampas-manchester-city-condenado.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlCeBo7NZdmlZzW2wyaqj27"
     }
   }
 ]
