@@ -1,5 +1,39 @@
 [
   {
+    "title": "Liverpool vs Brighton team news LIVE!",
+    "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521",
+    "summary": "",
+    "published": "Fri, 23 Oct 2026 11:09:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-liverpool-brighton_7380876.jpg?20261019161805",
+    "media_type": "image/jpg",
+    "arabic_title": "أخبار فريق ليفربول ضد برايتون بث مباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "أخبار فريق ليفربول ضد برايتون بث مباشر!",
+    "post_text": "🚨 أخبار فريق ليفربول ضد برايتون بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088145383850772",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أخبار_فريق_ليفربول_ضد_برايتون_بث_مباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ATsn0mpfGlDAleGhtNa5DRi"
+    }
+  },
+  {
     "title": "عاجل .. ضربة قوية لروما في الدوري الإيطالي .. ما القصة؟",
     "url": "https://www.alyaum.com/articles/6687381/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%83%D8%B1%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%B9%D8%A7%D8%AC%D9%84-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%84%D8%B1%D9%88%D9%85%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9",
     "summary": "سيغيب الدولي الفرنسي مانو كونيه لاعب روما، لثلاثة أسابيع بعد الإصابة التي تعرض لها في دوري أبطال أوروبا لكرة القدم الأربعاء، لكنه يُتوقع أن يعود إلى الملاعب قبل فترة التوقف الدولي المقبلة، بحسب ما أعلن مدربه السبت عشية المرحلة السابعة من الدوري الإيطالي.&lt;br /&gt;&lt;br /&gt;وقال جان بييرو غاسبيريني قبل مواجهة فريقه أمام جنوى \"خضع (كونيه) لفحص بالرنين المغناطيسي وأظهر وجود إصابة من الدرجة الأولى في الفخذ. ليست إصابة خطيرة بشكل خاص، لكنها تحتاج إلى بعض الوقت\".&lt;br /&gt;&lt;br /&gt;أضاف \"نأمل أن يكون جاهزا للعودة في مباراة ساسوولو (في السابع من نوفمبر)، وربما قبل ذلك بقليل\".&lt;br /&gt;&lt;br /&gt;ومن المنتظر أن يغيب لاعب الوسط الفرنسي البالغ 25 عاما عن أربع مباريات في الدوري الإيطالي ومباراتين في دوري أبطال أوروبا، فيما يحتل روما حاليا المركز الثالث في \"سيري أ\".&lt;br /&gt;&lt;br /&gt;خلال فترة التوقف الدولي الأخيرة التي شهدت بداية عهد زين الدين زيدان على رأس المنتخب الفرنسي، شارك كونيه (22 مباراة دولية) في ثلاث من أصل أربع مباريات خاضها \"الزرق\"، ولعب المباراة الأولى كاملة في الفوز على تركيا 1-0.&lt;br /&gt;&lt;br /&gt;وسيخوض المنتخب الفرنسي مباراتيه المقبلتين في دوري الأمم الأوروبية في 12 نوفمبر أمام إيطاليا، ثم في 15 منه ضد تركيا.&lt;br /&gt;",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A65pwxkS3he-cVsyIPmMxdG"
-    }
-  },
-  {
-    "title": "'Mac Anfield', la pesadilla de LaLiga",
-    "url": "https://www.marca.com/futbol/champions-league/2026/10/22/mac-anfield-pesadilla-laliga.html",
-    "summary": "El '10' del Liverpool ha anotado cinco de sus ocho goles en Champions a equipos españoles",
-    "published": "Thu, 22 Oct 2026 06:26:53 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/21/6ad8ce766fd51.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"ماك أنفيلد\"، كابوس الدوري الإسباني",
-    "arabic_summary": "سجل لاعب ليفربول رقم \"10\" خمسة من أهدافه الثمانية في دوري أبطال أوروبا ضد الفرق الإسبانية",
-    "translation_status": "translated",
-    "post_title": "\"ماك أنفيلد\"، كابوس الدوري الإسباني",
-    "post_text": "🚨 \"ماك أنفيلد\"، كابوس الدوري الإسباني\n\n📝 سجل لاعب ليفربول رقم \"10\" خمسة من أهدافه الثمانية في دوري أبطال أوروبا ضد الفرق الإسبانية\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085037744161536",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماك_أنفيلد،_كابوس_الدوري_الإسباني.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/10/22/mac-anfield-pesadilla-laliga.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARTtSBjVzRUM-4jZ3g-cPD9"
     }
   }
 ]
