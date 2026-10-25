@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mourinho persistió en el equipo creativo",
+    "url": "https://www.marca.com/futbol/primera-division/opinion/2026/10/26/mourinho-persistio-equipo-creativo.html",
+    "summary": "Al otro lado del espejo",
+    "published": "Mon, 26 Oct 2026 00:16:15 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6ade8bc5c3ac7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "استمر مورينيو في الفريق الإبداعي",
+    "arabic_summary": "على الجانب الآخر من المرآة",
+    "translation_status": "translated",
+    "post_title": "استمر مورينيو في الفريق الإبداعي",
+    "post_text": "🚨 استمر مورينيو في الفريق الإبداعي\n\n📝 على الجانب الآخر من المرآة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088596810472296",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استمر_مورينيو_في_الفريق_الإبداعي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/opinion/2026/10/26/mourinho-persistio-equipo-creativo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AGNtbfVbWhPhL1CUUk-lDua"
+    }
+  },
+  {
     "title": "Mbappé: \"El que diga que no tenemos calidad es un mentiroso\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/mbappe-diga-calidad-mentiroso.html",
     "summary": "El francés se mostró feliz y ambicioso tras el encuentro",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXkH32p79SRc-TrUGAz6T8Y"
-    }
-  },
-  {
-    "title": "Kochorashvili vuelve al grupo y Stassin se dosifica",
-    "url": "https://www.marca.com/futbol/sevilla/2026/10/22/kochorashvili-vuelve-grupo-stassin-dosifica.html",
-    "summary": "El georgiano deja atrás sus molestias y se ejercita con normalidad a cuatro días del duelo frente a Osasuna",
-    "published": "Thu, 22 Oct 2026 12:06:51 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9dfedb65c0.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعود Kochorashvili إلى المجموعة وجرعات Stassin",
-    "arabic_summary": "يترك الجورجي انزعاجه خلفه ويتدرب بشكل طبيعي قبل أربعة أيام من المباراة ضد أوساسونا",
-    "translation_status": "translated",
-    "post_title": "يعود Kochorashvili إلى المجموعة وجرعات Stassin",
-    "post_text": "🚨 يعود Kochorashvili إلى المجموعة وجرعات Stassin\n\n📝 يترك الجورجي انزعاجه خلفه ويتدرب بشكل طبيعي قبل أربعة أيام من المباراة ضد أوساسونا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085574817441162",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_Kochorashvili_إلى_المجموعة_وجرعات_Stassin.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/22/kochorashvili-vuelve-grupo-stassin-dosifica.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdyLFSvvvvvwAJNc16eaOJj"
     }
   }
 ]
