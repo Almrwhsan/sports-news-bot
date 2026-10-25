@@ -1,5 +1,39 @@
 [
   {
+    "title": "¿Qué piensan Mourinho y Flick el uno del otro?",
+    "url": "https://as.com/futbol/videos/que-piensan-mourinho-y-flick-el-uno-del-otro-vean-la-diferencia-f202610-v/",
+    "summary": "En la previa del Clásico, ambos fueron preguntados por su homólogo en el Real Madrid y Barcelona y qué podían decir de él. Esto es lo que respondieron uno y otro.",
+    "published": "Sun, 25 Oct 2026 12:47:14 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261025/1229667_124313_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "ما رأي مورينيو وفليك في بعضهما البعض؟",
+    "arabic_summary": "في الفترة التي سبقت الكلاسيكو، سُئل كلاهما عن نظيرهما في ريال مدريد وبرشلونة وما يمكنهما قوله عنه. وهذا ما رد عليه كلاهما.",
+    "translation_status": "translated",
+    "post_title": "ما رأي مورينيو وفليك في بعضهما البعض؟",
+    "post_text": "🚨 ما رأي مورينيو وفليك في بعضهما البعض؟\n\n📝 في الفترة التي سبقت الكلاسيكو، سُئل كلاهما عن نظيرهما في ريال مدريد وبرشلونة وما يمكنهما قوله عنه. وهذا ما رد عليه كلاهما.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088550757143568",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_رأي_مورينيو_وفليك_في_بعضهما_البعض؟.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsBeiUCUTlrkyF75m_qliK2"
+    }
+  },
+  {
     "title": "Los secretos de la pelea por Rodri: dos mentiras y una comida secreta",
     "url": "https://as.com/futbol/los-secretos-de-la-pelea-por-rodri-dos-mentiras-y-una-comida-secreta-f202610-n/",
     "summary": "‘Xtra’ estrena su tercera temporada reconstruyendo. con información inédita y exclusiva, cómo fueron las horas más calientes del fichaje de Rodri por el Barcelona y su rechazo al Real Madrid. Dos bulos, una oferta imposible de rechazar, una boda, reuniones secretas... una operación que da para serie de Netflix.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzBGDJxUfKIwHulFWR55mQK"
-    }
-  },
-  {
-    "title": "Jordi Sánchez, el Zarra de Europa por delante de Lamine, Camello o Baena",
-    "url": "https://www.marca.com/futbol/2026/10/22/jordi-sanchez-zarra-europa-delante-lamine-camello-baena.html",
-    "summary": "El delantero catalán del Pogon Szczecin suma nueve goles en la Liga polaca con 'clausulazo' incluido el último día del mercado",
-    "published": "Thu, 22 Oct 2026 09:22:25 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9b8d30939d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جوردي سانشيز، زارا أوروبا قبل لامين أو كاميلو أو باينا",
-    "arabic_summary": "المهاجم الكتالوني من بوجون شتشيتسين لديه تسعة أهداف في الدوري البولندي مع إدراج \"كلاوسولازو\" في اليوم الأخير من السوق",
-    "translation_status": "translated",
-    "post_title": "جوردي سانشيز، زارا أوروبا قبل لامين أو كاميلو أو باينا",
-    "post_text": "🚨 جوردي سانشيز، زارا أوروبا قبل لامين أو كاميلو أو باينا\n\n📝 المهاجم الكتالوني من بوجون شتشيتسين لديه تسعة أهداف في الدوري البولندي مع إدراج \"كلاوسولازو\" في اليوم الأخير من السوق\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085509464114364",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوردي_سانشيز،_زارا_أوروبا_قبل_لامين_أو_كاميلو_أو_باينا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/22/jordi-sanchez-zarra-europa-delante-lamine-camello-baena.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AruRVSCg2PPrWFA6f90b-By"
     }
   }
 ]
