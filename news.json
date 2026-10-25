@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Fantastic' Duckett battles to superb ODI century",
+    "url": "https://www.skysports.com/watch/video/13603503/pakistan-v-england-ben-duckett-hits-brilliant-odi-century-after-englands-early-collapse",
+    "summary": "Ben Duckett reaches a superb century to lead England's recovery after a disastrous start to their ODI against Pakistan in Lahore.",
+    "published": "Sun, 25 Oct 2026 10:50:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-duckett-cricket_7386499.jpg?20261025105403",
+    "media_type": "image/jpg",
+    "arabic_title": "Duckett \"الرائعة\" تكافح من أجل قرن ODI الرائع",
+    "arabic_summary": "يصل بن دوكيت إلى قرن رائع لقيادة تعافي إنجلترا بعد البداية الكارثية في مباراة ODI ضد باكستان في لاهور.",
+    "translation_status": "translated",
+    "post_title": "Duckett \"الرائعة\" تكافح من أجل قرن ODI الرائع",
+    "post_text": "🚨 Duckett \"الرائعة\" تكافح من أجل قرن ODI الرائع\n\n📝 يصل بن دوكيت إلى قرن رائع لقيادة تعافي إنجلترا بعد البداية الكارثية في مباراة ODI ضد باكستان في لاهور.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088315550500422",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Duckett_الرائعة_تكافح_من_أجل_قرن_ODI_الرائع.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13603503/pakistan-v-england-ben-duckett-hits-brilliant-odi-century-after-englands-early-collapse",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARHoHpIsmnbysZn0XSD3OPp"
+    }
+  },
+  {
     "title": "Littler's Euro dreams ended by shock defeat to Ratajski",
     "url": "https://www.skysports.com/darts/news/12040/13603410/luke-littler-suffers-shock-defeat-to-krzysztof-ratajski-at-european-championship-darts-in-dortmund",
     "summary": "Luke Littler suffered a shock defeat to Krzysztof Ratajski at the European Championship Darts, as he failed in his attempt to claim the one major title he's never won.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AR69gQQlFDJCMj6ND7K6fuJ"
-    }
-  },
-  {
-    "title": "Fury vs Joshua: Your questions answered",
-    "url": "https://www.skysports.com/boxing/news/12040/13601938/fury-vs-joshua-your-questions-answered-ahead-of-tyson-furys-principality-stadium-showdown-with-anthony-joshua",
-    "summary": "Sky Sports answers your Tyson Fury vs Anthony Joshua questions...",
-    "published": "Thu, 22 Oct 2026 07:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-boxing-tyson-fury_7371027.jpg?20261008073113",
-    "media_type": "image/jpg",
-    "arabic_title": "فيوري ضد جوشوا: تمت الإجابة على أسئلتك",
-    "arabic_summary": "سكاي سبورتس تجيب على أسئلتك بشأن مباراة تايسون فيوري وأنتوني جوشوا...",
-    "translation_status": "translated",
-    "post_title": "فيوري ضد جوشوا: تمت الإجابة على أسئلتك",
-    "post_text": "🚨 فيوري ضد جوشوا: تمت الإجابة على أسئلتك\n\n📝 سكاي سبورتس تجيب على أسئلتك بشأن مباراة تايسون فيوري وأنتوني جوشوا...\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085093474155963",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيوري_ضد_جوشوا_تمت_الإجابة_على_أسئلتك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13601938/fury-vs-joshua-your-questions-answered-ahead-of-tyson-furys-principality-stadium-showdown-with-anthony-joshua",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2gPYBS-az6G4nyhNEOZdVu"
     }
   }
 ]
