@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Madrid ya está aquí",
+    "url": "https://as.com/futbol/primera/el-madrid-ya-esta-aqui-f202610-n/",
+    "summary": "Un Clásico magnífico y cambiante modifica el rumbo de la Liga. Mbappé adelantó a su equipo y cerró el partido. Cucurella anuló a Lamine en un triunfo coral.",
+    "published": "Sun, 25 Oct 2026 22:01:16 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PBNXQFBV6FMO5GS2RTARDJIEUY.jpg?auth=a7c5f22d6cf0a76a6814675c8ac2e053ac15f17123574afd99a0fcfa8d5e9777",
+    "media_type": null,
+    "arabic_title": "مدريد هنا بالفعل",
+    "arabic_summary": "لعبة كلاسيكية رائعة ومتغيرة تغير مسار الدوري. وضع مبابي فريقه في المقدمة وأنهى المباراة. ألغى كوكوريلا لامين في انتصار كورالي.",
+    "translation_status": "translated",
+    "post_title": "مدريد هنا بالفعل",
+    "post_text": "🚨 مدريد هنا بالفعل\n\n📝 لعبة كلاسيكية رائعة ومتغيرة تغير مسار الدوري. وضع مبابي فريقه في المقدمة وأنهى المباراة. ألغى كوكوريلا لامين في انتصار كورالي.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088575957141048",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مدريد_هنا_بالفعل.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-madrid-ya-esta-aqui-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7s3mdeLg9KhmN73Z5QPq8i"
+    }
+  },
+  {
     "title": "Dos regresos y un destino",
     "url": "https://as.com/futbol/primera/dos-regresos-y-un-destino-f202610-n/",
     "summary": "El día en el que Giménez regresaba por primera vez al Metropolitano con otra camiseta, la del Depor, Julián certificó de facto su vuelta al gol. Hizo el de la victoria. Había sostenido Oblak. Pase lo que pase en el Clásico, los rojiblancos se meten en la lucha por el título.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOGV97ryCG7udJvjyDhqgQU"
-    }
-  },
-  {
-    "title": "La Bundesliga revoluciona el fútbol: el Bayern-Dortmund se verá en directo... ¡en formato 'Playmobil'!",
-    "url": "https://www.marca.com/futbol/bundesliga/2026/10/22/bundesliga-revoluciona-futbol-bayern-dortmund-vera-directo-formato-playmobil.html",
-    "summary": "El Klassiker del próximo 31 de octubre será el primer partido de una gran liga profesional retransmitido íntegramente en un universo virtual generado en tiempo real a partir de datos 3D de los futbolistas",
-    "published": "Thu, 22 Oct 2026 11:44:17 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "bundesliga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9da56e01bd.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الدوري الألماني يُحدث ثورة في كرة القدم: سيتم مشاهدة مباراة بايرن-دورتموند مباشرة... بصيغة \"بلاي موبيل\"!",
-    "arabic_summary": "ستكون مباراة Klassiker في 31 أكتوبر هي المباراة الأولى لدوري محترف كبير يتم بثها بالكامل في عالم افتراضي يتم إنشاؤه في الوقت الفعلي من بيانات ثلاثية الأبعاد للاعبي كرة القدم",
-    "translation_status": "translated",
-    "post_title": "الدوري الألماني يُحدث ثورة في كرة القدم: سيتم مشاهدة مباراة بايرن-دورتموند مباشرة... بصيغة \"بلاي موبيل\"!",
-    "post_text": "🚨 الدوري الألماني يُحدث ثورة في كرة القدم: سيتم مشاهدة مباراة بايرن-دورتموند مباشرة... بصيغة \"بلاي موبيل\"!\n\n📝 ستكون مباراة Klassiker في 31 أكتوبر هي المباراة الأولى لدوري محترف كبير يتم بثها بالكامل في عالم افتراضي يتم إنشاؤه في الوقت الفعلي من بيانات ثلاثية الأبعاد للاعبي كرة القدم\n\n🏷️ الدوري الألماني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085549010777076",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الدوري_الألماني_يُحدث_ثورة_في_كرة_القدم_سيتم_مشاهدة_مباراة_بايرن-دورتموند_مباشرة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/bundesliga/2026/10/22/bundesliga-revoluciona-futbol-bayern-dortmund-vera-directo-formato-playmobil.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQO_YD0mbyL8nJqgznjNwLV"
     }
   }
 ]
