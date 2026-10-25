@@ -1,5 +1,39 @@
 [
   {
+    "title": "European Championship Darts LIVE! Littler chases elusive major on finals day",
+    "url": "https://www.skysports.com/darts/live-blog/12040/13603407/european-championship-darts-commentary-updates-scores-analysis-with-luke-littler-in-finals-day-in-dortmund",
+    "summary": "",
+    "published": "Sat, 24 Oct 2026 22:20:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-luke-littler-european-championship_7386242.jpg?20261024221941",
+    "media_type": "image/jpg",
+    "arabic_title": "بطولة السهام الأوروبية لايف! يطارد \"ليتلير\" تخصصًا بعيد المنال في يوم النهائيات",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "بطولة السهام الأوروبية لايف! يطارد \"ليتلير\" تخصصًا بعيد المنال في يوم النهائيات",
+    "post_text": "🚨 بطولة السهام الأوروبية لايف! يطارد \"ليتلير\" تخصصًا بعيد المنال في يوم النهائيات\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088114783853832",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطولة_السهام_الأوروبية_لايف!_يطارد_ليتلير_تخصصًا_بعيد_المنال_في_يوم_النهائيات.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/darts/live-blog/12040/13603407/european-championship-darts-commentary-updates-scores-analysis-with-luke-littler-in-finals-day-in-dortmund",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AaqN43FcMd_SgUAqXbxTpQp"
+    }
+  },
+  {
     "title": "'Not realistic' - Can Wolff's assessment of Antonelli's title chance be trusted?",
     "url": "https://www.skysports.com/f1/news/12040/13603166/united-states-gp-how-likely-is-pole-sitter-kimi-antonelli-to-win-2026-f1-drivers-championship-on-sunday-in-austin",
     "summary": "Mercedes team principal Toto Wolff believes it is \"not realistic\" for Kimi Antonelli to win the 2026 F1 Drivers' Championship on Sunday at the United States Grand Prix, despite the Italian starting on pole position.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHMreSw9zu-fwM1JMgDFcSt"
-    }
-  },
-  {
-    "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss",
-    "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
-    "published": "Mon, 19 Oct 2026 20:15:48 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a9/live/73eec850-cbd4-11f1-bc2e-018d645d8d21.jpg",
-    "media_type": null,
-    "arabic_title": "Building Lionesses 2.0 - التحدي الجديد الذي يواجهه Wiegman في انتظارك",
-    "arabic_summary": "أحدثت سارينا ويجمان، المديرة الفنية لمنتخب إنجلترا، تغييرًا في كرة القدم النسائية في البلاد، فما الذي تواجهه بعد توقيع تمديد عقدها؟",
-    "translation_status": "translated",
-    "post_title": "Building Lionesses 2.0 - التحدي الجديد الذي يواجهه Wiegman في انتظارك",
-    "post_text": "🚨 Building Lionesses 2.0 - التحدي الجديد الذي يواجهه Wiegman في انتظارك\n\n📝 أحدثت سارينا ويجمان، المديرة الفنية لمنتخب إنجلترا، تغييرًا في كرة القدم النسائية في البلاد، فما الذي تواجهه بعد توقيع تمديد عقدها؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084965044168806",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Building_Lionesses_2.0_-_التحدي_الجديد_الذي_يواجهه_Wiegman_في_انتظارك.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AO88iIGb6J8vGCsMPDlCLqy"
     }
   }
 ]
