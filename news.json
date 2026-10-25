@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
+    "url": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
+    "summary": "Britain's Alisha Palmowski became the 2026 F1 Academy champion with three races to spare after building an unassailable lead in Austin.",
+    "published": "Sun, 25 Oct 2026 01:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-alisha-palmowski_7386147.jpg?20261024203143",
+    "media_type": "image/jpg",
+    "arabic_title": "\"الحلم أصبح حقيقة!\" - البريطاني بالموفسكي يصبح بطلاً لأكاديمية الفورمولا 1 لعام 2026",
+    "arabic_summary": "أصبحت البريطانية أليشا بالموفسكي بطلة أكاديمية الفورمولا 1 لعام 2026 قبل ثلاثة سباقات من النهاية بعد أن حققت تقدمًا لا يمكن تعويضه في أوستن.",
+    "translation_status": "translated",
+    "post_title": "\"الحلم أصبح حقيقة!\" - البريطاني بالموفسكي يصبح بطلاً لأكاديمية الفورمولا 1 لعام 2026",
+    "post_text": "🚨 \"الحلم أصبح حقيقة!\" - البريطاني بالموفسكي يصبح بطلاً لأكاديمية الفورمولا 1 لعام 2026\n\n📝 أصبحت البريطانية أليشا بالموفسكي بطلة أكاديمية الفورمولا 1 لعام 2026 قبل ثلاثة سباقات من النهاية بعد أن حققت تقدمًا لا يمكن تعويضه في أوستن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088070947191549",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحلم_أصبح_حقيقة!_-_البريطاني_بالموفسكي_يصبح_بطلاً_لأكاديمية_الفورمولا_1_لعام_20.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEslXYECKbBtBDYgraPKtBE"
+    }
+  },
+  {
     "title": "‘Night and day different’ – why did Ferrari's pace evaporate again?",
     "url": "https://www.skysports.com/f1/news/12040/13603156/lewis-hamilton-charles-leclerc-reasons-why-ferrari-went-from-us-gp-pole-favourites-to-behind-kimi-antonelli-red-bulls-on-grid",
     "summary": "Ferrari's wait for a first Grand Prix pole position since August 2025 continued in the United States on Saturday as Charles Leclerc and Lewis Hamilton qualified outside the top three in a session the team had appeared favourites for.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AprR0OSisvau4rRtXNL85-F"
-    }
-  },
-  {
-    "title": "Las portadas: guerra total en el Manchester United tras la goleada ante el Como",
-    "url": "https://www.marca.com/futbol/album/2026/10/22/portadas-guerra-total-manchester-united-goleada.html",
-    "summary": "Repaso a las primeras de los principales diarios deportivos.",
-    "published": "Thu, 22 Oct 2026 01:30:48 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad949a758ce1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الأغطية: الحرب الشاملة في مانشستر يونايتد بعد الفوز على كومو",
-    "arabic_summary": "مراجعة أولى الصحف الرياضية الرئيسية.",
-    "translation_status": "translated",
-    "post_title": "الأغطية: الحرب الشاملة في مانشستر يونايتد بعد الفوز على كومو",
-    "post_text": "🚨 الأغطية: الحرب الشاملة في مانشستر يونايتد بعد الفوز على كومو\n\n📝 مراجعة أولى الصحف الرياضية الرئيسية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084965550835422",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأغطية_الحرب_الشاملة_في_مانشستر_يونايتد_بعد_الفوز_على_كومو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/album/2026/10/22/portadas-guerra-total-manchester-united-goleada.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUBF6FUlh-FxgB95TWcW8Hk"
     }
   }
 ]
