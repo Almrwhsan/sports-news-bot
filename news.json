@@ -1,5 +1,39 @@
 [
   {
+    "title": "Asencio viaja para apoyar a sus compañeros",
+    "url": "https://as.com/futbol/primera/asencio-viaja-para-apoyar-a-sus-companeros-f202610-n/",
+    "summary": "El central, lesionado, no jugará esta noche, pero quiere estar con sus compañeros y mantiene el objetivo de volver en diciembre.",
+    "published": "Sun, 25 Oct 2026 09:57:59 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OMJWWIFQ3BN75LV7S4FAUMSQIU.jpg?auth=60ef6895c6f78e99aede3591061feb4d5f61ef0ffafeff3115293833b923dd05",
+    "media_type": "image/jpeg",
+    "arabic_title": "يسافر أسينسيو لدعم زملائه في الفريق",
+    "arabic_summary": "قلب الدفاع المصاب لن يلعب الليلة، لكنه يريد أن يكون مع زملائه ويحافظ على هدف العودة في ديسمبر.",
+    "translation_status": "translated",
+    "post_title": "يسافر أسينسيو لدعم زملائه في الفريق",
+    "post_text": "🚨 يسافر أسينسيو لدعم زملائه في الفريق\n\n📝 قلب الدفاع المصاب لن يلعب الليلة، لكنه يريد أن يكون مع زملائه ويحافظ على هدف العودة في ديسمبر.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088387713826539",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يسافر_أسينسيو_لدعم_زملائه_في_الفريق.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/asencio-viaja-para-apoyar-a-sus-companeros-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A89tosYoF0O5TZCOxVtn6Wj"
+    }
+  },
+  {
     "title": "Así fueron las polémicas del Clásico en los años del 'Caso Negreira': ¿qué equipo ganó más partidos?",
     "url": "https://as.com/futbol/primera/asi-fueron-las-polemicas-del-clasico-en-los-anos-del-caso-negreira-que-equipo-gano-mas-partidos-f202610-n/",
     "summary": "Analizamos, temporada a temporada, cómo fueron los duelos entre eternos rivales en los años en que el club culé realizó pagos al ex número dos del Comité Técnico de Árbitros.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2pGaJcPDQWRSojX6b6aZ5y"
-    }
-  },
-  {
-    "title": "Ten unusual jobs in football",
-    "url": "https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&at_campaign=rss",
-    "summary": "What are some of the lesser known jobs in football? BBC Bitesize Careers finds out!",
-    "published": "Mon, 21 Sep 2026 20:12:31 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg",
-    "media_type": null,
-    "arabic_title": "عشر وظائف غير عادية في كرة القدم",
-    "arabic_summary": "ما هي بعض الوظائف الأقل شهرة في كرة القدم؟ بي بي سي Bitesize Careers تكتشف ذلك!",
-    "translation_status": "translated",
-    "post_title": "عشر وظائف غير عادية في كرة القدم",
-    "post_text": "🚨 عشر وظائف غير عادية في كرة القدم\n\n📝 ما هي بعض الوظائف الأقل شهرة في كرة القدم؟ بي بي سي Bitesize Careers تكتشف ذلك!\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085232020808775",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عشر_وظائف_غير_عادية_في_كرة_القدم.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Afqa-N1iPtHbjVlgEdgWA5z"
     }
   }
 ]
