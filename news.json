@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valverde se va tocado",
+    "url": "https://as.com/futbol/valverde-se-va-tocado-f202610-n/",
+    "summary": "Con molestias en la parte posterior del muslo derecho desde la mitad de la primera parte, aguantó hasta el 62′ pero tuvo que dejar su lugar a Dumfries.",
+    "published": "Sun, 25 Oct 2026 20:58:38 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KIYK5QNJCRCY5PYP2S6TGMYPFQ.jpeg?auth=e8da3ab88c340b7bab043d554641810991083bf49469510a6df801ff6954a78c",
+    "media_type": "image/jpeg",
+    "arabic_title": "لقد تأثر فالفيردي",
+    "arabic_summary": "ومع عدم الراحة في الجزء الخلفي من فخذه الأيمن منذ منتصف الشوط الأول، صمد حتى الدقيقة 62 لكنه اضطر إلى إفساح المجال أمام دومفريز.",
+    "translation_status": "translated",
+    "post_title": "لقد تأثر فالفيردي",
+    "post_text": "🚨 لقد تأثر فالفيردي\n\n📝 ومع عدم الراحة في الجزء الخلفي من فخذه الأيمن منذ منتصف الشوط الأول، صمد حتى الدقيقة 62 لكنه اضطر إلى إفساح المجال أمام دومفريز.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088570467141597",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_تأثر_فالفيردي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/valverde-se-va-tocado-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARmCe2qDmQpWMebiRP_77M7"
+    }
+  },
+  {
     "title": "Beer & Blackpool beach was how British players bonded - Pulis",
     "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AK1vsb1RLM8iH3NC5IwO88Q"
-    }
-  },
-  {
-    "title": "'Not in our DNA' - will 3v3 change the future of English football?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm3elveky53eo?at_medium=RSS&at_campaign=rss",
-    "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?",
-    "published": "Mon, 19 Oct 2026 05:38:47 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f54/live/4198f880-c7dd-11f1-b712-6f93dfe07e87.png",
-    "media_type": null,
-    "arabic_title": "\"ليس في حمضنا النووي\" - هل ستغير طريقة 3 ضد 3 مستقبل كرة القدم الإنجليزية؟",
-    "arabic_summary": "تم تنفيذ التغييرات من قبل الاتحاد الإنجليزي اعتبارًا من هذا الموسم حيث انخفض مستوى اللعب تحت 7 سنوات من اللعب 5 ضد 5 إلى 3 ضد 3 في إنجلترا - هل يمكن أن يساعد ذلك في تغيير الحمض النووي لكرة القدم الإنجليزية؟",
-    "translation_status": "translated",
-    "post_title": "\"ليس في حمضنا النووي\" - هل ستغير طريقة 3 ضد 3 مستقبل كرة القدم الإنجليزية؟",
-    "post_text": "🚨 \"ليس في حمضنا النووي\" - هل ستغير طريقة 3 ضد 3 مستقبل كرة القدم الإنجليزية؟\n\n📝 تم تنفيذ التغييرات من قبل الاتحاد الإنجليزي اعتبارًا من هذا الموسم حيث انخفض مستوى اللعب تحت 7 سنوات من اللعب 5 ضد 5 إلى 3 ضد 3 في إنجلترا - هل يمكن أن يساعد ذلك في تغيير الحمض النووي لكرة القدم الإنجليزية؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085533407445303",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليس_في_حمضنا_النووي_-_هل_ستغير_طريقة_3_ضد_3_مستقبل_كرة_القدم_الإنجليزية؟.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cm3elveky53eo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AruisykO6KGFVfg11JOwpOE"
     }
   }
 ]
