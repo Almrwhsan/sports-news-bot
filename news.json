@@ -1,5 +1,39 @@
 [
   {
+    "title": "Frenkie se desmarca: “Yo soy centrocampista”",
+    "url": "https://as.com/futbol/frenkie-se-desmarca-yo-soy-centrocampista-f202610-n/",
+    "summary": "El holandés deja muy claro en una entrevista con ‘Ziggo Sport’ que aceptaría jugar en otra posición, en este caso de central, pero sólo de una manera puntual.",
+    "published": "Sat, 24 Oct 2026 16:19:48 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IWFPM5FM25J4LCSWSRJ3YLEN5E.jpg?auth=4357cb2e6416032c1407156cede6aaf298708e2caef606c9cccf016b79488320",
+    "media_type": "image/jpeg",
+    "arabic_title": "فرينكي يبرز: \"أنا لاعب خط وسط\"",
+    "arabic_summary": "أوضح الهولندي بشكل واضح في مقابلة مع \"Ziggo Sport\" أنه سيقبل اللعب في مركز آخر، في هذه الحالة قلب الدفاع، ولكن بطريقة محددة فقط.",
+    "translation_status": "translated",
+    "post_title": "فرينكي يبرز: \"أنا لاعب خط وسط\"",
+    "post_text": "🚨 فرينكي يبرز: \"أنا لاعب خط وسط\"\n\n📝 أوضح الهولندي بشكل واضح في مقابلة مع \"Ziggo Sport\" أنه سيقبل اللعب في مركز آخر، في هذه الحالة قلب الدفاع، ولكن بطريقة محددة فقط.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087934360538541",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرينكي_يبرز_أنا_لاعب_خط_وسط.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/frenkie-se-desmarca-yo-soy-centrocampista-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeJcgE0jkzoSvqf9IHwdtZM"
+    }
+  },
+  {
     "title": "La respuesta viral de Marcelo cuando le dicen si le gustaría jugar el Clásico: le salió del alma esto de Lamine Yamal...",
     "url": "https://as.com/futbol/videos/la-respuesta-viral-de-marcelo-cuando-le-dicen-si-le-gustaria-jugar-el-clasico-le-salio-del-alma-esto-de-lamine-yamal-f202610-v/",
     "summary": "El exmadridista estuvo presente en un acto de DAZN y le preguntaron si tenía ganas de volver a vestirse corto para el Clásico.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_BdKyjUtGrmvr7oqNZ71bP"
-    }
-  },
-  {
-    "title": "Australia skittled for 99 as South Africa eye innings-victory",
-    "url": "https://www.skysports.com/cricket/news/12040/13601859/south-africa-vs-australia-baggy-greens-skittled-for-99-after-sensational-proteas-bowling-performance-on-day-four-of-second-test",
-    "summary": "South Africa continued their remarkable comeback against Australia after a stellar Marco Jansen performance helped force the Baggy Greens to follow on after being skittled for just 99 on day four of the second Test.",
-    "published": "Wed, 21 Oct 2026 11:11:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-rabada-south-africa_7382832.jpg?20261021130215",
-    "media_type": "image/jpg",
-    "arabic_title": "تأهلت أستراليا إلى المركز 99 بينما تتطلع جنوب إفريقيا إلى الفوز بالأدوار",
-    "arabic_summary": "واصلت جنوب إفريقيا عودتها الرائعة ضد أستراليا بعد أن ساعد الأداء الرائع لماركو يانسن في إجبار فريق باجي جرينز على المتابعة بعد أن تم تقليبه مقابل 99 فقط في اليوم الرابع من الاختبار الثاني.",
-    "translation_status": "translated",
-    "post_title": "تأهلت أستراليا إلى المركز 99 بينما تتطلع جنوب إفريقيا إلى الفوز بالأدوار",
-    "post_text": "🚨 تأهلت أستراليا إلى المركز 99 بينما تتطلع جنوب إفريقيا إلى الفوز بالأدوار\n\n📝 واصلت جنوب إفريقيا عودتها الرائعة ضد أستراليا بعد أن ساعد الأداء الرائع لماركو يانسن في إجبار فريق باجي جرينز على المتابعة بعد أن تم تقليبه مقابل 99 فقط في اليوم الرابع من الاختبار الثاني.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084633864201924",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تأهلت_أستراليا_إلى_المركز_99_بينما_تتطلع_جنوب_إفريقيا_إلى_الفوز_بالأدوار.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13601859/south-africa-vs-australia-baggy-greens-skittled-for-99-after-sensational-proteas-bowling-performance-on-day-four-of-second-test",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AI189E-uTc71MTPmhHZlJem"
     }
   }
 ]
