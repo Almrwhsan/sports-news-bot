@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un avión viene de Mestalla",
+    "url": "https://as.com/futbol/internacional/un-avion-viene-de-mestalla-f202610-n/",
+    "summary": "Ricar Pérez vuelve a ser la pieza crucial de un engranaje que juega, compite y gana con una filosofía que recuerda a la absoluta.",
+    "published": "Sun, 25 Oct 2026 12:23:08 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/T3V6GWSY35EUHM3G5H3HRAYY4A.jpeg?auth=d0f39ce105bef8d5ea4f2faaadae8de83eb84ea3ce178bb2f6e1a13674f47600",
+    "media_type": "image/jpeg",
+    "arabic_title": "طائرة تأتي من ميستايا",
+    "arabic_summary": "يعد ريكار بيريز مرة أخرى القطعة الحاسمة في الفريق الذي يلعب ويتنافس ويفوز بفلسفة تذكرنا بالفريق المطلق.",
+    "translation_status": "translated",
+    "post_title": "طائرة تأتي من ميستايا",
+    "post_text": "🚨 طائرة تأتي من ميستايا\n\n📝 يعد ريكار بيريز مرة أخرى القطعة الحاسمة في الفريق الذي يلعب ويتنافس ويفوز بفلسفة تذكرنا بالفريق المطلق.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088346320497345",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/طائرة_تأتي_من_ميستايا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/un-avion-viene-de-mestalla-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZyqnhnbzbVsMCI2PfKbacN"
+    }
+  },
+  {
     "title": "Muchos aspirantes…, sólo un Balón de Oro",
     "url": "https://as.com/futbol/primera/muchos-aspirantes-solo-un-balon-de-oro-f202610-n/",
     "summary": "Rodri es el único futbolista que tiene un galardón al que aspiran Lamine y Mbappé. Flick protegió en París al madrileño, que se estrena en un Clásico.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APAMikfeuHGHkk8GZmmhn1W"
-    }
-  },
-  {
-    "title": "La generación Z es de Endrick y Lamine",
-    "url": "https://as.com/futbol/primera/la-generacion-z-es-de-endrick-y-lamine-f202610-n/",
-    "summary": "Entre ambos acumulan millones de seguidores en las redes sociales y decenas de patrocinios.",
-    "published": "Thu, 22 Oct 2026 07:42:37 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YDKE42RXKVF4JBKAFUYNZG5WKA.jpg?auth=fba0fc9c9c55b4548431b5c69fadd6756d7080486aa95c4c0c8e74c8ada6da8a",
-    "media_type": "image/jpeg",
-    "arabic_title": "الجيل Z من إندريك ولامين",
-    "arabic_summary": "فيما بينهم يجمعون ملايين المتابعين على الشبكات الاجتماعية وعشرات الرعاية.",
-    "translation_status": "translated",
-    "post_title": "الجيل Z من إندريك ولامين",
-    "post_text": "🚨 الجيل Z من إندريك ولامين\n\n📝 فيما بينهم يجمعون ملايين المتابعين على الشبكات الاجتماعية وعشرات الرعاية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085154617483182",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الجيل_Z_من_إندريك_ولامين.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/la-generacion-z-es-de-endrick-y-lamine-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArYmNywKO3AzPHRKxZ2eKBm"
     }
   }
 ]
