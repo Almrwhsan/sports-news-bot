@@ -1,5 +1,39 @@
 [
   {
+    "title": "England crumble to 241 all out vs Pakistan despite Duckett century LIVE!",
+    "url": "https://www.skysports.com/cricket/live-blog/12040/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win",
+    "summary": "",
+    "published": "Sun, 25 Oct 2026 07:25:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-ben-duckett-england-mens-odi-cricket_7386505.jpg?20261025110158",
+    "media_type": "image/jpg",
+    "arabic_title": "إنجلترا تنهار إلى 241 نقطة أمام باكستان رغم Duckett Century LIVE!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "إنجلترا تنهار إلى 241 نقطة أمام باكستان رغم Duckett Century LIVE!",
+    "post_text": "🚨 إنجلترا تنهار إلى 241 نقطة أمام باكستان رغم Duckett Century LIVE!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088118460520131",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تنهار_إلى_241_نقطة_أمام_باكستان_رغم_Duckett_Century_LIVE!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/live-blog/12040/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsHI9B1klCx51mjOwKgVaBd"
+    }
+  },
+  {
     "title": "European Championship Darts LIVE! Littler chases elusive major on finals day",
     "url": "https://www.skysports.com/darts/live-blog/12040/13603407/european-championship-darts-commentary-updates-scores-analysis-with-luke-littler-in-finals-day-in-dortmund",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APjhZ3BUBWspBdedemqae2w"
-    }
-  },
-  {
-    "title": "El Top-5 de Kroos de mejores mediocentros de la historia: una lista que va a dar mucho que hablar",
-    "url": "https://as.com/futbol/videos/el-top-5-de-kroos-de-mejores-mediocentros-de-la-historia-una-lista-que-va-a-dar-mucho-que-hablar-f202610-v/",
-    "summary": "El ex del Real Madrid formó este top en el podcast que tiene junto a su hermano. No va a dejar indiferente a nadie.",
-    "published": "Wed, 21 Oct 2026 17:12:49 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261021/1228168_170022_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "كروس: أفضل 5 لاعبي خط وسط في التاريخ: قائمة ستعطي الكثير للحديث عنها",
-    "arabic_summary": "شكّل لاعب ريال مدريد السابق هذه القمة في البودكاست الذي أجراه مع شقيقه. ولن يترك أي شخص غير مبال.",
-    "translation_status": "translated",
-    "post_title": "كروس: أفضل 5 لاعبي خط وسط في التاريخ: قائمة ستعطي الكثير للحديث عنها",
-    "post_text": "🚨 كروس: أفضل 5 لاعبي خط وسط في التاريخ: قائمة ستعطي الكثير للحديث عنها\n\n📝 شكّل لاعب ريال مدريد السابق هذه القمة في البودكاست الذي أجراه مع شقيقه. ولن يترك أي شخص غير مبال.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084985570833420",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كروس_أفضل_5_لاعبي_خط_وسط_في_التاريخ_قائمة_ستعطي_الكثير_للحديث_عنها.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHMreSw9zu-fwM1JMgDFcSt"
     }
   }
 ]
