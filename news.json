@@ -1,5 +1,39 @@
 [
   {
+    "title": "Littler powers past Aspinall to reach European Championship quarter-finals",
+    "url": "https://www.skysports.com/darts/news/12040/13603151/luke-littler-still-on-course-to-win-european-championship-darts-after-second-round-win-over-nathan-aspinall",
+    "summary": "Luke Littler remains on course to win the one major title he's never won as he beat Nathan Aspinall 10-5 in the second round of the European Championship Darts on Saturday evening.",
+    "published": "Sat, 24 Oct 2026 22:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-littler-nathan_7386209.jpg?20261024215120",
+    "media_type": "image/jpg",
+    "arabic_title": "يتغلب ليتلر على أسبينال ليبلغ ربع نهائي بطولة أوروبا",
+    "arabic_summary": "لا يزال لوك ليتلر في طريقه للفوز باللقب الرئيسي الوحيد الذي لم يفز به أبدًا، حيث تغلب على ناثان أسبينال 10-5 في الجولة الثانية من بطولة السهام الأوروبية مساء السبت.",
+    "translation_status": "translated",
+    "post_title": "يتغلب ليتلر على أسبينال ليبلغ ربع نهائي بطولة أوروبا",
+    "post_text": "🚨 يتغلب ليتلر على أسبينال ليبلغ ربع نهائي بطولة أوروبا\n\n📝 لا يزال لوك ليتلر في طريقه للفوز باللقب الرئيسي الوحيد الذي لم يفز به أبدًا، حيث تغلب على ناثان أسبينال 10-5 في الجولة الثانية من بطولة السهام الأوروبية مساء السبت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1087959797202664",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتغلب_ليتلر_على_أسبينال_ليبلغ_ربع_نهائي_بطولة_أوروبا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/darts/news/12040/13603151/luke-littler-still-on-course-to-win-european-championship-darts-after-second-round-win-over-nathan-aspinall",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYFRlS0iP2I4MadtH_gtEzL"
+    }
+  },
+  {
     "title": "Anselmi: \"Entendimos los momentos del partido, tanto en la previa como durante\"",
     "url": "https://www.marca.com/futbol/elche/2026/10/24/anselmi-entendimos-momentos-partido-tanto-previa-durante.html",
     "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYqp3YQ_KphymVdcXmv34vq"
-    }
-  },
-  {
-    "title": "Arrasate y la fórmula del arraigo",
-    "url": "https://as.com/futbol/arrasate-y-la-formula-del-arraigo-f202610-n/",
-    "summary": "El regreso del entrenador de Osasuna a El Sadar reactiva un idilio eterno: la demostración de que el método de comunión entre club, grada y banquillo sí funciona.",
-    "published": "Wed, 21 Oct 2026 09:15:53 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DEEPO5RSTWEJGTX3WEEVBYAHAY.jpg?auth=2740f47b7e9f8b7a759175efb50f83165f394254b1f12920b904787511ba5632",
-    "media_type": "image/jpeg",
-    "arabic_title": "Arrasate وصيغة الجذور",
-    "arabic_summary": "عودة مدرب أوساسونا إلى الصدر تعيد إحياء قصيدة شاعرية أبدية: إثبات نجاح أسلوب التواصل بين النادي والمدرجات ومقاعد البدلاء.",
-    "translation_status": "translated",
-    "post_title": "Arrasate وصيغة الجذور",
-    "post_text": "🚨 Arrasate وصيغة الجذور\n\n📝 عودة مدرب أوساسونا إلى الصدر تعيد إحياء قصيدة شاعرية أبدية: إثبات نجاح أسلوب التواصل بين النادي والمدرجات ومقاعد البدلاء.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1084657884199522",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Arrasate_وصيغة_الجذور.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/arrasate-y-la-formula-del-arraigo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Anv78Lo3JePMJNsvRoXAJHc"
     }
   }
 ]
