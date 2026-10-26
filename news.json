@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mbappé le recorta un gol a Raphinha tras el Clásico",
+    "url": "https://www.marca.com/futbol/premios-marca/2026/10/26/mbappe-le-recorta-gol-raphinha-clasico.html",
+    "summary": "Con los dos goles del Camp Nou, el se queda a dos goles del brasileño",
+    "published": "Mon, 26 Oct 2026 12:35:42 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf31a5b0392.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مبابي يتراجع بهدف من رافينيا بعد الكلاسيكو",
+    "arabic_summary": "وبهدفيه في الكامب نو، يتأخر بهدفين عن البرازيلي",
+    "translation_status": "translated",
+    "post_title": "مبابي يتراجع بهدف من رافينيا بعد الكلاسيكو",
+    "post_text": "🚨 مبابي يتراجع بهدف من رافينيا بعد الكلاسيكو\n\n📝 وبهدفيه في الكامب نو، يتأخر بهدفين عن البرازيلي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089358827062761",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي_يتراجع_بهدف_من_رافينيا_بعد_الكلاسيكو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premios-marca/2026/10/26/mbappe-le-recorta-gol-raphinha-clasico.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AuuebZGVHAEsjUeGS-rKfRF"
+    }
+  },
+  {
     "title": "El consuelo del Barça tras el Clásico: récord de taquilla, de ventas en la Megaestore y de ingresos con Tyler",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/26/consuelo-barca-clasico-record-taquilla-ventas-megaestore-ingresos-tyler.html",
     "summary": "Cerró una recaudación de... ¡19.105.768 euros!",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcRPT2dxuIou8MA8YCa-iws"
-    }
-  },
-  {
-    "title": "Alavés - Málaga: a qué hora, dónde ver en TV y canal del partido de LaLiga EA Sports",
-    "url": "https://www.marca.com/futbol/primera-division/2026/10/23/alaves-malaga-que-hora-donde-ver-tv-canal-partido-laliga-ea-sports.html",
-    "summary": "Los locales llevan cinco partidos sin vencer, mientras que el Málaga todavía no lo ha hecho",
-    "published": "Fri, 23 Oct 2026 09:48:38 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/21/70489819990296.png",
-    "media_type": "image/jpeg",
-    "arabic_title": "ألافيس - مالقة: في أي وقت، أين تشاهد مباراة الدوري الإسباني على التلفاز وقناة EA Sports",
-    "arabic_summary": "لم يحقق الفريق المحلي أي فوز في خمس مباريات، بينما لم يحقق ملقة ذلك حتى الآن",
-    "translation_status": "translated",
-    "post_title": "ألافيس - مالقة: في أي وقت، أين تشاهد مباراة الدوري الإسباني على التلفاز وقناة EA Sports",
-    "post_text": "🚨 ألافيس - مالقة: في أي وقت، أين تشاهد مباراة الدوري الإسباني على التلفاز وقناة EA Sports\n\n📝 لم يحقق الفريق المحلي أي فوز في خمس مباريات، بينما لم يحقق ملقة ذلك حتى الآن\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086335047365139",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ألافيس_-_مالقة_في_أي_وقت،_أين_تشاهد_مباراة_الدوري_الإسباني_على_التلفاز_وقناة_EA_.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/10/23/alaves-malaga-que-hora-donde-ver-tv-canal-partido-laliga-ea-sports.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhvY59-q8y0359_htiolpqv"
     }
   }
 ]
