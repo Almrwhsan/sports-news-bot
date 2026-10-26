@@ -1,5 +1,39 @@
 [
   {
+    "title": "¡El auténtico golazo de Aleksandr Selikhov! El portero que marcó de falta en la Segunda División Rusa",
+    "url": "https://www.marca.com/futbol/2026/10/26/autentico-golazo-aleksandr-selikhov-portero-marco-falta-segunda-division-rusa-video.html",
+    "summary": "",
+    "published": "Mon, 26 Oct 2026 11:12:44 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/gO3rw1gtoTGDqHOqN.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هدف الكسندر سيليخوف الحقيقي! حارس المرمى الذي سجل من ركلة حرة في دوري الدرجة الثانية الروسي",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هدف الكسندر سيليخوف الحقيقي! حارس المرمى الذي سجل من ركلة حرة في دوري الدرجة الثانية الروسي",
+    "post_text": "🚨 هدف الكسندر سيليخوف الحقيقي! حارس المرمى الذي سجل من ركلة حرة في دوري الدرجة الثانية الروسي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089293870402590",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_الكسندر_سيليخوف_الحقيقي!_حارس_المرمى_الذي_سجل_من_ركلة_حرة_في_دوري_الدرجة_الث.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/26/autentico-golazo-aleksandr-selikhov-portero-marco-falta-segunda-division-rusa-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AV_dasNZDut6Bp7_VAkLbdg"
+    }
+  },
+  {
     "title": "El Barça no aprende de sus errores",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/26/barca-aprende-errores.html",
     "summary": "Dura semana para el Barça con dos derrotas frente a PSG y Real Madrid",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Agm_5O1LI3I_RsHeMurPsaN"
-    }
-  },
-  {
-    "title": "Rodríguez: “Nos examinamos todos los días”",
-    "url": "https://as.com/futbol/segunda/rodriguez-nos-examinamos-todos-los-dias-f202610-n/",
-    "summary": "El entrenador de Las Palmas advierte sobre los filiales: “Nunca sabes qué partido te van a dar”. Desliza que García y Recoba están cerca de volver.",
-    "published": "Fri, 23 Oct 2026 10:25:17 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XLKM7HA4U5COJH3YUFGFWUG2G4.jpg?auth=701334aba062b9748273c5305e94ac448f7a70b8a259845ca84b82f6442df31d",
-    "media_type": "image/jpeg",
-    "arabic_title": "رودريغيز: \"نحن نفحص أنفسنا كل يوم\"",
-    "arabic_summary": "مدرب لاس بالماس يحذر من الرديف: «لا تعرف أبدًا ما هي المباراة التي سيقدمونها لك». يتبين أن غارسيا وريكوبا على وشك العودة.",
-    "translation_status": "translated",
-    "post_title": "رودريغيز: \"نحن نفحص أنفسنا كل يوم\"",
-    "post_text": "🚨 رودريغيز: \"نحن نفحص أنفسنا كل يوم\"\n\n📝 مدرب لاس بالماس يحذر من الرديف: «لا تعرف أبدًا ما هي المباراة التي سيقدمونها لك». يتبين أن غارسيا وريكوبا على وشك العودة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086301777368466",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رودريغيز_نحن_نفحص_أنفسنا_كل_يوم.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/segunda/rodriguez-nos-examinamos-todos-los-dias-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwmEoc2sze0F7jTT9-Zmyhc"
     }
   }
 ]
