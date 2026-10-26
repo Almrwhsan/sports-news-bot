@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Betis se queda a cero por primera vez esta temporada",
+    "url": "https://as.com/futbol/el-betis-se-queda-a-cero-por-primera-vez-esta-temporada-f202610-n/",
+    "summary": "Los de Pellegrini habían marcado 23 goles en los 12 partidos disputados entre la Liga y la Champions antes de empatar a cero con el Celta en Balaídos.",
+    "published": "Mon, 26 Oct 2026 10:26:47 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PB5WVMFXH5OFNPW775UJ5PVWP4.jpg?auth=b2ca8e9da5436023f0de87d749a362464275b9dccd4f77997ed31feec2b67264",
+    "media_type": "image/jpeg",
+    "arabic_title": "بيتيس يبقى بدون أهداف للمرة الأولى هذا الموسم",
+    "arabic_summary": "سجل رجال بيليجريني 23 هدفًا في 12 مباراة خاضتها بين الدوري والأبطال قبل أن يتعادلوا 0-0 مع سيلتا في بالايدوس.",
+    "translation_status": "translated",
+    "post_title": "بيتيس يبقى بدون أهداف للمرة الأولى هذا الموسم",
+    "post_text": "🚨 بيتيس يبقى بدون أهداف للمرة الأولى هذا الموسم\n\n📝 سجل رجال بيليجريني 23 هدفًا في 12 مباراة خاضتها بين الدوري والأبطال قبل أن يتعادلوا 0-0 مع سيلتا في بالايدوس.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089062063759104",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيتيس_يبقى_بدون_أهداف_للمرة_الأولى_هذا_الموسم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/el-betis-se-queda-a-cero-por-primera-vez-esta-temporada-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5XysFuwoeFs5L5eBRJRnB6"
+    }
+  },
+  {
     "title": "Martínez Munuera refleja en el acta el lanzamiento de objetos tras el 1-2 de Mbappé",
     "url": "https://www.marca.com/futbol/primera-division/2026/10/26/martinez-munuera-refleja-acta-lanzamiento-objetos-1-2-mbappe.html",
     "summary": "El árbitro activó el protocolo por el lanzamiento de objetos a los jugadores blancos",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AttV04CJ1JocXOaqbAH22W8"
-    }
-  },
-  {
-    "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
-    "url": "https://www.skysports.com/football/news/12040/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-    "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months without a home league defeat.",
-    "published": "Fri, 23 Oct 2026 08:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-reporter-notebook_7383785.jpg?20261022152751",
-    "media_type": "image/jpg",
-    "arabic_title": "دفتر المراسل: لا توجد محطات ذعر في سندرلاند رغم البداية الصعبة",
-    "arabic_summary": "من المؤكد أنها كانت بداية مختلفة للموسم بالنسبة لسندرلاند مقارنة بالعام الماضي، عندما خرج من الفخاخ عند عودته إلى الدوري الإنجليزي الممتاز ومضى أشهر دون هزيمة في الدوري المحلي.",
-    "translation_status": "translated",
-    "post_title": "دفتر المراسل: لا توجد محطات ذعر في سندرلاند رغم البداية الصعبة",
-    "post_text": "🚨 دفتر المراسل: لا توجد محطات ذعر في سندرلاند رغم البداية الصعبة\n\n📝 من المؤكد أنها كانت بداية مختلفة للموسم بالنسبة لسندرلاند مقارنة بالعام الماضي، عندما خرج من الفخاخ عند عودته إلى الدوري الإنجليزي الممتاز ومضى أشهر دون هزيمة في الدوري المحلي.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086074920724485",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دفتر_المراسل_لا_توجد_محطات_ذعر_في_سندرلاند_رغم_البداية_الصعبة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ad4ftazjbiT-khbt_mKSX6b"
     }
   }
 ]
