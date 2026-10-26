@@ -1,5 +1,39 @@
 [
   {
+    "title": "La trampa de Mourinho y el mensaje de Valdebebas para conquistar el Clásico",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/trampa-mourinho-mensaje-valdebebas-conquistar-clasico.html",
+    "summary": "Explotar los espacios del Barcelona, blindar al equipo y reforzar una mentalidad competitiva que volvió a marcar la diferencia",
+    "published": "Mon, 26 Oct 2026 12:54:41 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf1fef5279a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فخ مورينيو ورسالة الفالديبيباس للفوز بالكلاسيكو",
+    "arabic_summary": "استغلال مساحات برشلونة وحماية الفريق وتعزيز العقلية التنافسية التي صنعت الفارق مرة أخرى",
+    "translation_status": "translated",
+    "post_title": "فخ مورينيو ورسالة الفالديبيباس للفوز بالكلاسيكو",
+    "post_text": "🚨 فخ مورينيو ورسالة الفالديبيباس للفوز بالكلاسيكو\n\n📝 استغلال مساحات برشلونة وحماية الفريق وتعزيز العقلية التنافسية التي صنعت الفارق مرة أخرى\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089446010387376",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فخ_مورينيو_ورسالة_الفالديبيباس_للفوز_بالكلاسيكو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/trampa-mourinho-mensaje-valdebebas-conquistar-clasico.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AMl15GA4LlbEQLOYrcGmgei"
+    }
+  },
+  {
     "title": "Decisión dura de Flick tras el Clásico: no viaja a Londres",
     "url": "https://as.com/futbol/cubarsi-no-viaja-lamine-apunta-al-kopa-f202610-n/",
     "summary": "El alemán ha decidido no acudir a la gala del Balón de Oro. Tampoco estará Cubarsí, que se queda en casa para descansar tras su carga de minutos con la Selección y el FC Barcelona.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AT14Z8qOgaLH5jOuslB2ZnM"
-    }
-  },
-  {
-    "title": "Scot Prem: Rangers hit by sickness bug ahead of St Johnstone game",
-    "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-    "summary": "",
-    "published": "Fri, 23 Oct 2026 14:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-derek-mcinnes-rangers_7336675.jpg?20260831154713",
-    "media_type": "image/jpg",
-    "arabic_title": "سكوت بريم: أصيب رينجرز بمرض عضال قبل مباراة سانت جونستون",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "سكوت بريم: أصيب رينجرز بمرض عضال قبل مباراة سانت جونستون",
-    "post_text": "🚨 سكوت بريم: أصيب رينجرز بمرض عضال قبل مباراة سانت جونستون\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086394367359207",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سكوت_بريم_أصيب_رينجرز_بمرض_عضال_قبل_مباراة_سانت_جونستون.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ALJ5joFB_-J8ta2j8ZDeXF9"
     }
   }
 ]
