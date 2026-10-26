@@ -1,5 +1,39 @@
 [
   {
+    "title": "¿Quién es el gran triunfador de El Clásico? Participa en el debate de AS",
+    "url": "https://as.com/futbol/primera/quien-es-el-gran-triunfador-de-el-clasico-participa-en-el-debate-de-as-f202610-d/",
+    "summary": "¿Quién es el gran triunfador de El Clásico? Participa en el debate de AS",
+    "published": "Mon, 26 Oct 2026 08:05:34 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WZWJG57OBVJPRHCBFF2OOPPOBM.jpg?auth=840e54ab978c09d7f8b403cd1d70824b903b4bb16ad9498bfdd66ef8288f4128",
+    "media_type": "image/jpeg",
+    "arabic_title": "من هو الفائز الأكبر في الكلاسيكو؟ المشاركة في مناقشة AS",
+    "arabic_summary": "من هو الفائز الأكبر في الكلاسيكو؟ المشاركة في مناقشة AS",
+    "translation_status": "translated",
+    "post_title": "من هو الفائز الأكبر في الكلاسيكو؟ المشاركة في مناقشة AS",
+    "post_text": "🚨 من هو الفائز الأكبر في الكلاسيكو؟ المشاركة في مناقشة AS\n\n📝 من هو الفائز الأكبر في الكلاسيكو؟ المشاركة في مناقشة AS\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088918207106823",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_هو_الفائز_الأكبر_في_الكلاسيكو؟_المشاركة_في_مناقشة_AS.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/quien-es-el-gran-triunfador-de-el-clasico-participa-en-el-debate-de-as-f202610-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcAarDmP2YLz7vKfDdZv8aR"
+    }
+  },
+  {
     "title": "El Real Madrid está de vuelta en el Balón de Oro y en la UEFA",
     "url": "https://as.com/futbol/el-real-madrid-esta-de-vuelta-en-el-balon-de-oro-y-en-la-uefa-f202610-n/",
     "summary": "La presencia del Real Madrid en la gala del Balón de Oro escenificará su reconciliación con la UEFA y anticipará su regreso a la EFC, poniendo fin a años de enfrentamientos por la Superliga.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANRxUzTAqoUivLtReFtgMnn"
-    }
-  },
-  {
-    "title": "Ansu Fati resucita como uno de los mejores definidores de Europa con un reivindicativo gol",
-    "url": "https://www.marca.com/futbol/conference-league/2026/10/23/ansu-fati-resucita-mejores-definidores-europa-reivindicativo-gol.html",
-    "summary": "El ex del Barcelona ha participado en los cuatro últimos partidos del Mónaco tras dejar atrás sus últimos problemas físicos",
-    "published": "Fri, 23 Oct 2026 06:02:53 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adadc2a8d5d6.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعود أنسو فاتي من جديد كواحد من أفضل اللاعبين في أوروبا بهدف انتقامي",
-    "arabic_summary": "وشارك لاعب برشلونة السابق في آخر أربع مباريات لموناكو بعد أن ترك وراءه آخر مشاكله البدنية.",
-    "translation_status": "translated",
-    "post_title": "يعود أنسو فاتي من جديد كواحد من أفضل اللاعبين في أوروبا بهدف انتقامي",
-    "post_text": "🚨 يعود أنسو فاتي من جديد كواحد من أفضل اللاعبين في أوروبا بهدف انتقامي\n\n📝 وشارك لاعب برشلونة السابق في آخر أربع مباريات لموناكو بعد أن ترك وراءه آخر مشاكله البدنية.\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085947990737178",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_أنسو_فاتي_من_جديد_كواحد_من_أفضل_اللاعبين_في_أوروبا_بهدف_انتقامي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/conference-league/2026/10/23/ansu-fati-resucita-mejores-definidores-europa-reivindicativo-gol.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ac8ctqswDip6qIS8d7NV29S"
     }
   }
 ]
