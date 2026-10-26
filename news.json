@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pendientes de Fede; mañana, pruebas",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/pendientes-fede-manana-pruebas.html",
+    "summary": "El uruguayo se retiró lesionado del Clásico por molestias musculares pendientes de examen",
+    "published": "Mon, 26 Oct 2026 10:51:36 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf21df6fe28.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أقراط الإيمان؛ غدا الاختبارات",
+    "arabic_summary": "اعتزل الأوروغوياني مصابًا من الكلاسيكو بسبب آلام في العضلات في انتظار الفحص",
+    "translation_status": "translated",
+    "post_title": "أقراط الإيمان؛ غدا الاختبارات",
+    "post_text": "🚨 أقراط الإيمان؛ غدا الاختبارات\n\n📝 اعتزل الأوروغوياني مصابًا من الكلاسيكو بسبب آلام في العضلات في انتظار الفحص\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089254697073174",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أقراط_الإيمان؛_غدا_الاختبارات.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/pendientes-fede-manana-pruebas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AaoKNOoItdzZr3QYmru-L9A"
+    }
+  },
+  {
     "title": "Mestalla se le apaga al Valencia: una victoria en nueve partidos",
     "url": "https://www.marca.com/futbol/valencia/2026/10/26/mestalla-le-apaga-valencia-victoria-nueve-partidos.html",
     "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvqA0Ow9_mRckEyXfjXlZQA"
-    }
-  },
-  {
-    "title": "Giménez explica su salida del Atlético y reconoce que \"Julián Alvarez pasó un momento jodido\"",
-    "url": "https://www.marca.com/futbol/deportivo/2026/10/23/gimenez-explica-salida-atletico-reconoce-julian-alvarez-paso-momento-jodido.html",
-    "summary": "José María Giménez se enfrenta con el Deportivo al Atlético de Madrid tras pasar 13 años en el club colchonero",
-    "published": "Fri, 23 Oct 2026 07:14:47 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adaecfc36fa3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جيمينيز يشرح رحيله عن أتلتيكو ويعترف بأن \"خوليان ألفاريز واجه لحظة فاشلة\"",
-    "arabic_summary": "خوسيه ماريا خيمينيز يواجه أتلتيكو مدريد مع ديبورتيفو بعد أن أمضى 13 عامًا في نادي المراتب",
-    "translation_status": "translated",
-    "post_title": "جيمينيز يشرح رحيله عن أتلتيكو ويعترف بأن \"خوليان ألفاريز واجه لحظة فاشلة\"",
-    "post_text": "🚨 جيمينيز يشرح رحيله عن أتلتيكو ويعترف بأن \"خوليان ألفاريز واجه لحظة فاشلة\"\n\n📝 خوسيه ماريا خيمينيز يواجه أتلتيكو مدريد مع ديبورتيفو بعد أن أمضى 13 عامًا في نادي المراتب\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086270957371548",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيمينيز_يشرح_رحيله_عن_أتلتيكو_ويعترف_بأن_خوليان_ألفاريز_واجه_لحظة_فاشلة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/deportivo/2026/10/23/gimenez-explica-salida-atletico-reconoce-julian-alvarez-paso-momento-jodido.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADHDv6zQDr1JvZQNcu1v8TI"
     }
   }
 ]
