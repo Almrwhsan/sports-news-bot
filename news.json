@@ -1,5 +1,39 @@
 [
   {
+    "title": "La Nova Creu Alta es un Templo",
+    "url": "https://as.com/futbol/segunda/la-nova-creu-alta-es-un-templo-f202610-n/",
+    "summary": "El Sabadell, recién ascendido a Segunda, no ha perdido aún en su estadio. Su balance en los cinco partidos disputados, tres victorias y dos empates. Castellón y Almería, los dos primeros clasificados, los otros invictos de la categoría.",
+    "published": "Mon, 26 Oct 2026 09:15:32 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6A2LCKSERVG4BPQADYO6RBOPTQ.jpg?auth=92ff2d794a83e4948738d2049a392845889b219cc6b396133167c094fe6eb895",
+    "media_type": "image/jpeg",
+    "arabic_title": "الصليب العالي الجديد هو معبد",
+    "arabic_summary": "ولم يخسر ساباديل، الذي صعد مؤخرا إلى الدرجة الثانية، حتى الآن في ملعبه. رصيدهم في المباريات الخمس التي لعبوها، ثلاثة انتصارات وتعادلين. كاستيلون وألميريا، أول فريقين مصنفين، والآخرون لم يهزموا في هذه الفئة.",
+    "translation_status": "translated",
+    "post_title": "الصليب العالي الجديد هو معبد",
+    "post_text": "🚨 الصليب العالي الجديد هو معبد\n\n📝 ولم يخسر ساباديل، الذي صعد مؤخرا إلى الدرجة الثانية، حتى الآن في ملعبه. رصيدهم في المباريات الخمس التي لعبوها، ثلاثة انتصارات وتعادلين. كاستيلون وألميريا، أول فريقين مصنفين، والآخرون لم يهزموا في هذه الفئة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089032947095349",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الصليب_العالي_الجديد_هو_معبد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/segunda/la-nova-creu-alta-es-un-templo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhhA-GDq0k8e1lUn7ijqIYu"
+    }
+  },
+  {
     "title": "Cinco candidatos, mucho misterio",
     "url": "https://as.com/futbol/internacional/cinco-candidatos-mucho-misterio-f202610-n/",
     "summary": "El fútbol de Lamine y Kane, los goles de Mbappé, los Mundiales de Rodri y Messi… Todos tienen argumentos de cara al Balón de Oro 2026 que se entregará por 1ª vez en Londres.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AshY8pL3GGkraA55cxY4apD"
-    }
-  },
-  {
-    "title": "Williams leads Bears past Patriots in impressive victory",
-    "url": "https://www.skysports.com/nfl/news/12040/13602535/nfl-caleb-williams-and-luther-burden-propel-chicago-bears-over-drake-mayes-new-england-patriots",
-    "summary": "Caleb Williams passed for 308 yards and two touchdowns as the Bears cooled off Drake Maye and the New England Patriots with a 30-24 victory at Solider Field on Thursday night.",
-    "published": "Fri, 23 Oct 2026 06:07:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-williams-nfl_7384264.jpg?20261023063615",
-    "media_type": "image/jpg",
-    "arabic_title": "يقود ويليامز فريق بيرز أمام باتريوتس في انتصار مثير للإعجاب",
-    "arabic_summary": "مر كاليب ويليامز لمسافة 308 ياردات وهبوطين بينما هدأ فريق الدببة من دريك ماي ونيو إنجلاند باتريوتس بفوز 30-24 في سوليدر فيلد ليلة الخميس.",
-    "translation_status": "translated",
-    "post_title": "يقود ويليامز فريق بيرز أمام باتريوتس في انتصار مثير للإعجاب",
-    "post_text": "🚨 يقود ويليامز فريق بيرز أمام باتريوتس في انتصار مثير للإعجاب\n\n📝 مر كاليب ويليامز لمسافة 308 ياردات وهبوطين بينما هدأ فريق الدببة من دريك ماي ونيو إنجلاند باتريوتس بفوز 30-24 في سوليدر فيلد ليلة الخميس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086037310728246",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يقود_ويليامز_فريق_بيرز_أمام_باتريوتس_في_انتصار_مثير_للإعجاب.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13602535/nfl-caleb-williams-and-luther-burden-propel-chicago-bears-over-drake-mayes-new-england-patriots",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AW7mg_II9q_A9kcSaH4rqkF"
     }
   }
 ]
