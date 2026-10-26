@@ -1,5 +1,39 @@
 [
   {
+    "title": "Polémica, análisis y reacciones del Barcelona 1-2 Real Madrid de LaLiga EA Sports",
+    "url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-barcelona-real-madrid-de-laliga-ea-sports-f202610-d/",
+    "summary": "El Real Madrid se lleva los tres puntos del Camp Nou y el Barça cosecha la primera derrota liguera de la temporada.",
+    "published": "Mon, 26 Oct 2026 05:13:00 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VVBHPLLUZJLHZIXDQEVSYNXU6Q.jpg?auth=64f1549d004abdf3e58192d7d2a66b7b09b36da6717bf2697288b7d08ab08498",
+    "media_type": "image/jpeg",
+    "arabic_title": "جدل وتحليل وردود أفعال برشلونة 1-2 ريال مدريد من الدوري الإسباني EA Sports",
+    "arabic_summary": "ريال مدريد يحصل على النقاط الثلاث من الكامب نو ويحصد برشلونة أول هزيمة له في الدوري هذا الموسم.",
+    "translation_status": "translated",
+    "post_title": "جدل وتحليل وردود أفعال برشلونة 1-2 ريال مدريد من الدوري الإسباني EA Sports",
+    "post_text": "🚨 جدل وتحليل وردود أفعال برشلونة 1-2 ريال مدريد من الدوري الإسباني EA Sports\n\n📝 ريال مدريد يحصل على النقاط الثلاث من الكامب نو ويحصد برشلونة أول هزيمة له في الدوري هذا الموسم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088818570450120",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جدل_وتحليل_وردود_أفعال_برشلونة_1-2_ريال_مدريد_من_الدوري_الإسباني_EA_Sports.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-barcelona-real-madrid-de-laliga-ea-sports-f202610-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcSyHf7MUwASAWnPqTgfgGQ"
+    }
+  },
+  {
     "title": "Russia to host 2030 World Weightlifting Championships",
     "url": "https://www.skysports.com/olympics/news/12040/13603778/russia-to-host-2030-world-weightlifting-championships",
     "summary": "Moscow is set to host the 2030 World Weightlifting Championships, marking the first time a world championship for an Olympic sport will be held in Russia since the start of the Ukraine war.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIKX0kM9D29fByCVF0EiwjQ"
-    }
-  },
-  {
-    "title": "Aspas: “Hemos hecho un grandísimo partido”",
-    "url": "https://www.marca.com/futbol/europa-league/2026/10/23/aspas-hemos-hecho-grandisimo-partido.html",
-    "summary": "El capitán celebra que hayan renovado a Javi Rodríguez a tiempo",
-    "published": "Fri, 23 Oct 2026 00:08:17 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6ada89154b5ee.png",
-    "media_type": "image/jpeg",
-    "arabic_title": "أسباس: \"لقد لعبنا مباراة رائعة\"",
-    "arabic_summary": "يحتفل الكابتن بتجديد خابي رودريغيز في الوقت المحدد",
-    "translation_status": "translated",
-    "post_title": "أسباس: \"لقد لعبنا مباراة رائعة\"",
-    "post_text": "🚨 أسباس: \"لقد لعبنا مباراة رائعة\"\n\n📝 يحتفل الكابتن بتجديد خابي رودريغيز في الوقت المحدد\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085747144090596",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أسباس_لقد_لعبنا_مباراة_رائعة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/europa-league/2026/10/23/aspas-hemos-hecho-grandisimo-partido.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Al5Y7yk_hvipGryIJ6RnoEv"
     }
   }
 ]
