@@ -1,5 +1,39 @@
 [
   {
+    "title": "Se apagó la luz: 22 partidos después, el Betis se queda a cero",
+    "url": "https://www.marca.com/futbol/betis/2026/10/26/apago-luz-22-partidos-despues-betis-queda-cero.html",
+    "summary": "Los verdiblancos habían marcado en todos los partidos desde el 0-0 con el Espanyol en abril",
+    "published": "Mon, 26 Oct 2026 12:05:53 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf0ef4539be.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "انطفأ الضوء: بعد 22 مباراة، بقي بيتيس عند الصفر",
+    "arabic_summary": "وكان الفريق الأخضر والأبيض قد سجل في كل مباراة منذ التعادل 0-0 مع إسبانيول في أبريل",
+    "translation_status": "translated",
+    "post_title": "انطفأ الضوء: بعد 22 مباراة، بقي بيتيس عند الصفر",
+    "post_text": "🚨 انطفأ الضوء: بعد 22 مباراة، بقي بيتيس عند الصفر\n\n📝 وكان الفريق الأخضر والأبيض قد سجل في كل مباراة منذ التعادل 0-0 مع إسبانيول في أبريل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089332033732107",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/انطفأ_الضوء_بعد_22_مباراة،_بقي_بيتيس_عند_الصفر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/10/26/apago-luz-22-partidos-despues-betis-queda-cero.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AlyM8Ccaw3fRf8SFMDA2Q97"
+    }
+  },
+  {
     "title": "Óskarsson: Estoy feliz por mi buen momento, pero pude marcar más goles al Levante”",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/10/26/oskarsson-feliz-mi-buen-momento-pude-marcar-goles.html",
     "summary": "El delantero islandés está satisfecho de encadenar tres partidos seguidos haciendo un tanto, pero reconoce que frente al Levante tuvo ocasiones para haber logrado más",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AoDlVhC4vJeQNhP6v54srQQ"
-    }
-  },
-  {
-    "title": "El aviso del capitán del Deportivo antes de enfrentarse al Atlético",
-    "url": "https://www.marca.com/radio/2026/10/23/aviso-capitan-deportivo-enfrentarse-atletico.html",
-    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
-    "published": "Fri, 23 Oct 2026 09:23:16 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/gJvKQ1gsmgFwgalSo.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تحذير قائد ديبورتيفو قبل مواجهة أتلتيكو",
-    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
-    "translation_status": "translated",
-    "post_title": "تحذير قائد ديبورتيفو قبل مواجهة أتلتيكو",
-    "post_text": "🚨 تحذير قائد ديبورتيفو قبل مواجهة أتلتيكو\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086327314032579",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تحذير_قائد_ديبورتيفو_قبل_مواجهة_أتلتيكو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/radio/2026/10/23/aviso-capitan-deportivo-enfrentarse-atletico.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUPZtRahaMU1YdYWqCayyen"
     }
   }
 ]
