@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Atlético premia a sus ‘héroes del descenso’",
+    "url": "https://as.com/futbol/primera/el-atletico-premia-a-sus-heroes-del-descenso-f202610-n/",
+    "summary": "El club vivió esta tarde la primera de las cuatro jornadas de imposición de insignias a los socios que cumplen 25 años de manera ininterrumpida abonados. Son",
+    "published": "Mon, 26 Oct 2026 21:26:59 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CCOWUDFO25CVBOXJZGHL4LTMM4.jpg?auth=95e97905e31a5d7b04308ba2a8d35ebaf1d4040f8720a8581bb8fda19f6bdc2c",
+    "media_type": null,
+    "arabic_title": "أتلتيكو يكافئ أبطال الهبوط",
+    "arabic_summary": "شهد النادي بعد ظهر اليوم اليوم الأول من الأيام الأربعة لمنح الشارات للأعضاء الذين اشتركوا دون انقطاع لمدة 25 عامًا. نكون",
+    "translation_status": "translated",
+    "post_title": "أتلتيكو يكافئ أبطال الهبوط",
+    "post_text": "🚨 أتلتيكو يكافئ أبطال الهبوط\n\n📝 شهد النادي بعد ظهر اليوم اليوم الأول من الأيام الأربعة لمنح الشارات للأعضاء الذين اشتركوا دون انقطاع لمدة 25 عامًا. نكون\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089479437050700",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_يكافئ_أبطال_الهبوط.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-atletico-premia-a-sus-heroes-del-descenso-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkORuPp4uE5x6AN2uD2gSQq"
+    }
+  },
+  {
     "title": "Makin wants to be Liverpool's next great champion",
     "url": "https://www.skysports.com/boxing/news/12040/13604029/callum-makin-wants-to-be-liverpools-next-great-champion-my-dream-is-to-follow-in-their-footsteps-and-create-a-story-for-myself",
     "summary": "Middleweight Callum Makin has excelled for the GB boxing team, but his Olympic future rests on a decision.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aw-eSAYPFPwG5Gr6_v4DqLn"
-    }
-  },
-  {
-    "title": "Spurs latest: Porro back for Chelsea trip but Maddison a doubt",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Fri, 23 Oct 2026 14:05:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار توتنهام: عودة بورو لرحلة تشيلسي لكن ماديسون محل شك",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار توتنهام: عودة بورو لرحلة تشيلسي لكن ماديسون محل شك",
-    "post_text": "🚨 آخر أخبار توتنهام: عودة بورو لرحلة تشيلسي لكن ماديسون محل شك\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086416867356957",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_توتنهام_عودة_بورو_لرحلة_تشيلسي_لكن_ماديسون_محل_شك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AzeAQmdwdNPqZHFgunL1cSH"
     }
   }
 ]
