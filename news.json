@@ -1,5 +1,39 @@
 [
   {
+    "title": "McDowell latest player to confirm LIV Golf exit",
+    "url": "https://www.skysports.com/golf/news/12040/13604118/liv-golf-graeme-mcdowell-becomes-latest-player-to-confirm-exit-from-breakaway-tour",
+    "summary": "Graeme McDowell has confirmed he will follow the lead of Jon Rahm, Tyrrell Hatton and Ian Poulter, among others, by becoming the latest player to leave LIV Golf.",
+    "published": "Mon, 26 Oct 2026 17:21:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-graeme-mcdowell-golf_7252805.jpg?20260519072908",
+    "media_type": "image/jpg",
+    "arabic_title": "ماكدويل أحدث لاعب يؤكد خروج LIV Golf",
+    "arabic_summary": "أكد جرايم ماكدويل أنه سيتبع خطى جون رام وتيريل هاتون وإيان بولتر، من بين آخرين، ليصبح أحدث لاعب يغادر LIV Golf.",
+    "translation_status": "translated",
+    "post_title": "ماكدويل أحدث لاعب يؤكد خروج LIV Golf",
+    "post_text": "🚨 ماكدويل أحدث لاعب يؤكد خروج LIV Golf\n\n📝 أكد جرايم ماكدويل أنه سيتبع خطى جون رام وتيريل هاتون وإيان بولتر، من بين آخرين، ليصبح أحدث لاعب يغادر LIV Golf.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089545407044103",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماكدويل_أحدث_لاعب_يؤكد_خروج_LIV_Golf.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/13604118/liv-golf-graeme-mcdowell-becomes-latest-player-to-confirm-exit-from-breakaway-tour",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AY3TYqe34rSZnojK7aHyeiK"
+    }
+  },
+  {
     "title": "El Barça también aplasta fuera del campo: Vicky, Cata, Romeu...",
     "url": "https://as.com/futbol/internacional/segundo-kopa-para-vicky-f202610-n/",
     "summary": "La centrocampista vallecana y la portera balear, campeonas de Liga, Copa, Supercopa y Champions con el Barça y de la Nations League con la Selección, se llevan el Kopa y el Yashin. Romeu, mejor entrenador.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Agj7UNCm8MA_wu5P3NURNd7"
-    }
-  },
-  {
-    "title": "Doyle: O'Brien to scoop Futurity prize with Noble Exhibit",
-    "url": "https://www.skysports.com/racing/news/12040/13602706/hollie-doyle-aidan-obrien-to-scoop-futurity-prize-with-noble-exhibit",
-    "summary": "As our ambassador Hollie Doyle gets closer to her comeback following a five-month injury lay-off, she looks ahead to some exciting action on Sky Sports Racing from Doncaster this weekend.",
-    "published": "Fri, 23 Oct 2026 15:08:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802",
-    "media_type": "image/jpg",
-    "arabic_title": "دويل: أوبراين يحصد جائزة المستقبل بمعرض نوبل",
-    "arabic_summary": "مع اقتراب سفيرتنا هولي دويل من عودتها بعد غيابها لمدة خمسة أشهر بسبب الإصابة، فإنها تتطلع إلى بعض الأحداث المثيرة على Sky Sports Racing من دونكاستر في نهاية هذا الأسبوع.",
-    "translation_status": "translated",
-    "post_title": "دويل: أوبراين يحصد جائزة المستقبل بمعرض نوبل",
-    "post_text": "🚨 دويل: أوبراين يحصد جائزة المستقبل بمعرض نوبل\n\n📝 مع اقتراب سفيرتنا هولي دويل من عودتها بعد غيابها لمدة خمسة أشهر بسبب الإصابة، فإنها تتطلع إلى بعض الأحداث المثيرة على Sky Sports Racing من دونكاستر في نهاية هذا الأسبوع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086447227353921",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دويل_أوبراين_يحصد_جائزة_المستقبل_بمعرض_نوبل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13602706/hollie-doyle-aidan-obrien-to-scoop-futurity-prize-with-noble-exhibit",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7kL3GLBR94tK3dU6m-ncl_"
     }
   }
 ]
