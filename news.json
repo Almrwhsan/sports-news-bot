@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Athletic aparca Liga y Copa y fija sus ojos en la coronación de Simón",
+    "url": "https://www.marca.com/futbol/athletic/2026/10/26/athletic-aparca-liga-copa-fija-ojos-coronacion-simon.html",
+    "summary": "El portero vuela a Londres junto a Uriarte y el director de fútbol, pero no puede viajar Iribar",
+    "published": "Mon, 26 Oct 2026 09:25:17 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9ab45eda086.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أتلتيك يعلق الدوري والكأس ويضع نصب عينيه تتويج سيمون",
+    "arabic_summary": "يسافر حارس المرمى إلى لندن مع أوريارتي ومدير الكرة، لكن إيريبار لا يستطيع السفر",
+    "translation_status": "translated",
+    "post_title": "أتلتيك يعلق الدوري والكأس ويضع نصب عينيه تتويج سيمون",
+    "post_text": "🚨 أتلتيك يعلق الدوري والكأس ويضع نصب عينيه تتويج سيمون\n\n📝 يسافر حارس المرمى إلى لندن مع أوريارتي ومدير الكرة، لكن إيريبار لا يستطيع السفر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089212187077425",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيك_يعلق_الدوري_والكأس_ويضع_نصب_عينيه_تتويج_سيمون.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/athletic/2026/10/26/athletic-aparca-liga-copa-fija-ojos-coronacion-simon.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUXn5vgd8l7UuQlV1y8MnxV"
+    }
+  },
+  {
     "title": "De Jonathas a Fer Niño; de Edgar Badia a Dituro",
     "url": "https://www.marca.com/futbol/elche/2026/10/26/jonathas-fer-nino-edgar-badia-dituro.html",
     "summary": "Tras la victoria en Vallecas, Fer Niño y Dituro han escrito su nombre en los registros históricos del Elche en Primera",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzvZZAt8uZxNsOXYK7oK2HG"
-    }
-  },
-  {
-    "title": "Pablo Rodríguez, el único español que 'aguanta el pulso' con Lamine Yamal: \"No me pongo límites\"",
-    "url": "https://www.marca.com/futbol/2026/10/23/pablo-rodriguez-unico-espanol-aguanta-pulso-lamine-yamal-me-pongo-limites.html",
-    "summary": "El atacante español del Lech Poznan, ex de Racing y Real Madrid Castilla, ha 'fabricado' 16 goles este curso",
-    "published": "Fri, 23 Oct 2026 06:42:16 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ada49a167e36.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بابلو رودريغيز، الإسباني الوحيد الذي \"يتمسك بنفسه\" مع لامين يامال: \"أنا لا أضع حدودًا لنفسي\"",
-    "arabic_summary": "المهاجم الإسباني من ليخ بوزنان، سابقًا لراسينج وريال مدريد كاستيا، سجل 16 هدفًا هذا الموسم",
-    "translation_status": "translated",
-    "post_title": "بابلو رودريغيز، الإسباني الوحيد الذي \"يتمسك بنفسه\" مع لامين يامال: \"أنا لا أضع حدودًا لنفسي\"",
-    "post_text": "🚨 بابلو رودريغيز، الإسباني الوحيد الذي \"يتمسك بنفسه\" مع لامين يامال: \"أنا لا أضع حدودًا لنفسي\"\n\n📝 المهاجم الإسباني من ليخ بوزنان، سابقًا لراسينج وريال مدريد كاستيا، سجل 16 هدفًا هذا الموسم\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086222964043014",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بابلو_رودريغيز،_الإسباني_الوحيد_الذي_يتمسك_بنفسه_مع_لامين_يامال_أنا_لا_أضع_حدودً.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/23/pablo-rodriguez-unico-espanol-aguanta-pulso-lamine-yamal-me-pongo-limites.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AI0r1wu-l5xQ125lp3nluBh"
     }
   }
 ]
