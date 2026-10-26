@@ -1,5 +1,39 @@
 [
   {
+    "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
+    "published": "Fri, 23 Oct 2026 06:06:38 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg",
+    "media_type": null,
+    "arabic_title": "حملة الكرة الذهبية شرسة خارج الملعب كما هي عليه",
+    "arabic_summary": "تعد جائزة الكرة الذهبية أعظم جائزة فردية في كرة القدم - وقد زاد التعطش للفوز بها في السنوات الأخيرة.",
+    "translation_status": "translated",
+    "post_title": "حملة الكرة الذهبية شرسة خارج الملعب كما هي عليه",
+    "post_text": "🚨 حملة الكرة الذهبية شرسة خارج الملعب كما هي عليه\n\n📝 تعد جائزة الكرة الذهبية أعظم جائزة فردية في كرة القدم - وقد زاد التعطش للفوز بها في السنوات الأخيرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088996267099017",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حملة_الكرة_الذهبية_شرسة_خارج_الملعب_كما_هي_عليه.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6BNz5dEX5KWt8o8cOYwQnw"
+    }
+  },
+  {
     "title": "Raphinha no faltó a su cita con el gol en un Clásico",
     "url": "https://as.com/futbol/primera/raphinha-no-falto-a-su-cita-con-el-gol-en-un-clasico-f202610-n/",
     "summary": "El delantero brasileño, pese a la derrota de su equipo, volvió a dejar huello ante el Real Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnLwUuoIR9sOfP9vcejAAV8"
-    }
-  },
-  {
-    "title": "Dos cambios y una apuesta arriesgada: así es como puede ganar Mourinho a Flick",
-    "url": "https://as.com/futbol/videos/dos-cambios-y-una-apuesta-arriesgada-asi-es-como-puede-ganar-mourinho-a-flick-f202610-v/",
-    "summary": "Mourinho está agitando el árbol tratando de seguir mejorado la competitividad de su Real Madrid. La banda derecha puede ser decisiva en El Clásico. Estas son las claves de un partido decisivo que se puede ganar desde la pizarra.",
-    "published": "Fri, 23 Oct 2026 06:16:29 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=MPlC-lax_vQ",
-    "media_type": "application/octet-stream",
-    "arabic_title": "تغييران ورهان محفوف بالمخاطر: هكذا يستطيع مورينيو التغلب على فليك",
-    "arabic_summary": "مورينيو يهز الشجرة محاولاً مواصلة تحسين القدرة التنافسية لفريقه ريال مدريد. يمكن للجناح الأيمن أن يكون حاسما في الكلاسيكو. هذه هي مفاتيح المباراة الحاسمة التي يمكن الفوز بها من خلال لوحة النتائج.",
-    "translation_status": "translated",
-    "post_title": "تغييران ورهان محفوف بالمخاطر: هكذا يستطيع مورينيو التغلب على فليك",
-    "post_text": "🚨 تغييران ورهان محفوف بالمخاطر: هكذا يستطيع مورينيو التغلب على فليك\n\n📝 مورينيو يهز الشجرة محاولاً مواصلة تحسين القدرة التنافسية لفريقه ريال مدريد. يمكن للجناح الأيمن أن يكون حاسما في الكلاسيكو. هذه هي مفاتيح المباراة الحاسمة التي يمكن الفوز بها من خلال لوحة النتائج.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086031390728838",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تغييران_ورهان_محفوف_بالمخاطر_هكذا_يستطيع_مورينيو_التغلب_على_فليك.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AITWTV3Xxj1XP-HWZGE_JAZ"
     }
   }
 ]
