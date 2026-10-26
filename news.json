@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mbappé, lanzado hacia su día D",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/mbappe-lanzado-dia-d.html",
+    "summary": "El francés llega a la gala del Balón de Oro tras decidir el Clásico y sus opciones se han duplicado en los últimos días.",
+    "published": "Mon, 26 Oct 2026 07:25:32 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/25/6ade6e0c126a4.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مبابي، ينطلق نحو يوم النصر",
+    "arabic_summary": "يصل الفرنسي إلى حفل الكرة الذهبية بعد أن قرر الكلاسيكو وتضاعفت خياراته في الأيام الأخيرة.",
+    "translation_status": "translated",
+    "post_title": "مبابي، ينطلق نحو يوم النصر",
+    "post_text": "🚨 مبابي، ينطلق نحو يوم النصر\n\n📝 يصل الفرنسي إلى حفل الكرة الذهبية بعد أن قرر الكلاسيكو وتضاعفت خياراته في الأيام الأخيرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089128073752503",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي،_ينطلق_نحو_يوم_النصر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/mbappe-lanzado-dia-d.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AbhCoqI7cOeKCvNGINyB84L"
+    }
+  },
+  {
     "title": "Eterno Oblak",
     "url": "https://www.marca.com/futbol/atletico/2026/10/26/eterno-oblak.html",
     "summary": "El meta esloveno vive un gran inicio de temporada",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIHDnG26bgJXk8E6SR-19R6"
-    }
-  },
-  {
-    "title": "Koundé no sale a entrenar y está prácticamente descartado para el Clásico",
-    "url": "https://as.com/futbol/kounde-no-sale-a-entrenar-y-esta-practicamente-descartado-para-el-clasico-f202610-n/",
-    "summary": "El defensa francés sigue recuperándose del esguince que sufrió en el tobillo izquierdo ante el Betis y su presencia el domingo parece casi imposible.",
-    "published": "Fri, 23 Oct 2026 09:47:58 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/53YMP67AQBEVHO3WD2INAODEXU.jpg?auth=ed2f0c5187ab48150ea7044e6fc532d927109c6ff5a662cbaad18dc2770a7879",
-    "media_type": "image/jpeg",
-    "arabic_title": "لا يخرج كوندي للتدريب ويتم استبعاده عمليًا من المشاركة في الكلاسيكو",
-    "arabic_summary": "ولا يزال المدافع الفرنسي يتعافى من التواء في الكاحل الأيسر الذي تعرض له أمام بيتيس ويبدو أن حضوره يوم الأحد شبه مستحيل.",
-    "translation_status": "translated",
-    "post_title": "لا يخرج كوندي للتدريب ويتم استبعاده عمليًا من المشاركة في الكلاسيكو",
-    "post_text": "🚨 لا يخرج كوندي للتدريب ويتم استبعاده عمليًا من المشاركة في الكلاسيكو\n\n📝 ولا يزال المدافع الفرنسي يتعافى من التواء في الكاحل الأيسر الذي تعرض له أمام بيتيس ويبدو أن حضوره يوم الأحد شبه مستحيل.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086165554048755",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_يخرج_كوندي_للتدريب_ويتم_استبعاده_عمليًا_من_المشاركة_في_الكلاسيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/kounde-no-sale-a-entrenar-y-esta-practicamente-descartado-para-el-clasico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOfstbigJZBzOoKQ_keKOpo"
     }
   }
 ]
