@@ -1,5 +1,39 @@
 [
   {
+    "title": "La pesadilla interminable",
+    "url": "https://as.com/futbol/primera/la-pesadilla-interminable-f202610-n/",
+    "summary": "Mbappé volvió a marcar al Barcelona, su segunda víctima favorita: 14 goles en once partidos. Es la misma cifra que lleva esta temporada. Y ya ha alcanzado los 100 con el Real Madrid.",
+    "published": "Mon, 26 Oct 2026 06:59:50 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6W2YQADMQRG65JDBWIMOPMWQSI.JPG?auth=ac31125ee7f65503fffc4a8f15c115040d60f999a56ba169c88c4a8f81628529",
+    "media_type": "image/jpeg",
+    "arabic_title": "الكابوس الذي لا نهاية له",
+    "arabic_summary": "وسجل مبابي مجددا في مرمى برشلونة، ضحيته المفضلة الثانية: 14 هدفا في إحدى عشرة مباراة. وهو نفس الرقم هذا الموسم. وقد وصل بالفعل إلى رقم 100 مع ريال مدريد.",
+    "translation_status": "translated",
+    "post_title": "الكابوس الذي لا نهاية له",
+    "post_text": "🚨 الكابوس الذي لا نهاية له\n\n📝 وسجل مبابي مجددا في مرمى برشلونة، ضحيته المفضلة الثانية: 14 هدفا في إحدى عشرة مباراة. وهو نفس الرقم هذا الموسم. وقد وصل بالفعل إلى رقم 100 مع ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088875583777752",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الكابوس_الذي_لا_نهاية_له.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/la-pesadilla-interminable-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AB1kXqobi-Fbiz1qxAaRKvA"
+    }
+  },
+  {
     "title": "Smith-Njigba stars as Seahawks hand Chiefs first loss of season",
     "url": "https://www.skysports.com/nfl/news/12040/13603859/nfl-seattle-seahawks-hand-kansas-city-chiefs-first-season-loss-as-jaxon-smith-njigba-stars-and-patrick-mahomes-struggles",
     "summary": "Jaxon Smith-Njigba caught nine passes for 150 yards and a touchdown as the Seattle Seahawks beat the Kansas City Chiefs 20-3 on Sunday evening.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AbVsXSOUcUG5-d1sunHzMaK"
-    }
-  },
-  {
-    "title": "El entrenador con más suerte del mundo",
-    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/10/23/entrenador-suerte-mundo.html",
-    "summary": "La opinión de Miguel Ángel Lara",
-    "published": "Fri, 23 Oct 2026 01:22:15 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/22/6ad9ca1bd021a.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "المدرب الأكثر حظا في العالم",
-    "arabic_summary": "رأي ميغيل أنخيل لارا",
-    "translation_status": "translated",
-    "post_title": "المدرب الأكثر حظا في العالم",
-    "post_text": "🚨 المدرب الأكثر حظا في العالم\n\n📝 رأي ميغيل أنخيل لارا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085787530753224",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المدرب_الأكثر_حظا_في_العالم.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/10/23/entrenador-suerte-mundo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9u5CKrvnNvqpmLJXIfu81V"
     }
   }
 ]
