@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mbappé, Cucurella y Diomande, a la gala del Balón de Oro",
+    "url": "https://as.com/futbol/mbappe-cucurella-y-diomande-a-la-gala-del-balon-de-oro-f202610-n/",
+    "summary": "La representación oficial del Real Madrid ha partido hacia Londres, con los tres junto a Felicia Schröder y con Emilio Butragueño como cabeza de expedición.",
+    "published": "Mon, 26 Oct 2026 12:27:10 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KCX3QHXB6ZFH3PT7WSDTNTNZ4M.JPG?auth=d73ca90762a63644ae4f5c52fb631361dd2909550924ac3ededb165cc85302a6",
+    "media_type": "image/jpeg",
+    "arabic_title": "مبابي وكوكوريلا وديوماندي في حفل الكرة الذهبية",
+    "arabic_summary": "غادر الممثل الرسمي لريال مدريد إلى لندن، برفقة الثلاثة، مع فيليسيا شرودر وإميليو بوتراغينيو كرئيس للبعثة.",
+    "translation_status": "translated",
+    "post_title": "مبابي وكوكوريلا وديوماندي في حفل الكرة الذهبية",
+    "post_text": "🚨 مبابي وكوكوريلا وديوماندي في حفل الكرة الذهبية\n\n📝 غادر الممثل الرسمي لريال مدريد إلى لندن، برفقة الثلاثة، مع فيليسيا شرودر وإميليو بوتراغينيو كرئيس للبعثة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089401323725178",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي_وكوكوريلا_وديوماندي_في_حفل_الكرة_الذهبية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/mbappe-cucurella-y-diomande-a-la-gala-del-balon-de-oro-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AADTQyVRw-cBZCwEvJqOdN_"
+    }
+  },
+  {
     "title": "Careers on the line for Australia in deciding South Africa Test?",
     "url": "https://www.skysports.com/cricket/news/12040/13603987/south-africa-meet-australia-in-third-test-series-decider-at-cape-town-with-careers-on-the-line-for-tourists",
     "summary": "Australia are about to play a Test match in Cape Town for the first time since the ball-tampering scandal back in 2018 that paused a number of their cricketers' careers.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIDHwi_jSo1DZ78_V_pN5IJ"
-    }
-  },
-  {
-    "title": "Tebas, un superviviente en el TAD",
-    "url": "https://as.com/futbol/primera/tebas-un-superviviente-en-el-tad-f202610-n/",
-    "summary": "El presidente de LaLiga acumula unos veinte escritos contra su persona en el CSD. Es la quinta vez que acaba en el TAD.",
-    "published": "Fri, 23 Oct 2026 11:26:44 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CBUBDAUZIL2N6JDBIABNK35ANI.jpg?auth=b8f681121956c8ae08b9feea341ba96cb1f2de183e11f19493ee3af5ca2f2dc1",
-    "media_type": "image/jpeg",
-    "arabic_title": "تيباس، أحد الناجين من TAD",
-    "arabic_summary": "لدى رئيس LaLiga حوالي عشرين رسالة ضده في CSD. هذه هي المرة الخامسة التي ينتهي فيها الأمر في TAD.",
-    "translation_status": "translated",
-    "post_title": "تيباس، أحد الناجين من TAD",
-    "post_text": "🚨 تيباس، أحد الناجين من TAD\n\n📝 لدى رئيس LaLiga حوالي عشرين رسالة ضده في CSD. هذه هي المرة الخامسة التي ينتهي فيها الأمر في TAD.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086351110696866",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تيباس،_أحد_الناجين_من_TAD.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/tebas-un-superviviente-en-el-tad-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Avvd_g91BS2v0LPOD2sNHOa"
     }
   }
 ]
