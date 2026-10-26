@@ -1,5 +1,39 @@
 [
   {
+    "title": "Qué bueno que viniste, Angelito",
+    "url": "https://as.com/futbol/internacional/que-bueno-que-viniste-angelito-f202610-n/",
+    "summary": "Una asistencia de Correa a Lautaro Rivero fue suficiente para mantener la racha de buenos resultados de River. Gallardo, invitado de honor en el Monumental.",
+    "published": "Mon, 26 Oct 2026 00:58:20 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PEVKPAWA6FHGNHUBS2AKYJHXIY.jpeg?auth=8a5456847e226a50c6691309e51c1c9c1bb39d18b577be797ac89fd2424009d5",
+    "media_type": "image/jpeg",
+    "arabic_title": "من الجيد أنك أتيت يا أنجيليتو",
+    "arabic_summary": "كانت التمريرة الحاسمة من كوريا إلى لاوتارو ريفيرو كافية للحفاظ على سلسلة النتائج الجيدة التي حققها ريفر. غالاردو، ضيف الشرف في Monumental.",
+    "translation_status": "translated",
+    "post_title": "من الجيد أنك أتيت يا أنجيليتو",
+    "post_text": "🚨 من الجيد أنك أتيت يا أنجيليتو\n\n📝 كانت التمريرة الحاسمة من كوريا إلى لاوتارو ريفيرو كافية للحفاظ على سلسلة النتائج الجيدة التي حققها ريفر. غالاردو، ضيف الشرف في Monumental.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1088908997107744",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_الجيد_أنك_أتيت_يا_أنجيليتو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/que-bueno-que-viniste-angelito-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aldqalp-0mVBXg6mpk2WKqB"
+    }
+  },
+  {
     "title": "Deeney: “Es preocupante lo de Lamine”",
     "url": "https://as.com/futbol/primera/deeney-es-preocupante-lo-de-lamine-f202610-n/",
     "summary": "Varios exjugadores analizaron el Clásico que ganó el Real Madrid, destacando el partido de Cucurella y el planteamiento de Mourinho.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwCoUz_Kh-vlIi60hq7j8mB"
-    }
-  },
-  {
-    "title": "El ruido no cesa en torno a Nico",
-    "url": "https://as.com/futbol/primera/el-ruido-no-cesa-en-torno-a-nico-f202610-n/",
-    "summary": "La pubalgia, su fallida salida al Barcelona, las palabras de su representante... el extremo vive en medio de una vorágine.",
-    "published": "Fri, 23 Oct 2026 00:11:01 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UJKJCN4PHNJW3KKIGV4DQFAGOM.jpg?auth=0b45bd1f05369a44fafc8c993e777e7828232a2f6885740622d545f9062f1389",
-    "media_type": "image/jpeg",
-    "arabic_title": "الضجيج لا يتوقف حول نيكو",
-    "arabic_summary": "البوبالجيا، رحيله الفاشل لبرشلونة، كلام ممثله.. الجناح يعيش وسط دوامة.",
-    "translation_status": "translated",
-    "post_title": "الضجيج لا يتوقف حول نيكو",
-    "post_text": "🚨 الضجيج لا يتوقف حول نيكو\n\n📝 البوبالجيا، رحيله الفاشل لبرشلونة، كلام ممثله.. الجناح يعيش وسط دوامة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1085816414083669",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الضجيج_لا_يتوقف_حول_نيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-ruido-no-cesa-en-torno-a-nico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1F9CiGCoAtoLILb-215G_t"
     }
   }
 ]
