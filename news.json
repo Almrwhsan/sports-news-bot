@@ -1,5 +1,39 @@
 [
   {
+    "title": "De Jonathas a Fer Niño; de Edgar Badia a Dituro",
+    "url": "https://www.marca.com/futbol/elche/2026/10/26/jonathas-fer-nino-edgar-badia-dituro.html",
+    "summary": "Tras la victoria en Vallecas, Fer Niño y Dituro han escrito su nombre en los registros históricos del Elche en Primera",
+    "published": "Mon, 26 Oct 2026 09:23:58 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf0dfaa9da7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "من جوناثاس إلى فير نينو؛ من إدغار باديا إلى ديتورو",
+    "arabic_summary": "بعد الفوز في فاليكاس، قام فيرنينيو وديتورو بكتابة أسمائهما في السجلات التاريخية لإلتشي في بريميرا",
+    "translation_status": "translated",
+    "post_title": "من جوناثاس إلى فير نينو؛ من إدغار باديا إلى ديتورو",
+    "post_text": "🚨 من جوناثاس إلى فير نينو؛ من إدغار باديا إلى ديتورو\n\n📝 بعد الفوز في فاليكاس، قام فيرنينيو وديتورو بكتابة أسمائهما في السجلات التاريخية لإلتشي في بريميرا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089208040411173",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_جوناثاس_إلى_فير_نينو؛_من_إدغار_باديا_إلى_ديتورو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/elche/2026/10/26/jonathas-fer-nino-edgar-badia-dituro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVPQJGBSWMbd615BQppiCLq"
+    }
+  },
+  {
     "title": "Neville tira de la manta en la crisis del Manchester United: \"Carrick sentirá asco y repugnancia por sus jugadores\"",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/26/neville-tira-manta-crisis-manchester-united-carrick-sentira-asco-repugnancia-jugadores.html",
     "summary": "Gary Neville critica a la directiva al Manchester United y Eddie Howe y Julian Nagelsmann con los favoritos para suplir a Michael Carrick en Old Trafford",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AI0r1wu-l5xQ125lp3nluBh"
-    }
-  },
-  {
-    "title": "Sergio Gómez: “Oyarzabal es el jugador más importante del equipo”",
-    "url": "https://as.com/futbol/uefa/sergio-gomez-oyarzabal-es-el-jugador-mas-importante-del-equipo-f202610-n/",
-    "summary": "El lateral de la Real marcó dos goles al Lillestrom en la Europa League con dos asistencias del capitán txuri-urdin. Sergio ya lleva tres goles en Europa.",
-    "published": "Fri, 23 Oct 2026 08:03:08 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4SMTNWCMX5NQHDX43M4QLPFA7U.jpg?auth=aba62aa74d1090bc0efac5e5cdb04240963ed7c6e2d04fcc7634ee9a3d5e665f",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيرجيو جوميز: \"أويارزابال هو أهم لاعب في الفريق\"",
-    "arabic_summary": "سجل ظهير ريال مدريد هدفين في مرمى ليلستروم في الدوري الأوروبي بتمريرتين حاسمتين من قائد فريق تكسوري أوردين. سيرجيو لديه بالفعل ثلاثة أهداف في أوروبا.",
-    "translation_status": "translated",
-    "post_title": "سيرجيو جوميز: \"أويارزابال هو أهم لاعب في الفريق\"",
-    "post_text": "🚨 سيرجيو جوميز: \"أويارزابال هو أهم لاعب في الفريق\"\n\n📝 سجل ظهير ريال مدريد هدفين في مرمى ليلستروم في الدوري الأوروبي بتمريرتين حاسمتين من قائد فريق تكسوري أوردين. سيرجيو لديه بالفعل ثلاثة أهداف في أوروبا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086209224044388",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيرجيو_جوميز_أويارزابال_هو_أهم_لاعب_في_الفريق.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/uefa/sergio-gomez-oyarzabal-es-el-jugador-mas-importante-del-equipo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APxZnFn0E4sS1v6v9Tk0oxY"
     }
   }
 ]
