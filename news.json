@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los méritos de Mbappé para ganar el Balón de Oro",
+    "url": "https://as.com/futbol/internacional/los-meritos-de-mbappe-para-ganar-el-balon-de-oro-f202610-n/",
+    "summary": "Este verano se ha convertido en el máximo goleador en la historia de los Mundiales: 22 dianas. Además, ha sido el máximo artillero de la Champions y de LaLiga.",
+    "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/HB6RFNILJVCRJNOLWJIDIOJMZA.JPG?auth=0bb3eab327d1577f26e8f0e192cee458faad38542be5200c57a8d89bbd54bf45",
+    "media_type": "image/jpeg",
+    "arabic_title": "مميزات مبابي للفوز بالكرة الذهبية",
+    "arabic_summary": "أصبح هذا الصيف أفضل هداف في تاريخ كأس العالم: 22 هدفًا. علاوة على ذلك، فقد كان هداف دوري أبطال أوروبا والليغا.",
+    "translation_status": "translated",
+    "post_title": "مميزات مبابي للفوز بالكرة الذهبية",
+    "post_text": "🚨 مميزات مبابي للفوز بالكرة الذهبية\n\n📝 أصبح هذا الصيف أفضل هداف في تاريخ كأس العالم: 22 هدفًا. علاوة على ذلك، فقد كان هداف دوري أبطال أوروبا والليغا.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089320617066582",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مميزات_مبابي_للفوز_بالكرة_الذهبية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/los-meritos-de-mbappe-para-ganar-el-balon-de-oro-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AiuhkH_MgQHJWRBeNFblaui"
+    }
+  },
+  {
     "title": "Smotherman pips Ireland's Power to play-off win in Bermuda",
     "url": "https://www.skysports.com/golf/news/12040/13603904/bermuda-championship-irelands-seamus-power-misses-out-in-monday-finish-as-austin-smotherman-claims-pga-tour-play-off-win",
     "summary": "Austin Smotherman claimed a second successive PGA Tour title after defeating Seamus Power in a play-off to win a weather-affected Butterfield Bermuda Championship.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AuH0EVd8vxGbqGdXi9n6dqt"
-    }
-  },
-  {
-    "title": "Bruno Fernandes: le acusan de \"traición\" al Manchester United, que ya maneja nombres para suplir a Carrick",
-    "url": "https://www.marca.com/futbol/premier-league/2026/10/23/bruno-fernandes-le-roban-casa-le-acusan-traicion-sacrilegio-manchester-united.html",
-    "summary": "El Manchester United ya maneja los nombres de cinco entrenadores en el caso de que finalmente despidan al técnico Michael Carrick",
-    "published": "Fri, 23 Oct 2026 08:40:06 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adafda0b6784.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "برونو فرنانديز: يتهمونه بـ \"الخيانة\" في مانشستر يونايتد، الذي يتعامل بالفعل مع الأسماء ليحل محل كاريك",
-    "arabic_summary": "يتعامل مانشستر يونايتد بالفعل مع أسماء خمسة مدربين في حالة إقالة المدرب مايكل كاريك في النهاية",
-    "translation_status": "translated",
-    "post_title": "برونو فرنانديز: يتهمونه بـ \"الخيانة\" في مانشستر يونايتد، الذي يتعامل بالفعل مع الأسماء ليحل محل كاريك",
-    "post_text": "🚨 برونو فرنانديز: يتهمونه بـ \"الخيانة\" في مانشستر يونايتد، الذي يتعامل بالفعل مع الأسماء ليحل محل كاريك\n\n📝 يتعامل مانشستر يونايتد بالفعل مع أسماء خمسة مدربين في حالة إقالة المدرب مايكل كاريك في النهاية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086313304033980",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برونو_فرنانديز_يتهمونه_بـ_الخيانة_في_مانشستر_يونايتد،_الذي_يتعامل_بالفعل_مع_الأس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/23/bruno-fernandes-le-roban-casa-le-acusan-traicion-sacrilegio-manchester-united.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2xXEdL7sI3SugN_JRzRcX2"
     }
   }
 ]
