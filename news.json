@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Castellón lidera Segunda con la mejor defensa de las tres principales categorías",
+    "url": "https://www.marca.com/futbol/castellon/2026/10/27/castellon-lidera-liga-hypermotion-mejor-defensa-tres-principales-categorias.html",
+    "summary": "Los albinegros han encajado 4 goles en 11 partidos",
+    "published": "Tue, 27 Oct 2026 12:34:49 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/25/6ade5c4bce398.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يتصدر كاستيلون دوري الدرجة الثانية بأفضل دفاع من بين الفئات الثلاث الرئيسية",
+    "arabic_summary": "استقبل فريق ألبينيجروس 4 أهداف في 11 مباراة",
+    "translation_status": "translated",
+    "post_title": "يتصدر كاستيلون دوري الدرجة الثانية بأفضل دفاع من بين الفئات الثلاث الرئيسية",
+    "post_text": "🚨 يتصدر كاستيلون دوري الدرجة الثانية بأفضل دفاع من بين الفئات الثلاث الرئيسية\n\n📝 استقبل فريق ألبينيجروس 4 أهداف في 11 مباراة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090413430290634",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتصدر_كاستيلون_دوري_الدرجة_الثانية_بأفضل_دفاع_من_بين_الفئات_الثلاث_الرئيسية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/castellon/2026/10/27/castellon-lidera-liga-hypermotion-mejor-defensa-tres-principales-categorias.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqK04QcbQj0uV3SpLNNyk27"
+    }
+  },
+  {
     "title": "En directo, El Bar: ¿Merecía Kane el Balón de Oro más que Lamine o Mbappé?",
     "url": "https://as.com/futbol/videos/en-directo-el-bar-merecia-kane-el-balon-de-oro-mas-que-lamine-o-mbappe-f202610-v/",
     "summary": "Sique Rodríguez y el resto de expertos de la Cadena SER analizan la gala del Balón de Oro y todas las reacciones posteriores tras coronarse el delantero inglés del Bayern de Múnich como mejor jugador del mundo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Agne4MLs00Y8dUHTGVr--vF"
-    }
-  },
-  {
-    "title": "Martínez Munuera, el árbitro elegido para pitar el Clásico",
-    "url": "https://as.com/futbol/primera/martinez-munuera-el-arbitro-elegido-para-pitar-el-clasico-f202610-n/",
-    "summary": "Policía en excedencia y veterano de la categoría. El alicantino ha sido designado para impartir justicia en el Barcelona-Real Madrid de este domingo.",
-    "published": "Sat, 24 Oct 2026 10:01:31 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261024/1229329_082241_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "مارتينيز مونويرا، الحكم الذي اختار صافرة الكلاسيكو",
-    "arabic_summary": "ضابط شرطة في إجازة ومخضرم من هذه الفئة. تم تعيين الرجل من أليكانتي لتحقيق العدالة في مباراة برشلونة وريال مدريد يوم الأحد.",
-    "translation_status": "translated",
-    "post_title": "مارتينيز مونويرا، الحكم الذي اختار صافرة الكلاسيكو",
-    "post_text": "🚨 مارتينيز مونويرا، الحكم الذي اختار صافرة الكلاسيكو\n\n📝 ضابط شرطة في إجازة ومخضرم من هذه الفئة. تم تعيين الرجل من أليكانتي لتحقيق العدالة في مباراة برشلونة وريال مدريد يوم الأحد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087280313937279",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مارتينيز_مونويرا،_الحكم_الذي_اختار_صافرة_الكلاسيكو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVx24dAfGFM_eVA3yrAAiBL"
     }
   }
 ]
