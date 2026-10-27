@@ -1,5 +1,39 @@
 [
   {
+    "title": "De Jong, on...; Gavi, off",
+    "url": "https://as.com/futbol/de-jong-on-gavi-off-f202610-n/",
+    "summary": "El holandés pedía minutos y Flick se los dio. A cambio, dejó sin jugar a Gavi, que pese a la baja de Olmo y a tener buenos minutos en París, no se movió del banquillo.",
+    "published": "Tue, 27 Oct 2026 07:27:21 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YMZOH6S3MNN47KJM6FPEDYKGBA.jpg?auth=2247df9b07d9a6430f3568e054e77087188c97508442566f31017efc450fd21a",
+    "media_type": "image/jpeg",
+    "arabic_title": "دي يونج، على...؛ جافي، خارج",
+    "arabic_summary": "الهولندي طلب دقائق فأعطاه فليك. في المقابل، ترك جافي دون لعب، والذي رغم خسارة أولمو وخوضه دقائق جيدة في باريس، لم يتحرك من مقاعد البدلاء.",
+    "translation_status": "translated",
+    "post_title": "دي يونج، على...؛ جافي، خارج",
+    "post_text": "🚨 دي يونج، على...؛ جافي، خارج\n\n📝 الهولندي طلب دقائق فأعطاه فليك. في المقابل، ترك جافي دون لعب، والذي رغم خسارة أولمو وخوضه دقائق جيدة في باريس، لم يتحرك من مقاعد البدلاء.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090373710294606",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دي_يونج،_على...؛_جافي،_خارج.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/de-jong-on-gavi-off-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASfM6GfU-f3fJ5MuFKyA6Cp"
+    }
+  },
+  {
     "title": "Objetivo: no ser el primero",
     "url": "https://www.marca.com/futbol/malaga/2026/10/27/objetivo-primero.html",
     "summary": "El Málaga no quiere hacer historia negativa en Copa",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkEJ4uGXu6tNFK3CDiY7mgZ"
-    }
-  },
-  {
-    "title": "Boulter loses to Siniakova in Japan Open semis",
-    "url": "https://www.skysports.com/tennis/news/12040/13603005/katie-boulter-loses-to-katerina-siniakova-in-straight-sets-in-semi-finals-of-japan-open",
-    "summary": "Katie Boulter lost 6-1 6-4 to Katerina Siniakova in the semi-finals of the Japan Open.",
-    "published": "Sat, 24 Oct 2026 11:25:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-katie-boulter-karolina-muchova_7385396.jpg?20261024111518",
-    "media_type": "image/jpg",
-    "arabic_title": "بولتر تخسر أمام سينياكوفا في نصف نهائي بطولة اليابان المفتوحة",
-    "arabic_summary": "خسرت كاتي بولتر أمام كاترينا سينياكوفا 6-1 و6-4 في نصف نهائي بطولة اليابان المفتوحة.",
-    "translation_status": "translated",
-    "post_title": "بولتر تخسر أمام سينياكوفا في نصف نهائي بطولة اليابان المفتوحة",
-    "post_text": "🚨 بولتر تخسر أمام سينياكوفا في نصف نهائي بطولة اليابان المفتوحة\n\n📝 خسرت كاتي بولتر أمام كاترينا سينياكوفا 6-1 و6-4 في نصف نهائي بطولة اليابان المفتوحة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087247743940536",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بولتر_تخسر_أمام_سينياكوفا_في_نصف_نهائي_بطولة_اليابان_المفتوحة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/news/12040/13603005/katie-boulter-loses-to-katerina-siniakova-in-straight-sets-in-semi-finals-of-japan-open",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8ku6mlQSwg_n1YXAas1Z5o"
     }
   }
 ]
