@@ -1,5 +1,39 @@
 [
   {
+    "title": "A San Mamés a por el repóker",
+    "url": "https://www.marca.com/futbol/real-sociedad/2026/10/27/san-mames-repoker.html",
+    "summary": "Matarazzo logra por primera vez en LaLiga cuatro triunfos seguidos, su tope también en la Bundesliga, y el domingo buscará en Bilbao la mejor marca de su carrera",
+    "published": "Tue, 27 Oct 2026 07:54:01 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf742fc14ff.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إلى سان ماميس للعب البوكر",
+    "arabic_summary": "يحقق ماتاراتزو أربعة انتصارات متتالية في الدوري الإسباني للمرة الأولى، وهو أعلى رقم له أيضًا في الدوري الألماني، وسيسعى يوم الأحد للحصول على أفضل علامة في مسيرته في بلباو",
+    "translation_status": "translated",
+    "post_title": "إلى سان ماميس للعب البوكر",
+    "post_text": "🚨 إلى سان ماميس للعب البوكر\n\n📝 يحقق ماتاراتزو أربعة انتصارات متتالية في الدوري الإسباني للمرة الأولى، وهو أعلى رقم له أيضًا في الدوري الألماني، وسيسعى يوم الأحد للحصول على أفضل علامة في مسيرته في بلباو\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090143983650912",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إلى_سان_ماميس_للعب_البوكر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/10/27/san-mames-repoker.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ACqCPNdIHp3syF06w-GOafs"
+    }
+  },
+  {
     "title": "Los mejores memes del Balón de Oro: críticas y bromas sin compasión tras los premios",
     "url": "https://www.marca.com/futbol/balon-oro/album/2026/10/27/mejores-memes-balon-oro-criticas-bromas-compasion-premios.html",
     "summary": "Las redes sociales reaccionaron en forma de memes satíricos, humorísticos y críticos a la elección de Harry Kane como Balón de Oro por delante de Kylian Mbappé y Lamine Yamal.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9H7ClLqhYS-Ow7Il7-T0cW"
-    }
-  },
-  {
-    "title": "¿Qué jugador del Barça ficharían los aficionados del Real Madrid? Ojo, va a sorprender",
-    "url": "https://as.com/futbol/videos/el-jugador-del-barca-que-ficharia-la-aficion-del-real-madrid-para-su-xi-va-a-sorprender-f202610-v/",
-    "summary": "Preguntamos a los aficionados del Real Madrid por el jugador del Barcelona que ficharían para el XI de Mourinho en el Clásico.",
-    "published": "Fri, 23 Oct 2026 14:43:11 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261023/1229046_143919_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "من هو لاعب برشلونة الذي ستوقعه جماهير ريال مدريد؟ كن حذرا، فإنه سوف مفاجأة",
-    "arabic_summary": "سألنا مشجعي ريال مدريد عن لاعب برشلونة الذي سيوقعون معه ضمن التشكيلة الأساسية لمورينيو في الكلاسيكو.",
-    "translation_status": "translated",
-    "post_title": "من هو لاعب برشلونة الذي ستوقعه جماهير ريال مدريد؟ كن حذرا، فإنه سوف مفاجأة",
-    "post_text": "🚨 من هو لاعب برشلونة الذي ستوقعه جماهير ريال مدريد؟ كن حذرا، فإنه سوف مفاجأة\n\n📝 سألنا مشجعي ريال مدريد عن لاعب برشلونة الذي سيوقعون معه ضمن التشكيلة الأساسية لمورينيو في الكلاسيكو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087005927298051",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_هو_لاعب_برشلونة_الذي_ستوقعه_جماهير_ريال_مدريد؟_كن_حذرا،_فإنه_سوف_مفاجأة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1Yv1f05fIlp--XQEOIfw9Y"
     }
   }
 ]
