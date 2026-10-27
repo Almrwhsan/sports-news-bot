@@ -1,5 +1,39 @@
 [
   {
+    "title": "La llegada de Mbappé a Londres que tiene a todos hablando sobre el Balón de Oro",
+    "url": "https://as.com/us/videos/la-llegada-de-mbappe-a-londres-que-tiene-a-todos-hablando-sobre-el-balon-de-oro-f202610-v/",
+    "summary": "A unas cuantas horas de conocer al nuevo ganador del Balón de Oro, Kylian Mbappé, quien se encuentra entre los favoritos llegó a Londres para la gala.",
+    "published": "Mon, 26 Oct 2026 16:50:08 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261026/1230122_163632_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "وصول مبابي إلى لندن جعل الجميع يتحدثون عن الكرة الذهبية",
+    "arabic_summary": "بعد ساعات قليلة من لقاء الفائز الجديد بالكرة الذهبية، وصل كيليان مبابي، وهو من بين المرشحين، إلى لندن لحضور الحفل.",
+    "translation_status": "translated",
+    "post_title": "وصول مبابي إلى لندن جعل الجميع يتحدثون عن الكرة الذهبية",
+    "post_text": "🚨 وصول مبابي إلى لندن جعل الجميع يتحدثون عن الكرة الذهبية\n\n📝 بعد ساعات قليلة من لقاء الفائز الجديد بالكرة الذهبية، وصل كيليان مبابي، وهو من بين المرشحين، إلى لندن لحضور الحفل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089592427039401",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وصول_مبابي_إلى_لندن_جعل_الجميع_يتحدثون_عن_الكرة_الذهبية.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnowFlqpQWpQyQytA1tRow4"
+    }
+  },
+  {
     "title": "El Real Madrid desarma al Barcelona sin necesitar el balón",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/real-madrid-desarmo-barcelona-necesitar-balon.html",
     "summary": "Tchouaméni sostuvo el bloque con once recuperaciones y cerrando el carril central a un Pedri y un Rodri poco resolutivos",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJ8Z2IhHogpTHgxlRKp2C0K"
-    }
-  },
-  {
-    "title": "Etta Eyong: La \"piña\" del retorno",
-    "url": "https://www.marca.com/futbol/levante/2026/10/23/etta-eyong-pina-retorno.html",
-    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
-    "published": "Fri, 23 Oct 2026 11:17:12 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb259ccff2b.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إيتا إيونغ: \"أناناس\" العودة",
-    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
-    "translation_status": "translated",
-    "post_title": "إيتا إيونغ: \"أناناس\" العودة",
-    "post_text": "🚨 إيتا إيونغ: \"أناناس\" العودة\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086484160683561",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيتا_إيونغ_أناناس_العودة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/levante/2026/10/23/etta-eyong-pina-retorno.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQER6g4eEy0Y2WZS27hLmaK"
     }
   }
 ]
