@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Clásico lo ganó el Atlético de Madrid",
+    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/27/clasico-gano-atletico-madrid.html",
+    "summary": "Su cuota para salir campeón de LaLiga se ha disparado en Tonybet",
+    "published": "Tue, 27 Oct 2026 11:15:33 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae079b963139.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فاز أتلتيكو مدريد بالكلاسيكو",
+    "arabic_summary": "لقد ارتفعت حصتك لتصبح بطل LaLiga بشكل كبير في Tonybet",
+    "translation_status": "translated",
+    "post_title": "فاز أتلتيكو مدريد بالكلاسيكو",
+    "post_text": "🚨 فاز أتلتيكو مدريد بالكلاسيكو\n\n📝 لقد ارتفعت حصتك لتصبح بطل LaLiga بشكل كبير في Tonybet\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090332686965375",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاز_أتلتيكو_مدريد_بالكلاسيكو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/27/clasico-gano-atletico-madrid.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-Md3M-b3QvPxjgN_U940Ht"
+    }
+  },
+  {
     "title": "La Copa del Rey es la asignatura pendiente de los últimos años",
     "url": "https://www.marca.com/futbol/celta/2026/10/27/copa-rey-asignatura-pendiente-ultimos-anos.html",
     "summary": "Solo una clasificación para cuartos en casi una década",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABgiykbxLl2FdXCBnwU9BH-"
-    }
-  },
-  {
-    "title": "Tebas respalda la gestión de Kiat Lim tras la entrada de Pitchwise",
-    "url": "https://www.marca.com/futbol/valencia/2026/10/23/tebas-respalda-gestion-kiat-lim-entrada-pitchwise-valencia-acredita-gran-trabajo-realizado.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Fri, 23 Oct 2026 19:41:58 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb9bee64833.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تيباس يدعم إدارة كيات ليم بعد دخول بيتشوايز",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "تيباس يدعم إدارة كيات ليم بعد دخول بيتشوايز",
-    "post_text": "🚨 تيباس يدعم إدارة كيات ليم بعد دخول بيتشوايز\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087197120612265",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تيباس_يدعم_إدارة_كيات_ليم_بعد_دخول_بيتشوايز.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/10/23/tebas-respalda-gestion-kiat-lim-entrada-pitchwise-valencia-acredita-gran-trabajo-realizado.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-8lFwRLhX-50kbOt_gYNru"
     }
   }
 ]
