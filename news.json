@@ -1,5 +1,39 @@
 [
   {
+    "title": "El emotivo vídeo del Tottenham Hotspur a Harry Kane",
+    "url": "https://www.marca.com/futbol/2026/10/27/emotivo-video-tottenham-hotspur-harry-kan-video.html",
+    "summary": "",
+    "published": "Tue, 27 Oct 2026 12:02:31 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/gPaNo1gu8IO6caaDb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فيديو عاطفي لتوتنهام هوتسبير لهاري كين",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "فيديو عاطفي لتوتنهام هوتسبير لهاري كين",
+    "post_text": "🚨 فيديو عاطفي لتوتنهام هوتسبير لهاري كين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090377046960939",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيديو_عاطفي_لتوتنهام_هوتسبير_لهاري_كين.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/27/emotivo-video-tottenham-hotspur-harry-kan-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZNLh8YiFTjOzaayz18POQo"
+    }
+  },
+  {
     "title": "De Jong, on...; Gavi, off",
     "url": "https://as.com/futbol/de-jong-on-gavi-off-f202610-n/",
     "summary": "El holandés pedía minutos y Flick se los dio. A cambio, dejó sin jugar a Gavi, que pese a la baja de Olmo y a tener buenos minutos en París, no se movió del banquillo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ah7RzfAkkaQn5faKpe8Bc-A"
-    }
-  },
-  {
-    "title": "European Championship Darts LIVE! Smith, Van Veen in action after Price, Bunting win",
-    "url": "https://www.skysports.com/darts/live-blog/12040/13602923/european-championship-darts-game-by-game-updates-scores-analysis-with-luke-littler-and-gerwyn-price-in-action",
-    "summary": "",
-    "published": "Sat, 24 Oct 2026 11:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-ross-smith-darts_7257615.jpg?20260524211231",
-    "media_type": "image/jpg",
-    "arabic_title": "بطولة السهام الأوروبية لايف! سميث وفان فين في العمل بعد فوز برايس وبونتنج",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "بطولة السهام الأوروبية لايف! سميث وفان فين في العمل بعد فوز برايس وبونتنج",
-    "post_text": "🚨 بطولة السهام الأوروبية لايف! سميث وفان فين في العمل بعد فوز برايس وبونتنج\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087264303938880",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطولة_السهام_الأوروبية_لايف!_سميث_وفان_فين_في_العمل_بعد_فوز_برايس_وبونتنج.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/live-blog/12040/13602923/european-championship-darts-game-by-game-updates-scores-analysis-with-luke-littler-and-gerwyn-price-in-action",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AkEJ4uGXu6tNFK3CDiY7mgZ"
     }
   }
 ]
