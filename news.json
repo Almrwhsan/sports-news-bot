@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bizarre scenes! Drone stops play two minutes into Fleetwood-Arsenal tie",
+    "url": "https://www.skysports.com/watch/video/13604513/fleetwood-vs-arsenal-delayed-due-to-drone-over-highbury-stadium",
+    "summary": "During their Carabao Cup clash at Highbury stadium, Fleetwood versus Arsenal was delayed due to a drone over the pitch.",
+    "published": "Tue, 27 Oct 2026 20:13:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-drone-down_7389015.jpg?20261027201620",
+    "media_type": "image/jpg",
+    "arabic_title": "مشاهد غريبة! توقف الطائرة بدون طيار اللعب بعد دقيقتين من التعادل بين فليتوود وأرسنال",
+    "arabic_summary": "خلال مباراة كأس كاراباو على ملعب هايبري، تأخرت مباراة فليتوود وأرسنال بسبب طائرة بدون طيار فوق الملعب.",
+    "translation_status": "translated",
+    "post_title": "مشاهد غريبة! توقف الطائرة بدون طيار اللعب بعد دقيقتين من التعادل بين فليتوود وأرسنال",
+    "post_text": "🚨 مشاهد غريبة! توقف الطائرة بدون طيار اللعب بعد دقيقتين من التعادل بين فليتوود وأرسنال\n\n📝 خلال مباراة كأس كاراباو على ملعب هايبري، تأخرت مباراة فليتوود وأرسنال بسبب طائرة بدون طيار فوق الملعب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090498210282156",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مشاهد_غريبة!_توقف_الطائرة_بدون_طيار_اللعب_بعد_دقيقتين_من_التعادل_بين_فليتوود_وأر.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13604513/fleetwood-vs-arsenal-delayed-due-to-drone-over-highbury-stadium",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5H9foWBLA2YPpFUR84OC2q"
+    }
+  },
+  {
     "title": "Aranbarri: \"Hemos puesto el foco en la agresividad y en el trabajo sin balón\"",
     "url": "https://www.marca.com/futbol/eibar/2026/10/27/aranbarri-hemos-puesto-foco-agresividad-trabajo-balon.html",
     "summary": "El técnico tiene detectados los males del Eibar en su última derrota en Córdoba",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ah7o7tftvj0ybOEcAI6B_Qx"
-    }
-  },
-  {
-    "title": "Fulham denied penalty despite shirt pull as VAR check clears Coventry LIVE!",
-    "url": "https://www.skysports.com/football/coventry-city-vs-fulham/live/559517",
-    "summary": "",
-    "published": "Sat, 24 Oct 2026 13:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-brandon-thomas-asante_7385670.jpg?20261024152038",
-    "media_type": "image/jpg",
-    "arabic_title": "حُرم فولهام من ركلة جزاء على الرغم من سحب القميص بينما مسح حكم الفيديو المساعد كوفنتري لايف!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "حُرم فولهام من ركلة جزاء على الرغم من سحب القميص بينما مسح حكم الفيديو المساعد كوفنتري لايف!",
-    "post_text": "🚨 حُرم فولهام من ركلة جزاء على الرغم من سحب القميص بينما مسح حكم الفيديو المساعد كوفنتري لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087343157264328",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حُرم_فولهام_من_ركلة_جزاء_على_الرغم_من_سحب_القميص_بينما_مسح_حكم_الفيديو_المساعد_ك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/coventry-city-vs-fulham/live/559517",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANDJ9UA1IUJBn49DSNOujrR"
     }
   }
 ]
