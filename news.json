@@ -1,5 +1,39 @@
 [
   {
+    "title": "Roncero responde tras la victoria del Real Madrid en el Clásico y antes del Balón de Oro | La Grada de Roncero",
+    "url": "https://as.com/futbol/mas_futbol/roncero-responde-tras-la-victoria-del-real-madrid-en-el-clasico-y-antes-del-balon-de-oro-la-grada-de-roncero-f202610-v/",
+    "summary": "Tomás Roncero repasa la actualidad del Real Madrid, en directo en Twitch, YouTube, y TikTok",
+    "published": "Mon, 26 Oct 2026 17:15:11 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://www.youtube.com/watch?v=j8mce7YJaHY",
+    "media_type": "application/octet-stream",
+    "arabic_title": "رونسيرو يرد بعد فوز ريال مدريد في الكلاسيكو وقبل الكرة الذهبية | موقف رونسيرو",
+    "arabic_summary": "يراجع توماس رونسيرو أخبار ريال مدريد مباشرةً على Twitch، وYouTube، وTikTok",
+    "translation_status": "translated",
+    "post_title": "رونسيرو يرد بعد فوز ريال مدريد في الكلاسيكو وقبل الكرة الذهبية | موقف رونسيرو",
+    "post_text": "🚨 رونسيرو يرد بعد فوز ريال مدريد في الكلاسيكو وقبل الكرة الذهبية | موقف رونسيرو\n\n📝 يراجع توماس رونسيرو أخبار ريال مدريد مباشرةً على Twitch، وYouTube، وTikTok\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089851130346864",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رونسيرو_يرد_بعد_فوز_ريال_مدريد_في_الكلاسيكو_وقبل_الكرة_الذهبية_موقف_رونسيرو.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Azgrp9KmRKoxjnpznJX9iXF"
+    }
+  },
+  {
     "title": "Thunder's Williams requires surgery for broken leg and dislocated ankle",
     "url": "https://www.skysports.com/basketball/news/12040/13604207/jalen-williams-oklahoma-city-thunder-star-requires-surgery-for-broken-leg-and-dislocated-ankle",
     "summary": "Oklahoma City Thunder star Jalen Williams will need surgery to repair a broken left fibula and dislocated left ankle after being stretchered off during their 108-101 victory over the Los Angeles Clippers.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6oU1OzF19D90BU-7IFdHXK"
-    }
-  },
-  {
-    "title": "Calero: “Es evidente que hay partidos grandes en la categoría y este es uno de ellos”",
-    "url": "https://www.marca.com/futbol/oviedo/2026/10/23/calero-toda-fuerza-apoyo-ciudad-ceuta.html",
-    "summary": "El entrenador del Oviedo, que recupera a Estanis e Isfan, mide la reacción azul ante un Almería que encadena siete victorias",
-    "published": "Fri, 23 Oct 2026 12:42:24 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/05/6ac38603e496b.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كاليرو: \"من الواضح أن هناك ألعابًا رائعة في هذه الفئة وهذه إحداها\"",
-    "arabic_summary": "مدرب أوفييدو، الذي يتعافى إستانيس وإسفان، يقيس رد الفعل الأزرق ضد ألميريا الذي لديه سلسلة من سبعة انتصارات",
-    "translation_status": "translated",
-    "post_title": "كاليرو: \"من الواضح أن هناك ألعابًا رائعة في هذه الفئة وهذه إحداها\"",
-    "post_text": "🚨 كاليرو: \"من الواضح أن هناك ألعابًا رائعة في هذه الفئة وهذه إحداها\"\n\n📝 مدرب أوفييدو، الذي يتعافى إستانيس وإسفان، يقيس رد الفعل الأزرق ضد ألميريا الذي لديه سلسلة من سبعة انتصارات\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086539174011393",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاليرو_من_الواضح_أن_هناك_ألعابًا_رائعة_في_هذه_الفئة_وهذه_إحداها.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/oviedo/2026/10/23/calero-toda-fuerza-apoyo-ciudad-ceuta.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADBx5nfAye4gfs-6gBNdpRC"
     }
   }
 ]
