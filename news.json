@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arsenal latest: He's starting at Fleetwood, but who is Ceadach O'Neill?",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "summary": "",
+    "published": "Mon, 26 Oct 2026 21:56:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار أرسنال: إنه يبدأ في فليتوود، لكن من هو سيداش أونيل؟",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار أرسنال: إنه يبدأ في فليتوود، لكن من هو سيداش أونيل؟",
+    "post_text": "🚨 آخر أخبار أرسنال: إنه يبدأ في فليتوود، لكن من هو سيداش أونيل؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090336093631701",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_أرسنال_إنه_يبدأ_في_فليتوود،_لكن_من_هو_سيداش_أونيل؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOaXk5hVN9o8AYgI_JXE4YF"
+    }
+  },
+  {
     "title": "El Clásico lo ganó el Atlético de Madrid",
     "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/27/clasico-gano-atletico-madrid.html",
     "summary": "Su cuota para salir campeón de LaLiga se ha disparado en Tonybet",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1Nq1D6r8eKzAjiSZ6w5vfj"
-    }
-  },
-  {
-    "title": "Aterrizaje sin rodeos de Borja Jiménez en el Cádiz: “Tenemos que empezar con un triunfo”",
-    "url": "https://www.marca.com/futbol/cadiz/2026/10/23/aterrizaje-rodeos-borja-jimenez-cadiz-empezar-victoria.html",
-    "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
-    "published": "Fri, 23 Oct 2026 18:07:43 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb854d62c52.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "هبوط بورخا خيمينيز الصريح في قادس: \"علينا أن نبدأ بالفوز\"",
-    "arabic_summary": "ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل",
-    "translation_status": "translated",
-    "post_title": "هبوط بورخا خيمينيز الصريح في قادس: \"علينا أن نبدأ بالفوز\"",
-    "post_text": "🚨 هبوط بورخا خيمينيز الصريح في قادس: \"علينا أن نبدأ بالفوز\"\n\n📝 ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087197007278943",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هبوط_بورخا_خيمينيز_الصريح_في_قادس_علينا_أن_نبدأ_بالفوز.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/cadiz/2026/10/23/aterrizaje-rodeos-borja-jimenez-cadiz-empezar-victoria.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABgiykbxLl2FdXCBnwU9BH-"
     }
   }
 ]
