@@ -1,5 +1,39 @@
 [
   {
+    "title": "\"Parecía que daba un billón de pases cada día...\"",
+    "url": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/10/26/melanie-leupolz-sobre-etapa-real-madrid-parecia-daba-billon-pases-dia.html",
+    "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
+    "published": "Mon, 26 Oct 2026 17:59:21 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/07/17/XkMlY1deKHd1q8q4H.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"يبدو أنه كان يقوم بمليار تمريرة كل يوم...\"",
+    "arabic_summary": "يقول مدرب ملقة: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".",
+    "translation_status": "translated",
+    "post_title": "\"يبدو أنه كان يقوم بمليار تمريرة كل يوم...\"",
+    "post_text": "🚨 \"يبدو أنه كان يقوم بمليار تمريرة كل يوم...\"\n\n📝 يقول مدرب ملقة: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089912620340715",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يبدو_أنه_كان_يقوم_بمليار_تمريرة_كل_يوم....png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/10/26/melanie-leupolz-sobre-etapa-real-madrid-parecia-daba-billon-pases-dia.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AyyCQTGqNVYcQkJlDRoBu0U"
+    }
+  },
+  {
     "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
     "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
     "summary": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AgbumFoyU1Q3XfEvuBk431R"
-    }
-  },
-  {
-    "title": "El plan con Stassin para estar ante Osasuna",
-    "url": "https://www.marca.com/futbol/sevilla/2026/10/23/plan-stassin-osasuna.html",
-    "summary": "El belga completa su segundo día de trabajo individual al margen de una sesión repleta de jugadores del filial",
-    "published": "Fri, 23 Oct 2026 13:08:35 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb401435dd5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الخطة مع ستاسين ستكون ضد أوساسونا",
-    "arabic_summary": "وأنهى البلجيكي يومه الثاني من العمل الفردي على هامش جلسة تدريبية مليئة بلاعبي الفريق الرديف",
-    "translation_status": "translated",
-    "post_title": "الخطة مع ستاسين ستكون ضد أوساسونا",
-    "post_text": "🚨 الخطة مع ستاسين ستكون ضد أوساسونا\n\n📝 وأنهى البلجيكي يومه الثاني من العمل الفردي على هامش جلسة تدريبية مليئة بلاعبي الفريق الرديف\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086591470672830",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الخطة_مع_ستاسين_ستكون_ضد_أوساسونا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/23/plan-stassin-osasuna.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOTipOq1kLrzHzVUa14TJn4"
     }
   }
 ]
