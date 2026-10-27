@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Real Madrid desarma al Barcelona sin necesitar el balón",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/real-madrid-desarmo-barcelona-necesitar-balon.html",
+    "summary": "Tchouaméni sostuvo el bloque con once recuperaciones y cerrando el carril central a un Pedri y un Rodri poco resolutivos",
+    "published": "Mon, 26 Oct 2026 12:58:19 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf3ee52b95f.png",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريال مدريد ينزع سلاح برشلونة دون الحاجة للكرة",
+    "arabic_summary": "حافظ تشواميني على 11 كرة مرتدة وأغلق الممر المركزي أمام بيدري ورودري اللذين لم يكونا حاسمين للغاية",
+    "translation_status": "translated",
+    "post_title": "ريال مدريد ينزع سلاح برشلونة دون الحاجة للكرة",
+    "post_text": "🚨 ريال مدريد ينزع سلاح برشلونة دون الحاجة للكرة\n\n📝 حافظ تشواميني على 11 كرة مرتدة وأغلق الممر المركزي أمام بيدري ورودري اللذين لم يكونا حاسمين للغاية\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089569833708327",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_ينزع_سلاح_برشلونة_دون_الحاجة_للكرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/real-madrid-desarmo-barcelona-necesitar-balon.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ACXWCMOYeNDJSdOumhPtK9f"
+    }
+  },
+  {
     "title": "De la Fuente, en la cima del mundo",
     "url": "https://as.com/futbol/internacional/de-la-fuente-en-la-cima-del-mundo-f202610-n/",
     "summary": "El entrenador que le ha devuelto la Eurocopa, el Mundial y el número uno del ranking FIFA a la Selección, recibe el trofeo Johan Cruyff a mejor entrenador del mundo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQER6g4eEy0Y2WZS27hLmaK"
-    }
-  },
-  {
-    "title": "Pablo Martínez, baja de última hora para el Málaga",
-    "url": "https://www.marca.com/futbol/malaga/2026/10/23/pablo-martinez-baja-ultima-hora-malaga.html",
-    "summary": "El centrocampista sufre una fascitis plantar",
-    "published": "Fri, 23 Oct 2026 11:10:07 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb2378d137f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بابلو مارتينيز، خسارة ملقا في الدقيقة الأخيرة",
-    "arabic_summary": "لاعب الوسط يعاني من التهاب اللفافة الأخمصية",
-    "translation_status": "translated",
-    "post_title": "بابلو مارتينيز، خسارة ملقا في الدقيقة الأخيرة",
-    "post_text": "🚨 بابلو مارتينيز، خسارة ملقا في الدقيقة الأخيرة\n\n📝 لاعب الوسط يعاني من التهاب اللفافة الأخمصية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086469770685000",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بابلو_مارتينيز،_خسارة_ملقا_في_الدقيقة_الأخيرة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/malaga/2026/10/23/pablo-martinez-baja-ultima-hora-malaga.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMSD5gEVz53iS6FTOoi1Kr5"
     }
   }
 ]
