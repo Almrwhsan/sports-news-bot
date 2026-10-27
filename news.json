@@ -1,5 +1,39 @@
 [
   {
+    "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
+    "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
+    "summary": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season.",
+    "published": "Mon, 26 Oct 2026 09:41:25 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee9/live/d80f1580-d11d-11f1-a701-fddedf244c16.jpg",
+    "media_type": null,
+    "arabic_title": "هدف مبابي المتأخر يمنح ريال الفوز على برشلونة في الكلاسيكو الدرامي",
+    "arabic_summary": "سجل كيليان مبابي هدفين لريال مدريد في الفوز على برشلونة 2-1 في الكلاسيكو الأول هذا الموسم.",
+    "translation_status": "translated",
+    "post_title": "هدف مبابي المتأخر يمنح ريال الفوز على برشلونة في الكلاسيكو الدرامي",
+    "post_text": "🚨 هدف مبابي المتأخر يمنح ريال الفوز على برشلونة في الكلاسيكو الدرامي\n\n📝 سجل كيليان مبابي هدفين لريال مدريد في الفوز على برشلونة 2-1 في الكلاسيكو الأول هذا الموسم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089902900341687",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_مبابي_المتأخر_يمنح_ريال_الفوز_على_برشلونة_في_الكلاسيكو_الدرامي.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUjl5ix7tm0Uxx-sFpBHTv-"
+    }
+  },
+  {
     "title": "Watch the goals that won Kane the Ballon d'Or",
     "url": "https://www.skysports.com/watch/video/13591355/can-the-english-goal-machine-secure-the-ballon-dor-all-of-harry-kanes-goals-from-the-2025-2026-bundesliga-season",
     "summary": "We take a look at all Harry Kane's goals for Bayern Munich from the 2025/2026 Bundesliga season, as the record-setting goal scorer becomes the first English winner of the Ballon d'Or since Michael Owen in 2001.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOTipOq1kLrzHzVUa14TJn4"
-    }
-  },
-  {
-    "title": "European Championship Darts LIVE! Littler in action now with Van Gerwen to come",
-    "url": "https://www.skysports.com/darts/live-blog/12040/13602720/european-championship-darts-game-by-game-updates-scores-analysis-with-luke-littler-and-michael-van-gerwen-in-action",
-    "summary": "",
-    "published": "Fri, 23 Oct 2026 17:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-luke-littler-darts_7197827.jpg?20260326234452",
-    "media_type": "image/jpg",
-    "arabic_title": "بطولة السهام الأوروبية لايف! ليتلر في العمل الآن مع فان جيروين في المستقبل",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "بطولة السهام الأوروبية لايف! ليتلر في العمل الآن مع فان جيروين في المستقبل",
-    "post_text": "🚨 بطولة السهام الأوروبية لايف! ليتلر في العمل الآن مع فان جيروين في المستقبل\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086591550672822",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطولة_السهام_الأوروبية_لايف!_ليتلر_في_العمل_الآن_مع_فان_جيروين_في_المستقبل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/live-blog/12040/13602720/european-championship-darts-game-by-game-updates-scores-analysis-with-luke-littler-and-michael-van-gerwen-in-action",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5u-HJULgrMUjmisqcKa9im"
     }
   }
 ]
