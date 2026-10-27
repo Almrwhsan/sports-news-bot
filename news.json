@@ -1,5 +1,39 @@
 [
   {
+    "title": "Londres se lo debía a la Reina...",
+    "url": "https://as.com/opinion/nuestra-reina-alexia-es-un-regalo-f202610-n/",
+    "summary": "No hubo debates ni campañas con ella como con Lamine o Mbappé. No la necesitó porque fue la mejor, sin discusión. La brújula perfecta del intratable Barça y de España.",
+    "published": "Mon, 26 Oct 2026 23:11:02 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5J3EUQLDB5C67GZIMH5LTOZ27U.jpg?auth=e183fa63881571029a85b00c2b499b9d26c53d501e6e14d09aa9a300bfac7653",
+    "media_type": "image/jpeg",
+    "arabic_title": "لندن مدينة للملكة..",
+    "arabic_summary": "لم تكن هناك أي نقاشات أو حملات معها مثلما حدث مع لامين أو مبابي. لم يكن بحاجة إليها لأنها كانت الأفضل بلا شك. البوصلة المثالية لبرشلونة وإسبانيا المستعصية.",
+    "translation_status": "translated",
+    "post_title": "لندن مدينة للملكة..",
+    "post_text": "🚨 لندن مدينة للملكة..\n\n📝 لم تكن هناك أي نقاشات أو حملات معها مثلما حدث مع لامين أو مبابي. لم يكن بحاجة إليها لأنها كانت الأفضل بلا شك. البوصلة المثالية لبرشلونة وإسبانيا المستعصية.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090224060309571",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لندن_مدينة_للملكة...png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/nuestra-reina-alexia-es-un-regalo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVP4cck2Vxdf7YZkiPDgmKh"
+    }
+  },
+  {
     "title": "The day that rocked Celtic - One year on from O'Neill's return",
     "url": "https://www.skysports.com/football/news/12040/13604307/celtic-one-year-on-from-martin-oneills-return-to-scottish-champions-after-brendan-rodgers-shock-departure",
     "summary": "A year ago, Celtic imploded.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AMcNEqCiLblHk-MkJin-YwN"
-    }
-  },
-  {
-    "title": "¿Qué pasó con los ‘nuevos Cristiano Ronaldo’?",
-    "url": "https://as.com/futbol/fotorrelato/que-paso-con-los-nuevos-cristiano-ronaldo-f202610-f/",
-    "summary": "La etiqueta de suceder a una estrella no siempre es buena compañera. Veamos qué ha sido de la carrera de algunos candidatos a ocupar el trono del portugués.",
-    "published": "Fri, 23 Oct 2026 22:11:52 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5SAGNGFJVBFSZJTSMLBUEEKZCY.jpg?auth=3f22b466310c2b40ebbab78542b2d5be0042a2944a0aed991be3bf992b9f9d87",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماذا حدث لـ \"كريستيانو رونالدو الجديد\"؟",
-    "arabic_summary": "لقب نجاح النجم ليس دائمًا رفيقًا جيدًا. دعونا نرى ما حدث لمهنة بعض المرشحين لاحتلال العرش البرتغالي.",
-    "translation_status": "translated",
-    "post_title": "ماذا حدث لـ \"كريستيانو رونالدو الجديد\"؟",
-    "post_text": "🚨 ماذا حدث لـ \"كريستيانو رونالدو الجديد\"؟\n\n📝 لقب نجاح النجم ليس دائمًا رفيقًا جيدًا. دعونا نرى ما حدث لمهنة بعض المرشحين لاحتلال العرش البرتغالي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087080897290554",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماذا_حدث_لـ_كريستيانو_رونالدو_الجديد؟.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/que-paso-con-los-nuevos-cristiano-ronaldo-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AegGlDHRADq_7P_tIqGgDvX"
     }
   }
 ]
