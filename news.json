@@ -1,5 +1,39 @@
 [
   {
+    "title": "No se va a hablar de otra cosa: vean el atrevido look de Lamine Yamal en el Balón de Oro",
+    "url": "https://as.com/futbol/videos/no-se-va-a-hablar-de-otra-cosa-vean-el-atrevido-look-de-lamine-yamal-en-el-balon-de-oro-f202610-v/",
+    "summary": "La estrella del Barcelona se presentó en la gala acompalñado de su novia Inés García y de toda su familia. Vean su espectacular entrada.",
+    "published": "Mon, 26 Oct 2026 20:36:01 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261026/1230234_203501_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "لن نتحدث عن أي شيء آخر: شاهد نظرة لامين يامال الجريئة في حفل الكرة الذهبية",
+    "arabic_summary": "وظهر نجم برشلونة في الحفل برفقة صديقته إينيس غارسيا وعائلته بأكملها. شاهد دخوله المذهل",
+    "translation_status": "translated",
+    "post_title": "لن نتحدث عن أي شيء آخر: شاهد نظرة لامين يامال الجريئة في حفل الكرة الذهبية",
+    "post_text": "🚨 لن نتحدث عن أي شيء آخر: شاهد نظرة لامين يامال الجريئة في حفل الكرة الذهبية\n\n📝 وظهر نجم برشلونة في الحفل برفقة صديقته إينيس غارسيا وعائلته بأكملها. شاهد دخوله المذهل\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090081320323845",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لن_نتحدث_عن_أي_شيء_آخر_شاهد_نظرة_لامين_يامال_الجريئة_في_حفل_الكرة_الذهبية.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A_aiofsvDzjCOp4DtmvsT54"
+    }
+  },
+  {
     "title": "Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash",
     "url": "https://www.skysports.com/football/news/12040/13603943/arsenal-should-unleash-max-dowman-liverpool-and-chelsea-clash-in-battle-of-the-basques-and-man-city-continue-defence-carabao-cup-talking-points",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIM_kaLbIbAu7PZrUm08-IW"
-    }
-  },
-  {
-    "title": "Güler, donde sea pero que juegue",
-    "url": "https://as.com/opinion/guler-donde-sea-pero-que-juegue-f202610-n/",
-    "summary": "El turco ha saltado con limpieza todas las vallas que ha encontrado por el camino y los correspondientes debates sobre su preferible ubicación.",
-    "published": "Fri, 23 Oct 2026 12:12:26 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BCJRYIJ7TZO2DOX4YTCUMGJWL4.jpg?auth=06008433d7f545f266595e4bcc366c34e24db67630c818c23ff7ca27f0afacd3",
-    "media_type": "image/jpeg",
-    "arabic_title": "جولر، أينما كان ولكن دعه يلعب",
-    "arabic_summary": "لقد تخطى التركي جميع العقبات التي واجهها على طول الطريق والمناقشات المقابلة حول موقعه المفضل.",
-    "translation_status": "translated",
-    "post_title": "جولر، أينما كان ولكن دعه يلعب",
-    "post_text": "🚨 جولر، أينما كان ولكن دعه يلعب\n\n📝 لقد تخطى التركي جميع العقبات التي واجهها على طول الطريق والمناقشات المقابلة حول موقعه المفضل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086747967323847",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جولر،_أينما_كان_ولكن_دعه_يلعب.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/guler-donde-sea-pero-que-juegue-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5d6nFMQkT4YG8Zy1szj7eC"
     }
   }
 ]
