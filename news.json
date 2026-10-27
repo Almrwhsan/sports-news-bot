@@ -1,5 +1,39 @@
 [
   {
+    "title": "La pólvora se gastó en los primeros 45 minutos",
+    "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/26/polvora-gasto-primeros-45-minutos.html",
+    "summary": "Cinco goles en la primera parte dieron emoción a un choque donde Karrikaburu abandonó el verde lesionado",
+    "published": "Mon, 26 Oct 2026 22:27:59 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/214044.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تم إنفاق البارود في أول 45 دقيقة",
+    "arabic_summary": "خمسة أهداف في الشوط الأول أعطت الإثارة للاشتباك الذي غادر فيه كاريكابورو الملعب مصابًا",
+    "translation_status": "translated",
+    "post_title": "تم إنفاق البارود في أول 45 دقيقة",
+    "post_text": "🚨 تم إنفاق البارود في أول 45 دقيقة\n\n📝 خمسة أهداف في الشوط الأول أعطت الإثارة للاشتباك الذي غادر فيه كاريكابورو الملعب مصابًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089946897003954",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_إنفاق_البارود_في_أول_45_دقيقة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/26/polvora-gasto-primeros-45-minutos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwmbPEfnhIed8lLQiEBLwWS"
+    }
+  },
+  {
     "title": "El Burgos es de playoff en un lunes al gol",
     "url": "https://as.com/futbol/segunda/el-burgos-es-de-playoff-en-un-lunes-al-gol-f202610-n/",
     "summary": "Primera mitad con una pegada brutal: cinco tantos. Los de Sergio Francisco siempre fueron por delante ante un Andorra fallón. Karrikaburu hizo buena la ley del ex con su gol... y se lesionó.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAml82HWG05rSgb2mZ8LV2I"
-    }
-  },
-  {
-    "title": "Hamilton eyes staying in F1 into 2030s to race in African GP",
-    "url": "https://www.skysports.com/f1/news/12040/13602759/lewis-hamilton-ferrari-driver-eyes-continuing-his-f1-career-into-the-2030s-to-race-at-first-african-gp",
-    "summary": "Lewis Hamilton has set his sights on staying in Formula 1 into the 2030s in order to fulfil his dream of racing in Africa.",
-    "published": "Fri, 23 Oct 2026 18:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7384880.jpg?20261023182644",
-    "media_type": "image/jpg",
-    "arabic_title": "يتطلع هاميلتون إلى البقاء في الفورمولا 1 حتى ثلاثينيات القرن الحادي والعشرين للتنافس في سباق الجائزة الكبرى الأفريقي",
-    "arabic_summary": "وضع لويس هاميلتون نصب عينيه البقاء في الفورمولا 1 حتى ثلاثينيات القرن الحالي من أجل تحقيق حلمه بالسباق في إفريقيا.",
-    "translation_status": "translated",
-    "post_title": "يتطلع هاميلتون إلى البقاء في الفورمولا 1 حتى ثلاثينيات القرن الحادي والعشرين للتنافس في سباق الجائزة الكبرى الأفريقي",
-    "post_text": "🚨 يتطلع هاميلتون إلى البقاء في الفورمولا 1 حتى ثلاثينيات القرن الحادي والعشرين للتنافس في سباق الجائزة الكبرى الأفريقي\n\n📝 وضع لويس هاميلتون نصب عينيه البقاء في الفورمولا 1 حتى ثلاثينيات القرن الحالي من أجل تحقيق حلمه بالسباق في إفريقيا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086616854003625",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتطلع_هاميلتون_إلى_البقاء_في_الفورمولا_1_حتى_ثلاثينيات_القرن_الحادي_والعشرين_للت.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13602759/lewis-hamilton-ferrari-driver-eyes-continuing-his-f1-career-into-the-2030s-to-race-at-first-african-gp",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoJxe5PeUej1pfdU_HoNY6R"
     }
   }
 ]
