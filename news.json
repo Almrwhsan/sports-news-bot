@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jay-Z picks himself to headline Super Bowl half-time show in LA",
+    "url": "https://www.skysports.com/nfl/news/12040/13604236/super-bowl-2027-jay-z-to-headline-super-bowl-lxi-half-time-show-at-sofi-stadium-in-los-angeles",
+    "summary": "Jay-Z has announced himself as the headline act at the Super Bowl LXI half-time show in Los Angeles.",
+    "published": "Tue, 27 Oct 2026 06:26:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-jayz-super-bowl-nfl_7388394.jpg?20261027065603",
+    "media_type": "image/jpg",
+    "arabic_title": "يختار Jay-Z نفسه ليتصدر عرض نهاية الشوط الأول لـ Super Bowl في لوس أنجلوس",
+    "arabic_summary": "أعلن Jay-Z عن نفسه باعتباره النجم الرئيسي في عرض نصف الوقت Super Bowl LXI في لوس أنجلوس.",
+    "translation_status": "translated",
+    "post_title": "يختار Jay-Z نفسه ليتصدر عرض نهاية الشوط الأول لـ Super Bowl في لوس أنجلوس",
+    "post_text": "🚨 يختار Jay-Z نفسه ليتصدر عرض نهاية الشوط الأول لـ Super Bowl في لوس أنجلوس\n\n📝 أعلن Jay-Z عن نفسه باعتباره النجم الرئيسي في عرض نصف الوقت Super Bowl LXI في لوس أنجلوس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090007730331204",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يختار_Jay-Z_نفسه_ليتصدر_عرض_نهاية_الشوط_الأول_لـ_Super_Bowl_في_لوس_أنجلوس.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/nfl/news/12040/13604236/super-bowl-2027-jay-z-to-headline-super-bowl-lxi-half-time-show-at-sofi-stadium-in-los-angeles",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtQqxvTrAklJ87LsVLHxMFq"
+    }
+  },
+  {
     "title": "Nervión vuelve a soñar",
     "url": "https://as.com/futbol/primera/nervion-vuelve-a-sonar-f202610-n/",
     "summary": "Solvente victoria del Sevilla, que gana otra vez y confirma las buenas sensaciones de este inicio de temporada. El efecto Arrasate se difumina de momento en Osasuna.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AS5SOXFLgRyv-TlQ8GktNVM"
-    }
-  },
-  {
-    "title": "AE Prat, un equipo de orgullo ‘potablava’",
-    "url": "https://as.com/futbol/copa_del_rey/ae-prat-un-equipo-de-orgullo-potablava-f202610-n/",
-    "summary": "El conjunto catalán, que milita en la Liga Élite Catalana (sexta categoría del fútbol español), se enfrentará al Athletic en la Copa del Rey. El club tiene 81 años de historia y maneja un presupuesto global de 1′2 millones de euros. Tiene 600 socios.",
-    "published": "Fri, 23 Oct 2026 14:37:30 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WJJ7QT6XYJHL7H7HUGKK3G7F44.jpg?auth=89076eb4ad02353b7a9f9cf6cf9eaf5f250c5f2d41f731a527898a8127baa5a3",
-    "media_type": "image/jpeg",
-    "arabic_title": "AE برات، فريق الفخر \"بوتابلافا\"",
-    "arabic_summary": "وسيواجه الفريق الكتالوني، الذي يلعب في دوري النخبة الكاتالوني (الفئة السادسة لكرة القدم الإسبانية)، أتلتيك في بطولة كأس الملك. يتمتع النادي بتاريخ يبلغ 81 عامًا ويدير ميزانية عالمية تبلغ 1.2 مليون يورو. لديها 600 عضو.",
-    "translation_status": "translated",
-    "post_title": "AE برات، فريق الفخر \"بوتابلافا\"",
-    "post_text": "🚨 AE برات، فريق الفخر \"بوتابلافا\"\n\n📝 وسيواجه الفريق الكتالوني، الذي يلعب في دوري النخبة الكاتالوني (الفئة السادسة لكرة القدم الإسبانية)، أتلتيك في بطولة كأس الملك. يتمتع النادي بتاريخ يبلغ 81 عامًا ويدير ميزانية عالمية تبلغ 1.2 مليون يورو. لديها 600 عضو.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086661183999192",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/AE_برات،_فريق_الفخر_بوتابلافا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/copa_del_rey/ae-prat-un-equipo-de-orgullo-potablava-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhW5xsxu9MKCg2_g9olFPfv"
     }
   }
 ]
