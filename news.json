@@ -1,5 +1,39 @@
 [
   {
+    "title": "De hacer jugadas a jugar de verdad",
+    "url": "https://as.com/futbol/primera/de-hacer-jugadas-a-jugar-de-verdad-f202610-n/",
+    "summary": "El Real Madrid se impuso al Barcelona con una acertada mezcla de cohesión, solidaridad, disciplina y sentido de la oportunidad.",
+    "published": "Tue, 27 Oct 2026 00:44:55 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6BGX5CEEHNEQDJCAOL3HFGW7BM.JPG?auth=d8ebeb778425b8dca00cfabc0e6244e4dce7847846a2128fbfd725e46571001b",
+    "media_type": "image/jpeg",
+    "arabic_title": "من صنع المسرحيات إلى اللعب الحقيقي",
+    "arabic_summary": "فاز ريال مدريد على برشلونة بمزيج ناجح من التماسك والتضامن والانضباط والشعور بالفرص.",
+    "translation_status": "translated",
+    "post_title": "من صنع المسرحيات إلى اللعب الحقيقي",
+    "post_text": "🚨 من صنع المسرحيات إلى اللعب الحقيقي\n\n📝 فاز ريال مدريد على برشلونة بمزيج ناجح من التماسك والتضامن والانضباط والشعور بالفرص.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090212033644107",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_صنع_المسرحيات_إلى_اللعب_الحقيقي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/de-hacer-jugadas-a-jugar-de-verdad-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Au2QAS4UOnOUV5wD_yAj2nF"
+    }
+  },
+  {
     "title": "Brundle's verdict on 'outstanding' Antonelli and Piastri 'pain' in 2026 cars",
     "url": "https://www.skysports.com/f1/news/12040/13604035/united-states-gp-martin-brundles-verdict-on-outstanding-kimi-antonelli-win-in-austin-and-oscar-piastris-struggles-in-2026-f1-cars",
     "summary": "Given that Red Bull and Ferrari, and from time to time McLaren, have undoubtedly closed down the pace advantage enjoyed by Mercedes in the first half of the season, it was looking possible that Kimi Antonelli might win the World Championship perhaps not fully in the style he would have wanted.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AP5j1FfFZONM-2Ugc42i87H"
-    }
-  },
-  {
-    "title": "Muslera logra la redención",
-    "url": "https://as.com/futbol/internacional/muslera-logra-la-redencion-f202610-n/",
-    "summary": "El portero uruguayo fue el héroe de la tanda de penaltis que permitió a Estudiantes de la Plata avanzar a la final de la Copa Libertadores. Ocurre meses de ser ‘linchado’ tras el desastre mundialista.",
-    "published": "Sat, 24 Oct 2026 00:13:20 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KRKDML6HDVBMTA6JJQHUAALNAE.jpg?auth=371a25954ec38cdfe31e37440c405db9342f13a1d8d266af20321d16ed8b5df1",
-    "media_type": "image/jpeg",
-    "arabic_title": "موسليرا يحقق الخلاص",
-    "arabic_summary": "كان حارس مرمى الأوروغواي هو بطل ركلات الترجيح التي سمحت لإستوديانتس دي لا بلاتا بالتأهل إلى نهائي كأس ليبرتادوريس. بعد أشهر من \"إعدامهم\" بعد كارثة كأس العالم.",
-    "translation_status": "translated",
-    "post_title": "موسليرا يحقق الخلاص",
-    "post_text": "🚨 موسليرا يحقق الخلاص\n\n📝 كان حارس مرمى الأوروغواي هو بطل ركلات الترجيح التي سمحت لإستوديانتس دي لا بلاتا بالتأهل إلى نهائي كأس ليبرتادوريس. بعد أشهر من \"إعدامهم\" بعد كارثة كأس العالم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087081057290538",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/موسليرا_يحقق_الخلاص.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/muslera-logra-la-redencion-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARPwjSHBJzPenszl5IktK31"
     }
   }
 ]
