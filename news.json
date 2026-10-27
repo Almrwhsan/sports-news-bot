@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kane becomes first English winner of Ballon d'Or in 25 years",
+    "url": "https://www.skysports.com/football/news/12040/13601934/harry-kane-wins-2026-ballon-dor-bayern-munich-striker-becomes-first-english-winner-of-award-in-25-years",
+    "summary": "Harry Kane has become the first English winner of the Ballon d'Or in 25 years after being honoured at a ceremony in London.",
+    "published": "Mon, 26 Oct 2026 23:05:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-kane-harry_7388410.jpg?20261027071937",
+    "media_type": "image/jpg",
+    "arabic_title": "كين يصبح أول إنجليزي يفوز بالكرة الذهبية منذ 25 عامًا",
+    "arabic_summary": "أصبح هاري كين أول إنجليزي يفوز بجائزة الكرة الذهبية منذ 25 عامًا بعد تكريمه في حفل أقيم في لندن.",
+    "translation_status": "translated",
+    "post_title": "كين يصبح أول إنجليزي يفوز بالكرة الذهبية منذ 25 عامًا",
+    "post_text": "🚨 كين يصبح أول إنجليزي يفوز بالكرة الذهبية منذ 25 عامًا\n\n📝 أصبح هاري كين أول إنجليزي يفوز بجائزة الكرة الذهبية منذ 25 عامًا بعد تكريمه في حفل أقيم في لندن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1089841927014451",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كين_يصبح_أول_إنجليزي_يفوز_بالكرة_الذهبية_منذ_25_عامًا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13601934/harry-kane-wins-2026-ballon-dor-bayern-munich-striker-becomes-first-english-winner-of-award-in-25-years",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-yq6uTLs02t_SN89rXHcyI"
+    }
+  },
+  {
     "title": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed",
     "url": "https://www.skysports.com/football/news/12040/13604196/manchester-united-eddie-howe-compensation-fee-to-newcastle-revealed-paper-talk",
     "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnkI30NSpR4khMbiilb9eoN"
-    }
-  },
-  {
-    "title": "Parrott, el último futbolista en sufrir un asalto en Sevilla",
-    "url": "https://www.marca.com/futbol/betis/2026/10/23/parrott-ultimo-futbolista-sufrir-asalto-sevilla.html",
-    "summary": "La vivienda del delantero del Betis fue asaltada por varios encapuchados mientras disputaba el partido ante el Barcelona",
-    "published": "Fri, 23 Oct 2026 12:27:22 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb3669e2c56.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "باروت، آخر لاعب كرة قدم يتعرض لاعتداء في إشبيلية",
-    "arabic_summary": "تعرض منزل مهاجم بيتيس لهجوم من قبل العديد من الرجال الملثمين أثناء لعبه المباراة ضد برشلونة",
-    "translation_status": "translated",
-    "post_title": "باروت، آخر لاعب كرة قدم يتعرض لاعتداء في إشبيلية",
-    "post_text": "🚨 باروت، آخر لاعب كرة قدم يتعرض لاعتداء في إشبيلية\n\n📝 تعرض منزل مهاجم بيتيس لهجوم من قبل العديد من الرجال الملثمين أثناء لعبه المباراة ضد برشلونة\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1086535457345098",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باروت،_آخر_لاعب_كرة_قدم_يتعرض_لاعتداء_في_إشبيلية.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/10/23/parrott-ultimo-futbolista-sufrir-asalto-sevilla.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQIOmM4Tlujdv4Di4r_nIid"
     }
   }
 ]
