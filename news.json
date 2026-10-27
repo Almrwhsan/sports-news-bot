@@ -1,5 +1,39 @@
 [
   {
+    "title": "La Copa del Rey es la asignatura pendiente de los últimos años",
+    "url": "https://www.marca.com/futbol/celta/2026/10/27/copa-rey-asignatura-pendiente-ultimos-anos.html",
+    "summary": "Solo una clasificación para cuartos en casi una década",
+    "published": "Tue, 27 Oct 2026 11:13:53 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/25/6ade47e156552.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كأس الملك هو الموضوع المعلق في السنوات الأخيرة",
+    "arabic_summary": "تأهل واحد فقط إلى ربع النهائي خلال ما يقرب من عقد من الزمن",
+    "translation_status": "translated",
+    "post_title": "كأس الملك هو الموضوع المعلق في السنوات الأخيرة",
+    "post_text": "🚨 كأس الملك هو الموضوع المعلق في السنوات الأخيرة\n\n📝 تأهل واحد فقط إلى ربع النهائي خلال ما يقرب من عقد من الزمن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090322590299718",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كأس_الملك_هو_الموضوع_المعلق_في_السنوات_الأخيرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/celta/2026/10/27/copa-rey-asignatura-pendiente-ultimos-anos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzMTnnL6nuTXdZUIOE59fQA"
+    }
+  },
+  {
     "title": "El oro de Simón reconoce toda la historia de la portería del Athletic",
     "url": "https://www.marca.com/futbol/athletic/2026/10/27/oro-simon-reconoce-toda-historia-porteria-athletic.html",
     "summary": "El galardón recibido en Londres es un guiño al gran trabajo de años del club con sus porteros",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-8lFwRLhX-50kbOt_gYNru"
-    }
-  },
-  {
-    "title": "Cuando Mourinho, el ‘Chico Martini’, caía bien en Barcelona",
-    "url": "https://as.com/futbol/primera/cuando-mourinho-el-chico-martini-caia-bien-en-barcelona-f202610-n/",
-    "summary": "Hubo una época en la que Mou era apreciado en la ciudad. Era cuando se le conocía como el ‘Chico Martini’.",
-    "published": "Sat, 24 Oct 2026 00:27:31 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KW6BDZ2AMNIJJPMCBJL474LZSI.jpg?auth=eebb9b5d4385b6e18c57357248ddb7da8575e46939570816f2cedce15a5044dd",
-    "media_type": "image/jpeg",
-    "arabic_title": "عندما كان مورينيو، \"فتى المارتيني\"، محبوبا في برشلونة",
-    "arabic_summary": "كان هناك وقت تم فيه تقدير مو في المدينة. كان هذا عندما كان يُعرف باسم \"فتى مارتيني\".",
-    "translation_status": "translated",
-    "post_title": "عندما كان مورينيو، \"فتى المارتيني\"، محبوبا في برشلونة",
-    "post_text": "🚨 عندما كان مورينيو، \"فتى المارتيني\"، محبوبا في برشلونة\n\n📝 كان هناك وقت تم فيه تقدير مو في المدينة. كان هذا عندما كان يُعرف باسم \"فتى مارتيني\".\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087197227278921",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عندما_كان_مورينيو،_فتى_المارتيني،_محبوبا_في_برشلونة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/cuando-mourinho-el-chico-martini-caia-bien-en-barcelona-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtitLiHE_Z9tYqTpir24ksC"
     }
   }
 ]
