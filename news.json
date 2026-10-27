@@ -1,5 +1,39 @@
 [
   {
+    "title": "Manso pide más diálogo con los árbitros: \"Parece que te intimidan con la mirada\"",
+    "url": "https://www.marca.com/futbol/andorra/2026/10/27/manso-pide-dialogo-arbitros-parece-te-intimidan-mirada.html",
+    "summary": "El técnico del Andorra lamenta la poca accesibilidad de los colegiados y admite que prefiere no profundizar en sus críticas para evitar una posible sanción",
+    "published": "Tue, 27 Oct 2026 13:50:34 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/01/69f4e30e6df93.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مانسو يطالب بمزيد من الحوار مع الحكام: \"يبدو أنهم يخيفونك بنظراتهم\"",
+    "arabic_summary": "مدرب أندورا يأسف لعدم إمكانية الوصول للحكام ويعترف بأنه يفضل عدم الخوض في انتقاداته لتجنب عقوبة محتملة",
+    "translation_status": "translated",
+    "post_title": "مانسو يطالب بمزيد من الحوار مع الحكام: \"يبدو أنهم يخيفونك بنظراتهم\"",
+    "post_text": "🚨 مانسو يطالب بمزيد من الحوار مع الحكام: \"يبدو أنهم يخيفونك بنظراتهم\"\n\n📝 مدرب أندورا يأسف لعدم إمكانية الوصول للحكام ويعترف بأنه يفضل عدم الخوض في انتقاداته لتجنب عقوبة محتملة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090448556953788",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانسو_يطالب_بمزيد_من_الحوار_مع_الحكام_يبدو_أنهم_يخيفونك_بنظراتهم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/andorra/2026/10/27/manso-pide-dialogo-arbitros-parece-te-intimidan-mirada.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtOQg3N6CONwTn8_Ijx8Vng"
+    }
+  },
+  {
     "title": "Castro: \"Llegué con un segunda división en Francia hasta semifinales de Copa, vamos hacer lo mejor posible\"",
     "url": "https://www.marca.com/futbol/levante/2026/10/27/castro-llegue-segunda-division-francia-semifinales-copa-mejor-posible.html",
     "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6cYviygxkaFKRBu5NTxzqH"
-    }
-  },
-  {
-    "title": "Goles sobre lienzo para el Atlético",
-    "url": "https://as.com/futbol/femenino/goles-sobre-lienzo-para-el-atletico-f202610-n/",
-    "summary": "El equipo rojiblanco pasa por encima del colista Valencia con los bonitos tantos de Jensen, Zubieta, Gio y Natalia. Es tercero provisionalmente.",
-    "published": "Fri, 23 Oct 2026 19:25:20 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FGGAJXGB3VIMRNDIB2GS73YUY4.jpg?auth=4194db570ba4b60ac595e3dedf928823472e6f7b4092bcf09d829ce204f285c7",
-    "media_type": "image/jpeg",
-    "arabic_title": "أهداف على قماش لأتلتيكو",
-    "arabic_summary": "الفريق الأحمر والأبيض يتفوق على فالنسيا متذيل الترتيب بأهداف جميلة سجلها جنسن وزوبيتا وجيو وناتاليا. هو الثالث مؤقتا.",
-    "translation_status": "translated",
-    "post_title": "أهداف على قماش لأتلتيكو",
-    "post_text": "🚨 أهداف على قماش لأتلتيكو\n\n📝 الفريق الأحمر والأبيض يتفوق على فالنسيا متذيل الترتيب بأهداف جميلة سجلها جنسن وزوبيتا وجيو وناتاليا. هو الثالث مؤقتا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087288573936453",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أهداف_على_قماش_لأتلتيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/femenino/goles-sobre-lienzo-para-el-atletico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AsK-5rPzroDJu_hpe5YiFxU"
     }
   }
 ]
