@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lewis: I've earned my England RL World Cup spot",
+    "url": "https://www.skysports.com/rugby-league/news/12040/13604799/mikey-lewis-ive-earned-my-england-rugby-league-world-cup-spot",
+    "summary": "Mikey Lewis insists he has &#8216;earned&#8217; his place in England&#8217;s Rugby League World Cup squad despite limited game time so far.",
+    "published": "Wed, 28 Oct 2026 13:31:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-mikey-lewis-rugby-league_7389712.jpg?20261028130319",
+    "media_type": "image/jpg",
+    "arabic_title": "لويس: لقد حصلت على مكاني في كأس العالم في إنجلترا",
+    "arabic_summary": "يصر ميكي لويس على أنه \"حصل\" على مكانه في تشكيلة منتخب إنجلترا لكأس العالم للرجبي على الرغم من الوقت المحدود للعب حتى الآن.",
+    "translation_status": "translated",
+    "post_title": "لويس: لقد حصلت على مكاني في كأس العالم في إنجلترا",
+    "post_text": "🚨 لويس: لقد حصلت على مكاني في كأس العالم في إنجلترا\n\n📝 يصر ميكي لويس على أنه \"حصل\" على مكانه في تشكيلة منتخب إنجلترا لكأس العالم للرجبي على الرغم من الوقت المحدود للعب حتى الآن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091294020202575",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لويس_لقد_حصلت_على_مكاني_في_كأس_العالم_في_إنجلترا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/news/12040/13604799/mikey-lewis-ive-earned-my-england-rugby-league-world-cup-spot",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfOwgXolZO9Kgr-tRuu_ziK"
+    }
+  },
+  {
     "title": "Hasta siempre, comandante Giménez",
     "url": "https://as.com/opinion/hasta-siempre-comandante-gimenez-f202610-n/",
     "summary": "El central vivió desde el otro lado uno de esos partidos que tanto disfrutó cuando vestía la rojiblanca. Un 1-0 clave pese a no estar brillantes. Vuelve Julián.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7m0USu32p5ssA1RcwvsV5F"
-    }
-  },
-  {
-    "title": "Borja Jiménez toma el mando del Cádiz: “Sé dónde vengo, miedo ninguno”",
-    "url": "https://www.marca.com/futbol/cadiz/2026/10/24/borja-jimenez-toma-mando-cadiz-vengo-miedo-ninguno.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Sat, 24 Oct 2026 14:49:56 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/24/6adca87189220.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بورخا خيمينيز يتولى قيادة قادس: \"أعرف من أين أتيت، لا خوف\"",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "بورخا خيمينيز يتولى قيادة قادس: \"أعرف من أين أتيت، لا خوف\"",
-    "post_text": "🚨 بورخا خيمينيز يتولى قيادة قادس: \"أعرف من أين أتيت، لا خوف\"\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087614130570564",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بورخا_خيمينيز_يتولى_قيادة_قادس_أعرف_من_أين_أتيت،_لا_خوف.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/cadiz/2026/10/24/borja-jimenez-toma-mando-cadiz-vengo-miedo-ninguno.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGIXpFo4Q0Pztc-6bGRWXWJ"
     }
   }
 ]
