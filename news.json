@@ -1,5 +1,39 @@
 [
   {
+    "title": "Modric y Kane: rechazados, cedidos, compañeros y... reyes del mundo",
+    "url": "https://as.com/futbol/internacional/modric-y-kane-rechazados-cedidos-companeros-y-reyes-del-mundo-f202610-n/",
+    "summary": "Kane y Modric no parecían destinados al gran escenario al inicio de sus carreras. Ambos fueron rechazados y luego, cedidos en varias ocasiones. Se vuelven a reunir en el olimpo del fútbol.",
+    "published": "Tue, 27 Oct 2026 16:10:41 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KQVHJI45GFOOPAH6JJICFADQFQ.jpg?auth=d67620217d988957ab6e03b7b411db3017001a36b1652323b008104fd24bec88",
+    "media_type": "image/jpeg",
+    "arabic_title": "مودريتش وكين: مرفوضون، معارون، زملاء في الفريق و... ملوك العالم",
+    "arabic_summary": "لا يبدو أن كين ومودريتش متجهان إلى المسرح الكبير في بداية حياتهما المهنية. تم رفض كلاهما ثم تم نقلهما عدة مرات. يجتمعون مرة أخرى في أوليمبوس لكرة القدم.",
+    "translation_status": "translated",
+    "post_title": "مودريتش وكين: مرفوضون، معارون، زملاء في الفريق و... ملوك العالم",
+    "post_text": "🚨 مودريتش وكين: مرفوضون، معارون، زملاء في الفريق و... ملوك العالم\n\n📝 لا يبدو أن كين ومودريتش متجهان إلى المسرح الكبير في بداية حياتهما المهنية. تم رفض كلاهما ثم تم نقلهما عدة مرات. يجتمعون مرة أخرى في أوليمبوس لكرة القدم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090921653573145",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مودريتش_وكين_مرفوضون،_معارون،_زملاء_في_الفريق_و..._ملوك_العالم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/modric-y-kane-rechazados-cedidos-companeros-y-reyes-del-mundo-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADnK9Bdz9G2i6lWpc3q2XUn"
+    }
+  },
+  {
     "title": "Pellegrini: \"Uno puede estar en la final en seis partidos\"",
     "url": "https://www.marca.com/futbol/betis/2026/10/27/pellegrini-final-seis-partidos.html",
     "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AMih0tfPG74hj0OjhaexEDP"
-    }
-  },
-  {
-    "title": "Armstrong fires Wolves past Watford",
-    "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-watford/report/560641",
-    "summary": "Adam Armstrong ended his goal drought with a milestone strike to give dominant Wolves a 1-0 win against Watford in the Sky Bet Championship at Molineux.",
-    "published": "Sat, 24 Oct 2026 17:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-wolves-watford_7385774.jpg?20261024162424",
-    "media_type": "image/jpg",
-    "arabic_title": "ارمسترونج يقود ولفرهامبتون للفوز على واتفورد",
-    "arabic_summary": "أنهى آدم أرمسترونج جفافه التهديفي بهدف رائع ليمنح فريق ولفرهامبتون المهيمن الفوز بنتيجة 1-0 على واتفورد في بطولة Sky Bet في مولينو.",
-    "translation_status": "translated",
-    "post_title": "ارمسترونج يقود ولفرهامبتون للفوز على واتفورد",
-    "post_text": "🚨 ارمسترونج يقود ولفرهامبتون للفوز على واتفورد\n\n📝 أنهى آدم أرمسترونج جفافه التهديفي بهدف رائع ليمنح فريق ولفرهامبتون المهيمن الفوز بنتيجة 1-0 على واتفورد في بطولة Sky Bet في مولينو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087424763922834",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ارمسترونج_يقود_ولفرهامبتون_للفوز_على_واتفورد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/wolverhampton-wanderers-vs-watford/report/560641",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AEUNChIHyuxaD0Q0tscbHsI"
     }
   }
 ]
