@@ -1,5 +1,39 @@
 [
   {
+    "title": "Simeone, sobre Julián: “Pedir perdón no es fácil, se lo agradezco”",
+    "url": "https://as.com/futbol/primera/simeone-sobre-julian-pedir-perdon-no-es-facil-se-lo-agradezco-f202610-n/",
+    "summary": "El técnico del Atlético analiza la victoria ante del Deportivo, la racha triunfal en Liga y cómo vio el encuentro, además de lo que supone la declaración del delantero.",
+    "published": "Sat, 24 Oct 2026 21:45:37 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261024/1229546_214239_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "سيميوني عن جوليان: \"طلب المغفرة ليس بالأمر السهل، وأنا أقدر ذلك\"",
+    "arabic_summary": "ويحلل مدرب أتلتيكو الفوز على ديبورتيفو، وسلسلة الانتصارات في الدوري وكيف رأى المباراة، بالإضافة إلى ما يعنيه تصريح المهاجم.",
+    "translation_status": "translated",
+    "post_title": "سيميوني عن جوليان: \"طلب المغفرة ليس بالأمر السهل، وأنا أقدر ذلك\"",
+    "post_text": "🚨 سيميوني عن جوليان: \"طلب المغفرة ليس بالأمر السهل، وأنا أقدر ذلك\"\n\n📝 ويحلل مدرب أتلتيكو الفوز على ديبورتيفو، وسلسلة الانتصارات في الدوري وكيف رأى المباراة، بالإضافة إلى ما يعنيه تصريح المهاجم.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090925036906140",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_عن_جوليان_طلب_المغفرة_ليس_بالأمر_السهل،_وأنا_أقدر_ذلك.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmbmSf5O72O3-iaOR-s4czA"
+    }
+  },
+  {
     "title": "Modric y Kane: rechazados, cedidos, compañeros y... reyes del mundo",
     "url": "https://as.com/futbol/internacional/modric-y-kane-rechazados-cedidos-companeros-y-reyes-del-mundo-f202610-n/",
     "summary": "Kane y Modric no parecían destinados al gran escenario al inicio de sus carreras. Ambos fueron rechazados y luego, cedidos en varias ocasiones. Se vuelven a reunir en el olimpo del fútbol.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHNPYKBqcSTNi_is00U5Uin"
-    }
-  },
-  {
-    "title": "Rayo - Elche | Resumen, resultado y goles del partido de LALIGA EA Sports",
-    "url": "https://www.marca.com/futbol/primera-division/2026/10/24/01-0101-20261024-184-954.html",
-    "summary": "Sigue en vivo y en directo el Rayo - Elche de LaLiga con todos los goles y estadísticas del partido",
-    "published": "Sat, 24 Oct 2026 11:16:03 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "البرق - إلتشي | ملخص ونتائج وأهداف مباراة LALIGA EA Sports",
-    "arabic_summary": "تابع مباراة رايو - إلتشي من الدوري الإسباني بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة",
-    "translation_status": "translated",
-    "post_title": "البرق - إلتشي | ملخص ونتائج وأهداف مباراة LALIGA EA Sports",
-    "post_text": "🚨 البرق - إلتشي | ملخص ونتائج وأهداف مباراة LALIGA EA Sports\n\n📝 تابع مباراة رايو - إلتشي من الدوري الإسباني بث مباشر ومباشر بجميع أهداف وإحصائيات المباراة\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087424687256175",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/البرق_-_إلتشي_ملخص_ونتائج_وأهداف_مباراة_LALIGA_EA_Sports.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMih0tfPG74hj0OjhaexEDP"
     }
   }
 ]
