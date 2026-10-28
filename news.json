@@ -1,5 +1,39 @@
 [
   {
+    "title": "All the goals from the Women's Super League - matchweek seven",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go?at_medium=RSS&at_campaign=rss",
+    "summary": "Watch every goal from matchweek seven of the Women's Super League 2026-27 season.",
+    "published": "Mon, 26 Oct 2026 12:02:22 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg",
+    "media_type": null,
+    "arabic_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة السابعة",
+    "arabic_summary": "شاهد كل هدف من الجولة السابعة من دوري السوبر للسيدات لموسم 2026-27.",
+    "translation_status": "translated",
+    "post_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة السابعة",
+    "post_text": "🚨 جميع أهداف الدوري الممتاز للسيدات - الجولة السابعة\n\n📝 شاهد كل هدف من الجولة السابعة من دوري السوبر للسيدات لموسم 2026-27.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090985040233473",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جميع_أهداف_الدوري_الممتاز_للسيدات_-_الجولة_السابعة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAtlg8e1YY70oS3L-Q90NDW"
+    }
+  },
+  {
     "title": "El CTA analiza las polémicas del Clásico: Cancelo debió ser amonestado",
     "url": "https://as.com/futbol/primera/el-cta-confirma-que-no-hubo-penalti-de-balde-pero-cancelo-debio-ser-amonestado-f202610-n/",
     "summary": "El estamento arbitral repasa en Tiempo de Revisión las dos acciones controvertidas del Barcelona-Real Madrid del domingo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADbF6O2m4j987tvzz2j8tg7"
-    }
-  },
-  {
-    "title": "West Ham 2-3 Southampton",
-    "url": "https://www.skysports.com/watch/video/13603175/west-ham-united-2-3-southampton-championship-highlights",
-    "summary": "Highlights from the Sky Bet Championship match between West Ham United and Southampton.",
-    "published": "Sat, 24 Oct 2026 17:15:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-football-championship_7385853.jpg?20261024170746",
-    "media_type": "image/jpg",
-    "arabic_title": "وست هام 2-3 ساوثامبتون",
-    "arabic_summary": "أبرز لقطات مباراة بطولة سكاي بيت بين وست هام يونايتد وساوثهامبتون.",
-    "translation_status": "translated",
-    "post_title": "وست هام 2-3 ساوثامبتون",
-    "post_text": "🚨 وست هام 2-3 ساوثامبتون\n\n📝 أبرز لقطات مباراة بطولة سكاي بيت بين وست هام يونايتد وساوثهامبتون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087485367250107",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وست_هام_2-3_ساوثامبتون.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13603175/west-ham-united-2-3-southampton-championship-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATDXm2DfGNUG_rUL98H_whT"
     }
   }
 ]
