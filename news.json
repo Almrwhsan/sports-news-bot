@@ -1,5 +1,39 @@
 [
   {
+    "title": "No se pierdan cómo entrena Vinicius: para los que dicen que no está en forma...",
+    "url": "https://as.com/futbol/videos/vinicius-afina-su-vuelta-machacandose-a-modo-en-el-gimnasio-esta-cada-vez-mejor-f202610-v/",
+    "summary": "El delantero brasileño ha publicado este vídeo en sus redes. Se le ve cada vez más fino. Quiere volver en su mejor forma tras su sanción en liga.",
+    "published": "Tue, 27 Oct 2026 20:38:01 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261027/1230740_203419_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "لا تفوت كيف يتدرب فينيسيوس: لأولئك الذين يقولون إنه ليس في لياقته البدنية...",
+    "arabic_summary": "وقد نشر المهاجم البرازيلي هذا الفيديو على شبكاته. يبدو بخير على نحو متزايد. يريد العودة إلى أفضل مستوياته بعد إيقافه في الدوري.",
+    "translation_status": "translated",
+    "post_title": "لا تفوت كيف يتدرب فينيسيوس: لأولئك الذين يقولون إنه ليس في لياقته البدنية...",
+    "post_text": "🚨 لا تفوت كيف يتدرب فينيسيوس: لأولئك الذين يقولون إنه ليس في لياقته البدنية...\n\n📝 وقد نشر المهاجم البرازيلي هذا الفيديو على شبكاته. يبدو بخير على نحو متزايد. يريد العودة إلى أفضل مستوياته بعد إيقافه في الدوري.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091341823531128",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_تفوت_كيف_يتدرب_فينيسيوس_لأولئك_الذين_يقولون_إنه_ليس_في_لياقته_البدنية....png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aw7eefGHKXW4wTlc8ru0P7J"
+    }
+  },
+  {
     "title": "Perez signs new Cadillac contract ahead of home race",
     "url": "https://www.skysports.com/f1/news/12040/13604899/sergio-perez-signs-new-cadillac-f1-contract-until-2029-ahead-of-home-race-at-mexico-city-grand-prix",
     "summary": "Sergio Perez has signed a new multi-year contract that will see him stay at Cadillac until at least the end of 2029.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFw_YyQfvXg30uRbCq2uvGG"
-    }
-  },
-  {
-    "title": "¿Con quién va un rojiblanco en el Clásico? El test que va a dar mucho que hablar",
-    "url": "https://as.com/futbol/videos/con-quien-va-un-rojiblanco-en-el-clasico-el-test-que-va-a-dar-mucho-que-hablar-f202610-v/",
-    "summary": "Preguntamos a los aficionados colchoneros su favorito para ganar el Clásico. Vean sus respuestas.",
-    "published": "Sat, 24 Oct 2026 14:15:52 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261024/1229412_130332_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "من سيلعب الفريق الأحمر والأبيض في الكلاسيكو؟ الاختبار الذي سيعطي الكثير للحديث عنه",
-    "arabic_summary": "لقد سألنا مشجعي Colchoneros عن مرشحهم المفضل للفوز بالكلاسيكية. انظر إجاباتهم.",
-    "translation_status": "translated",
-    "post_title": "من سيلعب الفريق الأحمر والأبيض في الكلاسيكو؟ الاختبار الذي سيعطي الكثير للحديث عنه",
-    "post_text": "🚨 من سيلعب الفريق الأحمر والأبيض في الكلاسيكو؟ الاختبار الذي سيعطي الكثير للحديث عنه\n\n📝 لقد سألنا مشجعي Colchoneros عن مرشحهم المفضل للفوز بالكلاسيكية. انظر إجاباتهم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087645527234091",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_سيلعب_الفريق_الأحمر_والأبيض_في_الكلاسيكو؟_الاختبار_الذي_سيعطي_الكثير_للحديث_ع.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYC0JxmSV9PSbz_WqoDG_cY"
     }
   }
 ]
