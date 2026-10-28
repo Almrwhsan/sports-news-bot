@@ -1,5 +1,39 @@
 [
   {
+    "title": "Aguirre: \"Me encargaré de reprender a quien se exceda, intente hacer un túnel...\"",
+    "url": "https://www.marca.com/futbol/valencia/2026/10/27/aguirre-me-encargare-reprender-exceda-intente-tunel-tonteria-pase-celebracion.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Tue, 27 Oct 2026 15:45:51 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0b6a88a009.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغيري: \"سأكون مسؤولاً عن توبيخ أي شخص يتمادى ويحاول حفر نفق...\"",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "أغيري: \"سأكون مسؤولاً عن توبيخ أي شخص يتمادى ويحاول حفر نفق...\"",
+    "post_text": "🚨 أغيري: \"سأكون مسؤولاً عن توبيخ أي شخص يتمادى ويحاول حفر نفق...\"\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090542080277769",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغيري_سأكون_مسؤولاً_عن_توبيخ_أي_شخص_يتمادى_ويحاول_حفر_نفق....png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/10/27/aguirre-me-encargare-reprender-exceda-intente-tunel-tonteria-pase-celebracion.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Azxd54OjvIM-JVAqpjq0kQn"
+    }
+  },
+  {
     "title": "Mourinho devuelve la ilusión",
     "url": "https://as.com/opinion/mourinho-devuelve-la-ilusion-f202610-n/",
     "summary": "Hacía mucho tiempo que no se veía un Real Madrid tan unido en el esfuerzo colectivo y con tanta determinación para ejecutar un plan. En Barcelona hubo valentía en el planteamiento, solidaridad en el esfuerzo y convicción compartida...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxJ7uoUt3-VlyO2uAW37TgR"
-    }
-  },
-  {
-    "title": "Rayden y la libertad de volver a ser nadie",
-    "url": "https://as.com/tikitakas/musica/rayden-y-la-libertad-de-volver-a-ser-nadie-f202610-n/",
-    "summary": "“Que te regalen la irrelevancia es una oportunidad para empezar otra vez”, le confiesa David Martínez a AS en el FLEM 2026, en una charla sobre su último libro y su nuevo proyecto en la música además de la paternidad y los miedos, Raúl González Blanco y los periódicos que compró el día que España volvió a ganar el Mundial.",
-    "published": "Sat, 24 Oct 2026 09:23:08 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UDQYJFGHWFER7N4TLKSIZAMUCY.jpg?auth=2f153130dbbf093c9b53d78a55adf8d65c368aac801a79cd28579356ee55a218",
-    "media_type": "image/jpeg",
-    "arabic_title": "رايدن وحرية أن لا يكون أحد مرة أخرى",
-    "arabic_summary": "\"إن الحصول على هدية عدم الأهمية هو فرصة للبدء من جديد\"، هذا ما اعترف به ديفيد مارتينيز لـ AS في FLEM 2026، في حديث عن كتابه الأخير ومشروعه الجديد في الموسيقى، بالإضافة إلى الأبوة والمخاوف، راؤول غونزاليس بلانكو والصحف التي اشتراها يوم فازت إسبانيا بكأس العالم مرة أخرى.",
-    "translation_status": "translated",
-    "post_title": "رايدن وحرية أن لا يكون أحد مرة أخرى",
-    "post_text": "🚨 رايدن وحرية أن لا يكون أحد مرة أخرى\n\n📝 \"إن الحصول على هدية عدم الأهمية هو فرصة للبدء من جديد\"، هذا ما اعترف به ديفيد مارتينيز لـ AS في FLEM 2026، في حديث عن كتابه الأخير ومشروعه الجديد في الموسيقى، بالإضافة إلى الأبوة والمخاوف، راؤول غونزاليس بلانكو والصحف التي اشتراها يوم فازت إسبانيا بكأس العالم مرة أخرى.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087373870594590",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رايدن_وحرية_أن_لا_يكون_أحد_مرة_أخرى.png",
-    "image_type": "real",
-    "image_source": "https://as.com/tikitakas/musica/rayden-y-la-libertad-de-volver-a-ser-nadie-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtxPUFAfog-k_4TTAwQq-SE"
     }
   }
 ]
