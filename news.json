@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sunderland's first-half blitz sends them past Brentford into quarters",
+    "url": "https://www.skysports.com/football/sunderland-vs-brentford/report/578613",
+    "summary": "Three goals in 13 first-half minutes saw Sunderland blitz past Brentford and into the Carabao Cup quarter-finals with a 3-2 win at the Stadium of Light.",
+    "published": "Mon, 26 Oct 2026 13:23:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-sunderland-talbi_7390227.jpg?20261028202603",
+    "media_type": "image/jpg",
+    "arabic_title": "هجوم سندرلاند الخاطف في الشوط الأول أرسلهم عبر برينتفورد إلى ربع النهائي",
+    "arabic_summary": "ثلاثة أهداف في 13 دقيقة بالشوط الأول شهدت فوز سندرلاند على برينتفورد وتأهله إلى ربع نهائي كأس كاراباو بفوزه 3-2 على ملعب النور.",
+    "translation_status": "translated",
+    "post_title": "هجوم سندرلاند الخاطف في الشوط الأول أرسلهم عبر برينتفورد إلى ربع النهائي",
+    "post_text": "🚨 هجوم سندرلاند الخاطف في الشوط الأول أرسلهم عبر برينتفورد إلى ربع النهائي\n\n📝 ثلاثة أهداف في 13 دقيقة بالشوط الأول شهدت فوز سندرلاند على برينتفورد وتأهله إلى ربع نهائي كأس كاراباو بفوزه 3-2 على ملعب النور.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091424150189562",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هجوم_سندرلاند_الخاطف_في_الشوط_الأول_أرسلهم_عبر_برينتفورد_إلى_ربع_النهائي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/sunderland-vs-brentford/report/578613",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADOtk7PNVYak5_fVRhPCqXf"
+    }
+  },
+  {
     "title": "WCL: Russo completes hat-trick as Arsenal beat Benfica LIVE!",
     "url": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/live/578250",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AY8K5rcx8I5jOdZ83tGr9GB"
-    }
-  },
-  {
-    "title": "Edin Terzic: “Mi trabajo no es buscar excusas, es encontrar soluciones”",
-    "url": "https://www.marca.com/futbol/athletic/2026/10/24/edin-terzic-mi-trabajo-buscar-excusas-encontrar-soluciones.html",
-    "summary": "El club afronta una nueva oportunidad para reencontrarse con la victoria después de cuatro partidos consecutivos sin ganar.",
-    "published": "Sat, 24 Oct 2026 15:54:09 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/17/6ad3d63547b4f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إدين ترزيتش: \"مهمتي ليست البحث عن الأعذار، بل إيجاد الحلول\"",
-    "arabic_summary": "وأمام النادي فرصة جديدة لاستعادة الفوز بعد أربع مباريات متتالية دون تحقيق الفوز.",
-    "translation_status": "translated",
-    "post_title": "إدين ترزيتش: \"مهمتي ليست البحث عن الأعذار، بل إيجاد الحلول\"",
-    "post_text": "🚨 إدين ترزيتش: \"مهمتي ليست البحث عن الأعذار، بل إيجاد الحلول\"\n\n📝 وأمام النادي فرصة جديدة لاستعادة الفوز بعد أربع مباريات متتالية دون تحقيق الفوز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087673510564626",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إدين_ترزيتش_مهمتي_ليست_البحث_عن_الأعذار،_بل_إيجاد_الحلول.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/athletic/2026/10/24/edin-terzic-mi-trabajo-buscar-excusas-encontrar-soluciones.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APLljevoi203SFt9RlT_qEd"
     }
   }
 ]
