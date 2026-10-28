@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pellegrini: “¿El Alcorconazo? Fue un traspié en mis 1.600 partidos\"",
+    "url": "https://as.com/futbol/primera/pellegrini-el-alcorconazo-fue-un-traspie-en-mis-1600-partidos-f202610-n/",
+    "summary": "El entrenador del Betis regresa a Santo Domingo, donde los alfareros le pegaron uno de los peores palos de su carrera, con el Real Madrid. Mañana juega allí ante el Navalcarnero.",
+    "published": "Tue, 27 Oct 2026 11:27:27 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/K6YPHJVSINAQNELZ5RXANUZGWU.jpeg?auth=4ac482f442c2fbd89079b04e8c12f0a2d2eeb32ad23f8ea19a1af0be3849653e",
+    "media_type": "image/jpeg",
+    "arabic_title": "بيليجريني: \"ألكوركونازو؟ لقد كانت انتكاسة في 1600 مباراة لي\"",
+    "arabic_summary": "يعود مدرب بيتيس إلى سانتو دومينغو، حيث وجه له الخزافون واحدة من أسوأ الضربات في مسيرته مع ريال مدريد. غدا سيلعب هناك ضد نافالكارنيرو.",
+    "translation_status": "translated",
+    "post_title": "بيليجريني: \"ألكوركونازو؟ لقد كانت انتكاسة في 1600 مباراة لي\"",
+    "post_text": "🚨 بيليجريني: \"ألكوركونازو؟ لقد كانت انتكاسة في 1600 مباراة لي\"\n\n📝 يعود مدرب بيتيس إلى سانتو دومينغو، حيث وجه له الخزافون واحدة من أسوأ الضربات في مسيرته مع ريال مدريد. غدا سيلعب هناك ضد نافالكارنيرو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090747213590589",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيليجريني_ألكوركونازو؟_لقد_كانت_انتكاسة_في_1600_مباراة_لي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/pellegrini-el-alcorconazo-fue-un-traspie-en-mis-1600-partidos-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASohVux6_rKXgvLrvyvu9jo"
+    }
+  },
+  {
     "title": "Aguirre: \"Me encargaré de reprender a quien se exceda, intente hacer un túnel...\"",
     "url": "https://www.marca.com/futbol/valencia/2026/10/27/aguirre-me-encargare-reprender-exceda-intente-tunel-tonteria-pase-celebracion.html",
     "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Av3zEzC4JgC_2Vj-_OA8E3C"
-    }
-  },
-  {
-    "title": "El Elche gana en los penaltis",
-    "url": "https://as.com/futbol/primera/el-elche-gana-en-los-penaltis-f202610-n/",
-    "summary": "El conjunto ilicitano hizo dos de sus tres goles desde los once metros y el Rayo erró el único que tuvo a su favor. Los de Anselmi fueron muy superiores.",
-    "published": "Sat, 24 Oct 2026 14:06:31 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "إلتشي يفوز بركلات الترجيح",
-    "arabic_summary": "سجل فريق إلتشي هدفين من أهدافه الثلاثة من مسافة أحد عشر مترًا وأضاع رايو الهدف الوحيد الذي سجله لصالحه. كان Anselmi أفضل بكثير.",
-    "translation_status": "translated",
-    "post_title": "إلتشي يفوز بركلات الترجيح",
-    "post_text": "🚨 إلتشي يفوز بركلات الترجيح\n\n📝 سجل فريق إلتشي هدفين من أهدافه الثلاثة من مسافة أحد عشر مترًا وأضاع رايو الهدف الوحيد الذي سجله لصالحه. كان Anselmi أفضل بكثير.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087378420594135",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إلتشي_يفوز_بركلات_الترجيح.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxJ7uoUt3-VlyO2uAW37TgR"
     }
   }
 ]
