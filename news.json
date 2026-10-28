@@ -1,5 +1,39 @@
 [
   {
+    "title": "Araujo: opción de compra ‘regalada’ en Anfield",
+    "url": "https://as.com/futbol/internacional/araujo-opcion-de-compra-regalada-en-anfield-f202610-n/",
+    "summary": "El uruguayo va camino de convertirse en el fichaje de la temporada en Inglaterra. El Liverpool se plantea ejercer la opción de compra de 55 millones de su contrato.",
+    "published": "Tue, 27 Oct 2026 13:01:00 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260909/1212692_210827_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "أراوجو: خيار الشراء \"موهوب\" في آنفيلد",
+    "arabic_summary": "الأوروغوياني في طريقه ليصبح توقيع الموسم في إنجلترا. ويفكر ليفربول في ممارسة خيار الشراء بقيمة 55 مليونًا في عقده.",
+    "translation_status": "translated",
+    "post_title": "أراوجو: خيار الشراء \"موهوب\" في آنفيلد",
+    "post_text": "🚨 أراوجو: خيار الشراء \"موهوب\" في آنفيلد\n\n📝 الأوروغوياني في طريقه ليصبح توقيع الموسم في إنجلترا. ويفكر ليفربول في ممارسة خيار الشراء بقيمة 55 مليونًا في عقده.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091118853553425",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أراوجو_خيار_الشراء_موهوب_في_آنفيلد.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A43AdgWR2_J4RpGDUfVF39V"
+    }
+  },
+  {
     "title": "Al Zaragoza le basta la primera parte para arrasar al Tudelano",
     "url": "https://www.marca.com/futbol/zaragoza/2026/10/27/zaragoza-le-basta-primera-parte-arrasar-tudelano.html",
     "summary": "Los maños firmaron el 0-4 ya antes del descanso",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5F3NsHwSsg94bz-xb-MsA6"
-    }
-  },
-  {
-    "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ckrey3ndyyw0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
-    "published": "Fri, 23 Oct 2026 22:21:51 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f1/live/0343bee0-cf2f-11f1-a701-fddedf244c16.jpg",
-    "media_type": null,
-    "arabic_title": "\"كان علينا أن نلغي\" - أونيل يشيد بمرونة إيبسويتش بعد تعادل فورست",
-    "arabic_summary": "أشاد مدرب إبسويتش غاري أونيل بقدرة فريقه على \"الحفر والقتال\" حيث عاد فريقه من الخلف ليحقق التعادل 1-1 أمام نوتنغهام فورست على طريق بورتمان في الدوري الإنجليزي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "\"كان علينا أن نلغي\" - أونيل يشيد بمرونة إيبسويتش بعد تعادل فورست",
-    "post_text": "🚨 \"كان علينا أن نلغي\" - أونيل يشيد بمرونة إيبسويتش بعد تعادل فورست\n\n📝 أشاد مدرب إبسويتش غاري أونيل بقدرة فريقه على \"الحفر والقتال\" حيث عاد فريقه من الخلف ليحقق التعادل 1-1 أمام نوتنغهام فورست على طريق بورتمان في الدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087539773911333",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كان_علينا_أن_نلغي_-_أونيل_يشيد_بمرونة_إيبسويتش_بعد_تعادل_فورست.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/videos/ckrey3ndyyw0o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJmLCAeafENbm4wP-Hq16Mw"
     }
   }
 ]
