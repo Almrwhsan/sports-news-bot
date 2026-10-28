@@ -1,5 +1,39 @@
 [
   {
+    "title": "LaLiga denuncia 17 incidentes en el Clásico",
+    "url": "https://as.com/futbol/primera/laliga-denuncia-17-incidentes-en-el-clasico-f202610-n/",
+    "summary": "La patronal informa a Disciplina y a Antiviolencia de una serie de cánticos, lanzamiento de objetos y una agresión con una bandera a Camavinga.",
+    "published": "Tue, 27 Oct 2026 14:58:19 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WZWJG57OBVJPRHCBFF2OOPPOBM.jpg?auth=840e54ab978c09d7f8b403cd1d70824b903b4bb16ad9498bfdd66ef8288f4128",
+    "media_type": "image/jpeg",
+    "arabic_title": "رابطة الدوري الإسباني تستنكر 17 حادثة في الكلاسيكو",
+    "arabic_summary": "أبلغ أصحاب العمل منظمة الانضباط ومكافحة العنف بسلسلة من الهتافات وإلقاء الأشياء والهجوم بالعلم على كامافينجا.",
+    "translation_status": "translated",
+    "post_title": "رابطة الدوري الإسباني تستنكر 17 حادثة في الكلاسيكو",
+    "post_text": "🚨 رابطة الدوري الإسباني تستنكر 17 حادثة في الكلاسيكو\n\n📝 أبلغ أصحاب العمل منظمة الانضباط ومكافحة العنف بسلسلة من الهتافات وإلقاء الأشياء والهجوم بالعلم على كامافينجا.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090869043578406",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رابطة_الدوري_الإسباني_تستنكر_17_حادثة_في_الكلاسيكو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/laliga-denuncia-17-incidentes-en-el-clasico-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aqhlty-nOiV529pQmOBLEvq"
+    }
+  },
+  {
     "title": "El secreto mejor guardado de la historia del Balón de Oro",
     "url": "https://as.com/futbol/internacional/el-secreto-mejor-guardado-de-la-historia-del-balon-de-oro-f202610-n/",
     "summary": "El premio más abierto de la última década daba para mantener esa incertidumbre hasta el final y lo consiguieron desde la organización.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ac_Is_vTQNCtBY9sgJSAYog"
-    }
-  },
-  {
-    "title": "Stoke and Bristol City battle to draw",
-    "url": "https://www.skysports.com/football/stoke-city-vs-bristol-city/report/560639",
-    "summary": "Stoke and Bristol City played out a hard-fought 0-0 draw at the bet365 Stadium.",
-    "published": "Sat, 24 Oct 2026 17:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-ethan-galbraith-jason-knight_7385876.jpg?20261024171655",
-    "media_type": "image/jpg",
-    "arabic_title": "ستوك وبريستول سيتي يتنافسان من أجل التعادل",
-    "arabic_summary": "تعادل ستوك سيتي وبريستول سيتي بنتيجة 0-0 على ملعب bet365.",
-    "translation_status": "translated",
-    "post_title": "ستوك وبريستول سيتي يتنافسان من أجل التعادل",
-    "post_text": "🚨 ستوك وبريستول سيتي يتنافسان من أجل التعادل\n\n📝 تعادل ستوك سيتي وبريستول سيتي بنتيجة 0-0 على ملعب bet365.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087402540591723",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ستوك_وبريستول_سيتي_يتنافسان_من_أجل_التعادل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/stoke-city-vs-bristol-city/report/560639",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJGMvWPuCGOTcBrmlO4U5AX"
     }
   }
 ]
