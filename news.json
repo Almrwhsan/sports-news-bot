@@ -1,5 +1,39 @@
 [
   {
+    "title": "Quesada: “Partido histórico; sabemos cómo hacerles daño”",
+    "url": "https://as.com/futbol/femenino/quesada-partido-historico-sabemos-como-hacerles-dano-f202610-n/",
+    "summary": "El entrenador del Real Madrid analizó la visita al Bayern de Munich en rueda de prensa. También habló Senss.",
+    "published": "Tue, 27 Oct 2026 16:39:41 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YYUWN74ZCRIABGJFVI2PK5YNU4.jpg?auth=b886fa789eab9a95c5a2353bdf43328876905468d1b713a314cc298fa2fc1132",
+    "media_type": "image/jpeg",
+    "arabic_title": "كيسادا: “الحزب التاريخي نعرف كيف نؤذيهم”",
+    "arabic_summary": "وحلل مدرب ريال مدريد الزيارة إلى بايرن ميونخ في مؤتمر صحفي. كما تحدث سنس.",
+    "translation_status": "translated",
+    "post_title": "كيسادا: “الحزب التاريخي نعرف كيف نؤذيهم”",
+    "post_text": "🚨 كيسادا: “الحزب التاريخي نعرف كيف نؤذيهم”\n\n📝 وحلل مدرب ريال مدريد الزيارة إلى بايرن ميونخ في مؤتمر صحفي. كما تحدث سنس.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090932573572053",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيسادا_“الحزب_التاريخي_نعرف_كيف_نؤذيهم”.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/femenino/quesada-partido-historico-sabemos-como-hacerles-dano-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AELWjYneKI36RJ3_wbHUurR"
+    }
+  },
+  {
     "title": "Simeone, sobre Julián: “Pedir perdón no es fácil, se lo agradezco”",
     "url": "https://as.com/futbol/primera/simeone-sobre-julian-pedir-perdon-no-es-facil-se-lo-agradezco-f202610-n/",
     "summary": "El técnico del Atlético analiza la victoria ante del Deportivo, la racha triunfal en Liga y cómo vio el encuentro, además de lo que supone la declaración del delantero.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOcYqVS3eDdpSVSDmwPBqOZ"
-    }
-  },
-  {
-    "title": "Las confesiones del Clásico: “Me encantaba ganar en el Bernabéu, ir y ver según qué caras”",
-    "url": "https://as.com/futbol/primera/las-confesiones-del-clasico-me-encantaba-ganar-en-el-bernabeu-ir-y-ver-segun-que-caras-f202610-n/",
-    "summary": "Jordi Alba y Guti se concentran en Puertomingalvo con diez aficionados de cara al Clásico. “Pillamos a Messi en su mejor época y fue el que más nos ha marcado”, rememora el exmadridista.",
-    "published": "Sat, 24 Oct 2026 09:55:57 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XDU6GGKE3ZAYVM6GP4BJJCVCXY.jpg?auth=933b8e78b81d3e3c93d9b15d2bd9c3ab4bc9f56e095183fc88249098e259fee1",
-    "media_type": "image/jpeg",
-    "arabic_title": "اعترافات من الكلاسيكو: \"أحببت الفوز في البرنابيو، الذهاب ورؤية ما سيواجهه هناك\"",
-    "arabic_summary": "يجتمع جوردي ألبا وجوتي في بويرتومينجالفو مع عشرة مشجعين قبل المباراة الكلاسيكية. يتذكر لاعب ريال مدريد السابق: \"لقد قبضنا على ميسي في أفضل فتراته وكان له التأثير الأكبر علينا\".",
-    "translation_status": "translated",
-    "post_title": "اعترافات من الكلاسيكو: \"أحببت الفوز في البرنابيو، الذهاب ورؤية ما سيواجهه هناك\"",
-    "post_text": "🚨 اعترافات من الكلاسيكو: \"أحببت الفوز في البرنابيو، الذهاب ورؤية ما سيواجهه هناك\"\n\n📝 يجتمع جوردي ألبا وجوتي في بويرتومينجالفو مع عشرة مشجعين قبل المباراة الكلاسيكية. يتذكر لاعب ريال مدريد السابق: \"لقد قبضنا على ميسي في أفضل فتراته وكان له التأثير الأكبر علينا\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087432780588699",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اعترافات_من_الكلاسيكو_أحببت_الفوز_في_البرنابيو،_الذهاب_ورؤية_ما_سيواجهه_هناك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/las-confesiones-del-clasico-me-encantaba-ganar-en-el-bernabeu-ir-y-ver-segun-que-caras-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHNPYKBqcSTNi_is00U5Uin"
     }
   }
 ]
