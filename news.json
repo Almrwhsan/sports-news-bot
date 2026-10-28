@@ -1,5 +1,39 @@
 [
   {
+    "title": "Si el Atleti gana esta Liga, todo rojiblanco se va a acordar de esto: increíble lo del Depor en el 94′",
+    "url": "https://as.com/futbol/videos/si-el-atleti-gana-esta-liga-todo-rojiblanco-se-va-a-acordar-de-esto-increible-de-lo-del-depor-en-el-94-f202610-v/",
+    "summary": "Un fallo de esos que no tienen explicación. Kevin sánchez falló completamente sólo a portería vacía con el tiempo cumplido.",
+    "published": "Sat, 24 Oct 2026 21:43:23 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "إذا فاز الأتليتي بهذا الدوري، فإن كل لاعب أحمر وأبيض سيتذكر هذا: ما فعله ديبورتيفو في عام 94 لا يصدق.",
+    "arabic_summary": "فشل أولئك الذين ليس لديهم تفسير. أضاع كيفن سانشيز هدفًا فارغًا تمامًا مع نفاد الوقت.",
+    "translation_status": "translated",
+    "post_title": "إذا فاز الأتليتي بهذا الدوري، فإن كل لاعب أحمر وأبيض سيتذكر هذا: ما فعله ديبورتيفو في عام 94 لا يصدق.",
+    "post_text": "🚨 إذا فاز الأتليتي بهذا الدوري، فإن كل لاعب أحمر وأبيض سيتذكر هذا: ما فعله ديبورتيفو في عام 94 لا يصدق.\n\n📝 فشل أولئك الذين ليس لديهم تفسير. أضاع كيفن سانشيز هدفًا فارغًا تمامًا مع نفاد الوقت.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090895223575788",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إذا_فاز_الأتليتي_بهذا_الدوري،_فإن_كل_لاعب_أحمر_وأبيض_سيتذكر_هذا_ما_فعله_ديبورتيف.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnyAsXbnmfwvLodWyfKaL5V"
+    }
+  },
+  {
     "title": "Arsenal OUT on pens to League Two Fleetwood!",
     "url": "https://www.skysports.com/watch/video/13604607/fleetwood-1-1-arsenal-5-3-pens-carabao-cup-highlights",
     "summary": "Highlights of the Carabao Cup fourth round match between Fleetwood Town and Arsenal.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Abn0Sj2e5ZXNVWrqEbTl-L4"
-    }
-  },
-  {
-    "title": "Córdoba - Eibar en directo | Última hora de LALIGA Hypermotion en vivo hoy",
-    "url": "https://www.marca.com/futbol/segunda-division/2026/10/24/01-0102-20261024-952-953.html",
-    "summary": "",
-    "published": "Sat, 24 Oct 2026 11:10:00 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "قرطبة - إيبار مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "قرطبة - إيبار مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
-    "post_text": "🚨 قرطبة - إيبار مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087406510591326",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قرطبة_-_إيبار_مباشر_الأخبار_العاجلة_من_LALIGA_Hypermotion_مباشرة_اليوم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AR2b6BE78QX_GVvbnXvbXL1"
     }
   }
 ]
