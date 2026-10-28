@@ -1,5 +1,39 @@
 [
   {
+    "title": "Anderson set to continue playing career in Italy",
+    "url": "https://www.skysports.com/cricket/news/12040/13604693/james-anderson-set-to-continue-playing-career-in-italy-with-napoli-8204knights-in-the-italia-t10-league",
+    "summary": "James Anderson is set to continue his playing career in Italy.",
+    "published": "Wed, 28 Oct 2026 08:44:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/25/05/1920x1080/skysports-lancashire-bowler_6918111.jpg?20250516111451",
+    "media_type": "image/jpg",
+    "arabic_title": "من المقرر أن يواصل أندرسون مسيرته المهنية في إيطاليا",
+    "arabic_summary": "من المقرر أن يواصل جيمس أندرسون مسيرته الكروية في إيطاليا.",
+    "translation_status": "translated",
+    "post_title": "من المقرر أن يواصل أندرسون مسيرته المهنية في إيطاليا",
+    "post_text": "🚨 من المقرر أن يواصل أندرسون مسيرته المهنية في إيطاليا\n\n📝 من المقرر أن يواصل جيمس أندرسون مسيرته الكروية في إيطاليا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091018310230146",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_المقرر_أن_يواصل_أندرسون_مسيرته_المهنية_في_إيطاليا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/news/12040/13604693/james-anderson-set-to-continue-playing-career-in-italy-with-napoli-8204knights-in-the-italia-t10-league",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkGkSKvalqnI3MbDxGN-Yex"
+    }
+  },
+  {
     "title": "Which game will Chelsea's Palmer miss after red card?",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARxW9O44EJMZIaqXpHr3u5R"
-    }
-  },
-  {
-    "title": "Giant Sequoia stakes Classic claims in Futurity",
-    "url": "https://www.skysports.com/racing/news/12040/13603250/giant-sequoia-powers-to-impressive-futurity-trophy-success",
-    "summary": "Giant Sequoia produced an eyecatching performance to win the William Hill Futurity Trophy at Doncaster and in the process virtually guarantee Aidan O&#8217;Brien the trainers&#8217; championship.",
-    "published": "Sat, 24 Oct 2026 17:20:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-giant-sequoia-dylan-browne-mcmonagle_7385890.jpg?20261024172324",
-    "media_type": "image/jpg",
-    "arabic_title": "حصص سيكويا العملاقة تطالب بمطالبات كلاسيكية في المستقبل",
-    "arabic_summary": "قدم Giant Sequoia أداءً ملفتًا للنظر للفوز بكأس William Hill Futurity Trophy في دونكاستر وفي هذه العملية يضمن فعليًا حصول Aidan O’Brien على بطولة المدربين.",
-    "translation_status": "translated",
-    "post_title": "حصص سيكويا العملاقة تطالب بمطالبات كلاسيكية في المستقبل",
-    "post_text": "🚨 حصص سيكويا العملاقة تطالب بمطالبات كلاسيكية في المستقبل\n\n📝 قدم Giant Sequoia أداءً ملفتًا للنظر للفوز بكأس William Hill Futurity Trophy في دونكاستر وفي هذه العملية يضمن فعليًا حصول Aidan O’Brien على بطولة المدربين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087532537245390",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حصص_سيكويا_العملاقة_تطالب_بمطالبات_كلاسيكية_في_المستقبل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13603250/giant-sequoia-powers-to-impressive-futurity-trophy-success",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APkfrUsUppaaRcLTxRtvO3k"
     }
   }
 ]
