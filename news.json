@@ -1,5 +1,39 @@
 [
   {
+    "title": "WCL: Russo completes hat-trick as Arsenal beat Benfica LIVE!",
+    "url": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/live/578250",
+    "summary": "",
+    "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-alessia-russo-arsenal-women_7390337.jpg?20261028213822",
+    "media_type": "image/jpg",
+    "arabic_title": "WCL: روسو يكمل ثلاثية ويقود أرسنال للفوز على بنفيكا لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "WCL: روسو يكمل ثلاثية ويقود أرسنال للفوز على بنفيكا لايف!",
+    "post_text": "🚨 WCL: روسو يكمل ثلاثية ويقود أرسنال للفوز على بنفيكا لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091418833523427",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/WCL_روسو_يكمل_ثلاثية_ويقود_أرسنال_للفوز_على_بنفيكا_لايف!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/live/578250",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2ykAFg2B-XAcQTRHM20zVW"
+    }
+  },
+  {
     "title": "“Pagaría mucho dinero por vivir otra remontada en el Bernabéu...”",
     "url": "https://as.com/futbol/pagaria-mucho-dinero-por-vivir-otra-remontada-en-el-bernabeu-f202610-n/",
     "summary": "Carvajal, pura historia viviente del Real Madrid y de la Selección, siente “amor por el fútbol”. Visita AS para charlar sobre esa gasolina que alimenta su nueva aventura en el Getafe.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APLljevoi203SFt9RlT_qEd"
-    }
-  },
-  {
-    "title": "Samu Castillejo anuncia su retirada",
-    "url": "https://www.marca.com/futbol/malaga/2026/10/24/samu-castillejo-anuncia-retirada.html",
-    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
-    "published": "Sat, 24 Oct 2026 15:51:56 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/02/24/699de5bfbd9f4.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "سامو كاستيليجو يعلن اعتزاله",
-    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
-    "translation_status": "translated",
-    "post_title": "سامو كاستيليجو يعلن اعتزاله",
-    "post_text": "🚨 سامو كاستيليجو يعلن اعتزاله\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087662577232386",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سامو_كاستيليجو_يعلن_اعتزاله.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/malaga/2026/10/24/samu-castillejo-anuncia-retirada.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjT5fGSqnyljK13dah4nc5x"
     }
   }
 ]
