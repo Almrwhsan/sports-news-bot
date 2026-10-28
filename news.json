@@ -1,5 +1,39 @@
 [
   {
+    "title": "Chelsea continue unbeaten start in WCL after beating Roma",
+    "url": "https://www.skysports.com/football/chelsea-women-vs-roma-women/report/578251",
+    "summary": "Chelsea continued their unbeaten start in the Women's Champions League as goals from Ellie Carpenter and Kadeisha Buchanan secured a 2-0 win against Roma.",
+    "published": "Wed, 28 Oct 2026 19:35:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "champions_league",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-chelsea-roma_7390179.jpg?20261028194941",
+    "media_type": "image/jpg",
+    "arabic_title": "يواصل تشيلسي بدايته الخالية من الهزائم في دوري أبطال أوروبا بعد فوزه على روما",
+    "arabic_summary": "واصل تشيلسي بدايته الخالية من الهزائم في دوري أبطال أوروبا للسيدات، حيث حقق هدفي إيلي كاربنتر وكاديشا بوكانان الفوز 2-0 على روما.",
+    "translation_status": "translated",
+    "post_title": "يواصل تشيلسي بدايته الخالية من الهزائم في دوري أبطال أوروبا بعد فوزه على روما",
+    "post_text": "🚨 يواصل تشيلسي بدايته الخالية من الهزائم في دوري أبطال أوروبا بعد فوزه على روما\n\n📝 واصل تشيلسي بدايته الخالية من الهزائم في دوري أبطال أوروبا للسيدات، حيث حقق هدفي إيلي كاربنتر وكاديشا بوكانان الفوز 2-0 على روما.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091466896851954",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يواصل_تشيلسي_بدايته_الخالية_من_الهزائم_في_دوري_أبطال_أوروبا_بعد_فوزه_على_روما.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/chelsea-women-vs-roma-women/report/578251",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUt6ZaE2m5Kx99j1vl9sZ5-"
+    }
+  },
+  {
     "title": "Norris, Verstappen among 10 F1 drivers to miss Mexico first practice",
     "url": "https://www.skysports.com/f1/news/12040/13604824/mexico-city-gp-max-verstappen-george-russell-lando-norris-among-nine-f1-drivers-to-miss-first-practice",
     "summary": "Lando Norris and Max Verstappen are among 10 Formula 1 drivers who will miss first practice for the Mexico City Grand Prix this Friday.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjvHKbQCx4JlzaUv7opk0pM"
-    }
-  },
-  {
-    "title": "​El Córdoba se regala un San Rafael feliz en seis minutos",
-    "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/24/cordoba-celebra-cumpleanos-ivan-ania-quinta-curso.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Sat, 24 Oct 2026 16:01:39 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/24/141734.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "قرطبة تمنح نفسها سان رافائيل سعيدة في ست دقائق",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "قرطبة تمنح نفسها سان رافائيل سعيدة في ست دقائق",
-    "post_text": "🚨 قرطبة تمنح نفسها سان رافائيل سعيدة في ست دقائق\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087737270558250",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قرطبة_تمنح_نفسها_سان_رافائيل_سعيدة_في_ست_دقائق.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/24/cordoba-celebra-cumpleanos-ivan-ania-quinta-curso.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AW2uxxMs8pUlNYzwXniARZY"
     }
   }
 ]
