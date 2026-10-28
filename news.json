@@ -1,5 +1,39 @@
 [
   {
+    "title": "Norris' LN4 fusion given F2 entry for 2027 season",
+    "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+    "summary": "",
+    "published": "Thu, 22 Oct 2026 16:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-lando-norris-f1-2026_7354188.jpg?20260917070532",
+    "media_type": "image/jpg",
+    "arabic_title": "تم منح اندماج LN4 الخاص بـ Norris دخول F2 لموسم 2027",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "تم منح اندماج LN4 الخاص بـ Norris دخول F2 لموسم 2027",
+    "post_text": "🚨 تم منح اندماج LN4 الخاص بـ Norris دخول F2 لموسم 2027\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091262793539031",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_منح_اندماج_LN4_الخاص_بـ_Norris_دخول_F2_لموسم_2027.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2D8iMUHF4JCQJA6Rlz6FS3"
+    }
+  },
+  {
     "title": "McLaren plan further upgrades after Austin struggles",
     "url": "https://www.skysports.com/f1/news/12040/13604726/mexico-city-gp-mclaren-plan-further-upgrades-after-lando-norris-and-oscar-piastris-struggles-in-austin",
     "summary": "McLaren plan to bring more upgrades to the car in the remaining rounds of the 2026 Formula 1 season after struggling to compete at the front in recent races.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjsKE1DUaHTbSC_9v6wkGpl"
-    }
-  },
-  {
-    "title": "Spurs earn deserved win at Chelsea after Penders error and Palmer red",
-    "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516",
-    "summary": "Chelsea goalkeeper Mike Penders punched the ball into his own net before Mathys Tel struck a wonderful second to give Tottenham a rare but deserved 2-0 victory at Stamford Bridge in which Cole Palmer was sent off.",
-    "published": "Sat, 24 Oct 2026 19:30:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-mathys-tel-tottenham_7386070.jpg?20261024191932",
-    "media_type": "image/jpg",
-    "arabic_title": "حقق توتنهام فوزًا مستحقًا على تشيلسي بعد خطأ بيندر وبالمر ريد",
-    "arabic_summary": "وسدد مايك بيندرز حارس تشيلسي الكرة في مرماه قبل أن يسجل ماتيس تيل هدفا ثانيا رائعا ليمنح توتنهام فوزا نادرا ولكنه مستحق 2-صفر على ملعب ستامفورد بريدج حيث طُرد كول بالمر.",
-    "translation_status": "translated",
-    "post_title": "حقق توتنهام فوزًا مستحقًا على تشيلسي بعد خطأ بيندر وبالمر ريد",
-    "post_text": "🚨 حقق توتنهام فوزًا مستحقًا على تشيلسي بعد خطأ بيندر وبالمر ريد\n\n📝 وسدد مايك بيندرز حارس تشيلسي الكرة في مرماه قبل أن يسجل ماتيس تيل هدفا ثانيا رائعا ليمنح توتنهام فوزا نادرا ولكنه مستحق 2-صفر على ملعب ستامفورد بريدج حيث طُرد كول بالمر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087589583906352",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حقق_توتنهام_فوزًا_مستحقًا_على_تشيلسي_بعد_خطأ_بيندر_وبالمر_ريد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXoYv-hGhYCZZFptwHF4SzE"
     }
   }
 ]
