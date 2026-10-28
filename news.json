@@ -1,5 +1,39 @@
 [
   {
+    "title": "Serrano to have final fight against Falzon with three-minute rounds",
+    "url": "https://www.skysports.com/boxing/news/12040/13604461/amanda-serrano-to-face-skye-falzon-in-final-fight-with-12-three-minute-rounds-in-puerto-rico-homecoming",
+    "summary": "Amanda Serrano will fight one last time when she takes on Skye Falzon in Puerto Rico on January 9.",
+    "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-amanda-serrano-boxing_7299080.jpg?20260716131511",
+    "media_type": "image/jpg",
+    "arabic_title": "سيرانو سيخوض المعركة النهائية ضد فالزون بجولات مدتها ثلاث دقائق",
+    "arabic_summary": "ستقاتل أماندا سيرانو للمرة الأخيرة عندما تواجه سكاي فالزون في بورتوريكو في 9 يناير.",
+    "translation_status": "translated",
+    "post_title": "سيرانو سيخوض المعركة النهائية ضد فالزون بجولات مدتها ثلاث دقائق",
+    "post_text": "🚨 سيرانو سيخوض المعركة النهائية ضد فالزون بجولات مدتها ثلاث دقائق\n\n📝 ستقاتل أماندا سيرانو للمرة الأخيرة عندما تواجه سكاي فالزون في بورتوريكو في 9 يناير.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091206133544697",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيرانو_سيخوض_المعركة_النهائية_ضد_فالزون_بجولات_مدتها_ثلاث_دقائق.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13604461/amanda-serrano-to-face-skye-falzon-in-final-fight-with-12-three-minute-rounds-in-puerto-rico-homecoming",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdhQ_TnmGk_nxb1Xu2HKf3s"
+    }
+  },
+  {
     "title": "'He'll get this all the time now' - Merson's worry for Dowman after Fleetwood red",
     "url": "https://www.skysports.com/watch/video/13604744/max-dowman-red-card-paul-mersons-worry-for-arsenal-teenager-after-fleetwood-red-card",
     "summary": "Paul Merson has shared his concerns for Max Dowman following the red card the teenager picked up in the League Cup defeat to Fleetwood Town.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASd9dKJEQXdZWgDIRvH3Cb2"
-    }
-  },
-  {
-    "title": "Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress",
-    "url": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
-    "summary": "",
-    "published": "Sat, 24 Oct 2026 17:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-hits-misses-spurs_7386111.jpg?20261024195750",
-    "media_type": "image/jpg",
-    "arabic_title": "الضربات والإخفاقات: فريق دي زيربي المتكامل وإيمري \"العبقري\" يثيران الإعجاب",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "الضربات والإخفاقات: فريق دي زيربي المتكامل وإيمري \"العبقري\" يثيران الإعجاب",
-    "post_text": "🚨 الضربات والإخفاقات: فريق دي زيربي المتكامل وإيمري \"العبقري\" يثيران الإعجاب\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087575873907723",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الضربات_والإخفاقات_فريق_دي_زيربي_المتكامل_وإيمري_العبقري_يثيران_الإعجاب.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "At8DSHUl7oRn4q3rk2H-Ohy"
     }
   }
 ]
