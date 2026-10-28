@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arsenal OUT on pens to League Two Fleetwood!",
+    "url": "https://www.skysports.com/watch/video/13604607/fleetwood-1-1-arsenal-5-3-pens-carabao-cup-highlights",
+    "summary": "Highlights of the Carabao Cup fourth round match between Fleetwood Town and Arsenal.",
+    "published": "Tue, 27 Oct 2026 22:22:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-fleetwood-arsenal_7389193.jpg?20261027222419",
+    "media_type": "image/jpg",
+    "arabic_title": "أرسنال يبتعد عن فليتوود في دوري الدرجة الثانية!",
+    "arabic_summary": "أبرز أحداث مباراة الدور الرابع لكأس كاراباو بين فليتوود تاون وأرسنال.",
+    "translation_status": "translated",
+    "post_title": "أرسنال يبتعد عن فليتوود في دوري الدرجة الثانية!",
+    "post_text": "🚨 أرسنال يبتعد عن فليتوود في دوري الدرجة الثانية!\n\n📝 أبرز أحداث مباراة الدور الرابع لكأس كاراباو بين فليتوود تاون وأرسنال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1090891543576156",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أرسنال_يبتعد_عن_فليتوود_في_دوري_الدرجة_الثانية!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13604607/fleetwood-1-1-arsenal-5-3-pens-carabao-cup-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AgiIlFqq5FjpIxO6dx5zJPt"
+    }
+  },
+  {
     "title": "LaLiga denuncia 17 incidentes en el Clásico",
     "url": "https://as.com/futbol/primera/laliga-denuncia-17-incidentes-en-el-clasico-f202610-n/",
     "summary": "La patronal informa a Disciplina y a Antiviolencia de una serie de cánticos, lanzamiento de objetos y una agresión con una bandera a Camavinga.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AR2b6BE78QX_GVvbnXvbXL1"
-    }
-  },
-  {
-    "title": "Lincoln thump four past sorry Burnley",
-    "url": "https://www.skysports.com/football/lincoln-city-vs-burnley/report/560634",
-    "summary": "Mikkel Ladefoged marked his first league start with a second-half brace as Lincoln City blew struggling Burnley away to secure an emphatic 4-1 Championship victory at Sincil Bank.",
-    "published": "Sat, 24 Oct 2026 17:00:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-lincoln-burnley_7385779.jpg?20261024162530",
-    "media_type": "image/jpg",
-    "arabic_title": "لينكولن يسحق بيرنلي بأربعة أهداف نظيفة",
-    "arabic_summary": "سجل ميكيل لاديفوجيد بدايته الأولى في الدوري بهدفين في الشوط الثاني، حيث تغلب لينكولن سيتي على بيرنلي المتعثر ليحقق فوزًا ساحقًا في البطولة بنتيجة 4-1 على ملعب سينسيل بانك.",
-    "translation_status": "translated",
-    "post_title": "لينكولن يسحق بيرنلي بأربعة أهداف نظيفة",
-    "post_text": "🚨 لينكولن يسحق بيرنلي بأربعة أهداف نظيفة\n\n📝 سجل ميكيل لاديفوجيد بدايته الأولى في الدوري بهدفين في الشوط الثاني، حيث تغلب لينكولن سيتي على بيرنلي المتعثر ليحقق فوزًا ساحقًا في البطولة بنتيجة 4-1 على ملعب سينسيل بانك.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087406637257980",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لينكولن_يسحق_بيرنلي_بأربعة_أهداف_نظيفة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/lincoln-city-vs-burnley/report/560634",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ac_Is_vTQNCtBY9sgJSAYog"
     }
   }
 ]
