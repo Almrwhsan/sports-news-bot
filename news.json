@@ -1,5 +1,39 @@
 [
   {
+    "title": "The Unpromotables: Germany's league champions who can't go up",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+    "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
+    "published": "Fri, 02 Oct 2026 06:37:49 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/5df4b650-bcbf-11f1-810a-9579202680fa.jpg",
+    "media_type": null,
+    "arabic_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
+    "arabic_summary": "تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.",
+    "translation_status": "translated",
+    "post_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
+    "post_text": "🚨 غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود\n\n📝 تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091881573477153",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غير_القابلين_للترقية_أبطال_الدوري_الألماني_الذين_لا_يستطيعون_الصعود.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7vUMFWW1_bQPdOoibw7Trn"
+    }
+  },
+  {
     "title": "“Lamine es diferente, especial, levantará cabeza rápido”",
     "url": "https://as.com/futbol/lamine-es-diferente-especial-levantara-cabeza-rapido-f202610-n/",
     "summary": "Igual que nadie en su entorno esconde la decepción de Lamine, todos están convencidos de que su mentalidad le ayudará a ‘reiniciarse’ rápido y continuar haciendo números.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1hUvSKdPRl8Xa09h4Y_PWL"
-    }
-  },
-  {
-    "title": "Derbi amarillo, luz roja en Mestalla",
-    "url": "https://as.com/futbol/primera/derbi-amarillo-luz-roja-en-mestalla-f202610-n/",
-    "summary": "Un gol de Mikautadze en el minuto 96 decanta un partido que deja al Valencia penúltimo con solo seis puntos de 30 disputados.",
-    "published": "Sat, 24 Oct 2026 18:52:23 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "ديربي أصفر وضوء أحمر في ميستايا",
-    "arabic_summary": "هدف ميكاوتادزه في الدقيقة 96 يمثل مباراة تترك فالنسيا في المركز قبل الأخير برصيد ست نقاط فقط من أصل 30 مباراة.",
-    "translation_status": "translated",
-    "post_title": "ديربي أصفر وضوء أحمر في ميستايا",
-    "post_text": "🚨 ديربي أصفر وضوء أحمر في ميستايا\n\n📝 هدف ميكاوتادزه في الدقيقة 96 يمثل مباراة تترك فالنسيا في المركز قبل الأخير برصيد ست نقاط فقط من أصل 30 مباراة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088077360524241",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديربي_أصفر_وضوء_أحمر_في_ميستايا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A_HXC_bXwOWP1UONgpjBe0K"
     }
   }
 ]
