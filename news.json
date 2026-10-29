@@ -1,5 +1,39 @@
 [
   {
+    "title": "Carrick ready to 'move forward' with Fernandes as captain",
+    "url": "https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future",
+    "summary": "Michael Carrick says he is ready to \"move forward\" with Bruno Fernandes as Man Utd captain.",
+    "published": "Thu, 29 Oct 2026 14:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-football-michael-carrick_7357590.jpg?20260921063832",
+    "media_type": "image/jpg",
+    "arabic_title": "كاريك مستعد للمضي قدمًا مع فرنانديز كقائد",
+    "arabic_summary": "يقول مايكل كاريك إنه مستعد \"للمضي قدمًا\" مع برونو فرنانديز كقائد لمانشستر يونايتد.",
+    "translation_status": "translated",
+    "post_title": "كاريك مستعد للمضي قدمًا مع فرنانديز كقائد",
+    "post_text": "🚨 كاريك مستعد للمضي قدمًا مع فرنانديز كقائد\n\n📝 يقول مايكل كاريك إنه مستعد \"للمضي قدمًا\" مع برونو فرنانديز كقائد لمانشستر يونايتد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092230833442227",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاريك_مستعد_للمضي_قدمًا_مع_فرنانديز_كقائد.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Asrrb5Vkbez-W1i6sDs2-Wu"
+    }
+  },
+  {
     "title": "'I persuaded my club to give me a job as a content creator'",
     "url": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb?at_medium=RSS&at_campaign=rss",
     "summary": "Jacob discusses his route into his job as a content creator for a football club. Find out more about his role, career progression and top tips for getting into a similar role.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ad1GKkYCzlgF5M5mSLU1clO"
-    }
-  },
-  {
-    "title": "Lamine-Cucurella, el pique viene de Chattanooga",
-    "url": "https://as.com/futbol/primera/lamine-cucurella-el-pique-viene-de-chattanooga-f202610-n/",
-    "summary": "El fichaje del ex culé por el Madrid coincidió con la concentración durante el Mundial. “Le he dicho que jugará el primero pero el segundo ya no porque me lo voy a comer…”.",
-    "published": "Sun, 25 Oct 2026 12:05:52 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OFU64ZEV65DRLLEKADZW2P7CNE.jpeg?auth=9c96b23343d4c2034302acdd959219d0c0bd982a01b26c7a7673c7146ea5336a",
-    "media_type": "image/jpeg",
-    "arabic_title": "لامين-كوكوريلا، اللدغة تأتي من تشاتانوغا",
-    "arabic_summary": "تزامن توقيع اللاعب السابق لمدريد مع التركيز خلال كأس العالم. \"لقد أخبرته أنه سيلعب الأولى ولكن ليس الثانية لأنني سوف آكلها...\".",
-    "translation_status": "translated",
-    "post_title": "لامين-كوكوريلا، اللدغة تأتي من تشاتانوغا",
-    "post_text": "🚨 لامين-كوكوريلا، اللدغة تأتي من تشاتانوغا\n\n📝 تزامن توقيع اللاعب السابق لمدريد مع التركيز خلال كأس العالم. \"لقد أخبرته أنه سيلعب الأولى ولكن ليس الثانية لأنني سوف آكلها...\".\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088520223813288",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لامين-كوكوريلا،_اللدغة_تأتي_من_تشاتانوغا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/lamine-cucurella-el-pique-viene-de-chattanooga-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aa2ois5eK-dFIDXys1ip5VG"
     }
   }
 ]
