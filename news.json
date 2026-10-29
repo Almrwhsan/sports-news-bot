@@ -1,5 +1,39 @@
 [
   {
+    "title": "Huijsen se vuelve pesimista",
+    "url": "https://as.com/futbol/huijsen-se-vuelve-pesimista-f202610-n/",
+    "summary": "El zaguero muestra su mejor versión tras sobreponerse a su expulsión en el derbi: ante el Barcelona lideró, junto con Konaté, la defensa blanca sin cometer una sola falta.",
+    "published": "Thu, 29 Oct 2026 16:14:31 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/24FK4Z4GKBJFLGP6GMKMAANYFY.jpg?auth=94a2e0c2c99e381cc7edd4edfc50b1ed2e47a08897dbaed6fabc773f13ccfbc9",
+    "media_type": "image/jpeg",
+    "arabic_title": "يصبح Huijsen متشائمًا",
+    "arabic_summary": "يُظهر المدافع أفضل نسخة له بعد التغلب على طرده في الديربي: ضد برشلونة، قاد مع كوناتي الدفاع الأبيض دون ارتكاب أي خطأ.",
+    "translation_status": "translated",
+    "post_title": "يصبح Huijsen متشائمًا",
+    "post_text": "🚨 يصبح Huijsen متشائمًا\n\n📝 يُظهر المدافع أفضل نسخة له بعد التغلب على طرده في الديربي: ضد برشلونة، قاد مع كوناتي الدفاع الأبيض دون ارتكاب أي خطأ.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092173253447985",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يصبح_Huijsen_متشائمًا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/huijsen-se-vuelve-pesimista-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqeWFhYZhhRx_gkcIojlnEv"
+    }
+  },
+  {
     "title": "Kane sigue de fiesta: \"Estoy deseando que mis hijos vean el Balón de Oro\"",
     "url": "https://www.marca.com/futbol/bundesliga/2026/10/29/kane-sigue-fiesta-deseando-mis-hijos-vean-balon-oro.html",
     "summary": "El '9' del Bayern atendió a la expedición de la Bundesliga 48 horas después de ganar el trofeo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Adi9ZGaF6hfe0rK0QR1BOYI"
-    }
-  },
-  {
-    "title": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
-    "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522",
-    "summary": "Michael Carrick dropped Bruno Fernandes and only saw his problems mount as Manchester United succumbed to a humiliating 3-0 defeat to Bournemouth at Old Trafford.",
-    "published": "Sun, 25 Oct 2026 16:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-rayan-bournemouth_7386723.jpg?20261025145302",
-    "media_type": "image/jpg",
-    "arabic_title": "كاريك يسقط فرنانديز فقط ليرى مانشستر يونايتد يتواضع أمام بورنموث",
-    "arabic_summary": "أسقط مايكل كاريك برونو فرنانديز ورأى أن مشاكله تتفاقم عندما خسر مانشستر يونايتد هزيمة مذلة 3-0 أمام بورنموث على ملعب أولد ترافورد.",
-    "translation_status": "translated",
-    "post_title": "كاريك يسقط فرنانديز فقط ليرى مانشستر يونايتد يتواضع أمام بورنموث",
-    "post_text": "🚨 كاريك يسقط فرنانديز فقط ليرى مانشستر يونايتد يتواضع أمام بورنموث\n\n📝 أسقط مايكل كاريك برونو فرنانديز ورأى أن مشاكله تتفاقم عندما خسر مانشستر يونايتد هزيمة مذلة 3-0 أمام بورنموث على ملعب أولد ترافورد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088404747158169",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاريك_يسقط_فرنانديز_فقط_ليرى_مانشستر_يونايتد_يتواضع_أمام_بورنموث.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ad3UNEWbermIdovY-XMSOHi"
     }
   }
 ]
