@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
+    "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
+    "summary": "Aston Martin's Fernando Alonso has doubled down on his criticism of \"low level\" Formula 1 drivers who have a \"lack of talent\" following his collision with Williams' Alex Albon in Austin.",
+    "published": "Thu, 29 Oct 2026 21:05:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-fernando-alonso_7391319.jpg?20261029194434",
+    "media_type": "image/jpg",
+    "arabic_title": "\"الافتقار إلى الموهبة\" - ألونسو يضاعف من انتقادات ألبون",
+    "arabic_summary": "ضاعف فرناندو ألونسو سائق أستون مارتن انتقاداته لسائقي الفورمولا 1 \"منخفضي المستوى\" الذين لديهم \"نقص في الموهبة\" بعد اصطدامه مع أليكس ألبون سائق ويليامز في أوستن.",
+    "translation_status": "translated",
+    "post_title": "\"الافتقار إلى الموهبة\" - ألونسو يضاعف من انتقادات ألبون",
+    "post_text": "🚨 \"الافتقار إلى الموهبة\" - ألونسو يضاعف من انتقادات ألبون\n\n📝 ضاعف فرناندو ألونسو سائق أستون مارتن انتقاداته لسائقي الفورمولا 1 \"منخفضي المستوى\" الذين لديهم \"نقص في الموهبة\" بعد اصطدامه مع أليكس ألبون سائق ويليامز في أوستن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092468970085080",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الافتقار_إلى_الموهبة_-_ألونسو_يضاعف_من_انتقادات_ألبون.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsgX-az9XCLqnSru4wbQhis"
+    }
+  },
+  {
     "title": "Ribadesella 0-2 Racing de Santander | Resumen",
     "url": "https://www.marca.com/futbol/2026/10/30/ribadesella-0-2-racing-santander-resumen-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASwi_15DzEyo90sGGn-ndOu"
-    }
-  },
-  {
-    "title": "Golpe de pizarra de Mourinho",
-    "url": "https://as.com/opinion/mourinho-ya-sabe-a-que-atenerse-f202610-n/",
-    "summary": "El planteamiento y los cambios del portugués son acertados y el Madrid juega un Clásico que le puede hacer ser optimista. Irreconocible Barça.",
-    "published": "Sun, 25 Oct 2026 22:13:19 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6D3YKOO52FLXDBOAD4BIDCKWZM.jpg?auth=6b0c27bf75bf2056d64293327c272ea3e7923826ca3c07d7a39a91e4b49e375e",
-    "media_type": "image/jpeg",
-    "arabic_title": "ضرب مورينيو لائحة",
-    "arabic_summary": "أسلوب البرتغالي وتغييراته صحيحة، وريال مدريد يلعب مباراة كلاسيكو يمكن أن تجعله متفائلاً. برشلونة غير معروف.",
-    "translation_status": "translated",
-    "post_title": "ضرب مورينيو لائحة",
-    "post_text": "🚨 ضرب مورينيو لائحة\n\n📝 أسلوب البرتغالي وتغييراته صحيحة، وريال مدريد يلعب مباراة كلاسيكو يمكن أن تجعله متفائلاً. برشلونة غير معروف.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088602330471744",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ضرب_مورينيو_لائحة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/mourinho-ya-sabe-a-que-atenerse-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AI7qkabjqsprb8-d8N3zQxM"
     }
   }
 ]
