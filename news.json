@@ -1,5 +1,39 @@
 [
   {
+    "title": "Atlético Calatayud - Osasuna: horario y dónde ver hoy en TV la Copa del Rey",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/10/29/atletico-calatayud-osasuna-horario-ver-hoy-tv-copa-rey.html",
+    "summary": "El partido corresponde a la primera ronda de la Copa del Rey",
+    "published": "Thu, 29 Oct 2026 02:12:51 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae29a92473f2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أتلتيكو كالاتايود - أوساسونا: الجدول الزمني ومكان مشاهدة كأس الملك على شاشة التلفزيون اليوم",
+    "arabic_summary": "المباراة تتوافق مع الجولة الأولى من كأس الملك",
+    "translation_status": "translated",
+    "post_title": "أتلتيكو كالاتايود - أوساسونا: الجدول الزمني ومكان مشاهدة كأس الملك على شاشة التلفزيون اليوم",
+    "post_text": "🚨 أتلتيكو كالاتايود - أوساسونا: الجدول الزمني ومكان مشاهدة كأس الملك على شاشة التلفزيون اليوم\n\n📝 المباراة تتوافق مع الجولة الأولى من كأس الملك\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091525903512720",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_كالاتايود_-_أوساسونا_الجدول_الزمني_ومكان_مشاهدة_كأس_الملك_على_شاشة_التلف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/10/29/atletico-calatayud-osasuna-horario-ver-hoy-tv-copa-rey.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AMp1KopBduOciiXkMVu5hDh"
+    }
+  },
+  {
     "title": "Los mejores memes del Clásico",
     "url": "https://as.com/futbol/fotorrelato/los-mejores-memes-del-clasico-f202610-f/",
     "summary": "Recopilación de los mejores memes vistos en redes sociales sobre el partido que han disputado el FC Barcelona y el Real Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5t_o3sORp3pyP57Kiej4v4"
-    }
-  },
-  {
-    "title": "Frenkie se desmarca: “Yo soy centrocampista”",
-    "url": "https://as.com/futbol/frenkie-se-desmarca-yo-soy-centrocampista-f202610-n/",
-    "summary": "El holandés deja muy claro en una entrevista con ‘Ziggo Sport’ que aceptaría jugar en otra posición, en este caso de central, pero sólo de una manera puntual.",
-    "published": "Sat, 24 Oct 2026 16:19:48 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IWFPM5FM25J4LCSWSRJ3YLEN5E.jpg?auth=4357cb2e6416032c1407156cede6aaf298708e2caef606c9cccf016b79488320",
-    "media_type": "image/jpeg",
-    "arabic_title": "فرينكي يبرز: \"أنا لاعب خط وسط\"",
-    "arabic_summary": "أوضح الهولندي بشكل واضح في مقابلة مع \"Ziggo Sport\" أنه سيقبل اللعب في مركز آخر، في هذه الحالة قلب الدفاع، ولكن بطريقة محددة فقط.",
-    "translation_status": "translated",
-    "post_title": "فرينكي يبرز: \"أنا لاعب خط وسط\"",
-    "post_text": "🚨 فرينكي يبرز: \"أنا لاعب خط وسط\"\n\n📝 أوضح الهولندي بشكل واضح في مقابلة مع \"Ziggo Sport\" أنه سيقبل اللعب في مركز آخر، في هذه الحالة قلب الدفاع، ولكن بطريقة محددة فقط.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087934360538541",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرينكي_يبرز_أنا_لاعب_خط_وسط.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/frenkie-se-desmarca-yo-soy-centrocampista-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AeJcgE0jkzoSvqf9IHwdtZM"
     }
   }
 ]
