@@ -1,5 +1,39 @@
 [
   {
+    "title": "El autor del meme que indigna a China rompe su silencio: \"¿Me demandará Mbappé?\"",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/29/autor-meme-indigna-china-rompe-silencio-me-demandara-mbappe.html",
+    "summary": "Younes Khelifi (frenchaicovers) explica que \"no me siento mal, pero resulta extraño pensar que, en cierto modo, soy el origen de todo esto\".",
+    "published": "Thu, 29 Oct 2026 05:38:08 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/gPEY21gu48C78naEK.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "صاحب الميم الذي يثير غضب الصين يخرج عن صمته: «هل يقاضيني مبابي؟»",
+    "arabic_summary": "يوضح يونس خليفي (الفرنسية): \"لا أشعر بالسوء، ولكن من الغريب الاعتقاد بأنني، بطريقة ما، أنا أصل كل هذا\".",
+    "translation_status": "translated",
+    "post_title": "صاحب الميم الذي يثير غضب الصين يخرج عن صمته: «هل يقاضيني مبابي؟»",
+    "post_text": "🚨 صاحب الميم الذي يثير غضب الصين يخرج عن صمته: «هل يقاضيني مبابي؟»\n\n📝 يوضح يونس خليفي (الفرنسية): \"لا أشعر بالسوء، ولكن من الغريب الاعتقاد بأنني، بطريقة ما، أنا أصل كل هذا\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091655340166443",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/صاحب_الميم_الذي_يثير_غضب_الصين_يخرج_عن_صمته_«هل_يقاضيني_مبابي؟».png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/29/autor-meme-indigna-china-rompe-silencio-me-demandara-mbappe.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArJZPogMeJrj3Snhc3luIKc"
+    }
+  },
+  {
     "title": "Atlético Calatayud - Osasuna: horario y dónde ver hoy en TV la Copa del Rey",
     "url": "https://www.marca.com/futbol/copa-rey/2026/10/29/atletico-calatayud-osasuna-horario-ver-hoy-tv-copa-rey.html",
     "summary": "El partido corresponde a la primera ronda de la Copa del Rey",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsiR4-FMPgFDjcVc7Kd7j0e"
-    }
-  },
-  {
-    "title": "La alineación más cara de ‘El Clásico’: ¿Cuántos jugadores aporta el Barcelona y cuántos el Real Madrid?",
-    "url": "https://as.com/futbol/primera/la-alineacion-mas-cara-de-el-clasico-cuantos-jugadores-aporta-el-barcelona-y-cuantos-el-real-madrid-f202610-n/",
-    "summary": "Los mejores jugadores del mundo juegan en la liga española, y muchos se reparten entre ambos equipos. Así quedaría el once combinado entre los jugadores con más valor de cada equipo…",
-    "published": "Sat, 24 Oct 2026 19:00:00 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TEBBY7LOLFAZDG6TOO2K3LI2ZQ.JPG?auth=ebafc4cdb5f4a5017e5d2a116825a6cd67f511b03b942f4986aae4c2b3e92ed3",
-    "media_type": "image/jpeg",
-    "arabic_title": "التشكيلة الأغلى في \"الكلاسيكو\": كم عدد اللاعبين الذين يقدمهم برشلونة وكم يقدم ريال مدريد؟",
-    "arabic_summary": "يلعب أفضل اللاعبين في العالم في الدوري الإسباني، والعديد منهم منقسمون بين الفريقين. هكذا سيبدو اللاعبون الأحد عشر مجتمعين بين اللاعبين الأكثر قيمة في كل فريق...",
-    "translation_status": "translated",
-    "post_title": "التشكيلة الأغلى في \"الكلاسيكو\": كم عدد اللاعبين الذين يقدمهم برشلونة وكم يقدم ريال مدريد؟",
-    "post_text": "🚨 التشكيلة الأغلى في \"الكلاسيكو\": كم عدد اللاعبين الذين يقدمهم برشلونة وكم يقدم ريال مدريد؟\n\n📝 يلعب أفضل اللاعبين في العالم في الدوري الإسباني، والعديد منهم منقسمون بين الفريقين. هكذا سيبدو اللاعبون الأحد عشر مجتمعين بين اللاعبين الأكثر قيمة في كل فريق...\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087940283871282",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التشكيلة_الأغلى_في_الكلاسيكو_كم_عدد_اللاعبين_الذين_يقدمهم_برشلونة_وكم_يقدم_ريال_.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/la-alineacion-mas-cara-de-el-clasico-cuantos-jugadores-aporta-el-barcelona-y-cuantos-el-real-madrid-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5t_o3sORp3pyP57Kiej4v4"
     }
   }
 ]
