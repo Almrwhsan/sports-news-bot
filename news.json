@@ -1,5 +1,39 @@
 [
   {
+    "title": "Paso atrás de Koundé",
+    "url": "https://as.com/futbol/paso-atras-de-kounde-f202610-n/",
+    "summary": "El defensa francés sigue sin ejercitarse con el grupo y sus opciones de regresar ante el Alavés se agotan.",
+    "published": "Thu, 29 Oct 2026 10:52:14 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/Y6BHCVTXPJNBNAUVPLZURK3EXQ.jpg?auth=70f6fe9d653348597969a5d8e056029f3b810609b69c4a851d8fccaa2b42730b",
+    "media_type": "image/jpeg",
+    "arabic_title": "التراجع عن كوندي",
+    "arabic_summary": "ولا يزال المدافع الفرنسي لا يتدرب مع المجموعة وخياراته للعودة أمام ألافيس استنفدت.",
+    "translation_status": "translated",
+    "post_title": "التراجع عن كوندي",
+    "post_text": "🚨 التراجع عن كوندي\n\n📝 ولا يزال المدافع الفرنسي لا يتدرب مع المجموعة وخياراته للعودة أمام ألافيس استنفدت.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091909993474311",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التراجع_عن_كوندي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/paso-atras-de-kounde-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcptLjFFvjxxHnLHKZP8M-w"
+    }
+  },
+  {
     "title": "Madridistas, escuchen: la sorprendente confesión de Ander Herrera sobre Mbappé, Messi y Neymar",
     "url": "https://as.com/futbol/videos/madridistas-escuchen-la-sorprendente-confesion-de-ander-herrera-sobre-mbappe-messi-y-neymar-f202610-v/",
     "summary": "Mario Suárez entrevistó en su canal de YouTube al exjugador del PSG y valoró como fue vivir en un vestuario repleto de estrellas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APXbTKaTuQapR52NR9NQ-Hh"
-    }
-  },
-  {
-    "title": "Rodri, Bernardo Silva, Cucurella y ahora JJ Gabriel, otra batalla Real Madrid-Barcelona",
-    "url": "https://as.com/futbol/primera/rodri-bernardo-silva-cucurella-y-ahora-jj-gabriel-otra-batalla-real-madrid-barcelona-f202610-n/",
-    "summary": "El rival por fichar a este juvenil, que ha roto con el Manchester United, es el PSG y no el Barça. Desde Inglaterra se apunta a que el equipo madridista ha tomado la delantera en la carrera por ficharle.",
-    "published": "Sun, 25 Oct 2026 07:15:47 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261024/1229490_175849_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رودري، برناردو سيلفا، كوكوريلا والآن جي جي غابرييل، معركة أخرى بين ريال مدريد وبرشلونة",
-    "arabic_summary": "المنافس للتعاقد مع هذا اللاعب الشاب، الذي انفصل عن مانشستر يونايتد، هو باريس سان جيرمان وليس برشلونة. ومن إنجلترا يُشار إلى أن فريق مدريد يتصدر السباق للتعاقد معه.",
-    "translation_status": "translated",
-    "post_title": "رودري، برناردو سيلفا، كوكوريلا والآن جي جي غابرييل، معركة أخرى بين ريال مدريد وبرشلونة",
-    "post_text": "🚨 رودري، برناردو سيلفا، كوكوريلا والآن جي جي غابرييل، معركة أخرى بين ريال مدريد وبرشلونة\n\n📝 المنافس للتعاقد مع هذا اللاعب الشاب، الذي انفصل عن مانشستر يونايتد، هو باريس سان جيرمان وليس برشلونة. ومن إنجلترا يُشار إلى أن فريق مدريد يتصدر السباق للتعاقد معه.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088087873856523",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رودري،_برناردو_سيلفا،_كوكوريلا_والآن_جي_جي_غابرييل،_معركة_أخرى_بين_ريال_مدريد_وب.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AmQFOFiHF7I6JrLZZksuNYh"
     }
   }
 ]
