@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Ciutat como prueba de fuego",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/29/ciutat-prueba-fuego.html",
+    "summary": "Los rojiblancos llevan tres empates seguido en el estadio del Levante",
+    "published": "Thu, 29 Oct 2026 14:33:59 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae34af7b7573.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وCiutat كاختبار عباد الشمس",
+    "arabic_summary": "تعادل الروخيبلانكوس ثلاث مرات متتالية على ملعب ليفانتي",
+    "translation_status": "translated",
+    "post_title": "وCiutat كاختبار عباد الشمس",
+    "post_text": "🚨 وCiutat كاختبار عباد الشمس\n\n📝 تعادل الروخيبلانكوس ثلاث مرات متتالية على ملعب ليفانتي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092414780090499",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وCiutat_كاختبار_عباد_الشمس.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/29/ciutat-prueba-fuego.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AY8JKjZ59kYrFSiUtBhp3bD"
+    }
+  },
+  {
     "title": "Sarabia se despide de Elche rumbo al Espanyol: \"Hemos sido tremendamente felices\"",
     "url": "https://www.marca.com/futbol/elche/2026/10/29/sarabia-despide-elche-rumbo-espanyol-hemos-sido-tremendamente-felices.html",
     "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARmCe2qDmQpWMebiRP_77M7"
-    }
-  },
-  {
-    "title": "Beer & Blackpool beach was how British players bonded - Pulis",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.",
-    "published": "Mon, 19 Oct 2026 06:23:48 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
-    "media_type": null,
-    "arabic_title": "كان شاطئ البيرة وبلاكبول هو الطريقة التي ترابط بها اللاعبون البريطانيون - بوليس",
-    "arabic_summary": "يشرح توني بوليس، كاتب العمود في بي بي سي سبورت، ما سيحصل عليه توتنهام من رحلة الفريق إلى إسبانيا، وكيف قام المديرون بشكل مختلف ببناء معنويات الفريق في عصره.",
-    "translation_status": "translated",
-    "post_title": "كان شاطئ البيرة وبلاكبول هو الطريقة التي ترابط بها اللاعبون البريطانيون - بوليس",
-    "post_text": "🚨 كان شاطئ البيرة وبلاكبول هو الطريقة التي ترابط بها اللاعبون البريطانيون - بوليس\n\n📝 يشرح توني بوليس، كاتب العمود في بي بي سي سبورت، ما سيحصل عليه توتنهام من رحلة الفريق إلى إسبانيا، وكيف قام المديرون بشكل مختلف ببناء معنويات الفريق في عصره.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088567293808581",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كان_شاطئ_البيرة_وبلاكبول_هو_الطريقة_التي_ترابط_بها_اللاعبون_البريطانيون_-_بوليس.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADyLZ--ZCe3MI79CHTuKs9_"
     }
   }
 ]
