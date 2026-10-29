@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arsenal fail with appeal against Dowman's red card",
+    "url": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
+    "summary": "Arsenal have failed in their appeal against Max Dowman's red card in the defeat to League Two Fleetwood Town.",
+    "published": "Thu, 29 Oct 2026 14:50:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-dowman-arsenal_7389264.jpg?20261027232527",
+    "media_type": "image/jpg",
+    "arabic_title": "أرسنال يفشل في الاستئناف ضد بطاقة دومان الحمراء",
+    "arabic_summary": "فشل أرسنال في استئنافه ضد البطاقة الحمراء التي حصل عليها ماكس دومان في المباراة التي خسرها أمام فليتوود تاون في دوري الدرجة الثانية.",
+    "translation_status": "translated",
+    "post_title": "أرسنال يفشل في الاستئناف ضد بطاقة دومان الحمراء",
+    "post_text": "🚨 أرسنال يفشل في الاستئناف ضد بطاقة دومان الحمراء\n\n📝 فشل أرسنال في استئنافه ضد البطاقة الحمراء التي حصل عليها ماكس دومان في المباراة التي خسرها أمام فليتوود تاون في دوري الدرجة الثانية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092322993433011",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أرسنال_يفشل_في_الاستئناف_ضد_بطاقة_دومان_الحمراء.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3jpdBiknZDHMydMVnXrrz6"
+    }
+  },
+  {
     "title": "Grealish dropped by Everton after breaching club discipline",
     "url": "https://www.skysports.com/football/news/12040/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
     "summary": "Everton said Jack Grealish was unavailable for their Carabao Cup fourth-round tie against Newcastle 'due to a breach of club discipline'.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6sE3iYP74vmLQ_0Ecbo-vc"
-    }
-  },
-  {
-    "title": "Viajar es un martirio",
-    "url": "https://as.com/futbol/primera-rfef/viajar-es-una-losa-f202610-n/",
-    "summary": "Quinta salida, quinto partido sin ganar fuera de casa del Castilla. Juanma y Toni Ramón castigan a un filial blanco inerme.",
-    "published": "Sun, 25 Oct 2026 17:28:56 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261025/1229732_173830_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "السفر استشهاد",
-    "arabic_summary": "المباراة الخامسة، المباراة الخامسة دون تحقيق أي فوز خارج ملعب كاستيا. خوانما وتوني رامون يعاقبان فريقًا أبيض أعزل.",
-    "translation_status": "translated",
-    "post_title": "السفر استشهاد",
-    "post_text": "🚨 السفر استشهاد\n\n📝 المباراة الخامسة، المباراة الخامسة دون تحقيق أي فوز خارج ملعب كاستيا. خوانما وتوني رامون يعاقبان فريقًا أبيض أعزل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088560523809258",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/السفر_استشهاد.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AeY4XMAI8pIaoh7vnrH07P-"
     }
   }
 ]
