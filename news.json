@@ -1,5 +1,39 @@
 [
   {
+    "title": "32 años del debut de Raúl",
+    "url": "https://as.com/futbol/primera/32-anos-del-debut-de-raul-f202610-n/",
+    "summary": "Valdano dio un puñetazo en la mesa al convocar al entonces joven de 17 años e incluirle en el once por encima de una leyenda como Butragueño.",
+    "published": "Thu, 29 Oct 2026 09:23:43 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZAL357CXPZGSPDBLWOOWAAKHW4.jpg?auth=0bd4bfd0d79f70a41eb74ac2691e6146023e7b69f8aef58ae09a9f247652cc86",
+    "media_type": "image/jpeg",
+    "arabic_title": "32 عامًا منذ الظهور الأول لراؤول",
+    "arabic_summary": "ضرب فالدانو الطاولة باستدعاء اللاعب البالغ من العمر 17 عامًا وإدراجه في التشكيلة الأحد عشر على حساب أسطورة مثل بوتراغينيو.",
+    "translation_status": "translated",
+    "post_title": "32 عامًا منذ الظهور الأول لراؤول",
+    "post_text": "🚨 32 عامًا منذ الظهور الأول لراؤول\n\n📝 ضرب فالدانو الطاولة باستدعاء اللاعب البالغ من العمر 17 عامًا وإدراجه في التشكيلة الأحد عشر على حساب أسطورة مثل بوتراغينيو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091842440147733",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/32_عامًا_منذ_الظهور_الأول_لراؤول.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/32-anos-del-debut-de-raul-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ao30Y_1g3QNuLIKrXcWn-u-"
+    }
+  },
+  {
     "title": "Dev's Digest: Markanday '100 percent interested' in playing for India",
     "url": "https://www.skysports.com/football/news/12040/13602656/devs-digest-dilan-markanday-100-per-cent-interested-in-playing-for-india-hamza-choudhury-fa-cup-final-shirt-raises-7000-at-charity-auction",
     "summary": "Welcome to Dev's Digest, a regular Sky Sports column in which Dev Trehan delivers exclusive news and reflects on the major developments for British South Asians in football.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJiCxcgdRDFCNsPxXBPod16"
-    }
-  },
-  {
-    "title": "Iñaki Peña: “Sería bueno poner árbitros extranjeros en un Clásico”",
-    "url": "https://as.com/futbol/inaki-pena-seria-bueno-poner-arbitros-extranjeros-en-un-clasico-f202610-n/",
-    "summary": "El exportero culé jugó 45 partidos con el Barcelona, entre ellos tres Clásicos, vivió la explosión de Lamine y avisa: “Si el Barça te puede matar, lo va a hacer...”.",
-    "published": "Sun, 25 Oct 2026 06:14:54 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261025/1229600_070711_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "إينياكي بينيا: \"سيكون من الجيد وضع حكام أجانب في مباراة كلاسيكية\"",
-    "arabic_summary": "لعب حارس مرمى كولي السابق 45 مباراة لبرشلونة، بما في ذلك ثلاث مباريات كلاسيكو، وقد شهد انفجار لامين وحذر: \"إذا تمكن برشلونة من قتلك، فسوف يفعلون ذلك ...\".",
-    "translation_status": "translated",
-    "post_title": "إينياكي بينيا: \"سيكون من الجيد وضع حكام أجانب في مباراة كلاسيكية\"",
-    "post_text": "🚨 إينياكي بينيا: \"سيكون من الجيد وضع حكام أجانب في مباراة كلاسيكية\"\n\n📝 لعب حارس مرمى كولي السابق 45 مباراة لبرشلونة، بما في ذلك ثلاث مباريات كلاسيكو، وقد شهد انفجار لامين وحذر: \"إذا تمكن برشلونة من قتلك، فسوف يفعلون ذلك ...\".\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088042923861018",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إينياكي_بينيا_سيكون_من_الجيد_وضع_حكام_أجانب_في_مباراة_كلاسيكية.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHIlpQfUwHgjApMF4eqgytj"
     }
   }
 ]
