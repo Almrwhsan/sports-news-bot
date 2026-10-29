@@ -1,5 +1,39 @@
 [
   {
+    "title": "La hemeroteca de Eder Sarabia: críticas a la afición del Espanyol y pasión por el Barça",
+    "url": "https://www.marca.com/futbol/espanyol/2026/10/29/hemeroteca-eder-sarabia-criticas-aficion-espanyol-pasion-barca-video.html",
+    "summary": "",
+    "published": "Thu, 29 Oct 2026 12:05:30 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/gSUts1guoWAPYZUiB.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أرشيف صحيفة إيدير سارابيا: انتقادات لمشجعي إسبانيول وشغف لبرشلونة",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "أرشيف صحيفة إيدير سارابيا: انتقادات لمشجعي إسبانيول وشغف لبرشلونة",
+    "post_text": "🚨 أرشيف صحيفة إيدير سارابيا: انتقادات لمشجعي إسبانيول وشغف لبرشلونة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092237980108179",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أرشيف_صحيفة_إيدير_سارابيا_انتقادات_لمشجعي_إسبانيول_وشغف_لبرشلونة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/espanyol/2026/10/29/hemeroteca-eder-sarabia-criticas-aficion-espanyol-pasion-barca-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfDK79MeKEzckgPRRzh6lPV"
+    }
+  },
+  {
     "title": "El mensaje de Quesada, míster del Madrid: \"Si no nos hubiéramos encontrado al Barça, tendríamos más títulos\"",
     "url": "https://www.marca.com/futbol/futbol-femenino/2026/10/29/mensaje-quesada-mister-madrid-hubieramos-encontrado-barca-tendriamos-titulos.html",
     "summary": "El técnico del Real Madrid femenino reivindica a su equipo tras empatar ante el Bayern y señala el nivel que exige el conjunto azulgrana",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOUVcY7C2r1NVC_mvrrTyms"
-    }
-  },
-  {
-    "title": "Bordalás: “Estoy dolido, hemos tocado fondo, no podemos dar esta imagen”",
-    "url": "https://as.com/futbol/primera/bordalas-hemos-tocado-fondo-f202610-n/",
-    "summary": "El técnico del Getafe compareció ante los micrófonos de DAZN tras la contundente derrota en San Mamés.",
-    "published": "Sun, 25 Oct 2026 15:39:01 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261025/1229701_153331_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "بوردالاس: \"أنا متألم، لقد وصلنا إلى الحضيض، ولا يمكننا تقديم هذه الصورة\"",
-    "arabic_summary": "ظهر مدرب خيتافي أمام ميكروفونات DAZN بعد الهزيمة المدوية في سان ماميس.",
-    "translation_status": "translated",
-    "post_title": "بوردالاس: \"أنا متألم، لقد وصلنا إلى الحضيض، ولا يمكننا تقديم هذه الصورة\"",
-    "post_text": "🚨 بوردالاس: \"أنا متألم، لقد وصلنا إلى الحضيض، ولا يمكننا تقديم هذه الصورة\"\n\n📝 ظهر مدرب خيتافي أمام ميكروفونات DAZN بعد الهزيمة المدوية في سان ماميس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088533973811913",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوردالاس_أنا_متألم،_لقد_وصلنا_إلى_الحضيض،_ولا_يمكننا_تقديم_هذه_الصورة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aq4QzRMlWftK7gfEJtK0vIg"
     }
   }
 ]
