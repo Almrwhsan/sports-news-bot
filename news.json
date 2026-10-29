@@ -1,5 +1,39 @@
 [
   {
+    "title": "Minuto de silencio del Barcelona",
+    "url": "https://www.marca.com/futbol/barcelona/2026/10/29/minuto-silencio-barcelona-video.html",
+    "summary": "",
+    "published": "Thu, 29 Oct 2026 12:17:08 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/gSVZ21guodUqPBHnC.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "برشلونة دقيقة صمت",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "برشلونة دقيقة صمت",
+    "post_text": "🚨 برشلونة دقيقة صمت\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092249250107052",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برشلونة_دقيقة_صمت.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/10/29/minuto-silencio-barcelona-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AlbYgq19b18p8K1V5kkP910"
+    }
+  },
+  {
     "title": "Koundé sigue al margen a dos días del partido contra el Alavés",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/29/kounde-sigue-margen-dos-dias-partido-alaves.html",
     "summary": "El francés está casi descartado para el sábado",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AESWa3FsqZFZkbZB77xIo7l"
-    }
-  },
-  {
-    "title": "Sage: Palace players and hierarchy still support me",
-    "url": "https://www.skysports.com/football/news/12040/13603708/pierre-sage-insists-players-and-crystal-palace-hierarchy-still-support-him-despite-poor-start-to-season",
-    "summary": "Pierre Sage insisted he believes his players and staff are still behind him despite a limp 2-0 home defeat to Newcastle extending Crystal Palace's winless run to four games.",
-    "published": "Sun, 25 Oct 2026 17:44:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-pierre-sage-crystal-palace_7387062.jpg?20261025183851",
-    "media_type": "image/jpg",
-    "arabic_title": "الحكيم: لا يزال لاعبو القصر والهرمي يدعمونني",
-    "arabic_summary": "أصر بيير سيج على أنه يعتقد أن لاعبيه وموظفيه ما زالوا يدعمونه على الرغم من الهزيمة 2-0 على أرضه أمام نيوكاسل، مما أدى إلى تمديد مسيرة كريستال بالاس الخالية من الفوز إلى أربع مباريات.",
-    "translation_status": "translated",
-    "post_title": "الحكيم: لا يزال لاعبو القصر والهرمي يدعمونني",
-    "post_text": "🚨 الحكيم: لا يزال لاعبو القصر والهرمي يدعمونني\n\n📝 أصر بيير سيج على أنه يعتقد أن لاعبيه وموظفيه ما زالوا يدعمونه على الرغم من الهزيمة 2-0 على أرضه أمام نيوكاسل، مما أدى إلى تمديد مسيرة كريستال بالاس الخالية من الفوز إلى أربع مباريات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088544883810822",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحكيم_لا_يزال_لاعبو_القصر_والهرمي_يدعمونني.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13603708/pierre-sage-insists-players-and-crystal-palace-hierarchy-still-support-him-despite-poor-start-to-season",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFam57cz-7e-CT4BXj_iuh6"
     }
   }
 ]
