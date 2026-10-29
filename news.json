@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Real Madrid pone la directa",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/29/real-madrid-pone-directa.html",
+    "summary": "Suma cinco victorias seguidas, una cifra en la élite que sólo supera el PSG",
+    "published": "Thu, 29 Oct 2026 06:24:31 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/6ae1cd1939e5d.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريال مدريد يأخذ زمام المبادرة",
+    "arabic_summary": "لقد حققوا خمسة انتصارات متتالية، وهو رقم في النخبة لا يتجاوزه سوى باريس سان جيرمان",
+    "translation_status": "translated",
+    "post_title": "ريال مدريد يأخذ زمام المبادرة",
+    "post_text": "🚨 ريال مدريد يأخذ زمام المبادرة\n\n📝 لقد حققوا خمسة انتصارات متتالية، وهو رقم في النخبة لا يتجاوزه سوى باريس سان جيرمان\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091688490163128",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_يأخذ_زمام_المبادرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/29/real-madrid-pone-directa.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkeMfIY-ZjMzMzu66iEdwv9"
+    }
+  },
+  {
     "title": "Mounir Nasraoui, padre de Lamine Yamal: \"Necesito ayuda como persona y ser humano\"",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/29/mounir-nasraoui-padre-lamine-yamal-necesito-ayuda-persona-humano.html",
     "summary": "Enigmático mensaje publicado por el padre del futbolista en redes que ha generado preocupación en Barcelona",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYFRlS0iP2I4MadtH_gtEzL"
-    }
-  },
-  {
-    "title": "Anselmi: \"Entendimos los momentos del partido, tanto en la previa como durante\"",
-    "url": "https://www.marca.com/futbol/elche/2026/10/24/anselmi-entendimos-momentos-partido-tanto-previa-durante.html",
-    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
-    "published": "Sat, 24 Oct 2026 17:03:04 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/24/6adcc85ee19d9.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أنسيلمي: \"لقد فهمنا لحظات المباراة قبلها وأثناءها\"",
-    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
-    "translation_status": "translated",
-    "post_title": "أنسيلمي: \"لقد فهمنا لحظات المباراة قبلها وأثناءها\"",
-    "post_text": "🚨 أنسيلمي: \"لقد فهمنا لحظات المباراة قبلها وأثناءها\"\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087953477203296",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنسيلمي_لقد_فهمنا_لحظات_المباراة_قبلها_وأثناءها.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/elche/2026/10/24/anselmi-entendimos-momentos-partido-tanto-previa-durante.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AunDnvZBQcIOWOark9TvmsD"
     }
   }
 ]
