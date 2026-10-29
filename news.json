@@ -1,5 +1,39 @@
 [
   {
+    "title": "Papin apunta al gran pecado de Mbappé que le condenó para ganar el Balón de Oro: \"Refleja cómo es él\"",
+    "url": "https://www.marca.com/futbol/balon-oro/2026/10/29/papin-apunta-gran-pecado-mbappe-le-condeno-ganar-balon-oro-refleja.html",
+    "summary": "\"La estrategia de comunicación de Mbappé le ha perjudicado mucho.Es una lástima, teniendo en cuenta sus cualidades y el club en el que juega (el Real Madrid)\"",
+    "published": "Thu, 29 Oct 2026 06:36:03 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae2d9ba413e7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يشير بابان إلى خطيئة مبابي الكبرى التي حكمت عليه بالفوز بالكرة الذهبية: \"إنها تعكس ما هو عليه\"",
+    "arabic_summary": "\"استراتيجية التواصل التي يتبعها مبابي أضرت به كثيرًا. إنه لأمر مؤسف، مع الأخذ في الاعتبار صفاته والنادي الذي يلعب فيه (ريال مدريد)\".",
+    "translation_status": "translated",
+    "post_title": "يشير بابان إلى خطيئة مبابي الكبرى التي حكمت عليه بالفوز بالكرة الذهبية: \"إنها تعكس ما هو عليه\"",
+    "post_text": "🚨 يشير بابان إلى خطيئة مبابي الكبرى التي حكمت عليه بالفوز بالكرة الذهبية: \"إنها تعكس ما هو عليه\"\n\n📝 \"استراتيجية التواصل التي يتبعها مبابي أضرت به كثيرًا. إنه لأمر مؤسف، مع الأخذ في الاعتبار صفاته والنادي الذي يلعب فيه (ريال مدريد)\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091695003495810",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يشير_بابان_إلى_خطيئة_مبابي_الكبرى_التي_حكمت_عليه_بالفوز_بالكرة_الذهبية_إنها_تعكس.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/balon-oro/2026/10/29/papin-apunta-gran-pecado-mbappe-le-condeno-ganar-balon-oro-refleja.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AG37yGPVMrpHa-m0H7NrxDU"
+    }
+  },
+  {
     "title": "El Ciutat, el último de los campos malditos",
     "url": "https://as.com/futbol/primera/el-ciutat-el-ultimo-de-los-campos-malditos-f202610-n/",
     "summary": "El Atlético visita un campo que se le da mal, pero ya rompió el maleficio a domicilio ante Alavés y Espanyol. Solo con el Barcelona tiene peores números. Aunque los de Simeone llevan doce sobre quince puntos posibles como visitantes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATKO8p--g9H6ZmOTScAi6kU"
-    }
-  },
-  {
-    "title": "El gran pulso",
-    "url": "https://as.com/futbol/primera/el-gran-pulso-f202610-n/",
-    "summary": "Lamine Yamal y Kylian Mbappé juegan su primer Clásico en el Camp Nou y son los favoritos para llevarse mañana lunes el Balón de Oro.",
-    "published": "Sat, 24 Oct 2026 23:08:18 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/X7QOYUGNEBC5BDDWQQSW4NJAPQ.JPG?auth=92a7eab03afc56879c23e81d22df2d0ba27e9312025b0d7f10746c24f84bf398",
-    "media_type": "image/jpeg",
-    "arabic_title": "النبض العظيم",
-    "arabic_summary": "يلعب لامين يامال وكيليان مبابي أول كلاسيكو لهما في الكامب نو، وهما المرشحان للفوز بالكرة الذهبية غدًا الاثنين.",
-    "translation_status": "translated",
-    "post_title": "النبض العظيم",
-    "post_text": "🚨 النبض العظيم\n\n📝 يلعب لامين يامال وكيليان مبابي أول كلاسيكو لهما في الكامب نو، وهما المرشحان للفوز بالكرة الذهبية غدًا الاثنين.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1087969843868326",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/النبض_العظيم.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-gran-pulso-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdJdXgAiE9pGFBPjBeqfuJL"
     }
   }
 ]
