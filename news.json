@@ -1,5 +1,39 @@
 [
   {
+    "title": "Julián: cronología del perdón",
+    "url": "https://as.com/futbol/primera/julian-cronologia-del-perdon-f202610-n/",
+    "summary": "El argentino se reencuentra con el gol en Liga, es clave y sale a disculparse ante la afición por sus palabras de hace cuatro meses cuando pidió salir.",
+    "published": "Sun, 25 Oct 2026 08:53:22 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/V7BYIOHUHRMIHK7DHIZROOW6YM.jpg?auth=05478e396e561f5161cf009e8ef9d0e422ef8f9d52a9f475c4b0c5167bb6c55c",
+    "media_type": "image/jpeg",
+    "arabic_title": "جوليان: التسلسل الزمني للغفران",
+    "arabic_summary": "يجتمع الأرجنتيني مجددًا مع الهدف في الدوري، إنه أمر أساسي ويخرج للاعتذار للجماهير عن كلماته قبل أربعة أشهر عندما طلب الرحيل.",
+    "translation_status": "translated",
+    "post_title": "جوليان: التسلسل الزمني للغفران",
+    "post_text": "🚨 جوليان: التسلسل الزمني للغفران\n\n📝 يجتمع الأرجنتيني مجددًا مع الهدف في الدوري، إنه أمر أساسي ويخرج للاعتذار للجماهير عن كلماته قبل أربعة أشهر عندما طلب الرحيل.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092005956798048",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوليان_التسلسل_الزمني_للغفران.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/julian-cronologia-del-perdon-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALa5gmrmdWEMXNFRpfuunfp"
+    }
+  },
+  {
     "title": "La serie de catastróficas desdichas del Bayern: \"Nunca había visto nada igual\"",
     "url": "https://www.marca.com/futbol/bundesliga/2026/10/29/serie-catastroficas-desdichas-bayern-nunca-habia-visto-igual.html",
     "summary": "Max Eberl comentó que \"No creo que muchos clubes hayan tenido que lidiar con esto. Y no hablamos de asuntos triviales\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARHoHpIsmnbysZn0XSD3OPp"
-    }
-  },
-  {
-    "title": "Littler's Euro dreams ended by shock defeat to Ratajski",
-    "url": "https://www.skysports.com/darts/news/12040/13603410/luke-littler-suffers-shock-defeat-to-krzysztof-ratajski-at-european-championship-darts-in-dortmund",
-    "summary": "Luke Littler suffered a shock defeat to Krzysztof Ratajski at the European Championship Darts, as he failed in his attempt to claim the one major title he's never won.",
-    "published": "Sat, 24 Oct 2026 22:40:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-littler-european-championship_7385141.jpg?20261023222638",
-    "media_type": "image/jpg",
-    "arabic_title": "انتهت أحلام ليتلر باليورو بهزيمة مفاجئة أمام راتاجسكي",
-    "arabic_summary": "تعرض Luke Littler لهزيمة مفاجئة أمام Krzysztof Ratajski في بطولة European Championship Darts، حيث فشل في محاولته للحصول على اللقب الرئيسي الوحيد الذي لم يفز به مطلقًا.",
-    "translation_status": "translated",
-    "post_title": "انتهت أحلام ليتلر باليورو بهزيمة مفاجئة أمام راتاجسكي",
-    "post_text": "🚨 انتهت أحلام ليتلر باليورو بهزيمة مفاجئة أمام راتاجسكي\n\n📝 تعرض Luke Littler لهزيمة مفاجئة أمام Krzysztof Ratajski في بطولة European Championship Darts، حيث فشل في محاولته للحصول على اللقب الرئيسي الوحيد الذي لم يفز به مطلقًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088308107167833",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/انتهت_أحلام_ليتلر_باليورو_بهزيمة_مفاجئة_أمام_راتاجسكي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/news/12040/13603410/luke-littler-suffers-shock-defeat-to-krzysztof-ratajski-at-european-championship-darts-in-dortmund",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFZB1ZvToF0izIa5zlfYUkO"
     }
   }
 ]
