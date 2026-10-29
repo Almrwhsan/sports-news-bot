@@ -1,5 +1,39 @@
 [
   {
+    "title": "El mensaje de Quesada, míster del Madrid: \"Si no nos hubiéramos encontrado al Barça, tendríamos más títulos\"",
+    "url": "https://www.marca.com/futbol/futbol-femenino/2026/10/29/mensaje-quesada-mister-madrid-hubieramos-encontrado-barca-tendriamos-titulos.html",
+    "summary": "El técnico del Real Madrid femenino reivindica a su equipo tras empatar ante el Bayern y señala el nivel que exige el conjunto azulgrana",
+    "published": "Thu, 29 Oct 2026 12:02:04 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/09/68c006e73f0db.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "رسالة كيسادا مدرب ريال مدريد: \"لو لم نواجه برشلونة لحصلنا على ألقاب أكثر\"",
+    "arabic_summary": "مدرب سيدات ريال مدريد يبرئ فريقه بعد التعادل أمام بايرن ويشير إلى المستوى الذي يطلبه فريق برشلونة",
+    "translation_status": "translated",
+    "post_title": "رسالة كيسادا مدرب ريال مدريد: \"لو لم نواجه برشلونة لحصلنا على ألقاب أكثر\"",
+    "post_text": "🚨 رسالة كيسادا مدرب ريال مدريد: \"لو لم نواجه برشلونة لحصلنا على ألقاب أكثر\"\n\n📝 مدرب سيدات ريال مدريد يبرئ فريقه بعد التعادل أمام بايرن ويشير إلى المستوى الذي يطلبه فريق برشلونة\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092234486775195",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رسالة_كيسادا_مدرب_ريال_مدريد_لو_لم_نواجه_برشلونة_لحصلنا_على_ألقاب_أكثر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/2026/10/29/mensaje-quesada-mister-madrid-hubieramos-encontrado-barca-tendriamos-titulos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdjB4wRjkganAp_1bsfu_qs"
+    }
+  },
+  {
     "title": "Carrick ready to 'move forward' with Fernandes as captain",
     "url": "https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future",
     "summary": "Michael Carrick says he is ready to \"move forward\" with Bruno Fernandes as Man Utd captain.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aq4QzRMlWftK7gfEJtK0vIg"
-    }
-  },
-  {
-    "title": "Hits and misses: Pressure mounts on Sage while Liverpool click into gear",
-    "url": "https://www.skysports.com/football/news/12040/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
-    "summary": "",
-    "published": "Sun, 25 Oct 2026 16:51:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-hits-misses-pierre-sage_7387083.jpg?20261025185812",
-    "media_type": "image/jpg",
-    "arabic_title": "الضربات والأخطاء: يتصاعد الضغط على سيج بينما يبدأ ليفربول في التحرك",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "الضربات والأخطاء: يتصاعد الضغط على سيج بينما يبدأ ليفربول في التحرك",
-    "post_text": "🚨 الضربات والأخطاء: يتصاعد الضغط على سيج بينما يبدأ ليفربول في التحرك\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088534090478568",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الضربات_والأخطاء_يتصاعد_الضغط_على_سيج_بينما_يبدأ_ليفربول_في_التحرك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ad1GKkYCzlgF5M5mSLU1clO"
     }
   }
 ]
