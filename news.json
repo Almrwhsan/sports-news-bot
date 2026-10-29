@@ -1,5 +1,39 @@
 [
   {
+    "title": "Griezmann no pierde la magia: nuevo golazo para Orlando",
+    "url": "https://www.marca.com/futbol/2026/10/29/griezmann-pierde-magia-nuevo-golazo-orlan-video.html",
+    "summary": "",
+    "published": "Thu, 29 Oct 2026 10:28:29 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae3115190180.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "جريزمان لا يفقد السحر: هدف رائع جديد لأورلاندو",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "جريزمان لا يفقد السحر: هدف رائع جديد لأورلاندو",
+    "post_text": "🚨 جريزمان لا يفقد السحر: هدف رائع جديد لأورلاندو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092086973456613",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جريزمان_لا_يفقد_السحر_هدف_رائع_جديد_لأورلاندو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/29/griezmann-pierde-magia-nuevo-golazo-orlan-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALtSSGROkzkegpldsOwvno6"
+    }
+  },
+  {
     "title": "Las Palmas hace oficial la llegada de Albert Sánchez a su banquillo",
     "url": "https://www.marca.com/futbol/las-palmas/2026/10/29/palmas-oficial-incorporacion-albert-sanchez-banquillo.html",
     "summary": "Como nuevo entrenador y anuncia también la salida del interino Juan Manuel Rodríguez",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APc55U0OUeLeRn06vxsJZb3"
-    }
-  },
-  {
-    "title": "El Girona sentencia en tres minutos y 'saca' al Fortuna del partido para hacerle una 'manita'",
-    "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/24/girona-sentencia-tres-minutos-saca-fortuna-partido-hacerle-manita.html",
-    "summary": "El filial del Celta jugó con 10 desde el 28' por la roja directa a Meixús en un partido donde Vanat marcó tres goles",
-    "published": "Sat, 24 Oct 2026 20:25:47 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/24/183926.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جيرونا يحكم في ثلاث دقائق و\"يخرج\" فورتونا من المباراة ليمنحه \"يدًا صغيرة\"",
-    "arabic_summary": "ولعب الفريق الرديف لسيلتا بـ10 من الدقيقة 28 لحصول ميكسوس على البطاقة الحمراء المباشرة في مباراة سجل فيها فانات ثلاثة أهداف.",
-    "translation_status": "translated",
-    "post_title": "جيرونا يحكم في ثلاث دقائق و\"يخرج\" فورتونا من المباراة ليمنحه \"يدًا صغيرة\"",
-    "post_text": "🚨 جيرونا يحكم في ثلاث دقائق و\"يخرج\" فورتونا من المباراة ليمنحه \"يدًا صغيرة\"\n\n📝 ولعب الفريق الرديف لسيلتا بـ10 من الدقيقة 28 لحصول ميكسوس على البطاقة الحمراء المباشرة في مباراة سجل فيها فانات ثلاثة أهداف.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088361323829178",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيرونا_يحكم_في_ثلاث_دقائق_ويخرج_فورتونا_من_المباراة_ليمنحه_يدًا_صغيرة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/24/girona-sentencia-tres-minutos-saca-fortuna-partido-hacerle-manita.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ACPrSaC-nYcQ_vQMXPH2NRe"
     }
   }
 ]
