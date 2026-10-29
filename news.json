@@ -1,5 +1,39 @@
 [
   {
+    "title": "Carvajal hace las paces con Yuri",
+    "url": "https://as.com/futbol/carvajal-hace-las-paces-con-yuri-f202610-n/",
+    "summary": "“Le pedí perdón en su día y se lo comenté de nuevo en el estadio”, señala Dani sobre la lesión que provocó al rojiblanco hace tres años.",
+    "published": "Thu, 29 Oct 2026 09:59:41 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YKZGFRVDTBGXRNSHM2EL434AHY.jpg?auth=f2f208b92f8bdc000a42f90d97af2d1f5b5c7678c3b6648dd840d8138c76dbbd",
+    "media_type": "image/jpeg",
+    "arabic_title": "كارفاخال يتصالح مع يوري",
+    "arabic_summary": "ويقول داني عن الإصابة التي تعرض لها الرجل الأحمر والأبيض قبل ثلاث سنوات: «اعتذرت له حينها وأخبرته بالأمر مرة أخرى في الملعب».",
+    "translation_status": "translated",
+    "post_title": "كارفاخال يتصالح مع يوري",
+    "post_text": "🚨 كارفاخال يتصالح مع يوري\n\n📝 ويقول داني عن الإصابة التي تعرض لها الرجل الأحمر والأبيض قبل ثلاث سنوات: «اعتذرت له حينها وأخبرته بالأمر مرة أخرى في الملعب».\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091871040144873",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كارفاخال_يتصالح_مع_يوري.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/carvajal-hace-las-paces-con-yuri-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAQV5sZ1cKmFKKitFKWhPiR"
+    }
+  },
+  {
     "title": "How Bayern Munich fell in love with Harry Kane",
     "url": "https://www.skysports.com/football/news/12040/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain",
     "summary": "It was approaching midnight when Harry Kane emerged to take the congratulations of the media patiently waiting for a word with Bayern Munich&#8217;s new Ballon d&#8217;Or winner. He had not even played in their 6-1 cup win over Magdeburg but it still felt like his night.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AuSrbZYLg-Nryhp4Q4KRd3y"
-    }
-  },
-  {
-    "title": "La categoría A+ del Clásico: habrá más y mejores cámaras para el VAR...",
-    "url": "https://as.com/futbol/la-categoria-a-del-clasico-habra-mas-y-mejores-camaras-para-el-var-f202610-n/",
-    "summary": "Tras el lío en el Real Madrid-Sevilla por la acción de Güler y Peque, las miradas estarán puestas en el despliegue en el Camp Nou. Estas serán las diferencias con un partido normal.",
-    "published": "Sun, 25 Oct 2026 06:16:35 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WIR6UTTJHRE35M7QPXTQFY5SCM.jpg?auth=9e58393d60e3503766630f5eb4b44c99091a833e295e89e8d14d394a9ba54a10",
-    "media_type": "image/jpeg",
-    "arabic_title": "فئة A+ للكلاسيكية: سيكون هناك كاميرات أكثر وأفضل لتقنية VAR...",
-    "arabic_summary": "بعد الفوضى التي شهدتها مباراة ريال مدريد وإشبيلية بسبب تصرفات جولر وبيكيه، ستكون كل الأنظار مسلطة على ملعب الكامب نو. ستكون هذه الاختلافات مع المباراة العادية.",
-    "translation_status": "translated",
-    "post_title": "فئة A+ للكلاسيكية: سيكون هناك كاميرات أكثر وأفضل لتقنية VAR...",
-    "post_text": "🚨 فئة A+ للكلاسيكية: سيكون هناك كاميرات أكثر وأفضل لتقنية VAR...\n\n📝 بعد الفوضى التي شهدتها مباراة ريال مدريد وإشبيلية بسبب تصرفات جولر وبيكيه، ستكون كل الأنظار مسلطة على ملعب الكامب نو. ستكون هذه الاختلافات مع المباراة العادية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088058573859453",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فئة_A+_للكلاسيكية_سيكون_هناك_كاميرات_أكثر_وأفضل_لتقنية_VAR....png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/la-categoria-a-del-clasico-habra-mas-y-mejores-camaras-para-el-var-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Awcz0A-b4kp1TgTSR5N81MC"
     }
   }
 ]
