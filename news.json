@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
+    "url": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
+    "summary": "Harry Kane would be \"massively proud\" to be knighted, but admits it would be \"weird\" to have everyone calling him Sir.",
+    "published": "Thu, 29 Oct 2026 10:31:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-bayern-munich_7390749.jpg?20261029104939",
+    "media_type": "image/jpg",
+    "arabic_title": "سيد هاري؟ كين يرد على حديث الفروسية بعد فوزه بالكرة الذهبية",
+    "arabic_summary": "سيكون هاري كين \"فخورًا جدًا\" بالحصول على لقب فارس، لكنه يعترف أنه سيكون \"غريبًا\" أن يطلق عليه الجميع لقب \"سيدي\".",
+    "translation_status": "translated",
+    "post_title": "سيد هاري؟ كين يرد على حديث الفروسية بعد فوزه بالكرة الذهبية",
+    "post_text": "🚨 سيد هاري؟ كين يرد على حديث الفروسية بعد فوزه بالكرة الذهبية\n\n📝 سيكون هاري كين \"فخورًا جدًا\" بالحصول على لقب فارس، لكنه يعترف أنه سيكون \"غريبًا\" أن يطلق عليه الجميع لقب \"سيدي\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091920910139886",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيد_هاري؟_كين_يرد_على_حديث_الفروسية_بعد_فوزه_بالكرة_الذهبية.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ays9oq_VNxFANyJy26wJqbW"
+    }
+  },
+  {
     "title": "Jacobo Ramón ‘llama’ a De la Fuente",
     "url": "https://as.com/futbol/internacional/jacobo-ramon-llama-a-de-la-fuente-f202610-n/",
     "summary": "Diferencial en el Como y en la Sub-21, el siguiente paso de ‘Jaco’ es la Absoluta. Ha marcado dos goles en una semana. “Ramos es mi modelo a seguir”, dice.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3btKE8kJwT1KobXE5vLCo3"
-    }
-  },
-  {
-    "title": "England crumble to 241 all out vs Pakistan despite Duckett century LIVE!",
-    "url": "https://www.skysports.com/cricket/live-blog/12040/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win",
-    "summary": "",
-    "published": "Sun, 25 Oct 2026 07:25:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-ben-duckett-england-mens-odi-cricket_7386505.jpg?20261025110158",
-    "media_type": "image/jpg",
-    "arabic_title": "إنجلترا تنهار إلى 241 نقطة أمام باكستان رغم Duckett Century LIVE!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "إنجلترا تنهار إلى 241 نقطة أمام باكستان رغم Duckett Century LIVE!",
-    "post_text": "🚨 إنجلترا تنهار إلى 241 نقطة أمام باكستان رغم Duckett Century LIVE!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088118460520131",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تنهار_إلى_241_نقطة_أمام_باكستان_رغم_Duckett_Century_LIVE!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/live-blog/12040/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AsHI9B1klCx51mjOwKgVaBd"
     }
   }
 ]
