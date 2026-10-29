@@ -1,5 +1,39 @@
 [
   {
+    "title": "Tévez recuerda la mentira de Alex Ferguson que provocó su \"puñalada\" al United para irse al City",
+    "url": "https://www.marca.com/futbol/premier-league/2026/10/29/tevez-recuerda-mentira-alex-ferguson-provoco-punalada-united-irse-city.html",
+    "summary": "Carlos Tévez vuelve a recordar su controvertida salida del Manchester United para fichar por el Manchester City en 2009",
+    "published": "Thu, 29 Oct 2026 09:13:54 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae300366ade6.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يتذكر تيفيز كذبة أليكس فيرجسون التي جعلته \"يطعن\" يونايتد ليذهب إلى السيتي",
+    "arabic_summary": "يتذكر كارلوس تيفيز مرة أخرى رحيله المثير للجدل من مانشستر يونايتد للتعاقد مع مانشستر سيتي في عام 2009",
+    "translation_status": "translated",
+    "post_title": "يتذكر تيفيز كذبة أليكس فيرجسون التي جعلته \"يطعن\" يونايتد ليذهب إلى السيتي",
+    "post_text": "🚨 يتذكر تيفيز كذبة أليكس فيرجسون التي جعلته \"يطعن\" يونايتد ليذهب إلى السيتي\n\n📝 يتذكر كارلوس تيفيز مرة أخرى رحيله المثير للجدل من مانشستر يونايتد للتعاقد مع مانشستر سيتي في عام 2009\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092009693464341",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتذكر_تيفيز_كذبة_أليكس_فيرجسون_التي_جعلته_يطعن_يونايتد_ليذهب_إلى_السيتي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/29/tevez-recuerda-mentira-alex-ferguson-provoco-punalada-united-irse-city.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1UgpOXfqEckSS3V2vCQTEN"
+    }
+  },
+  {
     "title": "Julián: cronología del perdón",
     "url": "https://as.com/futbol/primera/julian-cronologia-del-perdon-f202610-n/",
     "summary": "El argentino se reencuentra con el gol en Liga, es clave y sale a disculparse ante la afición por sus palabras de hace cuatro meses cuando pidió salir.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AN3xHS2Jy8iED8TNumgLA3R"
-    }
-  },
-  {
-    "title": "'Fantastic' Duckett battles to superb ODI century",
-    "url": "https://www.skysports.com/watch/video/13603503/pakistan-v-england-ben-duckett-hits-brilliant-odi-century-after-englands-early-collapse",
-    "summary": "Ben Duckett reaches a superb century to lead England's recovery after a disastrous start to their ODI against Pakistan in Lahore.",
-    "published": "Sun, 25 Oct 2026 10:50:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-duckett-cricket_7386499.jpg?20261025105403",
-    "media_type": "image/jpg",
-    "arabic_title": "Duckett \"الرائعة\" تكافح من أجل قرن ODI الرائع",
-    "arabic_summary": "يصل بن دوكيت إلى قرن رائع لقيادة تعافي إنجلترا بعد البداية الكارثية في مباراة ODI ضد باكستان في لاهور.",
-    "translation_status": "translated",
-    "post_title": "Duckett \"الرائعة\" تكافح من أجل قرن ODI الرائع",
-    "post_text": "🚨 Duckett \"الرائعة\" تكافح من أجل قرن ODI الرائع\n\n📝 يصل بن دوكيت إلى قرن رائع لقيادة تعافي إنجلترا بعد البداية الكارثية في مباراة ODI ضد باكستان في لاهور.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088315550500422",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Duckett_الرائعة_تكافح_من_أجل_قرن_ODI_الرائع.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13603503/pakistan-v-england-ben-duckett-hits-brilliant-odi-century-after-englands-early-collapse",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARHoHpIsmnbysZn0XSD3OPp"
     }
   }
 ]
