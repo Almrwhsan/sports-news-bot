@@ -1,5 +1,39 @@
 [
   {
+    "title": "AE Prat - Athletic: horario y dónde ver hoy en TV y canal del partido de Copa del Rey",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/10/29/ae-prat-athletic-horario-ver-hoy-tv-canal-partido-copa-rey.html",
+    "summary": "Partido correspondiente a la primera ronda de la Copa del Rey",
+    "published": "Thu, 29 Oct 2026 10:35:55 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/6ae13455dc60f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "AE Prat - Athletic: جدول ومكان مشاهدة مباراة كأس الملك اليوم على شاشة التلفزيون والقناة",
+    "arabic_summary": "المباراة في إطار الجولة الأولى من كأس الملك",
+    "translation_status": "translated",
+    "post_title": "AE Prat - Athletic: جدول ومكان مشاهدة مباراة كأس الملك اليوم على شاشة التلفزيون والقناة",
+    "post_text": "🚨 AE Prat - Athletic: جدول ومكان مشاهدة مباراة كأس الملك اليوم على شاشة التلفزيون والقناة\n\n📝 المباراة في إطار الجولة الأولى من كأس الملك\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092113620120615",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/AE_Prat_-_Athletic_جدول_ومكان_مشاهدة_مباراة_كأس_الملك_اليوم_على_شاشة_التلفزيون_و.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/10/29/ae-prat-athletic-horario-ver-hoy-tv-canal-partido-copa-rey.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxNbyH_BZfgK4rHQi7Ww933"
+    }
+  },
+  {
     "title": "Cuti, derecho al once; Marcos Llorente, al centro del campo",
     "url": "https://as.com/futbol/primera/cuti-derecho-al-once-marcos-llorente-al-centro-del-campo-f202610-n/",
     "summary": "El Atlético se entrenó en Majadahonda con el defensa argentino como titular. Pubill jugaría en la banda derecha y Marcos Llorente, en el medio. Arriba podrían salir de inicio Julián Alvarez y Jonathan David. Koke y Cardoso estuvieron al margen.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANn6EFvbsmr7b-cKEk9-fcP"
-    }
-  },
-  {
-    "title": "El español que ‘inventó’ a Güler: “Era un escándalo...”",
-    "url": "https://as.com/futbol/internacional/el-espanol-que-invento-a-guler-era-un-escandalo-f202610-n/",
-    "summary": "David Badía, actual seleccionador de Haití, estaba al frente de la academia del Fenerbahçe cuando reclutaron al hoy centrocampista del Real Madrid.",
-    "published": "Sun, 25 Oct 2026 09:43:53 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/F2SQXKMEYRGRZM6TQURFSJ7TTY.jpg?auth=d0b5aa210d3c67a39c47e0e73101db74d5eadf0091cc47cd21ec8150335daea4",
-    "media_type": "image/jpeg",
-    "arabic_title": "الإسباني الذي \"اخترع\" جولر: \"لقد كانت فضيحة...\"",
-    "arabic_summary": "كان ديفيد باديا، مدرب هايتي الحالي، مسؤولاً عن أكاديمية فنربخشة عندما تم التعاقد مع لاعب خط وسط ريال مدريد الحالي.",
-    "translation_status": "translated",
-    "post_title": "الإسباني الذي \"اخترع\" جولر: \"لقد كانت فضيحة...\"",
-    "post_text": "🚨 الإسباني الذي \"اخترع\" جولر: \"لقد كانت فضيحة...\"\n\n📝 كان ديفيد باديا، مدرب هايتي الحالي، مسؤولاً عن أكاديمية فنربخشة عندما تم التعاقد مع لاعب خط وسط ريال مدريد الحالي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088383607160283",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الإسباني_الذي_اخترع_جولر_لقد_كانت_فضيحة....png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/el-espanol-que-invento-a-guler-era-un-escandalo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AY9AC5uZkwpO1UO4jUskK7B"
     }
   }
 ]
