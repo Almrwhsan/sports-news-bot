@@ -1,5 +1,39 @@
 [
   {
+    "title": "Prat 1-6 Athletic | Resumen",
+    "url": "https://www.marca.com/futbol/2026/10/30/prat-1-6-athletic-resumen-video.html",
+    "summary": "",
+    "published": "Fri, 30 Oct 2026 00:29:17 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/gTSzY1guzR08jvtIo.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "برات 1-6 رياضي | استئناف",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "برات 1-6 رياضي | استئناف",
+    "post_text": "🚨 برات 1-6 رياضي | استئناف\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092461246752519",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برات_1-6_رياضي_استئناف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/30/prat-1-6-athletic-resumen-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AlaD9GXxiVJRCpxuF5BdJz2"
+    }
+  },
+  {
     "title": "Auriense 0-3 Deportivo de la Coruña | Resumen",
     "url": "https://www.marca.com/futbol/2026/10/30/auriense-0-3-deportivo-coruna-resumen-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVqATsAl7g6tny76XHYrAlI"
-    }
-  },
-  {
-    "title": "Mourinho persistió en el equipo creativo",
-    "url": "https://www.marca.com/futbol/primera-division/opinion/2026/10/26/mourinho-persistio-equipo-creativo.html",
-    "summary": "Al otro lado del espejo",
-    "published": "Mon, 26 Oct 2026 00:16:15 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6ade8bc5c3ac7.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "استمر مورينيو في الفريق الإبداعي",
-    "arabic_summary": "على الجانب الآخر من المرآة",
-    "translation_status": "translated",
-    "post_title": "استمر مورينيو في الفريق الإبداعي",
-    "post_text": "🚨 استمر مورينيو في الفريق الإبداعي\n\n📝 على الجانب الآخر من المرآة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088596810472296",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استمر_مورينيو_في_الفريق_الإبداعي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/opinion/2026/10/26/mourinho-persistio-equipo-creativo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGNtbfVbWhPhL1CUUk-lDua"
     }
   }
 ]
