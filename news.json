@@ -1,5 +1,39 @@
 [
   {
+    "title": "Grimaldo, a la caza de Filipe Luis",
+    "url": "https://as.com/futbol/primera/grimaldo-a-la-caza-de-filipe-luis-f202610-n/",
+    "summary": "El valenciano ya ha participado en cinco goles. El brasileño tiene el récord del Cholo en defensa de cuatro con diez. Carrasco, Llorente y Lino, carrileros con numerazos.",
+    "published": "Thu, 29 Oct 2026 14:57:43 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SZ4VECIOYBJTXA2LLN5FPU34GA.jpg?auth=5f2d7917d703cb2b5934970371881a10567f7433256129f8a845c82743bac0cd",
+    "media_type": "image/jpeg",
+    "arabic_title": "جريمالدو يبحث عن فيليبي لويس",
+    "arabic_summary": "وقد شارك بلنسية بالفعل في خمسة أهداف. يمتلك البرازيلي سجل دفاع تشولو وهو أربعة وعشرة. كاراسكو ويورينتي ولينو، ممرات ذات أعداد كبيرة.",
+    "translation_status": "translated",
+    "post_title": "جريمالدو يبحث عن فيليبي لويس",
+    "post_text": "🚨 جريمالدو يبحث عن فيليبي لويس\n\n📝 وقد شارك بلنسية بالفعل في خمسة أهداف. يمتلك البرازيلي سجل دفاع تشولو وهو أربعة وعشرة. كاراسكو ويورينتي ولينو، ممرات ذات أعداد كبيرة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092177323447578",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جريمالدو_يبحث_عن_فيليبي_لويس.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/grimaldo-a-la-caza-de-filipe-luis-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdBHEtnrAyVmhx2kG0ijLcq"
+    }
+  },
+  {
     "title": "Huijsen se vuelve pesimista",
     "url": "https://as.com/futbol/huijsen-se-vuelve-pesimista-f202610-n/",
     "summary": "El zaguero muestra su mejor versión tras sobreponerse a su expulsión en el derbi: ante el Barcelona lideró, junto con Konaté, la defensa blanca sin cometer una sola falta.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AatLlB-6980WNozFsZQGs1I"
-    }
-  },
-  {
-    "title": "United States GP: Antonelli on pole from Verstappen and with title chance LIVE!",
-    "url": "https://www.skysports.com/f1/live-blog/12040/13603251/f1-united-states-gp-live-race-updates-results-stream-highlights-from-18th-round-of-2026-formula-1-season-in-austin",
-    "summary": "Follow live updates and watch the best video from the United States Grand Prix in Austin. Watch live on Sky Sports F1 and Sky Sports Main Event",
-    "published": "Sat, 24 Oct 2026 17:23:00 BST",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7387038.jpg?20261025181930",
-    "media_type": "image/jpg",
-    "arabic_title": "جائزة الولايات المتحدة الكبرى: أنتونيلي في المركز الأول من فيرستابين مع فرصة اللقب مباشرة!",
-    "arabic_summary": "تابع التحديثات المباشرة وشاهد أفضل فيديو من سباق الجائزة الكبرى للولايات المتحدة في أوستن. شاهد البث المباشر على Sky Sports F1 وSky Sports Main Event",
-    "translation_status": "translated",
-    "post_title": "جائزة الولايات المتحدة الكبرى: أنتونيلي في المركز الأول من فيرستابين مع فرصة اللقب مباشرة!",
-    "post_text": "🚨 جائزة الولايات المتحدة الكبرى: أنتونيلي في المركز الأول من فيرستابين مع فرصة اللقب مباشرة!\n\n📝 تابع التحديثات المباشرة وشاهد أفضل فيديو من سباق الجائزة الكبرى للولايات المتحدة في أوستن. شاهد البث المباشر على Sky Sports F1 وSky Sports Main Event\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088421703823140",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جائزة_الولايات_المتحدة_الكبرى_أنتونيلي_في_المركز_الأول_من_فيرستابين_مع_فرصة_اللق.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/live-blog/12040/13603251/f1-united-states-gp-live-race-updates-results-stream-highlights-from-18th-round-of-2026-formula-1-season-in-austin",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Adi9ZGaF6hfe0rK0QR1BOYI"
     }
   }
 ]
