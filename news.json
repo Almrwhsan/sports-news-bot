@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jorge Mendoza: \"Cada jugador tiene su trabajo, su familia... y luego entrena\"",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/10/29/jorge-mendoza-jugador-trabajo-familia-luego-entrena.html",
+    "summary": "El técnico del Sporting Hortaleza revela a MARCA cómo funciona por dentro el club",
+    "published": "Thu, 29 Oct 2026 06:47:24 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/x9f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "خورخي ميندوزا: \"كل لاعب لديه وظيفته وعائلته ثم يتدرب\"",
+    "arabic_summary": "مدرب سبورتنج هورتاليزا يكشف لصحيفة ماركا كيف يعمل النادي داخل النادي",
+    "translation_status": "translated",
+    "post_title": "خورخي ميندوزا: \"كل لاعب لديه وظيفته وعائلته ثم يتدرب\"",
+    "post_text": "🚨 خورخي ميندوزا: \"كل لاعب لديه وظيفته وعائلته ثم يتدرب\"\n\n📝 مدرب سبورتنج هورتاليزا يكشف لصحيفة ماركا كيف يعمل النادي داخل النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1091963673468943",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خورخي_ميندوزا_كل_لاعب_لديه_وظيفته_وعائلته_ثم_يتدرب.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/10/29/jorge-mendoza-jugador-trabajo-familia-luego-entrena.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aby9YxZWqMFJ3x3BmSlBCxR"
+    }
+  },
+  {
     "title": "El TSJC admite a trámite un recurso de Ciria sobre el recuento de las papeletas de su candidatura",
     "url": "https://as.com/futbol/primera/el-tsjc-admite-a-tramite-un-recurso-de-ciria-sobre-el-recuento-de-las-papeletas-de-su-candidatura-f202610-n/",
     "summary": "El precandidato, que se quedó a 90 firmas de ser oficialmente en candidato, reconoce que hace la reclamación “por una cuestión de honor”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcD5La65Vm9LgIj6glzWTS6"
-    }
-  },
-  {
-    "title": "El día que Mourinho ganó y elogió al Barcelona: “Es una escuela de fútbol y del bello”",
-    "url": "https://as.com/futbol/primera/el-dia-que-mourinho-gano-y-elogio-al-barcelona-es-una-escuela-de-futbol-y-del-bello-f202610-n/",
-    "summary": "Todavía como entrenador del Inter y tras ganar la ida de las semifinales de Champions (3-1) el técnico luso elogió a su rival, algo que no suele ocurrir…",
-    "published": "Sun, 25 Oct 2026 08:00:00 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FMIDSSQ64FNY3FOZYXSK4F6KCY.jpg?auth=e149c719bd7ffd74b04f5719e547f6a97ec4cb9e6bf56c4b4aaa2b2f0a1f1e1d",
-    "media_type": "image/jpeg",
-    "arabic_title": "يوم فاز مورينيو وأشاد ببرشلونة: “إنها مدرسة كرة القدم والجمال”",
-    "arabic_summary": "لا يزال مدربًا للإنتر وبعد فوزه في مباراة الذهاب من نصف نهائي دوري أبطال أوروبا (3-1)، أشاد المدرب البرتغالي بمنافسه، وهو أمر لا يحدث عادة...",
-    "translation_status": "translated",
-    "post_title": "يوم فاز مورينيو وأشاد ببرشلونة: “إنها مدرسة كرة القدم والجمال”",
-    "post_text": "🚨 يوم فاز مورينيو وأشاد ببرشلونة: “إنها مدرسة كرة القدم والجمال”\n\n📝 لا يزال مدربًا للإنتر وبعد فوزه في مباراة الذهاب من نصف نهائي دوري أبطال أوروبا (3-1)، أشاد المدرب البرتغالي بمنافسه، وهو أمر لا يحدث عادة...\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088130313852279",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يوم_فاز_مورينيو_وأشاد_ببرشلونة_“إنها_مدرسة_كرة_القدم_والجمال”.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-dia-que-mourinho-gano-y-elogio-al-barcelona-es-una-escuela-de-futbol-y-del-bello-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApMAyLj_O4T_PzEaduwuX-b"
     }
   }
 ]
