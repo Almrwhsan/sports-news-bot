@@ -1,5 +1,39 @@
 [
   {
+    "title": "El PSG tiene las espaldas cubiertas",
+    "url": "https://www.marca.com/futbol/liga-francesa/2026/10/29/psg-espaldas-cubiertas.html",
+    "summary": "Luis Enrique cuenta con un arsenal de variantes para intentar paliar la grave lesión sufrida por Kvaratskhelia",
+    "published": "Thu, 29 Oct 2026 10:46:31 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/6ae22115e0bfb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "باريس سان جيرمان لديه ظهر مغطى",
+    "arabic_summary": "يمتلك لويس إنريكي ترسانة من المتغيرات لمحاولة التخفيف من الإصابة الخطيرة التي تعرض لها كفاراتسخيليا",
+    "translation_status": "translated",
+    "post_title": "باريس سان جيرمان لديه ظهر مغطى",
+    "post_text": "🚨 باريس سان جيرمان لديه ظهر مغطى\n\n📝 يمتلك لويس إنريكي ترسانة من المتغيرات لمحاولة التخفيف من الإصابة الخطيرة التي تعرض لها كفاراتسخيليا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092156076783036",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باريس_سان_جيرمان_لديه_ظهر_مغطى.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/liga-francesa/2026/10/29/psg-espaldas-cubiertas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHMmZGZ_QHPXqas7XTVJIFV"
+    }
+  },
+  {
     "title": "'Sold out': el Sabadell cierra la campaña de socios por primera vez en su historia",
     "url": "https://www.marca.com/futbol/sabadell/2026/10/29/sold-out-sabadell-cierra-campana-socios-primera-vez-historia.html",
     "summary": "El club arlequinado saborea el mejor momento deportivo y social de su historia reciente, con más de 10.400 socios",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABQ9SbkPq0zR8iBf0n2_XLm"
-    }
-  },
-  {
-    "title": "El historial de los Clásicos en Liga y el cómputo global de victorias entre Real Madrid y Barcelona",
-    "url": "https://www.marca.com/futbol/primera-division/2026/10/24/historial-clasicos-liga-computo-global-victorias-real-madrid-barcelona.html",
-    "summary": "La máxima rivalidad del fútbol español mantiene un pulso histórico marcado por la máxima igualdad en todos sus enfrentamientos",
-    "published": "Sat, 24 Oct 2026 14:48:36 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/10/6a00e07ce964c.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تاريخ الكلاسيكو في الليغا والعدد الإجمالي للانتصارات بين ريال مدريد وبرشلونة",
-    "arabic_summary": "يحافظ التنافس الأعظم في كرة القدم الإسبانية على نبض تاريخي يتميز بأقصى قدر من المساواة في جميع مواجهاته",
-    "translation_status": "translated",
-    "post_title": "تاريخ الكلاسيكو في الليغا والعدد الإجمالي للانتصارات بين ريال مدريد وبرشلونة",
-    "post_text": "🚨 تاريخ الكلاسيكو في الليغا والعدد الإجمالي للانتصارات بين ريال مدريد وبرشلونة\n\n📝 يحافظ التنافس الأعظم في كرة القدم الإسبانية على نبض تاريخي يتميز بأقصى قدر من المساواة في جميع مواجهاته\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088394260492551",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تاريخ_الكلاسيكو_في_الليغا_والعدد_الإجمالي_للانتصارات_بين_ريال_مدريد_وبرشلونة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/10/24/historial-clasicos-liga-computo-global-victorias-real-madrid-barcelona.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7hYhH8-zhFHSM2PNRQBzlO"
     }
   }
 ]
