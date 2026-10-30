@@ -1,5 +1,39 @@
 [
   {
+    "title": "Villarreal - Espanyol: horario, dónde ver en TV y canal del partido de LaLiga EA Sports",
+    "url": "https://www.marca.com/futbol/primera-division/2026/10/30/villarreal-espanyol-horario-donde-ver-tv-canal-partido-laliga-ea-sports.html",
+    "summary": "El Villarreal recibe al Espanyol en el Estadio de la Cerámica en el partido correspondiente a la jornada 11 de LaLiga EA Sports",
+    "published": "Fri, 30 Oct 2026 09:36:54 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/51313140551854.png",
+    "media_type": "image/jpeg",
+    "arabic_title": "فياريال - اسبانيول: جدول زمني، حيث يمكنك مشاهدة مباراة الدوري الإسباني على شاشة التلفزيون وقناة EA Sports",
+    "arabic_summary": "فياريال يستقبل إسبانيول على ملعب لا سيراميكا، في مباراة الجولة 11 من الدوري الإسباني EA Sports",
+    "translation_status": "translated",
+    "post_title": "فياريال - اسبانيول: جدول زمني، حيث يمكنك مشاهدة مباراة الدوري الإسباني على شاشة التلفزيون وقناة EA Sports",
+    "post_text": "🚨 فياريال - اسبانيول: جدول زمني، حيث يمكنك مشاهدة مباراة الدوري الإسباني على شاشة التلفزيون وقناة EA Sports\n\n📝 فياريال يستقبل إسبانيول على ملعب لا سيراميكا، في مباراة الجولة 11 من الدوري الإسباني EA Sports\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093147273350583",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فياريال_-_اسبانيول_جدول_زمني،_حيث_يمكنك_مشاهدة_مباراة_الدوري_الإسباني_على_شاشة_ا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/2026/10/30/villarreal-espanyol-horario-donde-ver-tv-canal-partido-laliga-ea-sports.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5ORAllG67IsE7vkKlBXaR2"
+    }
+  },
+  {
     "title": "Bordalás: “Nos hemos enfrentado a un equipo de la sexta categoría que no es profesional y nos pasó por encima la primera media hora\"",
     "url": "https://www.marca.com/futbol/getafe/2026/10/30/bordalas-merecimos-pasar.html",
     "summary": "El técnico azulón analiza duramente el pase a la siguiente ronda de Copa del Rey",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AW46WgLD74CqK7q0YDv3aNN"
-    }
-  },
-  {
-    "title": "El muro de Valles blinda al Betis",
-    "url": "https://www.marca.com/futbol/betis/2026/10/26/muro-valles-blinda-betis.html",
-    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
-    "published": "Mon, 26 Oct 2026 09:16:05 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9bcb07a1440.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جدار فاليس يحمي بيتيس",
-    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
-    "translation_status": "translated",
-    "post_title": "جدار فاليس يحمي بيتيس",
-    "post_text": "🚨 جدار فاليس يحمي بيتيس\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089195780412399",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جدار_فاليس_يحمي_بيتيس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/10/26/muro-valles-blinda-betis.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVyp6OoA6SxkWD6OqT9OqwV"
     }
   }
 ]
