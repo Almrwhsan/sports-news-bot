@@ -1,5 +1,39 @@
 [
   {
+    "title": "A stand-alone, critically-acclaimed film by Jimmy McGovern",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC",
+    "summary": "The Mitchell family deal with the devastating aftermath of an act of sexual abuse.",
+    "published": "Fri, 24 Jul 2026 04:45:00 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c9/live/a9e3bb30-c965-11f1-9a39-31b474234113.jpg",
+    "media_type": null,
+    "arabic_title": "فيلم مستقل حاز على استحسان النقاد لجيمي ماكجفرن",
+    "arabic_summary": "تتعامل عائلة ميتشل مع العواقب المدمرة لفعل الاعتداء الجنسي.",
+    "translation_status": "translated",
+    "post_title": "فيلم مستقل حاز على استحسان النقاد لجيمي ماكجفرن",
+    "post_text": "🚨 فيلم مستقل حاز على استحسان النقاد لجيمي ماكجفرن\n\n📝 تتعامل عائلة ميتشل مع العواقب المدمرة لفعل الاعتداء الجنسي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093223783342932",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيلم_مستقل_حاز_على_استحسان_النقاد_لجيمي_ماكجفرن.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZ3B_QikMERU1KxCsV8Wslb"
+    }
+  },
+  {
     "title": "David Raya: \"He hecho un año perfecto\"",
     "url": "https://www.marca.com/futbol/2026/10/30/david-raya-he-hecho-ano-perfect-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASEW_Z2FhL-okUu9w6K_muX"
-    }
-  },
-  {
-    "title": "El PP informa que la \"errata\" en el informe de Valdebebas no le afecta al Madrid en la recalificación",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/pp-informa-errata-informe-valdebebas-le-afecta-madrid-recalificacion.html",
-    "summary": "La recalificación afecta a los terrenos de la ciudad deportiva del Real Madrid en Valdebebas, de unos 1,2 millones de metros cuadrados",
-    "published": "Mon, 26 Oct 2026 11:01:24 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/27/6a9061fd03e9d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أفاد PP أن \"الأخطاء\" في تقرير الفالديبيباس لا تؤثر على مدريد في إعادة التأهيل",
-    "arabic_summary": "إعادة التصنيف تؤثر على أرض مدينة ريال مدريد الرياضية بالفالديبيباس البالغة مساحتها نحو 1.2 مليون متر مربع",
-    "translation_status": "translated",
-    "post_title": "أفاد PP أن \"الأخطاء\" في تقرير الفالديبيباس لا تؤثر على مدريد في إعادة التأهيل",
-    "post_text": "🚨 أفاد PP أن \"الأخطاء\" في تقرير الفالديبيباس لا تؤثر على مدريد في إعادة التأهيل\n\n📝 إعادة التصنيف تؤثر على أرض مدينة ريال مدريد الرياضية بالفالديبيباس البالغة مساحتها نحو 1.2 مليون متر مربع\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089266777071966",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أفاد_PP_أن_الأخطاء_في_تقرير_الفالديبيباس_لا_تؤثر_على_مدريد_في_إعادة_التأهيل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/pp-informa-errata-informe-valdebebas-le-afecta-madrid-recalificacion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYFmemOdS-s2BYNRFwYfGCD"
     }
   }
 ]
