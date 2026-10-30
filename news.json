@@ -1,5 +1,39 @@
 [
   {
+    "title": "David Raya: \"He hecho un año perfecto\"",
+    "url": "https://www.marca.com/futbol/2026/10/30/david-raya-he-hecho-ano-perfect-video.html",
+    "summary": "",
+    "published": "Fri, 30 Oct 2026 11:32:57 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/20/g58tspp2KNk.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ديفيد رايا: \"لقد قضيت عامًا مثاليًا\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "ديفيد رايا: \"لقد قضيت عامًا مثاليًا\"",
+    "post_text": "🚨 ديفيد رايا: \"لقد قضيت عامًا مثاليًا\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093219716676672",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديفيد_رايا_لقد_قضيت_عامًا_مثاليًا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/30/david-raya-he-hecho-ano-perfect-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4vIIC4Kzxx7yPsWz77CcsE"
+    }
+  },
+  {
     "title": "Koundé sigue al margen en la previa del encuentro contra el Alavés",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/30/kounde-tampoco-estara-alaves.html",
     "summary": "El francés está descartado, a falta de confirmación oficial",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYFmemOdS-s2BYNRFwYfGCD"
-    }
-  },
-  {
-    "title": "Pendientes de Fede; mañana, pruebas",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/pendientes-fede-manana-pruebas.html",
-    "summary": "El uruguayo se retiró lesionado del Clásico por molestias musculares pendientes de examen",
-    "published": "Mon, 26 Oct 2026 10:51:36 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf21df6fe28.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أقراط الإيمان؛ غدا الاختبارات",
-    "arabic_summary": "اعتزل الأوروغوياني مصابًا من الكلاسيكو بسبب آلام في العضلات في انتظار الفحص",
-    "translation_status": "translated",
-    "post_title": "أقراط الإيمان؛ غدا الاختبارات",
-    "post_text": "🚨 أقراط الإيمان؛ غدا الاختبارات\n\n📝 اعتزل الأوروغوياني مصابًا من الكلاسيكو بسبب آلام في العضلات في انتظار الفحص\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089254697073174",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أقراط_الإيمان؛_غدا_الاختبارات.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/pendientes-fede-manana-pruebas.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AaoKNOoItdzZr3QYmru-L9A"
     }
   }
 ]
