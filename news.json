@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valdebebas tiene otra joya: el fenómeno Alberto Ruiz",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/30/valdebebas-joya-fenomeno-alberto-ruiz.html",
+    "summary": "Ocho goles y una final mundialista avalan la irrupción del zurdo del Madrid, que lleva años creciendo en La Fábrica a pasos agigantados",
+    "published": "Fri, 30 Oct 2026 10:17:04 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae3b1b58d20e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فالديبيباس لديه جوهرة أخرى: الظاهرة ألبرتو رويز",
+    "arabic_summary": "ثمانية أهداف ونهائي كأس العالم ساهم في ظهور اللاعب الأعسر في ريال مدريد، والذي كان ينمو بسرعة كبيرة في لا فابريكا منذ سنوات.",
+    "translation_status": "translated",
+    "post_title": "فالديبيباس لديه جوهرة أخرى: الظاهرة ألبرتو رويز",
+    "post_text": "🚨 فالديبيباس لديه جوهرة أخرى: الظاهرة ألبرتو رويز\n\n📝 ثمانية أهداف ونهائي كأس العالم ساهم في ظهور اللاعب الأعسر في ريال مدريد، والذي كان ينمو بسرعة كبيرة في لا فابريكا منذ سنوات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093187640013213",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالديبيباس_لديه_جوهرة_أخرى_الظاهرة_ألبرتو_رويز.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/30/valdebebas-joya-fenomeno-alberto-ruiz.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVRcwv4V9HFoNoMKP8bbSY8"
+    }
+  },
+  {
     "title": "Detenido un entrenador del Romo FC por delitos contra la libertad sexual de menores",
     "url": "https://www.marca.com/futbol/2026/10/30/detenido-entrenador-romo-fc-delitos-libertad-sexual-menores.html",
     "summary": "Se han interpuesto cuatro denuncias contra el técnico del equipo de Getxo, de 30 años",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AY68aMdfq7PZ5QgH8NpGUTA"
-    }
-  },
-  {
-    "title": "Dele Alli trolea a John Terry durante el tropezón de Xabi Alonso en Stamford Bridge",
-    "url": "https://www.marca.com/futbol/premier-league/2026/10/26/dele-trolea-john-terry-durante-tropezon-xabi-alonso-stamford-bridg-video.html",
-    "summary": "",
-    "published": "Mon, 26 Oct 2026 10:18:27 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/Do1gtnc3r8f5aB.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ديلي آلي يسخر من جون تيري خلال رحلة تشابي ألونسو إلى ستامفورد بريدج",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "ديلي آلي يسخر من جون تيري خلال رحلة تشابي ألونسو إلى ستامفورد بريدج",
-    "post_text": "🚨 ديلي آلي يسخر من جون تيري خلال رحلة تشابي ألونسو إلى ستامفورد بريدج\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089224947076149",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديلي_آلي_يسخر_من_جون_تيري_خلال_رحلة_تشابي_ألونسو_إلى_ستامفورد_بريدج.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/10/26/dele-trolea-john-terry-durante-tropezon-xabi-alonso-stamford-bridg-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABRAz7u41yQutjHxYHD_1a1"
     }
   }
 ]
