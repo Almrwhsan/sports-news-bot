@@ -1,5 +1,39 @@
 [
   {
+    "title": "Güler y Courtois, listos para jugar en Santander",
+    "url": "https://as.com/futbol/primera/guler-y-courtois-listos-para-jugar-en-santander-f202610-n/",
+    "summary": "El turco y el belga entrenaron con el grupo. Valverde aún siguió trabajo específico, pero estará en Santander.",
+    "published": "Fri, 30 Oct 2026 11:53:13 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/AS5VFEPISRAA7BQTHCEFVKNXIA.jpg?auth=e1b089235575df2d1da50e7ff17ee7869989a9f15fd28abd3eb8c89398bda313",
+    "media_type": "image/jpeg",
+    "arabic_title": "جولر وكورتوا جاهزان للعب في سانتاندير",
+    "arabic_summary": "وتدرب التركي والبلجيكي مع المجموعة. لا يزال فالفيردي يواصل العمل المحدد، لكنه سيكون في سانتاندير.",
+    "translation_status": "translated",
+    "post_title": "جولر وكورتوا جاهزان للعب في سانتاندير",
+    "post_text": "🚨 جولر وكورتوا جاهزان للعب في سانتاندير\n\n📝 وتدرب التركي والبلجيكي مع المجموعة. لا يزال فالفيردي يواصل العمل المحدد، لكنه سيكون في سانتاندير.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092973620034615",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جولر_وكورتوا_جاهزان_للعب_في_سانتاندير.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/guler-y-courtois-listos-para-jugar-en-santander-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASiGG65nVxiJK4_hO5K47ia"
+    }
+  },
+  {
     "title": "Rueda de prensa de Hansi Flick, en directo: declaraciones previas al Barcelona - Alavés de LaLiga, en vivo",
     "url": "https://as.com/futbol/primera/rueda-de-prensa-de-hansi-flick-en-directo-declaraciones-previas-al-barcelona-alaves-de-laliga-en-vivo-f202610-d/",
     "summary": "Sigue en directo la rueda de prensa de Hansi Flick previa al Barcelona - Alavés, partido de la jornada 11 de LaLiga EA Sports.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhhA-GDq0k8e1lUn7ijqIYu"
-    }
-  },
-  {
-    "title": "Cinco candidatos, mucho misterio",
-    "url": "https://as.com/futbol/internacional/cinco-candidatos-mucho-misterio-f202610-n/",
-    "summary": "El fútbol de Lamine y Kane, los goles de Mbappé, los Mundiales de Rodri y Messi… Todos tienen argumentos de cara al Balón de Oro 2026 que se entregará por 1ª vez en Londres.",
-    "published": "Mon, 26 Oct 2026 09:05:52 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UUHQCUBXGNGOVORUVZ5DQB4NT4.jpg?auth=d5e42e6e63fa02ecc58176e12a5a0052c4441dbaa41df246ff04b28edec12221",
-    "media_type": "image/jpeg",
-    "arabic_title": "خمسة مرشحين، الكثير من الغموض",
-    "arabic_summary": "كرة قدم لامين وكين، أهداف مبابي، كأس العالم لرودري وميسي... كلهم ​​لديهم حجج لجائزة الكرة الذهبية 2026 التي سيتم منحها لأول مرة في لندن.",
-    "translation_status": "translated",
-    "post_title": "خمسة مرشحين، الكثير من الغموض",
-    "post_text": "🚨 خمسة مرشحين، الكثير من الغموض\n\n📝 كرة قدم لامين وكين، أهداف مبابي، كأس العالم لرودري وميسي... كلهم ​​لديهم حجج لجائزة الكرة الذهبية 2026 التي سيتم منحها لأول مرة في لندن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089012373764073",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خمسة_مرشحين،_الكثير_من_الغموض.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/cinco-candidatos-mucho-misterio-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1YWwc8JCkUhwwqJKMfbO4Q"
     }
   }
 ]
