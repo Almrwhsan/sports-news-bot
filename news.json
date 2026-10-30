@@ -1,5 +1,39 @@
 [
   {
+    "title": "José Alberto, entrenador del Racing: “El Madrid no necesita el juego para ganar”",
+    "url": "https://as.com/futbol/primera/jose-alberto-entrenador-del-racing-el-madrid-no-necesita-el-juego-para-ganar-f202610-n/",
+    "summary": "El técnico asturiano destaca que “primero encuentra los goles y luego el juego”, al tiempo que insiste en que deben mantener su estilo, pero que “ser valientes no implica ser descerebrados”.",
+    "published": "Fri, 30 Oct 2026 13:11:34 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2CQFALXXWNONDGOWPCDKJZYPDQ.jpg?auth=92935526e1fe1bd3788df95aeee7b6ebf5aeb630877fe645eaa329885535ec5b",
+    "media_type": "image/jpeg",
+    "arabic_title": "خوسيه ألبرتو، مدرب راسينغ: \"ريال مدريد لا يحتاج إلى المباراة للفوز\"",
+    "arabic_summary": "ويؤكد المدرب الأستوري أن «العثور على الأهداف أولا ثم المباراة»، فيما يصر على ضرورة الحفاظ على أسلوبهم، لكن «الشجاعة لا تعني أن تكون بلا عقل».",
+    "translation_status": "translated",
+    "post_title": "خوسيه ألبرتو، مدرب راسينغ: \"ريال مدريد لا يحتاج إلى المباراة للفوز\"",
+    "post_text": "🚨 خوسيه ألبرتو، مدرب راسينغ: \"ريال مدريد لا يحتاج إلى المباراة للفوز\"\n\n📝 ويؤكد المدرب الأستوري أن «العثور على الأهداف أولا ثم المباراة»، فيما يصر على ضرورة الحفاظ على أسلوبهم، لكن «الشجاعة لا تعني أن تكون بلا عقل».\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093040966694547",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خوسيه_ألبرتو،_مدرب_راسينغ_ريال_مدريد_لا_يحتاج_إلى_المباراة_للفوز.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/jose-alberto-entrenador-del-racing-el-madrid-no-necesita-el-juego-para-ganar-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AArBapSvh39ZJRRLT-aoJIY"
+    }
+  },
+  {
     "title": "Iraola afina a su Liverpool: “Estamos en el camino correcto… pero no todavía donde queremos estar”",
     "url": "https://www.marca.com/futbol/premier-league/2026/10/30/iraola-afina-liverpool-camino-correcto-todavia-queremos.html",
     "summary": "Los ‘reds’ afrontan el próximo duelo contra el Arsenal después de encadenar cinco victorias consecutivas entre todas las competiciones",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnizOrmrF-juO5unpGk45Zm"
-    }
-  },
-  {
-    "title": "Lamine Yamal, un Clásico para olvidar",
-    "url": "https://as.com/futbol/primera/lamine-yamal-un-clasico-para-olvidar-f202610-n/",
-    "summary": "Cucurella lo acabó desquiciando y dio la sensación de impotencia en muchas fases del partido.",
-    "published": "Mon, 26 Oct 2026 10:52:53 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261025/1229842_231259_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "لامين يامال، كلاسيكي للنسيان",
-    "arabic_summary": "انتهى الأمر بـ Cucurella إلى تفكيكه ومنحه الشعور بالعجز في العديد من مراحل اللعبة.",
-    "translation_status": "translated",
-    "post_title": "لامين يامال، كلاسيكي للنسيان",
-    "post_text": "🚨 لامين يامال، كلاسيكي للنسيان\n\n📝 انتهى الأمر بـ Cucurella إلى تفكيكه ومنحه الشعور بالعجز في العديد من مراحل اللعبة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089101053755205",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لامين_يامال،_كلاسيكي_للنسيان.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAspau-Z7zn2WWUKrSkwK39"
     }
   }
 ]
