@@ -1,5 +1,39 @@
 [
   {
+    "title": "Anderson weighing up future after being 'shocked' by Lancashire exit",
+    "url": "https://www.skysports.com/cricket/news/12040/13605721/james-anderson-lancashire-legend-weighing-up-cricketing-future-after-exit-from-boyhood-club-after-26-years",
+    "summary": "James Anderson is weighing up his future - whether that involves playing cricket or \"something different\" - after being told his Lancashire contract would not be renewed.",
+    "published": "Fri, 30 Oct 2026 11:20:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/25/12/1920x1080/skysports-james-anderson-lancashire_7108904.jpg?20251213124557",
+    "media_type": "image/jpg",
+    "arabic_title": "أندرسون يفكر في المستقبل بعد أن \"صدم\" بخروج لانكشاير",
+    "arabic_summary": "يدرس جيمس أندرسون مستقبله - سواء كان ذلك يتضمن لعب الكريكيت أو \"شيئًا مختلفًا\" - بعد أن تم إخباره بأن عقده مع لانكشاير لن يتم تجديده.",
+    "translation_status": "translated",
+    "post_title": "أندرسون يفكر في المستقبل بعد أن \"صدم\" بخروج لانكشاير",
+    "post_text": "🚨 أندرسون يفكر في المستقبل بعد أن \"صدم\" بخروج لانكشاير\n\n📝 يدرس جيمس أندرسون مستقبله - سواء كان ذلك يتضمن لعب الكريكيت أو \"شيئًا مختلفًا\" - بعد أن تم إخباره بأن عقده مع لانكشاير لن يتم تجديده.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093093936689250",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أندرسون_يفكر_في_المستقبل_بعد_أن_صدم_بخروج_لانكشاير.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/news/12040/13605721/james-anderson-lancashire-legend-weighing-up-cricketing-future-after-exit-from-boyhood-club-after-26-years",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQOQ26t0amTPnkCPRcNDGEX"
+    }
+  },
+  {
     "title": "Tennis scores: British No 1 Fery takes on world No 1 Zverev in Vienna",
     "url": "https://www.skysports.com/tennis/scores-schedule",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFsJjvqFFYXFT24TioMEyy7"
-    }
-  },
-  {
-    "title": "Iker Casillas bendice a Mourinho tras el Clásico después de su \"matrimonio con Mou que terminó mal\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/iker-casillas-bendice-mourinho-clasico-despues-matrimonio-mou-termino-mal.html",
-    "summary": "\"Hay Liga. ¡Muy bien el Real Madrid. Planteamiento muy bueno de Mourinho\"",
-    "published": "Mon, 26 Oct 2026 07:45:40 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adef6cf379ae.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إيكر كاسياس يبارك مورينيو بعد الكلاسيكو بعد \"زواجه من مو الذي انتهى بشكل سيء\"",
-    "arabic_summary": "\"هناك دوري. ريال مدريد جيد جدًا. نهج جيد جدًا من مورينيو\"",
-    "translation_status": "translated",
-    "post_title": "إيكر كاسياس يبارك مورينيو بعد الكلاسيكو بعد \"زواجه من مو الذي انتهى بشكل سيء\"",
-    "post_text": "🚨 إيكر كاسياس يبارك مورينيو بعد الكلاسيكو بعد \"زواجه من مو الذي انتهى بشكل سيء\"\n\n📝 \"هناك دوري. ريال مدريد جيد جدًا. نهج جيد جدًا من مورينيو\"\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089136223751688",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيكر_كاسياس_يبارك_مورينيو_بعد_الكلاسيكو_بعد_زواجه_من_مو_الذي_انتهى_بشكل_سيء.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/iker-casillas-bendice-mourinho-clasico-despues-matrimonio-mou-termino-mal.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AN54-F64fpMlcqGiTpI70o3"
     }
   }
 ]
