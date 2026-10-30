@@ -1,5 +1,39 @@
 [
   {
+    "title": "El derbi recreará la mítica imagen de 1976",
+    "url": "https://www.marca.com/futbol/athletic/2026/10/30/derbi-recreara-mitica-imagen-1976.html",
+    "summary": "Athletic y Real Sociedad acuerdan homenajear la foto de hace medio siglo con la misma bandera y mismos protagonistas",
+    "published": "Fri, 30 Oct 2026 13:08:00 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/gUiOQ1gvC_Xya2gbG.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الديربي سيعيد خلق الصورة الأسطورية لعام 1976",
+    "arabic_summary": "أتلتيك وريال سوسيداد يتفقان على تكريم الصورة منذ نصف قرن بنفس العلم ونفس الأبطال",
+    "translation_status": "translated",
+    "post_title": "الديربي سيعيد خلق الصورة الأسطورية لعام 1976",
+    "post_text": "🚨 الديربي سيعيد خلق الصورة الأسطورية لعام 1976\n\n📝 أتلتيك وريال سوسيداد يتفقان على تكريم الصورة منذ نصف قرن بنفس العلم ونفس الأبطال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093288970003080",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الديربي_سيعيد_خلق_الصورة_الأسطورية_لعام_1976.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/athletic/2026/10/30/derbi-recreara-mitica-imagen-1976.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AWlRMD1w9ZpIlWh0xdnY78S"
+    }
+  },
+  {
     "title": "El vestuario del Barça homenajea a Dani Olmo por sus 100 partidos en el Barça",
     "url": "https://www.marca.com/futbol/barcelona/2026/10/30/vestuario-barca-homenajea-dani-olmo-100-partidos-barca.html",
     "summary": "Los celebró contra el PSG, encuentro en el que se lesionó",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AavGRebw4mQ01rMMwXyr5oT"
-    }
-  },
-  {
-    "title": "Mbappé le recorta un gol a Raphinha tras el Clásico",
-    "url": "https://www.marca.com/futbol/premios-marca/2026/10/26/mbappe-le-recorta-gol-raphinha-clasico.html",
-    "summary": "Con los dos goles del Camp Nou, el se queda a dos goles del brasileño",
-    "published": "Mon, 26 Oct 2026 12:35:42 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf31a5b0392.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "مبابي يتراجع بهدف من رافينيا بعد الكلاسيكو",
-    "arabic_summary": "وبهدفيه في الكامب نو، يتأخر بهدفين عن البرازيلي",
-    "translation_status": "translated",
-    "post_title": "مبابي يتراجع بهدف من رافينيا بعد الكلاسيكو",
-    "post_text": "🚨 مبابي يتراجع بهدف من رافينيا بعد الكلاسيكو\n\n📝 وبهدفيه في الكامب نو، يتأخر بهدفين عن البرازيلي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089358827062761",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي_يتراجع_بهدف_من_رافينيا_بعد_الكلاسيكو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premios-marca/2026/10/26/mbappe-le-recorta-gol-raphinha-clasico.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuuebZGVHAEsjUeGS-rKfRF"
     }
   }
 ]
