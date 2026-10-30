@@ -1,5 +1,39 @@
 [
   {
+    "title": "El nuevo Metro Bernabéu toma forma: así marchan las obras",
+    "url": "https://as.com/actualidad/fotorrelato/el-nuevo-metro-bernabeu-toma-forma-asi-marchan-las-obras-f202610-f/",
+    "summary": "Recorrido fotográfico por el estado actual de la remodelación de la estación junto al estadio madridista.",
+    "published": "Fri, 30 Oct 2026 11:01:00 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2JD3E5CTIVL25L6FXXMKVDBUMA.jpg?auth=ce2720ae72314bcd446596685da713d5ec48e5df9c5a1565f8990c97e9157f16",
+    "media_type": "image/jpeg",
+    "arabic_title": "يتشكل مترو البرنابيو الجديد: هكذا تتقدم الأعمال",
+    "arabic_summary": "جولة فوتوغرافية للوضع الحالي لإعادة تصميم المحطة بجوار ملعب مدريد.",
+    "translation_status": "translated",
+    "post_title": "يتشكل مترو البرنابيو الجديد: هكذا تتقدم الأعمال",
+    "post_text": "🚨 يتشكل مترو البرنابيو الجديد: هكذا تتقدم الأعمال\n\n📝 جولة فوتوغرافية للوضع الحالي لإعادة تصميم المحطة بجوار ملعب مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092936246705019",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتشكل_مترو_البرنابيو_الجديد_هكذا_تتقدم_الأعمال.png",
+    "image_type": "real",
+    "image_source": "https://as.com/actualidad/fotorrelato/el-nuevo-metro-bernabeu-toma-forma-asi-marchan-las-obras-f202610-f/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6zX3vz69dwYhaM-qTaw4TW"
+    }
+  },
+  {
     "title": "Koundé sigue ‘desaparecido’",
     "url": "https://as.com/futbol/kounde-sigue-desaparecido-f202610-n/",
     "summary": "El defensa francés no se ejercita con el grupo y será baja para el sábado contra el Alavés, sumando ya dos semanas fuera de los terrenos de juego por un pequeño esguince en el tobillo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHeZxsqlw1By5sxNV5fYsIU"
-    }
-  },
-  {
-    "title": "Apuestas y pronósticos PSG vs Lyon",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/23/apuestas-pronosticos-psg-vs-lyon.html",
-    "summary": "Retabet te ofrece el pronóstico del PSG vs Lyon, que se juega este domingo 25 de octubre en el Parque de los Príncipes, correspondiente a la octava jornada de la Ligue 1 2026/27",
-    "published": "Fri, 23 Oct 2026 19:39:17 +0200",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "ligue_1",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/23/6adb619e8221a.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الرهان والتوقعات لمباراة باريس سان جيرمان ضد ليون",
-    "arabic_summary": "يقدم لكم موقع \"ريتابيت\" توقع مباراة باريس سان جيرمان ضد ليون، والتي ستقام يوم الأحد 25 أكتوبر على ملعب بارك دي برينس، الموافق لليوم الثامن من الدوري الفرنسي 2026/27.",
-    "translation_status": "translated",
-    "post_title": "الرهان والتوقعات لمباراة باريس سان جيرمان ضد ليون",
-    "post_text": "🚨 الرهان والتوقعات لمباراة باريس سان جيرمان ضد ليون\n\n📝 يقدم لكم موقع \"ريتابيت\" توقع مباراة باريس سان جيرمان ضد ليون، والتي ستقام يوم الأحد 25 أكتوبر على ملعب بارك دي برينس، الموافق لليوم الثامن من الدوري الفرنسي 2026/27.\n\n🏷️ الدوري الفرنسي\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088983103767000",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الرهان_والتوقعات_لمباراة_باريس_سان_جيرمان_ضد_ليون.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/23/apuestas-pronosticos-psg-vs-lyon.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnMj9jAOfEi0aAvSEw26rNk"
     }
   }
 ]
