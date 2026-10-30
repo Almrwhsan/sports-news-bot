@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mika Mármol, la roca que sostiene el liderato del Feyenoord: \"Mejora al equipo desde el primer momento\"",
+    "url": "https://www.marca.com/futbol/2026/10/30/mika-marmol-roca-sostiene-liderato-feyenoord-mejora-equipo-primer-momento.html",
+    "summary": "El ex de Las Palmas brilla alternando la posición de lateral izquierdo y la de central",
+    "published": "Fri, 30 Oct 2026 13:18:31 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae48ad60d4f8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميكا مارمول، الصخرة التي تحمل قيادة فينورد: \"إنه يحسن الفريق منذ اللحظة الأولى\"",
+    "arabic_summary": "يتألق لاعب لاس بالماس السابق من خلال التناوب في مركز الظهير الأيسر وقلب الدفاع",
+    "translation_status": "translated",
+    "post_title": "ميكا مارمول، الصخرة التي تحمل قيادة فينورد: \"إنه يحسن الفريق منذ اللحظة الأولى\"",
+    "post_text": "🚨 ميكا مارمول، الصخرة التي تحمل قيادة فينورد: \"إنه يحسن الفريق منذ اللحظة الأولى\"\n\n📝 يتألق لاعب لاس بالماس السابق من خلال التناوب في مركز الظهير الأيسر وقلب الدفاع\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093316996666944",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميكا_مارمول،_الصخرة_التي_تحمل_قيادة_فينورد_إنه_يحسن_الفريق_منذ_اللحظة_الأولى.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/30/mika-marmol-roca-sostiene-liderato-feyenoord-mejora-equipo-primer-momento.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AC-0glF1fCNQ4k_JC-dkc-O"
+    }
+  },
+  {
     "title": "El Barça, el rival que cambió la vida de Koski",
     "url": "https://www.marca.com/futbol/alaves/2026/10/30/barca-rival-cambio-vida-koski.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhTcULCZbdlUkAmuwTcouPA"
-    }
-  },
-  {
-    "title": "Mbappé, Cucurella y Diomande, a la gala del Balón de Oro",
-    "url": "https://as.com/futbol/mbappe-cucurella-y-diomande-a-la-gala-del-balon-de-oro-f202610-n/",
-    "summary": "La representación oficial del Real Madrid ha partido hacia Londres, con los tres junto a Felicia Schröder y con Emilio Butragueño como cabeza de expedición.",
-    "published": "Mon, 26 Oct 2026 12:27:10 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KCX3QHXB6ZFH3PT7WSDTNTNZ4M.JPG?auth=d73ca90762a63644ae4f5c52fb631361dd2909550924ac3ededb165cc85302a6",
-    "media_type": "image/jpeg",
-    "arabic_title": "مبابي وكوكوريلا وديوماندي في حفل الكرة الذهبية",
-    "arabic_summary": "غادر الممثل الرسمي لريال مدريد إلى لندن، برفقة الثلاثة، مع فيليسيا شرودر وإميليو بوتراغينيو كرئيس للبعثة.",
-    "translation_status": "translated",
-    "post_title": "مبابي وكوكوريلا وديوماندي في حفل الكرة الذهبية",
-    "post_text": "🚨 مبابي وكوكوريلا وديوماندي في حفل الكرة الذهبية\n\n📝 غادر الممثل الرسمي لريال مدريد إلى لندن، برفقة الثلاثة، مع فيليسيا شرودر وإميليو بوتراغينيو كرئيس للبعثة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089401323725178",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي_وكوكوريلا_وديوماندي_في_حفل_الكرة_الذهبية.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/mbappe-cucurella-y-diomande-a-la-gala-del-balon-de-oro-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AADTQyVRw-cBZCwEvJqOdN_"
     }
   }
 ]
