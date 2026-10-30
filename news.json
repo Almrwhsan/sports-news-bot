@@ -1,5 +1,39 @@
 [
   {
+    "title": "La libertad de Marcos Llorente",
+    "url": "https://as.com/opinion/la-libertad-de-marcos-llorente-f202610-n/",
+    "summary": "El jugador y compañía han ejercido su libertad, pero el resto también podemos hacer uso de la nuestra para reprobar su comportamiento por inapropiado.",
+    "published": "Fri, 30 Oct 2026 00:44:18 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/I57OLMUDBZM7RDBJFARPTU6ESM.jpg?auth=0579876afd6bff172737c44f7dcdea5637f24928e36d8aa791da8a22315d55e7",
+    "media_type": "image/jpeg",
+    "arabic_title": "حرية ماركوس يورينتي",
+    "arabic_summary": "لقد مارس اللاعب والشركة حريتهم، ولكن يمكن لبقيتنا أيضًا استخدام حريتنا لإدانة سلوكهم باعتباره غير لائق.",
+    "translation_status": "translated",
+    "post_title": "حرية ماركوس يورينتي",
+    "post_text": "🚨 حرية ماركوس يورينتي\n\n📝 لقد مارس اللاعب والشركة حريتهم، ولكن يمكن لبقيتنا أيضًا استخدام حريتنا لإدانة سلوكهم باعتباره غير لائق.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092499676748676",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حرية_ماركوس_يورينتي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/la-libertad-de-marcos-llorente-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARws5n33v1uM07-O-2Jn9_I"
+    }
+  },
+  {
     "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
     "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
     "summary": "Aston Martin's Fernando Alonso has doubled down on his criticism of \"low level\" Formula 1 drivers who have a \"lack of talent\" following his collision with Williams' Alex Albon in Austin.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0767T0WfDuze_TCtJ_J815"
-    }
-  },
-  {
-    "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
-    "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
-    "published": "Sat, 05 Sep 2026 19:08:30 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/28ce1350-a95e-11f1-99c3-dba02712eb49.jpg",
-    "media_type": null,
-    "arabic_title": "كان لدى آرسنال أكثر من 20 لاعباً في القائمة المختصرة للاستفادة من الفوز باللقب",
-    "arabic_summary": "يذهب مراسل كرة القدم الكبير سامي مقبل إلى محاولة أرسنال للاستفادة من لقب الدوري الإنجليزي الممتاز وتعزيز فريقهم هذا الصيف.",
-    "translation_status": "translated",
-    "post_title": "كان لدى آرسنال أكثر من 20 لاعباً في القائمة المختصرة للاستفادة من الفوز باللقب",
-    "post_text": "🚨 كان لدى آرسنال أكثر من 20 لاعباً في القائمة المختصرة للاستفادة من الفوز باللقب\n\n📝 يذهب مراسل كرة القدم الكبير سامي مقبل إلى محاولة أرسنال للاستفادة من لقب الدوري الإنجليزي الممتاز وتعزيز فريقهم هذا الصيف.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088602277138416",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كان_لدى_آرسنال_أكثر_من_20_لاعباً_في_القائمة_المختصرة_للاستفادة_من_الفوز_باللقب.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASwi_15DzEyo90sGGn-ndOu"
     }
   }
 ]
