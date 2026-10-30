@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pedro Porro reconoce el \"interés\" de Madrid y Barcelona pero aclara que nadie le ha hecho una oferta",
+    "url": "https://www.marca.com/futbol/2026/10/30/pedro-porro-reconoce-interes-madrid-barcelona-aclara-nadie-le-hecho-oferta.html",
+    "summary": "\"¿Si me iría mejor el juego del Real Madrid o el del Barcelona? No sé, conmigo no va, dejo que opine la gente\"",
+    "published": "Fri, 30 Oct 2026 05:37:57 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae41c7b17258.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بيدرو بورو يعترف بـ\"اهتمام\" مدريد وبرشلونة لكنه يوضح أن أحداً لم يقدم له عرضاً",
+    "arabic_summary": "\"هل ستكون مباراة ريال مدريد أو برشلونة أفضل بالنسبة لي؟ لا أعرف، هذا لا يناسبني، سأترك للناس إبداء آرائهم\".",
+    "translation_status": "translated",
+    "post_title": "بيدرو بورو يعترف بـ\"اهتمام\" مدريد وبرشلونة لكنه يوضح أن أحداً لم يقدم له عرضاً",
+    "post_text": "🚨 بيدرو بورو يعترف بـ\"اهتمام\" مدريد وبرشلونة لكنه يوضح أن أحداً لم يقدم له عرضاً\n\n📝 \"هل ستكون مباراة ريال مدريد أو برشلونة أفضل بالنسبة لي؟ لا أعرف، هذا لا يناسبني، سأترك للناس إبداء آرائهم\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092657476732896",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيدرو_بورو_يعترف_بـاهتمام_مدريد_وبرشلونة_لكنه_يوضح_أن_أحداً_لم_يقدم_له_عرضاً.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/30/pedro-porro-reconoce-interes-madrid-barcelona-aclara-nadie-le-hecho-oferta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A763qHyVXWXq8HfcABVxTYr"
+    }
+  },
+  {
     "title": "La libertad de Marcos Llorente",
     "url": "https://as.com/opinion/la-libertad-de-marcos-llorente-f202610-n/",
     "summary": "El jugador y compañía han ejercido su libertad, pero el resto también podemos hacer uso de la nuestra para reprobar su comportamiento por inapropiado.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOf9uw3BUevvlK4yOGuZxtT"
-    }
-  },
-  {
-    "title": "Valverde, otro recital en el lateral y 40 minutos lesionado: \"El míster me preguntó y le dije que seguía...\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/valverde-recital-lateral-40-minutos-lesionado-mister-me-pregunto-le-dije-seguia.html",
-    "summary": "El uruguayo tuvo que ser sustituido por molestias",
-    "published": "Mon, 26 Oct 2026 00:32:30 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6ade912db7842.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فالفيردي، تلاوة أخرى على الجانب و40 دقيقة مصابًا: \"سألني المدرب وأخبرته أنني مازلت...\"",
-    "arabic_summary": "كان لا بد من استبدال الأوروغواياني بسبب الانزعاج",
-    "translation_status": "translated",
-    "post_title": "فالفيردي، تلاوة أخرى على الجانب و40 دقيقة مصابًا: \"سألني المدرب وأخبرته أنني مازلت...\"",
-    "post_text": "🚨 فالفيردي، تلاوة أخرى على الجانب و40 دقيقة مصابًا: \"سألني المدرب وأخبرته أنني مازلت...\"\n\n📝 كان لا بد من استبدال الأوروغواياني بسبب الانزعاج\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088605083804802",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالفيردي،_تلاوة_أخرى_على_الجانب_و40_دقيقة_مصابًا_سألني_المدرب_وأخبرته_أنني_مازلت.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/valverde-recital-lateral-40-minutos-lesionado-mister-me-pregunto-le-dije-seguia.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0767T0WfDuze_TCtJ_J815"
     }
   }
 ]
