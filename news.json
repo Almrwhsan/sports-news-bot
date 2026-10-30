@@ -1,5 +1,39 @@
 [
   {
+    "title": "El 'rinascimento' de Álex Jiménez: \"Vine a la Fiorentina para mostrarle a todo el mundo el futbolista que soy\"",
+    "url": "https://www.marca.com/futbol/liga-italiana/2026/10/30/rinascimento-alex-jimenez-vine-fiorentina-mostrarle-mundo-futbolista.html",
+    "summary": "El lateral español es el jugador de la Fiore que más goles ha producido (6) esta temporada",
+    "published": "Fri, 30 Oct 2026 11:41:03 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae473d52d2de.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"نهضة\" أليكس خيمينيز: \"لقد جئت إلى فيورنتينا لأظهر للجميع كم أنا لاعب كرة قدم\"",
+    "arabic_summary": "الظهير الإسباني هو لاعب فيوري الذي سجل أكبر عدد من الأهداف (6) هذا الموسم",
+    "translation_status": "translated",
+    "post_title": "\"نهضة\" أليكس خيمينيز: \"لقد جئت إلى فيورنتينا لأظهر للجميع كم أنا لاعب كرة قدم\"",
+    "post_text": "🚨 \"نهضة\" أليكس خيمينيز: \"لقد جئت إلى فيورنتينا لأظهر للجميع كم أنا لاعب كرة قدم\"\n\n📝 الظهير الإسباني هو لاعب فيوري الذي سجل أكبر عدد من الأهداف (6) هذا الموسم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093239130008064",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نهضة_أليكس_خيمينيز_لقد_جئت_إلى_فيورنتينا_لأظهر_للجميع_كم_أنا_لاعب_كرة_قدم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/liga-italiana/2026/10/30/rinascimento-alex-jimenez-vine-fiorentina-mostrarle-mundo-futbolista.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVwpzbQucOPPiU7EwvxLN6d"
+    }
+  },
+  {
     "title": "Rummenigge reacciona con humor al clamoroso error en el Balón de Oro: \"Al final, quedó en la familia\"",
     "url": "https://www.marca.com/futbol/balon-oro/2026/10/30/rummenigge-reacciona-humor-clamoroso-error-balon-oro-final-quedo-familia.html",
     "summary": "La organización del certamen galo pidieron disculpas al legendario futbolista alemán por usar la imagen de su hermano en lugar de la suya en el vídeo oficial",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJIYUT3_XhkqINyi1HaRWFc"
-    }
-  },
-  {
-    "title": "¡El auténtico golazo de Aleksandr Selikhov! El portero que marcó de falta en la Segunda División Rusa",
-    "url": "https://www.marca.com/futbol/2026/10/26/autentico-golazo-aleksandr-selikhov-portero-marco-falta-segunda-division-rusa-video.html",
-    "summary": "",
-    "published": "Mon, 26 Oct 2026 11:12:44 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/gO3rw1gtoTGDqHOqN.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "هدف الكسندر سيليخوف الحقيقي! حارس المرمى الذي سجل من ركلة حرة في دوري الدرجة الثانية الروسي",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "هدف الكسندر سيليخوف الحقيقي! حارس المرمى الذي سجل من ركلة حرة في دوري الدرجة الثانية الروسي",
-    "post_text": "🚨 هدف الكسندر سيليخوف الحقيقي! حارس المرمى الذي سجل من ركلة حرة في دوري الدرجة الثانية الروسي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089293870402590",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_الكسندر_سيليخوف_الحقيقي!_حارس_المرمى_الذي_سجل_من_ركلة_حرة_في_دوري_الدرجة_الث.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/26/autentico-golazo-aleksandr-selikhov-portero-marco-falta-segunda-division-rusa-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AV_dasNZDut6Bp7_VAkLbdg"
     }
   }
 ]
