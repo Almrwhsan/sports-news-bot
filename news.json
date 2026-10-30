@@ -1,5 +1,39 @@
 [
   {
+    "title": "Inglaterra convoca al padre de Bellingham, \"el Pelé del fútbol aficionado\" por sus más de 700 goles",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/30/inglaterra-convoca-padre-bellingham-pele-futbol-aficionado-700-goles.html",
+    "summary": "Mark Bellingham (1976) ha sido convocado para jugar con la selección de veteranos de Inglaterra para jugadores de 50 años o más",
+    "published": "Fri, 30 Oct 2026 07:23:43 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae434f71ed06.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إنجلترا تستدعي والد بيلينجهام، \"بيليه هواة كرة القدم\" بسبب أهدافه التي تجاوزت 700 هدف",
+    "arabic_summary": "تم استدعاء مارك بيلينجهام (1976) للعب مع منتخب إنجلترا الأول للاعبين الذين تبلغ أعمارهم 50 عامًا فما فوق.",
+    "translation_status": "translated",
+    "post_title": "إنجلترا تستدعي والد بيلينجهام، \"بيليه هواة كرة القدم\" بسبب أهدافه التي تجاوزت 700 هدف",
+    "post_text": "🚨 إنجلترا تستدعي والد بيلينجهام، \"بيليه هواة كرة القدم\" بسبب أهدافه التي تجاوزت 700 هدف\n\n📝 تم استدعاء مارك بيلينجهام (1976) للعب مع منتخب إنجلترا الأول للاعبين الذين تبلغ أعمارهم 50 عامًا فما فوق.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093077473357563",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تستدعي_والد_بيلينجهام،_بيليه_هواة_كرة_القدم_بسبب_أهدافه_التي_تجاوزت_700_.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/30/inglaterra-convoca-padre-bellingham-pele-futbol-aficionado-700-goles.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AY0liK-p6c499BFM62lwPNU"
+    }
+  },
+  {
     "title": "Diomande en la tierra de Gento",
     "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/30/diomande-tierra-gento.html",
     "summary": "'Al otro lado del espejo', una opinión de Alfredo Relaño",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aesoaoc5LDlF1U7mcXR3Wij"
-    }
-  },
-  {
-    "title": "Mbappé, lanzado hacia su día D",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/26/mbappe-lanzado-dia-d.html",
-    "summary": "El francés llega a la gala del Balón de Oro tras decidir el Clásico y sus opciones se han duplicado en los últimos días.",
-    "published": "Mon, 26 Oct 2026 07:25:32 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/25/6ade6e0c126a4.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "مبابي، ينطلق نحو يوم النصر",
-    "arabic_summary": "يصل الفرنسي إلى حفل الكرة الذهبية بعد أن قرر الكلاسيكو وتضاعفت خياراته في الأيام الأخيرة.",
-    "translation_status": "translated",
-    "post_title": "مبابي، ينطلق نحو يوم النصر",
-    "post_text": "🚨 مبابي، ينطلق نحو يوم النصر\n\n📝 يصل الفرنسي إلى حفل الكرة الذهبية بعد أن قرر الكلاسيكو وتضاعفت خياراته في الأيام الأخيرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089128073752503",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي،_ينطلق_نحو_يوم_النصر.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/26/mbappe-lanzado-dia-d.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbhCoqI7cOeKCvNGINyB84L"
     }
   }
 ]
