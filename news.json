@@ -1,5 +1,39 @@
 [
   {
+    "title": "Liverpool latest: The more we win, the better we'll become, says Iraola",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "summary": "",
+    "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+    "media_type": "image/jpg",
+    "arabic_title": "أحدث أخبار ليفربول: كلما فزنا أكثر، كلما أصبحنا أفضل، كما يقول إيرولا",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "أحدث أخبار ليفربول: كلما فزنا أكثر، كلما أصبحنا أفضل، كما يقول إيرولا",
+    "post_text": "🚨 أحدث أخبار ليفربول: كلما فزنا أكثر، كلما أصبحنا أفضل، كما يقول إيرولا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093427269989250",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أحدث_أخبار_ليفربول_كلما_فزنا_أكثر،_كلما_أصبحنا_أفضل،_كما_يقول_إيرولا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQIk1Ro9Wnmy7q9Z7APHXvT"
+    }
+  },
+  {
     "title": "Zakharyan apunta a perderse el derbi",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/10/30/real-acerca-derbi-bajas.html",
     "summary": "El centrocampista ruso sufrió un esguince de tobillo en el entrenamiento del jueves y, tras no entrenar hoy, mañana probará para ver si puede estar o no a disposición de Matarazzo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AmBcVhXoa4YRKkmZ3786Udn"
-    }
-  },
-  {
-    "title": "Fearnley retires injured to give Fery victory at Vienna Open",
-    "url": "https://www.skysports.com/tennis/news/12040/13604099/jacob-fearnley-retires-hurt-against-arthur-fery-at-vienna-open-as-harriet-dart-extends-winning-run",
-    "summary": "Jacob Fearnley retired with an injury after losing 5-1 in the first set against Arthur Fery to give his fellow countryman a place in the second round at the Vienna Open.",
-    "published": "Mon, 26 Oct 2026 17:20:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-arthur-fery-tennis_7338317.jpg?20260902002640",
-    "media_type": "image/jpg",
-    "arabic_title": "اعتزل فيرنلي بسبب الإصابة ليمنح فيري الفوز في بطولة فيينا المفتوحة",
-    "arabic_summary": "اعتزل جاكوب فيرنلي بسبب الإصابة بعد خسارته 5-1 في المجموعة الأولى أمام آرثر فيري ليمنح مواطنه مكانًا في الدور الثاني في بطولة فيينا المفتوحة.",
-    "translation_status": "translated",
-    "post_title": "اعتزل فيرنلي بسبب الإصابة ليمنح فيري الفوز في بطولة فيينا المفتوحة",
-    "post_text": "🚨 اعتزل فيرنلي بسبب الإصابة ليمنح فيري الفوز في بطولة فيينا المفتوحة\n\n📝 اعتزل جاكوب فيرنلي بسبب الإصابة بعد خسارته 5-1 في المجموعة الأولى أمام آرثر فيري ليمنح مواطنه مكانًا في الدور الثاني في بطولة فيينا المفتوحة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089522040379773",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اعتزل_فيرنلي_بسبب_الإصابة_ليمنح_فيري_الفوز_في_بطولة_فيينا_المفتوحة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/news/12040/13604099/jacob-fearnley-retires-hurt-against-arthur-fery-at-vienna-open-as-harriet-dart-extends-winning-run",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvnBgiRZ-4aaVr7YRCg_83B"
     }
   }
 ]
