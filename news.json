@@ -1,5 +1,39 @@
 [
   {
+    "title": "Simeone: “Lookman no está en su mejor momento, pero le necesitamos”",
+    "url": "https://as.com/futbol/primera/simeone-lookman-no-esta-en-su-mejor-momento-pero-le-necesitamos-f202610-n/",
+    "summary": "El Cholo es consciente de la dificultad que supone siempre el Levante. “Hjulmand tiene mucha personalidad, necesitamos su mejor versión”.",
+    "published": "Fri, 30 Oct 2026 11:37:12 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YQEVTOUYQFAINAW7BPHJX3Q3FA.jpg?auth=a591b83d3b262a489963ee402c52a6a5418a6de13d2a17868c54568b29ac5b6c",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيميوني: \"لوكمان ليس في أفضل حالاته لكننا بحاجة إليه\"",
+    "arabic_summary": "يدرك إل تشولو الصعوبة التي يواجهها فريق ليفانتي دائمًا. \"يتمتع هيولماند بشخصية كبيرة، ونحن بحاجة إلى أفضل نسخة منه.\"",
+    "translation_status": "translated",
+    "post_title": "سيميوني: \"لوكمان ليس في أفضل حالاته لكننا بحاجة إليه\"",
+    "post_text": "🚨 سيميوني: \"لوكمان ليس في أفضل حالاته لكننا بحاجة إليه\"\n\n📝 يدرك إل تشولو الصعوبة التي يواجهها فريق ليفانتي دائمًا. \"يتمتع هيولماند بشخصية كبيرة، ونحن بحاجة إلى أفضل نسخة منه.\"\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092961666702477",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_لوكمان_ليس_في_أفضل_حالاته_لكننا_بحاجة_إليه.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/simeone-lookman-no-esta-en-su-mejor-momento-pero-le-necesitamos-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEX2-vd6P7D74YFzLlfW8Xu"
+    }
+  },
+  {
     "title": "Why Aston Villa was the perfect destination for Jackson",
     "url": "https://www.skysports.com/football/news/12040/13605328/nicolas-jackson-why-aston-villa-is-perfect-club-for-senegal-striker-to-thrive-at-after-unai-emery-reunion",
     "summary": "Nicolas Jackson's career was at a crossroads. Aston Villa were in a state of flux. The move was mutually beneficial - but the early success has exceeded expectations.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6BNz5dEX5KWt8o8cOYwQnw"
-    }
-  },
-  {
-    "title": "Raphinha no faltó a su cita con el gol en un Clásico",
-    "url": "https://as.com/futbol/primera/raphinha-no-falto-a-su-cita-con-el-gol-en-un-clasico-f202610-n/",
-    "summary": "El delantero brasileño, pese a la derrota de su equipo, volvió a dejar huello ante el Real Madrid.",
-    "published": "Mon, 26 Oct 2026 09:59:00 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/Q575Y5Z6GVJPPA2F4774N3TJA4.jpg?auth=84303ea73548b9bfdbe757341d2e3bf728079d024813da3c9379bf73f58cefd9",
-    "media_type": "image/jpeg",
-    "arabic_title": "رافينيا لم يفوت موعده مع الهدف في الكلاسيكو",
-    "arabic_summary": "ترك المهاجم البرازيلي، على الرغم من هزيمة فريقه، بصمته مرة أخرى ضد ريال مدريد.",
-    "translation_status": "translated",
-    "post_title": "رافينيا لم يفوت موعده مع الهدف في الكلاسيكو",
-    "post_text": "🚨 رافينيا لم يفوت موعده مع الهدف في الكلاسيكو\n\n📝 ترك المهاجم البرازيلي، على الرغم من هزيمة فريقه، بصمته مرة أخرى ضد ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088993487099295",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رافينيا_لم_يفوت_موعده_مع_الهدف_في_الكلاسيكو.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/raphinha-no-falto-a-su-cita-con-el-gol-en-un-clasico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7IqlOYm7bqSdK5nn3oDKKb"
     }
   }
 ]
