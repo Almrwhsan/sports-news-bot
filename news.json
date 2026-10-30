@@ -1,5 +1,39 @@
 [
   {
+    "title": "Koundé sigue ‘desaparecido’",
+    "url": "https://as.com/futbol/kounde-sigue-desaparecido-f202610-n/",
+    "summary": "El defensa francés no se ejercita con el grupo y será baja para el sábado contra el Alavés, sumando ya dos semanas fuera de los terrenos de juego por un pequeño esguince en el tobillo.",
+    "published": "Fri, 30 Oct 2026 10:53:34 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WFGUWMNWVQC5V2G7UGOB2OVU4Q.jpg?auth=ac8c0c476e222b57eae49717ce8b91475091cb092fd706aa9c70cf6ac2663f04",
+    "media_type": "image/jpeg",
+    "arabic_title": "كوندي لا يزال \"مفقوداً\"",
+    "arabic_summary": "لا يتدرب المدافع الفرنسي مع المجموعة وسيغيب عن مباراة السبت ضد ألافيس، بعد أن غاب بالفعل لمدة أسبوعين بسبب التواء بسيط في الكاحل.",
+    "translation_status": "translated",
+    "post_title": "كوندي لا يزال \"مفقوداً\"",
+    "post_text": "🚨 كوندي لا يزال \"مفقوداً\"\n\n📝 لا يتدرب المدافع الفرنسي مع المجموعة وسيغيب عن مباراة السبت ضد ألافيس، بعد أن غاب بالفعل لمدة أسبوعين بسبب التواء بسيط في الكاحل.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092929023372408",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوندي_لا_يزال_مفقوداً.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/kounde-sigue-desaparecido-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5URH_HY8YdJ8gdBpwipqM-"
+    }
+  },
+  {
     "title": "Explained: Where do we stand with LIV 2.0 as Deadline Day looms?",
     "url": "https://www.skysports.com/watch/video/13605697/explained-where-do-we-stand-with-liv-2-0-as-deadline-day-looms",
     "summary": "Jamie Weir provides an update on who is in and who is out when it comes to deciding whether to commit to LIV 2.0.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnMj9jAOfEi0aAvSEw26rNk"
-    }
-  },
-  {
-    "title": "La reacción de La Cobra al gol de Mbappé del Clásico es oro molido para el madridismo",
-    "url": "https://as.com/meristation/streamers/la-reaccion-de-la-cobra-al-gol-de-mbappe-del-clasico-es-oro-molido-para-el-madridismo-f202610-n/",
-    "summary": "El streamer argentino, conocido seguidor del Barcelona, vivió una derrota especialmente dolorosa.",
-    "published": "Mon, 26 Oct 2026 09:44:13 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/M36YGFUTUZEWNLWSHLMPYXQUBQ.jpg?auth=0decb2c98df9f82ddd9f316be966a41bf0917b1996db79db9dc78aac1c056728",
-    "media_type": "image/jpeg",
-    "arabic_title": "رد فعل لا كوبرا على هدف مبابي في الكلاسيكو هو الذهب الأرضي لجماهير ريال مدريد",
-    "arabic_summary": "تعرض اللاعب الأرجنتيني، وهو مشجع معروف لبرشلونة، لهزيمة مؤلمة بشكل خاص.",
-    "translation_status": "translated",
-    "post_title": "رد فعل لا كوبرا على هدف مبابي في الكلاسيكو هو الذهب الأرضي لجماهير ريال مدريد",
-    "post_text": "🚨 رد فعل لا كوبرا على هدف مبابي في الكلاسيكو هو الذهب الأرضي لجماهير ريال مدريد\n\n📝 تعرض اللاعب الأرجنتيني، وهو مشجع معروف لبرشلونة، لهزيمة مؤلمة بشكل خاص.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088980010433976",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رد_فعل_لا_كوبرا_على_هدف_مبابي_في_الكلاسيكو_هو_الذهب_الأرضي_لجماهير_ريال_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/meristation/streamers/la-reaccion-de-la-cobra-al-gol-de-mbappe-del-clasico-es-oro-molido-para-el-madridismo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AULOXadDlWu6uhBqH8AnMUt"
     }
   }
 ]
