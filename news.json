@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bordalás: “Nos hemos enfrentado a un equipo de la sexta categoría que no es profesional y nos pasó por encima la primera media hora\"",
+    "url": "https://www.marca.com/futbol/getafe/2026/10/30/bordalas-merecimos-pasar.html",
+    "summary": "El técnico azulón analiza duramente el pase a la siguiente ronda de Copa del Rey",
+    "published": "Fri, 30 Oct 2026 09:22:02 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae46df9bd932.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بوردالاس: \"واجهنا فريقًا من الفئة السادسة غير محترف وتجاوزونا في أول نصف ساعة\"",
+    "arabic_summary": "يقوم مدرب أزولون بتحليل التمريرة القاسية إلى الدور التالي من كأس الملك",
+    "translation_status": "translated",
+    "post_title": "بوردالاس: \"واجهنا فريقًا من الفئة السادسة غير محترف وتجاوزونا في أول نصف ساعة\"",
+    "post_text": "🚨 بوردالاس: \"واجهنا فريقًا من الفئة السادسة غير محترف وتجاوزونا في أول نصف ساعة\"\n\n📝 يقوم مدرب أزولون بتحليل التمريرة القاسية إلى الدور التالي من كأس الملك\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093143666684277",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوردالاس_واجهنا_فريقًا_من_الفئة_السادسة_غير_محترف_وتجاوزونا_في_أول_نصف_ساعة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/getafe/2026/10/30/bordalas-merecimos-pasar.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARyJDVsJK58on4U6ZHvHyKi"
+    }
+  },
+  {
     "title": "'You lack information' - Maresca's frosty reporter exchange over Chelsea red cards",
     "url": "https://www.skysports.com/watch/video/13605761/enzo-marescas-frosty-reporter-exchange-over-chelsea-red-cards-you-lack-information",
     "summary": "Enzo Maresca had a frosty exchange with a reporter when discussing Chelsea's red card history whilst he was in charge of the London club.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVyp6OoA6SxkWD6OqT9OqwV"
-    }
-  },
-  {
-    "title": "En directo, El Bar: Mbappé, Clásico y... ¿Balón de Oro?",
-    "url": "https://as.com/futbol/videos/en-directo-el-bar-mbappe-clasico-y-balon-de-oro-f202610-v/",
-    "summary": "Sique Rodríguez y el resto de expertos de la Cadena SER analizan el triunfo del Real Madrid en el Camp Nou ante el FC Barcelona en un Clásico trepidante (1-2).",
-    "published": "Mon, 26 Oct 2026 10:07:57 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=7qd8vWrNktY",
-    "media_type": "application/octet-stream",
-    "arabic_title": "مباشر إلبار: مبابي، الكلاسيكو و... الكرة الذهبية؟",
-    "arabic_summary": "سيك رودريغيز وبقية خبراء كادينا سير يحللون فوز ريال مدريد في الكامب نو ضد برشلونة في كلاسيكو سريع الوتيرة (1-2).",
-    "translation_status": "translated",
-    "post_title": "مباشر إلبار: مبابي، الكلاسيكو و... الكرة الذهبية؟",
-    "post_text": "🚨 مباشر إلبار: مبابي، الكلاسيكو و... الكرة الذهبية؟\n\n📝 سيك رودريغيز وبقية خبراء كادينا سير يحللون فوز ريال مدريد في الكامب نو ضد برشلونة في كلاسيكو سريع الوتيرة (1-2).\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089187760413201",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مباشر_إلبار_مبابي،_الكلاسيكو_و..._الكرة_الذهبية؟.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnbN24cr4rVCZTCOcKNHOoW"
     }
   }
 ]
