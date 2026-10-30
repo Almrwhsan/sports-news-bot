@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valverde planta la duda para Santander",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/10/30/valverde-planta-duda-santander.html",
+    "summary": "El centrocampista uruguayo realizó trabajo específico a dos días del duelo liguero",
+    "published": "Fri, 30 Oct 2026 13:22:13 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae48bcef2946.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فالفيردي يثير الشكوك حول سانتاندير",
+    "arabic_summary": "قام لاعب خط الوسط الأوروغوياني بعمل محدد قبل يومين من مباراة الدوري",
+    "translation_status": "translated",
+    "post_title": "فالفيردي يثير الشكوك حول سانتاندير",
+    "post_text": "🚨 فالفيردي يثير الشكوك حول سانتاندير\n\n📝 قام لاعب خط الوسط الأوروغوياني بعمل محدد قبل يومين من مباراة الدوري\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093336046665039",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالفيردي_يثير_الشكوك_حول_سانتاندير.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/30/valverde-planta-duda-santander.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9JkvPRm9re1sanjZ3_BsVV"
+    }
+  },
+  {
     "title": "‘El Atleti que viene’ celebra su tercera edición",
     "url": "https://as.com/futbol/primera/el-atleti-que-viene-celebra-su-tercera-edicion-f202610-n/",
     "summary": "El Atlético utilizó el encuentro anual con los empleados del club para compartir la visión global de la entidad y los retos de este curso.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYiYT141GvTVPkGDgSvJD-w"
-    }
-  },
-  {
-    "title": "El pueblo elige: Mbappé, Balón de Oro",
-    "url": "https://as.com/futbol/internacional/el-pueblo-elige-mbappe-balon-de-oro-f202610-n/",
-    "summary": "En la encuesta publicada por AS, con más de 82.000 votos, los lectores eligen al delantero francés del Real Madrid por delante de Lamine Yamal y Harry Kane. Las casas de apuestas van por otros derroteros.",
-    "published": "Mon, 26 Oct 2026 13:13:40 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "الناس يختارون: مبابي، الكرة الذهبية",
-    "arabic_summary": "وفي الاستطلاع الذي نشرته صحيفة AS، بأغلبية أكثر من 82 ألف صوت، اختار القراء المهاجم الفرنسي من ريال مدريد متقدما على لامين يامال وهاري كين. بيوت الرهان تذهب في اتجاهات أخرى.",
-    "translation_status": "translated",
-    "post_title": "الناس يختارون: مبابي، الكرة الذهبية",
-    "post_text": "🚨 الناس يختارون: مبابي، الكرة الذهبية\n\n📝 وفي الاستطلاع الذي نشرته صحيفة AS، بأغلبية أكثر من 82 ألف صوت، اختار القراء المهاجم الفرنسي من ريال مدريد متقدما على لامين يامال وهاري كين. بيوت الرهان تذهب في اتجاهات أخرى.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089407913724519",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الناس_يختارون_مبابي،_الكرة_الذهبية.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4mIN5yy7y8komZegXFBAr6"
     }
   }
 ]
