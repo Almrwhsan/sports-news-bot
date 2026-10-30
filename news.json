@@ -1,5 +1,39 @@
 [
   {
+    "title": "‘El Atleti que viene’ celebra su tercera edición",
+    "url": "https://as.com/futbol/primera/el-atleti-que-viene-celebra-su-tercera-edicion-f202610-n/",
+    "summary": "El Atlético utilizó el encuentro anual con los empleados del club para compartir la visión global de la entidad y los retos de este curso.",
+    "published": "Fri, 30 Oct 2026 19:18:50 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/T4LL4RIHNZANDJ6XPGHEHNE3EI.jpg?auth=250600b203bfc458b99947af1175c89d01998406d349ea495eb2ce3c0b842c61",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"الأتليتي الذي يأتي\" يحتفل بنسخته الثالثة",
+    "arabic_summary": "استغل أتلتيكو الاجتماع السنوي مع موظفي النادي لمشاركة الرؤية العالمية للكيان وتحديات هذه الدورة.",
+    "translation_status": "translated",
+    "post_title": "\"الأتليتي الذي يأتي\" يحتفل بنسخته الثالثة",
+    "post_text": "🚨 \"الأتليتي الذي يأتي\" يحتفل بنسخته الثالثة\n\n📝 استغل أتلتيكو الاجتماع السنوي مع موظفي النادي لمشاركة الرؤية العالمية للكيان وتحديات هذه الدورة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093332803332030",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأتليتي_الذي_يأتي_يحتفل_بنسخته_الثالثة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-atleti-que-viene-celebra-su-tercera-edicion-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Az8PhfxgkjxA6Rl6BJOH9k2"
+    }
+  },
+  {
     "title": "Weekend Winners: Best bets for the Breeders' Cup",
     "url": "https://www.skysports.com/racing/news/12040/13605771/weekend-winners-breeders-cup-nap-next-best-and-longshot",
     "summary": "Ahead of another Saturday of racing, the Weekend Winners team reconvene to discuss the best betting angles.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4mIN5yy7y8komZegXFBAr6"
-    }
-  },
-  {
-    "title": "Un Flick sin ideas",
-    "url": "https://as.com/futbol/primera/un-flick-sin-ideas-f202610-n/",
-    "summary": "Por primera vez en la temporada, el alemán no agotó los cambios; y, además, los hizo tarde. No encontró soluciones tácticas en el Clásico y no pudo ni sujetar el empate. Es la cara visible de una semana que deja tocado al Barça y le va a tocar remangarse.",
-    "published": "Mon, 26 Oct 2026 14:13:56 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WGMZ45ZBDNL4PH7VGRSKSO3DBM.jpg?auth=d3c2fb295758cdb8e5c782198678faf9f3a65c33063f469cf4c595aadeeeb299",
-    "media_type": "image/jpeg",
-    "arabic_title": "نفض الغبار دون أفكار",
-    "arabic_summary": "ولأول مرة هذا الموسم، لم يستنفد الألماني التغييرات؛ وعلاوة على ذلك، فقد تأخروا. لم يجد حلولاً تكتيكية في الكلاسيكو ولم يتمكن حتى من الحفاظ على التعادل. إنه الوجه المرئي للأسبوع الذي يترك برشلونة مهتزًا وسيتعين عليهم أن يشمروا عن سواعدهم.",
-    "translation_status": "translated",
-    "post_title": "نفض الغبار دون أفكار",
-    "post_text": "🚨 نفض الغبار دون أفكار\n\n📝 ولأول مرة هذا الموسم، لم يستنفد الألماني التغييرات؛ وعلاوة على ذلك، فقد تأخروا. لم يجد حلولاً تكتيكية في الكلاسيكو ولم يتمكن حتى من الحفاظ على التعادل. إنه الوجه المرئي للأسبوع الذي يترك برشلونة مهتزًا وسيتعين عليهم أن يشمروا عن سواعدهم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089408023724508",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نفض_الغبار_دون_أفكار.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/un-flick-sin-ideas-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8juOzM2ctENzkCWEV2BZKt"
     }
   }
 ]
