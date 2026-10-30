@@ -1,5 +1,39 @@
 [
   {
+    "title": "Highlights: Panthers face Packers at Lambeau",
+    "url": "https://www.skysports.com/watch/video/13605641/panthers-at-packers-week-eight-nfl-highlights",
+    "summary": "Highlights of the Carolina Panthers against the Green Bay Packers from Week 8 of the NFL season.",
+    "published": "Fri, 30 Oct 2026 06:08:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-panthers-packers_7391581.jpg?20261030061308",
+    "media_type": "image/jpg",
+    "arabic_title": "أبرز الملامح: الفهود يواجهون باكرز في لامبو",
+    "arabic_summary": "أبرز أحداث مباراة Carolina Panthers ضد Green Bay Packers من الأسبوع الثامن من موسم NFL.",
+    "translation_status": "translated",
+    "post_title": "أبرز الملامح: الفهود يواجهون باكرز في لامبو",
+    "post_text": "🚨 أبرز الملامح: الفهود يواجهون باكرز في لامبو\n\n📝 أبرز أحداث مباراة Carolina Panthers ضد Green Bay Packers من الأسبوع الثامن من موسم NFL.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092795176719126",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أبرز_الملامح_الفهود_يواجهون_باكرز_في_لامبو.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13605641/panthers-at-packers-week-eight-nfl-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJN7Wr0Cg8ySYgalQO1AUy2"
+    }
+  },
+  {
     "title": "Why keeping Isak fit and firing is key to Iraola's Liverpool revival",
     "url": "https://www.skysports.com/football/news/12040/13605451/alexander-isak-why-keeping-sweden-striker-fit-and-firing-is-key-to-andoni-iraolas-liverpool-revival",
     "summary": "Liverpool's patience with Alexander Isak is starting to be rewarded, with the record-breaking &#163;125m purchase finally resembling the most expensive striker in Premier League history.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_hAEQD743y5FQigvRQupue"
-    }
-  },
-  {
-    "title": "Euro Debrief: Mbappe and Mourinho expose Barcelona's big problem",
-    "url": "https://www.skysports.com/football/news/12040/13602313/kylian-mbappe-and-jose-mourinho-expose-barcelonas-issue-in-el-clasico-plus-other-big-stories-in-the-euro-debrief",
-    "summary": "",
-    "published": "Mon, 26 Oct 2026 08:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-laliga-euro-debrief_7387477.jpg?20261026072204",
-    "media_type": "image/jpg",
-    "arabic_title": "يورو استخلاص المعلومات: مبابي ومورينيو يفضحان مشكلة برشلونة الكبيرة",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "يورو استخلاص المعلومات: مبابي ومورينيو يفضحان مشكلة برشلونة الكبيرة",
-    "post_text": "🚨 يورو استخلاص المعلومات: مبابي ومورينيو يفضحان مشكلة برشلونة الكبيرة\n\n🏷️ برشلونة\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088915220440455",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يورو_استخلاص_المعلومات_مبابي_ومورينيو_يفضحان_مشكلة_برشلونة_الكبيرة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13602313/kylian-mbappe-and-jose-mourinho-expose-barcelonas-issue-in-el-clasico-plus-other-big-stories-in-the-euro-debrief",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKrZir8KWJ0kw9DgY0Umqzy"
     }
   }
 ]
