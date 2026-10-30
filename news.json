@@ -1,5 +1,39 @@
 [
   {
+    "title": "Achraf es imparable",
+    "url": "https://as.com/futbol/internacional/achraf-es-imparable-f202610-n/",
+    "summary": "El marroquí, con un hat-trick y una asistencia, firma un partido histórico en Le Havre y lidera la remontada del PSG en el campo del colista.",
+    "published": "Fri, 30 Oct 2026 19:59:59 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/77PCV7X2XBKYZHBV63D43PUQMY.jpg?auth=6f12ccd85cf7c1660570b8bb5a0c13fdf7d5b3bc9c6c0abafab09bdcb0e575c0",
+    "media_type": "image/jpeg",
+    "arabic_title": "أشرف لا يمكن إيقافه",
+    "arabic_summary": "المغربي، بثلاثية وتمريرة حاسمة، يوقع مباراة تاريخية في لوهافر ويقود عودة باريس سان جيرمان إلى القاع.",
+    "translation_status": "translated",
+    "post_title": "أشرف لا يمكن إيقافه",
+    "post_text": "🚨 أشرف لا يمكن إيقافه\n\n📝 المغربي، بثلاثية وتمريرة حاسمة، يوقع مباراة تاريخية في لوهافر ويقود عودة باريس سان جيرمان إلى القاع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093459869985990",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أشرف_لا_يمكن_إيقافه.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/achraf-es-imparable-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFufDMbMeAuwhtmN4M8UcsR"
+    }
+  },
+  {
     "title": "Leclerc dominates Mexico City GP first practice",
     "url": "https://www.skysports.com/f1/news/12040/13605830/mexico-city-gp-charles-leclerc-dominates-first-practice-from-kimi-antonelli-as-ferrari-show-strong-pace",
     "summary": "Ferrari's Charles Leclerc was fastest from champion-elect Kimi Antonelli in first practice at the Mexico City Grand Prix.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AbFA4Dn8S5rtAv5aLBwGQ3i"
-    }
-  },
-  {
-    "title": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
-    "url": "https://www.skysports.com/football/news/12040/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
-    "summary": "From forgettable EFL loan spells to being crowned the best player in the world, it is no wonder Harry Kane&#8217;s former boss thinks of his Ballon d'Or win as a fairy tale.",
-    "published": "Mon, 26 Oct 2026 23:35:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-ballon-dor-bayern-munich_7382872.jpg?20261021135151",
-    "media_type": "image/jpg",
-    "arabic_title": "من قروض الدوري الإنجليزي المنسية إلى الفائز بالكرة الذهبية - \"قصة سندريلا\" لكين",
-    "arabic_summary": "من فترات الإعارة المنسية إلى الدوري الإنجليزي الممتاز إلى تتويجه كأفضل لاعب في العالم، فلا عجب أن يعتقد مدرب هاري كين السابق أن فوزه بالكرة الذهبية هو قصة خيالية.",
-    "translation_status": "translated",
-    "post_title": "من قروض الدوري الإنجليزي المنسية إلى الفائز بالكرة الذهبية - \"قصة سندريلا\" لكين",
-    "post_text": "🚨 من قروض الدوري الإنجليزي المنسية إلى الفائز بالكرة الذهبية - \"قصة سندريلا\" لكين\n\n📝 من فترات الإعارة المنسية إلى الدوري الإنجليزي الممتاز إلى تتويجه كأفضل لاعب في العالم، فلا عجب أن يعتقد مدرب هاري كين السابق أن فوزه بالكرة الذهبية هو قصة خيالية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089864557012188",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_قروض_الدوري_الإنجليزي_المنسية_إلى_الفائز_بالكرة_الذهبية_-_قصة_سندريلا_لكين.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AixqoN--cJ-ZpIzvVvKDJT9"
     }
   }
 ]
