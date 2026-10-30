@@ -1,5 +1,39 @@
 [
   {
+    "title": "Vargas quiere subirse al carro",
+    "url": "https://www.marca.com/futbol/sevilla/2026/10/30/vargas-quiere-subirse-carro.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Fri, 30 Oct 2026 14:05:54 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/30/6abd0b454037b.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يريد فارغاس الانضمام إلى العربة",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "يريد فارغاس الانضمام إلى العربة",
+    "post_text": "🚨 يريد فارغاس الانضمام إلى العربة\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093462513319059",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يريد_فارغاس_الانضمام_إلى_العربة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/10/30/vargas-quiere-subirse-carro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AMKVZpbiSji3wQpJo0i0YRZ"
+    }
+  },
+  {
     "title": "Achraf es imparable",
     "url": "https://as.com/futbol/internacional/achraf-es-imparable-f202610-n/",
     "summary": "El marroquí, con un hat-trick y una asistencia, firma un partido histórico en Le Havre y lidera la remontada del PSG en el campo del colista.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATXHSfZmnToyAkoT5H0Ax1Q"
-    }
-  },
-  {
-    "title": "All the 2026 Ballon d'Or winners as Spain and Barcelona dominate...",
-    "url": "https://www.skysports.com/football/live-blog/12040/13601936/ballon-dor-2026-ceremony-live-harry-kane-alexia-putellas-among-favourites-for-france-football-award",
-    "summary": "",
-    "published": "Mon, 26 Oct 2026 23:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lamine-yamal-barcelona_7388256.jpg?20261026210021",
-    "media_type": "image/jpg",
-    "arabic_title": "جميع الفائزين بالكرة الذهبية لعام 2026 مع هيمنة إسبانيا وبرشلونة...",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "جميع الفائزين بالكرة الذهبية لعام 2026 مع هيمنة إسبانيا وبرشلونة...",
-    "post_text": "🚨 جميع الفائزين بالكرة الذهبية لعام 2026 مع هيمنة إسبانيا وبرشلونة...\n\n🏷️ برشلونة\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089864490345528",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جميع_الفائزين_بالكرة_الذهبية_لعام_2026_مع_هيمنة_إسبانيا_وبرشلونة....png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13601936/ballon-dor-2026-ceremony-live-harry-kane-alexia-putellas-among-favourites-for-france-football-award",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbFA4Dn8S5rtAv5aLBwGQ3i"
     }
   }
 ]
