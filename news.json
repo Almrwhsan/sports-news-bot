@@ -1,5 +1,39 @@
 [
   {
+    "title": "USA vs England LIVE! Under-pressure Red Roses respond with BIG victory",
+    "url": "https://www.skysports.com/rugby-union/usa-women-vs-england/live/113218",
+    "summary": "",
+    "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-meg-jones-red-roses_7392069.jpg?20261030173121",
+    "media_type": "image/jpg",
+    "arabic_title": "الولايات المتحدة ضد إنجلترا بث مباشر! رد فريق Red Roses تحت الضغط بانتصار كبير",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "الولايات المتحدة ضد إنجلترا بث مباشر! رد فريق Red Roses تحت الضغط بانتصار كبير",
+    "post_text": "🚨 الولايات المتحدة ضد إنجلترا بث مباشر! رد فريق Red Roses تحت الضغط بانتصار كبير\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093470626651581",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الولايات_المتحدة_ضد_إنجلترا_بث_مباشر!_رد_فريق_Red_Roses_تحت_الضغط_بانتصار_كبير.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/usa-women-vs-england/live/113218",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AliPfpFdtKZVHLuGkF37QFc"
+    }
+  },
+  {
     "title": "Vargas quiere subirse al carro",
     "url": "https://www.marca.com/futbol/sevilla/2026/10/30/vargas-quiere-subirse-carro.html",
     "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APKROfmq1ZPojxyai4KJx3N"
-    }
-  },
-  {
-    "title": "Asencio también disfrutó en el Clásico",
-    "url": "https://as.com/futbol/primera/asencio-tambien-disfruto-en-el-clasico-f202610-n/",
-    "summary": "Mourinho elogió que el grancanario estuviese en el Camp Nou apoyando al equipo. Su objetivo es estar de vuelta para la eliminatoria de Copa en diciembre.",
-    "published": "Mon, 26 Oct 2026 18:27:15 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YXYVM7UNZ5AP7KE7TUMF5JQSFY.JPG?auth=17e30bce7f314bb7e5feb965b8cb6bf3b803c76e768fdd6c608727f606e35bae",
-    "media_type": "image/jpeg",
-    "arabic_title": "استمتع أسينسيو أيضًا بالكلاسيكية",
-    "arabic_summary": "وأشاد مورينيو بتواجد اللاعب الكناري في ملعب الكامب نو لدعم الفريق. هدفه هو العودة للمشاركة في مباراة الكأس في ديسمبر.",
-    "translation_status": "translated",
-    "post_title": "استمتع أسينسيو أيضًا بالكلاسيكية",
-    "post_text": "🚨 استمتع أسينسيو أيضًا بالكلاسيكية\n\n📝 وأشاد مورينيو بتواجد اللاعب الكناري في ملعب الكامب نو لدعم الفريق. هدفه هو العودة للمشاركة في مباراة الكأس في ديسمبر.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089864390345538",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استمتع_أسينسيو_أيضًا_بالكلاسيكية.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/asencio-tambien-disfruto-en-el-clasico-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATXHSfZmnToyAkoT5H0Ax1Q"
     }
   }
 ]
