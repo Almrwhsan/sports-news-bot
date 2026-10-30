@@ -1,5 +1,39 @@
 [
   {
+    "title": "Simeone, con dos bajas y una duda",
+    "url": "https://as.com/futbol/primera/simeone-con-dos-bajas-y-una-duda-f202610-n/",
+    "summary": "Koke y Johnny Cardoso no llegan a la cita contra el Levante, pero sí un Cuti Romero que apunta a titular. El Cholo tiene varias opciones en la delantera.",
+    "published": "Fri, 30 Oct 2026 11:16:58 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KH72M4ARBROKJOCQMJJ275SXLM.jpg?auth=bc01e099b697d7c290620b13ccf8b96954db381dab8a6b8a2c8b77d93393b76a",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيميوني بضحاياين وشكوك",
+    "arabic_summary": "لم يتمكن كوكي وجوني كاردوسو من الوصول إلى المباراة ضد ليفانتي، لكن كوتي روميرو تمكنت من ذلك، والتي تهدف إلى المشاركة أساسيًا. تشولو لديه العديد من الخيارات في خط الهجوم.",
+    "translation_status": "translated",
+    "post_title": "سيميوني بضحاياين وشكوك",
+    "post_text": "🚨 سيميوني بضحاياين وشكوك\n\n📝 لم يتمكن كوكي وجوني كاردوسو من الوصول إلى المباراة ضد ليفانتي، لكن كوتي روميرو تمكنت من ذلك، والتي تهدف إلى المشاركة أساسيًا. تشولو لديه العديد من الخيارات في خط الهجوم.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1092946623370648",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_بضحاياين_وشكوك.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/simeone-con-dos-bajas-y-una-duda-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AMQpw-8aQaWFKBK1C59EL6O"
+    }
+  },
+  {
     "title": "El nuevo Metro Bernabéu toma forma: así marchan las obras",
     "url": "https://as.com/actualidad/fotorrelato/el-nuevo-metro-bernabeu-toma-forma-asi-marchan-las-obras-f202610-f/",
     "summary": "Recorrido fotográfico por el estado actual de la remodelación de la estación junto al estadio madridista.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8IEE0SJlrwtdXnCkSReP2S"
-    }
-  },
-  {
-    "title": "Simeone construye otro muro",
-    "url": "https://as.com/futbol/primera/simeone-construye-otro-muro-f202610-n/",
-    "summary": "El Atlético dejó su portería a cero ante el Deportivo. Lo ha hecho en cinco de las diez jornadas ligueras disputadas. Con ocho goles es el segundo equipo que menos encaja en el torneo liguero. El Celta ha recibido siete.",
-    "published": "Mon, 26 Oct 2026 09:57:26 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YCNI2EYRONFRBON664XMLB2RZY.JPG?auth=601c41e799463f4d3739d998577bc44bba1ca0d04d5df6f0710a32e5554d80e9",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيميوني يبني جدارًا آخر",
-    "arabic_summary": "حافظ أتلتيكو على شباكه نظيفة أمام ديبورتيفو. لقد فعل ذلك في خمس من المباريات العشر التي لعبها في الدوري. برصيد ثمانية أهداف، هو الفريق الثاني الأقل استقبالا في بطولة الدوري. تلقى سيلتا سبعة.",
-    "translation_status": "translated",
-    "post_title": "سيميوني يبني جدارًا آخر",
-    "post_text": "🚨 سيميوني يبني جدارًا آخر\n\n📝 حافظ أتلتيكو على شباكه نظيفة أمام ديبورتيفو. لقد فعل ذلك في خمس من المباريات العشر التي لعبها في الدوري. برصيد ثمانية أهداف، هو الفريق الثاني الأقل استقبالا في بطولة الدوري. تلقى سيلتا سبعة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1088986880433289",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_يبني_جدارًا_آخر.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/simeone-construye-otro-muro-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHeZxsqlw1By5sxNV5fYsIU"
     }
   }
 ]
