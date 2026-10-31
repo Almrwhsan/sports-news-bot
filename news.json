@@ -1,5 +1,39 @@
 [
   {
+    "title": "Canelo defeats Mbilli to win back world title LIVE!",
+    "url": "https://www.skysports.com/boxing/live-blog/12040/13606411/canelo-alvarez-vs-christian-mbilli-live-updates-undercard-news-results-as-canelo-challenges-mbilli-for-world-title",
+    "summary": "",
+    "published": "Sat, 31 Oct 2026 18:55:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/23/10/1920x1080/skysports-saul-canelo-alvarez_6304880.jpg?20231001141004",
+    "media_type": "image/jpg",
+    "arabic_title": "كانيلو يهزم مبيلي ويستعيد لقب العالم بث مباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "كانيلو يهزم مبيلي ويستعيد لقب العالم بث مباشر!",
+    "post_text": "🚨 كانيلو يهزم مبيلي ويستعيد لقب العالم بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1094500353215275",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كانيلو_يهزم_مبيلي_ويستعيد_لقب_العالم_بث_مباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/live-blog/12040/13606411/canelo-alvarez-vs-christian-mbilli-live-updates-undercard-news-results-as-canelo-challenges-mbilli-for-world-title",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnV4E0cZI8Y0PDJXnmNSlY2"
+    }
+  },
+  {
     "title": "Norris pips Antonelli in final practice to set up thrilling Mexico qualifying",
     "url": "https://www.skysports.com/f1/news/12040/13606014/mexico-city-gp-lando-norris-pips-kimi-antonelli-in-final-practice-to-set-up-thrilling-mexico-qualifying",
     "summary": "McLaren's Lando Norris pipped Mercedes' Kimi Antonelli by 0.001s in final practice for the Mexico City Grand Prix to set up a thrilling qualifying.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkQVp1bLQk2wpM-uDpBZj6l"
-    }
-  },
-  {
-    "title": "Inglis, Carey dig in to put Australia on top against South Africa in third Test",
-    "url": "https://www.skysports.com/cricket/news/12040/13604840/south-africa-vs-australia-third-test-josh-inglis-alex-carey-dig-in-to-put-australia-on-top-after-second-day",
-    "summary": "Josh Inglis scored an unbeaten 85 as &#8204;Australia reached 330-4 at the close of the second day of the decisive third Test against &#8204;hosts South Africa at Newlands on Wednesday.",
-    "published": "Wed, 28 Oct 2026 13:36:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-inglis-australia_7389965.jpg?20261028155922",
-    "media_type": "image/jpg",
-    "arabic_title": "إنجليس وكاري يحفران ليضعا أستراليا في المقدمة أمام جنوب إفريقيا في الاختبار الثالث",
-    "arabic_summary": "سجل جوش إنجليس 85 هدفًا دون هزيمة حيث وصلت أستراليا إلى 330-4 في ختام اليوم الثاني من الاختبار الثالث الحاسم ضد جنوب أفريقيا المضيفة في نيولاندز يوم الأربعاء.",
-    "translation_status": "translated",
-    "post_title": "إنجليس وكاري يحفران ليضعا أستراليا في المقدمة أمام جنوب إفريقيا في الاختبار الثالث",
-    "post_text": "🚨 إنجليس وكاري يحفران ليضعا أستراليا في المقدمة أمام جنوب إفريقيا في الاختبار الثالث\n\n📝 سجل جوش إنجليس 85 هدفًا دون هزيمة حيث وصلت أستراليا إلى 330-4 في ختام اليوم الثاني من الاختبار الثالث الحاسم ضد جنوب أفريقيا المضيفة في نيولاندز يوم الأربعاء.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1091298570202120",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجليس_وكاري_يحفران_ليضعا_أستراليا_في_المقدمة_أمام_جنوب_إفريقيا_في_الاختبار_الثا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13604840/south-africa-vs-australia-third-test-josh-inglis-alex-carey-dig-in-to-put-australia-on-top-after-second-day",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5P3J7nPM9j9EnYBbq3fR15"
     }
   }
 ]
