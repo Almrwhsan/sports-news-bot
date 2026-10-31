@@ -1,5 +1,39 @@
 [
   {
+    "title": "Verstappen, Lawson receive grid penalties after 'unacceptable' practice collision",
+    "url": "https://www.skysports.com/f1/news/12040/13605836/max-verstappen-liam-lawson-receive-grid-penalties-for-unacceptable-practice-collision-at-mexico-city-grand-prix",
+    "summary": "Max Verstappen and Liam Lawson have both received one-grid place penalties for an \"unacceptable\" collision in second practice at the Mexico City Grand Prix.",
+    "published": "Sat, 31 Oct 2026 03:10:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7392430.jpg?20261031003711",
+    "media_type": "image/jpg",
+    "arabic_title": "Verstappen وLawson يتلقىان عقوبات على شبكة الانطلاق بعد اصطدام تدريبي \"غير مقبول\".",
+    "arabic_summary": "تلقى كل من ماكس فيرستابين وليام لاوسون عقوبات المركز الواحد في شبكة الانطلاق بسبب تصادم \"غير مقبول\" في التجارب الثانية في سباق الجائزة الكبرى لمدينة مكسيكو.",
+    "translation_status": "translated",
+    "post_title": "Verstappen وLawson يتلقىان عقوبات على شبكة الانطلاق بعد اصطدام تدريبي \"غير مقبول\".",
+    "post_text": "🚨 Verstappen وLawson يتلقىان عقوبات على شبكة الانطلاق بعد اصطدام تدريبي \"غير مقبول\".\n\n📝 تلقى كل من ماكس فيرستابين وليام لاوسون عقوبات المركز الواحد في شبكة الانطلاق بسبب تصادم \"غير مقبول\" في التجارب الثانية في سباق الجائزة الكبرى لمدينة مكسيكو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1094024253262885",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Verstappen_وLawson_يتلقىان_عقوبات_على_شبكة_الانطلاق_بعد_اصطدام_تدريبي_غير_مقبول..png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13605836/max-verstappen-liam-lawson-receive-grid-penalties-for-unacceptable-practice-collision-at-mexico-city-grand-prix",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ayrw1lIqFoRI56dX7htIkzd"
+    }
+  },
+  {
     "title": "China votó quinto a Mbappé en el Balón de Oro... antes de 'la crisis del meme'",
     "url": "https://www.marca.com/futbol/balon-oro/2026/10/30/china-voto-quinto-mbappe-balon-oro-crisis-meme.html",
     "summary": "La votación se cerró días antes de que estallara el conflicto entre Mbappé y el país asiático",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZNSHFAKnrND-Oc43SUAvL5"
-    }
-  },
-  {
-    "title": "Mbappé se pone a 100",
-    "url": "https://as.com/futbol/primera/mbappe-se-pone-a-100-f202610-n/",
-    "summary": "El francés es el quinto jugador en llegar más rápido a su primer centenar de dianas con el Real Madrid. Tiene a tiro entrar en el top-20 de goleadores históricos blancos.",
-    "published": "Tue, 27 Oct 2026 00:53:13 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JJSCITNSVNHRJKPI4GNK22MAJI.JPG?auth=32e92679dd3b1501959b8250ecf0f802bb82f0f75e0861237fc6d93056bd6b6f",
-    "media_type": "image/jpeg",
-    "arabic_title": "مبابي يصل إلى رقم 100",
-    "arabic_summary": "الفرنسي هو خامس لاعب يصل إلى أول مائة هدف مع ريال مدريد الأسرع. لديه فرصة لدخول قائمة أفضل 20 هدافًا تاريخيًا من البيض.",
-    "translation_status": "translated",
-    "post_title": "مبابي يصل إلى رقم 100",
-    "post_text": "🚨 مبابي يصل إلى رقم 100\n\n📝 الفرنسي هو خامس لاعب يصل إلى أول مائة هدف مع ريال مدريد الأسرع. لديه فرصة لدخول قائمة أفضل 20 هدافًا تاريخيًا من البيض.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090259406972703",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مبابي_يصل_إلى_رقم_100.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/mbappe-se-pone-a-100-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABJUOahi8FH9jrYz7-aFtc9"
     }
   }
 ]
