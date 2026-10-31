@@ -1,5 +1,39 @@
 [
   {
+    "title": "España reina en el mundo desde la base",
+    "url": "https://www.marca.com/futbol/seleccion/2026/10/30/espana-reina-mundo-base.html",
+    "summary": "La Selección Sub-16 española conquista en Bakú el primer Mundial Sub-15 de la historia tras ganar 0-3 a República Checa y sólo le falta el Mundial sub-17 para completar todos los títulos del fútbol formativo español",
+    "published": "Fri, 30 Oct 2026 16:01:52 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae4b69c5a113.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إسبانيا تحكم العالم من القاعدة",
+    "arabic_summary": "فاز المنتخب الإسباني تحت 16 سنة بأول بطولة لكأس العالم تحت 15 سنة في التاريخ في باكو بعد فوزه على جمهورية التشيك 0-3 ويحتاج فقط إلى كأس العالم تحت 17 سنة لإكمال جميع ألقاب كرة القدم الإسبانية للشباب.",
+    "translation_status": "translated",
+    "post_title": "إسبانيا تحكم العالم من القاعدة",
+    "post_text": "🚨 إسبانيا تحكم العالم من القاعدة\n\n📝 فاز المنتخب الإسباني تحت 16 سنة بأول بطولة لكأس العالم تحت 15 سنة في التاريخ في باكو بعد فوزه على جمهورية التشيك 0-3 ويحتاج فقط إلى كأس العالم تحت 17 سنة لإكمال جميع ألقاب كرة القدم الإسبانية للشباب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093694789962498",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إسبانيا_تحكم_العالم_من_القاعدة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/10/30/espana-reina-mundo-base.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQ2sdqHK_ZA45FlthS7N_GJ"
+    }
+  },
+  {
     "title": "Mbappé's 100 Real Madrid goals: Quicker than Ronaldo to hit century",
     "url": "https://www.espn.com/soccer/story/_/id/50311567/mbappes-100-real-madrid-goals-quicker-ronaldo-hit-century",
     "summary": "Kylian Mbappé has reached the 100-goal mark at Real Madrid. How does his century of strikes compare to some of the club's greatest forwards?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyyCQTGqNVYcQkJlDRoBu0U"
-    }
-  },
-  {
-    "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
-    "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
-    "summary": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season.",
-    "published": "Mon, 26 Oct 2026 09:41:25 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee9/live/d80f1580-d11d-11f1-a701-fddedf244c16.jpg",
-    "media_type": null,
-    "arabic_title": "هدف مبابي المتأخر يمنح ريال الفوز على برشلونة في الكلاسيكو الدرامي",
-    "arabic_summary": "سجل كيليان مبابي هدفين لريال مدريد في الفوز على برشلونة 2-1 في الكلاسيكو الأول هذا الموسم.",
-    "translation_status": "translated",
-    "post_title": "هدف مبابي المتأخر يمنح ريال الفوز على برشلونة في الكلاسيكو الدرامي",
-    "post_text": "🚨 هدف مبابي المتأخر يمنح ريال الفوز على برشلونة في الكلاسيكو الدرامي\n\n📝 سجل كيليان مبابي هدفين لريال مدريد في الفوز على برشلونة 2-1 في الكلاسيكو الأول هذا الموسم.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089902900341687",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_مبابي_المتأخر_يمنح_ريال_الفوز_على_برشلونة_في_الكلاسيكو_الدرامي.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUjl5ix7tm0Uxx-sFpBHTv-"
     }
   }
 ]
