@@ -1,5 +1,39 @@
 [
   {
+    "title": "Míchel desvela que pudo fichar por el Madrid: \"Era muy rayista\"",
+    "url": "https://www.marca.com/radio/2026/10/30/michel-desvela-pudo-fichar-madrid-rayista.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Fri, 30 Oct 2026 18:32:21 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae4ca1c4af61.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميشيل يكشف أنه كان قادرًا على التوقيع لريال مدريد: \"لقد كان راييستا جدًا\"",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "ميشيل يكشف أنه كان قادرًا على التوقيع لريال مدريد: \"لقد كان راييستا جدًا\"",
+    "post_text": "🚨 ميشيل يكشف أنه كان قادرًا على التوقيع لريال مدريد: \"لقد كان راييستا جدًا\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093815539950423",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميشيل_يكشف_أنه_كان_قادرًا_على_التوقيع_لريال_مدريد_لقد_كان_راييستا_جدًا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/radio/2026/10/30/michel-desvela-pudo-fichar-madrid-rayista.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AaFgl_BjrpNCTlOXFCWWBcQ"
+    }
+  },
+  {
     "title": "El creador del meme de Mbappé: \"Estaba planeando un viaje a China, espero que no tengan nada contra mí\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/10/30/creador-meme-mbappe-planeando-viaje-china-espero-tengan-mi.html",
     "summary": "Younes Khelifi, francés de 28 años, atiende a MARCA para explicar la intrahistoria del fenómeno que acabó enfrentando al jugador del Madrid con el país asiático",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AiXr-su0NcwxMppGAeidfAu"
-    }
-  },
-  {
-    "title": "Demi Moore and Margaret Qualley star in a thrilling body horror",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m00327nr?at_mid=g7WPXrmykv&at_campaign=The_Substance&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00327nr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Substance&at_bbc_team=BBC",
-    "summary": "A fading celebrity turns to a black-market drug that creates a younger version of herself",
-    "published": "Fri, 02 Oct 2026 23:16:12 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34e/live/3f6db1a0-c86d-11f1-bc2e-018d645d8d21.jpg",
-    "media_type": null,
-    "arabic_title": "ديمي مور ومارغريت كواللي يلعبان دور البطولة في فيلم رعب جسدي مثير",
-    "arabic_summary": "تلجأ إحدى المشاهير المتضائلة إلى عقار في السوق السوداء يخلق نسخة أصغر منها",
-    "translation_status": "translated",
-    "post_title": "ديمي مور ومارغريت كواللي يلعبان دور البطولة في فيلم رعب جسدي مثير",
-    "post_text": "🚨 ديمي مور ومارغريت كواللي يلعبان دور البطولة في فيلم رعب جسدي مثير\n\n📝 تلجأ إحدى المشاهير المتضائلة إلى عقار في السوق السوداء يخلق نسخة أصغر منها\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090040206994623",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديمي_مور_ومارغريت_كواللي_يلعبان_دور_البطولة_في_فيلم_رعب_جسدي_مثير.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/iplayer/episode/m00327nr?at_mid=g7WPXrmykv&at_campaign=The_Substance&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00327nr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Substance&at_bbc_team=BBC",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Apd7BK5UHIOg5CrY4bov4SB"
     }
   }
 ]
