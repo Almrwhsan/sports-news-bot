@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un equipo escocés tendrá que jugar dos partidos a la vez",
+    "url": "https://www.marca.com/futbol/2026/10/30/equipo-escoces-tendra-jugar-dos-partidos-vez.html",
+    "summary": "El Johnstone alineará a dos equipos distintos al no poder reprogramar sus partidos",
+    "published": "Fri, 30 Oct 2026 17:01:22 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae4bf4ad953e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيتعين على الفريق الاسكتلندي أن يلعب مباراتين في نفس الوقت",
+    "arabic_summary": "سيلعب جونستون بفريقين مختلفين حيث لا يمكنهم إعادة جدولة مبارياتهم",
+    "translation_status": "translated",
+    "post_title": "سيتعين على الفريق الاسكتلندي أن يلعب مباراتين في نفس الوقت",
+    "post_text": "🚨 سيتعين على الفريق الاسكتلندي أن يلعب مباراتين في نفس الوقت\n\n📝 سيلعب جونستون بفريقين مختلفين حيث لا يمكنهم إعادة جدولة مبارياتهم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093708513294459",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيتعين_على_الفريق_الاسكتلندي_أن_يلعب_مباراتين_في_نفس_الوقت.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/10/30/equipo-escoces-tendra-jugar-dos-partidos-vez.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4twAEATz52xBepr1PpUn9P"
+    }
+  },
+  {
     "title": "La Federación desestima el recurso del Pinatar y el Elche seguirá en la Copa",
     "url": "https://www.marca.com/futbol/copa-rey/2026/10/30/federacion-desestima-recurso-pinatar-elche-seguira-copa.html",
     "summary": "El Juez Disciplinario Único rechaza la reclamación del club murciano por posible alineación indebida de Eze Ponce",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AK30vY5ZFHEJ8HeK1ThODSo"
-    }
-  },
-  {
-    "title": "Simón atrapa la gloria: “Lo importante es el legado que uno deja”",
-    "url": "https://as.com/futbol/internacional/simon-atrapa-la-gloria-cuando-eres-pequeno-no-piensas-que-puedes-llegar-tan-lejos-f202610-n/",
-    "summary": "Tras ganar Eurocopa, Nations y Mundial, se lleva el Trofeo Yashin y la sensación de que cada vez está más cerca de su ídolo, Iribar.",
-    "published": "Mon, 26 Oct 2026 21:35:26 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261026/1230267_214517_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "سيمون يلتقط المجد: \"الشيء المهم هو الإرث الذي يتركه المرء\"",
-    "arabic_summary": "بعد فوزه بكأس أوروبا والأمم وكأس العالم، فاز بكأس ياشين وشعر بأنه يقترب من مثله الأعلى، إيريبار.",
-    "translation_status": "translated",
-    "post_title": "سيمون يلتقط المجد: \"الشيء المهم هو الإرث الذي يتركه المرء\"",
-    "post_text": "🚨 سيمون يلتقط المجد: \"الشيء المهم هو الإرث الذي يتركه المرء\"\n\n📝 بعد فوزه بكأس أوروبا والأمم وكأس العالم، فاز بكأس ياشين وشعر بأنه يقترب من مثله الأعلى، إيريبار.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089934543671856",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيمون_يلتقط_المجد_الشيء_المهم_هو_الإرث_الذي_يتركه_المرء.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AictbLeDObLhJ2q1a3NocXB"
     }
   }
 ]
