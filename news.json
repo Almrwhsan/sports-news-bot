@@ -1,5 +1,39 @@
 [
   {
+    "title": "Papers: Martinez seeking summer Man Utd departure",
+    "url": "https://www.skysports.com/football/news/12040/13605928/lisandro-martinez-wants-to-leave-man-utd-in-the-summer-with-atletico-madrid-interested-paper-talk",
+    "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+    "published": "Fri, 30 Oct 2026 22:17:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+    "media_type": "image/jpg",
+    "arabic_title": "الأوراق: مارتينيز يسعى للرحيل عن مانشستر يونايتد في الصيف",
+    "arabic_summary": "أبرز الأخبار والإشاعات المنقولة من صحف السبت..",
+    "translation_status": "translated",
+    "post_title": "الأوراق: مارتينيز يسعى للرحيل عن مانشستر يونايتد في الصيف",
+    "post_text": "🚨 الأوراق: مارتينيز يسعى للرحيل عن مانشستر يونايتد في الصيف\n\n📝 أبرز الأخبار والإشاعات المنقولة من صحف السبت..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093819116616732",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_مارتينيز_يسعى_للرحيل_عن_مانشستر_يونايتد_في_الصيف.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13605928/lisandro-martinez-wants-to-leave-man-utd-in-the-summer-with-atletico-madrid-interested-paper-talk",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYZ769zN-kzEoQTHp6RtYid"
+    }
+  },
+  {
     "title": "Míchel desvela que pudo fichar por el Madrid: \"Era muy rayista\"",
     "url": "https://www.marca.com/radio/2026/10/30/michel-desvela-pudo-fichar-madrid-rayista.html",
     "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-sPjHnhGOCsncYtCn4luFD"
-    }
-  },
-  {
-    "title": "Gol de Isaac Romero (1-0) en el Sevilla 2-0 Osasuna",
-    "url": "https://www.marca.com/futbol/2026/10/27/gol-isaac-romero-1-0-sevilla-2-0-osasuna-video.html",
-    "summary": "",
-    "published": "Tue, 27 Oct 2026 00:59:36 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6adfe9435f9c6.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "هدف إسحاق روميرو (1-0) في إشبيلية 2-0 أوساسونا",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "هدف إسحاق روميرو (1-0) في إشبيلية 2-0 أوساسونا",
-    "post_text": "🚨 هدف إسحاق روميرو (1-0) في إشبيلية 2-0 أوساسونا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090048866993757",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_إسحاق_روميرو_(1-0)_في_إشبيلية_2-0_أوساسونا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/27/gol-isaac-romero-1-0-sevilla-2-0-osasuna-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AiXr-su0NcwxMppGAeidfAu"
     }
   }
 ]
