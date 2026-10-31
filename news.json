@@ -1,5 +1,39 @@
 [
   {
+    "title": "Le Havre - Paris Saint-Germain en directo | Última hora de Ligue 1 en vivo hoy",
+    "url": "https://www.marca.com/futbol/liga-francesa/2026/10/30/01-0109-20261030-141-149.html",
+    "summary": "",
+    "published": "Fri, 30 Oct 2026 17:30:00 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "ligue_1",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/17933808048355.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لوهافر - باريس سان جيرمان مباشر | الدقيقة الأخيرة من الدوري الفرنسي مباشرة اليوم",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "لوهافر - باريس سان جيرمان مباشر | الدقيقة الأخيرة من الدوري الفرنسي مباشرة اليوم",
+    "post_text": "🚨 لوهافر - باريس سان جيرمان مباشر | الدقيقة الأخيرة من الدوري الفرنسي مباشرة اليوم\n\n🏷️ الدوري الفرنسي\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093794956619148",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لوهافر_-_باريس_سان_جيرمان_مباشر_الدقيقة_الأخيرة_من_الدوري_الفرنسي_مباشرة_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/liga-francesa/2026/10/30/01-0109-20261030-141-149.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUvgmU0yr6jZKELNOecyZKk"
+    }
+  },
+  {
     "title": "Ese diamante que es Diomande",
     "url": "https://as.com/futbol/primera/ese-diamante-que-es-diomande-f202610-n/",
     "summary": "Impactante primer Clásico: fue el líder del equipo en regates y pases en el último tercio. Su sacrificio defensivo, clave para frenar a Lamine Yamal. Seria competencia para Vinicius.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlnWkClxsmc5z5N-dBDpqDX"
-    }
-  },
-  {
-    "title": "¿Se lleva dinero el ganador del Balón de Oro 2026? Esto es lo que dice France Football",
-    "url": "https://as.com/futbol/internacional/se-lleva-dinero-el-ganador-del-balon-de-oro-2026-esto-es-lo-que-dice-france-football-f202610-n/",
-    "summary": "Los ganadores tanto masculinos como femeninos no reciben ninguna cuantía económica.",
-    "published": "Mon, 26 Oct 2026 19:32:32 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/M3PQBTMDBFG7XHENPEQH2WBHBA.jpg?auth=0149a949319afa5503b2b0a80ba5854f7952ddc2dfbe11162af1fc2911840ffa",
-    "media_type": "image/jpeg",
-    "arabic_title": "هل يحصل الفائز بالكرة الذهبية 2026 على المال؟ هذا ما تقوله فرانس فوتبول",
-    "arabic_summary": "لا يحصل الفائزون من الذكور والإناث على أي مبلغ مالي.",
-    "translation_status": "translated",
-    "post_title": "هل يحصل الفائز بالكرة الذهبية 2026 على المال؟ هذا ما تقوله فرانس فوتبول",
-    "post_text": "🚨 هل يحصل الفائز بالكرة الذهبية 2026 على المال؟ هذا ما تقوله فرانس فوتبول\n\n📝 لا يحصل الفائزون من الذكور والإناث على أي مبلغ مالي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089995840332393",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_يحصل_الفائز_بالكرة_الذهبية_2026_على_المال؟_هذا_ما_تقوله_فرانس_فوتبول.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/se-lleva-dinero-el-ganador-del-balon-de-oro-2026-esto-es-lo-que-dice-france-football-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-1WhzG_zyMmim0c4wBjqL5"
     }
   }
 ]
