@@ -1,5 +1,39 @@
 [
   {
+    "title": "Al Villarreal se le atraganta La Cerámica",
+    "url": "https://www.marca.com/futbol/villarreal/2026/10/30/villarreal-le-atraganta-ceramica.html",
+    "summary": "Los amarillos firman uno de sus peores arranques para sumar sólo 4 puntos en su feudo",
+    "published": "Fri, 30 Oct 2026 23:15:25 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae516ef86f17.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فياريال يختنق على لا سيراميكا",
+    "arabic_summary": "يتمتع الفريق الأصفر بواحدة من أسوأ بداياته حيث أضاف 4 نقاط فقط إلى إقطاعيتهم",
+    "translation_status": "translated",
+    "post_title": "فياريال يختنق على لا سيراميكا",
+    "post_text": "🚨 فياريال يختنق على لا سيراميكا\n\n📝 يتمتع الفريق الأصفر بواحدة من أسوأ بداياته حيث أضاف 4 نقاط فقط إلى إقطاعيتهم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1094060446592599",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فياريال_يختنق_على_لا_سيراميكا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/villarreal/2026/10/30/villarreal-le-atraganta-ceramica.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVi0KRAUIXnaeTxhFlZ5egP"
+    }
+  },
+  {
     "title": "Yamashita in command as Hull and Woad fall away in Kuala Lumpur",
     "url": "https://www.skysports.com/golf/news/12040/13606048/maybank-championship-miyu-yamashita-in-command-as-charley-hull-and-lottie-woad-fall-away-in-kuala-lumpur",
     "summary": "Defending champion Miyu Yamashita carries a two-stroke lead into Sunday's final round of the LPGA Tour's Maybank Championship after shooting a five-under 67 on Saturday.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AA5Px6N-q1ZVj0OVnnADDnd"
-    }
-  },
-  {
-    "title": "Carabao Cup: Fleetwood vs Arsenal LIVE!",
-    "url": "https://www.skysports.com/football/fleetwood-town-vs-arsenal/live/578610",
-    "summary": "",
-    "published": "Mon, 26 Oct 2026 17:17:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-carabao-cup-fleetwood-town_7387591.jpg?20261026093618",
-    "media_type": "image/jpg",
-    "arabic_title": "كأس كاراباو: فليتوود vs آرسنال بث مباشر!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كأس كاراباو: فليتوود vs آرسنال بث مباشر!",
-    "post_text": "🚨 كأس كاراباو: فليتوود vs آرسنال بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090301080301869",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كأس_كاراباو_فليتوود_vs_آرسنال_بث_مباشر!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/fleetwood-town-vs-arsenal/live/578610",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxfVQouaQxdnCU48GAUJrUi"
     }
   }
 ]
