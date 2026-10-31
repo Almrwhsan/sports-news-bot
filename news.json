@@ -1,5 +1,39 @@
 [
   {
+    "title": "El ‘efecto Kang-in’ obliga a madrugar al Atlético",
+    "url": "https://as.com/futbol/primera/el-efecto-kang-in-obliga-a-madrugar-al-atletico-f202610-n/",
+    "summary": "Segundo partido en lo que va de Liga de los rojiblancos a las 14:00, horario ideal para que se vea en Corea. Al equipo le toca cambio de rutina.",
+    "published": "Sat, 31 Oct 2026 00:57:35 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2QR7KWCS2BA4JPAUUCFYXB3LKE.png?auth=89723eee92c75d8b44ea2c4337c06c91e38357516d1a8a2ad4a2c15670d59511",
+    "media_type": "image/png",
+    "arabic_title": "\"تأثير كانغ إن\" يجبر أتلتيكو على الاستيقاظ مبكرًا",
+    "arabic_summary": "المباراة الثانية حتى الآن في الدوري الأحمر والأبيض الساعة 2:00 بعد الظهر، وهو الوقت المثالي لمشاهدتها في كوريا. الفريق لديه تغيير في الروتين.",
+    "translation_status": "translated",
+    "post_title": "\"تأثير كانغ إن\" يجبر أتلتيكو على الاستيقاظ مبكرًا",
+    "post_text": "🚨 \"تأثير كانغ إن\" يجبر أتلتيكو على الاستيقاظ مبكرًا\n\n📝 المباراة الثانية حتى الآن في الدوري الأحمر والأبيض الساعة 2:00 بعد الظهر، وهو الوقت المثالي لمشاهدتها في كوريا. الفريق لديه تغيير في الروتين.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1094152813250029",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تأثير_كانغ_إن_يجبر_أتلتيكو_على_الاستيقاظ_مبكرًا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-efecto-kang-in-obliga-a-madrugar-al-atletico-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARgeh2dcalnZtpaDyo0-BG0"
+    }
+  },
+  {
     "title": "Natalia-Zubieta, el dúo dinámico del Atlético",
     "url": "https://as.com/futbol/femenino/natalia-zubieta-el-duo-dinamico-del-atletico-f202610-n/",
     "summary": "David González viene usando a las dos centrocampistas con grandes resultados para el equipo rojiblanco, que visita al Granada sin Lola, Jensen ni Alexia Fernández.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Af3UxQRn2tomY-kkocXdd6o"
-    }
-  },
-  {
-    "title": "Otorbi renueva con el Valencia hasta 2031",
-    "url": "https://www.marca.com/futbol/valencia/2026/10/27/otorbi-renueva-valencia-2031.html",
-    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
-    "published": "Tue, 27 Oct 2026 13:58:44 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae09fd4cb0ad.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أوتوربي يجدد مع فالنسيا حتى 2031",
-    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
-    "translation_status": "translated",
-    "post_title": "أوتوربي يجدد مع فالنسيا حتى 2031",
-    "post_text": "🚨 أوتوربي يجدد مع فالنسيا حتى 2031\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090451173620193",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوتوربي_يجدد_مع_فالنسيا_حتى_2031.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/10/27/otorbi-renueva-valencia-2031.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9U8eLsv14hAxAIk1NF2cKp"
     }
   }
 ]
