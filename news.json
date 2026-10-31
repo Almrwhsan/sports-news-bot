@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un Mallorca con dos caras busca su mejor versión",
+    "url": "https://www.marca.com/futbol/mallorca/2026/10/30/mallorca-dos-caras-busca-mejor-version.html",
+    "summary": "El equipo vuelve el lunes a Son Moix tras dos partidos fuera de casa, donde solo ha ganado un partido esta temporada",
+    "published": "Fri, 30 Oct 2026 17:02:01 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae4bf0cd79e2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مايوركا ذو الوجهين يبحث عن أفضل نسخة له",
+    "arabic_summary": "ويعود الفريق إلى سون مويكس يوم الاثنين بعد مباراتين خارج أرضه، حيث فازوا بمباراة واحدة فقط هذا الموسم",
+    "translation_status": "translated",
+    "post_title": "مايوركا ذو الوجهين يبحث عن أفضل نسخة له",
+    "post_text": "🚨 مايوركا ذو الوجهين يبحث عن أفضل نسخة له\n\n📝 ويعود الفريق إلى سون مويكس يوم الاثنين بعد مباراتين خارج أرضه، حيث فازوا بمباراة واحدة فقط هذا الموسم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093711446627499",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مايوركا_ذو_الوجهين_يبحث_عن_أفضل_نسخة_له.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/mallorca/2026/10/30/mallorca-dos-caras-busca-mejor-version.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-Uu0cky9meF0Y3hDwf42Zu"
+    }
+  },
+  {
     "title": "Un equipo escocés tendrá que jugar dos partidos a la vez",
     "url": "https://www.marca.com/futbol/2026/10/30/equipo-escoces-tendra-jugar-dos-partidos-vez.html",
     "summary": "El Johnstone alineará a dos equipos distintos al no poder reprogramar sus partidos",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwmbPEfnhIed8lLQiEBLwWS"
-    }
-  },
-  {
-    "title": "El Burgos es de playoff en un lunes al gol",
-    "url": "https://as.com/futbol/segunda/el-burgos-es-de-playoff-en-un-lunes-al-gol-f202610-n/",
-    "summary": "Primera mitad con una pegada brutal: cinco tantos. Los de Sergio Francisco siempre fueron por delante ante un Andorra fallón. Karrikaburu hizo buena la ley del ex con su gol... y se lesionó.",
-    "published": "Mon, 26 Oct 2026 21:29:57 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "بورغوس في مباراة فاصلة يوم الاثنين على المرمى",
-    "arabic_summary": "الشوط الأول بلكمة وحشية: خمسة أهداف. كان رجال سيرجيو فرانسيسكو متقدمين دائمًا على أندورا الفاشلة. كاريكابورو جعل قانون الأول جيدًا بهدفه... وأصيب.",
-    "translation_status": "translated",
-    "post_title": "بورغوس في مباراة فاصلة يوم الاثنين على المرمى",
-    "post_text": "🚨 بورغوس في مباراة فاصلة يوم الاثنين على المرمى\n\n📝 الشوط الأول بلكمة وحشية: خمسة أهداف. كان رجال سيرجيو فرانسيسكو متقدمين دائمًا على أندورا الفاشلة. كاريكابورو جعل قانون الأول جيدًا بهدفه... وأصيب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1089934463671864",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بورغوس_في_مباراة_فاصلة_يوم_الاثنين_على_المرمى.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AK30vY5ZFHEJ8HeK1ThODSo"
     }
   }
 ]
