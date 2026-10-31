@@ -1,5 +1,39 @@
 [
   {
+    "title": "Levante vs Atlético: Maldición antes de la tormenta",
+    "url": "https://www.marca.com/futbol/atletico/2026/10/30/levante-vs-atletico-maldicion-tormenta.html",
+    "summary": "Hoy, la antesala de sus choques en el Metropolitano ante Bayern y Barça • Los valencianos, a dos puntos de todo",
+    "published": "Fri, 30 Oct 2026 23:54:52 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae4d9c7c4689.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ليفانتي ضد أتلتيكو: لعنة ما قبل العاصفة",
+    "arabic_summary": "اليوم مقدمة لمواجهتهما في الميتروبوليتانو ضد بايرن وبرشلونة • فالنسيا على بعد نقطتين من كل شيء",
+    "translation_status": "translated",
+    "post_title": "ليفانتي ضد أتلتيكو: لعنة ما قبل العاصفة",
+    "post_text": "🚨 ليفانتي ضد أتلتيكو: لعنة ما قبل العاصفة\n\n📝 اليوم مقدمة لمواجهتهما في الميتروبوليتانو ضد بايرن وبرشلونة • فالنسيا على بعد نقطتين من كل شيء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1094088273256483",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليفانتي_ضد_أتلتيكو_لعنة_ما_قبل_العاصفة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/10/30/levante-vs-atletico-maldicion-tormenta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUKb5Fu5d2UkdSihu6xEbc0"
+    }
+  },
+  {
     "title": "Pau Navarro señala a la grada de La Cerámica: \"No puede ser que en el minuto 75 el campo esté vacío\"",
     "url": "https://www.marca.com/futbol/villarreal/2026/10/30/pau-navarro-senala-grada-ceramica-minuto-75-campo-vacio.html",
     "summary": "El defensa amarillo pide unidad entre equipo y afición tras la derrota ante el Espanyol y pide apoyo a los hinchas hasta el final",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZLmSNCyFsrJILOcfBhlBt5"
-    }
-  },
-  {
-    "title": "Man Utd latest: Rooney's son Kai scores four in U18s match",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Tue, 27 Oct 2026 15:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار مانشستر يونايتد: كاي نجل روني يسجل أربعة أهداف في مباراة تحت 18 عامًا",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار مانشستر يونايتد: كاي نجل روني يسجل أربعة أهداف في مباراة تحت 18 عامًا",
-    "post_text": "🚨 آخر أخبار مانشستر يونايتد: كاي نجل روني يسجل أربعة أهداف في مباراة تحت 18 عامًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090339636964680",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_مانشستر_يونايتد_كاي_نجل_روني_يسجل_أربعة_أهداف_في_مباراة_تحت_18_عامًا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9ls4CA54ra-KziVyiVhoL-"
     }
   }
 ]
