@@ -1,5 +1,39 @@
 [
   {
+    "title": "Leicester top table after victory over Bristol",
+    "url": "https://www.skysports.com/rugby-union/bristol-vs-leicester/report/113851",
+    "summary": "Leicester moved to the top of the PREM table with a bonus-point 22-16 victory over Bristol at Ashton Gate in an error-ridden game.",
+    "published": "Fri, 30 Oct 2026 23:08:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-freddie-steward-leicester-tigers_7392393.jpg?20261030230646",
+    "media_type": "image/jpg",
+    "arabic_title": "ليستر سيتي يتصدر الترتيب بعد فوزه على بريستول",
+    "arabic_summary": "انتقل ليستر إلى صدارة جدول PREM بفوزه بنقطة إضافية 22-16 على بريستول عند أشتون جيت في مباراة مليئة بالأخطاء.",
+    "translation_status": "translated",
+    "post_title": "ليستر سيتي يتصدر الترتيب بعد فوزه على بريستول",
+    "post_text": "🚨 ليستر سيتي يتصدر الترتيب بعد فوزه على بريستول\n\n📝 انتقل ليستر إلى صدارة جدول PREM بفوزه بنقطة إضافية 22-16 على بريستول عند أشتون جيت في مباراة مليئة بالأخطاء.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1093884736610170",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليستر_سيتي_يتصدر_الترتيب_بعد_فوزه_على_بريستول.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/bristol-vs-leicester/report/113851",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Af87eswiJcn9wOjJq2LDybI"
+    }
+  },
+  {
     "title": "El pánico que sufrió un madridista en el Camp Nou tras festejar el 1-2 de Mbappé",
     "url": "https://as.com/futbol/videos/el-panico-que-sufrio-un-madridista-en-el-camp-nou-tras-festejar-el-1-2-de-mbappe-f202610-v/",
     "summary": "Un aficionado del Real Madrid vivió momentos de tensión en el campo del Barça después de celebrar el gol que diera la victoria a los blancos. La reacción de los blaugranas, deleznable.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATjk-1RtxLp3TJm80YGe_kt"
-    }
-  },
-  {
-    "title": "Smith ruled out of Cape Town Test late due to neck injury",
-    "url": "https://www.skysports.com/cricket/news/12040/13604271/australia-vs-south-africa-steve-smith-ruled-out-of-cape-town-test-due-to-injury",
-    "summary": "Steve Smith has been ruled out of Australia's third Test decider against South Africa in Cape Town after it was confirmed late on Tuesday morning that the batter had not fully recovered from a neck injury.",
-    "published": "Tue, 27 Oct 2026 08:02:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-steve-smith_7388450.jpg?20261027081958",
-    "media_type": "image/jpg",
-    "arabic_title": "استبعد سميث من اختبار كيب تاون في وقت متأخر بسبب إصابة في الرقبة",
-    "arabic_summary": "تم استبعاد ستيف سميث من اختبار أستراليا الثالث ضد جنوب إفريقيا في كيب تاون بعد التأكد في وقت متأخر من صباح الثلاثاء أن الضارب لم يتعاف تمامًا من إصابة في الرقبة.",
-    "translation_status": "translated",
-    "post_title": "استبعد سميث من اختبار كيب تاون في وقت متأخر بسبب إصابة في الرقبة",
-    "post_text": "🚨 استبعد سميث من اختبار كيب تاون في وقت متأخر بسبب إصابة في الرقبة\n\n📝 تم استبعاد ستيف سميث من اختبار أستراليا الثالث ضد جنوب إفريقيا في كيب تاون بعد التأكد في وقت متأخر من صباح الثلاثاء أن الضارب لم يتعاف تمامًا من إصابة في الرقبة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1090127860319191",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استبعد_سميث_من_اختبار_كيب_تاون_في_وقت_متأخر_بسبب_إصابة_في_الرقبة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13604271/australia-vs-south-africa-steve-smith-ruled-out-of-cape-town-test-due-to-injury",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Au3ipo58yNrpJH2-YDdhopk"
     }
   }
 ]
