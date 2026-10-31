@@ -1,5 +1,39 @@
 [
   {
+    "title": "SLC semis: Rangers 1-0 Aberdeen - Full Time",
+    "url": "https://www.skysports.com/football/rangers-vs-aberdeen/teams/558404",
+    "summary": "",
+    "published": "Sat, 31 Oct 2026 17:25:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-findlay-curtis-kevin-nisbet_7335487.jpg?20260830121133",
+    "media_type": "image/jpg",
+    "arabic_title": "نصف نهائي SLC: رينجرز 1-0 أبردين - دوام كامل",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "نصف نهائي SLC: رينجرز 1-0 أبردين - دوام كامل",
+    "post_text": "🚨 نصف نهائي SLC: رينجرز 1-0 أبردين - دوام كامل\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1094473263217984",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نصف_نهائي_SLC_رينجرز_1-0_أبردين_-_دوام_كامل.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/rangers-vs-aberdeen/teams/558404",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOQdGJAYoT-K2yfZdqlybYY"
+    }
+  },
+  {
     "title": "El Kopa vuelve a LaLiga",
     "url": "https://as.com/futbol/primera/el-kopa-vuelve-a-laliga-f202610-n/",
     "summary": "El Barcelona recibe al Alavés confiando en que Lamine Yamal lidere la reacción tras una mala semana.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aih7uD-E_Jy5DRLjwYQGMfq"
-    }
-  },
-  {
-    "title": "La ejemplar frase de Cucurella a Martínez Munuera en El Clásico que habrá encantado en el CTA",
-    "url": "https://as.com/futbol/videos/la-ejemplar-frase-de-cucurella-a-martinez-munuera-en-el-clasico-que-habra-encantado-en-el-cta-f202610-v/",
-    "summary": "LaLiga ha publicado la RefCam del Clásico y, entre otras muchas cosas, destaca esta secuencia del campeón del mundo con el colegiado benidormense al final del mismo.",
-    "published": "Tue, 27 Oct 2026 17:12:02 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261027/1230654_170925_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "العبارة المثالية من كوكوريلا إلى مارتينيز مونويرا في الكلاسيكو والتي ستسعد CTA",
-    "arabic_summary": "نشرت LaLiga الكاميرا المرجعية الخاصة بمباراة الكلاسيكو، ومن بين أشياء أخرى كثيرة، يبرز هذا التسلسل لبطل العالم مع حكم بينيدورم في نهايته.",
-    "translation_status": "translated",
-    "post_title": "العبارة المثالية من كوكوريلا إلى مارتينيز مونويرا في الكلاسيكو والتي ستسعد CTA",
-    "post_text": "🚨 العبارة المثالية من كوكوريلا إلى مارتينيز مونويرا في الكلاسيكو والتي ستسعد CTA\n\n📝 نشرت LaLiga الكاميرا المرجعية الخاصة بمباراة الكلاسيكو، ومن بين أشياء أخرى كثيرة، يبرز هذا التسلسل لبطل العالم مع حكم بينيدورم في نهايته.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1091217936876850",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/العبارة_المثالية_من_كوكوريلا_إلى_مارتينيز_مونويرا_في_الكلاسيكو_والتي_ستسعد_CTA.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvTVPz8e4ToT2uLN7nV7Dcl"
     }
   }
 ]
