@@ -1,5 +1,39 @@
 [
   {
+    "title": "Este chico no mete un gol normal: barbaridad absoluta de Diomande",
+    "url": "https://as.com/futbol/videos/este-chico-no-mete-un-gol-normal-barbaridad-absoluta-de-diomande-f202611-v/",
+    "summary": "El costamarfileño se ha abonado a meter golazos y ante el Racing lo volvió a demostrar. Qué derechazo a la escuadra.",
+    "published": "Sun, 01 Nov 2026 17:06:07 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "هذا الصبي لا يسجل هدفًا عاديًا: الفظائع المطلقة من ديوماندي",
+    "arabic_summary": "لقد اشترك الإيفواري في تسجيل أهداف رائعة وأظهر ذلك مرة أخرى ضد راسينغ. يا لها من تسديدة صحيحة للفريق.",
+    "translation_status": "translated",
+    "post_title": "هذا الصبي لا يسجل هدفًا عاديًا: الفظائع المطلقة من ديوماندي",
+    "post_text": "🚨 هذا الصبي لا يسجل هدفًا عاديًا: الفظائع المطلقة من ديوماندي\n\n📝 لقد اشترك الإيفواري في تسجيل أهداف رائعة وأظهر ذلك مرة أخرى ضد راسينغ. يا لها من تسديدة صحيحة للفريق.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095366186462025",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذا_الصبي_لا_يسجل_هدفًا_عاديًا_الفظائع_المطلقة_من_ديوماندي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/videos/este-chico-no-mete-un-gol-normal-barbaridad-absoluta-de-diomande-f202611-v/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5pTzULgx4K7-j8qeBfoSK8"
+    }
+  },
+  {
     "title": "Brian Fariñas, la sorpresa de Flick: un amigo de Lamine y un dorsal histórico",
     "url": "https://as.com/futbol/brian-farinas-la-sorpresa-de-flick-un-amigo-de-lamine-y-un-dorsal-historico-f202610-n/",
     "summary": "El jugador de Benicarló ha convencido a Flick y es titular ante el Alavés. Hizo buenas migas con Lamine. Lleva el número ‘4′.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6sExAQxfGypHiPo0_moY9q"
-    }
-  },
-  {
-    "title": "Jake Paul to make boxing return on Christmas Eve",
-    "url": "https://www.skysports.com/boxing/news/12040/13604956/jake-paul-to-make-boxing-return-on-christmas-eve-in-dubai-with-opponent-to-be-revealed",
-    "summary": "Jake Paul is set to make his return to the ring on Christmas Eve in Dubai with his opponent to be revealed.",
-    "published": "Thu, 29 Oct 2026 11:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-jake-paul-boxing_7315286.jpg?20261028175430",
-    "media_type": "image/jpg",
-    "arabic_title": "جيك بول يعود للملاكمة عشية عيد الميلاد",
-    "arabic_summary": "من المقرر أن يعود جيك بول إلى الحلبة عشية عيد الميلاد في دبي مع الكشف عن خصمه.",
-    "translation_status": "translated",
-    "post_title": "جيك بول يعود للملاكمة عشية عيد الميلاد",
-    "post_text": "🚨 جيك بول يعود للملاكمة عشية عيد الميلاد\n\n📝 من المقرر أن يعود جيك بول إلى الحلبة عشية عيد الميلاد في دبي مع الكشف عن خصمه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1092181386780505",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيك_بول_يعود_للملاكمة_عشية_عيد_الميلاد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13604956/jake-paul-to-make-boxing-return-on-christmas-eve-in-dubai-with-opponent-to-be-revealed",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABqFDOj321l-nqjC0VaKtl5"
     }
   }
 ]
