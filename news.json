@@ -1,5 +1,39 @@
 [
   {
+    "title": "Abde y el PSG: “Son mentiras”",
+    "url": "https://as.com/futbol/primera/abde-y-el-psg-son-mentiras-f202611-n/",
+    "summary": "El extremo del Betis sigue brillando como el mejor de su equipo y la grave lesión de Kvaratskhelia hace que se especule con un interés desde Francia. En Heliópolis no consta.",
+    "published": "Sun, 01 Nov 2026 08:56:48 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6ZNOSZ2LYFIQNKMN3LJ3I7US2E.jpg?auth=67831069fd2f9393ada0c98b26a2d67b96b4d81e8e688cf7ca817279eaebb868",
+    "media_type": "image/jpeg",
+    "arabic_title": "عبدي وباريس سان جيرمان: \"إنها أكاذيب\"",
+    "arabic_summary": "يواصل جناح بيتيس التألق كأفضل لاعب في فريقه، كما أن إصابة كفاراتسخيليا الخطيرة أدت إلى تكهنات باهتمام فرنسا. وفي مصر الجديدة لا يظهر.",
+    "translation_status": "translated",
+    "post_title": "عبدي وباريس سان جيرمان: \"إنها أكاذيب\"",
+    "post_text": "🚨 عبدي وباريس سان جيرمان: \"إنها أكاذيب\"\n\n📝 يواصل جناح بيتيس التألق كأفضل لاعب في فريقه، كما أن إصابة كفاراتسخيليا الخطيرة أدت إلى تكهنات باهتمام فرنسا. وفي مصر الجديدة لا يظهر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095196623145648",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عبدي_وباريس_سان_جيرمان_إنها_أكاذيب.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/abde-y-el-psg-son-mentiras-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AbbqVfA9YN61RxBZ4cDRRdw"
+    }
+  },
+  {
     "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
     "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
     "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ACdVOkj4ijJSJJuEAhJx7gO"
-    }
-  },
-  {
-    "title": "The Unpromotables: Germany's league champions who can't go up",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
-    "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
-    "published": "Fri, 02 Oct 2026 06:37:49 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/5df4b650-bcbf-11f1-810a-9579202680fa.jpg",
-    "media_type": null,
-    "arabic_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
-    "arabic_summary": "تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.",
-    "translation_status": "translated",
-    "post_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
-    "post_text": "🚨 غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود\n\n📝 تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1091881573477153",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غير_القابلين_للترقية_أبطال_الدوري_الألماني_الذين_لا_يستطيعون_الصعود.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7vUMFWW1_bQPdOoibw7Trn"
     }
   }
 ]
