@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Lugo convierte el Anxo Carro en un fortín",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/02/lugo-convierte-anxo-carro-fortin.html",
+    "summary": "Gallar y Chiqui anotaron en el primer tiempo y el equipo lucense aguantó el empuje visitante en el segundo",
+    "published": "Mon, 02 Nov 2026 00:48:35 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae7cf2c3fe4a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يقوم \"لوغو\" بتحويل \"أنكسو كارو\" إلى حصن",
+    "arabic_summary": "وسجل جالار وتشيكي في الشوط الأول وصمد فريق لوجو أمام ضغط الضيوف في الشوط الثاني",
+    "translation_status": "translated",
+    "post_title": "يقوم \"لوغو\" بتحويل \"أنكسو كارو\" إلى حصن",
+    "post_text": "🚨 يقوم \"لوغو\" بتحويل \"أنكسو كارو\" إلى حصن\n\n📝 وسجل جالار وتشيكي في الشوط الأول وصمد فريق لوجو أمام ضغط الضيوف في الشوط الثاني\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095552723110038",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يقوم_لوغو_بتحويل_أنكسو_كارو_إلى_حصن.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/02/lugo-convierte-anxo-carro-fortin.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFDSwVf36QTOUWz_1XDCXLE"
+    }
+  },
+  {
     "title": "Un penalti en el minuto 97 tumba a la Cultural en O Couto",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/11/02/penalti-minuto-97-tumba-cultural-couto.html",
     "summary": "El equipo de Jandro Castro pierde ante la UD Ourense después de dominar buena parte del encuentro y desperdiciar varias ocasiones claras",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AS4dvPEXfbbo76VqU7u74XI"
-    }
-  },
-  {
-    "title": "Prat 1-6 Athletic | Resumen",
-    "url": "https://www.marca.com/futbol/2026/10/30/prat-1-6-athletic-resumen-video.html",
-    "summary": "",
-    "published": "Fri, 30 Oct 2026 00:29:17 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/gTSzY1guzR08jvtIo.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "برات 1-6 رياضي | استئناف",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "برات 1-6 رياضي | استئناف",
-    "post_text": "🚨 برات 1-6 رياضي | استئناف\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1092461246752519",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برات_1-6_رياضي_استئناف.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/10/30/prat-1-6-athletic-resumen-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlaD9GXxiVJRCpxuF5BdJz2"
     }
   }
 ]
