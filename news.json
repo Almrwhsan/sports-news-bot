@@ -1,5 +1,39 @@
 [
   {
+    "title": "Brian Fariñas, la sorpresa de Flick: un amigo de Lamine y un dorsal histórico",
+    "url": "https://as.com/futbol/brian-farinas-la-sorpresa-de-flick-un-amigo-de-lamine-y-un-dorsal-historico-f202610-n/",
+    "summary": "El jugador de Benicarló ha convencido a Flick y es titular ante el Alavés. Hizo buenas migas con Lamine. Lleva el número ‘4′.",
+    "published": "Sat, 31 Oct 2026 19:08:35 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7NVOUYTFQJI7HFTN5VRV2AVQXY.jpg?auth=f9f6f056be3d49c46af0c01fbe903918d55dd7a2435d3003f659c764ad698923",
+    "media_type": "image/jpeg",
+    "arabic_title": "بريان فاريناس مفاجأة فليك: صديق لامين ورقم تاريخي",
+    "arabic_summary": "أقنع لاعب بينيكارلو فليك وبدأ أساسيًا ضد ألافيس. لقد ضربها مع لامين. ويحمل الرقم \"4\".",
+    "translation_status": "translated",
+    "post_title": "بريان فاريناس مفاجأة فليك: صديق لامين ورقم تاريخي",
+    "post_text": "🚨 بريان فاريناس مفاجأة فليك: صديق لامين ورقم تاريخي\n\n📝 أقنع لاعب بينيكارلو فليك وبدأ أساسيًا ضد ألافيس. لقد ضربها مع لامين. ويحمل الرقم \"4\".\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095355916463052",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بريان_فاريناس_مفاجأة_فليك_صديق_لامين_ورقم_تاريخي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/brian-farinas-la-sorpresa-de-flick-un-amigo-de-lamine-y-un-dorsal-historico-f202610-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-CHydbycml2fuAxHIJUnAr"
+    }
+  },
+  {
     "title": "La opinión de Roncero sobre el penalti del 0-1 a Mbappé que hay que escuchar hasta el final: “No es penalti, pero...”",
     "url": "https://as.com/futbol/videos/se-esta-diciendo-de-todo-pero-esto-no-y-va-a-a-sorprender-a-madridistas-y-cules-roncero-sobre-el-penalti-a-mbappe-f202611-v/",
     "summary": "El subdirector de AS ha expresado, en Carrusel Deportivo, su opinión sin tapujos sobre la jugada que ha abierto el marcador en El Sardinero.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABqFDOj321l-nqjC0VaKtl5"
-    }
-  },
-  {
-    "title": "Grimaldo, a la caza de Filipe Luis",
-    "url": "https://as.com/futbol/primera/grimaldo-a-la-caza-de-filipe-luis-f202610-n/",
-    "summary": "El valenciano ya ha participado en cinco goles. El brasileño tiene el récord del Cholo en defensa de cuatro con diez. Carrasco, Llorente y Lino, carrileros con numerazos.",
-    "published": "Thu, 29 Oct 2026 14:57:43 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SZ4VECIOYBJTXA2LLN5FPU34GA.jpg?auth=5f2d7917d703cb2b5934970371881a10567f7433256129f8a845c82743bac0cd",
-    "media_type": "image/jpeg",
-    "arabic_title": "جريمالدو يبحث عن فيليبي لويس",
-    "arabic_summary": "وقد شارك بلنسية بالفعل في خمسة أهداف. يمتلك البرازيلي سجل دفاع تشولو وهو أربعة وعشرة. كاراسكو ويورينتي ولينو، ممرات ذات أعداد كبيرة.",
-    "translation_status": "translated",
-    "post_title": "جريمالدو يبحث عن فيليبي لويس",
-    "post_text": "🚨 جريمالدو يبحث عن فيليبي لويس\n\n📝 وقد شارك بلنسية بالفعل في خمسة أهداف. يمتلك البرازيلي سجل دفاع تشولو وهو أربعة وعشرة. كاراسكو ويورينتي ولينو، ممرات ذات أعداد كبيرة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1092177323447578",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جريمالدو_يبحث_عن_فيليبي_لويس.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/grimaldo-a-la-caza-de-filipe-luis-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdBHEtnrAyVmhx2kG0ijLcq"
     }
   }
 ]
