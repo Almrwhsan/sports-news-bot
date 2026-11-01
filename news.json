@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Zaragoza resucita otra vez",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/10/31/zaragoza-resucita-muertos-vez-salva-milagroso-empate-filial.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Sat, 31 Oct 2026 23:12:41 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/31/6ae667c5a44bb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سرقسطة يبعث من جديد",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "سرقسطة يبعث من جديد",
+    "post_text": "🚨 سرقسطة يبعث من جديد\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095257499806227",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سرقسطة_يبعث_من_جديد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/10/31/zaragoza-resucita-muertos-vez-salva-milagroso-empate-filial.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANcI3X20S33Io8rdSygrEhS"
+    }
+  },
+  {
     "title": "AGONISING! Student has dart at the bull to beat Littler and win £501,000!",
     "url": "https://www.skysports.com/watch/video/13606038/luke-littler-agonising-student-has-dart-at-the-bull-to-beat-luke-littler-and-win-501000",
     "summary": "Irish student Pearse Mackie came agonisingly close to beating Luke Littler and claiming the &#163;501,000 prize!",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6JD72sceYqX5gICnFWVqGP"
-    }
-  },
-  {
-    "title": "Fábio Paim, el futbolista que era \"mejor que Cristiano\" y acabó de narco, es acusado de violación",
-    "url": "https://www.marca.com/futbol/liga-portuguesa/2026/10/29/fabio-paim-futbolista-mejor-cristiano-acabo-narco-acusado-violacion.html",
-    "summary": "La acusación de violación a Fábio Paim es el capítulo más reciente de una trayectoria marcada por episodios judiciales, decisiones controvertidas y oportunidades desperdiciadas.",
-    "published": "Thu, 29 Oct 2026 08:10:53 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae2f1721e6a2.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فابيو بايم، لاعب كرة القدم الذي كان \"أفضل من كريستيانو\" وانتهى به الأمر كمهرب مخدرات، متهم بالاغتصاب",
-    "arabic_summary": "تعتبر تهمة الاغتصاب الموجهة ضد فابيو بايم أحدث فصل في مسار يتسم بحلقات قضائية وقرارات مثيرة للجدل وفرص ضائعة.",
-    "translation_status": "translated",
-    "post_title": "فابيو بايم، لاعب كرة القدم الذي كان \"أفضل من كريستيانو\" وانتهى به الأمر كمهرب مخدرات، متهم بالاغتصاب",
-    "post_text": "🚨 فابيو بايم، لاعب كرة القدم الذي كان \"أفضل من كريستيانو\" وانتهى به الأمر كمهرب مخدرات، متهم بالاغتصاب\n\n📝 تعتبر تهمة الاغتصاب الموجهة ضد فابيو بايم أحدث فصل في مسار يتسم بحلقات قضائية وقرارات مثيرة للجدل وفرص ضائعة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1091988483466462",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فابيو_بايم،_لاعب_كرة_القدم_الذي_كان_أفضل_من_كريستيانو_وانتهى_به_الأمر_كمهرب_مخدر.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/liga-portuguesa/2026/10/29/fabio-paim-futbolista-mejor-cristiano-acabo-narco-acusado-violacion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYzninm1dE9BmRCTd2k6-8v"
     }
   }
 ]
