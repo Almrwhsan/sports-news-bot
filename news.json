@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kerolin ya ha llegado",
+    "url": "https://as.com/futbol/femenino/kerolin-ya-ha-llegado-f202611-n/",
+    "summary": "El Barcelona ganó al Badalona Women con doblete de la brasileña en el mejor partido desde su llegada. Las badalonesas, con muchas bajas.",
+    "published": "Sun, 01 Nov 2026 13:28:48 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/S5LLRTNMBZGKTP3U5ITAJC4SVE.jpg?auth=e03bfbea3987425827ac84a2b341da288aa23f6b0e087da4b33c7125e13d576c",
+    "media_type": "image/jpeg",
+    "arabic_title": "لقد وصل كيرولين بالفعل",
+    "arabic_summary": "فاز برشلونة على سيدات بادالونا بثنائية من البرازيلية في أفضل مباراة منذ وصولها. البادالونيساس، مع سقوط العديد من الضحايا.",
+    "translation_status": "translated",
+    "post_title": "لقد وصل كيرولين بالفعل",
+    "post_text": "🚨 لقد وصل كيرولين بالفعل\n\n📝 فاز برشلونة على سيدات بادالونا بثنائية من البرازيلية في أفضل مباراة منذ وصولها. البادالونيساس، مع سقوط العديد من الضحايا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095310983134212",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_وصل_كيرولين_بالفعل.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/femenino/kerolin-ya-ha-llegado-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASXLk1FUeXqMWPwPwD0UAvY"
+    }
+  },
+  {
     "title": "All done deals in September & October 2026",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
     "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVmqqu2gSjjBPK4i4ArC446"
-    }
-  },
-  {
-    "title": "El Celta lleva treinta y tres años años sin ganar en Vallecas en Primera",
-    "url": "https://www.marca.com/futbol/celta/2026/10/29/celta-lleva-treinta-tres-anos-anos-ganar-vallecas-primera.html",
-    "summary": "Hace dieciséis años vencieron pero fue en Segunda",
-    "published": "Thu, 29 Oct 2026 10:07:50 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/25/6ade47e156552.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لم يفز سيلتا في فاليكاس في دوري الدرجة الأولى منذ ثلاثة وثلاثين عامًا",
-    "arabic_summary": "قبل ستة عشر عامًا فازوا لكنه كان في المركز الثاني",
-    "translation_status": "translated",
-    "post_title": "لم يفز سيلتا في فاليكاس في دوري الدرجة الأولى منذ ثلاثة وثلاثين عامًا",
-    "post_text": "🚨 لم يفز سيلتا في فاليكاس في دوري الدرجة الأولى منذ ثلاثة وثلاثين عامًا\n\n📝 قبل ستة عشر عامًا فازوا لكنه كان في المركز الثاني\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1092051210126856",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لم_يفز_سيلتا_في_فاليكاس_في_دوري_الدرجة_الأولى_منذ_ثلاثة_وثلاثين_عامًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/celta/2026/10/29/celta-lleva-treinta-tres-anos-anos-ganar-vallecas-primera.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0fQyjQq741lG50JFWaOVgZ"
     }
   }
 ]
