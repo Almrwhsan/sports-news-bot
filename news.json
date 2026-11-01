@@ -1,5 +1,39 @@
 [
   {
+    "title": "Life as a Wag in the transfer window",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+    "published": "Sat, 08 Aug 2026 05:15:34 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
+    "media_type": null,
+    "arabic_title": "الحياة كهزات في فترة الانتقالات",
+    "arabic_summary": "كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟",
+    "translation_status": "translated",
+    "post_title": "الحياة كهزات في فترة الانتقالات",
+    "post_text": "🚨 الحياة كهزات في فترة الانتقالات\n\n📝 كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1095245339807443",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحياة_كهزات_في_فترة_الانتقالات.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARV_A2KC38xXLBMX8WYc1e5"
+    }
+  },
+  {
     "title": "La victoria menos importante",
     "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/31/futbol-importante-cosas-importantes.html",
     "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfbCifbZT0DNkdD13uHkekC"
-    }
-  },
-  {
-    "title": "Désiré Doué, el nuevo líder \"alucinante\" del PSG de Luis Enrique",
-    "url": "https://www.marca.com/futbol/liga-francesa/2026/10/29/desire-doue-nuevo-lider-alucinante-psg-luis-enrique.html",
-    "summary": "\"Dio el salto hace unos meses. Es bicampeón de Europa, desempeñando un papel importante en ambas ocasiones. Aprendió rápido. Luis Enrique le aporta muchas cosas\"",
-    "published": "Thu, 29 Oct 2026 07:20:09 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae2e485e486a.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ديزيريه دوي، القائد الجديد \"المذهل\" لباريس سان جيرمان بقيادة لويس إنريكي",
-    "arabic_summary": "\"لقد حقق هذه القفزة قبل بضعة أشهر. إنه بطل أوروبا مرتين، ولعب دورًا مهمًا في كلتا المناسبتين. لقد تعلم بسرعة. جلب له لويس إنريكي أشياء كثيرة\"",
-    "translation_status": "translated",
-    "post_title": "ديزيريه دوي، القائد الجديد \"المذهل\" لباريس سان جيرمان بقيادة لويس إنريكي",
-    "post_text": "🚨 ديزيريه دوي، القائد الجديد \"المذهل\" لباريس سان جيرمان بقيادة لويس إنريكي\n\n📝 \"لقد حقق هذه القفزة قبل بضعة أشهر. إنه بطل أوروبا مرتين، ولعب دورًا مهمًا في كلتا المناسبتين. لقد تعلم بسرعة. جلب له لويس إنريكي أشياء كثيرة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1091979606800683",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديزيريه_دوي،_القائد_الجديد_المذهل_لباريس_سان_جيرمان_بقيادة_لويس_إنريكي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/liga-francesa/2026/10/29/desire-doue-nuevo-lider-alucinante-psg-luis-enrique.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aoq3YxYCffD48szd1Xl3NVO"
     }
   }
 ]
