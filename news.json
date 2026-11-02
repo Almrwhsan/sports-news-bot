@@ -1,5 +1,39 @@
 [
   {
+    "title": "Merse: Man Utd will be in relegation zone in a month",
+    "url": "https://www.skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
+    "summary": "Paul Merson is back with his latest Sky Sports column with a damning condemnation of Manchester United's recent form and a grim prediction for their upcoming prospects.",
+    "published": "Mon, 02 Nov 2026 11:20:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-michael-carrick_7394780.jpg?20261102115507",
+    "media_type": "image/jpg",
+    "arabic_title": "ميرسي: سيكون مانشستر يونايتد في منطقة الهبوط خلال شهر",
+    "arabic_summary": "عاد بول ميرسون مع أحدث عمود له في سكاي سبورتس مع إدانة شديدة لشكل مانشستر يونايتد الأخير وتوقع قاتم لآفاقهم القادمة.",
+    "translation_status": "translated",
+    "post_title": "ميرسي: سيكون مانشستر يونايتد في منطقة الهبوط خلال شهر",
+    "post_text": "🚨 ميرسي: سيكون مانشستر يونايتد في منطقة الهبوط خلال شهر\n\n📝 عاد بول ميرسون مع أحدث عمود له في سكاي سبورتس مع إدانة شديدة لشكل مانشستر يونايتد الأخير وتوقع قاتم لآفاقهم القادمة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096124616386182",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميرسي_سيكون_مانشستر_يونايتد_في_منطقة_الهبوط_خلال_شهر.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AekClWOV6W4QJ1K_W9Nf061"
+    }
+  },
+  {
     "title": "Un dilema con el Cuti Romero",
     "url": "https://www.marca.com/futbol/atletico/2026/11/02/dilema-cuti-romero.html",
     "summary": "​El argentino fue el único de los suplentes en el Ciutat que no se entrenó sobre el verde en el ensayo post Levante. La duda: que sea el 'antiKane' frente al Bayern o reservarlo para el Barça",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9UOa8kQKS4R0wqGWqCjcB2"
-    }
-  },
-  {
-    "title": "Courtois sube al podio",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/30/courtois-sube-podio.html",
-    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
-    "published": "Fri, 30 Oct 2026 06:50:26 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/25/6addeedab4a59.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كورتوا يعتلي منصة التتويج",
-    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
-    "translation_status": "translated",
-    "post_title": "كورتوا يعتلي منصة التتويج",
-    "post_text": "🚨 كورتوا يعتلي منصة التتويج\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093057520026225",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كورتوا_يعتلي_منصة_التتويج.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/30/courtois-sube-podio.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnrNZW60DbBl_hVL8JFtzP5"
     }
   }
 ]
