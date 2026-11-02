@@ -1,5 +1,39 @@
 [
   {
+    "title": "Luz verde para Valverde",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/02/luz-verde-valverde.html",
+    "summary": "El centrocampista deja atrás sus molestias y estará, salvo contratiempo, a disposición de Mourinho para la Champions",
+    "published": "Mon, 02 Nov 2026 13:10:22 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae87d2a562f8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الضوء الأخضر لفالفيردي",
+    "arabic_summary": "يترك لاعب خط الوسط الانزعاج وراءه وسيكون، باستثناء النكسات، تحت تصرف مورينيو في دوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "الضوء الأخضر لفالفيردي",
+    "post_text": "🚨 الضوء الأخضر لفالفيردي\n\n📝 يترك لاعب خط الوسط الانزعاج وراءه وسيكون، باستثناء النكسات، تحت تصرف مورينيو في دوري أبطال أوروبا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096404519691525",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الضوء_الأخضر_لفالفيردي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/02/luz-verde-valverde.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJd7Mye-BCK3We22ZcBYV_P"
+    }
+  },
+  {
     "title": "Maurizio Mariani arbitrará el duelo ante el AEK de Atenas",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/02/maurizio-mariani-arbitrara-duelo-aek-atenas.html",
     "summary": "El colegiado italiano dirigirá por cuarta vez al Real Madrid en la Champions, donde presenta un balance de dos victorias y una derrota",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AO4P3Iai-c8mSpXx4kmsVGG"
-    }
-  },
-  {
-    "title": "El Jesé más implicado: \"Yo hablo en el campo, y vamos a ayudar al entrenador\"",
-    "url": "https://www.marca.com/futbol/las-palmas/2026/10/30/jese-implicado-hablo-campo-ayudar-entrenador.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Fri, 30 Oct 2026 12:26:14 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae47e7daad05.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الأكثر مشاركة خيسي: \"أنا أتحدث في الملعب وسنساعد المدرب\"",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "الأكثر مشاركة خيسي: \"أنا أتحدث في الملعب وسنساعد المدرب\"",
-    "post_text": "🚨 الأكثر مشاركة خيسي: \"أنا أتحدث في الملعب وسنساعد المدرب\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093268310005146",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأكثر_مشاركة_خيسي_أنا_أتحدث_في_الملعب_وسنساعد_المدرب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/las-palmas/2026/10/30/jese-implicado-hablo-campo-ayudar-entrenador.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APp41b-18YnpDTphHRIaxQ8"
     }
   }
 ]
