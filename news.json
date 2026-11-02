@@ -1,5 +1,39 @@
 [
   {
+    "title": "Aquella ‘maldita’ roja de San Mamés...",
+    "url": "https://as.com/futbol/primera/aquella-maldita-roja-de-san-mames-f202611-n/",
+    "summary": "El Sevilla lamenta que desde la presunta ‘ayuda’ arbitral de la primera jornada, la moneda siempre cae en contra. Sobre todo en los últimos cuatro partidos de LaLiga.",
+    "published": "Mon, 02 Nov 2026 09:19:43 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FCH5BIILINN6XJEXEU25LRIHQQ.jpg?auth=ca0d21f447d7cd487467b7c1d17235d038a52ea349eb4ee7d0ec38b350c36193",
+    "media_type": "image/jpeg",
+    "arabic_title": "ذلك الأحمر \"اللعنة\" من سان ماميس...",
+    "arabic_summary": "يأسف إشبيلية لأنه منذ \"مساعدة\" الحكم المزعوم في اليوم الأول، فإن العملة تسقط دائمًا. خاصة في آخر أربع مباريات في الدوري الإسباني.",
+    "translation_status": "translated",
+    "post_title": "ذلك الأحمر \"اللعنة\" من سان ماميس...",
+    "post_text": "🚨 ذلك الأحمر \"اللعنة\" من سان ماميس...\n\n📝 يأسف إشبيلية لأنه منذ \"مساعدة\" الحكم المزعوم في اليوم الأول، فإن العملة تسقط دائمًا. خاصة في آخر أربع مباريات في الدوري الإسباني.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096088809723096",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ذلك_الأحمر_اللعنة_من_سان_ماميس....png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/aquella-maldita-roja-de-san-mames-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AerUFNhdusNVr7_2zoFc2lG"
+    }
+  },
+  {
     "title": "Deadline looms for FIFA to answer UEFA's 42 questions on Infantino",
     "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfNKvKmdLlhM0oZ9vOI7F3a"
-    }
-  },
-  {
-    "title": "Merson: Liverpool must beat Arsenal to be in the title race",
-    "url": "https://www.skysports.com/football/news/12040/13604012/liverpool-vs-arsenal-andoni-iraolas-side-must-beat-the-premier-league-champions-to-be-in-the-title-race-says-paul-merson",
-    "summary": "In his latest Sky Sports column, Paul Merson believes Liverpool have to beat Arsenal at Anfield on Sunday to be contenders for the Premier League title.",
-    "published": "Fri, 30 Oct 2026 08:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-merson-says-andoni-iraola_7387906.jpg?20261026133750",
-    "media_type": "image/jpg",
-    "arabic_title": "ميرسون: يجب على ليفربول الفوز على أرسنال ليكون في سباق اللقب",
-    "arabic_summary": "في أحدث عمود له في سكاي سبورتس، يعتقد بول ميرسون أن ليفربول يجب أن يفوز على أرسنال في أنفيلد يوم الأحد ليكون منافسًا على لقب الدوري الإنجليزي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "ميرسون: يجب على ليفربول الفوز على أرسنال ليكون في سباق اللقب",
-    "post_text": "🚨 ميرسون: يجب على ليفربول الفوز على أرسنال ليكون في سباق اللقب\n\n📝 في أحدث عمود له في سكاي سبورتس، يعتقد بول ميرسون أن ليفربول يجب أن يفوز على أرسنال في أنفيلد يوم الأحد ليكون منافسًا على لقب الدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093014673363843",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميرسون_يجب_على_ليفربول_الفوز_على_أرسنال_ليكون_في_سباق_اللقب.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13604012/liverpool-vs-arsenal-andoni-iraolas-side-must-beat-the-premier-league-champions-to-be-in-the-title-race-says-paul-merson",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AF6DE_WTp7Wzi6EsKzNbNJH"
     }
   }
 ]
