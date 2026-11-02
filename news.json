@@ -1,5 +1,39 @@
 [
   {
+    "title": "Drama en el Heliodoro",
+    "url": "https://as.com/futbol/segunda/drama-en-el-heliodoro-f202611-n/",
+    "summary": "El encuentro entre el Tenerife y el Andorra acabó con una durísima entrada del meta Owono sobre De Miguel quien se tuvo que ir en ambulancia a un centro médico.",
+    "published": "Mon, 02 Nov 2026 15:17:51 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "الدراما في هيليودورو",
+    "arabic_summary": "وانتهت مباراة تينيريفي وأندورا بتدخل عنيف من حارس المرمى أوونو على دي ميغيل، مما اضطره للذهاب بسيارة الإسعاف إلى أحد المراكز الطبية.",
+    "translation_status": "translated",
+    "post_title": "الدراما في هيليودورو",
+    "post_text": "🚨 الدراما في هيليودورو\n\n📝 وانتهت مباراة تينيريفي وأندورا بتدخل عنيف من حارس المرمى أوونو على دي ميغيل، مما اضطره للذهاب بسيارة الإسعاف إلى أحد المراكز الطبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096417486356895",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الدراما_في_هيليودورو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/segunda/drama-en-el-heliodoro-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASVDh6e4R3mPwuxnIZkl4Qx"
+    }
+  },
+  {
     "title": "El Málaga ya firma el segundo peor arranque de su historia",
     "url": "https://www.marca.com/futbol/malaga/2026/11/02/malaga-firma-segundo-peor-arranque-historia.html",
     "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlfNg2Rsb5GkJ6rsdL_Eyit"
-    }
-  },
-  {
-    "title": "El derbi recreará la mítica imagen de 1976",
-    "url": "https://www.marca.com/futbol/athletic/2026/10/30/derbi-recreara-mitica-imagen-1976.html",
-    "summary": "Athletic y Real Sociedad acuerdan homenajear la foto de hace medio siglo con la misma bandera y mismos protagonistas",
-    "published": "Fri, 30 Oct 2026 13:08:00 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/gUiOQ1gvC_Xya2gbG.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الديربي سيعيد خلق الصورة الأسطورية لعام 1976",
-    "arabic_summary": "أتلتيك وريال سوسيداد يتفقان على تكريم الصورة منذ نصف قرن بنفس العلم ونفس الأبطال",
-    "translation_status": "translated",
-    "post_title": "الديربي سيعيد خلق الصورة الأسطورية لعام 1976",
-    "post_text": "🚨 الديربي سيعيد خلق الصورة الأسطورية لعام 1976\n\n📝 أتلتيك وريال سوسيداد يتفقان على تكريم الصورة منذ نصف قرن بنفس العلم ونفس الأبطال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093288970003080",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الديربي_سيعيد_خلق_الصورة_الأسطورية_لعام_1976.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/athletic/2026/10/30/derbi-recreara-mitica-imagen-1976.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWlRMD1w9ZpIlWh0xdnY78S"
     }
   }
 ]
