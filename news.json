@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las dos patas que fallaron a Lamine",
+    "url": "https://as.com/futbol/internacional/las-dos-patas-que-fallaron-a-lamine-f202611-n/",
+    "summary": "Mientras Mbappé acertó con su plan, el del Barça y el de su agente no impulsaron del todo las opciones culés al Balón de Oro.",
+    "published": "Mon, 02 Nov 2026 11:31:45 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5YBSCL5HZJCIPAYKLBRGEJ34YY.jpg?auth=7f1991d05a30dc07b5f872dbbb64f7f22c787610ffe42f49601547e4c41e6486",
+    "media_type": "image/jpeg",
+    "arabic_title": "الساقين التي فشلت لامين",
+    "arabic_summary": "في حين أن مبابي كان على حق في خطته، فإن خطة برشلونة وخطة وكيله لم تعزز بشكل كامل خيارات اللاعبين للحصول على الكرة الذهبية.",
+    "translation_status": "translated",
+    "post_title": "الساقين التي فشلت لامين",
+    "post_text": "🚨 الساقين التي فشلت لامين\n\n📝 في حين أن مبابي كان على حق في خطته، فإن خطة برشلونة وخطة وكيله لم تعزز بشكل كامل خيارات اللاعبين للحصول على الكرة الذهبية.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096021583063152",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الساقين_التي_فشلت_لامين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/las-dos-patas-que-fallaron-a-lamine-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnXErJxFg-0liVjOrXNbxq_"
+    }
+  },
+  {
     "title": "Unai Simón: “No he buscado este premio, hay que darle naturalidad”",
     "url": "https://as.com/futbol/primera/unai-simon-no-he-buscado-este-premio-hay-que-darle-naturalidad-f202611-n/",
     "summary": "“No me gusta compararme con nadie y menos con el Txopo, intento hace mi camino y asemejarme a él”, lanza tras sellar cuatro paradas de empaque ante la Real.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AkmQTxHvOEcxA193_-9OY3A"
-    }
-  },
-  {
-    "title": "Simeone, con dos bajas y una duda",
-    "url": "https://as.com/futbol/primera/simeone-con-dos-bajas-y-una-duda-f202610-n/",
-    "summary": "Koke y Johnny Cardoso no llegan a la cita contra el Levante, pero sí un Cuti Romero que apunta a titular. El Cholo tiene varias opciones en la delantera.",
-    "published": "Fri, 30 Oct 2026 11:16:58 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KH72M4ARBROKJOCQMJJ275SXLM.jpg?auth=bc01e099b697d7c290620b13ccf8b96954db381dab8a6b8a2c8b77d93393b76a",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيميوني بضحاياين وشكوك",
-    "arabic_summary": "لم يتمكن كوكي وجوني كاردوسو من الوصول إلى المباراة ضد ليفانتي، لكن كوتي روميرو تمكنت من ذلك، والتي تهدف إلى المشاركة أساسيًا. تشولو لديه العديد من الخيارات في خط الهجوم.",
-    "translation_status": "translated",
-    "post_title": "سيميوني بضحاياين وشكوك",
-    "post_text": "🚨 سيميوني بضحاياين وشكوك\n\n📝 لم يتمكن كوكي وجوني كاردوسو من الوصول إلى المباراة ضد ليفانتي، لكن كوتي روميرو تمكنت من ذلك، والتي تهدف إلى المشاركة أساسيًا. تشولو لديه العديد من الخيارات في خط الهجوم.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1092946623370648",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_بضحاياين_وشكوك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/simeone-con-dos-bajas-y-una-duda-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMQpw-8aQaWFKBK1C59EL6O"
     }
   }
 ]
