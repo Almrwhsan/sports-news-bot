@@ -1,5 +1,39 @@
 [
   {
+    "title": "Diomande se hace intocable",
+    "url": "https://as.com/futbol/diomande-se-hace-intocable-f202611-n/",
+    "summary": "A misil limpio, como su gol a 120km/h al Racing, el marfileño es clave de este Real Madrid mejorado y en racha. Siete titularidades, siete triunfos blancos.",
+    "published": "Mon, 02 Nov 2026 14:27:04 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4UAN3JCXQNBCBASV4I5ZTS2HCU.jpg?auth=e48fb85041d1aeeb61c10c1766c72d3c10fe4fe03bced3fad4f0d8e355b446a6",
+    "media_type": "image/jpeg",
+    "arabic_title": "يصبح Diomande لا يمكن المساس به",
+    "arabic_summary": "بفضل تسديدة صاروخية نظيفة، مثل هدفه بسرعة 120 كم/ساعة ضد راسينغ، يعد الإيفواري مفتاحًا لريال مدريد المتطور. سبع بدايات، وسبعة انتصارات بيضاء.",
+    "translation_status": "translated",
+    "post_title": "يصبح Diomande لا يمكن المساس به",
+    "post_text": "🚨 يصبح Diomande لا يمكن المساس به\n\n📝 بفضل تسديدة صاروخية نظيفة، مثل هدفه بسرعة 120 كم/ساعة ضد راسينغ، يعد الإيفواري مفتاحًا لريال مدريد المتطور. سبع بدايات، وسبعة انتصارات بيضاء.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096171386381505",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يصبح_Diomande_لا_يمكن_المساس_به.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/diomande-se-hace-intocable-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsR-KspSpt8fkXtFUdMX7zq"
+    }
+  },
+  {
     "title": "Mourinho lo tiene muy claro",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/02/mourinho-claro.html",
     "summary": "El entrenador portugués da con la tecla en el once, blinda su fórmula magistral y diseña un bloque que ya se recita de memoria",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQOQ26t0amTPnkCPRcNDGEX"
-    }
-  },
-  {
-    "title": "Tennis scores: British No 1 Fery takes on world No 1 Zverev in Vienna",
-    "url": "https://www.skysports.com/tennis/scores-schedule",
-    "summary": "",
-    "published": "Fri, 30 Oct 2026 10:50:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-arthur-fery-tennis_7372113.jpg?20261009133632",
-    "media_type": "image/jpg",
-    "arabic_title": "نتائج التنس: البريطاني رقم 1 فيري يواجه زفيريف رقم 1 عالميًا في فيينا",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "نتائج التنس: البريطاني رقم 1 فيري يواجه زفيريف رقم 1 عالميًا في فيينا",
-    "post_text": "🚨 نتائج التنس: البريطاني رقم 1 فيري يواجه زفيريف رقم 1 عالميًا في فيينا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093081916690452",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نتائج_التنس_البريطاني_رقم_1_فيري_يواجه_زفيريف_رقم_1_عالميًا_في_فيينا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/tennis/scores-schedule",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAOxqMQpt5Ekxq4YN9SbUCf"
     }
   }
 ]
