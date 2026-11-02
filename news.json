@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mourinho lo tiene muy claro",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/02/mourinho-claro.html",
+    "summary": "El entrenador portugués da con la tecla en el once, blinda su fórmula magistral y diseña un bloque que ya se recita de memoria",
+    "published": "Mon, 02 Nov 2026 07:54:16 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae78838cb532.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مورينيو واضح جدًا في هذا الشأن",
+    "arabic_summary": "يضرب المدرب البرتغالي المفتاح على الحادي عشر، ويحمي صيغته المتقنة ويصمم كتلة تتلى بالفعل عن ظهر قلب",
+    "translation_status": "translated",
+    "post_title": "مورينيو واضح جدًا في هذا الشأن",
+    "post_text": "🚨 مورينيو واضح جدًا في هذا الشأن\n\n📝 يضرب المدرب البرتغالي المفتاح على الحادي عشر، ويحمي صيغته المتقنة ويصمم كتلة تتلى بالفعل عن ظهر قلب\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096159823049328",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_واضح_جدًا_في_هذا_الشأن.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/02/mourinho-claro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABQ0XBiypswjC4PcFbyq84a"
+    }
+  },
+  {
     "title": "Jackson Martínez vuelve a jugar tras seis años retirado y da la victoria al Independiente Medellín en el 87'",
     "url": "https://www.marca.com/futbol/2026/11/02/jackson-martinez-vuelve-jugar-seis-anos-retirado-da-victoria-independiente-medellin-87.html",
     "summary": "El atacante colombiano, ex del Atlético, había colgado las botas en diciembre de 2020",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAOxqMQpt5Ekxq4YN9SbUCf"
-    }
-  },
-  {
-    "title": "Inglaterra convoca al padre de Bellingham, \"el Pelé del fútbol aficionado\" por sus más de 700 goles",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/10/30/inglaterra-convoca-padre-bellingham-pele-futbol-aficionado-700-goles.html",
-    "summary": "Mark Bellingham (1976) ha sido convocado para jugar con la selección de veteranos de Inglaterra para jugadores de 50 años o más",
-    "published": "Fri, 30 Oct 2026 07:23:43 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae434f71ed06.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إنجلترا تستدعي والد بيلينجهام، \"بيليه هواة كرة القدم\" بسبب أهدافه التي تجاوزت 700 هدف",
-    "arabic_summary": "تم استدعاء مارك بيلينجهام (1976) للعب مع منتخب إنجلترا الأول للاعبين الذين تبلغ أعمارهم 50 عامًا فما فوق.",
-    "translation_status": "translated",
-    "post_title": "إنجلترا تستدعي والد بيلينجهام، \"بيليه هواة كرة القدم\" بسبب أهدافه التي تجاوزت 700 هدف",
-    "post_text": "🚨 إنجلترا تستدعي والد بيلينجهام، \"بيليه هواة كرة القدم\" بسبب أهدافه التي تجاوزت 700 هدف\n\n📝 تم استدعاء مارك بيلينجهام (1976) للعب مع منتخب إنجلترا الأول للاعبين الذين تبلغ أعمارهم 50 عامًا فما فوق.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093077473357563",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_تستدعي_والد_بيلينجهام،_بيليه_هواة_كرة_القدم_بسبب_أهدافه_التي_تجاوزت_700_.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/10/30/inglaterra-convoca-padre-bellingham-pele-futbol-aficionado-700-goles.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AY0liK-p6c499BFM62lwPNU"
     }
   }
 ]
