@@ -1,5 +1,39 @@
 [
   {
+    "title": "Non-league clubs tackle teen trouble at matches",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&at_campaign=rss",
+    "summary": "Stones thrown at away fans and a kit man punched as some grounds ban unaccompanied under-16s.",
+    "published": "Mon, 02 Nov 2026 06:13:37 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ab/live/33e680e0-d3bd-11f1-b441-2b33b063138f.jpg",
+    "media_type": null,
+    "arabic_title": "تتعامل الأندية غير المنتمية إلى الدوري مع مشاكل المراهقين في المباريات",
+    "arabic_summary": "تم إلقاء الحجارة على المشجعين بعيدًا وتم توجيه اللكمات إلى رجل المعدات حيث تحظر بعض الملاعب الأطفال دون سن 16 عامًا غير المصحوبين.",
+    "translation_status": "translated",
+    "post_title": "تتعامل الأندية غير المنتمية إلى الدوري مع مشاكل المراهقين في المباريات",
+    "post_text": "🚨 تتعامل الأندية غير المنتمية إلى الدوري مع مشاكل المراهقين في المباريات\n\n📝 تم إلقاء الحجارة على المشجعين بعيدًا وتم توجيه اللكمات إلى رجل المعدات حيث تحظر بعض الملاعب الأطفال دون سن 16 عامًا غير المصحوبين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096045596394084",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تتعامل_الأندية_غير_المنتمية_إلى_الدوري_مع_مشاكل_المراهقين_في_المباريات.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AymATot1sJXkjdYYmEu2KdN"
+    }
+  },
+  {
     "title": "Mantilla dice adiós a la temporada",
     "url": "https://as.com/futbol/primera/mantilla-dice-adios-a-la-temporada-f202611-n/",
     "summary": "El defensa del Racing se rompió el ligamento cruzado anterior de su rodilla derecha contra el Real Madrid y pasará por quirófano. No hay más laterales derechos específicos.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ay4tMpzUf82WMizfHdoGmrL"
-    }
-  },
-  {
-    "title": "El alarmante mensaje de Valverde al salir de Valdebebas: “No estoy al 100%”",
-    "url": "https://as.com/futbol/videos/el-alarmante-mensaje-de-valverde-al-salir-de-valdebebas-no-estoy-al-100-f202610-v/",
-    "summary": "El uruguayo fue captado por las cámaras de El Chiringuito saliendo de la ciudad deportiva y dejó este mensaje.",
-    "published": "Fri, 30 Oct 2026 12:00:04 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261030/1231926_115515_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رسالة فالفيردي المثيرة للقلق عند رحيل الفالديبيباس: \"لست جاهزًا بنسبة 100%\"",
-    "arabic_summary": "التقطت كاميرات El Chiringuito صور الأوروغوياني وهو يغادر المدينة الرياضية وترك هذه الرسالة.",
-    "translation_status": "translated",
-    "post_title": "رسالة فالفيردي المثيرة للقلق عند رحيل الفالديبيباس: \"لست جاهزًا بنسبة 100%\"",
-    "post_text": "🚨 رسالة فالفيردي المثيرة للقلق عند رحيل الفالديبيباس: \"لست جاهزًا بنسبة 100%\"\n\n📝 التقطت كاميرات El Chiringuito صور الأوروغوياني وهو يغادر المدينة الرياضية وترك هذه الرسالة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1092982243367086",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رسالة_فالفيردي_المثيرة_للقلق_عند_رحيل_الفالديبيباس_لست_جاهزًا_بنسبة_100%.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aq-jPnp4ImYVAm1-RRZMDOX"
     }
   }
 ]
