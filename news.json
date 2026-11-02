@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un dilema con el Cuti Romero",
+    "url": "https://www.marca.com/futbol/atletico/2026/11/02/dilema-cuti-romero.html",
+    "summary": "​El argentino fue el único de los suplentes en el Ciutat que no se entrenó sobre el verde en el ensayo post Levante. La duda: que sea el 'antiKane' frente al Bayern o reservarlo para el Barça",
+    "published": "Mon, 02 Nov 2026 06:38:29 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae746b4ea6fa.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "معضلة مع كوتي روميرو",
+    "arabic_summary": "كان الأرجنتيني هو الوحيد من بين البدلاء في سيوتات الذي لم يتدرب على المنطقة الخضراء في بروفة ما بعد ليفانتي. الشك: ما إذا كان هو \"ضد كين\" ضد بايرن أم أنه سيحتفظ به لبرشلونة",
+    "translation_status": "translated",
+    "post_title": "معضلة مع كوتي روميرو",
+    "post_text": "🚨 معضلة مع كوتي روميرو\n\n📝 كان الأرجنتيني هو الوحيد من بين البدلاء في سيوتات الذي لم يتدرب على المنطقة الخضراء في بروفة ما بعد ليفانتي. الشك: ما إذا كان هو \"ضد كين\" ضد بايرن أم أنه سيحتفظ به لبرشلونة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096120743053236",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/معضلة_مع_كوتي_روميرو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/11/02/dilema-cuti-romero.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8btsJ2O8JJEWwVx6eL3OKC"
+    }
+  },
+  {
     "title": "El Kane de Oro que llega a Madrid: nuevas 'armas'... y un desafío",
     "url": "https://www.marca.com/futbol/balon-oro/2026/11/02/kane-oro-llega-madrid-nuevas-armas-desafio.html",
     "summary": "El Balón de Oro estrena botas en el Metropolitano... donde perdió una final de Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnrNZW60DbBl_hVL8JFtzP5"
-    }
-  },
-  {
-    "title": "David Otorbi: el sueño continúa con un blindaje de 60 millones",
-    "url": "https://www.marca.com/futbol/valencia/2026/10/30/david-otorbi-sueno-continua-blindaje-60-millones.html",
-    "summary": "La joya del Valencia de 19 años amplía su contrato hasta 2031 mientras se recupera de la lesión muscular que frenó su irrupción en el primer equipo",
-    "published": "Fri, 30 Oct 2026 06:58:44 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae465301d12a.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ديفيد أوتوربي: الحلم مستمر بدرع 60 مليونًا",
-    "arabic_summary": "ويمدد جوهرة فالنسيا البالغ من العمر 19 عاما عقده حتى عام 2031 بينما يتعافى من الإصابة العضلية التي أوقفت صعوده إلى الفريق الأول.",
-    "translation_status": "translated",
-    "post_title": "ديفيد أوتوربي: الحلم مستمر بدرع 60 مليونًا",
-    "post_text": "🚨 ديفيد أوتوربي: الحلم مستمر بدرع 60 مليونًا\n\n📝 ويمدد جوهرة فالنسيا البالغ من العمر 19 عاما عقده حتى عام 2031 بينما يتعافى من الإصابة العضلية التي أوقفت صعوده إلى الفريق الأول.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093057660026211",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديفيد_أوتوربي_الحلم_مستمر_بدرع_60_مليونًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/10/30/david-otorbi-sueno-continua-blindaje-60-millones.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMTxKlRV_S2Gz-5lSpd0NlO"
     }
   }
 ]
