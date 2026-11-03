@@ -1,5 +1,39 @@
 [
   {
+    "title": "King's former horse Point Of Law wins Melbourne Cup",
+    "url": "https://www.skysports.com/racing/news/12040/13607488/melbourne-cup-point-of-law-storms-to-flemington-glory-for-ciaron-maher",
+    "summary": "Point Of Law, previously owned by the King and Queen, ran out a decisive winner of a Ciaron Maher dominated Lexus Melbourne Cup in Flemington.",
+    "published": "Tue, 03 Nov 2026 13:50:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-point-of-law-racing_7395790.jpg?20261103135227",
+    "media_type": "image/jpg",
+    "arabic_title": "حصان كينغ السابق بوينت أوف لو يفوز بكأس ملبورن",
+    "arabic_summary": "حقق Point Of Law، الذي كان مملوكًا سابقًا للملك والملكة، فائزًا حاسمًا بكأس ملبورن التي هيمن عليها Ciaron Maher في فليمنجتون.",
+    "translation_status": "translated",
+    "post_title": "حصان كينغ السابق بوينت أوف لو يفوز بكأس ملبورن",
+    "post_text": "🚨 حصان كينغ السابق بوينت أوف لو يفوز بكأس ملبورن\n\n📝 حقق Point Of Law، الذي كان مملوكًا سابقًا للملك والملكة، فائزًا حاسمًا بكأس ملبورن التي هيمن عليها Ciaron Maher في فليمنجتون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097386526259991",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حصان_كينغ_السابق_بوينت_أوف_لو_يفوز_بكأس_ملبورن.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/racing/news/12040/13607488/melbourne-cup-point-of-law-storms-to-flemington-glory-for-ciaron-maher",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AgpnrxAvgRlnnasBi1oorKJ"
+    }
+  },
+  {
     "title": "Alineaciones confirmadas de Barcelona y Aston Villa: Fariñas, titular",
     "url": "https://www.marca.com/futbol/barcelona/2026/11/02/alineaciones-probables-barca-vs-aston-villa-cuarta-jornada-champions-league.html",
     "summary": "Ambos equipos tienen bajas destacadas por lesión",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6mh7-_knhYZ55POT4-7JL1"
-    }
-  },
-  {
-    "title": "Giroud catapulta a Davide",
-    "url": "https://as.com/futbol/internacional/giroud-catapulta-a-davide-f202610-n/",
-    "summary": "El delantero decide a sus 40 años el Derbi del Norte de Francia contra el Lens con un gol en el 87. El Lille de Davide duerme segundo.",
-    "published": "Fri, 30 Oct 2026 22:08:42 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/J5Q55KUL5RPZ7B3RLWJEBEZNFY.jpg?auth=4134b312deb36eb1e1ed0ea8dbb708e9d438b7763b4617dc699053779984b385",
-    "media_type": "image/jpeg",
-    "arabic_title": "جيرو يقذف دافيد",
-    "arabic_summary": "المهاجم البالغ من العمر 40 عاما يحسم ديربي شمال فرنسا أمام لانس بهدف في الدقيقة 87. دافيدي ليل ينام في المرتبة الثانية.",
-    "translation_status": "translated",
-    "post_title": "جيرو يقذف دافيد",
-    "post_text": "🚨 جيرو يقذف دافيد\n\n📝 المهاجم البالغ من العمر 40 عاما يحسم ديربي شمال فرنسا أمام لانس بهدف في الدقيقة 87. دافيدي ليل ينام في المرتبة الثانية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093837899948187",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيرو_يقذف_دافيد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/giroud-catapulta-a-davide-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhmD912xQjuysibqyw-zgJs"
     }
   }
 ]
