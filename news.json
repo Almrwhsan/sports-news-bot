@@ -1,5 +1,39 @@
 [
   {
+    "title": "Alineaciones confirmadas de Barcelona y Aston Villa: Fariñas, titular",
+    "url": "https://www.marca.com/futbol/barcelona/2026/11/02/alineaciones-probables-barca-vs-aston-villa-cuarta-jornada-champions-league.html",
+    "summary": "Ambos equipos tienen bajas destacadas por lesión",
+    "published": "Mon, 02 Nov 2026 18:48:44 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae74df930d5c.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "التشكيلة المؤكدة لبرشلونة وأستون فيلا: فاريناس، أساسيًا",
+    "arabic_summary": "ويعاني الفريقان من غيابات ملحوظة بسبب الإصابة",
+    "translation_status": "translated",
+    "post_title": "التشكيلة المؤكدة لبرشلونة وأستون فيلا: فاريناس، أساسيًا",
+    "post_text": "🚨 التشكيلة المؤكدة لبرشلونة وأستون فيلا: فاريناس، أساسيًا\n\n📝 ويعاني الفريقان من غيابات ملحوظة بسبب الإصابة\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097372339594743",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التشكيلة_المؤكدة_لبرشلونة_وأستون_فيلا_فاريناس،_أساسيًا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/02/alineaciones-probables-barca-vs-aston-villa-cuarta-jornada-champions-league.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AU-7uMiQMKJVG4BYZi4CNO5"
+    }
+  },
+  {
     "title": "¿A qué hora es el Barcelona - Aston Villa? Canal TV, horario, dónde y cómo ver la Champions online",
     "url": "https://as.com/futbol/champions/a-que-hora-se-juega-el-barcelona-aston-villa-tv-horario-donde-y-como-ver-hoy-la-champions-online-f202611-n/",
     "summary": "Fecha, horario, cómo ver en vivo y en directo en televisión y cómo seguir online el Barcelona - Aston Villa, jornada 4 de la fase liga de la Champions League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhmD912xQjuysibqyw-zgJs"
-    }
-  },
-  {
-    "title": "Cabrera: “Nos sacamos un lastre”",
-    "url": "https://as.com/futbol/primera/cabrera-nos-sacamos-un-lastre-f202610-n/",
-    "summary": "El goleador del Espanyol en La Cerámica asume la culpa y el dolor por la salida de Manolo y reconoce el certero “toque de atención” de Sergio García hacia la totalidad de la plantilla.",
-    "published": "Fri, 30 Oct 2026 22:09:00 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZWXIJQFMHVIQ7BZRUGCHEWBVYM.jpg?auth=2b5dc7dcc19fe459d50d049ec85778919acee1e58772fa37cdd9967dd650d9e4",
-    "media_type": "image/jpeg",
-    "arabic_title": "كابريرا: \"لقد تخلصنا من العبء\"",
-    "arabic_summary": "يتحمل هداف إسبانيول في لا سيراميكا اللوم والألم بسبب رحيل مانولو ويعترف بـ \"نداء الاستيقاظ\" الدقيق الذي أطلقه سيرجيو جارسيا للفريق بأكمله.",
-    "translation_status": "translated",
-    "post_title": "كابريرا: \"لقد تخلصنا من العبء\"",
-    "post_text": "🚨 كابريرا: \"لقد تخلصنا من العبء\"\n\n📝 يتحمل هداف إسبانيول في لا سيراميكا اللوم والألم بسبب رحيل مانولو ويعترف بـ \"نداء الاستيقاظ\" الدقيق الذي أطلقه سيرجيو جارسيا للفريق بأكمله.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093837996614844",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كابريرا_لقد_تخلصنا_من_العبء.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/cabrera-nos-sacamos-un-lastre-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvLOM7OsBOwsYZaya4o3fYI"
     }
   }
 ]
