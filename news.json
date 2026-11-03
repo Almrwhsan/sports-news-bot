@@ -1,5 +1,39 @@
 [
   {
+    "title": "Russell posts statement to 'speak from the heart'",
+    "url": "https://www.skysports.com/f1/news/12040/13607266/george-russell-mercedes-driver-posts-statement-to-speak-from-the-heart-after-kimi-antonelli-becomes-world-champion-at-mexico-city-grand-prix",
+    "summary": "George Russell has posted a statement on social media to \"speak from the heart\" after his Mercedes team-mate Kimi Antonelli secured the F1 Drivers' Championship on Sunday.",
+    "published": "Mon, 02 Nov 2026 20:05:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes-f1_7395249.jpg?20261102195707",
+    "media_type": "image/jpg",
+    "arabic_title": "راسل ينشر بيانًا \"للتحدث من القلب\"",
+    "arabic_summary": "نشر جورج راسل بيانًا على وسائل التواصل الاجتماعي \"للتحدث من القلب\" بعد فوز زميله في فريق مرسيدس كيمي أنتونيلي ببطولة F1 للسائقين يوم الأحد.",
+    "translation_status": "translated",
+    "post_title": "راسل ينشر بيانًا \"للتحدث من القلب\"",
+    "post_text": "🚨 راسل ينشر بيانًا \"للتحدث من القلب\"\n\n📝 نشر جورج راسل بيانًا على وسائل التواصل الاجتماعي \"للتحدث من القلب\" بعد فوز زميله في فريق مرسيدس كيمي أنتونيلي ببطولة F1 للسائقين يوم الأحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1096867802978530",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راسل_ينشر_بيانًا_للتحدث_من_القلب.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13607266/george-russell-mercedes-driver-posts-statement-to-speak-from-the-heart-after-kimi-antonelli-becomes-world-champion-at-mexico-city-grand-prix",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkjVx2w-SOs4Ag0U4Hwj7k7"
+    }
+  },
+  {
     "title": "Christensen se cae del entreno",
     "url": "https://as.com/futbol/christensen-se-cae-del-entreno-f202611-n/",
     "summary": "El central danés, que hizo el domingo una parte de la sesión con el grupo, no saltó a entrenar este lunes. Tampoco lo hicieron Koundé y Eric, bajas contra el Aston Vila.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1E64GMLvgsu__SpF056c9q"
-    }
-  },
-  {
-    "title": "Alerta roja en River",
-    "url": "https://as.com/futbol/internacional/alerta-roja-en-river-f202610-n/",
-    "summary": "El Millonario está en serio riesgo de quedarse fuera de la Copa Libertadores por segunda temporada consecutiva.",
-    "published": "Fri, 30 Oct 2026 16:32:50 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VXK7L2KGDFMDBBWIJOMRJRZ2DQ.jpg?auth=8b10ce89694ece2e741e615ce2bed87862cff7f91e1656cb07a09ee60dae2ece",
-    "media_type": "image/jpeg",
-    "arabic_title": "إنذار أحمر في النهر",
-    "arabic_summary": "ويواجه إل ميلوناريو خطر الاستبعاد من كأس ليبرتادوريس للموسم الثاني على التوالي.",
-    "translation_status": "translated",
-    "post_title": "إنذار أحمر في النهر",
-    "post_text": "🚨 إنذار أحمر في النهر\n\n📝 ويواجه إل ميلوناريو خطر الاستبعاد من كأس ليبرتادوريس للموسم الثاني على التوالي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093436329988344",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنذار_أحمر_في_النهر.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/alerta-roja-en-river-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcjEPi6fVNc3StdfykB8pAS"
     }
   }
 ]
