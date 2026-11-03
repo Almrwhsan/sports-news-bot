@@ -1,5 +1,39 @@
 [
   {
+    "title": "El que debe tener miedo es el Bayern",
+    "url": "https://as.com/opinion/el-que-debe-tener-miedo-es-el-bayern-f202611-n/",
+    "summary": "El Atlético necesita ganar si quiere meterse entre los ocho primeros en Champions. Los del Cholo se encuentran en un buen momento, pero deben refrendarlo esta noche.",
+    "published": "Mon, 02 Nov 2026 22:55:36 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XVIH6COETRICFARAB2BSH2J53U.jpg?auth=238f8bf0591f5c9138f3d2c16b2ed571f3db75f0e3e1bbea4aa4e8ba9fab5ab6",
+    "media_type": "image/jpeg",
+    "arabic_title": "من يجب أن يخاف هو بايرن",
+    "arabic_summary": "يحتاج أتلتيكو للفوز إذا أراد الوصول إلى المراكز الثمانية الأولى في دوري أبطال أوروبا. رجال تشولو في وضع جيد، لكن يجب عليهم تأكيد ذلك الليلة.",
+    "translation_status": "translated",
+    "post_title": "من يجب أن يخاف هو بايرن",
+    "post_text": "🚨 من يجب أن يخاف هو بايرن\n\n📝 يحتاج أتلتيكو للفوز إذا أراد الوصول إلى المراكز الثمانية الأولى في دوري أبطال أوروبا. رجال تشولو في وضع جيد، لكن يجب عليهم تأكيد ذلك الليلة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097032512962059",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_يجب_أن_يخاف_هو_بايرن.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/el-que-debe-tener-miedo-es-el-bayern-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2JKkANBWA0-fGeDkaHllL0"
+    }
+  },
+  {
     "title": "Maroan no volverá a jugar hasta diciembre...y todavía puede ser peor",
     "url": "https://www.marca.com/futbol/athletic/2026/11/02/maroan-volvera-diciembre-todavia-peor.html",
     "summary": "El delantero sufre una lesión de carácter moderado-severo en la musculatura isquiotibial",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aja4f53gSvIVAlDfu7PLyWA"
-    }
-  },
-  {
-    "title": "Aranbarri: \"Para llevar la iniciativa tenemos que recuperar la agresividad\"",
-    "url": "https://www.marca.com/futbol/eibar/2026/10/30/aranbarri-llevar-iniciativa-recuperar-agresividad.html",
-    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
-    "published": "Fri, 30 Oct 2026 14:38:49 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad25a14c6f62.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أرانباري: \"لأخذ زمام المبادرة علينا استعادة عدوانيتنا\"",
-    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
-    "translation_status": "translated",
-    "post_title": "أرانباري: \"لأخذ زمام المبادرة علينا استعادة عدوانيتنا\"",
-    "post_text": "🚨 أرانباري: \"لأخذ زمام المبادرة علينا استعادة عدوانيتنا\"\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093530369978940",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أرانباري_لأخذ_زمام_المبادرة_علينا_استعادة_عدوانيتنا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/eibar/2026/10/30/aranbarri-llevar-iniciativa-recuperar-agresividad.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0SSfPJK2e485lw9mUTnbX4"
     }
   }
 ]
