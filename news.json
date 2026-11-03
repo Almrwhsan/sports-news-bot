@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nikolic: “Que jueguen las gradas, además de los jugadores”",
+    "url": "https://as.com/futbol/champions/nikolic-que-jueguen-las-gradas-ademas-de-los-jugadores-f202611-n/",
+    "summary": "Apela a la afición para afrontar lo que califica de un “desafío”. Confirma la baja de Joao Mario, hospitalizado por una neumonía. Relvas se deshace en elogios hacia Mourinho: “Es una leyenda”.",
+    "published": "Tue, 03 Nov 2026 14:54:42 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/LDHCD7RRYFHMJPIMI7PEWVKMGM.jpeg?auth=487651fd41ffa2f493644274e254be4d88fbe4f96bf0519dbaf54524f0a45e2e",
+    "media_type": "image/jpeg",
+    "arabic_title": "نيكوليتش: \"دع المدرجات تلعب وكذلك اللاعبين\"",
+    "arabic_summary": "ويناشد الجماهير مواجهة ما يصفه بـ”التحدي”. يؤكد خروج جواو ماريو من المستشفى لإصابته بالتهاب رئوي. ريلفاس مليء بالثناء على مورينيو: \"إنه أسطورة\".",
+    "translation_status": "translated",
+    "post_title": "نيكوليتش: \"دع المدرجات تلعب وكذلك اللاعبين\"",
+    "post_text": "🚨 نيكوليتش: \"دع المدرجات تلعب وكذلك اللاعبين\"\n\n📝 ويناشد الجماهير مواجهة ما يصفه بـ”التحدي”. يؤكد خروج جواو ماريو من المستشفى لإصابته بالتهاب رئوي. ريلفاس مليء بالثناء على مورينيو: \"إنه أسطورة\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097550792910231",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيكوليتش_دع_المدرجات_تلعب_وكذلك_اللاعبين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/nikolic-que-jueguen-las-gradas-ademas-de-los-jugadores-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwCg4IwPU7CrmBDew9uP5vs"
+    }
+  },
+  {
     "title": "Güler y Tchouameni no viajan a Atenas... pero sí Sergio Martínez",
     "url": "https://as.com/futbol/guler-y-tchouameni-no-viajan-a-atenas-pero-si-sergio-martinez-f202611-n/",
     "summary": "Mourinho ofreció la lista para visitar al AEK, con la novedad de la ausencia de los dos centrocampistas por descanso. Vuelve Valverde y guiño al castillista.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwTJZLphK6HWpdaCf7uPY0I"
-    }
-  },
-  {
-    "title": "El Ibiza luce su gran pegada en Can Misses",
-    "url": "https://www.marca.com/futbol/primera-rfef/2026/10/30/ibiza-luce-gran-pegada-can-misses.html",
-    "summary": "El golazo de Josep Calavera dejó sin respuesta al Europa",
-    "published": "Fri, 30 Oct 2026 23:27:41 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae517aabb8a7.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تستعرض إيبيزا قوتها الرائعة في Can Misses",
-    "arabic_summary": "هدف جوزيب كالافيرا الرائع ترك أوروبا دون رد",
-    "translation_status": "translated",
-    "post_title": "تستعرض إيبيزا قوتها الرائعة في Can Misses",
-    "post_text": "🚨 تستعرض إيبيزا قوتها الرائعة في Can Misses\n\n📝 هدف جوزيب كالافيرا الرائع ترك أوروبا دون رد\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1094080573257253",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تستعرض_إيبيزا_قوتها_الرائعة_في_Can_Misses.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/10/30/ibiza-luce-gran-pegada-can-misses.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6jxts4JI0ZO_KHxiuT8ICB"
     }
   }
 ]
