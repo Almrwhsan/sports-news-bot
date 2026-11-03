@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sunderland latest: Brobbey signs long-term deal",
+    "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "summary": "",
+    "published": "Mon, 02 Nov 2026 11:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار سندرلاند: بروبي يوقع عقدًا طويل الأمد",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار سندرلاند: بروبي يوقع عقدًا طويل الأمد",
+    "post_text": "🚨 آخر أخبار سندرلاند: بروبي يوقع عقدًا طويل الأمد\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097054989626478",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_سندرلاند_بروبي_يوقع_عقدًا_طويل_الأمد.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANdmWyOW8Pwao2-i7u9YIYa"
+    }
+  },
+  {
     "title": "England Wheelchair book semis spot and score 23 tries in win over USA",
     "url": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYYpYY1NFew8malpaEiisAR"
-    }
-  },
-  {
-    "title": "Sherrock wins leg to beat Littler and claim £501,000 prize",
-    "url": "https://www.skysports.com/darts/news/12040/13605916/beat-luke-littler-fallon-sherrock-wins-one-off-leg-to-defeat-the-nuke-and-take-501000-prize",
-    "summary": "Fallon Sherrock did indeed beat Luke Littler at the live 'Beat Luke Littler' event in Manchester, winning a prize of &#163;501,000.",
-    "published": "Fri, 30 Oct 2026 21:55:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-fallon-sherrock-darts_7373563.jpg?20261011120930",
-    "media_type": "image/jpg",
-    "arabic_title": "شيروك يفوز بالمباراة ليهزم ليتلر ويحصل على جائزة قدرها 501 ألف جنيه إسترليني",
-    "arabic_summary": "لقد تغلب فالون شيروك بالفعل على لوك ليتلر في حدث \"Beat Luke Littler\" المباشر في مانشستر، وفاز بجائزة قدرها 501000 جنيه إسترليني.",
-    "translation_status": "translated",
-    "post_title": "شيروك يفوز بالمباراة ليهزم ليتلر ويحصل على جائزة قدرها 501 ألف جنيه إسترليني",
-    "post_text": "🚨 شيروك يفوز بالمباراة ليهزم ليتلر ويحصل على جائزة قدرها 501 ألف جنيه إسترليني\n\n📝 لقد تغلب فالون شيروك بالفعل على لوك ليتلر في حدث \"Beat Luke Littler\" المباشر في مانشستر، وفاز بجائزة قدرها 501000 جنيه إسترليني.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093630796635564",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شيروك_يفوز_بالمباراة_ليهزم_ليتلر_ويحصل_على_جائزة_قدرها_501_ألف_جنيه_إسترليني.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/news/12040/13605916/beat-luke-littler-fallon-sherrock-wins-one-off-leg-to-defeat-the-nuke-and-take-501000-prize",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZWcC66NCzYApyW2bOIRr45"
     }
   }
 ]
