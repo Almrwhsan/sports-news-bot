@@ -1,5 +1,39 @@
 [
   {
+    "title": "West Ham latest: Your views as Parker lined up to replace Nuno",
+    "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+    "summary": "",
+    "published": "Tue, 03 Nov 2026 08:50:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار وست هام: آرائكم عندما اصطف باركر ليحل محل نونو",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار وست هام: آرائكم عندما اصطف باركر ليحل محل نونو",
+    "post_text": "🚨 آخر أخبار وست هام: آرائكم عندما اصطف باركر ليحل محل نونو\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097158592949451",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_وست_هام_آرائكم_عندما_اصطف_باركر_ليحل_محل_نونو.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AskYlf4wRDW00L6pDj7wETr"
+    }
+  },
+  {
     "title": "Mbappé, Vinicius, Lamine Yamal... : descubre los salarios más altos de LaLiga",
     "url": "https://as.com/futbol/fotorrelato/mbappe-vinicius-lamine-yamal-descubre-los-salarios-mas-altos-de-laliga-f202611-f/",
     "summary": "Descubre en este fotorrelato los jugadores que más cobran de la LaLiga EA Sports 2026/2027 según el portal especializado Capology.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "As6gNioZUOQQjVPBBCIgrEK"
-    }
-  },
-  {
-    "title": "Nico Serrano gana confianza tras su partido copero",
-    "url": "https://www.marca.com/futbol/athletic/2026/10/30/nico-serrano-gana-confianza-partido-copero.html",
-    "summary": "El extremo navarro fue titular y marcó un gol ante el Prat",
-    "published": "Fri, 30 Oct 2026 16:23:22 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae4b5e0b7adb.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "نيكو سيرانو يكتسب الثقة بعد مباراة الكأس",
-    "arabic_summary": "بدأ جناح نافاريس أساسيًا وسجل هدفًا في مرمى برات",
-    "translation_status": "translated",
-    "post_title": "نيكو سيرانو يكتسب الثقة بعد مباراة الكأس",
-    "post_text": "🚨 نيكو سيرانو يكتسب الثقة بعد مباراة الكأس\n\n📝 بدأ جناح نافاريس أساسيًا وسجل هدفًا في مرمى برات\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1093701113295199",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نيكو_سيرانو_يكتسب_الثقة_بعد_مباراة_الكأس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/athletic/2026/10/30/nico-serrano-gana-confianza-partido-copero.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AaE49cqy5Vy72qTCgul09yo"
     }
   }
 ]
