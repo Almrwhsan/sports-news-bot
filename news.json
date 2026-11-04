@@ -1,5 +1,39 @@
 [
   {
+    "title": "La decisión más difícil de Roig: peligra el Villarreal de Íñigo",
+    "url": "https://www.marca.com/futbol/villarreal/2026/11/04/villarreal-encrucijada.html",
+    "summary": "El equipo no arranca y la debacle ante el PSG provoca lógicas dudas en el proyecto de Iñigo que era la gran apuesta del club",
+    "published": "Wed, 04 Nov 2026 09:55:07 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb095ab350d.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أصعب قرار اتخذه رويج: فريق إنييجو فياريال في خطر",
+    "arabic_summary": "الفريق لم يبدأ والهزيمة أمام باريس سان جيرمان تثير شكوكاً منطقية في مشروع إنييغو الذي كان الرهان الكبير للنادي",
+    "translation_status": "translated",
+    "post_title": "أصعب قرار اتخذه رويج: فريق إنييجو فياريال في خطر",
+    "post_text": "🚨 أصعب قرار اتخذه رويج: فريق إنييجو فياريال في خطر\n\n📝 الفريق لم يبدأ والهزيمة أمام باريس سان جيرمان تثير شكوكاً منطقية في مشروع إنييغو الذي كان الرهان الكبير للنادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098122919519685",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أصعب_قرار_اتخذه_رويج_فريق_إنييجو_فياريال_في_خطر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/villarreal/2026/11/04/villarreal-encrucijada.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASvBjSqW1KLhH8FGdQpSRt8"
+    }
+  },
+  {
     "title": "Jesús Arroyo, ex del Sevilla, es el nuevo hombre fuerte de la Liga saudí",
     "url": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/04/jesus-arroyo-ex-sevilla-nuevo-hombre-fuerte-liga-saudi.html",
     "summary": "Arabia Saudí confía en él y le asciende a Director de Gestión de la Saudi Pro League",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7er-bt-dPVEtsxfX9PqGJd"
-    }
-  },
-  {
-    "title": "Hits and misses: Martinez sums up Man Utd disorder as Brighton dare to dream",
-    "url": "https://www.skysports.com/football/news/12040/13605884/lisandro-martinez-red-card-sums-up-dysfunction-at-man-utd-as-brighton-post-statement-win-to-spark-title-talk-premier-league-hits-and-misses",
-    "summary": "",
-    "published": "Fri, 30 Oct 2026 19:13:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-hits-and-misses_7393214.jpg?20261031185319",
-    "media_type": "image/jpg",
-    "arabic_title": "الضربات والأخطاء: يلخص مارتينيز اضطراب مانشستر يونايتد كما يجرؤ برايتون على الحلم",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "الضربات والأخطاء: يلخص مارتينيز اضطراب مانشستر يونايتد كما يجرؤ برايتون على الحلم",
-    "post_text": "🚨 الضربات والأخطاء: يلخص مارتينيز اضطراب مانشستر يونايتد كما يجرؤ برايتون على الحلم\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1094370266561617",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الضربات_والأخطاء_يلخص_مارتينيز_اضطراب_مانشستر_يونايتد_كما_يجرؤ_برايتون_على_الحلم.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13605884/lisandro-martinez-red-card-sums-up-dysfunction-at-man-utd-as-brighton-post-statement-win-to-spark-title-talk-premier-league-hits-and-misses",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AwYonNmvvD_TGV5yXkuzi-b"
     }
   }
 ]
