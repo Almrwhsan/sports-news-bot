@@ -1,5 +1,39 @@
 [
   {
+    "title": "En directo, El Bar: Raphinha; capitán, ejemplo y camino de récord",
+    "url": "https://as.com/futbol/videos/en-directo-el-bar-raphinha-capitan-ejemplo-y-camino-de-record-f202611-v/",
+    "summary": "Sique Rodríguez y el resto de expertos de la Cadena SER analizan una nueva jornada de Champions League, que ha dejado el triunfo del Barça ante el Aston Villa y las derrotas de Atlético de Madrid y Villarreal a manos de Bayern y PSG, respectivamente.",
+    "published": "Wed, 04 Nov 2026 09:50:33 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "champions_league",
+    "priority": 1,
+    "image_url": "https://www.youtube.com/watch?v=NY-Jy_titUc",
+    "media_type": "application/octet-stream",
+    "arabic_title": "لايف، ذا بار: رافينها؛ الكابتن والمثال ومسار السجل",
+    "arabic_summary": "يحلل سيكي رودريغيز وبقية خبراء كادينا سير يومًا جديدًا في دوري أبطال أوروبا، والذي ترك فوز برشلونة على أستون فيلا وهزيمة أتلتيكو مدريد وفياريال على يد بايرن وباريس سان جيرمان على التوالي.",
+    "translation_status": "translated",
+    "post_title": "لايف، ذا بار: رافينها؛ الكابتن والمثال ومسار السجل",
+    "post_text": "🚨 لايف، ذا بار: رافينها؛ الكابتن والمثال ومسار السجل\n\n📝 يحلل سيكي رودريغيز وبقية خبراء كادينا سير يومًا جديدًا في دوري أبطال أوروبا، والذي ترك فوز برشلونة على أستون فيلا وهزيمة أتلتيكو مدريد وفياريال على يد بايرن وباريس سان جيرمان على التوالي.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098178906180753",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لايف،_ذا_بار_رافينها؛_الكابتن_والمثال_ومسار_السجل.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/videos/en-directo-el-bar-raphinha-capitan-ejemplo-y-camino-de-record-f202611-v/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AasmvE-EX3kUqlYLQRBX8YG"
+    }
+  },
+  {
     "title": "El tío de Manolas le ganó al Madrid",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/04/tio-manolas-le-gano-madrid.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcQPY52pzmyR7GLc5seF_dB"
-    }
-  },
-  {
-    "title": "El triunfo del Atlético sobre el Levante, foto a foto",
-    "url": "https://as.com/futbol/fotorrelato/el-triunfo-del-atletico-sobre-el-levante-foto-a-foto-f202610-f/",
-    "summary": "Las mejores fotografías del triunfo rojiblanco en el Ciutat de València, desde los goles hasta las celebraciones finales.",
-    "published": "Sat, 31 Oct 2026 14:48:20 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UESG6MFYBZPD5EHHNRQ7NGLWB4.jpg?auth=49374b4b08008ef2a2d69f38321cf5c23d86c17fb51d7ca4631d44308452f981",
-    "media_type": "image/jpeg",
-    "arabic_title": "فوز أتلتيكو على ليفانتي، صورة بالصورة",
-    "arabic_summary": "أفضل الصور للانتصار باللونين الأحمر والأبيض في سيوتات دي فالينسيا، من الأهداف إلى الاحتفالات النهائية.",
-    "translation_status": "translated",
-    "post_title": "فوز أتلتيكو على ليفانتي، صورة بالصورة",
-    "post_text": "🚨 فوز أتلتيكو على ليفانتي، صورة بالصورة\n\n📝 أفضل الصور للانتصار باللونين الأحمر والأبيض في سيوتات دي فالينسيا، من الأهداف إلى الاحتفالات النهائية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1094373713227939",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فوز_أتلتيكو_على_ليفانتي،_صورة_بالصورة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/el-triunfo-del-atletico-sobre-el-levante-foto-a-foto-f202610-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARkGbirYX6qBSTDOjkuCgoS"
     }
   }
 ]
