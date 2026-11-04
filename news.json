@@ -1,5 +1,39 @@
 [
   {
+    "title": "El tío de Manolas le ganó al Madrid",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/04/tio-manolas-le-gano-madrid.html",
+    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
+    "published": "Wed, 04 Nov 2026 10:09:30 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeaf04f26331.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فاز عم مانولاس على مدريد",
+    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "فاز عم مانولاس على مدريد",
+    "post_text": "🚨 فاز عم مانولاس على مدريد\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098161499515827",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاز_عم_مانولاس_على_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/04/tio-manolas-le-gano-madrid.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3Rq-CbdDt8GY-78kBRhXEN"
+    }
+  },
+  {
     "title": "Maciá hace historia como el debutante más joven del Villarreal en la Champions",
     "url": "https://www.marca.com/futbol/villarreal/2026/11/04/macia-historia-debutante-joven-villarreal-champions.html",
     "summary": "El ilicitano supera a Yeremi Pino al debutar con 18 años y 63 días",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARkGbirYX6qBSTDOjkuCgoS"
-    }
-  },
-  {
-    "title": "El ‘líder’ no sabe de maldiciones",
-    "url": "https://as.com/futbol/primera/la-unica-pesadilla-fue-rojiblanca-f202610-n/",
-    "summary": "El Atlético se pone líder momentaneo de la Liga con un partido muy solvente y serio en un campo siempre pesadilla, el Ciutat. El Levante comenzó bien pero se topó con San Jan Oblak. Grimaldo y Giuliano, los goles rojiblancos.",
-    "published": "Sat, 31 Oct 2026 14:57:39 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "\"الزعيم\" لا يعرف عن اللعنات",
-    "arabic_summary": "أصبح أتلتيكو الزعيم المؤقت للدوري بمباراة جدية للغاية في ملعب يمثل كابوسًا دائمًا، سيوتات. بدأ ليفانتي بشكل جيد لكنه اصطدم بسان جان أوبلاك. جريمالدو وجوليانو، أهداف الأحمر والأبيض.",
-    "translation_status": "translated",
-    "post_title": "\"الزعيم\" لا يعرف عن اللعنات",
-    "post_text": "🚨 \"الزعيم\" لا يعرف عن اللعنات\n\n📝 أصبح أتلتيكو الزعيم المؤقت للدوري بمباراة جدية للغاية في ملعب يمثل كابوسًا دائمًا، سيوتات. بدأ ليفانتي بشكل جيد لكنه اصطدم بسان جان أوبلاك. جريمالدو وجوليانو، أهداف الأحمر والأبيض.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1094373796561264",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الزعيم_لا_يعرف_عن_اللعنات.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/la-unica-pesadilla-fue-rojiblanca-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AD6oAApwAwBdBMOgKA0WIro"
     }
   }
 ]
