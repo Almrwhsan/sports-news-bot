@@ -1,5 +1,39 @@
 [
   {
+    "title": "La lesión del filial Hierro complica un poco más el plan de ataque de Terzic",
+    "url": "https://www.marca.com/futbol/athletic/2026/11/03/pesca-terzic-filial-complica-lesion-hierro.html",
+    "summary": "Le esperan cerca de 4 meses de baja, siempre que no haya intervención quirúrgica, y se une a las ausencias de Guruzeta, para todo el curso, y Maroan, que estará KO de 6 a 10 semanas",
+    "published": "Tue, 03 Nov 2026 12:22:49 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/6ae9c3de1d084.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أدت إصابة الفريق الفرعي هييرو إلى تعقيد خطة هجوم تيرزيتش أكثر قليلاً",
+    "arabic_summary": "وينتظره نحو 4 أشهر إجازة مرضية، بشرط عدم وجود تدخل جراحي، وينضم إلى غيابات جوروزيتا، طوال الدورة، ومارون الذي سيغيب عن العمل لمدة 6 إلى 10 أسابيع.",
+    "translation_status": "translated",
+    "post_title": "أدت إصابة الفريق الفرعي هييرو إلى تعقيد خطة هجوم تيرزيتش أكثر قليلاً",
+    "post_text": "🚨 أدت إصابة الفريق الفرعي هييرو إلى تعقيد خطة هجوم تيرزيتش أكثر قليلاً\n\n📝 وينتظره نحو 4 أشهر إجازة مرضية، بشرط عدم وجود تدخل جراحي، وينضم إلى غيابات جوروزيتا، طوال الدورة، ومارون الذي سيغيب عن العمل لمدة 6 إلى 10 أسابيع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1097565816242062",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أدت_إصابة_الفريق_الفرعي_هييرو_إلى_تعقيد_خطة_هجوم_تيرزيتش_أكثر_قليلاً.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/athletic/2026/11/03/pesca-terzic-filial-complica-lesion-hierro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUhCg0aYhYjb2ss64PZ8wbg"
+    }
+  },
+  {
     "title": "Lisandro Isei habla un año después por primera y última vez... del Valencia",
     "url": "https://www.marca.com/futbol/valencia/2026/11/03/lisandro-isei-exsecretario-tecnico-valencia-habla-ano-despues-primera-ultima-vez-valencia-orgulloso-mi-trabajo.html",
     "summary": "Lo hace a través de su perfil profesional",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2thTGenDA-OZ01emBvhwqB"
-    }
-  },
-  {
-    "title": "West Ham vs West Brom LIVE!",
-    "url": "https://www.skysports.com/football/west-ham-united-vs-west-bromwich-albion/live/560652",
-    "summary": "",
-    "published": "Sat, 31 Oct 2026 11:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-wes-ham-west-jarrod-bowen_7378869.jpg?20261017142240",
-    "media_type": "image/jpg",
-    "arabic_title": "مباراة وست هام ووست بروميتش بث مباشر!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "مباراة وست هام ووست بروميتش بث مباشر!",
-    "post_text": "🚨 مباراة وست هام ووست بروميتش بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1094105089921468",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مباراة_وست_هام_ووست_بروميتش_بث_مباشر!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/west-ham-united-vs-west-bromwich-albion/live/560652",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ax2r6dJuF0ENydbG_JbQeg2"
     }
   }
 ]
