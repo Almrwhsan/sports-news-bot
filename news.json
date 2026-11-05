@@ -1,5 +1,39 @@
 [
   {
+    "title": "Una elección que va más allá del simbolismo",
+    "url": "https://as.com/futbol/primera/una-eleccion-que-va-mas-alla-del-simbolismo-f202611-n/",
+    "summary": "El club blanco incorpora a una de las mayores leyendas del deporte español, reforzando su identidad, su marca global y su modelo de gestión.",
+    "published": "Thu, 05 Nov 2026 08:43:27 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/D65LULLRENCL7B4Z7ARL65FHOI.jpg?auth=210ab6206a3acd97ca9b0752c7f623cf4a174a4d426a999cdc71ff4decd45767",
+    "media_type": "image/jpeg",
+    "arabic_title": "خيار يتجاوز الرمزية",
+    "arabic_summary": "يضم النادي الأبيض أحد أعظم أساطير الرياضة الإسبانية، مما يعزز هويته وعلامته التجارية العالمية ونموذج إدارته.",
+    "translation_status": "translated",
+    "post_title": "خيار يتجاوز الرمزية",
+    "post_text": "🚨 خيار يتجاوز الرمزية\n\n📝 يضم النادي الأبيض أحد أعظم أساطير الرياضة الإسبانية، مما يعزز هويته وعلامته التجارية العالمية ونموذج إدارته.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098912559440721",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خيار_يتجاوز_الرمزية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/una-eleccion-que-va-mas-alla-del-simbolismo-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYgltzIXvB9XzfGLp8yRS5T"
+    }
+  },
+  {
     "title": "Former F1 world champion Jones dies aged 80",
     "url": "https://www.skysports.com/f1/news/12040/13608235/former-formula-1-world-champion-alan-jones-dies-aged-80",
     "summary": "Former Formula 1 world champion Alan Jones has died at the age of 80 following a brief illness.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Atb6zl7u_RIJYAONZXck7gK"
-    }
-  },
-  {
-    "title": "Alexander beats Rhodes and Screen to claim victory",
-    "url": "https://www.skysports.com/watch/video/13606603/wistron-ladies-open-day-four-highlights",
-    "summary": "Highlights from the fourth round of the Wistron Ladies Open.",
-    "published": "Sun, 01 Nov 2026 10:37:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-g-r_7393713.jpg?20261101105518",
-    "media_type": "image/jpg",
-    "arabic_title": "ألكساندر يهزم رودس وسكرين ليحقق النصر",
-    "arabic_summary": "مقتطفات من الجولة الرابعة من بطولة ويسترون المفتوحة للسيدات.",
-    "translation_status": "translated",
-    "post_title": "ألكساندر يهزم رودس وسكرين ليحقق النصر",
-    "post_text": "🚨 ألكساندر يهزم رودس وسكرين ليحقق النصر\n\n📝 مقتطفات من الجولة الرابعة من بطولة ويسترون المفتوحة للسيدات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095249099807067",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ألكساندر_يهزم_رودس_وسكرين_ليحقق_النصر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13606603/wistron-ladies-open-day-four-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfmmHl9D369LGiWmavEc0rV"
     }
   }
 ]
