@@ -1,5 +1,39 @@
 [
   {
+    "title": "En el último suspiro",
+    "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/11/05/ultimo-suspiro.html",
+    "summary": "Una opinión de Manuel Juliá",
+    "published": "Thu, 05 Nov 2026 07:07:11 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aebabae21815.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "في النفس الأخير",
+    "arabic_summary": "رأي من مانويل جوليا",
+    "translation_status": "translated",
+    "post_title": "في النفس الأخير",
+    "post_text": "🚨 في النفس الأخير\n\n📝 رأي من مانويل جوليا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099149266083717",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/في_النفس_الأخير.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/opinion/2026/11/05/ultimo-suspiro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4W0SyQWG7jlUzIo5AIQrtK"
+    }
+  },
+  {
     "title": "Del espíritu de Juanito al espíritu de Roma",
     "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/11/05/espiritu-juanito-espiritu-roma.html",
     "summary": "'Al otro lado del espejo', una opinión de Alfredo Relaño",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AanEhA44wXriR3roqZuh0_9"
-    }
-  },
-  {
-    "title": "Cucurella acaba de llegar al Madrid y vean a qué jugador ‘invade’ el coche para ir a entrenar",
-    "url": "https://as.com/futbol/videos/cucurella-acaba-de-llegar-al-madrid-y-vean-a-que-jugador-invade-el-coche-para-ir-a-entrenar-f202611-v/",
-    "summary": "El lateral español ha caído de pie en el Real Madrid futbolística y personalmente. La adaptación a la capital de España ha sido meteórica y su relación con la plantilla es fenomenal, tal como demuestran imágenes como esta.",
-    "published": "Sun, 01 Nov 2026 14:00:43 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261031/1232423_195353_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "وصلت كوكوريلا للتو إلى مدريد وتعرف على اللاعب الذي \"يغزو\" السيارة للذهاب إلى التدريب",
-    "arabic_summary": "لقد سقط الظهير الإسباني على قدميه في ريال مدريد كرةً وشخصيًا. لقد كان تأقلمه مع العاصمة الإسبانية سريعًا وكانت علاقته بالفريق استثنائية، كما تظهر مثل هذه الصور.",
-    "translation_status": "translated",
-    "post_title": "وصلت كوكوريلا للتو إلى مدريد وتعرف على اللاعب الذي \"يغزو\" السيارة للذهاب إلى التدريب",
-    "post_text": "🚨 وصلت كوكوريلا للتو إلى مدريد وتعرف على اللاعب الذي \"يغزو\" السيارة للذهاب إلى التدريب\n\n📝 لقد سقط الظهير الإسباني على قدميه في ريال مدريد كرةً وشخصيًا. لقد كان تأقلمه مع العاصمة الإسبانية سريعًا وكانت علاقته بالفريق استثنائية، كما تظهر مثل هذه الصور.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095333113131999",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وصلت_كوكوريلا_للتو_إلى_مدريد_وتعرف_على_اللاعب_الذي_يغزو_السيارة_للذهاب_إلى_التدر.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgU7OwK2YAbACMT2K0wI_vf"
     }
   }
 ]
