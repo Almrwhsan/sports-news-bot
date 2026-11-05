@@ -1,5 +1,39 @@
 [
   {
+    "title": "Respeto a la afición",
+    "url": "https://as.com/opinion/respeto-a-la-aficion-f202611-n/",
+    "summary": "A un aficionado que en la jornada 14 quisiera venir de Vitoria a apoyar a su Alavés en el Bernabéu, LaLiga no le da ni la hora. Ni la hora, ni el día.",
+    "published": "Thu, 05 Nov 2026 07:03:36 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6YZGOSWR35NYHNQTZXZVYOFDVM.jpg?auth=f80fe66f45b1c418cc5286a5017c678476d8f9264fafc2dfdfef4e9ecb1057db",
+    "media_type": "image/jpeg",
+    "arabic_title": "احترام الجماهير",
+    "arabic_summary": "بالنسبة للمشجع الذي يرغب في القدوم من فيتوريا في الجولة 14 لدعم فريق ألافيس في البرنابيو، لا يمنحه الدوري الإسباني الوقت حتى. لا الساعة ولا اليوم.",
+    "translation_status": "translated",
+    "post_title": "احترام الجماهير",
+    "post_text": "🚨 احترام الجماهير\n\n📝 بالنسبة للمشجع الذي يرغب في القدوم من فيتوريا في الجولة 14 لدعم فريق ألافيس في البرنابيو، لا يمنحه الدوري الإسباني الوقت حتى. لا الساعة ولا اليوم.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098846522780658",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/احترام_الجماهير.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/respeto-a-la-aficion-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AaCRthBdz2hQRDQ_5YtC8Yr"
+    }
+  },
+  {
     "title": "Chema Andrés, jaque mate a una inversión de 614M",
     "url": "https://as.com/futbol/videos/chema-andres-jaque-mate-a-una-inversion-de-614m-f202611-v/",
     "summary": "Chema Andrés ha caído de pie en la Premier League. El centrocampista español, comparado por muchos con Rodri Hernández, ha elevado el nivel del Brighton & Hove Albion, revelación en Inglaterra. Ni Arsenal ni City, cuyos centrocampistas titulares costaron 614M, no pudieron hacer nada contra él. El Real Madrid tenía a su particular Rodri y lo dejó escapar.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AP3SkPuSCnnWm51__9J80JQ"
-    }
-  },
-  {
-    "title": "Más zurdo que Canales",
-    "url": "https://as.com/futbol/primera/mas-zurdo-que-canales-f202611-n/",
-    "summary": "Sebastián Ceria, el “cuidador” del Racing, es tan millonario como progresista. Llegó al rescate y ascendió, pero su mayor contribución es social. En abril vio a Lula...",
-    "published": "Sun, 01 Nov 2026 09:40:18 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5ZJJ2P3V6NBG7EUMXQUIEFND6I.jpg?auth=7abd2049b92c81545be656a5421dbd03f99e2a409efb28fe4d73bef2cd22bf30",
-    "media_type": "image/jpeg",
-    "arabic_title": "يلعب بقدمه اليسرى أكثر من كاناليس",
-    "arabic_summary": "سيباستيان سيريا، \"القائم بأعمال\" راسينغ، هو مليونير بقدر ما هو تقدمي. لقد جاء للإنقاذ وقام، لكن مساهمته الكبرى كانت اجتماعية. وفي أبريل رأى لولا...",
-    "translation_status": "translated",
-    "post_title": "يلعب بقدمه اليسرى أكثر من كاناليس",
-    "post_text": "🚨 يلعب بقدمه اليسرى أكثر من كاناليس\n\n📝 سيباستيان سيريا، \"القائم بأعمال\" راسينغ، هو مليونير بقدر ما هو تقدمي. لقد جاء للإنقاذ وقام، لكن مساهمته الكبرى كانت اجتماعية. وفي أبريل رأى لولا...\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095225726476071",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يلعب_بقدمه_اليسرى_أكثر_من_كاناليس.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/mas-zurdo-que-canales-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVkrxzIOG55kfsczRSwaqxu"
     }
   }
 ]
