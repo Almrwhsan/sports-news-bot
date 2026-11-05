@@ -1,5 +1,39 @@
 [
   {
+    "title": "Europa League LIVE! Sunderland, Brighton and Celtic in action",
+    "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
+    "summary": "",
+    "published": "Thu, 05 Nov 2026 16:25:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-football-europa-league_7333304.jpg?20260828073946",
+    "media_type": "image/jpg",
+    "arabic_title": "الدوري الأوروبي مباشر! سندرلاند، برايتون وسلتيك في العمل",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "الدوري الأوروبي مباشر! سندرلاند، برايتون وسلتيك في العمل",
+    "post_text": "🚨 الدوري الأوروبي مباشر! سندرلاند، برايتون وسلتيك في العمل\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099423936056250",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الدوري_الأوروبي_مباشر!_سندرلاند،_برايتون_وسلتيك_في_العمل.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdXuA_UMUZEP7ZCdFmiNurJ"
+    }
+  },
+  {
     "title": "Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...",
     "url": "https://as.com/futbol/mercado-de-fichajes-en-directo-rumores-altas-y-bajas-de-laliga-premier-serie-a-f202611-d-5/",
     "summary": "Sigue en directo las últimas noticias sobre el mercado de fichajes del 5 de noviembre de 2026: bajas, altas...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjHFisZtKRANJpV-xH7reKk"
-    }
-  },
-  {
-    "title": "America's next great heavyweight? 'Stop looking. I'm already here!'",
-    "url": "https://www.skysports.com/boxing/news/12040/13606850/damazion-vanhouter-americas-next-great-heavyweight-they-can-stop-looking-because-im-already-here",
-    "summary": "American boxing needs a great heavyweight champion, and Da&#8217;Mazion Vanhouter is here to audition for the role.",
-    "published": "Mon, 02 Nov 2026 06:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-damazion-vanhouter_7359678.jpg?20260923181520",
-    "media_type": "image/jpg",
-    "arabic_title": "الوزن الثقيل الكبير القادم في أمريكا؟ توقف عن النظر. أنا هنا بالفعل!",
-    "arabic_summary": "تحتاج الملاكمة الأمريكية إلى بطل عظيم للوزن الثقيل، ودامازيون فانهاوتر موجود هنا لتجربة أداء هذا الدور.",
-    "translation_status": "translated",
-    "post_title": "الوزن الثقيل الكبير القادم في أمريكا؟ توقف عن النظر. أنا هنا بالفعل!",
-    "post_text": "🚨 الوزن الثقيل الكبير القادم في أمريكا؟ توقف عن النظر. أنا هنا بالفعل!\n\n📝 تحتاج الملاكمة الأمريكية إلى بطل عظيم للوزن الثقيل، ودامازيون فانهاوتر موجود هنا لتجربة أداء هذا الدور.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095789629753014",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الوزن_الثقيل_الكبير_القادم_في_أمريكا؟_توقف_عن_النظر._أنا_هنا_بالفعل!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13606850/damazion-vanhouter-americas-next-great-heavyweight-they-can-stop-looking-because-im-already-here",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHpYNd-sFCTPPyGuOy4-c4P"
     }
   }
 ]
