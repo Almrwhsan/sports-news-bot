@@ -1,5 +1,39 @@
 [
   {
+    "title": "Benn: Pacquiao fight can happen early in 2027",
+    "url": "https://www.skysports.com/boxing/news/12040/13608587/conor-benn-reveals-that-he-could-fight-boxing-legend-manny-pacquiao-early-next-year-we-can-do-it-no-problem",
+    "summary": "Conor Benn could fight boxing legend Manny Pacquiao early in 2027.",
+    "published": "Thu, 05 Nov 2026 20:07:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-conor-benn_7345906.jpg?20260909123340",
+    "media_type": "image/jpg",
+    "arabic_title": "بن: معركة باكياو يمكن أن تحدث في وقت مبكر من عام 2027",
+    "arabic_summary": "قد يواجه كونور بن أسطورة الملاكمة ماني باكوياو في أوائل عام 2027.",
+    "translation_status": "translated",
+    "post_title": "بن: معركة باكياو يمكن أن تحدث في وقت مبكر من عام 2027",
+    "post_text": "🚨 بن: معركة باكياو يمكن أن تحدث في وقت مبكر من عام 2027\n\n📝 قد يواجه كونور بن أسطورة الملاكمة ماني باكوياو في أوائل عام 2027.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099560346042609",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بن_معركة_باكياو_يمكن_أن_تحدث_في_وقت_مبكر_من_عام_2027.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13608587/conor-benn-reveals-that-he-could-fight-boxing-legend-manny-pacquiao-early-next-year-we-can-do-it-no-problem",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsEvwZh1rtAlo-v587emd-M"
+    }
+  },
+  {
     "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
     "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
     "summary": "Tyler Adams, Evanilson and Rayan came off the bench to rescue Bournemouth in the Europa League with a 3-1 turnaround victory over 10-man Sparta Prague, extending their winning run to seven matches.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AbARsiMJ6FB3TRhgiHMVUJU"
-    }
-  },
-  {
-    "title": "Un penaltito averió el partido",
-    "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/11/02/penaltito-averio-partido.html",
-    "summary": "'Al otro lado del espejo', una opinión de Alfredo Relaño",
-    "published": "Mon, 02 Nov 2026 06:30:06 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae782491f3ff.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ضربة جزاء دمرت المباراة",
-    "arabic_summary": "\"على الجانب الآخر من المرآة\"، رأي ألفريدو ريلانيو",
-    "translation_status": "translated",
-    "post_title": "ضربة جزاء دمرت المباراة",
-    "post_text": "🚨 ضربة جزاء دمرت المباراة\n\n📝 \"على الجانب الآخر من المرآة\"، رأي ألفريدو ريلانيو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096101029721874",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ضربة_جزاء_دمرت_المباراة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/opinion/2026/11/02/penaltito-averio-partido.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATNPAISllmhVR2mRdL0GNeX"
     }
   }
 ]
