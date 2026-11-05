@@ -1,5 +1,39 @@
 [
   {
+    "title": "La Real, a seguir la remontada con el Lyon",
+    "url": "https://www.marca.com/futbol/europa-league/2026/11/05/real-seguir-remontada-lyon.html",
+    "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
+    "published": "Thu, 05 Nov 2026 07:03:22 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/11/04/6aeb69a79a67d.r_d.426-668-0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لا ريال، لمواصلة العودة مع ليون",
+    "arabic_summary": "يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء",
+    "translation_status": "translated",
+    "post_title": "لا ريال، لمواصلة العودة مع ليون",
+    "post_text": "🚨 لا ريال، لمواصلة العودة مع ليون\n\n📝 يمنح المدرب قيمة كبيرة لانتصار فريقه بدون ثلاثة من لاعبيه الأساسيين جايا وفولكوير وريوخا الذين لم يلعبوا بسبب تراكم البطاقات الصفراء\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099127119419265",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_ريال،_لمواصلة_العودة_مع_ليون.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/europa-league/2026/11/05/real-seguir-remontada-lyon.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AgVY8Isj69iB1JdxNRUYd33"
+    }
+  },
+  {
     "title": "Una noche para curar la herida",
     "url": "https://www.marca.com/futbol/conference-league/2026/11/05/getafe-brighton-noche-curar-herida-previa-analisis-pronostico-prediccion.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aaoh8Pg-bgvMb0romsyLOrM"
-    }
-  },
-  {
-    "title": "A qué hora es el Liverpool - Arsenal: horario y dónde ver hoy en TV el partido de la Premier League",
-    "url": "https://www.marca.com/futbol/premier-league/2026/11/01/liverpool-arsenal-horario-ver-hoy-tv-partido-premier-league.html",
-    "summary": "Los ‘reds’ reciben a los ‘gunners’ en uno de los grandes encuentros de la jornada del campeonato inglés",
-    "published": "Sun, 01 Nov 2026 08:57:12 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/29/6ae381412cb6f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ما هو وقت ليفربول - أرسنال: الجدول الزمني ومكان مشاهدة مباراة الدوري الإنجليزي الممتاز على شاشة التلفزيون اليوم",
-    "arabic_summary": "\"الحمر\" يستقبلون \"المدفعجية\" في إحدى المباريات الرائعة في يوم البطولة الإنجليزية",
-    "translation_status": "translated",
-    "post_title": "ما هو وقت ليفربول - أرسنال: الجدول الزمني ومكان مشاهدة مباراة الدوري الإنجليزي الممتاز على شاشة التلفزيون اليوم",
-    "post_text": "🚨 ما هو وقت ليفربول - أرسنال: الجدول الزمني ومكان مشاهدة مباراة الدوري الإنجليزي الممتاز على شاشة التلفزيون اليوم\n\n📝 \"الحمر\" يستقبلون \"المدفعجية\" في إحدى المباريات الرائعة في يوم البطولة الإنجليزية\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095325759799401",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هو_وقت_ليفربول_-_أرسنال_الجدول_الزمني_ومكان_مشاهدة_مباراة_الدوري_الإنجليزي_ال.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/01/liverpool-arsenal-horario-ver-hoy-tv-partido-premier-league.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1RSH2-grlvRkUdPzec3neQ"
     }
   }
 ]
