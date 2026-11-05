@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cañizares detecta \"lo que peor le ha sentado\" a Vinicius en el Madrid: \"Son cosas que no son naturales\"",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/05/canizares-detecta-peor-le-sentado-vinicius-madrid-son-cosas-son-naturales.html",
+    "summary": "\"Vinicius es incapaz de defender ese estatus dentro del terreno de juego\"",
+    "published": "Thu, 05 Nov 2026 06:47:58 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aec18771fc53.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كانيزاريس يكشف \"ما هو الأسوأ\" بالنسبة لفينيسيوس في مدريد: \"هذه أشياء ليست طبيعية\"",
+    "arabic_summary": "\"فينيسيوس غير قادر على الدفاع عن هذا الوضع على أرض الملعب\"",
+    "translation_status": "translated",
+    "post_title": "كانيزاريس يكشف \"ما هو الأسوأ\" بالنسبة لفينيسيوس في مدريد: \"هذه أشياء ليست طبيعية\"",
+    "post_text": "🚨 كانيزاريس يكشف \"ما هو الأسوأ\" بالنسبة لفينيسيوس في مدريد: \"هذه أشياء ليست طبيعية\"\n\n📝 \"فينيسيوس غير قادر على الدفاع عن هذا الوضع على أرض الملعب\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099093486089295",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كانيزاريس_يكشف_ما_هو_الأسوأ_بالنسبة_لفينيسيوس_في_مدريد_هذه_أشياء_ليست_طبيعية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/05/canizares-detecta-peor-le-sentado-vinicius-madrid-son-cosas-son-naturales.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "An9eFxN1J1xrHvXUPWiiiHm"
+    }
+  },
+  {
     "title": "A rivalry that changed football",
     "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
     "summary": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AElHqhfsbjQgWflugVRLp0q"
-    }
-  },
-  {
-    "title": "Celtic stunned as Falkirk claim first win vs Hoops in 19 years",
-    "url": "https://www.skysports.com/football/falkirk-vs-celtic/report/558400",
-    "summary": "Falkirk claimed their first win against Celtic since 2007 as the champions missed another chance to extend their lead in the Scottish Premiership title race.",
-    "published": "Sun, 01 Nov 2026 14:50:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-celtic-cameron-carter-vickers_7393874.jpg?20261101145844",
-    "media_type": "image/jpg",
-    "arabic_title": "فاجأ سيلتيك عندما حقق فالكيرك فوزه الأول على هوبس منذ 19 عامًا",
-    "arabic_summary": "حقق فالكيرك فوزه الأول على سيلتيك منذ عام 2007 حيث أهدر الأبطال فرصة أخرى لتعزيز تقدمهم في السباق على لقب الدوري الاسكتلندي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "فاجأ سيلتيك عندما حقق فالكيرك فوزه الأول على هوبس منذ 19 عامًا",
-    "post_text": "🚨 فاجأ سيلتيك عندما حقق فالكيرك فوزه الأول على هوبس منذ 19 عامًا\n\n📝 حقق فالكيرك فوزه الأول على سيلتيك منذ عام 2007 حيث أهدر الأبطال فرصة أخرى لتعزيز تقدمهم في السباق على لقب الدوري الاسكتلندي الممتاز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095326013132709",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاجأ_سيلتيك_عندما_حقق_فالكيرك_فوزه_الأول_على_هوبس_منذ_19_عامًا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/falkirk-vs-celtic/report/558400",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOmlBnbxWK3rnWv-M9uEgr3"
     }
   }
 ]
