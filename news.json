@@ -1,5 +1,39 @@
 [
   {
+    "title": "Antony, en sus mínimos",
+    "url": "https://as.com/futbol/primera/el-efecto-ruibal-aprieta-a-antony-f202611-n/",
+    "summary": "El brasileño sigue lejos de su mejor versión tras otra gris actuación ante el Dortmund. Ruibal levanta la mano y amenaza su titularidad.",
+    "published": "Thu, 05 Nov 2026 09:11:41 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4TXIN2FRMJOIRIITINLK4EIEZI.jpg?auth=c450c27266264b2aec8fd589eb95aa746a95f7b75e3d52be4a3bcdd60a108380",
+    "media_type": "image/jpeg",
+    "arabic_title": "أنتوني، في أدنى مستوياته",
+    "arabic_summary": "لا يزال البرازيلي بعيدًا عن أفضل نسخة له بعد أداء رمادي آخر ضد دورتموند. يرفع روبال يده ويهدد ملكيته.",
+    "translation_status": "translated",
+    "post_title": "أنتوني، في أدنى مستوياته",
+    "post_text": "🚨 أنتوني، في أدنى مستوياته\n\n📝 لا يزال البرازيلي بعيدًا عن أفضل نسخة له بعد أداء رمادي آخر ضد دورتموند. يرفع روبال يده ويهدد ملكيته.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099130829418894",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنتوني،_في_أدنى_مستوياته.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-efecto-ruibal-aprieta-a-antony-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOnGBn0rbsFWJYkeAErUlV2"
+    }
+  },
+  {
     "title": "La Real, a seguir la remontada con el Lyon",
     "url": "https://www.marca.com/futbol/europa-league/2026/11/05/real-seguir-remontada-lyon.html",
     "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A10cFULtj1DUTEtJ_FBFEaN"
-    }
-  },
-  {
-    "title": "“La idea es perjudicar al Real Madrid y beneficiar a los otros...”",
-    "url": "https://as.com/futbol/videos/la-idea-es-perjudicar-al-real-madrid-y-beneficiar-a-los-otros-f202611-v/",
-    "summary": "En RMTV se mostraron indignados con que el Real Madrid sea el único de los cinco equipos que juega Champions que tenga su encuentro hoy domingo.",
-    "published": "Sun, 01 Nov 2026 15:08:14 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261101/1232545_150648_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "\"الفكرة هي إيذاء ريال مدريد وإفادة الآخرين...\"",
-    "arabic_summary": "عبر قناة RMTV عبروا عن غضبهم من أن ريال مدريد هو الفريق الوحيد من بين الفرق الخمسة التي تلعب في دوري أبطال أوروبا والتي ستقام مباراته اليوم الأحد.",
-    "translation_status": "translated",
-    "post_title": "\"الفكرة هي إيذاء ريال مدريد وإفادة الآخرين...\"",
-    "post_text": "🚨 \"الفكرة هي إيذاء ريال مدريد وإفادة الآخرين...\"\n\n📝 عبر قناة RMTV عبروا عن غضبهم من أن ريال مدريد هو الفريق الوحيد من بين الفرق الخمسة التي تلعب في دوري أبطال أوروبا والتي ستقام مباراته اليوم الأحد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095333439798633",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفكرة_هي_إيذاء_ريال_مدريد_وإفادة_الآخرين....png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aaoh8Pg-bgvMb0romsyLOrM"
     }
   }
 ]
