@@ -1,5 +1,39 @@
 [
   {
+    "title": "Se hace viral esto de los aficionados del AEK con el 2-1: lo que ocurre después es tremendo",
+    "url": "https://as.com/futbol/videos/se-hace-viral-esto-de-los-aficionados-del-aek-con-el-2-1-lo-que-ocurre-despues-es-tremendo-f202611-v/",
+    "summary": "Los aficionados griegos celebraron antes de tiempo la victoria del AEK. Este vídeo se viralizó tras la remontada del Madrid.",
+    "published": "Thu, 05 Nov 2026 11:32:12 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261105/1234142_112902_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "هذا الشيء الذي يتعلق بمشجعي AEK بنتيجة 2-1 ينتشر بسرعة كبيرة: ما سيحدث بعد ذلك أمر هائل",
+    "arabic_summary": "احتفل المشجعون اليونانيون بانتصار AEK مبكرًا. انتشر هذا الفيديو بعد عودة مدريد.",
+    "translation_status": "translated",
+    "post_title": "هذا الشيء الذي يتعلق بمشجعي AEK بنتيجة 2-1 ينتشر بسرعة كبيرة: ما سيحدث بعد ذلك أمر هائل",
+    "post_text": "🚨 هذا الشيء الذي يتعلق بمشجعي AEK بنتيجة 2-1 ينتشر بسرعة كبيرة: ما سيحدث بعد ذلك أمر هائل\n\n📝 احتفل المشجعون اليونانيون بانتصار AEK مبكرًا. انتشر هذا الفيديو بعد عودة مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099548439377133",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هذا_الشيء_الذي_يتعلق_بمشجعي_AEK_بنتيجة_2-1_ينتشر_بسرعة_كبيرة_ما_سيحدث_بعد_ذلك_أم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFErYZUJMu6zysnAndDvvm3"
+    }
+  },
+  {
     "title": "España-Portugal, semifinal de la 'Finalissima' con sabor a Mundial",
     "url": "https://www.marca.com/futbol/futbol-sala/2026/11/06/espana-portugal-semifinal-finalissima-sabor-mundial.html",
     "summary": "El partido, repetición de la final de la Eurocopa de Liubliana se podrá ver en el canal de Youtube de la RFEF (22:30)",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXyZvYBMTZ4HDei0eQsiQ2i"
-    }
-  },
-  {
-    "title": "'It's embarrassing!' - Ref Watch discuss Madueke-Mac Allister clash",
-    "url": "https://www.skysports.com/watch/video/13607028/ref-watch-discusses-noni-madueke-and-alexis-mac-allister-clash-at-anfield",
-    "summary": "The Ref Watch team discusses Noni Madueke and Alexis Mac Allister's clash at Anfield between Liverpool and Arsenal.",
-    "published": "Mon, 02 Nov 2026 11:17:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-football-ref-watch_7394775.jpg?20261102114437",
-    "media_type": "image/jpg",
-    "arabic_title": "\"إنه أمر محرج!\" - الحكم شاهد يناقش صراع مادويكي وماك أليستر",
-    "arabic_summary": "يناقش فريق Ref Watch المواجهة بين نوني مادويكي وأليكسيس ماك أليستر على ملعب آنفيلد بين ليفربول وأرسنال.",
-    "translation_status": "translated",
-    "post_title": "\"إنه أمر محرج!\" - الحكم شاهد يناقش صراع مادويكي وماك أليستر",
-    "post_text": "🚨 \"إنه أمر محرج!\" - الحكم شاهد يناقش صراع مادويكي وماك أليستر\n\n📝 يناقش فريق Ref Watch المواجهة بين نوني مادويكي وأليكسيس ماك أليستر على ملعب آنفيلد بين ليفربول وأرسنال.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096101226388521",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنه_أمر_محرج!_-_الحكم_شاهد_يناقش_صراع_مادويكي_وماك_أليستر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13607028/ref-watch-discusses-noni-madueke-and-alexis-mac-allister-clash-at-anfield",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7gYyr5JwuzB65HpHj_xclF"
     }
   }
 ]
