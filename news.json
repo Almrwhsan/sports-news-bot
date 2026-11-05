@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cardoso se apunta al Barcelona",
+    "url": "https://as.com/futbol/primera/cardoso-se-apunta-al-barcelona-f202611-n/",
+    "summary": "El centrocampista se ha entrenado junto al resto de sus compañeros y podría jugar ante el equipo azulgrana. El Cholo tiene a todos sus centrocampistas disponibles. Cuti Romero, la única baja del conjunto rojiblanco.",
+    "published": "Thu, 05 Nov 2026 11:13:45 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RB3HUHXULBKGJIXNITRZO4RYCA.jpg?auth=02472ba805644b590fcec4851811be81e3484364dba59a3a81bfcdb621ceb233",
+    "media_type": "image/jpeg",
+    "arabic_title": "كاردوسو يوقع لبرشلونة",
+    "arabic_summary": "وقد تدرب لاعب خط الوسط مع بقية زملائه ويمكن أن يلعب ضد فريق برشلونة. تشولو لديه كل لاعبي خط الوسط المتاحين. كاتي روميرو، الضحية الوحيدة للفريق الأحمر والأبيض.",
+    "translation_status": "translated",
+    "post_title": "كاردوسو يوقع لبرشلونة",
+    "post_text": "🚨 كاردوسو يوقع لبرشلونة\n\n📝 وقد تدرب لاعب خط الوسط مع بقية زملائه ويمكن أن يلعب ضد فريق برشلونة. تشولو لديه كل لاعبي خط الوسط المتاحين. كاتي روميرو، الضحية الوحيدة للفريق الأحمر والأبيض.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099013019430675",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاردوسو_يوقع_لبرشلونة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/cardoso-se-apunta-al-barcelona-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AidO6P9pvtPzzRBB0brY64O"
+    }
+  },
+  {
     "title": "Which game will Chelsea's Palmer miss after red card?",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUjHgOW_PXJxgtmrnW32rVU"
-    }
-  },
-  {
-    "title": "Fútbol, necesaria futilidad",
-    "url": "https://as.com/opinion/futbol-necesaria-futilidad-f202611-n/",
-    "summary": "¿Cómo será posible disfrutar del fin de semana de Liga después de la trágica catástrofe ferroviaria del miércoles? El luto obliga a callar y a reflexionar.",
-    "published": "Sun, 01 Nov 2026 00:47:36 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/J6C4JCAXFBNNJHHLI4APKFJ77Q.jpg?auth=4091bbbe3a655556f0fad98a344eda4a7e35ab11999d74316aad14f8b328a707",
-    "media_type": "image/jpeg",
-    "arabic_title": "كرة القدم، عبث ضروري",
-    "arabic_summary": "كيف سيكون من الممكن الاستمتاع بعطلة نهاية الأسبوع في الدوري بعد كارثة القطار المأساوية يوم الأربعاء؟ الحداد يجبرنا على التزام الصمت والتأمل.",
-    "translation_status": "translated",
-    "post_title": "كرة القدم، عبث ضروري",
-    "post_text": "🚨 كرة القدم، عبث ضروري\n\n📝 كيف سيكون من الممكن الاستمتاع بعطلة نهاية الأسبوع في الدوري بعد كارثة القطار المأساوية يوم الأربعاء؟ الحداد يجبرنا على التزام الصمت والتأمل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095303783134932",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كرة_القدم،_عبث_ضروري.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/futbol-necesaria-futilidad-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AV0w9JblJIOPVUgRDT2BTZ7"
     }
   }
 ]
