@@ -1,5 +1,39 @@
 [
   {
+    "title": "Exclusivo Registrados: Te invitamos al partido Atlético de Madrid vs FC Barcelona",
+    "url": "https://as.com/futbol/exclusivo-registrados-te-invitamos-al-partido-atletico-de-madrid-vs-fc-barcelona-f202611-n/",
+    "summary": "Accede con tu clave y participa en el sorteo de una entrada doble para el partido",
+    "published": "Thu, 05 Nov 2026 10:10:52 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XHSALP4UFNCF7GS6D23XIEQ7Z4.png?auth=057f721b0bd0ce96afc9e264abc9986c8873e1660a21caeb960c3e651e7fbc05",
+    "media_type": "image/png",
+    "arabic_title": "تسجيل حصري: ندعوك لحضور مباراة أتلتيكو مدريد ضد برشلونة",
+    "arabic_summary": "الدخول باستخدام كلمة المرور الخاصة بك والمشاركة في السحب على تذكرة مزدوجة للمباراة",
+    "translation_status": "translated",
+    "post_title": "تسجيل حصري: ندعوك لحضور مباراة أتلتيكو مدريد ضد برشلونة",
+    "post_text": "🚨 تسجيل حصري: ندعوك لحضور مباراة أتلتيكو مدريد ضد برشلونة\n\n📝 الدخول باستخدام كلمة المرور الخاصة بك والمشاركة في السحب على تذكرة مزدوجة للمباراة\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098970686101575",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تسجيل_حصري_ندعوك_لحضور_مباراة_أتلتيكو_مدريد_ضد_برشلونة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/exclusivo-registrados-te-invitamos-al-partido-atletico-de-madrid-vs-fc-barcelona-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0B8pN6GkwOdT5nCMM7Qprd"
+    }
+  },
+  {
     "title": "Flick reparte caramelitos",
     "url": "https://as.com/futbol/primera/flick-reparte-caramelitos-f202611-n/",
     "summary": "El entrenador alemán no quiere a nadie desconectado y está ofreciendo minutos para que todos estén enchufados.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXOFvaOf7hUdpEXIWsoK0ZJ"
-    }
-  },
-  {
-    "title": "Atlético, la séptima lleva a jugarse el liderato",
-    "url": "https://www.marca.com/futbol/atletico/2026/11/01/atletico-septima-lleva-jugarse-liderato.html",
-    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
-    "published": "Sun, 01 Nov 2026 06:05:11 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/31/6ae61fb15254c.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أتلتيكو، المركز السابع يؤدي إلى تعرض القيادة للخطر",
-    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
-    "translation_status": "translated",
-    "post_title": "أتلتيكو، المركز السابع يؤدي إلى تعرض القيادة للخطر",
-    "post_text": "🚨 أتلتيكو، المركز السابع يؤدي إلى تعرض القيادة للخطر\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095304053134905",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو،_المركز_السابع_يؤدي_إلى_تعرض_القيادة_للخطر.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/11/01/atletico-septima-lleva-jugarse-liderato.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqxxoNS8Kw6YB3otY8R0Uod"
     }
   }
 ]
