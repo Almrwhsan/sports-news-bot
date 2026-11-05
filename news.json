@@ -1,5 +1,39 @@
 [
   {
+    "title": "Is this the end of the road for LIV Golf?",
+    "url": "https://www.skysports.com/watch/video/13608454/liv-golf-is-this-the-end-of-the-road-for-liv-golf",
+    "summary": "Sky Sports' Jamie Weir looks at whether this could be the end of the road for LIV Golf and where does it leave its players?",
+    "published": "Thu, 05 Nov 2026 15:27:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-golf-liv_7398177.jpg?20261105153941",
+    "media_type": "image/jpg",
+    "arabic_title": "هل هذه نهاية الطريق لـ LIV Golf؟",
+    "arabic_summary": "ينظر جيمي وير من سكاي سبورتس إلى ما إذا كان هذا قد يكون نهاية الطريق لشركة LIV Golf وأين سيترك لاعبيها؟",
+    "translation_status": "translated",
+    "post_title": "هل هذه نهاية الطريق لـ LIV Golf؟",
+    "post_text": "🚨 هل هذه نهاية الطريق لـ LIV Golf؟\n\n📝 ينظر جيمي وير من سكاي سبورتس إلى ما إذا كان هذا قد يكون نهاية الطريق لشركة LIV Golf وأين سيترك لاعبيها؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099345339397443",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_هذه_نهاية_الطريق_لـ_LIV_Golf؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13608454/liv-golf-is-this-the-end-of-the-road-for-liv-golf",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXJ0JqDcQgg4MZ_HhOh1JEn"
+    }
+  },
+  {
     "title": "El acuerdo con Nadal estaba cerrado desde antes del Clásico y solo lo conocían cuatro",
     "url": "https://as.com/futbol/primera/el-acuerdo-con-nadal-estaba-cerrado-desde-antes-del-clasico-y-solo-lo-conocian-cuatro-f202611-n/",
     "summary": "La predisposición del tenista a formar parte de la directiva madridista ha sido total y siempre lo calificó como un auténtico “honor que pensaran en mí”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AaeFvDPHyMlNrfCGxVmIIOs"
-    }
-  },
-  {
-    "title": "Papers: Ten Hag warns Man Utd could be relegated",
-    "url": "https://www.skysports.com/football/news/12040/13606869/erik-ten-hag-warns-manchester-united-could-be-relegated-after-slipping-to-17th-in-the-premier-league-paper-talk",
-    "summary": "The top stories and transfer rumours from Monday's newspapers...",
-    "published": "Sat, 31 Oct 2026 22:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-    "media_type": "image/jpg",
-    "arabic_title": "الأوراق: تين هاج يحذر من احتمال هبوط مانشستر يونايتد",
-    "arabic_summary": "أهم الأخبار والإشاعات المنقولة من صحف الإثنين..",
-    "translation_status": "translated",
-    "post_title": "الأوراق: تين هاج يحذر من احتمال هبوط مانشستر يونايتد",
-    "post_text": "🚨 الأوراق: تين هاج يحذر من احتمال هبوط مانشستر يونايتد\n\n📝 أهم الأخبار والإشاعات المنقولة من صحف الإثنين..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095539489778028",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_تين_هاج_يحذر_من_احتمال_هبوط_مانشستر_يونايتد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13606869/erik-ten-hag-warns-manchester-united-could-be-relegated-after-slipping-to-17th-in-the-premier-league-paper-talk",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAktbixj_cTTX6NfTwDwhYL"
     }
   }
 ]
