@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cristiano Ronaldo, el jugador que cambió la historia del fútbol en Portugal",
+    "url": "https://www.marca.com/futbol/2026/11/05/cristiano-ronaldo-jugador-cambio-historia-futbol-portugal-video.html",
+    "summary": "",
+    "published": "Thu, 05 Nov 2026 14:59:21 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/gesnc1gx7QzjbH2LL.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كريستيانو رونالدو، اللاعب الذي غير تاريخ كرة القدم في البرتغال",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "كريستيانو رونالدو، اللاعب الذي غير تاريخ كرة القدم في البرتغال",
+    "post_text": "🚨 كريستيانو رونالدو، اللاعب الذي غير تاريخ كرة القدم في البرتغال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099458639386113",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كريستيانو_رونالدو،_اللاعب_الذي_غير_تاريخ_كرة_القدم_في_البرتغال.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/05/cristiano-ronaldo-jugador-cambio-historia-futbol-portugal-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AiqGJJpdlc3FFLmyLxEDVpg"
+    }
+  },
+  {
     "title": "Fury's camp deny injury claims ahead of Joshua fight",
     "url": "https://www.skysports.com/boxing/news/12040/13608487/tyson-fury-camp-deny-injury-claims-ahead-of-the-gypsy-kings-fight-with-anthony-joshua-in-cardiff",
     "summary": "Tyson Fury's camp have denied claims their fighter is injured ahead of his eagerly-anticipated clash with Anthony Joshua next month.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYsb0TbcBFspGQ-DCRZ06kx"
-    }
-  },
-  {
-    "title": "One-handed catch alert! Okonkwo burns Eagles with stunning grab!",
-    "url": "https://www.skysports.com/watch/video/13606920/one-handed-catch-alert-chig-okonkwo-burns-eagles-with-stunning-grab",
-    "summary": "Washington Commanders quarterback Jayden Daniels passes to tight end Chig Okonkwo for a 21-yard gain.",
-    "published": "Mon, 02 Nov 2026 06:07:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-chig-okonkwo-nfl_7394504.jpg?20261102064224",
-    "media_type": "image/jpg",
-    "arabic_title": "تنبيه الصيد بيد واحدة! أوكونكو يحرق النسور بقبضة مذهلة!",
-    "arabic_summary": "يمرر لاعب وسط فريق Washington Commanders جايدن دانيلز إلى النهاية الضيقة Chig Okonkwo ليحقق مكاسب تبلغ 21 ياردة.",
-    "translation_status": "translated",
-    "post_title": "تنبيه الصيد بيد واحدة! أوكونكو يحرق النسور بقبضة مذهلة!",
-    "post_text": "🚨 تنبيه الصيد بيد واحدة! أوكونكو يحرق النسور بقبضة مذهلة!\n\n📝 يمرر لاعب وسط فريق Washington Commanders جايدن دانيلز إلى النهاية الضيقة Chig Okonkwo ليحقق مكاسب تبلغ 21 ياردة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095955919736385",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تنبيه_الصيد_بيد_واحدة!_أوكونكو_يحرق_النسور_بقبضة_مذهلة!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13606920/one-handed-catch-alert-chig-okonkwo-burns-eagles-with-stunning-grab",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApvpsY_joqaTbtYSiZrOGXa"
     }
   }
 ]
