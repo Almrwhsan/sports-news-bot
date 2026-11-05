@@ -1,5 +1,39 @@
 [
   {
+    "title": "La familia de Jesús de Miguel: \"Necesitamos vivir este duelo en la tranquilidad que esta situación requiere\"",
+    "url": "https://www.marca.com/futbol/2026/11/05/familia-jesus-miguel-necesitamos-vivir-duelo-tranquilidad-situacion-requier-video.html",
+    "summary": "",
+    "published": "Thu, 05 Nov 2026 12:57:19 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/gepDc1gx6xKTHKvsy.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "عائلة خيسوس دي ميغيل: \"علينا أن نعيش هذا الحداد بالهدوء الذي يتطلبه هذا الوضع\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "عائلة خيسوس دي ميغيل: \"علينا أن نعيش هذا الحداد بالهدوء الذي يتطلبه هذا الوضع\"",
+    "post_text": "🚨 عائلة خيسوس دي ميغيل: \"علينا أن نعيش هذا الحداد بالهدوء الذي يتطلبه هذا الوضع\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099355592729751",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عائلة_خيسوس_دي_ميغيل_علينا_أن_نعيش_هذا_الحداد_بالهدوء_الذي_يتطلبه_هذا_الوضع.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/05/familia-jesus-miguel-necesitamos-vivir-duelo-tranquilidad-situacion-requier-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwEX1pyvcVVuVE1ipWGJVCD"
+    }
+  },
+  {
     "title": "Is this the end of the road for LIV Golf?",
     "url": "https://www.skysports.com/watch/video/13608454/liv-golf-is-this-the-end-of-the-road-for-liv-golf",
     "summary": "Sky Sports' Jamie Weir looks at whether this could be the end of the road for LIV Golf and where does it leave its players?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5BqiQr48dcFbpxd0qmtbLk"
-    }
-  },
-  {
-    "title": "Santander confirma el nuevo modelo del Real Madrid",
-    "url": "https://as.com/opinion/santander-confirma-el-nuevo-modelo-del-real-madrid-f202611-n/",
-    "summary": "Juntar a Bernardo Silva y Güler en el césped y el retorno que ofrece Diomande respecto a Vinicius marcan el camino para el futuro. Ahora sí, los jugadores están convencidos.",
-    "published": "Sun, 01 Nov 2026 17:24:56 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FOFKJ63F6RODFOOAUENJ6XHR3Q.jpg?auth=8afc6b9426c1e1f2e96da10f8f207d380d7d6a1d906fd670b6b3ac89eba30bb9",
-    "media_type": "image/jpeg",
-    "arabic_title": "سانتاندر يؤكد نموذج ريال مدريد الجديد",
-    "arabic_summary": "إن الجمع بين برناردو سيلفا وجولر على أرض الملعب والعودة التي يقدمها ديوماندي مقارنة بفينيسيوس، تحدد الطريق للمستقبل. والآن أصبح اللاعبون مقتنعين.",
-    "translation_status": "translated",
-    "post_title": "سانتاندر يؤكد نموذج ريال مدريد الجديد",
-    "post_text": "🚨 سانتاندر يؤكد نموذج ريال مدريد الجديد\n\n📝 إن الجمع بين برناردو سيلفا وجولر على أرض الملعب والعودة التي يقدمها ديوماندي مقارنة بفينيسيوس، تحدد الطريق للمستقبل. والآن أصبح اللاعبون مقتنعين.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095539396444704",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سانتاندر_يؤكد_نموذج_ريال_مدريد_الجديد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/santander-confirma-el-nuevo-modelo-del-real-madrid-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AaeFvDPHyMlNrfCGxVmIIOs"
     }
   }
 ]
