@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hull City latest: 'It's possible to beat Arsenal - we'll give it our all', says Iroegbunam",
+    "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "summary": "",
+    "published": "Mon, 05 Oct 2026 10:17:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار هال سيتي: \"من الممكن التغلب على أرسنال - سنبذل قصارى جهدنا\" ، كما يقول إيروجبونام",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار هال سيتي: \"من الممكن التغلب على أرسنال - سنبذل قصارى جهدنا\" ، كما يقول إيروجبونام",
+    "post_text": "🚨 آخر أخبار هال سيتي: \"من الممكن التغلب على أرسنال - سنبذل قصارى جهدنا\" ، كما يقول إيروجبونام\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098980682767242",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_هال_سيتي_من_الممكن_التغلب_على_أرسنال_-_سنبذل_قصارى_جهدنا_،_كما_يقول_إي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5YKFgR-3WuzI4sLjWOIAKa"
+    }
+  },
+  {
     "title": "Exclusivo Registrados: Te invitamos al partido Atlético de Madrid vs FC Barcelona",
     "url": "https://as.com/futbol/exclusivo-registrados-te-invitamos-al-partido-atletico-de-madrid-vs-fc-barcelona-f202611-n/",
     "summary": "Accede con tu clave y participa en el sorteo de una entrada doble para el partido",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ALHYFx0U6W6qXypz0ODUszZ"
-    }
-  },
-  {
-    "title": "Raphinha-Fermín, una dupla líder",
-    "url": "https://www.marca.com/futbol/barcelona/2026/11/01/raphinha-fermin-dupla-lider.html",
-    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
-    "published": "Sun, 01 Nov 2026 06:03:24 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/31/6ae65b5d41e8d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "رافينها-فيرمين، ثنائية رائدة",
-    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
-    "translation_status": "translated",
-    "post_title": "رافينها-فيرمين، ثنائية رائدة",
-    "post_text": "🚨 رافينها-فيرمين، ثنائية رائدة\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095303966468247",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رافينها-فيرمين،_ثنائية_رائدة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/01/raphinha-fermin-dupla-lider.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AXOFvaOf7hUdpEXIWsoK0ZJ"
     }
   }
 ]
