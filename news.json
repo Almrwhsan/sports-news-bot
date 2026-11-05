@@ -1,5 +1,39 @@
 [
   {
+    "title": "El vestuario arropa a Le Normand",
+    "url": "https://as.com/futbol/primera/el-vestuario-arropa-a-le-normand-f202611-n/",
+    "summary": "El central franco-español recibe el cariño de sus compañeros tras el error en el Atlético-Bayern que provocó el primer gol de los alemanes el martes.",
+    "published": "Thu, 05 Nov 2026 07:33:49 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BG3DLUHICNOE7FJYHNE7MCSFLA.jpg?auth=4cccc7f8e8cd7fd9731e023a27ba89ea227850bd7903a308cf5ba210f887b4f9",
+    "media_type": "image/jpeg",
+    "arabic_title": "غرفة تبديل الملابس تغطي لو نورماند",
+    "arabic_summary": "يحظى قلب الدفاع الفرنسي الإسباني بحب زملائه بعد الخطأ الذي ارتكبه في مباراة أتلتيكو بايرن والذي أدى إلى الهدف الأول للألمان يوم الثلاثاء.",
+    "translation_status": "translated",
+    "post_title": "غرفة تبديل الملابس تغطي لو نورماند",
+    "post_text": "🚨 غرفة تبديل الملابس تغطي لو نورماند\n\n📝 يحظى قلب الدفاع الفرنسي الإسباني بحب زملائه بعد الخطأ الذي ارتكبه في مباراة أتلتيكو بايرن والذي أدى إلى الهدف الأول للألمان يوم الثلاثاء.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1098862309445746",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غرفة_تبديل_الملابس_تغطي_لو_نورماند.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-vestuario-arropa-a-le-normand-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAmgUA6ItHLDVVQL9bn0S4Y"
+    }
+  },
+  {
     "title": "Doncic becomes first player since Jordan to score 300 points through eight games",
     "url": "https://www.skysports.com/basketball/news/12040/13608230/luka-doncic-becomes-first-player-since-michael-jordan-to-score-300-points-through-first-eight-nba-games",
     "summary": "Luka Doncic scored 40 points, his sixth straight game with at least 35, as Los Angeles Lakers beat Sacramento Kings 116-103 on Wednesday and became the first player in 38 years since Michael Jordan to surpass 300 points in eight games.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZDbHNMtSLLLcV2uGtG8XlI"
-    }
-  },
-  {
-    "title": "La televisión pública china no emite ningún partido de LaLiga tras la polémica Mbappé",
-    "url": "https://as.com/futbol/primera/la-television-publica-china-no-emite-ningun-partido-de-laliga-desde-la-polemica-de-mbappe-f202611-n/",
-    "summary": "La plataforma de ‘streaming’ Migu sí ofreció los encuentros, pero ha retirado de su programación el Racing de Santander-Real Madrid.",
-    "published": "Sun, 01 Nov 2026 11:05:21 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VKS5BHOC55A2ZGMR6PVTT6YXWA.jpg?auth=ec6a0a91fda5b983fe0351d93c394e7ee91c5632dcc4ad4a1425e11b7cf607c0",
-    "media_type": "image/jpeg",
-    "arabic_title": "لا يبث التلفزيون العام الصيني أي مباريات في الدوري الإسباني بعد الجدل حول مبابي",
-    "arabic_summary": "عرضت منصة البث المباشر Migu المباريات، لكنها أزالت فريق Racing de Santander-Real Madrid من برامجها.",
-    "translation_status": "translated",
-    "post_title": "لا يبث التلفزيون العام الصيني أي مباريات في الدوري الإسباني بعد الجدل حول مبابي",
-    "post_text": "🚨 لا يبث التلفزيون العام الصيني أي مباريات في الدوري الإسباني بعد الجدل حول مبابي\n\n📝 عرضت منصة البث المباشر Migu المباريات، لكنها أزالت فريق Racing de Santander-Real Madrid من برامجها.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095233853141925",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_يبث_التلفزيون_العام_الصيني_أي_مباريات_في_الدوري_الإسباني_بعد_الجدل_حول_مبابي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/la-television-publica-china-no-emite-ningun-partido-de-laliga-desde-la-polemica-de-mbappe-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8aq9yjeUMMIPNBOVqqr6Jf"
     }
   }
 ]
