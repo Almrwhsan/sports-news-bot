@@ -1,5 +1,39 @@
 [
   {
+    "title": "Trout's Leigh absence down to cannabis ban",
+    "url": "https://www.skysports.com/rugby-league/news/12040/13608475/super-league-owen-trouts-one-month-absence-for-leigh-leopards-last-season-was-due-to-cannabis-ban",
+    "summary": "England forward Owen Trout's one-month absence from Leigh Leopards matches last season was due to a ban after testing positive for cannabis.",
+    "published": "Thu, 05 Nov 2026 16:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-owen-trout-leigh-leopards_7398200.jpg?20261105155830",
+    "media_type": "image/jpg",
+    "arabic_title": "غياب تراوت لي بسبب حظر الحشيش",
+    "arabic_summary": "كان غياب المهاجم الإنجليزي أوين تراوت لمدة شهر عن مباريات لي ليوباردز الموسم الماضي بسبب الحظر بعد أن ثبتت إصابته بتعاطي الحشيش.",
+    "translation_status": "translated",
+    "post_title": "غياب تراوت لي بسبب حظر الحشيش",
+    "post_text": "🚨 غياب تراوت لي بسبب حظر الحشيش\n\n📝 كان غياب المهاجم الإنجليزي أوين تراوت لمدة شهر عن مباريات لي ليوباردز الموسم الماضي بسبب الحظر بعد أن ثبتت إصابته بتعاطي الحشيش.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099365916062052",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غياب_تراوت_لي_بسبب_حظر_الحشيش.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/news/12040/13608475/super-league-owen-trouts-one-month-absence-for-leigh-leopards-last-season-was-due-to-cannabis-ban",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwFZE6mA-wSgZ_sqjxkNDeP"
+    }
+  },
+  {
     "title": "La familia de Jesús de Miguel: \"Necesitamos vivir este duelo en la tranquilidad que esta situación requiere\"",
     "url": "https://www.marca.com/futbol/2026/11/05/familia-jesus-miguel-necesitamos-vivir-duelo-tranquilidad-situacion-requier-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AaubT_uPVSHU2L_Egk2PhCV"
-    }
-  },
-  {
-    "title": "La revolución de Quique no evitó el esperado batacazo",
-    "url": "https://as.com/futbol/la-revolucion-de-quique-no-evito-el-esperado-batacazo-f202610-n/",
-    "summary": "El Alavés ganó el año pasado al Barça en Vitoria. Pero este era otro cantar.",
-    "published": "Sat, 31 Oct 2026 22:14:15 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7CNLANVRAZP63HD6UVSRZ6WWJE.jpg?auth=dd5c8ad23240c3cd15b836161da511fe58653bcd52131debf5aa2895d1a076ab",
-    "media_type": "image/jpeg",
-    "arabic_title": "ولم تتجنب ثورة كيكي النكسة المتوقعة",
-    "arabic_summary": "وفاز ألافيس على برشلونة في فيتوريا العام الماضي. لكن هذه كانت قصة أخرى.",
-    "translation_status": "translated",
-    "post_title": "ولم تتجنب ثورة كيكي النكسة المتوقعة",
-    "post_text": "🚨 ولم تتجنب ثورة كيكي النكسة المتوقعة\n\n📝 وفاز ألافيس على برشلونة في فيتوريا العام الماضي. لكن هذه كانت قصة أخرى.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1095539319778045",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ولم_تتجنب_ثورة_كيكي_النكسة_المتوقعة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/la-revolucion-de-quique-no-evito-el-esperado-batacazo-f202610-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A5BqiQr48dcFbpxd0qmtbLk"
     }
   }
 ]
