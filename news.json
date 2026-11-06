@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las portadas del día",
+    "url": "https://www.marca.com/futbol/album/2026/11/06/portadas-dia.html",
+    "summary": "Así vienen los periódicos deportivos de este viernes 6 de noviembre de 2026.",
+    "published": "Fri, 06 Nov 2026 01:37:26 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed209f875c8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغلفة اليوم",
+    "arabic_summary": "هكذا جاءت الصحف الرياضية ليوم الجمعة 6 نوفمبر 2026.",
+    "translation_status": "translated",
+    "post_title": "أغلفة اليوم",
+    "post_text": "🚨 أغلفة اليوم\n\n📝 هكذا جاءت الصحف الرياضية ليوم الجمعة 6 نوفمبر 2026.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099589619373015",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلفة_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/album/2026/11/06/portadas-dia.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvrrpqFZa7zAIxGIVmDvz1Y"
+    }
+  },
+  {
     "title": "Cristiano Ronaldo y Portugal: una historia para la eternidad",
     "url": "https://as.com/futbol/fotorrelato/cristiano-y-portugal-una-historia-para-la-eternidad-f202611-f/",
     "summary": "De las lágrimas de la Eurocopa 2004 al título continental de 2016 y los récords del Mundial 2026: las imágenes que resumen más de dos décadas de una leyenda con la selección portuguesa.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0SW_T2RwzrjqHWORKlTtGI"
-    }
-  },
-  {
-    "title": "Merse: Man Utd will be in relegation zone in a month",
-    "url": "https://www.skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
-    "summary": "Paul Merson is back with his latest Sky Sports column with a damning condemnation of Manchester United's recent form and a grim prediction for their upcoming prospects.",
-    "published": "Mon, 02 Nov 2026 11:20:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-michael-carrick_7394780.jpg?20261102115507",
-    "media_type": "image/jpg",
-    "arabic_title": "ميرسي: سيكون مانشستر يونايتد في منطقة الهبوط خلال شهر",
-    "arabic_summary": "عاد بول ميرسون مع أحدث عمود له في سكاي سبورتس مع إدانة شديدة لشكل مانشستر يونايتد الأخير وتوقع قاتم لآفاقهم القادمة.",
-    "translation_status": "translated",
-    "post_title": "ميرسي: سيكون مانشستر يونايتد في منطقة الهبوط خلال شهر",
-    "post_text": "🚨 ميرسي: سيكون مانشستر يونايتد في منطقة الهبوط خلال شهر\n\n📝 عاد بول ميرسون مع أحدث عمود له في سكاي سبورتس مع إدانة شديدة لشكل مانشستر يونايتد الأخير وتوقع قاتم لآفاقهم القادمة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096124616386182",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميرسي_سيكون_مانشستر_يونايتد_في_منطقة_الهبوط_خلال_شهر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AekClWOV6W4QJ1K_W9Nf061"
     }
   }
 ]
