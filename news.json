@@ -1,5 +1,39 @@
 [
   {
+    "title": "McIlroy surges into contention at Abu Dhabi Championship",
+    "url": "https://www.skysports.com/golf/news/12040/13608787/abu-dhabi-championship-rory-mcilroy-surges-into-contention-after-posting-11-birdies",
+    "summary": "Rory McIlroy stormed into contention at the Abu Dhabi Aldar Championship with a sensational second-round display, carding 11 birdies to reach 11 under par.",
+    "published": "Fri, 06 Nov 2026 10:34:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-rory-mcilroy_7398944.jpg?20261106111010",
+    "media_type": "image/jpg",
+    "arabic_title": "ماكلروي يصعد إلى المنافسة في بطولة أبوظبي",
+    "arabic_summary": "اقتحم روري ماكلروي المنافسة في بطولة الدار أبوظبي بعرض مثير في الجولة الثانية، حيث سدد 11 طائرًا ليصل إلى 11 تحت المعدل.",
+    "translation_status": "translated",
+    "post_title": "ماكلروي يصعد إلى المنافسة في بطولة أبوظبي",
+    "post_text": "🚨 ماكلروي يصعد إلى المنافسة في بطولة أبوظبي\n\n📝 اقتحم روري ماكلروي المنافسة في بطولة الدار أبوظبي بعرض مثير في الجولة الثانية، حيث سدد 11 طائرًا ليصل إلى 11 تحت المعدل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1100009402664370",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماكلروي_يصعد_إلى_المنافسة_في_بطولة_أبوظبي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/13608787/abu-dhabi-championship-rory-mcilroy-surges-into-contention-after-posting-11-birdies",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApQeIlKnzU6QZq5Kos0FJq7"
+    }
+  },
+  {
     "title": "Enredo de Xavi: convoca a De Jong",
     "url": "https://as.com/futbol/internacional/enredo-de-xavi-convoca-a-de-jong-f202611-n/",
     "summary": "El centrocampista del Barcelona vuelve a ser convocado por su selección tras recuperarse de una lesión de larga duración después de forzar en el Mundial.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZ1b0kgwvPyfLvJ-ye7BSPU"
-    }
-  },
-  {
-    "title": "Tenerife - FC Andorra en directo | Última hora de LALIGA Hypermotion en vivo hoy",
-    "url": "https://www.marca.com/futbol/segunda-division/2026/11/02/01-0102-20261102-612-16310.html",
-    "summary": "",
-    "published": "Mon, 02 Nov 2026 12:30:00 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/17936174738168.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تينيريفي - FC Andorra مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "تينيريفي - FC Andorra مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
-    "post_text": "🚨 تينيريفي - FC Andorra مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096345189697458",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تينيريفي_-_FC_Andorra_مباشر_الأخبار_العاجلة_من_LALIGA_Hypermotion_مباشرة_اليوم.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/segunda-division/2026/11/02/01-0102-20261102-612-16310.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATv4UrPjohWL5RYmybRr1bM"
     }
   }
 ]
