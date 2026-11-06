@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lacey and Man Utd's next generation can rescue Carrick",
+    "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
+    "summary": "Being at Old Trafford on Tuesday night was quite incredible.",
+    "published": "Fri, 06 Nov 2026 09:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-reporter-notebook_7398217.jpg?20261105160829",
+    "media_type": "image/jpg",
+    "arabic_title": "يمكن للجيل القادم من لاسي ومانشستر يونايتد إنقاذ كاريك",
+    "arabic_summary": "كان التواجد في أولد ترافورد ليلة الثلاثاء أمرًا لا يصدق.",
+    "translation_status": "translated",
+    "post_title": "يمكن للجيل القادم من لاسي ومانشستر يونايتد إنقاذ كاريك",
+    "post_text": "🚨 يمكن للجيل القادم من لاسي ومانشستر يونايتد إنقاذ كاريك\n\n📝 كان التواجد في أولد ترافورد ليلة الثلاثاء أمرًا لا يصدق.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099908992674411",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يمكن_للجيل_القادم_من_لاسي_ومانشستر_يونايتد_إنقاذ_كاريك.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmFMiA-dOO4xmRb654an0E8"
+    }
+  },
+  {
     "title": "Veinte años de gloria y un final inesperado",
     "url": "https://as.com/futbol/reportajes/veinte-anos-de-gloria-y-un-final-inesperado-f202611-n/",
     "summary": "Cristiano Ronaldo ha dicho adiós a la selección portuguesa a la que elevó a la élite mundial. Su abrupto final no debe empañar una de las trayectorias internacionales más brillantes que se recuerdan.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAZKj9HzlUmKom4cZGorh-d"
-    }
-  },
-  {
-    "title": "El Cuti Romero despeja la incógnita: gimnasio en vísperas del Bayern",
-    "url": "https://www.marca.com/futbol/atletico/2026/11/02/cuti-romero-despeja-incognita-gimnasio-visperas-bayern.html",
-    "summary": "El central argentino no participa en la última sesión previa al partido, reservándose para llegar en plenitud al Barcelona",
-    "published": "Mon, 02 Nov 2026 11:53:38 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/gYIlI1gw6TbKPh7KX.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كاتي روميرو تزيل اللغز: صالة الألعاب الرياضية عشية مباراة بايرن",
-    "arabic_summary": "ولم يشارك قلب الدفاع الأرجنتيني في المران الأخير قبل المباراة، ويحتفظ بنفسه للوصول بشكل كامل إلى برشلونة",
-    "translation_status": "translated",
-    "post_title": "كاتي روميرو تزيل اللغز: صالة الألعاب الرياضية عشية مباراة بايرن",
-    "post_text": "🚨 كاتي روميرو تزيل اللغز: صالة الألعاب الرياضية عشية مباراة بايرن\n\n📝 ولم يشارك قلب الدفاع الأرجنتيني في المران الأخير قبل المباراة، ويحتفظ بنفسه للوصول بشكل كامل إلى برشلونة\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096300756368568",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كاتي_روميرو_تزيل_اللغز_صالة_الألعاب_الرياضية_عشية_مباراة_بايرن.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/11/02/cuti-romero-despeja-incognita-gimnasio-visperas-bayern.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APFtZ1R-DbecfbRWIy9zaRD"
     }
   }
 ]
