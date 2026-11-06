@@ -1,5 +1,39 @@
 [
   {
+    "title": "Enredo de Xavi: convoca a De Jong",
+    "url": "https://as.com/futbol/internacional/enredo-de-xavi-convoca-a-de-jong-f202611-n/",
+    "summary": "El centrocampista del Barcelona vuelve a ser convocado por su selección tras recuperarse de una lesión de larga duración después de forzar en el Mundial.",
+    "published": "Fri, 06 Nov 2026 11:20:07 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/AVUVUNVRBBK37M5H5P5FGVUTKM.jpg?auth=f9fcedc0013905249d4a24d758c89f3ef8d98d4244a9e98d027945588ee32ef4",
+    "media_type": "image/jpeg",
+    "arabic_title": "مؤامرة تشافي: يستدعي دي يونج",
+    "arabic_summary": "تم استدعاء لاعب خط وسط برشلونة مرة أخرى للمنتخب الوطني بعد تعافيه من إصابة طويلة الأمد بعد إجبار نفسه على المشاركة في كأس العالم.",
+    "translation_status": "translated",
+    "post_title": "مؤامرة تشافي: يستدعي دي يونج",
+    "post_text": "🚨 مؤامرة تشافي: يستدعي دي يونج\n\n📝 تم استدعاء لاعب خط وسط برشلونة مرة أخرى للمنتخب الوطني بعد تعافيه من إصابة طويلة الأمد بعد إجبار نفسه على المشاركة في كأس العالم.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1100002865998357",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مؤامرة_تشافي_يستدعي_دي_يونج.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/enredo-de-xavi-convoca-a-de-jong-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7PfHxXmAz8O7RRjWDhq8wN"
+    }
+  },
+  {
     "title": "Moyes talks trophy as Everton boss reflects on career before landmark game",
     "url": "https://www.skysports.com/football/news/12040/13605773/david-moyes-interview-everton-manager-targeting-trophies-as-he-equals-harry-cattericks-record-for-games-managed",
     "summary": "Everton are seventh in the Premier League table with the chance to move above Liverpool into fifth if they can beat Coventry at home. They are also into a Carabao Cup quarter-final against Fleetwood. This has been a promising start for David Moyes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATv4UrPjohWL5RYmybRr1bM"
-    }
-  },
-  {
-    "title": "Valdano y el nuevo papel de Vinicius: \"Va a tener que reconquistar el sitio que le han ganado sus compañeros\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/02/valdano-nuevo-papel-vinicius-reconquistar-sitio-le-han-ganado-companeros.html",
-    "summary": "Analizó el momento que atraviesa Diomande y cómo su irrupción puede afectar al papel del brasileño",
-    "published": "Mon, 02 Nov 2026 12:31:31 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8746c7f9c1.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "دور فالدانو وفينيسيوس الجديد: \"سيتعين عليه استعادة المكانة التي فاز بها زملاؤه له\"",
-    "arabic_summary": "وقام بتحليل اللحظة التي يمر بها ديوماندي وكيف يمكن أن يؤثر ظهوره على دور البرازيلي",
-    "translation_status": "translated",
-    "post_title": "دور فالدانو وفينيسيوس الجديد: \"سيتعين عليه استعادة المكانة التي فاز بها زملاؤه له\"",
-    "post_text": "🚨 دور فالدانو وفينيسيوس الجديد: \"سيتعين عليه استعادة المكانة التي فاز بها زملاؤه له\"\n\n📝 وقام بتحليل اللحظة التي يمر بها ديوماندي وكيف يمكن أن يؤثر ظهوره على دور البرازيلي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096345399697437",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دور_فالدانو_وفينيسيوس_الجديد_سيتعين_عليه_استعادة_المكانة_التي_فاز_بها_زملاؤه_له.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/02/valdano-nuevo-papel-vinicius-reconquistar-sitio-le-han-ganado-companeros.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoJKWlufHn-cW5yLWucnYq5"
     }
   }
 ]
