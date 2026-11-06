@@ -1,5 +1,39 @@
 [
   {
+    "title": "China está en conversaciones con LaLiga pero pide “tiempo para digerir” el tema Mbappé",
+    "url": "https://as.com/futbol/primera/china-esta-en-conversaciones-con-laliga-pero-pide-tiempo-para-digerir-el-tema-mbappe-f202611-n/",
+    "summary": "“No hay negociaciones, pero sí comunicaciones, basadas en el entendimiento mutuo”, aseguró el embajador chino en España, Yao Jing.",
+    "published": "Fri, 06 Nov 2026 09:29:59 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CVPUXA4HBBN27DNS56KATLJLCQ.jpg?auth=d3318dcd6bfb8500badecfc879ba959f064ea5a23b0cabce532316e04ea1956a",
+    "media_type": "image/jpeg",
+    "arabic_title": "تجري الصين محادثات مع الدوري الإسباني لكنها تطلب \"الوقت لاستيعاب\" قضية مبابي",
+    "arabic_summary": "وقال السفير الصيني لدى إسبانيا ياو جينغ: «لا توجد مفاوضات، لكن هناك اتصالات مبنية على التفاهم المتبادل».",
+    "translation_status": "translated",
+    "post_title": "تجري الصين محادثات مع الدوري الإسباني لكنها تطلب \"الوقت لاستيعاب\" قضية مبابي",
+    "post_text": "🚨 تجري الصين محادثات مع الدوري الإسباني لكنها تطلب \"الوقت لاستيعاب\" قضية مبابي\n\n📝 وقال السفير الصيني لدى إسبانيا ياو جينغ: «لا توجد مفاوضات، لكن هناك اتصالات مبنية على التفاهم المتبادل».\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1099928289339148",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تجري_الصين_محادثات_مع_الدوري_الإسباني_لكنها_تطلب_الوقت_لاستيعاب_قضية_مبابي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/china-esta-en-conversaciones-con-laliga-pero-pide-tiempo-para-digerir-el-tema-mbappe-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "An7bJVhiVP-it5eyqMtN9_R"
+    }
+  },
+  {
     "title": "Carlos Macià, el ‘niño’ de la Champions",
     "url": "https://as.com/futbol/primera/carlos-macia-el-nino-de-la-champions-f202611-n/",
     "summary": "El centrocampista ilicitano se convirtió ante el PSG en el debutante más joven del Villarreal en la máxima competición.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AiWykfhsGkFEyBOwL6iiiI4"
-    }
-  },
-  {
-    "title": "El 'bailarín' Moreira ilumina Milán ante las lágrimas de su ídolo: \"Espero que Kaká esté contento\"",
-    "url": "https://www.marca.com/futbol/liga-italiana/2026/11/02/bailarin-moreira-ilumina-milan-lagrimas-idolo-espero-kaka-contento.html",
-    "summary": "El belga fue el MVP del Derby della Madonnina con dos asistencias y un gol de falta",
-    "published": "Mon, 02 Nov 2026 11:12:04 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae85b21dfd9d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"الراقص\" موريرا يضيء ميلان قبل دموع مثله الأعلى: \"أتمنى أن يكون كاكا سعيدًا\"",
-    "arabic_summary": "حصل البلجيكي على جائزة أفضل لاعب في ديربي ديلا مادونينا بتمريرتين حاسمتين وهدف من ركلة حرة.",
-    "translation_status": "translated",
-    "post_title": "\"الراقص\" موريرا يضيء ميلان قبل دموع مثله الأعلى: \"أتمنى أن يكون كاكا سعيدًا\"",
-    "post_text": "🚨 \"الراقص\" موريرا يضيء ميلان قبل دموع مثله الأعلى: \"أتمنى أن يكون كاكا سعيدًا\"\n\n📝 حصل البلجيكي على جائزة أفضل لاعب في ديربي ديلا مادونينا بتمريرتين حاسمتين وهدف من ركلة حرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096299969701980",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الراقص_موريرا_يضيء_ميلان_قبل_دموع_مثله_الأعلى_أتمنى_أن_يكون_كاكا_سعيدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/liga-italiana/2026/11/02/bailarin-moreira-ilumina-milan-lagrimas-idolo-espero-kaka-contento.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIfOm0oF9CYeIXpI68H1oC0"
     }
   }
 ]
