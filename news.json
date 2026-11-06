@@ -1,5 +1,39 @@
 [
   {
+    "title": "Romero lamenta el \"circo\" tras el fallecimiento de Jesús de Miguel",
+    "url": "https://www.marca.com/futbol/ceuta/2026/11/06/romero-lamenta-circo-fallecimiento-jesus-miguel.html",
+    "summary": "El entrenador del Ceuta habla de \"alimañas\" y \"maldad\" en la repercusión de la noticia",
+    "published": "Fri, 06 Nov 2026 14:11:35 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/iFM1gk0ZCBqyUA8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "روميرو نادم على \"السيرك\" بعد وفاة خيسوس دي ميغيل",
+    "arabic_summary": "مدرب سبتة يتحدث عن \"الحشرة\" و\"الشر\" في تأثير الأخبار",
+    "translation_status": "translated",
+    "post_title": "روميرو نادم على \"السيرك\" بعد وفاة خيسوس دي ميغيل",
+    "post_text": "🚨 روميرو نادم على \"السيرك\" بعد وفاة خيسوس دي ميغيل\n\n📝 مدرب سبتة يتحدث عن \"الحشرة\" و\"الشر\" في تأثير الأخبار\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1100488942616416",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روميرو_نادم_على_السيرك_بعد_وفاة_خيسوس_دي_ميغيل.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/ceuta/2026/11/06/romero-lamenta-circo-fallecimiento-jesus-miguel.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aj3vWNh0ZyoJ4V0wuNdghvZ"
+    }
+  },
+  {
     "title": "‘The message was clear’ - Vasseur holds Hamilton-Leclerc meeting after clash",
     "url": "https://www.skysports.com/f1/news/12040/13608869/ferrari-boss-frederic-vasseur-confirms-lewis-hamilton-charles-leclerc-meeting-after-mexico-clash-ahead-of-sao-paulo-gp",
     "summary": "Ferrari boss Frederic Vasseur says he reminded Lewis Hamilton and Charles Leclerc that the team comes first after their first-lap clash in Mexico in a meeting ahead of this weekend's Sao Paulo Grand Prix.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AMUjbmrBPUL__0xDLv1fF06"
-    }
-  },
-  {
-    "title": "Reed and McIlroy chase Chacarra - who will win the Race to Dubai?",
-    "url": "https://www.skysports.com/golf/news/12040/13606992/race-to-dubai-can-eugenio-chacarra-hold-off-patrick-reed-and-rory-mcilroy-in-dp-world-tour-play-offs-to-take-no-1-spot",
-    "summary": "Eugenio Chacarra says he&#8217;s playing the \"best golf of his career\" as he looks to hold off Patrick Reed and Rory McIlroy and win the DP World Tour&#8217;s Race to Dubai title.",
-    "published": "Mon, 02 Nov 2026 10:01:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-patrick-reed-eugenio-chacarra_7394715.jpg?20261102110622",
-    "media_type": "image/jpg",
-    "arabic_title": "ريد وماكلروي يطاردان تشاكارا - من سيفوز بالسباق إلى دبي؟",
-    "arabic_summary": "يقول يوجينيو تشاكارا إنه يلعب \"أفضل لعبة غولف في مسيرته\" وهو يتطلع إلى التغلب على باتريك ريد وروري ماكلروي والفوز بلقب السباق إلى دبي في جولة موانئ دبي العالمية.",
-    "translation_status": "translated",
-    "post_title": "ريد وماكلروي يطاردان تشاكارا - من سيفوز بالسباق إلى دبي؟",
-    "post_text": "🚨 ريد وماكلروي يطاردان تشاكارا - من سيفوز بالسباق إلى دبي؟\n\n📝 يقول يوجينيو تشاكارا إنه يلعب \"أفضل لعبة غولف في مسيرته\" وهو يتطلع إلى التغلب على باتريك ريد وروري ماكلروي والفوز بلقب السباق إلى دبي في جولة موانئ دبي العالمية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1097360266262617",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريد_وماكلروي_يطاردان_تشاكارا_-_من_سيفوز_بالسباق_إلى_دبي؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/golf/news/12040/13606992/race-to-dubai-can-eugenio-chacarra-hold-off-patrick-reed-and-rory-mcilroy-in-dp-world-tour-play-offs-to-take-no-1-spot",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1hyHfZcg7RV3WirE7Uw-XJ"
     }
   }
 ]
