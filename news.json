@@ -1,5 +1,39 @@
 [
   {
+    "title": "China reconoce contactos con el Madrid para la reconciliación tras la polémica con Mbappé",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/china-reconoce-contactos-madrid-reconciliacion-polemica-mbappe.html",
+    "summary": "Su embajador en España, Yao Jing, pide tiempo \"para digerir un desafortunado accidente hirió los sentimientos de mucha gente en China\"",
+    "published": "Fri, 06 Nov 2026 10:13:48 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae731a32ca08.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الصين تعترف باتصالات مع مدريد للمصالحة بعد الخلاف مع مبابي",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "الصين تعترف باتصالات مع مدريد للمصالحة بعد الخلاف مع مبابي",
+    "post_text": "🚨 الصين تعترف باتصالات مع مدريد للمصالحة بعد الخلاف مع مبابي\n\n📝 Su embajador en España, Yao Jing, pide tiempo \"para digerir un desafortunado accidente hirió los sentimientos de mucha gente en China\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1100258822639428",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الصين_تعترف_باتصالات_مع_مدريد_للمصالحة_بعد_الخلاف_مع_مبابي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/06/china-reconoce-contactos-madrid-reconciliacion-polemica-mbappe.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkpLyLmVN6dNQdx-hmcqUFx"
+    }
+  },
+  {
     "title": "Gustavo Varela: de jugar contra su padre a 'Pichichi' de la Serie A... ¿y sustituto de Cristiano en Portugal?",
     "url": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html",
     "summary": "Jorge Jesus llama al '9' del Monza, 'Capocannoniere' del 'calcio', tras el adiós de CR7",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7-ugywMpwURLUTd2Ghye5y"
-    }
-  },
-  {
-    "title": "Soriano y Nsongo derriban la resistencia de Herrera",
-    "url": "https://as.com/futbol/primera/soriano-y-nsongo-derriban-la-resistencia-de-herrera-f202611-n/",
-    "summary": "El Depor remontó el gol inicial de Budimir en el segundo tiempo para ganar siete jornadas después. Gran impacto de Adama y Aubameyang en su regreso. Flojo Osasuna, al que aguantó desde el primer minuto su portero.",
-    "published": "Mon, 02 Nov 2026 22:39:18 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "سوريانو ونسونجو يكسران مقاومة هيريرا",
-    "arabic_summary": "وعاد ديبورتيفو من هدف بوديمير الأول في الشوط الثاني ليفوز بسبع مباريات لاحقاً. تأثير كبير من أداما وأوباميانج عند عودتهما. وكان أداء أوساسونا ضعيفا، حيث صمد حارس مرماه منذ الدقيقة الأولى.",
-    "translation_status": "translated",
-    "post_title": "سوريانو ونسونجو يكسران مقاومة هيريرا",
-    "post_text": "🚨 سوريانو ونسونجو يكسران مقاومة هيريرا\n\n📝 وعاد ديبورتيفو من هدف بوديمير الأول في الشوط الثاني ليفوز بسبع مباريات لاحقاً. تأثير كبير من أداما وأوباميانج عند عودتهما. وكان أداء أوساسونا ضعيفا، حيث صمد حارس مرماه منذ الدقيقة الأولى.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1096954532969857",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سوريانو_ونسونجو_يكسران_مقاومة_هيريرا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/soriano-y-nsongo-derriban-la-resistencia-de-herrera-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfNiEaFeS9oB5IiRJcNO9Zh"
     }
   }
 ]
