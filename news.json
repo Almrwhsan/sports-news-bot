@@ -1,5 +1,39 @@
 [
   {
+    "title": "Odegaard derriba el muro",
+    "url": "https://as.com/futbol/internacional/odegaard-derriba-el-muro-f202611-n/",
+    "summary": "Sufrido triunfo del Arsenal gracias a un solitario tanto del capitán noruego. El Hull City resistió hasta el 72′. Merino y Zubimendi salieron en la 2ª parte.",
+    "published": "Sat, 07 Nov 2026 17:04:38 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261107/1235118_182312_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "أوديغارد يمزق الجدار",
+    "arabic_summary": "وحقق أرسنال الفوز بفضل هدف وحيد سجله القائد النرويجي. وقاوم هال سيتي حتى الدقيقة 72. خرج ميرينو وزوبيمندي في الشوط الثاني.",
+    "translation_status": "translated",
+    "post_title": "أوديغارد يمزق الجدار",
+    "post_text": "🚨 أوديغارد يمزق الجدار\n\n📝 وحقق أرسنال الفوز بفضل هدف وحيد سجله القائد النرويجي. وقاوم هال سيتي حتى الدقيقة 72. خرج ميرينو وزوبيمندي في الشوط الثاني.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101375115861132",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوديغارد_يمزق_الجدار.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtUx82pca5d9GhfzXEdM8HU"
+    }
+  },
+  {
     "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
     "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJPX3BSYL9ctLto_DiAIeU-"
-    }
-  },
-  {
-    "title": "Resumen y goles del Barcelona vs Aston Villa, jornada 4 de la Champions League 26-27",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-barcelona-vs-aston-villa-jornada-4-de-la-champions-league-26-27-f202611-v/",
-    "summary": "El Barça vence, convence y le arrebata el invicto en Champions al Aston Villa de Unai Emery con un doblete de Raphinha y un tanto de Lamine Yamal.",
-    "published": "Tue, 03 Nov 2026 22:09:16 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261103/1233439_220242_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "ملخص وأهداف مباراة برشلونة وأستون فيلا الجولة 4 من دوري أبطال أوروبا 26-27",
-    "arabic_summary": "برشلونة يفوز ويقنع ويخطف لقب دوري أبطال أوروبا الخالي من الهزائم من أستون فيلا بقيادة أوناي إيمري بثنائية رافينيا وهدف لامين يامال.",
-    "translation_status": "translated",
-    "post_title": "ملخص وأهداف مباراة برشلونة وأستون فيلا الجولة 4 من دوري أبطال أوروبا 26-27",
-    "post_text": "🚨 ملخص وأهداف مباراة برشلونة وأستون فيلا الجولة 4 من دوري أبطال أوروبا 26-27\n\n📝 برشلونة يفوز ويقنع ويخطف لقب دوري أبطال أوروبا الخالي من الهزائم من أستون فيلا بقيادة أوناي إيمري بثنائية رافينيا وهدف لامين يامال.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098242752841035",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملخص_وأهداف_مباراة_برشلونة_وأستون_فيلا_الجولة_4_من_دوري_أبطال_أوروبا_26-27.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGXzp5QEWUMMsW3yiIWpugQ"
     }
   }
 ]
