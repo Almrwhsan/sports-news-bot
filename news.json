@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sato no se sube al autobús",
+    "url": "https://as.com/futbol/primera/sato-no-se-sube-al-autobus-f202611-n/",
+    "summary": "El japonés se ha quedado fuera de la lista para recibir al Real Madrid. Copete vuelve a una convocatoria después de ocho meses.",
+    "published": "Sat, 07 Nov 2026 11:43:48 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UEPIAV2GM3BXP2ZFQ443WJFQLE.jpg?auth=9b6bceb133bcf6eca4c6147813d43cbee01562ea0d19271cf217b006dcd3a2cf",
+    "media_type": "image/jpeg",
+    "arabic_title": "ساتو لا يصعد إلى الحافلة",
+    "arabic_summary": "تم استبعاد الياباني من القائمة لاستقبال ريال مدريد. يعود Copete إلى المكالمة بعد ثمانية أشهر.",
+    "translation_status": "translated",
+    "post_title": "ساتو لا يصعد إلى الحافلة",
+    "post_text": "🚨 ساتو لا يصعد إلى الحافلة\n\n📝 تم استبعاد الياباني من القائمة لاستقبال ريال مدريد. يعود Copete إلى المكالمة بعد ثمانية أشهر.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101462862519024",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساتو_لا_يصعد_إلى_الحافلة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/sato-no-se-sube-al-autobus-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOiN4L0BEFHlqTWf1qLyjek"
+    }
+  },
+  {
     "title": "Kane bags two assists in Bayern’s win over Mainz",
     "url": "https://www.skysports.com/watch/video/13609514/mainz-vs-bayern-munich-bundesliga-highlights",
     "summary": "Highlights of the Bundesliga match between Mainz and Bayern Munich.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzKkAxKNX9VtOCRXe5VAKft"
-    }
-  },
-  {
-    "title": "Chelli signs with Zuffa Boxing: 'I'm ready to fight anyone, anywhere'",
-    "url": "https://www.skysports.com/boxing/news/12040/13607917/zak-chelli-to-fight-on-sky-sports-from-classroom-to-the-ring-the-supply-teacher-ready-for-zuffa-boxing-bow",
-    "summary": "Zak Chelli has signed with Zuffa Boxing and will fight on Sky Sports .",
-    "published": "Wed, 04 Nov 2026 15:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-zak-chelli-zuffa-boxing_7396833.jpg?20261104123909",
-    "media_type": "image/jpg",
-    "arabic_title": "تشيلي يوقع مع زوفا للملاكمة: أنا مستعد لقتال أي شخص في أي مكان",
-    "arabic_summary": "وقع زاك تشيلي مع Zuffa Boxing وسيقاتل على قناة Sky Sports.",
-    "translation_status": "translated",
-    "post_title": "تشيلي يوقع مع زوفا للملاكمة: أنا مستعد لقتال أي شخص في أي مكان",
-    "post_text": "🚨 تشيلي يوقع مع زوفا للملاكمة: أنا مستعد لقتال أي شخص في أي مكان\n\n📝 وقع زاك تشيلي مع Zuffa Boxing وسيقاتل على قناة Sky Sports.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098404679491509",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشيلي_يوقع_مع_زوفا_للملاكمة_أنا_مستعد_لقتال_أي_شخص_في_أي_مكان.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13607917/zak-chelli-to-fight-on-sky-sports-from-classroom-to-the-ring-the-supply-teacher-ready-for-zuffa-boxing-bow",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARUqSKJcTJYKVa1Ux4w0xT6"
     }
   }
 ]
