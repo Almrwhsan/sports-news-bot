@@ -1,5 +1,39 @@
 [
   {
+    "title": "“Ojalá tuviésemos muchos Iñakis en el Athletic”",
+    "url": "https://as.com/futbol/ojala-tuviesemos-muchos-inakis-en-el-athletic-f202611-n/",
+    "summary": "Suances, su primer entrenador en Lezama, y sus excompañeros De Eguino, Santamaría y Bengoa hablan sobre la carrera del capitán y si lo ven más de extremo o delantero.",
+    "published": "Fri, 06 Nov 2026 23:04:28 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RET7GLM2PNMUJFKGURG5LK2MNM.jpg?auth=f6576119bdac0199c3b7f908dae64d85dafa9fa0ac8b0f689c729aa987a69bc8",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"أتمنى أن يكون لدينا العديد من الإيناكيين في أتلتيك\"",
+    "arabic_summary": "يتحدث سوانسس، مدربه الأول في ليزاما، وزملاؤه السابقون دي إيجوينو وسانتاماريا وبينجوا عن مسيرة الكابتن وما إذا كانوا يرونه كجناح أم مهاجم.",
+    "translation_status": "translated",
+    "post_title": "\"أتمنى أن يكون لدينا العديد من الإيناكيين في أتلتيك\"",
+    "post_text": "🚨 \"أتمنى أن يكون لدينا العديد من الإيناكيين في أتلتيك\"\n\n📝 يتحدث سوانسس، مدربه الأول في ليزاما، وزملاؤه السابقون دي إيجوينو وسانتاماريا وبينجوا عن مسيرة الكابتن وما إذا كانوا يرونه كجناح أم مهاجم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1100899192575391",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتمنى_أن_يكون_لدينا_العديد_من_الإيناكيين_في_أتلتيك.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/ojala-tuviesemos-muchos-inakis-en-el-athletic-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AWe9eS6qz0AE4tCEcXfdxgm"
+    }
+  },
+  {
     "title": "How much prize money can teams win in FA Cup?",
     "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
     "summary": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ADf-bctqFHr0RoAXcDpE32k"
-    }
-  },
-  {
-    "title": "Birmingham go second as struggling Derby, Preston lose again - Championship highlights",
-    "url": "https://www.skysports.com/football/live-blog/12040/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
-    "summary": "",
-    "published": "Tue, 03 Nov 2026 19:20:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-birmingham-city_7396233.jpg?20261103215836",
-    "media_type": "image/jpg",
-    "arabic_title": "برمنغهام يحتل المركز الثاني مع ديربي المتعثر، ويخسر بريستون مرة أخرى - أبرز أحداث البطولة",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "برمنغهام يحتل المركز الثاني مع ديربي المتعثر، ويخسر بريستون مرة أخرى - أبرز أحداث البطولة",
-    "post_text": "🚨 برمنغهام يحتل المركز الثاني مع ديربي المتعثر، ويخسر بريستون مرة أخرى - أبرز أحداث البطولة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1097503956248248",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/برمنغهام_يحتل_المركز_الثاني_مع_ديربي_المتعثر،_ويخسر_بريستون_مرة_أخرى_-_أبرز_أحدا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AohLfSF5lDcWWF4cDGr2QvR"
     }
   }
 ]
