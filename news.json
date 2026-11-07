@@ -1,5 +1,39 @@
 [
   {
+    "title": "How much prize money can teams win in FA Cup?",
+    "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
+    "published": "Fri, 06 Nov 2026 07:50:11 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png",
+    "media_type": null,
+    "arabic_title": "ما هي قيمة الجوائز المالية التي يمكن للفرق الفوز بها في كأس الاتحاد الإنجليزي؟",
+    "arabic_summary": "ينظر فريق Ask Me Anything الخاص بنا إلى الفرق التي يمكن تعيينها للفوز بكأس الاتحاد الإنجليزي 2026-27.",
+    "translation_status": "translated",
+    "post_title": "ما هي قيمة الجوائز المالية التي يمكن للفرق الفوز بها في كأس الاتحاد الإنجليزي؟",
+    "post_text": "🚨 ما هي قيمة الجوائز المالية التي يمكن للفرق الفوز بها في كأس الاتحاد الإنجليزي؟\n\n📝 ينظر فريق Ask Me Anything الخاص بنا إلى الفرق التي يمكن تعيينها للفوز بكأس الاتحاد الإنجليزي 2026-27.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1100877929244184",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هي_قيمة_الجوائز_المالية_التي_يمكن_للفرق_الفوز_بها_في_كأس_الاتحاد_الإنجليزي؟.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Au_jEHRERg6k_wPjZfUKX5_"
+    }
+  },
+  {
     "title": "How to follow the FA Cup on the BBC this weekend",
     "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
     "summary": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AohLfSF5lDcWWF4cDGr2QvR"
-    }
-  },
-  {
-    "title": "¿Para qué vino Rodri?",
-    "url": "https://as.com/futbol/para-que-vino-rodri-f202611-n/",
-    "summary": "El Balón de Oro llegó al Barcelona para aportar el equilibrio que compensara el vértigo de Flick en partidos grandes, pero su gestión de minutos desconcierta.",
-    "published": "Tue, 03 Nov 2026 11:00:47 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/UNYLSW7ZP5K6LJFFMVYI6FKNBE.jpg?auth=cd46b89d72cdd5c28b9db352a31a554bebedd354500b1d87920c0af2c39d86c9",
-    "media_type": "image/jpeg",
-    "arabic_title": "لماذا جاء رودري؟",
-    "arabic_summary": "جاءت جائزة الكرة الذهبية إلى برشلونة لتوفير التوازن الذي من شأنه أن يعوض دوار فليك في المباريات الكبيرة، لكن إدارته للدقائق مثيرة للقلق.",
-    "translation_status": "translated",
-    "post_title": "لماذا جاء رودري؟",
-    "post_text": "🚨 لماذا جاء رودري؟\n\n📝 جاءت جائزة الكرة الذهبية إلى برشلونة لتوفير التوازن الذي من شأنه أن يعوض دوار فليك في المباريات الكبيرة، لكن إدارته للدقائق مثيرة للقلق.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1097500269581950",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لماذا_جاء_رودري؟.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/para-que-vino-rodri-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJNnAl2quzR5f4ADurP8trQ"
     }
   }
 ]
