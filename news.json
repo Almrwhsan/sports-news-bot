@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kane bags two assists in Bayern’s win over Mainz",
+    "url": "https://www.skysports.com/watch/video/13609514/mainz-vs-bayern-munich-bundesliga-highlights",
+    "summary": "Highlights of the Bundesliga match between Mainz and Bayern Munich.",
+    "published": "Sat, 07 Nov 2026 18:59:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "bundesliga",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-football-bundesliga_7400431.jpg?20261107190103",
+    "media_type": "image/jpg",
+    "arabic_title": "كين يسجل هدفين في فوز بايرن على ماينتس",
+    "arabic_summary": "أبرز أحداث مباراة الدوري الألماني بين ماينز وبايرن ميونخ.",
+    "translation_status": "translated",
+    "post_title": "كين يسجل هدفين في فوز بايرن على ماينتس",
+    "post_text": "🚨 كين يسجل هدفين في فوز بايرن على ماينتس\n\n📝 أبرز أحداث مباراة الدوري الألماني بين ماينز وبايرن ميونخ.\n\n🏷️ الدوري الألماني\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101447642520546",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كين_يسجل_هدفين_في_فوز_بايرن_على_ماينتس.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13609514/mainz-vs-bayern-munich-bundesliga-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5Ua6xgRWgDrygsqyCpz16W"
+    }
+  },
+  {
     "title": "Paso al frente de Company",
     "url": "https://as.com/futbol/primera/paso-al-frente-de-company-f202611-n/",
     "summary": "Batuta del Juvenil A, también de la Sub-17. El centrocampista es uno de los cuatro madridistas que ponen rumbo al Mundial con la Rojita. Participa en un tanto cada 97′. Un pequeño ‘Bernardo Silva’ en Valdebebas.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARUqSKJcTJYKVa1Ux4w0xT6"
-    }
-  },
-  {
-    "title": "Fenerbahce complete remarkable comeback to beat Liverpool LIVE!",
-    "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
-    "summary": "",
-    "published": "Wed, 04 Nov 2026 16:15:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-trey-nyoni_7397270.jpg?20261104192420",
-    "media_type": "image/jpg",
-    "arabic_title": "فنربخشه يكمل عودة رائعة ليهزم ليفربول بث مباشر!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "فنربخشه يكمل عودة رائعة ليهزم ليفربول بث مباشر!",
-    "post_text": "🚨 فنربخشه يكمل عودة رائعة ليهزم ليفربول بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098404779491499",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فنربخشه_يكمل_عودة_رائعة_ليهزم_ليفربول_بث_مباشر!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ASz8K458a_vY4c0rwHXGCEK"
     }
   }
 ]
