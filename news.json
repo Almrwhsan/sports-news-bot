@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kepa vuelve a San Mamés con la selección de Euskadi",
+    "url": "https://www.marca.com/futbol/2026/11/06/kepa-vuelve-san-mames-seleccion-euskadi.html",
+    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
+    "published": "Fri, 06 Nov 2026 20:48:08 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aee2ed83f291.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يعود كيبا إلى سان ماميس مع فريق أوسكادي",
+    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
+    "translation_status": "translated",
+    "post_title": "يعود كيبا إلى سان ماميس مع فريق أوسكادي",
+    "post_text": "🚨 يعود كيبا إلى سان ماميس مع فريق أوسكادي\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101069905891653",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_كيبا_إلى_سان_ماميس_مع_فريق_أوسكادي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/06/kepa-vuelve-san-mames-seleccion-euskadi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-s9vGx2TPgodELCFuGXRkJ"
+    }
+  },
+  {
     "title": "La enfermería se mueve en La Rosaleda: tres altas contra el Racing",
     "url": "https://www.marca.com/futbol/malaga/2026/11/06/enfermeria-mueve-rosaleda-tres-altas-racing.html",
     "summary": "Funes recupera a la mayoría de sus jugadores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlreyqUnyY0d6WKSQ8ZJg6L"
-    }
-  },
-  {
-    "title": "Se suspenden los partidos de la Copa del Rey y de la Reina por la muerte de Jesús de Miguel",
-    "url": "https://www.marca.com/futbol/2026/11/03/suspenden-partidos-copa-rey-reina-muerte-jesus-miguel.html",
-    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
-    "published": "Tue, 03 Nov 2026 11:01:43 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/6ae9b06ae117f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تم تعليق مباريات كأس الملك والملكة بسبب وفاة خيسوس دي ميغيل",
-    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
-    "translation_status": "translated",
-    "post_title": "تم تعليق مباريات كأس الملك والملكة بسبب وفاة خيسوس دي ميغيل",
-    "post_text": "🚨 تم تعليق مباريات كأس الملك والملكة بسبب وفاة خيسوس دي ميغيل\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1097556856242958",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_تعليق_مباريات_كأس_الملك_والملكة_بسبب_وفاة_خيسوس_دي_ميغيل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/11/03/suspenden-partidos-copa-rey-reina-muerte-jesus-miguel.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8TrRlqIpUMHG_NRsXZjjsa"
     }
   }
 ]
