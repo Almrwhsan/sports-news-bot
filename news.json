@@ -1,5 +1,39 @@
 [
   {
+    "title": "Braulio: “No escucharíamos una oferta por Guido”",
+    "url": "https://as.com/futbol/braulio-no-escuchariamos-una-oferta-por-guido-f202611-n/",
+    "summary": "El director deportivo del Valencia habló en los micrófonos de Dazn antes del partido contra el Real Madrid.",
+    "published": "Sat, 07 Nov 2026 19:55:39 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JPAITTRTYBPGNJH7J6ZMXQOA5A.jpg?auth=84f18ea5812e933f27ee7b010abb0a0a4b7a2aac261fbd9653e3ef44805abc73",
+    "media_type": "image/jpeg",
+    "arabic_title": "براوليو: \"لن نستمع إلى عرض جيدو\"",
+    "arabic_summary": "تحدث المدير الرياضي لفالنسيا عبر ميكروفونات دازن قبل المباراة ضد ريال مدريد.",
+    "translation_status": "translated",
+    "post_title": "براوليو: \"لن نستمع إلى عرض جيدو\"",
+    "post_text": "🚨 براوليو: \"لن نستمع إلى عرض جيدو\"\n\n📝 تحدث المدير الرياضي لفالنسيا عبر ميكروفونات دازن قبل المباراة ضد ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101503495848294",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/براوليو_لن_نستمع_إلى_عرض_جيدو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/braulio-no-escuchariamos-una-oferta-por-guido-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJnSBSKIdKrWy-Lhkza2zhI"
+    }
+  },
+  {
     "title": "NFL Game 2026 en Madrid: horario, cómo ver y TV del Falcons vs Bengals del Santiago Bernabéu",
     "url": "https://as.com/masdeporte/nfl/nfl-game-2026-en-madrid-horario-como-ver-y-tv-del-falcons-vs-bengals-del-santiago-bernabeu-f202611-n/",
     "summary": "Joe Burrow contra Bijan Robinson. La NFL refresá al Bernabéu, este domingo, en un encuentro clave para la temporada.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFlVgCYiMhNu9WClNA_hobd"
-    }
-  },
-  {
-    "title": "El speech que explica por qué el Real Madrid es un club único en el mundo",
-    "url": "https://as.com/masdeporte/videos/la-nfl-tambien-se-rinde-al-real-madrid-atentos-al-discurso-del-entrenador-de-los-atlanta-falcons-f202611-v/",
-    "summary": "Kevin Stefanski, entrenador jefe de los Atlanta Falcons, ha explicado lo que representa el Real Madrid a nivel mundial durante su comparecencia en la Ciudad Deportiva de Valdebebas.",
-    "published": "Wed, 04 Nov 2026 15:43:31 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261104/1233779_154244_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "الخطاب الذي يشرح لماذا ريال مدريد نادي فريد من نوعه في العالم",
-    "arabic_summary": "أوضح كيفن ستيفانسكي، المدير الفني لفريق أتلانتا فالكونز، ما يمثله ريال مدريد على مستوى العالم، خلال ظهوره في مدينة الفالديبيباس الرياضية.",
-    "translation_status": "translated",
-    "post_title": "الخطاب الذي يشرح لماذا ريال مدريد نادي فريد من نوعه في العالم",
-    "post_text": "🚨 الخطاب الذي يشرح لماذا ريال مدريد نادي فريد من نوعه في العالم\n\n📝 أوضح كيفن ستيفانسكي، المدير الفني لفريق أتلانتا فالكونز، ما يمثله ريال مدريد على مستوى العالم، خلال ظهوره في مدينة الفالديبيباس الرياضية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098449402820370",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الخطاب_الذي_يشرح_لماذا_ريال_مدريد_نادي_فريد_من_نوعه_في_العالم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APmrFHlVMdKWqhKOksMd4Et"
     }
   }
 ]
