@@ -1,5 +1,39 @@
 [
   {
+    "title": "Scotland vs New Zealand LIVE! Hosts seek first-ever victory over All Blacks",
+    "url": "https://www.skysports.com/rugby-union/live-blog/12040/13608981/scotland-vs-new-zealands-all-blacks-live-nations-championship-updates-latest-scores-team-news-commentary-from-murrayfield",
+    "summary": "Live scores, team news, text commentary, analysis from Murrayfield in Edinburgh as Scotland host New Zealand in the resumption of rugby's inaugural Nations Championship (2.10pm kick-off); Scots seek first-ever victory over All Blacks in 121 years of Tests; Winless run stands at 33 Tests",
+    "published": "Fri, 06 Nov 2026 17:36:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-finn-russell-sione-tuipulotu_7399382.jpg?20261106185325",
+    "media_type": "image/jpg",
+    "arabic_title": "اسكتلندا ضد نيوزيلندا مباشر! يسعى المضيفون إلى تحقيق أول فوز على الإطلاق على فريق All Blacks",
+    "arabic_summary": "النتائج المباشرة وأخبار الفريق والتعليقات النصية والتحليلات من مورايفيلد في إدنبرة حيث تستضيف اسكتلندا نيوزيلندا في استئناف بطولة الأمم الافتتاحية للرجبي (انطلاقة الساعة 2.10 مساءً)؛ يسعى الأسكتلنديون إلى تحقيق أول فوز على الإطلاق على فريق All Blacks خلال 121 عامًا من الاختبارات؛ يصل التشغيل بدون فوز إلى 33 اختبارًا",
+    "translation_status": "translated",
+    "post_title": "اسكتلندا ضد نيوزيلندا مباشر! يسعى المضيفون إلى تحقيق أول فوز على الإطلاق على فريق All Blacks",
+    "post_text": "🚨 اسكتلندا ضد نيوزيلندا مباشر! يسعى المضيفون إلى تحقيق أول فوز على الإطلاق على فريق All Blacks\n\n📝 النتائج المباشرة وأخبار الفريق والتعليقات النصية والتحليلات من مورايفيلد في إدنبرة حيث تستضيف اسكتلندا نيوزيلندا في استئناف بطولة الأمم الافتتاحية للرجبي (انطلاقة الساعة 2.10 مساءً)؛ يسعى الأسكتلنديون إلى تحقيق أول فوز على الإطلاق على فريق All Blacks خلال 121 عامًا من الاختبارات؛ يصل التشغيل بدون فوز إلى 33 اختبارًا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101078192557491",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اسكتلندا_ضد_نيوزيلندا_مباشر!_يسعى_المضيفون_إلى_تحقيق_أول_فوز_على_الإطلاق_على_فري.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-union/live-blog/12040/13608981/scotland-vs-new-zealands-all-blacks-live-nations-championship-updates-latest-scores-team-news-commentary-from-murrayfield",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASWaKD71A5XhA4hi5ovxznF"
+    }
+  },
+  {
     "title": "Kepa vuelve a San Mamés con la selección de Euskadi",
     "url": "https://www.marca.com/futbol/2026/11/06/kepa-vuelve-san-mames-seleccion-euskadi.html",
     "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdSIkGZfuWWs9QVPjWXzvY5"
-    }
-  },
-  {
-    "title": "Muere Jesús de Miguel, delantero del Tenerife, a los 30 años de edad",
-    "url": "https://www.marca.com/futbol/tenerife/2026/11/03/muere-jesus-miguel.html",
-    "summary": "El Tenerife comunica la triste noticia del fallecimiento del jugador de 30 años tras el grave accidente sufrido en un durísimo impacto con el portero Owono (Andorra)",
-    "published": "Tue, 03 Nov 2026 09:36:47 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/gZbsY1gwQHKulShNi.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "وفاة خيسوس دي ميغيل، مهاجم تينيريفي، عن عمر يناهز 30 عامًا",
-    "arabic_summary": "تينيريفي ينقل النبأ الحزين بوفاة اللاعب البالغ من العمر 30 عاما بعد تعرضه لحادث خطير اصطداما قويا بالحارس أوونو (أندورا)",
-    "translation_status": "translated",
-    "post_title": "وفاة خيسوس دي ميغيل، مهاجم تينيريفي، عن عمر يناهز 30 عامًا",
-    "post_text": "🚨 وفاة خيسوس دي ميغيل، مهاجم تينيريفي، عن عمر يناهز 30 عامًا\n\n📝 تينيريفي ينقل النبأ الحزين بوفاة اللاعب البالغ من العمر 30 عاما بعد تعرضه لحادث خطير اصطداما قويا بالحارس أوونو (أندورا)\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1097556759576301",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وفاة_خيسوس_دي_ميغيل،_مهاجم_تينيريفي،_عن_عمر_يناهز_30_عامًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/tenerife/2026/11/03/muere-jesus-miguel.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlreyqUnyY0d6WKSQ8ZJg6L"
     }
   }
 ]
