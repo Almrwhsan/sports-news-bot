@@ -1,5 +1,39 @@
 [
   {
+    "title": "Heavy rain causes chaos before Qualifying is red flagged in Sao Paulo!",
+    "url": "https://www.skysports.com/watch/video/13609498/sao-paulo-gp-heavy-rain-red-flags-qualifying-session",
+    "summary": "Torrential rain brings out the red flag a minute after the Qualifying session begins in Sao Paulo.",
+    "published": "Sat, 07 Nov 2026 18:20:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-formula-one-brazil_7400392.jpg?20261107182903",
+    "media_type": "image/jpg",
+    "arabic_title": "الأمطار الغزيرة تسبب الفوضى قبل رفع العلم الأحمر للتصفيات في ساو باولو!",
+    "arabic_summary": "ترفع الأمطار الغزيرة العلم الأحمر بعد دقيقة واحدة من بدء جلسة التصفيات في ساو باولو.",
+    "translation_status": "translated",
+    "post_title": "الأمطار الغزيرة تسبب الفوضى قبل رفع العلم الأحمر للتصفيات في ساو باولو!",
+    "post_text": "🚨 الأمطار الغزيرة تسبب الفوضى قبل رفع العلم الأحمر للتصفيات في ساو باولو!\n\n📝 ترفع الأمطار الغزيرة العلم الأحمر بعد دقيقة واحدة من بدء جلسة التصفيات في ساو باولو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101423602522950",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأمطار_الغزيرة_تسبب_الفوضى_قبل_رفع_العلم_الأحمر_للتصفيات_في_ساو_باولو!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13609498/sao-paulo-gp-heavy-rain-red-flags-qualifying-session",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAkBsoWiD1qyJ7Oe1EDE0ga"
+    }
+  },
+  {
     "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
     "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
     "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVlbH3zA6CPDbuzJ_JHsuJI"
-    }
-  },
-  {
-    "title": "Atherton: Lancashire did not handle Anderson release badly",
-    "url": "https://www.skysports.com/cricket/news/12040/13607930/james-anderson-michael-atherton-says-lancashire-did-not-handle-bowlers-release-badly-but-should-they-have-extended-his-contract",
-    "summary": "Michael Atherton sees no issue with Lancashire's handling of James Anderson's release from the county - but would have been tempted to hand the veteran seam bowler a new contract.",
-    "published": "Wed, 04 Nov 2026 13:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-james-anderson-lancashire_7396870.jpg?20261104130332",
-    "media_type": "image/jpg",
-    "arabic_title": "أثرتون: لم تتعامل لانكشاير مع إطلاق سراح أندرسون بشكل سيء",
-    "arabic_summary": "لا يرى مايكل أثرتون أي مشكلة في تعامل لانكشاير مع إطلاق سراح جيمس أندرسون من المقاطعة - ولكن كان من الممكن أن يميل إلى منح اللاعب المخضرم عقدًا جديدًا.",
-    "translation_status": "translated",
-    "post_title": "أثرتون: لم تتعامل لانكشاير مع إطلاق سراح أندرسون بشكل سيء",
-    "post_text": "🚨 أثرتون: لم تتعامل لانكشاير مع إطلاق سراح أندرسون بشكل سيء\n\n📝 لا يرى مايكل أثرتون أي مشكلة في تعامل لانكشاير مع إطلاق سراح جيمس أندرسون من المقاطعة - ولكن كان من الممكن أن يميل إلى منح اللاعب المخضرم عقدًا جديدًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098299306168713",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أثرتون_لم_تتعامل_لانكشاير_مع_إطلاق_سراح_أندرسون_بشكل_سيء.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13607930/james-anderson-michael-atherton-says-lancashire-did-not-handle-bowlers-release-badly-but-should-they-have-extended-his-contract",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZCNFvduYUgerUbK-UtDz5u"
     }
   }
 ]
