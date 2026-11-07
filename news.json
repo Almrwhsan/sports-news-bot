@@ -1,5 +1,39 @@
 [
   {
+    "title": "“Los números de la NFL en Madrid no distan mucho de los del Clásico”",
+    "url": "https://as.com/masdeporte/los-numeros-de-la-nfl-en-madrid-no-distan-mucho-de-los-del-clasico-f202611-n/",
+    "summary": "En la víspera del duelo entre Falcons y Bengals en el Bernabéu, todos los actores involucrados en el regreso de la NFL a España se frotan las manos con los números que deja el paso de la liga.",
+    "published": "Sat, 07 Nov 2026 08:40:16 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261107/1234976_085125_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "\"أرقام الدوري الوطني لكرة القدم الأمريكية في مدريد ليست بعيدة عن أرقام الكلاسيكو\"",
+    "arabic_summary": "عشية المواجهة بين الصقور وبنغلس في البرنابيو، كان جميع الممثلين المشاركين في عودة الدوري الوطني لكرة القدم الأمريكية إلى إسبانيا يفركون أيديهم بالأرقام التي خلفها مرور الدوري.",
+    "translation_status": "translated",
+    "post_title": "\"أرقام الدوري الوطني لكرة القدم الأمريكية في مدريد ليست بعيدة عن أرقام الكلاسيكو\"",
+    "post_text": "🚨 \"أرقام الدوري الوطني لكرة القدم الأمريكية في مدريد ليست بعيدة عن أرقام الكلاسيكو\"\n\n📝 عشية المواجهة بين الصقور وبنغلس في البرنابيو، كان جميع الممثلين المشاركين في عودة الدوري الوطني لكرة القدم الأمريكية إلى إسبانيا يفركون أيديهم بالأرقام التي خلفها مرور الدوري.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101378249194152",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أرقام_الدوري_الوطني_لكرة_القدم_الأمريكية_في_مدريد_ليست_بعيدة_عن_أرقام_الكلاسيكو.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfZPgjBUPJ6znxgm5vl4wKG"
+    }
+  },
+  {
     "title": "Odegaard derriba el muro",
     "url": "https://as.com/futbol/internacional/odegaard-derriba-el-muro-f202611-n/",
     "summary": "Sufrido triunfo del Arsenal gracias a un solitario tanto del capitán noruego. El Hull City resistió hasta el 72′. Merino y Zubimendi salieron en la 2ª parte.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEKyN_GWvjJP2B3G-dTt-x2"
-    }
-  },
-  {
-    "title": "Apuestas y pronósticos Dortmund vs Betis",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/02/apuestas-pronosticos-dortmund-vs-betis.html",
-    "summary": "Bet365 te ofrece el pronóstico del partido que enfrenta al Borussia Dortmund y al Real Betis en el Signal Iduna Park, correspondiente a la cuarta jornada de la fase de liga de la Champions",
-    "published": "Mon, 02 Nov 2026 17:12:58 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae77b9a93961.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الرهان والتوقعات دورتموند vs بيتيس",
-    "arabic_summary": "يقدم لكم موقع Bet365 توقعات مباراة بوروسيا دورتموند وريال بيتيس على ملعب سيجنال إيدونا بارك، الموافق لليوم الرابع من مرحلة دوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "الرهان والتوقعات دورتموند vs بيتيس",
-    "post_text": "🚨 الرهان والتوقعات دورتموند vs بيتيس\n\n📝 يقدم لكم موقع Bet365 توقعات مباراة بوروسيا دورتموند وريال بيتيس على ملعب سيجنال إيدونا بارك، الموافق لليوم الرابع من مرحلة دوري أبطال أوروبا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098242662841044",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الرهان_والتوقعات_دورتموند_vs_بيتيس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/02/apuestas-pronosticos-dortmund-vs-betis.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJPX3BSYL9ctLto_DiAIeU-"
     }
   }
 ]
