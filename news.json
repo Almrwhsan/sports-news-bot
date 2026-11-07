@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mou recupera el ADN",
+    "url": "https://as.com/futbol/primera/mou-recupera-el-adn-f202611-n/",
+    "summary": "El Madrid es el máximo goleador del 90′ en adelante de las grandes ligas. El balance: 6-0. El curso pasado: 8-9. Mourinho quería construir su equipo sobre una mentalidad de hierro.",
+    "published": "Sat, 07 Nov 2026 13:19:56 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261104/1233900_195313_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "يستعيد مو الحمض النووي",
+    "arabic_summary": "مدريد هو أفضل هداف منذ 90 دقيقة وما فوق في الدوريات الكبرى. الرصيد: 6-0. العام الماضي: 8-9. أراد مورينيو أن يبني فريقه على عقلية حديدية.",
+    "translation_status": "translated",
+    "post_title": "يستعيد مو الحمض النووي",
+    "post_text": "🚨 يستعيد مو الحمض النووي\n\n📝 مدريد هو أفضل هداف منذ 90 دقيقة وما فوق في الدوريات الكبرى. الرصيد: 6-0. العام الماضي: 8-9. أراد مورينيو أن يبني فريقه على عقلية حديدية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101241569207820",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يستعيد_مو_الحمض_النووي.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AgL8-AV78Ib8koGYWWtzqOq"
+    }
+  },
+  {
     "title": "All Blacks power on to leave Scotland well short of history",
     "url": "https://www.skysports.com/rugby-union/scotland-vs-new-zealand/report/111683",
     "summary": "Scotland remain winless against New Zealand in 121 years of contests as the All Blacks proved too strong to record a 43-21 Nations Championship victory at Murrayfield.&#160;",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A72Bedjrd_AiJg_sICoN-Fg"
-    }
-  },
-  {
-    "title": "Próximo partido del Barcelona en Champions: rival, fecha y horario de la jornada 5",
-    "url": "https://as.com/futbol/champions/proximo-partido-del-barcelona-en-champions-rival-fecha-y-horario-de-la-jornada-5-f202611-n/",
-    "summary": "Los de Flick no volverán a jugar en la máxima competición continental hasta después del parón de selecciones de noviembre",
-    "published": "Tue, 03 Nov 2026 21:47:53 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4FLTXPNWHFEVLMGL6IRJCRUI4M.jpg?auth=fdb4b2fd46dc73e050ce708e8569a1fd716c5577aba0ded76b51d58b5b0bf9c2",
-    "media_type": "image/jpeg",
-    "arabic_title": "مباراة برشلونة القادمة في دوري أبطال أوروبا: المنافس، تاريخ ووقت الجولة الخامسة",
-    "arabic_summary": "لن يلعب رجال فليك مرة أخرى في المسابقة القارية الكبرى إلا بعد عطلة المنتخب الوطني في نوفمبر",
-    "translation_status": "translated",
-    "post_title": "مباراة برشلونة القادمة في دوري أبطال أوروبا: المنافس، تاريخ ووقت الجولة الخامسة",
-    "post_text": "🚨 مباراة برشلونة القادمة في دوري أبطال أوروبا: المنافس، تاريخ ووقت الجولة الخامسة\n\n📝 لن يلعب رجال فليك مرة أخرى في المسابقة القارية الكبرى إلا بعد عطلة المنتخب الوطني في نوفمبر\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098042666194377",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مباراة_برشلونة_القادمة_في_دوري_أبطال_أوروبا_المنافس،_تاريخ_ووقت_الجولة_الخامسة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/proximo-partido-del-barcelona-en-champions-rival-fecha-y-horario-de-la-jornada-5-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AONVde7J4bGNev5gAGDKo4E"
     }
   }
 ]
