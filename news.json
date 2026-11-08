@@ -1,5 +1,39 @@
 [
   {
+    "title": "Aprobados y suspensos del Valencia: Gayà es la imagen de la frustración del equipo",
+    "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-valencia-gaya-es-la-imagen-de-la-frustracion-del-equipo-f202611-n/",
+    "summary": "El Valencia no puede contra un Real Madrid superior. El partido acabó con mucha polémica.",
+    "published": "Sat, 07 Nov 2026 21:59:58 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5RZCPUY62RCPZJYWKC2GZDHEHI.jpeg?auth=0e3c5cef7dce14bf5a835e939e7f5458a9187bc1e63efd33f0d0c7fe718aca79",
+    "media_type": "image/jpeg",
+    "arabic_title": "مرت وفشلت من فالنسيا: جايا هي صورة إحباط الفريق",
+    "arabic_summary": "فالنسيا لا يستطيع التغلب على ريال مدريد المتفوق. وانتهت المباراة بالكثير من الجدل.",
+    "translation_status": "translated",
+    "post_title": "مرت وفشلت من فالنسيا: جايا هي صورة إحباط الفريق",
+    "post_text": "🚨 مرت وفشلت من فالنسيا: جايا هي صورة إحباط الفريق\n\n📝 فالنسيا لا يستطيع التغلب على ريال مدريد المتفوق. وانتهت المباراة بالكثير من الجدل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101897252475585",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مرت_وفشلت_من_فالنسيا_جايا_هي_صورة_إحباط_الفريق.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/aprobados-y-suspensos-del-valencia-gaya-es-la-imagen-de-la-frustracion-del-equipo-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhiwltVIWdLp85Ars83Pj21"
+    }
+  },
+  {
     "title": "El sonido de Mestalla nada más hacer Gayá a Mbappé la dura entrada por la que vio la roja",
     "url": "https://as.com/futbol/videos/el-sonido-de-mestalla-nada-mas-hacer-gaya-a-mbappe-la-dura-entrada-por-la-que-vio-la-roja-f202611-v/",
     "summary": "Esta fue la secuencia de la expulsión del lateral del Valencia con sonido ambiente. Así reaccionaron los asistentes a Mestalla.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A80sFkPFBbiQKwjGRG-Zhty"
-    }
-  },
-  {
-    "title": "Pochettino's squad illustrates his task: Blend prodigious prospects with USMNT's golden generation",
-    "url": "https://www.espn.com/soccer/story/_/id/50379572/mauricio-pochettinos-squad-illustrates-task-blend-prodigious-prospects-usmnt-golden-generation",
-    "summary": "The USMNT's November squad includes returns of the team's biggest stars, but a number of the teenage talents who excelled last time out, too.",
-    "published": "Wed, 4 Nov 2026 11:33:49 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "يوضح فريق بوكيتينو مهمته: مزج الإمكانات المذهلة مع الجيل الذهبي لاتحاد كرة القدم الأمريكية",
-    "arabic_summary": "يضم فريق USMNT لشهر نوفمبر عوائد من أكبر نجوم الفريق، ولكن عددًا من المواهب المراهقة التي تفوقت في المرة الأخيرة أيضًا.",
-    "translation_status": "translated",
-    "post_title": "يوضح فريق بوكيتينو مهمته: مزج الإمكانات المذهلة مع الجيل الذهبي لاتحاد كرة القدم الأمريكية",
-    "post_text": "🚨 يوضح فريق بوكيتينو مهمته: مزج الإمكانات المذهلة مع الجيل الذهبي لاتحاد كرة القدم الأمريكية\n\n📝 يضم فريق USMNT لشهر نوفمبر عوائد من أكبر نجوم الفريق، ولكن عددًا من المواهب المراهقة التي تفوقت في المرة الأخيرة أيضًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098690559462921",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يوضح_فريق_بوكيتينو_مهمته_مزج_الإمكانات_المذهلة_مع_الجيل_الذهبي_لاتحاد_كرة_القدم_.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIc6YUoMsvId3EnVmVDUm_u"
     }
   }
 ]
