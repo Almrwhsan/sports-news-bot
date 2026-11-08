@@ -1,5 +1,39 @@
 [
   {
+    "title": "Baena: \"Julián ha hecho un gran partido\"",
+    "url": "https://www.marca.com/futbol/atletico/2026/11/09/baena-julian-hecho-gran-partido.html",
+    "summary": "\"Le hemos hecho mucho daño al Barcelona, pero no hemos estado acertados de cara a la portería contraria\", ha afirmado",
+    "published": "Mon, 09 Nov 2026 00:07:36 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af100a447c2f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "باينا: \"جوليان قدم مباراة رائعة\"",
+    "arabic_summary": "وأضاف: \"لقد ألحقنا الكثير من الضرر ببرشلونة، لكننا لم ننجح أمام مرمى الخصم\".",
+    "translation_status": "translated",
+    "post_title": "باينا: \"جوليان قدم مباراة رائعة\"",
+    "post_text": "🚨 باينا: \"جوليان قدم مباراة رائعة\"\n\n📝 وأضاف: \"لقد ألحقنا الكثير من الضرر ببرشلونة، لكننا لم ننجح أمام مرمى الخصم\".\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102599022405408",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/باينا_جوليان_قدم_مباراة_رائعة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/11/09/baena-julian-hecho-gran-partido.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ab49t2ujV2tpcuiKYWnYw8C"
+    }
+  },
+  {
     "title": "Man Utd rescue draw in EIGHT-goal thriller against Villa",
     "url": "https://www.skysports.com/watch/video/13609907/manchester-united-4-4-aston-villa-premier-league-highlights",
     "summary": "FREE TO WATCH: Highlights from the Premier League match between Manchester United and Aston Villa.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4c9Mx9yPUNPlHu8P7arm-A"
-    }
-  },
-  {
-    "title": "Aznou y Lucas Bretón, primeras bajas del parón",
-    "url": "https://as.com/futbol/primera/aznou-y-lucas-breton-primeras-bajas-del-paron-f202611-n/",
-    "summary": "El lateral jugará con Marruecos sub-23 ante Etiopía y Bretón acudirá con República Dominicana. Rafita y Adrián Niño, pendientes de la lista de David Gordo.",
-    "published": "Thu, 05 Nov 2026 14:00:52 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ILUEOF33INGQLI224XJMISNFQ4.webp?auth=6fdc86b191cf505a4419db9301bc9a93c27654e3661317278cd369265ef14556",
-    "media_type": "image/webp",
-    "arabic_title": "أزنو ولوكاس بريتون أول ضحايا الاستراحة",
-    "arabic_summary": "سيلعب الجناح مع منتخب المغرب تحت 23 عامًا ضد إثيوبيا وسيذهب بريتون مع جمهورية الدومينيكان. رافيتا وأدريان نينو، معلقان على قائمة ديفيد غوردو.",
-    "translation_status": "translated",
-    "post_title": "أزنو ولوكاس بريتون أول ضحايا الاستراحة",
-    "post_text": "🚨 أزنو ولوكاس بريتون أول ضحايا الاستراحة\n\n📝 سيلعب الجناح مع منتخب المغرب تحت 23 عامًا ضد إثيوبيا وسيذهب بريتون مع جمهورية الدومينيكان. رافيتا وأدريان نينو، معلقان على قائمة ديفيد غوردو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099396476058996",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أزنو_ولوكاس_بريتون_أول_ضحايا_الاستراحة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/aznou-y-lucas-breton-primeras-bajas-del-paron-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuTmo7GJ_nJzLBReiEFbgYd"
     }
   }
 ]
