@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Fabril no se adapta a Fadura y sale derrotado",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/09/fabril-adapta-fadura-sale-derrotado.html",
+    "summary": "Descubrió en su visita al Arenas que es mucho más importante ser efectivo en las áreas que dominante en la parcela central del campo",
+    "published": "Mon, 09 Nov 2026 00:11:50 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af10140987e1.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الفابريل لا يتكيف مع فادورا ويهزم",
+    "arabic_summary": "اكتشف خلال زيارته إلى أريناس أنه من المهم جدًا أن تكون فعالاً في المناطق بدلاً من السيطرة على المؤامرة المركزية للميدان",
+    "translation_status": "translated",
+    "post_title": "الفابريل لا يتكيف مع فادورا ويهزم",
+    "post_text": "🚨 الفابريل لا يتكيف مع فادورا ويهزم\n\n📝 اكتشف خلال زيارته إلى أريناس أنه من المهم جدًا أن تكون فعالاً في المناطق بدلاً من السيطرة على المؤامرة المركزية للميدان\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102603795738264",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفابريل_لا_يتكيف_مع_فادورا_ويهزم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/09/fabril-adapta-fadura-sale-derrotado.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ac17YGvRQMmMysAk5GnTsQ1"
+    }
+  },
+  {
     "title": "Baena: \"Julián ha hecho un gran partido\"",
     "url": "https://www.marca.com/futbol/atletico/2026/11/09/baena-julian-hecho-gran-partido.html",
     "summary": "\"Le hemos hecho mucho daño al Barcelona, pero no hemos estado acertados de cara a la portería contraria\", ha afirmado",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEAnZHMBpLbsD176G_dHrDj"
-    }
-  },
-  {
-    "title": "El mundo del fútbol despide a Jesús de Miguel en Navahermosa",
-    "url": "https://as.com/futbol/fotorrelato/el-mundo-del-futbol-despide-a-jesus-de-miguel-en-navahermosa-f202611-f/",
-    "summary": "El funeral de Jesús de Miguel, jugador del Tenerife, fallecido el pasado martes se ha celebrado en la localidad de Navahermosa (Toledo). Sus compañeros y numerosas personalidades del mundo del fútbol han querido despedirse de él.",
-    "published": "Thu, 05 Nov 2026 13:53:07 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/G7N4ANVDJJEL7I2FH45774A4FU.JPG?auth=398f1ce996735ee24a4877fc39c1a3f953285e49a4bde039f52cc0447d8bc769",
-    "media_type": "image/jpeg",
-    "arabic_title": "عالم كرة القدم يودع خيسوس دي ميغيل في نافاهرموسا",
-    "arabic_summary": "أقيمت مراسم عزاء خيسوس دي ميغيل، لاعب تينيريفي، الذي توفي الثلاثاء الماضي، في بلدة نافاهرموسا (توليدو). أراد زملاؤه والعديد من الشخصيات في عالم كرة القدم توديعه.",
-    "translation_status": "translated",
-    "post_title": "عالم كرة القدم يودع خيسوس دي ميغيل في نافاهرموسا",
-    "post_text": "🚨 عالم كرة القدم يودع خيسوس دي ميغيل في نافاهرموسا\n\n📝 أقيمت مراسم عزاء خيسوس دي ميغيل، لاعب تينيريفي، الذي توفي الثلاثاء الماضي، في بلدة نافاهرموسا (توليدو). أراد زملاؤه والعديد من الشخصيات في عالم كرة القدم توديعه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099396376059006",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عالم_كرة_القدم_يودع_خيسوس_دي_ميغيل_في_نافاهرموسا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/el-mundo-del-futbol-despide-a-jesus-de-miguel-en-navahermosa-f202611-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A4c9Mx9yPUNPlHu8P7arm-A"
     }
   }
 ]
