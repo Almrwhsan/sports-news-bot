@@ -1,5 +1,39 @@
 [
   {
+    "title": "'A beautiful story' as Bellingham brothers called up",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+    "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+    "published": "Fri, 06 Nov 2026 14:16:34 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg",
+    "media_type": null,
+    "arabic_title": "\"قصة جميلة\" كما وصفها الإخوة بيلينجهام",
+    "arabic_summary": "قد يكون الأمر مفاجأة للبعض، لكن استدعاء جوبي بيلينجهام للمنتخب الإنجليزي الأول كان قادمًا منذ فترة طويلة.",
+    "translation_status": "translated",
+    "post_title": "\"قصة جميلة\" كما وصفها الإخوة بيلينجهام",
+    "post_text": "🚨 \"قصة جميلة\" كما وصفها الإخوة بيلينجهام\n\n📝 قد يكون الأمر مفاجأة للبعض، لكن استدعاء جوبي بيلينجهام للمنتخب الإنجليزي الأول كان قادمًا منذ فترة طويلة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1101937062471604",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قصة_جميلة_كما_وصفها_الإخوة_بيلينجهام.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3DgVoAvkBebLEzgNHwL2BY"
+    }
+  },
+  {
     "title": "Bentley floors Mosley Jr and wins classy points victory",
     "url": "https://www.skysports.com/watch/video/13609591/denzel-bentley-floors-shane-mosley-jr-and-wins-classy-points-victory",
     "summary": "Denzel Bentley landed a big right hand to floor Shane Mosley Jr in the second round before boxing to an impressive points victory.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzXQrTj0cpLIVPZVErO0C0S"
-    }
-  },
-  {
-    "title": "El Como hace historia: todos los récords que ha pulverizado",
-    "url": "https://www.marca.com/futbol/champions-league/2026/11/05/historia-todos-records-pulverizado.html",
-    "summary": "El arranque en la Champions League del equipo de Cesc Fàbregas ya es de leyenda",
-    "published": "Thu, 05 Nov 2026 06:06:40 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "champions_league",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aebc115c3d85.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كومو تصنع التاريخ: كل الأرقام القياسية التي حطمتها",
-    "arabic_summary": "بداية فريق سيسك فابريجاس في دوري أبطال أوروبا كانت أسطورية بالفعل",
-    "translation_status": "translated",
-    "post_title": "كومو تصنع التاريخ: كل الأرقام القياسية التي حطمتها",
-    "post_text": "🚨 كومو تصنع التاريخ: كل الأرقام القياسية التي حطمتها\n\n📝 بداية فريق سيسك فابريجاس في دوري أبطال أوروبا كانت أسطورية بالفعل\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098770539454923",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كومو_تصنع_التاريخ_كل_الأرقام_القياسية_التي_حطمتها.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/11/05/historia-todos-records-pulverizado.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2oJOKz3kWBjaSjoBDH-4NR"
     }
   }
 ]
