@@ -1,5 +1,39 @@
 [
   {
+    "title": "Glasner glee and Delap double - win could be lift-off for Forest",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
+    "summary": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.",
+    "published": "Sat, 07 Nov 2026 21:42:59 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02e/live/2eec51e0-daf8-11f1-b9a2-091c4f802785.jpg",
+    "media_type": null,
+    "arabic_title": "فرحة جلاسنر وثنائية ديلاب - يمكن أن يكون الفوز بمثابة انطلاقة لفريق فورست",
+    "arabic_summary": "تبشر احتفالات أوليفر جلاسنر وهدفين ليام ديلاب بالخير لفريق نوتنجهام فورست الذي يتطلع إلى المضي قدمًا بعد فوزه الأول على أرضه في الدوري الإنجليزي الممتاز هذا الموسم.",
+    "translation_status": "translated",
+    "post_title": "فرحة جلاسنر وثنائية ديلاب - يمكن أن يكون الفوز بمثابة انطلاقة لفريق فورست",
+    "post_text": "🚨 فرحة جلاسنر وثنائية ديلاب - يمكن أن يكون الفوز بمثابة انطلاقة لفريق فورست\n\n📝 تبشر احتفالات أوليفر جلاسنر وهدفين ليام ديلاب بالخير لفريق نوتنجهام فورست الذي يتطلع إلى المضي قدمًا بعد فوزه الأول على أرضه في الدوري الإنجليزي الممتاز هذا الموسم.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102523869079590",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرحة_جلاسنر_وثنائية_ديلاب_-_يمكن_أن_يكون_الفوز_بمثابة_انطلاقة_لفريق_فورست.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AeVGSkg84SroYwv-c2vbX90"
+    }
+  },
+  {
     "title": "España va embalada a por la Nations League",
     "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/06/espana-embalada-nations-league.html",
     "summary": "William Hill sitúa a la Selección como la gran favorita para ganar el título",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AaAX9tkKCd59W5Ot3MKtpLm"
-    }
-  },
-  {
-    "title": "García Plaza se acuerda de Owono: \"No hagamos dos víctimas\"",
-    "url": "https://www.marca.com/futbol/sevilla/2026/11/05/garcia-plaza-acuerda-owono-hagamos-dos-victimas.html",
-    "summary": "El técnico, muy afectado tras la muerte de Jesús de Miguel: \"No se tendría que jugar\"",
-    "published": "Thu, 05 Nov 2026 12:38:32 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad2284529ce9.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "غارسيا بلازا يتذكر أوونو: \"دعونا لا نجعل ضحيتين\"",
-    "arabic_summary": "المدرب متأثر للغاية بعد وفاة خيسوس دي ميغيل: \"لا ينبغي أن تلعب\"",
-    "translation_status": "translated",
-    "post_title": "غارسيا بلازا يتذكر أوونو: \"دعونا لا نجعل ضحيتين\"",
-    "post_text": "🚨 غارسيا بلازا يتذكر أوونو: \"دعونا لا نجعل ضحيتين\"\n\n📝 المدرب متأثر للغاية بعد وفاة خيسوس دي ميغيل: \"لا ينبغي أن تلعب\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099316672733643",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غارسيا_بلازا_يتذكر_أوونو_دعونا_لا_نجعل_ضحيتين.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/sevilla/2026/11/05/garcia-plaza-acuerda-owono-hagamos-dos-victimas.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7-Ip-LkEKpGx28nXnCbv1P"
     }
   }
 ]
