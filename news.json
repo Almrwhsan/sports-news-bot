@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Heliodoro despide a De Miguel en un adiós que une a todo el fútbol",
+    "url": "https://www.marca.com/futbol/tenerife/2026/11/07/heliodoro-despide-miguel-adios-une-futbol-lagrimas-dolor.html",
+    "summary": "El Tenerife celebra un solemne homenaje al delantero fallecido en el que estuvieron representados todos los clubes de Primera y Segunda",
+    "published": "Sat, 07 Nov 2026 20:06:40 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/07/gjzOw1gxvTOOJ08PB.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هيليودورو يودع دي ميغيل في وداع يوحد كرة القدم بأكملها",
+    "arabic_summary": "تينيريفي يحتفل بتكريم رسمي للمهاجم المتوفى حيث تم تمثيل جميع الأندية الأولى والثانية",
+    "translation_status": "translated",
+    "post_title": "هيليودورو يودع دي ميغيل في وداع يوحد كرة القدم بأكملها",
+    "post_text": "🚨 هيليودورو يودع دي ميغيل في وداع يوحد كرة القدم بأكملها\n\n📝 تينيريفي يحتفل بتكريم رسمي للمهاجم المتوفى حيث تم تمثيل جميع الأندية الأولى والثانية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102405259091451",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هيليودورو_يودع_دي_ميغيل_في_وداع_يوحد_كرة_القدم_بأكملها.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/tenerife/2026/11/07/heliodoro-despide-miguel-adios-une-futbol-lagrimas-dolor.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AC1Aukp7qnWIJF-EFY271oK"
+    }
+  },
+  {
     "title": "Title race hots up before Chelsea-Man City showdown",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
     "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUe5kaUoRbrHoAUjscdngFB"
-    }
-  },
-  {
-    "title": "Los isquiotibiales de Maguette encienden otra nueva alarma en el Racing",
-    "url": "https://as.com/futbol/primera/los-isquiotibiales-de-maguette-encienden-otta-nueva-alarma-en-el-racing-f202611-n/",
-    "summary": "El centrocampista senegalés se retiró de la sesión del miércoles llevándose la mano a la parte posterior del muslo derecho y no entrena este jueves, a 48 horas de visitar La Rosaleda.",
-    "published": "Thu, 05 Nov 2026 10:36:21 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/V3GEP2E7TNG2NHDZTC4LGDO3RI.png?auth=6dc40e2c98b5d434d1dcf8e35bfc9dbc8310f7f09752441ae639850cba5afcec",
-    "media_type": "image/png",
-    "arabic_title": "أطلقت أوتار الركبة التي يعاني منها ماجويت إنذارًا جديدًا آخر في راسينغ",
-    "arabic_summary": "انسحب لاعب خط الوسط السنغالي من جلسة الأربعاء ويده على الجزء الخلفي من فخذه الأيمن ولن يتدرب هذا الخميس، قبل 48 ساعة من زيارة لاروساليدا.",
-    "translation_status": "translated",
-    "post_title": "أطلقت أوتار الركبة التي يعاني منها ماجويت إنذارًا جديدًا آخر في راسينغ",
-    "post_text": "🚨 أطلقت أوتار الركبة التي يعاني منها ماجويت إنذارًا جديدًا آخر في راسينغ\n\n📝 انسحب لاعب خط الوسط السنغالي من جلسة الأربعاء ويده على الجزء الخلفي من فخذه الأيمن ولن يتدرب هذا الخميس، قبل 48 ساعة من زيارة لاروساليدا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099258312739479",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أطلقت_أوتار_الركبة_التي_يعاني_منها_ماجويت_إنذارًا_جديدًا_آخر_في_راسينغ.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/los-isquiotibiales-de-maguette-encienden-otta-nueva-alarma-en-el-racing-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AikSA_gXDKpwMNXfJPVvFww"
     }
   }
 ]
