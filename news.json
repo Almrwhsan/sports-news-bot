@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hogh's opener for Celtic vs Kilmarnock ruled out LIVE!",
+    "url": "https://www.skysports.com/football/celtic-vs-kilmarnock/live/558406",
+    "summary": "",
+    "published": "Sun, 08 Nov 2026 14:30:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-jota-celtic_7400988.jpg?20261108150220",
+    "media_type": "image/jpg",
+    "arabic_title": "تم استبعاد المباراة الافتتاحية لهوغ لسلتيك ضد كيلمارنوك في بث مباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "تم استبعاد المباراة الافتتاحية لهوغ لسلتيك ضد كيلمارنوك في بث مباشر!",
+    "post_text": "🚨 تم استبعاد المباراة الافتتاحية لهوغ لسلتيك ضد كيلمارنوك في بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102311679100809",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_استبعاد_المباراة_الافتتاحية_لهوغ_لسلتيك_ضد_كيلمارنوك_في_بث_مباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/celtic-vs-kilmarnock/live/558406",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Alww6A5pQJceCpoCMd7Bvxe"
+    }
+  },
+  {
     "title": "McIlroy rues missed chances but finds 'positive signs' for Dubai finale",
     "url": "https://www.skysports.com/golf/news/12040/13609666/race-to-dubai-rory-mcilroy-takes-positive-signs-into-dp-world-tour-championship-after-missing-out-on-abu-dhabi-win",
     "summary": "Rory McIlroy insists there are &#8216;positive signs&#8217; in his game going into the DP World Tour Championship, despite missing out on Abu Dhabi Aldar Championship victory.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhkGPcm7zi5pxIxXal0oXKZ"
-    }
-  },
-  {
-    "title": "Iraola confiesa que el \"ruido ensordecedor\" del infierno turco afectó a su Liverpool en un gol",
-    "url": "https://www.marca.com/futbol/champions-league/2026/11/05/iraola-confiesa-ruido-ensordecedor-infierno-fenerbahce-afecto-liverpool-gol.html",
-    "summary": "\"Son goles regalados. Son goles embarullados\"",
-    "published": "Thu, 05 Nov 2026 09:45:26 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/geVKo1gx4qP7WIvA5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إيراولا يعترف بأن \"ضجيج الجحيم التركي الذي يصم الآذان\" أثر على هدف ليفربول في مرمى فريقه",
-    "arabic_summary": "\"إنها أهداف ضائعة. إنها أهداف مشوشة\"",
-    "translation_status": "translated",
-    "post_title": "إيراولا يعترف بأن \"ضجيج الجحيم التركي الذي يصم الآذان\" أثر على هدف ليفربول في مرمى فريقه",
-    "post_text": "🚨 إيراولا يعترف بأن \"ضجيج الجحيم التركي الذي يصم الآذان\" أثر على هدف ليفربول في مرمى فريقه\n\n📝 \"إنها أهداف ضائعة. إنها أهداف مشوشة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099186196080024",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيراولا_يعترف_بأن_ضجيج_الجحيم_التركي_الذي_يصم_الآذان_أثر_على_هدف_ليفربول_في_مرمى.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/champions-league/2026/11/05/iraola-confiesa-ruido-ensordecedor-infierno-fenerbahce-afecto-liverpool-gol.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoyXj_Nv_XSy4hu_JCa1fgN"
     }
   }
 ]
