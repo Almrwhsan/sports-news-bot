@@ -1,5 +1,39 @@
 [
   {
+    "title": "Laporta: “El tema de Julián está zanjado”",
+    "url": "https://as.com/futbol/primera/laporta-el-tema-de-julian-esta-zanjado-f202611-n/",
+    "summary": "Los presidentes de Barça y Atleti escenifican la vuelta a la normalidad en las relaciones tras el verano convulso.",
+    "published": "Sun, 08 Nov 2026 19:29:27 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/F2ERHT4EBBI4HEAEJMKE4J7LEM.jpg?auth=2a42183e7e1c59093cfc0a3d32ac865b71d7757dc6ec582388516fadab22e160",
+    "media_type": "image/jpeg",
+    "arabic_title": "لابورتا: \"مسألة جوليان تمت تسويتها\"",
+    "arabic_summary": "رئيسا برشلونة وأتليتي يخططان للعودة إلى العلاقات الطبيعية بعد الصيف المضطرب.",
+    "translation_status": "translated",
+    "post_title": "لابورتا: \"مسألة جوليان تمت تسويتها\"",
+    "post_text": "🚨 لابورتا: \"مسألة جوليان تمت تسويتها\"\n\n📝 رئيسا برشلونة وأتليتي يخططان للعودة إلى العلاقات الطبيعية بعد الصيف المضطرب.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102610985737545",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لابورتا_مسألة_جوليان_تمت_تسويتها.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/laporta-el-tema-de-julian-esta-zanjado-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3wste3FTD-LB2I3-KiwJzX"
+    }
+  },
+  {
     "title": "El Ibiza mostró poca ambición en Pinilla",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/11/09/ibiza-mostro-poca-ambicion-pinilla.html",
     "summary": "Las numerosas rotaciones de Llona pasan factura a un equipo que no disparó entre los tres palos en la primera mitad y que empató en casa del colista",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYiN0ah1d5EblneMgG3hpO3"
-    }
-  },
-  {
-    "title": "Álex Suárez: \"Es muy difícil centrarse en lo deportivo, aunque hay pique, somos como hermanos\"",
-    "url": "https://www.marca.com/futbol/las-palmas/2026/11/05/alex-suarez-dificil-centrarse-deportivo-hay-pique-hermanos.html",
-    "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
-    "published": "Thu, 05 Nov 2026 13:55:00 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aec7c69ea9ae.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أليكس سواريز: \"من الصعب جدًا التركيز على الرياضة، على الرغم من وجود اندفاع، نحن مثل الإخوة\"",
-    "arabic_summary": "يقول مدرب ملقا: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".",
-    "translation_status": "translated",
-    "post_title": "أليكس سواريز: \"من الصعب جدًا التركيز على الرياضة، على الرغم من وجود اندفاع، نحن مثل الإخوة\"",
-    "post_text": "🚨 أليكس سواريز: \"من الصعب جدًا التركيز على الرياضة، على الرغم من وجود اندفاع، نحن مثل الإخوة\"\n\n📝 يقول مدرب ملقا: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099411799390797",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أليكس_سواريز_من_الصعب_جدًا_التركيز_على_الرياضة،_على_الرغم_من_وجود_اندفاع،_نحن_مث.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/las-palmas/2026/11/05/alex-suarez-dificil-centrarse-deportivo-hay-pique-hermanos.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArvkgaRa8SRlyPzD5-NPvll"
     }
   }
 ]
