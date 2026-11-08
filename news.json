@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Torremolinos sorprende al filial y da el liderato en solitario al Zaragoza",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/09/torremolinos-sorprende-filial-da-liderato-solitario-zaragoza.html",
+    "summary": "El Villarreal B no pasa del empate en un espeso partido de los muchachos de David Albelda",
+    "published": "Mon, 09 Nov 2026 00:29:36 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1056278078.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "توريمولينوس يفاجئ الفريق الرديف ويمنح سرقسطة الصدارة منفردا",
+    "arabic_summary": "فياريال ب لا يتجاوز التعادل في مباراة سميكة بين أولاد ديفيد البيلدا",
+    "translation_status": "translated",
+    "post_title": "توريمولينوس يفاجئ الفريق الرديف ويمنح سرقسطة الصدارة منفردا",
+    "post_text": "🚨 توريمولينوس يفاجئ الفريق الرديف ويمنح سرقسطة الصدارة منفردا\n\n📝 فياريال ب لا يتجاوز التعادل في مباراة سميكة بين أولاد ديفيد البيلدا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102616155737028",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توريمولينوس_يفاجئ_الفريق_الرديف_ويمنح_سرقسطة_الصدارة_منفردا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/09/torremolinos-sorprende-filial-da-liderato-solitario-zaragoza.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AuTJM1z-6rNbfxT59ImijdD"
+    }
+  },
+  {
     "title": "El Aguilas acumula ocho jornadas sin ganar",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/11/09/aguilas-acumula-ocho-jornadas-ganar.html",
     "summary": "Los blanquiazules se adelantaron con un gol de Javi Castedo y completaron una buena segunda parte, pero vuelven a quedarse sin los tres puntos",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdXuA_UMUZEP7ZCdFmiNurJ"
-    }
-  },
-  {
-    "title": "Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...",
-    "url": "https://as.com/futbol/mercado-de-fichajes-en-directo-rumores-altas-y-bajas-de-laliga-premier-serie-a-f202611-d-5/",
-    "summary": "Sigue en directo las últimas noticias sobre el mercado de fichajes del 5 de noviembre de 2026: bajas, altas...",
-    "published": "Thu, 05 Nov 2026 12:12:36 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260423/1163056_104824_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "سوق الانتقالات، مباشر: شائعات، صعود وهبوط من LaLiga، Premier، Serie A ...",
-    "arabic_summary": "تابع آخر أخبار سوق الانتقالات مباشرة في 5 نوفمبر 2026: المغادرون والقادمون...",
-    "translation_status": "translated",
-    "post_title": "سوق الانتقالات، مباشر: شائعات، صعود وهبوط من LaLiga، Premier، Serie A ...",
-    "post_text": "🚨 سوق الانتقالات، مباشر: شائعات، صعود وهبوط من LaLiga، Premier، Serie A ...\n\n📝 تابع آخر أخبار سوق الانتقالات مباشرة في 5 نوفمبر 2026: المغادرون والقادمون...\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099417936056850",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سوق_الانتقالات،_مباشر_شائعات،_صعود_وهبوط_من_LaLiga،_Premier،_Serie_A_....png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANifThW8v1rSH5oA7o3sv0e"
     }
   }
 ]
