@@ -1,5 +1,39 @@
 [
   {
+    "title": "Larrubia: \"Estamos con Funes hasta el final\"",
+    "url": "https://www.marca.com/futbol/malaga/2026/11/07/larrubia-funes-final.html",
+    "summary": "El '10' del Málaga defiende al entrenador",
+    "published": "Sat, 07 Nov 2026 18:07:52 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/26/6adf2b15f0c36.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لاروبيا: \"نحن مع فونيس حتى النهاية\"",
+    "arabic_summary": "لاعب ملقة رقم 10 يدافع عن المدرب",
+    "translation_status": "translated",
+    "post_title": "لاروبيا: \"نحن مع فونيس حتى النهاية\"",
+    "post_text": "🚨 لاروبيا: \"نحن مع فونيس حتى النهاية\"\n\n📝 لاعب ملقة رقم 10 يدافع عن المدرب\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102125959119381",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لاروبيا_نحن_مع_فونيس_حتى_النهاية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/11/07/larrubia-funes-final.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHHfLdupLZx_rpMiYl5l4no"
+    }
+  },
+  {
     "title": "English hopes fade as Pelaez hits hole-in-one en route to title in China",
     "url": "https://www.skysports.com/golf/news/12040/13609617/aramco-china-championship-mimi-rhodes-and-fellow-english-players-miss-out-on-title-as-spains-ana-pelaez-storms-to-victory",
     "summary": "England's Mimi Rhodes, Charlotte Heath and Annabell Fuller saw their hopes fade on the last day of the Aramco China Championship as Spain's Ana Pelaez stormed to her second Ladies European Tour title with a nine-under round that included a hole-in-one.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0B8pN6GkwOdT5nCMM7Qprd"
-    }
-  },
-  {
-    "title": "Flick reparte caramelitos",
-    "url": "https://as.com/futbol/primera/flick-reparte-caramelitos-f202611-n/",
-    "summary": "El entrenador alemán no quiere a nadie desconectado y está ofreciendo minutos para que todos estén enchufados.",
-    "published": "Thu, 05 Nov 2026 09:47:34 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/K5VG62YALBJ23ATV7GZSGP2ODQ.jpg?auth=ad338f9bfbcb217f9dfbd89fdbcfde94f3c3185bd7eace552c56cd3d15f9734a",
-    "media_type": "image/jpeg",
-    "arabic_title": "فليك يوزع الحلوى",
-    "arabic_summary": "لا يريد المدرب الألماني قطع اتصال أي شخص ويقدم دقائق حتى يتم توصيل الجميع.",
-    "translation_status": "translated",
-    "post_title": "فليك يوزع الحلوى",
-    "post_text": "🚨 فليك يوزع الحلوى\n\n📝 لا يريد المدرب الألماني قطع اتصال أي شخص ويقدم دقائق حتى يتم توصيل الجميع.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098964249435552",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فليك_يوزع_الحلوى.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/flick-reparte-caramelitos-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0Z3P2R1AcOPvd-GbqzZai9"
     }
   }
 ]
