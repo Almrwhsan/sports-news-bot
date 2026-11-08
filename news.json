@@ -1,5 +1,39 @@
 [
   {
+    "title": "Funes, ante un futuro complicado: \"Siempre estoy al servicio del club\"",
+    "url": "https://www.marca.com/futbol/malaga/2026/11/07/funes-futuro-complicado-siempre-servicio-club.html",
+    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
+    "published": "Sat, 07 Nov 2026 16:51:29 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/07/6aef48eb05af5.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فونيس يواجه مستقبلاً معقداً: \"أنا دائماً في خدمة النادي\"",
+    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
+    "translation_status": "translated",
+    "post_title": "فونيس يواجه مستقبلاً معقداً: \"أنا دائماً في خدمة النادي\"",
+    "post_text": "🚨 فونيس يواجه مستقبلاً معقداً: \"أنا دائماً في خدمة النادي\"\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102048709127106",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فونيس_يواجه_مستقبلاً_معقداً_أنا_دائماً_في_خدمة_النادي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/11/07/funes-futuro-complicado-siempre-servicio-club.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AzaDVcVRRfj0x8HaVW1r5uO"
+    }
+  },
+  {
     "title": "Mourinho: “Este equipo huele bien”",
     "url": "https://as.com/futbol/primera/mourinho-este-equipo-me-huele-bien-f202611-n/",
     "summary": "Confesándose con fiebre, pide precaución con sus jugadores en el parón: “Están en fatiga extrema”. Deja caer un dardo al Bernabéu. Y sobre el compromiso defensivo: “Han sido ellos”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxXD8MBBBE6MtLKi-LvgXM0"
-    }
-  },
-  {
-    "title": "El vestuario arropa a Le Normand",
-    "url": "https://as.com/futbol/primera/el-vestuario-arropa-a-le-normand-f202611-n/",
-    "summary": "El central franco-español recibe el cariño de sus compañeros tras el error en el Atlético-Bayern que provocó el primer gol de los alemanes el martes.",
-    "published": "Thu, 05 Nov 2026 07:33:49 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BG3DLUHICNOE7FJYHNE7MCSFLA.jpg?auth=4cccc7f8e8cd7fd9731e023a27ba89ea227850bd7903a308cf5ba210f887b4f9",
-    "media_type": "image/jpeg",
-    "arabic_title": "غرفة تبديل الملابس تغطي لو نورماند",
-    "arabic_summary": "يحظى قلب الدفاع الفرنسي الإسباني بحب زملائه بعد الخطأ الذي ارتكبه في مباراة أتلتيكو بايرن والذي أدى إلى الهدف الأول للألمان يوم الثلاثاء.",
-    "translation_status": "translated",
-    "post_title": "غرفة تبديل الملابس تغطي لو نورماند",
-    "post_text": "🚨 غرفة تبديل الملابس تغطي لو نورماند\n\n📝 يحظى قلب الدفاع الفرنسي الإسباني بحب زملائه بعد الخطأ الذي ارتكبه في مباراة أتلتيكو بايرن والذي أدى إلى الهدف الأول للألمان يوم الثلاثاء.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1098862309445746",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غرفة_تبديل_الملابس_تغطي_لو_نورماند.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-vestuario-arropa-a-le-normand-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAmgUA6ItHLDVVQL9bn0S4Y"
     }
   }
 ]
