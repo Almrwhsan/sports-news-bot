@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Levante estalla contra los horarios de LaLiga: \"Es un agravio que no podemos ni debemos normalizar\"",
+    "url": "https://www.marca.com/futbol/levante/2026/11/09/levante-estalla-horarios-laliga-agravio-debemos-normalizar.html",
+    "summary": "Denuncia con sendos gráficos que será el equipo, sin competición europea, con menos descanso de toda la competición en octubre y noviembre",
+    "published": "Mon, 09 Nov 2026 12:55:36 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1b3c12eedd.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ليفانتي ينفجر ضد جداول الدوري الإسباني: \"إنها شكوى لا يمكننا ولا ينبغي لنا تطبيعها\"",
+    "arabic_summary": "وتندد برسومات منفصلة أن الفريق سيكون، بدون منافسة أوروبية، مع راحة أقل من المنافسة بأكملها في أكتوبر ونوفمبر",
+    "translation_status": "translated",
+    "post_title": "ليفانتي ينفجر ضد جداول الدوري الإسباني: \"إنها شكوى لا يمكننا ولا ينبغي لنا تطبيعها\"",
+    "post_text": "🚨 ليفانتي ينفجر ضد جداول الدوري الإسباني: \"إنها شكوى لا يمكننا ولا ينبغي لنا تطبيعها\"\n\n📝 وتندد برسومات منفصلة أن الفريق سيكون، بدون منافسة أوروبية، مع راحة أقل من المنافسة بأكملها في أكتوبر ونوفمبر\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103446708987306",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليفانتي_ينفجر_ضد_جداول_الدوري_الإسباني_إنها_شكوى_لا_يمكننا_ولا_ينبغي_لنا_تطبيعها.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/levante/2026/11/09/levante-estalla-horarios-laliga-agravio-debemos-normalizar.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AS2t1RyIQnRli2UWwodCwpr"
+    }
+  },
+  {
     "title": "Nueva exhibición de Pedri... sin Rodri",
     "url": "https://www.marca.com/futbol/barcelona/2026/11/09/nueva-exhibicion-pedri-rodri.html",
     "summary": "El canario mostró excelentes aportaciones en el Metropolitano",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyHud4yDbiNiDTLkZJ4-86I"
-    }
-  },
-  {
-    "title": "Koke, al once, y Kang-in Lee ayudará a Julián en ataque",
-    "url": "https://as.com/futbol/primera/koke-al-once-y-kang-in-lee-ayudara-a-julian-en-ataque-f202611-n/",
-    "summary": "El Atlético se entrenó en Majadahonda y el Cholo probó un teórico conjunto inicial ante el Barcelona. Llorente jugará de lateral derecho y Julián Alvarez será el hombre más adelantado de los rojiblancos. Cuti, la única baja.",
-    "published": "Fri, 06 Nov 2026 11:31:55 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IQM23ADE35LNZFBFYZPWZYSR6U.jpg?auth=8f2c119b208326028db75847d3bf3ebe7991870673979ddd9dee3f93ea28e07a",
-    "media_type": "image/jpeg",
-    "arabic_title": "كوكي، في الحادية عشرة، وكانغ إن لي سيساعدان جوليان في الهجوم",
-    "arabic_summary": "تدرب أتلتيكو في ماجاداهوندا وحاول تشولو تشكيل فريق أولي نظري ضد برشلونة. سيلعب يورينتي في مركز الظهير الأيمن وسيكون جوليان ألفاريز هو اللاعب الأكثر تقدمًا في صفوف الروخيبلانكوس. كوتي، الضحية الوحيدة.",
-    "translation_status": "translated",
-    "post_title": "كوكي، في الحادية عشرة، وكانغ إن لي سيساعدان جوليان في الهجوم",
-    "post_text": "🚨 كوكي، في الحادية عشرة، وكانغ إن لي سيساعدان جوليان في الهجوم\n\n📝 تدرب أتلتيكو في ماجاداهوندا وحاول تشولو تشكيل فريق أولي نظري ضد برشلونة. سيلعب يورينتي في مركز الظهير الأيمن وسيكون جوليان ألفاريز هو اللاعب الأكثر تقدمًا في صفوف الروخيبلانكوس. كوتي، الضحية الوحيدة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100013285997315",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوكي،_في_الحادية_عشرة،_وكانغ_إن_لي_سيساعدان_جوليان_في_الهجوم.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/koke-al-once-y-kang-in-lee-ayudara-a-julian-en-ataque-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGrfMnCq1SxU-LSTJ6T15w2"
     }
   }
 ]
