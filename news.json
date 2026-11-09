@@ -1,5 +1,39 @@
 [
   {
+    "title": "El plan JJ Gabriel, al detalle",
+    "url": "https://as.com/futbol/internacional/el-plan-jj-gabriel-al-detalle-f202611-n/",
+    "summary": "La salida hacia Madrid del futuro crack se empezó a gestar hace un año y tuvo importantes obstáculos. Quedan sólo días para que finalice el culebrón.",
+    "published": "Mon, 09 Nov 2026 10:36:00 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260920/1216195_060451_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "خطة جي جي غابرييل بالتفصيل",
+    "arabic_summary": "بدأ رحيل نجم المستقبل إلى مدريد يتشكل منذ عام وكان يواجه عقبات كبيرة. لم يتبق سوى أيام حتى ينتهي المسلسل.",
+    "translation_status": "translated",
+    "post_title": "خطة جي جي غابرييل بالتفصيل",
+    "post_text": "🚨 خطة جي جي غابرييل بالتفصيل\n\n📝 بدأ رحيل نجم المستقبل إلى مدريد يتشكل منذ عام وكان يواجه عقبات كبيرة. لم يتبق سوى أيام حتى ينتهي المسلسل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103062239025753",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خطة_جي_جي_غابرييل_بالتفصيل.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3x0eHPkJYuuYnmRjBaiCZt"
+    }
+  },
+  {
     "title": "Euro Debrief: Kane has become the king of assists",
     "url": "https://www.skysports.com/football/news/12040/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQ1yGk0LKsUyXRsBtfFb8tE"
-    }
-  },
-  {
-    "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
-    "published": "Mon, 02 Nov 2026 00:00:21 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg",
-    "media_type": null,
-    "arabic_title": "رايس هو لاعب خط وسط مستدير، ولكن يمكن أن يكون أكثر أنانية - ميرفي",
-    "arabic_summary": "يناقش كيلي كيتس وميكا ريتشاردز من بي بي سي سبورت كيف أصبح ديكلان رايس مستديرًا في خط وسط أرسنال، بينما يقول داني ميرفي إنه لو كان أكثر أنانية لكان سجل المزيد من الأهداف.",
-    "translation_status": "translated",
-    "post_title": "رايس هو لاعب خط وسط مستدير، ولكن يمكن أن يكون أكثر أنانية - ميرفي",
-    "post_text": "🚨 رايس هو لاعب خط وسط مستدير، ولكن يمكن أن يكون أكثر أنانية - ميرفي\n\n📝 يناقش كيلي كيتس وميكا ريتشاردز من بي بي سي سبورت كيف أصبح ديكلان رايس مستديرًا في خط وسط أرسنال، بينما يقول داني ميرفي إنه لو كان أكثر أنانية لكان سجل المزيد من الأهداف.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099542489377728",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رايس_هو_لاعب_خط_وسط_مستدير،_ولكن_يمكن_أن_يكون_أكثر_أنانية_-_ميرفي.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Am2mwzQQUicMw3KzcSkpIRW"
     }
   }
 ]
