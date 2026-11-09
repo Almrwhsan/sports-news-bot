@@ -1,5 +1,39 @@
 [
   {
+    "title": "O'Neill nervous about Baur injury - gossip",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6kgllzywmllo?at_medium=RSS&at_campaign=rss",
+    "summary": "Injury sweat for Celtic as Hearts boss hopeful over improved form and latest injury setback.",
+    "published": "Mon, 09 Nov 2026 07:30:18 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c1/live/3d073a20-dc0f-11f1-b441-2b33b063138f.png",
+    "media_type": null,
+    "arabic_title": "أونيل متوتر بشأن إصابة بور - ثرثرة",
+    "arabic_summary": "عرق الإصابة لسلتيك حيث يأمل مدرب هارتس في تحسين الشكل والانتكاسة الأخيرة للإصابة.",
+    "translation_status": "translated",
+    "post_title": "أونيل متوتر بشأن إصابة بور - ثرثرة",
+    "post_text": "🚨 أونيل متوتر بشأن إصابة بور - ثرثرة\n\n📝 عرق الإصابة لسلتيك حيث يأمل مدرب هارتس في تحسين الشكل والانتكاسة الأخيرة للإصابة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1102932245705419",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أونيل_متوتر_بشأن_إصابة_بور_-_ثرثرة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c6kgllzywmllo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AiKRyTUnHAsQnLXCSzOQx_o"
+    }
+  },
+  {
     "title": "El gesto de Lamine con Julián al terminar el partido: se cruzó todo el campo para esto",
     "url": "https://as.com/futbol/videos/el-gesto-de-lamine-con-julian-al-terminar-el-partido-se-cruzo-todo-el-campo-para-esto-f202611-v/",
     "summary": "El futbolista del FC Barcelona quiso reconocer el buen partido de Julián Alvarez al finalizar el partido.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6CupFdGiWlg40P0BiTiiUb"
-    }
-  },
-  {
-    "title": "Benzema arropa a Vinicius en sus horas bajas: “Nº1 siempre”",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/05/benzema-arropa-vinicius-horas-bajas-n-1-siempre.html",
-    "summary": "El delantero francés, que durante años ejerció de guía y socio del brasileño en el Madrid, le dedica un gesto de apoyo en su momento más delicado",
-    "published": "Thu, 05 Nov 2026 15:39:33 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aec9506bf1ed.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بنزيما يدعم فينيسيوس في أوقاته السيئة: \"الرقم 1 دائمًا\"",
-    "arabic_summary": "المهاجم الفرنسي، الذي عمل لسنوات كمرشد وشريك للبرازيلي في مدريد، خصص له بادرة دعم في أكثر لحظاته حساسية",
-    "translation_status": "translated",
-    "post_title": "بنزيما يدعم فينيسيوس في أوقاته السيئة: \"الرقم 1 دائمًا\"",
-    "post_text": "🚨 بنزيما يدعم فينيسيوس في أوقاته السيئة: \"الرقم 1 دائمًا\"\n\n📝 المهاجم الفرنسي، الذي عمل لسنوات كمرشد وشريك للبرازيلي في مدريد، خصص له بادرة دعم في أكثر لحظاته حساسية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099492159382761",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بنزيما_يدعم_فينيسيوس_في_أوقاته_السيئة_الرقم_1_دائمًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/05/benzema-arropa-vinicius-horas-bajas-n-1-siempre.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZdW_JZsw-KuTMjE93RAV0D"
     }
   }
 ]
