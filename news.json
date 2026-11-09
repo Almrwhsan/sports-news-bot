@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sivera se doctora bajo los once metros",
+    "url": "https://www.marca.com/futbol/alaves/2026/11/09/sivera-doctora-once-metros.html",
+    "summary": "El cancerbero acumula dos penas máximas detenidas tras estar más de cuatro años sin parar ninguna.",
+    "published": "Mon, 09 Nov 2026 14:43:39 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/19/6aaece54b9fbc.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيفيرا يحصل على درجة الدكتوراه تحت أحد عشر مترا",
+    "arabic_summary": "لقد تراكم على حارس المرمى عقوبتين كحد أقصى بعد أن أمضى أكثر من أربع سنوات دون إيقاف أي منها.",
+    "translation_status": "translated",
+    "post_title": "سيفيرا يحصل على درجة الدكتوراه تحت أحد عشر مترا",
+    "post_text": "🚨 سيفيرا يحصل على درجة الدكتوراه تحت أحد عشر مترا\n\n📝 لقد تراكم على حارس المرمى عقوبتين كحد أقصى بعد أن أمضى أكثر من أربع سنوات دون إيقاف أي منها.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103571675641476",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيفيرا_يحصل_على_درجة_الدكتوراه_تحت_أحد_عشر_مترا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/alaves/2026/11/09/sivera-doctora-once-metros.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjjrB8D9idyBXiR3Y6pTuR4"
+    }
+  },
+  {
     "title": "\"No ha habido efecto Aguirre, se me agotan las palabras para justificar lo injustificable\"",
     "url": "https://www.marca.com/futbol/valencia/2026/11/09/habido-efecto-aguirre-me-agotan-palabras-justificar-injustificable.html",
     "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7LKYZTpJa3VyBhMZFVIxpS"
-    }
-  },
-  {
-    "title": "La hermana de Cristiano genera incertidumbre sobre la causa real de la retirada de CR7 de Portugal",
-    "url": "https://www.marca.com/futbol/album/2026/11/06/hermana-cristiano-genera-incertidumbre-sobre-causa-real-retirada-cr7-portugal.html",
-    "summary": "Katia Aveiro, la mediática hermana de Cristiano Ronaldo , genera incertidumbre sobre la retirada de la selección de Portugal de CR7 al insinuar que \"mañana todo quedará más claro\". \"Hoy el mundo se despide de ti en la selección nacional de Portugal. Por mi parte, como tu hermana, miro atrás y siento un orgullo que no me cabe en el pecho. Conozco las batallas que libraste, todo lo que diste por nuestro país y lo que construiste a lo largo de tu carrera. Cambiaste el rumbo de tu destino y llevaste a Portugal contigo. Sí, es un día triste, pero las etapas terminan para que otras puedan comenzar. El tiempo es soberano y, si queda algo que aún necesite respuesta, tal vez mañana se vea con más claridad. Tu honor y el camino que recorriste son más grandes que cualquier despedida. Recuérdame siempre que, antes de ser el Cristiano Ronaldo que el mundo admira, fuiste y serás mi hermano, mi niño. Te quiero. Siento un orgullo infinito por ti\".\", publicó Katia en su stories de Instagram.",
-    "published": "Fri, 06 Nov 2026 07:05:14 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed6d38551b8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "شقيقة كريستيانو تثير حالة من عدم اليقين بشأن السبب الحقيقي لانسحاب CR7 من البرتغال",
-    "arabic_summary": "أثارت كاتيا أفيرو، الشقيقة الإعلامية لكريستيانو رونالدو، حالة من عدم اليقين بشأن انسحاب CR7 من منتخب البرتغال من خلال الإشارة إلى أن \"كل شيء سيكون أكثر وضوحًا غدًا\". \"اليوم العالم يودعك في المنتخب البرتغالي. من جهتي، كأختك، أنظر إلى الوراء وأشعر بفخر لا يتسع لصدري. أعرف المعارك التي خاضتها، وكل ما قدمته لبلدنا وما بنيته طوال مسيرتك. لقد غيرت مسار مصيرك وأخذت البرتغال معك. نعم، إنه يوم حزين، لكن المراحل تنتهي حتى يبدأ الآخرون. الوقت سيد، وإذا كان هناك شيء لا يزال بحاجة إلى إجابة، فربما سيظهر غدًا بشكل أكثر وضوحًا. شرفك وشرفك\". الطريق الذي سلكته أعظم من أي وداع، ذكرني دائمًا أنه قبل أن تصبح كريستيانو رونالدو الذي يعجب به العالم، كنت وستظل أخي وطفلي.",
-    "translation_status": "translated",
-    "post_title": "شقيقة كريستيانو تثير حالة من عدم اليقين بشأن السبب الحقيقي لانسحاب CR7 من البرتغال",
-    "post_text": "🚨 شقيقة كريستيانو تثير حالة من عدم اليقين بشأن السبب الحقيقي لانسحاب CR7 من البرتغال\n\n📝 أثارت كاتيا أفيرو، الشقيقة الإعلامية لكريستيانو رونالدو، حالة من عدم اليقين بشأن انسحاب CR7 من منتخب البرتغال من خلال الإشارة إلى أن \"كل شيء سيكون أكثر وضوحًا غدًا\". \"اليوم العالم يودعك في المنتخب البرتغالي. من جهتي، كأختك، أنظر إلى الوراء وأشعر بفخر لا يتسع لصدري. أعرف المعارك التي خاضتها، وكل ما قدمته لبلدنا وما بنيته طوال مسيرتك. لقد غيرت مسار مصيرك وأخذت البرتغال معك. نعم، إنه يوم حزين، لكن المراحل تنتهي حتى يبدأ الآخرون. الوقت سيد، وإذا كان هناك شيء لا يزال بحاجة إلى إجابة، فربما سيظهر غ...\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100141759317801",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شقيقة_كريستيانو_تثير_حالة_من_عدم_اليقين_بشأن_السبب_الحقيقي_لانسحاب_CR7_من_البرتغ.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/album/2026/11/06/hermana-cristiano-genera-incertidumbre-sobre-causa-real-retirada-cr7-portugal.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Am7ayI2Y4l28x4oD5cu3Kog"
     }
   }
 ]
