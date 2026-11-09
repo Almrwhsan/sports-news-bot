@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bretos da cariño a Remiro mientras negocian",
+    "url": "https://www.marca.com/futbol/real-sociedad/2026/11/09/bretos-da-carino-remiro-negocian.html",
+    "summary": "El director de fútbol abrazó al portero con una efusividad especial tras el triunfo ante el Rayo, mientras ambos conversan sobre la renovación o no del contrato del portero",
+    "published": "Mon, 09 Nov 2026 14:16:12 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1c6373f5d0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يعطي بريتوس المودة لريميرو أثناء التفاوض",
+    "arabic_summary": "واحتضن مدير الكرة حارس المرمى بحنان خاص بعد الفوز على رايو، فيما تحدث كلاهما عن تجديد عقد الحارس أم لا.",
+    "translation_status": "translated",
+    "post_title": "يعطي بريتوس المودة لريميرو أثناء التفاوض",
+    "post_text": "🚨 يعطي بريتوس المودة لريميرو أثناء التفاوض\n\n📝 واحتضن مدير الكرة حارس المرمى بحنان خاص بعد الفوز على رايو، فيما تحدث كلاهما عن تجديد عقد الحارس أم لا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103552302310080",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعطي_بريتوس_المودة_لريميرو_أثناء_التفاوض.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/11/09/bretos-da-carino-remiro-negocian.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AGKDL3p2R1kh-k3o_qUUyzT"
+    }
+  },
+  {
     "title": "El Málaga apuesta por Funes y un análisis profundo",
     "url": "https://www.marca.com/futbol/malaga/2026/11/09/malaga-apuesta-funes-analisis-profundo.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIXRrUptlboG2cMu3Mp2y1P"
-    }
-  },
-  {
-    "title": "Calabazas de Deschamps, que rechaza \"el cáliz envenenado\" que es el Manchester United",
-    "url": "https://www.marca.com/futbol/premier-league/2026/11/06/calabazas-deschamps-rechaza-caliz-envenenado-manchester-united.html",
-    "summary": "Contundente respuesta de Didier Deschamps ante la posibilidad de sustituir a Michael Carrick en el Manchester United",
-    "published": "Fri, 06 Nov 2026 08:15:53 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed7d8c4bff8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "قرع ديشامب، الذي يرفض \"الكأس المسمومة\" التي هي مانشستر يونايتد",
-    "arabic_summary": "رد قوي من ديدييه ديشامب على إمكانية تعويض مايكل كاريك في مانشستر يونايتد",
-    "translation_status": "translated",
-    "post_title": "قرع ديشامب، الذي يرفض \"الكأس المسمومة\" التي هي مانشستر يونايتد",
-    "post_text": "🚨 قرع ديشامب، الذي يرفض \"الكأس المسمومة\" التي هي مانشستر يونايتد\n\n📝 رد قوي من ديدييه ديشامب على إمكانية تعويض مايكل كاريك في مانشستر يونايتد\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100142169317760",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قرع_ديشامب،_الذي_يرفض_الكأس_المسمومة_التي_هي_مانشستر_يونايتد.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/06/calabazas-deschamps-rechaza-caliz-envenenado-manchester-united.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjDDrXdQENH71X8vrHeZeQO"
     }
   }
 ]
