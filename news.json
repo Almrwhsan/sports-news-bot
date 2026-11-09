@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Málaga apuesta por Funes y un análisis profundo",
+    "url": "https://www.marca.com/futbol/malaga/2026/11/09/malaga-apuesta-funes-analisis-profundo.html",
+    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
+    "published": "Mon, 09 Nov 2026 14:07:18 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/08/6af07f4977705.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ملقة يراهن على فونيس ويحلل بعمق",
+    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "ملقة يراهن على فونيس ويحلل بعمق",
+    "post_text": "🚨 ملقة يراهن على فونيس ويحلل بعمق\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103546712310639",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملقة_يراهن_على_فونيس_ويحلل_بعمق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/malaga/2026/11/09/malaga-apuesta-funes-analisis-profundo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AMDGyg6qRMgf1gtaYzpzSiA"
+    }
+  },
+  {
     "title": "Javier Aguirre: \"No creo que las palabras de Mourinho hayan hecho mella en mis jugadores\"",
     "url": "https://www.marca.com/futbol/valencia/2026/11/09/javier-aguirre-creo-palabras-mourinho-hayan-hecho-mella-mis-jugadores.html",
     "summary": "El técnico del Real Madrid reveló que le dijo al mexicano que que sus futbolistas son \"mejores\" tras el partido en Mestalla",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjDDrXdQENH71X8vrHeZeQO"
-    }
-  },
-  {
-    "title": "Qué pasó con Mestalla... un 6 de noviembre de 1994: La petición de Luis Casanova para el cambio de nombre al estadio",
-    "url": "https://www.marca.com/futbol/valencia/2026/11/06/paso-mestalla-6-noviembre-1994-peticion-luis-casanova-cambio-nombre-estadio.html",
-    "summary": "Fue en 1969 cuando, bajo el mandado de Julio de Miguel, se aprobó llamarlo con el nombre del mítico expresidente que ejerció como tal de 1940 a 1959 y duró 25 años",
-    "published": "Fri, 06 Nov 2026 08:19:30 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae758d700b5b.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماذا حدث للميستايا.. يوم 6 نوفمبر 1994: طلب لويس كازانوفا تغيير اسم الملعب",
-    "arabic_summary": "كان ذلك في عام 1969 عندما تمت الموافقة، بقيادة خوليو دي ميغيل، على تسميتها باسم الرئيس السابق الأسطوري الذي تولى هذا المنصب من عام 1940 إلى عام 1959 واستمر لمدة 25 عامًا.",
-    "translation_status": "translated",
-    "post_title": "ماذا حدث للميستايا.. يوم 6 نوفمبر 1994: طلب لويس كازانوفا تغيير اسم الملعب",
-    "post_text": "🚨 ماذا حدث للميستايا.. يوم 6 نوفمبر 1994: طلب لويس كازانوفا تغيير اسم الملعب\n\n📝 كان ذلك في عام 1969 عندما تمت الموافقة، بقيادة خوليو دي ميغيل، على تسميتها باسم الرئيس السابق الأسطوري الذي تولى هذا المنصب من عام 1940 إلى عام 1959 واستمر لمدة 25 عامًا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100142252651085",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماذا_حدث_للميستايا.._يوم_6_نوفمبر_1994_طلب_لويس_كازانوفا_تغيير_اسم_الملعب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/11/06/paso-mestalla-6-noviembre-1994-peticion-luis-casanova-cambio-nombre-estadio.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFvZPwZ0vC13b65GE8SdL67"
     }
   }
 ]
