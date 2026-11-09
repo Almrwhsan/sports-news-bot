@@ -1,5 +1,39 @@
 [
   {
+    "title": "Norris: McLaren still not at championship level",
+    "url": "https://www.skysports.com/f1/news/12040/13610144/lando-norris-says-mclaren-are-still-not-at-the-level-to-fight-for-world-championship-in-2027-despite-sao-paulo-grand-prix-win",
+    "summary": "Lando Norris believes McLaren are \"not at the level to fight for a world championship\" despite his dominant win in mixed conditions at the Sao Paulo Grand Prix.",
+    "published": "Mon, 09 Nov 2026 12:55:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-lando-norris_7402085.jpg?20261109121814",
+    "media_type": "image/jpg",
+    "arabic_title": "نوريس: مكلارين لم يصل بعد إلى مستوى البطولة",
+    "arabic_summary": "يعتقد لاندو نوريس أن فريق مكلارين \"ليس على المستوى الذي يسمح له بالمنافسة على لقب بطولة العالم\" على الرغم من فوزه المهيمن في الظروف المختلطة في سباق جائزة ساو باولو الكبرى.",
+    "translation_status": "translated",
+    "post_title": "نوريس: مكلارين لم يصل بعد إلى مستوى البطولة",
+    "post_text": "🚨 نوريس: مكلارين لم يصل بعد إلى مستوى البطولة\n\n📝 يعتقد لاندو نوريس أن فريق مكلارين \"ليس على المستوى الذي يسمح له بالمنافسة على لقب بطولة العالم\" على الرغم من فوزه المهيمن في الظروف المختلطة في سباق جائزة ساو باولو الكبرى.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103580335640610",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نوريس_مكلارين_لم_يصل_بعد_إلى_مستوى_البطولة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/news/12040/13610144/lando-norris-says-mclaren-are-still-not-at-the-level-to-fight-for-world-championship-in-2027-despite-sao-paulo-grand-prix-win",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AtsM0zPGr73jqdttFCRNt4-"
+    }
+  },
+  {
     "title": "Sivera se doctora bajo los once metros",
     "url": "https://www.marca.com/futbol/alaves/2026/11/09/sivera-doctora-once-metros.html",
     "summary": "El cancerbero acumula dos penas máximas detenidas tras estar más de cuatro años sin parar ninguna.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ad0eucx8HKwRSGz5P19Qw9t"
-    }
-  },
-  {
-    "title": "Bayern coach Kompany close to 'full recovery' after collapse",
-    "url": "https://www.espn.com/soccer/story/_/id/50398505/vincent-kompany-bayern-munich-collapse-recovery-return",
-    "summary": "Bayern Munich coach Vincent Kompany is on track for a \"full recovery\" after a lengthy absence following his collapse at a training session, assistant Aaron Danks said Friday.",
-    "published": "Fri, 6 Nov 2026 08:36:32 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "مدرب بايرن كومباني يقترب من \"التعافي الكامل\" بعد الانهيار",
-    "arabic_summary": "قال مساعد مدرب بايرن ميونيخ آرون دانكس، اليوم الجمعة، إن فينسنت كومباني، مدرب بايرن ميونخ، في طريقه نحو \"التعافي التام\" بعد غياب طويل عقب سقوطه في جلسة تدريبية.",
-    "translation_status": "translated",
-    "post_title": "مدرب بايرن كومباني يقترب من \"التعافي الكامل\" بعد الانهيار",
-    "post_text": "🚨 مدرب بايرن كومباني يقترب من \"التعافي الكامل\" بعد الانهيار\n\n📝 قال مساعد مدرب بايرن ميونيخ آرون دانكس، اليوم الجمعة، إن فينسنت كومباني، مدرب بايرن ميونخ، في طريقه نحو \"التعافي التام\" بعد غياب طويل عقب سقوطه في جلسة تدريبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100151489316828",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مدرب_بايرن_كومباني_يقترب_من_التعافي_الكامل_بعد_الانهيار.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A7LKYZTpJa3VyBhMZFVIxpS"
     }
   }
 ]
