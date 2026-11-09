@@ -1,5 +1,39 @@
 [
   {
+    "title": "Amaia Gorostiza deja el Eibar y Ulazia toma los mandos",
+    "url": "https://www.marca.com/futbol/eibar/2026/11/09/amaia-gorostiza-deja-eibar-ulazia-toma-mandos.html",
+    "summary": "La presidenta hizo oficial este lunes su marcha después de una década a los mandos",
+    "published": "Mon, 09 Nov 2026 11:49:47 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/22/6a109a2229124.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أمايا جوروستيزا يغادر إيبار ويتولى أولازيا المسؤولية",
+    "arabic_summary": "أعلن الرئيس رحيلها رسميًا يوم الاثنين بعد عقد من الزمن على رأس السلطة",
+    "translation_status": "translated",
+    "post_title": "أمايا جوروستيزا يغادر إيبار ويتولى أولازيا المسؤولية",
+    "post_text": "🚨 أمايا جوروستيزا يغادر إيبار ويتولى أولازيا المسؤولية\n\n📝 أعلن الرئيس رحيلها رسميًا يوم الاثنين بعد عقد من الزمن على رأس السلطة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103403578991619",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أمايا_جوروستيزا_يغادر_إيبار_ويتولى_أولازيا_المسؤولية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/eibar/2026/11/09/amaia-gorostiza-deja-eibar-ulazia-toma-mandos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADx0A7ryjIsCC3A22xcafaK"
+    }
+  },
+  {
     "title": "Neville: Is Man City charges spotlight seeping into performances?",
     "url": "https://www.skysports.com/football/news/12040/13610133/gary-neville",
     "summary": "Gary Neville has questioned whether the recent attention over Manchester City being charged by the Premier League has begun to seep into the team's performances.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHpxuyOTXeuXO7VODn8E3t5"
-    }
-  },
-  {
-    "title": "El contundente mensaje de una estrella de la NFL a Vinicius por su rendimiento: para escucharlo repetido",
-    "url": "https://as.com/futbol/videos/el-contundente-mensaje-de-una-estrella-de-la-nfl-a-vinicius-por-su-rendimiento-para-escucharlo-repetido-f202611-v/",
-    "summary": "Bijan Robinson, el running back de los Atlanta Falcons, habló sobre la situación de Vinicius en el Real Madrid y los famosos haters.",
-    "published": "Fri, 06 Nov 2026 09:31:28 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261106/1234529_091724_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "الرسالة القوية من نجم اتحاد كرة القدم الأميركي إلى فينيسيوس بسبب أدائه: سماعها تتكرر",
-    "arabic_summary": "تحدث بيجان روبنسون، لاعب فريق أتلانتا فالكونز، عن وضع فينيسيوس في ريال مدريد وكارهيه المشهورين.",
-    "translation_status": "translated",
-    "post_title": "الرسالة القوية من نجم اتحاد كرة القدم الأميركي إلى فينيسيوس بسبب أدائه: سماعها تتكرر",
-    "post_text": "🚨 الرسالة القوية من نجم اتحاد كرة القدم الأميركي إلى فينيسيوس بسبب أدائه: سماعها تتكرر\n\n📝 تحدث بيجان روبنسون، لاعب فريق أتلانتا فالكونز، عن وضع فينيسيوس في ريال مدريد وكارهيه المشهورين.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099931586005485",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الرسالة_القوية_من_نجم_اتحاد_كرة_القدم_الأميركي_إلى_فينيسيوس_بسبب_أدائه_سماعها_تت.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AmlnYQV7IHQPS2YftwulG2T"
     }
   }
 ]
