@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cubarsí se viste de oro y se lleva el Golden Boy",
+    "url": "https://as.com/futbol/internacional/cubarsi-se-viste-de-oro-y-se-lleva-el-golden-boy-f202611-n/",
+    "summary": "El internacional español se ha impuesto por una mayoría abrumadora a los otros 24 candidatos. Es el mejor joven menor de 21 años en 2026.",
+    "published": "Mon, 09 Nov 2026 15:13:46 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261109/1235588_095311_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "يرتدي كوبارسي الذهب ويفوز بالفتى الذهبي",
+    "arabic_summary": "وقد فاز الدولي الإسباني بأغلبية ساحقة على المرشحين الـ 24 الآخرين. أفضل شاب تحت 21 سنة عام 2026.",
+    "translation_status": "translated",
+    "post_title": "يرتدي كوبارسي الذهب ويفوز بالفتى الذهبي",
+    "post_text": "🚨 يرتدي كوبارسي الذهب ويفوز بالفتى الذهبي\n\n📝 وقد فاز الدولي الإسباني بأغلبية ساحقة على المرشحين الـ 24 الآخرين. أفضل شاب تحت 21 سنة عام 2026.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103524218979555",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يرتدي_كوبارسي_الذهب_ويفوز_بالفتى_الذهبي.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ask9iptcRpFlhLl1tREYqxv"
+    }
+  },
+  {
     "title": "Vadillo, la irrupción de la temporada en el Zaragoza",
     "url": "https://www.marca.com/futbol/zaragoza/2026/11/09/vadillo-irrupcion-temporada-zaragoza.html",
     "summary": "El canterano anotó en el derbi aragonés su primer gol con la elástica blanquilla",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AwZUM7ZVX1oIZmN5YiY0KJE"
-    }
-  },
-  {
-    "title": "A qué hora es el Sevilla - Alavés: horario, dónde ver hoy en TV y canal del partido de LaLiga EA Sports",
-    "url": "https://www.marca.com/futbol/primera-division/2026/11/04/a-que-hora-es-el-sevilla-alaves-horario-donde-ver-hoy-en-tv-y-canal-del-partido-de-laliga-ea-sports.html",
-    "summary": "Blanquirrojos y babazorros se enfrentan a las 21:00 horas en el Sánchez-Pizjuán",
-    "published": "Fri, 06 Nov 2026 08:30:03 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/53032677643293.png",
-    "media_type": "image/jpeg",
-    "arabic_title": "ما هو وقت إشبيلية - ألافيس: الجدول الزمني، حيث يمكنك مشاهدة مباراة الدوري الإسباني اليوم على التلفزيون وقناة EA Sports",
-    "arabic_summary": "يواجه Blanquirrojos و babazorros بعضهما البعض في الساعة 9:00 مساءً. في سانشيز بيزخوان",
-    "translation_status": "translated",
-    "post_title": "ما هو وقت إشبيلية - ألافيس: الجدول الزمني، حيث يمكنك مشاهدة مباراة الدوري الإسباني اليوم على التلفزيون وقناة EA Sports",
-    "post_text": "🚨 ما هو وقت إشبيلية - ألافيس: الجدول الزمني، حيث يمكنك مشاهدة مباراة الدوري الإسباني اليوم على التلفزيون وقناة EA Sports\n\n📝 يواجه Blanquirrojos و babazorros بعضهما البعض في الساعة 9:00 مساءً. في سانشيز بيزخوان\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100142462651064",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هو_وقت_إشبيلية_-_ألافيس_الجدول_الزمني،_حيث_يمكنك_مشاهدة_مباراة_الدوري_الإسبان.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/11/04/a-que-hora-es-el-sevilla-alaves-horario-donde-ver-hoy-en-tv-y-canal-del-partido-de-laliga-ea-sports.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6hqu_pxDSBIJDzC3z0sdih"
     }
   }
 ]
