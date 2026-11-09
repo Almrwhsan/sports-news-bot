@@ -1,5 +1,39 @@
 [
   {
+    "title": "La lección táctica de Flick que De la Fuente tiene que incorporar ya mismo",
+    "url": "https://as.com/futbol/videos/de-la-trampa-mourinhista-de-simeone-al-jaque-mate-de-flick-f202611-v/",
+    "summary": "Flick remontó un partido que tenía perdido desde la pizarra. Hizo tres cambios radicales de ‘su’ Barça y encontró su arma secreta que en Europa “es única”. Así ganó el Barça un partido decisivo y dejó KO a Simeone que luchó con un plan ’madridista’.",
+    "published": "Mon, 09 Nov 2026 17:55:56 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://www.youtube.com/watch?v=GHwvB2sHp48",
+    "media_type": "application/octet-stream",
+    "arabic_title": "الدرس التكتيكي الذي تعلمه فليك والذي يجب على دي لا فوينتي أن يستوعبه الآن",
+    "arabic_summary": "عاد فليك من مباراة كان قد خسرها من لوحة النتائج. لقد أجرى ثلاثة تغييرات جذرية على برشلونة ووجد سلاحه السري \"الفريد\" في أوروبا. هكذا فاز برشلونة بمباراة حاسمة وأطاح بسيميوني الذي خاض بخطة \"مدريديستا\".",
+    "translation_status": "translated",
+    "post_title": "الدرس التكتيكي الذي تعلمه فليك والذي يجب على دي لا فوينتي أن يستوعبه الآن",
+    "post_text": "🚨 الدرس التكتيكي الذي تعلمه فليك والذي يجب على دي لا فوينتي أن يستوعبه الآن\n\n📝 عاد فليك من مباراة كان قد خسرها من لوحة النتائج. لقد أجرى ثلاثة تغييرات جذرية على برشلونة ووجد سلاحه السري \"الفريد\" في أوروبا. هكذا فاز برشلونة بمباراة حاسمة وأطاح بسيميوني الذي خاض بخطة \"مدريديستا\".\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103562972309013",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الدرس_التكتيكي_الذي_تعلمه_فليك_والذي_يجب_على_دي_لا_فوينتي_أن_يستوعبه_الآن.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/videos/de-la-trampa-mourinhista-de-simeone-al-jaque-mate-de-flick-f202611-v/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AA6fJxkhf-wYF1h-4k7nvkQ"
+    }
+  },
+  {
     "title": "Bretos da cariño a Remiro mientras negocian",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/11/09/bretos-da-carino-remiro-negocian.html",
     "summary": "El director de fútbol abrazó al portero con una efusividad especial tras el triunfo ante el Rayo, mientras ambos conversan sobre la renovación o no del contrato del portero",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASE_ixwdI60mLanPvTGI1c2"
-    }
-  },
-  {
-    "title": "Indignación en Barcelona con Raphinha por irse con Brasil: \"¡Es un atraco! Le quitaba el brazalete\"",
-    "url": "https://www.marca.com/futbol/barcelona/2026/11/06/indignacion-barcelona-raphinha-irse-brasil-atraco-le-quitaba-brazalet-video.html",
-    "summary": "",
-    "published": "Fri, 06 Nov 2026 07:52:17 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/ggOSI1gxNZx8XUoNU.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "غضب في برشلونة بسبب رافينيا بعد رحيله عن البرازيل: \"إنها سرقة! لقد أخذت سواره\"",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "غضب في برشلونة بسبب رافينيا بعد رحيله عن البرازيل: \"إنها سرقة! لقد أخذت سواره\"",
-    "post_text": "🚨 غضب في برشلونة بسبب رافينيا بعد رحيله عن البرازيل: \"إنها سرقة! لقد أخذت سواره\"\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100142072651103",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غضب_في_برشلونة_بسبب_رافينيا_بعد_رحيله_عن_البرازيل_إنها_سرقة!_لقد_أخذت_سواره.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/06/indignacion-barcelona-raphinha-irse-brasil-atraco-le-quitaba-brazalet-video.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIXRrUptlboG2cMu3Mp2y1P"
     }
   }
 ]
