@@ -1,5 +1,39 @@
 [
   {
+    "title": "Euro Debrief: Kane has become the king of assists",
+    "url": "https://www.skysports.com/football/news/12040/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "summary": "",
+    "published": "Mon, 09 Nov 2026 09:30:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-euro-debrief-harry-kane_7401725.jpg?20261108232322",
+    "media_type": "image/jpg",
+    "arabic_title": "استخلاص المعلومات من اليورو: أصبح كين ملك التمريرات الحاسمة",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "استخلاص المعلومات من اليورو: أصبح كين ملك التمريرات الحاسمة",
+    "post_text": "🚨 استخلاص المعلومات من اليورو: أصبح كين ملك التمريرات الحاسمة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103048615693782",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استخلاص_المعلومات_من_اليورو_أصبح_كين_ملك_التمريرات_الحاسمة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnGo0w7lc7s2tJXHuJMf4Zc"
+    }
+  },
+  {
     "title": "Ali lands big knockdown on route to WBO, IBF world title win!",
     "url": "https://www.skysports.com/watch/video/13610085/ramla-ali-vs-mikiah-kreps-fight-highlights",
     "summary": "Highlights of the WBO and IBF super-bantamweight world title fight between Ramla Ali and Mikiah Kreps.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Am2mwzQQUicMw3KzcSkpIRW"
-    }
-  },
-  {
-    "title": "El Atlético piensa en Beltrán como heredero de Oblak",
-    "url": "https://as.com/futbol/primera/el-atletico-piensa-en-beltran-como-heredero-de-oblak-f202611-n/",
-    "summary": "El guardameta de River gusta por reflejos, juego aéreo, edad (22 años) y cuenta con la nacionalidad italiana. Vuelve a formar parte de la lista de Scaloni para el parón.",
-    "published": "Thu, 05 Nov 2026 23:08:29 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/G7OMOZJDX5OHHPBVYB3IU66MYY.jpg?auth=9465005e736d40cb99f86b084ff18f082adb3deca7e6d4d7aae5d4478a610c93",
-    "media_type": "image/jpeg",
-    "arabic_title": "أتلتيكو يعتقد أن بلتران هو وريث أوبلاك",
-    "arabic_summary": "حارس مرمى الريفر يحب ردود أفعاله ولعبه الهوائي وعمره (22 سنة) ويحمل الجنسية الإيطالية. لقد أصبح مرة أخرى جزءًا من قائمة سكالوني لفترة الاستراحة.",
-    "translation_status": "translated",
-    "post_title": "أتلتيكو يعتقد أن بلتران هو وريث أوبلاك",
-    "post_text": "🚨 أتلتيكو يعتقد أن بلتران هو وريث أوبلاك\n\n📝 حارس مرمى الريفر يحب ردود أفعاله ولعبه الهوائي وعمره (22 سنة) ويحمل الجنسية الإيطالية. لقد أصبح مرة أخرى جزءًا من قائمة سكالوني لفترة الاستراحة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099542606044383",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتلتيكو_يعتقد_أن_بلتران_هو_وريث_أوبلاك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-atletico-piensa-en-beltran-como-heredero-de-oblak-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6zgnChQW9245fyYBlQ4Qzh"
     }
   }
 ]
