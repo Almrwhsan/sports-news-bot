@@ -1,5 +1,39 @@
 [
   {
+    "title": "Raúl hace soñar al Oviedo",
+    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/09/raul-sonar-oviedo.html",
+    "summary": "Bet777 nos ofrece las mejores cuotas para que el conjunto asturiano sea campeón de segunda",
+    "published": "Mon, 09 Nov 2026 15:19:11 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1d4145036e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "راؤول يجعل أوفييدو يحلم",
+    "arabic_summary": "يقدم لنا موقع Bet777 أفضل الاحتمالات لكي يصبح الفريق الأستوري بطلاً للدرجة الثانية",
+    "translation_status": "translated",
+    "post_title": "راؤول يجعل أوفييدو يحلم",
+    "post_text": "🚨 راؤول يجعل أوفييدو يحلم\n\n📝 يقدم لنا موقع Bet777 أفضل الاحتمالات لكي يصبح الفريق الأستوري بطلاً للدرجة الثانية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103601155638528",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راؤول_يجعل_أوفييدو_يحلم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/09/raul-sonar-oviedo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Anw9CACagF3xVgYlR3EEyQ5"
+    }
+  },
+  {
     "title": "Flick se quita una losa de encima",
     "url": "https://www.marca.com/futbol/barcelona/opinion/2026/11/09/flick-quita-losa-encima.html",
     "summary": "El alemán sabía lo que le esperaba en el parón si perdían ante el Atlético",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5gUPKuMG8NBCRuafWlHhQJ"
-    }
-  },
-  {
-    "title": "Soccer's main characters this week: Man United, Como, PSG, Donnarumma",
-    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
-    "summary": "What are we watching this week? Man United are hoping for a rally, Como are magical to watch, PSG are the team to beat and we're worried about Gianluigi Donnarumma.",
-    "published": "Fri, 6 Nov 2026 08:34:42 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "الشخصيات الرئيسية في كرة القدم هذا الأسبوع: مانشستر يونايتد، كومو، باريس سان جيرمان، دوناروما",
-    "arabic_summary": "ماذا نشاهد هذا الأسبوع؟ يأمل مانشستر يونايتد في تحقيق التعادل، وكومو ساحر يجب مشاهدته، وباريس سان جيرمان هو الفريق الذي يجب التغلب عليه ونحن قلقون بشأن جيانلويجي دوناروما.",
-    "translation_status": "translated",
-    "post_title": "الشخصيات الرئيسية في كرة القدم هذا الأسبوع: مانشستر يونايتد، كومو، باريس سان جيرمان، دوناروما",
-    "post_text": "🚨 الشخصيات الرئيسية في كرة القدم هذا الأسبوع: مانشستر يونايتد، كومو، باريس سان جيرمان، دوناروما\n\n📝 ماذا نشاهد هذا الأسبوع؟ يأمل مانشستر يونايتد في تحقيق التعادل، وكومو ساحر يجب مشاهدته، وباريس سان جيرمان هو الفريق الذي يجب التغلب عليه ونحن قلقون بشأن جيانلويجي دوناروما.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100151122650198",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الشخصيات_الرئيسية_في_كرة_القدم_هذا_الأسبوع_مانشستر_يونايتد،_كومو،_باريس_سان_جيرم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGQgucRzwspWGknw7l11df_"
     }
   }
 ]
