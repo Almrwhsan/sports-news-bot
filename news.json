@@ -1,5 +1,39 @@
 [
   {
+    "title": "Dutch match postponed after fans block team bus",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
+    "summary": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.",
+    "published": "Mon, 09 Nov 2026 08:00:07 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8eb/live/b045b540-dc0d-11f1-9f85-c35529b8c4b9.jpg",
+    "media_type": null,
+    "arabic_title": "تأجيل مباراة هولندا بعد أن اعترضت الجماهير حافلة الفريق",
+    "arabic_summary": "ألغيت مباراة في دوري الدرجة الثانية الهولندية بين فيتيس أرنهيم ودي جرافشاب بعد أن منعت جماهير الفريق الضيف حافلة فريقهم من المغادرة لحضور المباراة.",
+    "translation_status": "translated",
+    "post_title": "تأجيل مباراة هولندا بعد أن اعترضت الجماهير حافلة الفريق",
+    "post_text": "🚨 تأجيل مباراة هولندا بعد أن اعترضت الجماهير حافلة الفريق\n\n📝 ألغيت مباراة في دوري الدرجة الثانية الهولندية بين فيتيس أرنهيم ودي جرافشاب بعد أن منعت جماهير الفريق الضيف حافلة فريقهم من المغادرة لحضور المباراة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103133382351972",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تأجيل_مباراة_هولندا_بعد_أن_اعترضت_الجماهير_حافلة_الفريق.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AyPVCGUHkHYLSA8rPBj2MMw"
+    }
+  },
+  {
     "title": "Rugby League World Cup 2030 to be staged in Pacific-USA",
     "url": "https://www.skysports.com/rugby-league/news/12040/13610090/rugby-league-world-cup-2030-to-be-staged-in-pacific-usa-with-eligibility-rules-updated-and-tonga-samoa-given-tier-1-status",
     "summary": "International Rugby League has announced the Rugby League World Cup 2030 men's and women's tournaments will be staged in cities across the Pacific and United States of America with more teams to be involved.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AuA4uL-nTQgHk1TXZT1WVDD"
-    }
-  },
-  {
-    "title": "Feijóo: \"Si la final del Mundial 2030 no es España deberíamos retirarnos de la organización\"",
-    "url": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/11/06/feijoo-final-mundial-2030-espana-deberiamos-retirarnos-organizacion.html",
-    "summary": "El presidente del PP lo tiene muy claro",
-    "published": "Fri, 06 Nov 2026 01:22:09 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed1b981943f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فيجو: \"إذا لم يكن نهائي كأس العالم 2030 في إسبانيا فيجب علينا الانسحاب من المنظمة\"",
-    "arabic_summary": "إن رئيس حزب الشعب واضح للغاية",
-    "translation_status": "translated",
-    "post_title": "فيجو: \"إذا لم يكن نهائي كأس العالم 2030 في إسبانيا فيجب علينا الانسحاب من المنظمة\"",
-    "post_text": "🚨 فيجو: \"إذا لم يكن نهائي كأس العالم 2030 في إسبانيا فيجب علينا الانسحاب من المنظمة\"\n\n📝 إن رئيس حزب الشعب واضح للغاية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099581092707201",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيجو_إذا_لم_يكن_نهائي_كأس_العالم_2030_في_إسبانيا_فيجب_علينا_الانسحاب_من_المنظمة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/11/06/feijoo-final-mundial-2030-espana-deberiamos-retirarnos-organizacion.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aw3vR36PlEnV7jLss5xEkEO"
     }
   }
 ]
