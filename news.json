@@ -1,5 +1,39 @@
 [
   {
+    "title": "Vadillo, la irrupción de la temporada en el Zaragoza",
+    "url": "https://www.marca.com/futbol/zaragoza/2026/11/09/vadillo-irrupcion-temporada-zaragoza.html",
+    "summary": "El canterano anotó en el derbi aragonés su primer gol con la elástica blanquilla",
+    "published": "Mon, 09 Nov 2026 13:56:14 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/07/6aefa0c2a6df6.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فاديلو، ظهور الموسم في سرقسطة",
+    "arabic_summary": "سجل اللاعب الشاب هدفه الأول بالقميص الأبيض المرن في ديربي أراغون",
+    "translation_status": "translated",
+    "post_title": "فاديلو، ظهور الموسم في سرقسطة",
+    "post_text": "🚨 فاديلو، ظهور الموسم في سرقسطة\n\n📝 سجل اللاعب الشاب هدفه الأول بالقميص الأبيض المرن في ديربي أراغون\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103515102313800",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فاديلو،_ظهور_الموسم_في_سرقسطة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/zaragoza/2026/11/09/vadillo-irrupcion-temporada-zaragoza.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ATgspvLYMuDWQIoXdPcKpdU"
+    }
+  },
+  {
     "title": "A Mourinho le sale un 'imitador'",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/09/mourinho-le-sale-imitador.html",
     "summary": "No es el único en Valdebebas que lo ha ganado todo en Liga y en Europa entre parón y parón",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6hqu_pxDSBIJDzC3z0sdih"
-    }
-  },
-  {
-    "title": "La RFEF se declara incompetente para decidir si se suspende la jornada en Segunda",
-    "url": "https://as.com/futbol/segunda/la-rfef-se-declara-incompetente-para-decidir-si-se-suspende-la-jornada-en-segunda-f202611-n/",
-    "summary": "La AFE ha solicitado que no se disputen encuentros de LaLiga Hypermotion este fin de semana, algo que, en última instancia, depende de LaLiga.",
-    "published": "Fri, 06 Nov 2026 10:14:54 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KJBVAAIYF5NCDHBS5AXUCPRKJA.jpg?auth=3844ae55e423d8fa27e707b4da6539b46b8a4bd4ab98cd9c58ca7b5b9b643901",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعلن الاتحاد الإسباني لكرة القدم أنه غير مؤهل لتقرير ما إذا كان سيتم تعليق اليوم في الثانية أم لا",
-    "arabic_summary": "طلبت AFE عدم لعب مباريات LaLiga Hypermotion في نهاية هذا الأسبوع، وهو أمر يعتمد في النهاية على LaLiga.",
-    "translation_status": "translated",
-    "post_title": "يعلن الاتحاد الإسباني لكرة القدم أنه غير مؤهل لتقرير ما إذا كان سيتم تعليق اليوم في الثانية أم لا",
-    "post_text": "🚨 يعلن الاتحاد الإسباني لكرة القدم أنه غير مؤهل لتقرير ما إذا كان سيتم تعليق اليوم في الثانية أم لا\n\n📝 طلبت AFE عدم لعب مباريات LaLiga Hypermotion في نهاية هذا الأسبوع، وهو أمر يعتمد في النهاية على LaLiga.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100142615984382",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعلن_الاتحاد_الإسباني_لكرة_القدم_أنه_غير_مؤهل_لتقرير_ما_إذا_كان_سيتم_تعليق_اليوم.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/segunda/la-rfef-se-declara-incompetente-para-decidir-si-se-suspende-la-jornada-en-segunda-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AH8ElZBk-Wb1N_DQMzDHue0"
     }
   }
 ]
