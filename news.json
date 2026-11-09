@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Tremendous news for Scotland' - Date revealed for Carnoustie to host The Open",
+    "url": "https://www.skysports.com/golf/news/12040/13610163/the-open-carnoustie-announced-by-ra-as-host-venue-for-the-157th-open-in-2029",
+    "summary": "The Open will return to Carnoustie in 2029, the R&A has announced.",
+    "published": "Mon, 09 Nov 2026 12:08:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-the-open-carnoustie_7402088.jpg?20261109122007",
+    "media_type": "image/jpg",
+    "arabic_title": "\"أخبار هائلة لاسكتلندا\" - الكشف عن موعد استضافة كارنوستي بطولة The Open",
+    "arabic_summary": "أعلن R&A أن البطولة المفتوحة ستعود إلى كارنوستي في عام 2029.",
+    "translation_status": "translated",
+    "post_title": "\"أخبار هائلة لاسكتلندا\" - الكشف عن موعد استضافة كارنوستي بطولة The Open",
+    "post_text": "🚨 \"أخبار هائلة لاسكتلندا\" - الكشف عن موعد استضافة كارنوستي بطولة The Open\n\n📝 أعلن R&A أن البطولة المفتوحة ستعود إلى كارنوستي في عام 2029.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103407012324609",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أخبار_هائلة_لاسكتلندا_-_الكشف_عن_موعد_استضافة_كارنوستي_بطولة_The_Open.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/13610163/the-open-carnoustie-announced-by-ra-as-host-venue-for-the-157th-open-in-2029",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AoWFncKrpSSdOsxtlQhmbbo"
+    }
+  },
+  {
     "title": "Amaia Gorostiza deja el Eibar y Ulazia toma los mandos",
     "url": "https://www.marca.com/futbol/eibar/2026/11/09/amaia-gorostiza-deja-eibar-ulazia-toma-mandos.html",
     "summary": "La presidenta hizo oficial este lunes su marcha después de una década a los mandos",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AmLNMyAYkawV2mBK8WX_R1i"
-    }
-  },
-  {
-    "title": "Bellingham's Bernabeu meets Burrow's Bengals - NFL Gameday Guide",
-    "url": "https://www.skysports.com/nfl/news/12040/13607472/real-madrids-bernabeu-welcomes-back-nfl-as-joe-burrow-leads-cincinnati-bengals-super-bowl-hunt-nfl-gameday-guide",
-    "summary": "Thanks a bunch, Jude Bellingham. Couldn't let us have one rest day? Now we all need to go to the gym. Selfish.&#160;",
-    "published": "Fri, 06 Nov 2026 10:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-joe-burrow-cincinnati-bengals_7396669.jpg?20261104095401",
-    "media_type": "image/jpg",
-    "arabic_title": "يلتقي برنابيو بيلينجهام مع بورو بنغلس - دليل NFL Gameday",
-    "arabic_summary": "شكرا جزيلا، جود بيلينجهام. لا يمكن أن تسمح لنا بالحصول على يوم راحة واحد؟ الآن نحن جميعا بحاجة للذهاب إلى صالة الألعاب الرياضية. أنانية.",
-    "translation_status": "translated",
-    "post_title": "يلتقي برنابيو بيلينجهام مع بورو بنغلس - دليل NFL Gameday",
-    "post_text": "🚨 يلتقي برنابيو بيلينجهام مع بورو بنغلس - دليل NFL Gameday\n\n📝 شكرا جزيلا، جود بيلينجهام. لا يمكن أن تسمح لنا بالحصول على يوم راحة واحد؟ الآن نحن جميعا بحاجة للذهاب إلى صالة الألعاب الرياضية. أنانية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099976809334296",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يلتقي_برنابيو_بيلينجهام_مع_بورو_بنغلس_-_دليل_NFL_Gameday.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/nfl/news/12040/13607472/real-madrids-bernabeu-welcomes-back-nfl-as-joe-burrow-leads-cincinnati-bengals-super-bowl-hunt-nfl-gameday-guide",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHpxuyOTXeuXO7VODn8E3t5"
     }
   }
 ]
