@@ -1,5 +1,39 @@
 [
   {
+    "title": "El saludo de Lamine con Julián más comentado en redes",
+    "url": "https://as.com/futbol/videos/el-saludo-de-lamine-con-julian-mas-comentado-en-redes-f202611-v/",
+    "summary": "El jugador del FC Barcelona se cruzó todo el campo para saludar a la estrella del Atlético de Madrid.",
+    "published": "Mon, 09 Nov 2026 12:31:08 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261108/1235498_223641_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "تحية لامين لجوليان هي الأكثر تعليقًا على الشبكات",
+    "arabic_summary": "وعبر لاعب نادي برشلونة الملعب بأكمله لتحية نجم أتلتيكو مدريد.",
+    "translation_status": "translated",
+    "post_title": "تحية لامين لجوليان هي الأكثر تعليقًا على الشبكات",
+    "post_text": "🚨 تحية لامين لجوليان هي الأكثر تعليقًا على الشبكات\n\n📝 وعبر لاعب نادي برشلونة الملعب بأكمله لتحية نجم أتلتيكو مدريد.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103300195668624",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تحية_لامين_لجوليان_هي_الأكثر_تعليقًا_على_الشبكات.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AUt0qoExvGFWUfpksGvcnop"
+    }
+  },
+  {
     "title": "Aihen Muñoz: “Se me han subido los cuádriceps, los gemelos, pero estaba disfrutando”",
     "url": "https://as.com/futbol/primera/aihen-munoz-se-me-han-subido-los-cuadriceps-los-gemelos-pero-estaba-disfrutando-f202611-n/",
     "summary": "El lateral de la Real Sociedad volvió a la titularidad ante el Rayo y fue uno de los destacados. “Ir al parón con otra victoria nos da subidón”, señala.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvozRgUQWtrL5OCTG2YymJY"
-    }
-  },
-  {
-    "title": "Adiós, De Miguel",
-    "url": "https://as.com/futbol/segunda/adios-de-miguel-f202611-n/",
-    "summary": "Navahermosa y el fútbol español despiden al ‘nueve’, del que destacan un corazón y un carácter aún más grande que sus goles.",
-    "published": "Thu, 05 Nov 2026 16:08:53 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261105/1234309_172024_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "وداعا ميغيل",
-    "arabic_summary": "نافاهرموسا وكرة القدم الإسبانية يودعان \"التسعة\" الذي يملك قلبًا وشخصية أكبر من أهدافه.",
-    "translation_status": "translated",
-    "post_title": "وداعا ميغيل",
-    "post_text": "🚨 وداعا ميغيل\n\n📝 نافاهرموسا وكرة القدم الإسبانية يودعان \"التسعة\" الذي يملك قلبًا وشخصية أكبر من أهدافه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099780429353934",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وداعا_ميغيل.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbZkEj-I13MgXZZ1EoQD_15"
     }
   }
 ]
