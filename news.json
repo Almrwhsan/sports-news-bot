@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cinco españolas son elegidas en el once ideal para FIFPro",
+    "url": "https://www.marca.com/futbol/futbol-femenino/2026/11/09/cinco-espanolas-son-elegidas-once-ideal-fifpro.html",
+    "summary": "Mapi León, Irene Paredes, Alexia Putellas, Aitana Bonmatí y Claudia Pina han sido elegidas por sus compañeras como las mejores del pasado curso",
+    "published": "Mon, 09 Nov 2026 14:57:34 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1d10f0f170.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يتم اختيار خمسة أسبان ضمن التشكيلة المثالية للاتحاد الدولي لكرة القدم (FIFPro).",
+    "arabic_summary": "تم اختيار مابي ليون، وإيرين باريديس، وأليكسيا بوتيلاس، وأيتانا بونماتي، وكلوديا بينا من قبل زملائهم في الفصل كأفضل الطلاب في العام الماضي.",
+    "translation_status": "translated",
+    "post_title": "يتم اختيار خمسة أسبان ضمن التشكيلة المثالية للاتحاد الدولي لكرة القدم (FIFPro).",
+    "post_text": "🚨 يتم اختيار خمسة أسبان ضمن التشكيلة المثالية للاتحاد الدولي لكرة القدم (FIFPro).\n\n📝 تم اختيار مابي ليون، وإيرين باريديس، وأليكسيا بوتيلاس، وأيتانا بونماتي، وكلوديا بينا من قبل زملائهم في الفصل كأفضل الطلاب في العام الماضي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103588232306487",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتم_اختيار_خمسة_أسبان_ضمن_التشكيلة_المثالية_للاتحاد_الدولي_لكرة_القدم_(FIFPro)..png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/2026/11/09/cinco-espanolas-son-elegidas-once-ideal-fifpro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ad-3f1nSjQnI_lE3eCS9AEC"
+    }
+  },
+  {
     "title": "Norris: McLaren still not at championship level",
     "url": "https://www.skysports.com/f1/news/12040/13610144/lando-norris-says-mclaren-are-still-not-at-the-level-to-fight-for-world-championship-in-2027-despite-sao-paulo-grand-prix-win",
     "summary": "Lando Norris believes McLaren are \"not at the level to fight for a world championship\" despite his dominant win in mixed conditions at the Sao Paulo Grand Prix.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Az7tkfbkGytlV2JMVp8O1yj"
-    }
-  },
-  {
-    "title": "Portugal's Jorge Jesus: I asked Ronaldo to stay",
-    "url": "https://www.espn.com/soccer/story/_/id/50397758/portugal-manager-jorge-jesus-asked-cristiano-ronaldo-stay",
-    "summary": "Portugal coach Jorge Jesus is disappointed Cristiano Ronaldo has retired from international duty but concedes he has to accept the captain's decision.",
-    "published": "Fri, 6 Nov 2026 08:36:32 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "البرتغالي خورخي جيسوس: طلبت من رونالدو البقاء",
-    "arabic_summary": "يشعر خورخي جيسوس، مدرب البرتغال، بخيبة أمل بسبب اعتزال كريستيانو رونالدو اللعب الدولي، لكنه أقر بأنه يتعين عليه قبول قرار القائد.",
-    "translation_status": "translated",
-    "post_title": "البرتغالي خورخي جيسوس: طلبت من رونالدو البقاء",
-    "post_text": "🚨 البرتغالي خورخي جيسوس: طلبت من رونالدو البقاء\n\n📝 يشعر خورخي جيسوس، مدرب البرتغال، بخيبة أمل بسبب اعتزال كريستيانو رونالدو اللعب الدولي، لكنه أقر بأنه يتعين عليه قبول قرار القائد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100151419316835",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/البرتغالي_خورخي_جيسوس_طلبت_من_رونالدو_البقاء.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ad0eucx8HKwRSGz5P19Qw9t"
     }
   }
 ]
