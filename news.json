@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valdebebas, bajo mínimos",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/09/valdebebas-minimos.html",
+    "summary": "Mourinho afronta el parón internacional con 18 futbolistas convocados por sus selecciones y sólo cinco jugadores del primer equipo disponibles para trabajar",
+    "published": "Mon, 09 Nov 2026 11:18:49 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af19c7509bbf.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فالديبيباس، تحت الحد الأدنى",
+    "arabic_summary": "ويواجه مورينيو فترة التوقف الدولي مع استدعاء 18 لاعبًا لمنتخباتهم الوطنية وخمسة فقط من لاعبي الفريق الأول متاحين للعمل",
+    "translation_status": "translated",
+    "post_title": "فالديبيباس، تحت الحد الأدنى",
+    "post_text": "🚨 فالديبيباس، تحت الحد الأدنى\n\n📝 ويواجه مورينيو فترة التوقف الدولي مع استدعاء 18 لاعبًا لمنتخباتهم الوطنية وخمسة فقط من لاعبي الفريق الأول متاحين للعمل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103376445660999",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالديبيباس،_تحت_الحد_الأدنى.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/09/valdebebas-minimos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ALp20kzSQ6wG9I73U7PT1kG"
+    }
+  },
+  {
     "title": "Una semana para olvidar",
     "url": "https://www.marca.com/futbol/atletico/2026/11/09/semana-olvidar.html",
     "summary": "El Atlético ve escapar el liderato... y el Madrid le pasa también en la tabla",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Avx-ipx7ns0Vo2Evlz8daTf"
-    }
-  },
-  {
-    "title": "Socio nuevo para Pedri",
-    "url": "https://as.com/futbol/primera/socio-nuevo-para-pedri-f202611-n/",
-    "summary": "Ante la baja de Rodri, Flick debe decidir entre De Jong, Marc Bernal y Gavi para acompañar al canario el domingo en el Metropolitano. El holandés dice que está al 100%.",
-    "published": "Fri, 06 Nov 2026 08:15:09 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YV56GM5AIZH45LP7X23NWA2YJQ.jpg?auth=7fa30e8c8fcb5ba82c78a5c3e1b1ded1cfaf52bfceeb8549e287be4ce96e7e78",
-    "media_type": "image/jpeg",
-    "arabic_title": "شريك جديد لبيدري",
-    "arabic_summary": "نظرًا لخسارة رودري، يجب على فليك الاختيار بين دي يونج ومارك بيرنال وجافي لمرافقة الكناري يوم الأحد في متروبوليتانو. يقول الهولندي أنه 100%.",
-    "translation_status": "translated",
-    "post_title": "شريك جديد لبيدري",
-    "post_text": "🚨 شريك جديد لبيدري\n\n📝 نظرًا لخسارة رودري، يجب على فليك الاختيار بين دي يونج ومارك بيرنال وجافي لمرافقة الكناري يوم الأحد في متروبوليتانو. يقول الهولندي أنه 100%.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099884779343499",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شريك_جديد_لبيدري.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/socio-nuevo-para-pedri-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ACBFHHOgA-HqwAwufQSEUM4"
     }
   }
 ]
