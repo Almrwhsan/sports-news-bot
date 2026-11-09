@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lamine y Oyarzabal, bajas con España ante la República Checa",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/09/lamine-molestias-rodilla-retrasa-incorporacion-seleccion.html",
+    "summary": "Se sumarán a la selección después de partido en Praga a causa de molestias en la rodilla y, en el caso de vasco, un proceso gripal",
+    "published": "Mon, 09 Nov 2026 11:55:44 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1a96ec6e59.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لامين وأويارزابال يغيبان مع إسبانيا أمام التشيك",
+    "arabic_summary": "سوف ينضمون إلى المنتخب الوطني بعد المباراة في براغ بسبب آلام في الركبة، وفي حالة الباسك، بسبب الأنفلونزا.",
+    "translation_status": "translated",
+    "post_title": "لامين وأويارزابال يغيبان مع إسبانيا أمام التشيك",
+    "post_text": "🚨 لامين وأويارزابال يغيبان مع إسبانيا أمام التشيك\n\n📝 سوف ينضمون إلى المنتخب الوطني بعد المباراة في براغ بسبب آلام في الركبة، وفي حالة الباسك، بسبب الأنفلونزا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1103410412324269",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لامين_وأويارزابال_يغيبان_مع_إسبانيا_أمام_التشيك.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/09/lamine-molestias-rodilla-retrasa-incorporacion-seleccion.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABPh46W0f7GC72-nMKu6iXp"
+    }
+  },
+  {
     "title": "'Tremendous news for Scotland' - Date revealed for Carnoustie to host The Open",
     "url": "https://www.skysports.com/golf/news/12040/13610163/the-open-carnoustie-announced-by-ra-as-host-venue-for-the-157th-open-in-2029",
     "summary": "The Open will return to Carnoustie in 2029, the R&A has announced.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHhnJvvH4sx2W5ygygfnrcZ"
-    }
-  },
-  {
-    "title": "O'Neill's Celtic under pressure, Rangers live on Sky as Hibs hope for revival",
-    "url": "https://www.skysports.com/football/news/12040/13608471/scottish-premiership-martin-oneills-celtic-under-pressure-derek-mcinnes-rangers-live-on-sky-as-hibs-hope-for-revival",
-    "summary": "The Scottish Premiership guarantees drama - and we're braced for more ahead of the international break.",
-    "published": "Fri, 06 Nov 2026 10:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scottish-premiership_7398787.jpg?20261106075330",
-    "media_type": "image/jpg",
-    "arabic_title": "سلتيك أونيل تحت الضغط، ويعيش رينجرز على سكاي بينما يأمل هيبس في النهضة",
-    "arabic_summary": "يضمن الدوري الاسكتلندي الممتاز الدراما - ونحن مستعدون للمزيد قبل فترة التوقف الدولي.",
-    "translation_status": "translated",
-    "post_title": "سلتيك أونيل تحت الضغط، ويعيش رينجرز على سكاي بينما يأمل هيبس في النهضة",
-    "post_text": "🚨 سلتيك أونيل تحت الضغط، ويعيش رينجرز على سكاي بينما يأمل هيبس في النهضة\n\n📝 يضمن الدوري الاسكتلندي الممتاز الدراما - ونحن مستعدون للمزيد قبل فترة التوقف الدولي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1099976722667638",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سلتيك_أونيل_تحت_الضغط،_ويعيش_رينجرز_على_سكاي_بينما_يأمل_هيبس_في_النهضة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13608471/scottish-premiership-martin-oneills-celtic-under-pressure-derek-mcinnes-rangers-live-on-sky-as-hibs-hope-for-revival",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AmLNMyAYkawV2mBK8WX_R1i"
     }
   }
 ]
