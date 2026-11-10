@@ -1,5 +1,39 @@
 [
   {
+    "title": "City claim first win of European campaign in Inter thrashing",
+    "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
+    "summary": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
+    "published": "Mon, 09 Nov 2026 21:55:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "champions_league",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-man-city_7403449.jpg?20261110213156",
+    "media_type": "image/jpg",
+    "arabic_title": "سيتي يحقق فوزه الأول في الحملة الأوروبية بفوز ساحق على إنتر",
+    "arabic_summary": "حافظ مانشستر سيتي على آماله في ضمان المركز الرابع في دوري أبطال أوروبا بفوز مقنع على إنتر ميلان.",
+    "translation_status": "translated",
+    "post_title": "سيتي يحقق فوزه الأول في الحملة الأوروبية بفوز ساحق على إنتر",
+    "post_text": "🚨 سيتي يحقق فوزه الأول في الحملة الأوروبية بفوز ساحق على إنتر\n\n📝 حافظ مانشستر سيتي على آماله في ضمان المركز الرابع في دوري أبطال أوروبا بفوز مقنع على إنتر ميلان.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104618052203505",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيتي_يحقق_فوزه_الأول_في_الحملة_الأوروبية_بفوز_ساحق_على_إنتر.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApYoNlp5Lf-txR1vSWE96-d"
+    }
+  },
+  {
     "title": "La reacción del padre de Lamine Yamal a la victoria del Barça en el Metropolitano: vean y disfruten",
     "url": "https://as.com/futbol/videos/la-reaccion-del-padre-de-lamine-yamal-a-la-victoria-del-barca-en-el-metropolitano-vean-y-disfruten-f202611-v/",
     "summary": "El padre del joven jugador del FC Barcelona reaccionó en directo al partido ante el Atlético de Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASWS10Ql6N-KMu439yCFZwj"
-    }
-  },
-  {
-    "title": "De la reivindicación al ejemplo",
-    "url": "https://as.com/opinion/de-la-reivindicacion-al-ejemplo-f202611-n/",
-    "summary": "“Fede Valverde siempre ha sido ejemplo de compromiso. Nunca fue un rebelde”.",
-    "published": "Fri, 06 Nov 2026 23:32:01 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CM6PNCQFIJJKNG3HJMSIHGB6UA.jpg?auth=60497ea768064cac30813b03d5a1279d67c6943ffe487335f4d3edbfabb4f45a",
-    "media_type": "image/jpeg",
-    "arabic_title": "من المطالبة إلى المثال",
-    "arabic_summary": "\"كان فيدي فالفيردي دائمًا مثالًا للالتزام. ولم يكن متمردًا أبدًا\".",
-    "translation_status": "translated",
-    "post_title": "من المطالبة إلى المثال",
-    "post_text": "🚨 من المطالبة إلى المثال\n\n📝 \"كان فيدي فالفيردي دائمًا مثالًا للالتزام. ولم يكن متمردًا أبدًا\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101092542556056",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_المطالبة_إلى_المثال.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/de-la-reivindicacion-al-ejemplo-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQVtsOOjanT5c1HKMqYqvmj"
     }
   }
 ]
