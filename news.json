@@ -1,5 +1,39 @@
 [
   {
+    "title": "Valdano entiende las dos derrotas consecutivas del Atlético de Simeone",
+    "url": "https://www.marca.com/futbol/atletico/2026/11/10/valdano-entiende-dos-derrotas-consecutivas-atletico-simeone.html",
+    "summary": "\"Cuando te tocan dos partidos de ese nivel, de esa exigencia,.... Emocional y físicamente te desgasta mucho\"",
+    "published": "Tue, 10 Nov 2026 06:57:44 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af2b1b4bf4d4.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "فالدانو يتفهم الهزيمتين المتتاليتين لأتلتيكو بقيادة سيميوني",
+    "arabic_summary": "\"عندما تلعب مباراتين بهذا المستوى، وهذا الطلب،... فإن ذلك يرهقك كثيرًا عاطفيًا وجسديًا\"",
+    "translation_status": "translated",
+    "post_title": "فالدانو يتفهم الهزيمتين المتتاليتين لأتلتيكو بقيادة سيميوني",
+    "post_text": "🚨 فالدانو يتفهم الهزيمتين المتتاليتين لأتلتيكو بقيادة سيميوني\n\n📝 \"عندما تلعب مباراتين بهذا المستوى، وهذا الطلب،... فإن ذلك يرهقك كثيرًا عاطفيًا وجسديًا\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104228842242426",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالدانو_يتفهم_الهزيمتين_المتتاليتين_لأتلتيكو_بقيادة_سيميوني.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/11/10/valdano-entiende-dos-derrotas-consecutivas-atletico-simeone.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnvnVwI0xA71pbK4YWkWuf4"
+    }
+  },
+  {
     "title": "Tavernes – Valencia | “Quedamos a las cinco y media en el bar Avenida, un café y a Mestalla”",
     "url": "https://www.marca.com/futbol/copa-rey/2026/11/10/tavernes-valencia-quedamos-cinco-media-bar-avenida-cafe-mestalla.html",
     "summary": "Edu Palomares ‘Tomaca’ mantiene la rutina de un equipo de sexta categoría para la noche más grande del Tavernes • “Creo que el pueblo se va a quedar vacío”",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AKcvWGAHMFzGEWfZS6iKlt3"
-    }
-  },
-  {
-    "title": "Jugadores que dijeron “no” al Barça",
-    "url": "https://as.com/futbol/fotorrelato/jugadores-que-dijeron-no-al-barca-f202611-f/",
-    "summary": "Descubre en este fotorrelato algunos jugadores que prefirieron fichar por otro equipo antes que recaer en las filas del club culé.",
-    "published": "Fri, 06 Nov 2026 21:18:36 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IOXOJ2VSN5FZRB5IZWUCAL5DPQ.jpg?auth=33c6b55d4e79d1b11ec2597bd70a88d571c1a1910b6adb492cc025dc49d8ca5b",
-    "media_type": "image/jpeg",
-    "arabic_title": "اللاعبون الذين قالوا \"لا\" للبارسا",
-    "arabic_summary": "اكتشف في هذه القصة المصورة بعض اللاعبين الذين فضلوا التوقيع لفريق آخر بدلاً من العودة إلى صفوف نادي culé.",
-    "translation_status": "translated",
-    "post_title": "اللاعبون الذين قالوا \"لا\" للبارسا",
-    "post_text": "🚨 اللاعبون الذين قالوا \"لا\" للبارسا\n\n📝 اكتشف في هذه القصة المصورة بعض اللاعبين الذين فضلوا التوقيع لفريق آخر بدلاً من العودة إلى صفوف نادي culé.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100477195950924",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اللاعبون_الذين_قالوا_لا_للبارسا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/fotorrelato/jugadores-que-dijeron-no-al-barca-f202611-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfrM6UXMT5mFPVh7k2gI3HO"
     }
   }
 ]
