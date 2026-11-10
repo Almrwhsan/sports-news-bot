@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cucurella: \"No creo que Diomande me ayude más que Vinicius, pero se ve más\"",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/10/cucurella-creo-diomande-me-ayude-vinicius-ve.html",
+    "summary": "El lateral izquierdo del Madrid y de la Selección defiende al brasileño",
+    "published": "Tue, 10 Nov 2026 00:58:32 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af25941d129d.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كوكوريلا: \"لا أعتقد أن ديوماندي ساعدني أكثر من فينيسيوس، لكن يبدو أكثر\"",
+    "arabic_summary": "الظهير الأيسر لريال مدريد والمنتخب الوطني يدافع عن البرازيلي",
+    "translation_status": "translated",
+    "post_title": "كوكوريلا: \"لا أعتقد أن ديوماندي ساعدني أكثر من فينيسيوس، لكن يبدو أكثر\"",
+    "post_text": "🚨 كوكوريلا: \"لا أعتقد أن ديوماندي ساعدني أكثر من فينيسيوس، لكن يبدو أكثر\"\n\n📝 الظهير الأيسر لريال مدريد والمنتخب الوطني يدافع عن البرازيلي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104208098911167",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوكوريلا_لا_أعتقد_أن_ديوماندي_ساعدني_أكثر_من_فينيسيوس،_لكن_يبدو_أكثر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/10/cucurella-creo-diomande-me-ayude-vinicius-ve.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIC_CbB1VH5WIO_Xo6ZNeRJ"
+    }
+  },
+  {
     "title": "Bellingham a Pepelu: \"A mí me da igual el Balón de Oro, no me importa\"",
     "url": "https://www.marca.com/futbol/primera-division/2026/11/09/bellingham-pepelu-mi-me-da-igual-balon-oro-me-importa.html",
     "summary": "El centrocampista del Real Madrid se revolvió en una guerra dialéctica con Maffeo y Pepelu",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AMap8UyPBUlJ4ZlpfNO6ZCr"
-    }
-  },
-  {
-    "title": "Anselmi: “No nos define un resultado, sino lo que desarrollamos en el campo”",
-    "url": "https://www.marca.com/futbol/elche/2026/11/06/anselmi-define-resultado-desarrollamos-campo.html",
-    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
-    "published": "Fri, 06 Nov 2026 13:40:16 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/30/6ae48f73377f4.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أنسيلمي: \"لا يتم تحديدنا بالنتيجة، بل بما نطوره على أرض الملعب\"",
-    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
-    "translation_status": "translated",
-    "post_title": "أنسيلمي: \"لا يتم تحديدنا بالنتيجة، بل بما نطوره على أرض الملعب\"",
-    "post_text": "🚨 أنسيلمي: \"لا يتم تحديدنا بالنتيجة، بل بما نطوره على أرض الملعب\"\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100475779284399",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنسيلمي_لا_يتم_تحديدنا_بالنتيجة،_بل_بما_نطوره_على_أرض_الملعب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/elche/2026/11/06/anselmi-define-resultado-desarrollamos-campo.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A2moIgbCeDD0ZCRMs7uJUAf"
     }
   }
 ]
