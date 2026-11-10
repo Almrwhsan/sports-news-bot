@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sabadell - Real Sociedad B en directo | Última hora de LALIGA Hypermotion en vivo hoy",
+    "url": "https://www.marca.com/futbol/segunda-division/2026/11/09/01-0102-20261109-2504-3567.html",
+    "summary": "",
+    "published": "Mon, 09 Nov 2026 19:00:00 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "ساباديل - ريال سوسيداد ب مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "ساباديل - ريال سوسيداد ب مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
+    "post_text": "🚨 ساباديل - ريال سوسيداد ب مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104105008921476",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساباديل_-_ريال_سوسيداد_ب_مباشر_الأخبار_العاجلة_من_LALIGA_Hypermotion_مباشرة_اليو.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcQprrFlrONrMXfhITqughI"
+    }
+  },
+  {
     "title": "Las Palmas - Eldense en directo | Última hora de LALIGA Hypermotion en vivo hoy",
     "url": "https://www.marca.com/futbol/segunda-division/2026/11/09/01-0102-20261109-407-10182.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOq35LIoAxJfp1nSejSLtzS"
-    }
-  },
-  {
-    "title": "Hugo Burcio: “El partido de Europa nos va a ayudar para los siguientes”",
-    "url": "https://www.marca.com/futbol/celta/2026/11/06/hugo-burcio-partido-europa-ayudar-siguientes.html",
-    "summary": "El canterano sigue acumulando minutos con el primer equipo",
-    "published": "Fri, 06 Nov 2026 10:18:39 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa7b6fbd61ec.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "هوغو بورسيو: \"الحزب الأوروبي سيساعدنا في المراحل القادمة\"",
-    "arabic_summary": "يواصل فريق الشباب تجميع الدقائق مع الفريق الأول",
-    "translation_status": "translated",
-    "post_title": "هوغو بورسيو: \"الحزب الأوروبي سيساعدنا في المراحل القادمة\"",
-    "post_text": "🚨 هوغو بورسيو: \"الحزب الأوروبي سيساعدنا في المراحل القادمة\"\n\n📝 يواصل فريق الشباب تجميع الدقائق مع الفريق الأول\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100304969301480",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هوغو_بورسيو_الحزب_الأوروبي_سيساعدنا_في_المراحل_القادمة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/celta/2026/11/06/hugo-burcio-partido-europa-ayudar-siguientes.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoRErWOHq4LpIl4FRi-4kC8"
     }
   }
 ]
