@@ -1,5 +1,39 @@
 [
   {
+    "title": "England Lions hit record score as McKinney runs riot",
+    "url": "https://www.skysports.com/cricket/news/12040/13610446/england-lions-hit-their-highest-list-a-cricket-score-of-487-5-as-durhams-ben-mckinney-smashes-145-from-65-balls",
+    "summary": "England Lions thumped their highest List A score of all time as they piled on 487-5 from 50 overs against West Indies A in the second unofficial ODI in St Kitts.",
+    "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-ben-mckinney-list-a-50-over-cricket_7402644.jpg?20261110064328",
+    "media_type": "image/jpg",
+    "arabic_title": "حققت إنجلترا ليونز رقمًا قياسيًا بينما يقوم ماكيني بأعمال الشغب",
+    "arabic_summary": "حطمت إنجلترا الأسود أعلى نتيجة لها في القائمة \"أ\" على الإطلاق حيث تراكمت 487-5 من 50 زيادة ضد جزر الهند الغربية \"أ\" في ثاني مباراة ODI غير رسمية في سانت كيتس.",
+    "translation_status": "translated",
+    "post_title": "حققت إنجلترا ليونز رقمًا قياسيًا بينما يقوم ماكيني بأعمال الشغب",
+    "post_text": "🚨 حققت إنجلترا ليونز رقمًا قياسيًا بينما يقوم ماكيني بأعمال الشغب\n\n📝 حطمت إنجلترا الأسود أعلى نتيجة لها في القائمة \"أ\" على الإطلاق حيث تراكمت 487-5 من 50 زيادة ضد جزر الهند الغربية \"أ\" في ثاني مباراة ODI غير رسمية في سانت كيتس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104108955587748",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حققت_إنجلترا_ليونز_رقمًا_قياسيًا_بينما_يقوم_ماكيني_بأعمال_الشغب.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/news/12040/13610446/england-lions-hit-their-highest-list-a-cricket-score-of-487-5-as-durhams-ben-mckinney-smashes-145-from-65-balls",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApUJ-H3jom-FVvMWtqWnKoe"
+    }
+  },
+  {
     "title": "Sabadell - Real Sociedad B en directo | Última hora de LALIGA Hypermotion en vivo hoy",
     "url": "https://www.marca.com/futbol/segunda-division/2026/11/09/01-0102-20261109-2504-3567.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4dzc7r2unx_lPQhTSR7j7i"
-    }
-  },
-  {
-    "title": "La lista de Luis de la Fuente, en directo | Última hora de la convocatoria de la Selección Española hoy, en vivo",
-    "url": "https://www.marca.com/futbol/seleccion/2026/11/06/6aed94db5660fba9ddd24a14.html",
-    "summary": "El seleccionador nacional afronta los duelos ante República Checa e Inglaterra",
-    "published": "Fri, 06 Nov 2026 10:18:29 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/DCnR8lLAeZ0.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "قائمة لويس دي لا فوينتي مباشر | اللحظة الأخيرة من مكالمة المنتخب الإسباني اليوم مباشر",
-    "arabic_summary": "ويخوض المدرب الوطني مواجهتين أمام التشيك وإنجلترا",
-    "translation_status": "translated",
-    "post_title": "قائمة لويس دي لا فوينتي مباشر | اللحظة الأخيرة من مكالمة المنتخب الإسباني اليوم مباشر",
-    "post_text": "🚨 قائمة لويس دي لا فوينتي مباشر | اللحظة الأخيرة من مكالمة المنتخب الإسباني اليوم مباشر\n\n📝 ويخوض المدرب الوطني مواجهتين أمام التشيك وإنجلترا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100304879301489",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قائمة_لويس_دي_لا_فوينتي_مباشر_اللحظة_الأخيرة_من_مكالمة_المنتخب_الإسباني_اليوم_مب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/06/6aed94db5660fba9ddd24a14.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AOq35LIoAxJfp1nSejSLtzS"
     }
   }
 ]
