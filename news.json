@@ -1,5 +1,39 @@
 [
   {
+    "title": "La baza Ancelotti de Vinicius para frenar la ‘amenaza’ Diomande",
+    "url": "https://as.com/futbol/videos/la-baza-ancelotti-de-vinicius-para-frenar-la-amenaza-diomande-f202611-v/",
+    "summary": "La temporada para Vinicius no ha comenzado de la mejor manera posible. El brasileño, que regresará a la dinámica del Real Madrid en LaLiga tras el parón internacional, ha visto como Diomande amenaza su lugar en el equipo titular de Mourinho. Desde Brasil son optimistas con su compatriota y confían en que Ancelotti pueda ayudar al ‘7’ del Madrid a recuperar su mejor versión.",
+    "published": "Tue, 10 Nov 2026 06:19:18 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IIMGA3Y34FAAPLNOTS6YIWVTLQ.png?auth=a21d0b907ca1b272a77b25af7f785a5dd2aeb8e914927010e72463cade1488d2",
+    "media_type": "application/octet-stream",
+    "arabic_title": "أصول فينيسيوس أنشيلوتي لوقف \"تهديد\" ديوماندي",
+    "arabic_summary": "موسم فينيسيوس لم يبدأ بأفضل طريقة ممكنة. البرازيلي، الذي سيعود إلى ديناميكية ريال مدريد في الدوري الإسباني بعد فترة التوقف الدولية، رأى كيف يهدد ديوماندي مكانه في فريق مورينيو الأساسي. من البرازيل، إنهم متفائلون بشأن مواطنهم ويثقون في أن أنشيلوتي يمكنه مساعدة ريال مدريد رقم 7 على استعادة أفضل نسخة له.",
+    "translation_status": "translated",
+    "post_title": "أصول فينيسيوس أنشيلوتي لوقف \"تهديد\" ديوماندي",
+    "post_text": "🚨 أصول فينيسيوس أنشيلوتي لوقف \"تهديد\" ديوماندي\n\n📝 موسم فينيسيوس لم يبدأ بأفضل طريقة ممكنة. البرازيلي، الذي سيعود إلى ديناميكية ريال مدريد في الدوري الإسباني بعد فترة التوقف الدولية، رأى كيف يهدد ديوماندي مكانه في فريق مورينيو الأساسي. من البرازيل، إنهم متفائلون بشأن مواطنهم ويثقون في أن أنشيلوتي يمكنه مساعدة ريال مدريد رقم 7 على استعادة أفضل نسخة له.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104575788874398",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أصول_فينيسيوس_أنشيلوتي_لوقف_تهديد_ديوماندي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/videos/la-baza-ancelotti-de-vinicius-para-frenar-la-amenaza-diomande-f202611-v/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARL-xFk3v2FMAZY0L3exGlf"
+    }
+  },
+  {
     "title": "'El pistolero' enfunda para siempre: Roger Martí se retira del fútbol",
     "url": "https://www.marca.com/futbol/levante/2026/11/10/pistolero-enfunda-siempre-roger-marti-retira-futbol.html",
     "summary": "El delantero valenciano cuelga las botas a los 35 años de edad tras pasar por Levante, Cádiz, Elche, Real Valladolid y Real Zaragoza",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASWaKD71A5XhA4hi5ovxznF"
-    }
-  },
-  {
-    "title": "Kepa vuelve a San Mamés con la selección de Euskadi",
-    "url": "https://www.marca.com/futbol/2026/11/06/kepa-vuelve-san-mames-seleccion-euskadi.html",
-    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
-    "published": "Fri, 06 Nov 2026 20:48:08 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aee2ed83f291.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعود كيبا إلى سان ماميس مع فريق أوسكادي",
-    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
-    "translation_status": "translated",
-    "post_title": "يعود كيبا إلى سان ماميس مع فريق أوسكادي",
-    "post_text": "🚨 يعود كيبا إلى سان ماميس مع فريق أوسكادي\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101069905891653",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_كيبا_إلى_سان_ماميس_مع_فريق_أوسكادي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/11/06/kepa-vuelve-san-mames-seleccion-euskadi.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-s9vGx2TPgodELCFuGXRkJ"
     }
   }
 ]
