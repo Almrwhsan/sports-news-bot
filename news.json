@@ -1,5 +1,39 @@
 [
   {
+    "title": "Christensen renuncia, entre lágrimas, a Dinamarca porque \"no está preparado\"",
+    "url": "https://www.marca.com/futbol/barcelona/2026/11/10/christensen-renuncia-lagrimas-dinamarca-preparado.html",
+    "summary": "El seleccionador del país nórdico desvela la difícil situación del central del Barça",
+    "published": "Tue, 10 Nov 2026 10:56:24 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/20/6aafa6e1e0cdf.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كريستنسن يستقيل من الدنمارك وهو يبكي لأنه \"غير جاهز\"",
+    "arabic_summary": "يكشف مدرب الدولة الاسكندنافية عن الوضع الصعب الذي يواجهه قلب دفاع برشلونة",
+    "translation_status": "translated",
+    "post_title": "كريستنسن يستقيل من الدنمارك وهو يبكي لأنه \"غير جاهز\"",
+    "post_text": "🚨 كريستنسن يستقيل من الدنمارك وهو يبكي لأنه \"غير جاهز\"\n\n📝 يكشف مدرب الدولة الاسكندنافية عن الوضع الصعب الذي يواجهه قلب دفاع برشلونة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104393188892658",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كريستنسن_يستقيل_من_الدنمارك_وهو_يبكي_لأنه_غير_جاهز.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/10/christensen-renuncia-lagrimas-dinamarca-preparado.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A20If-N3z94t6-9HQGfWEh3"
+    }
+  },
+  {
     "title": "FIFA visita el Camp Nou, candidato a sede para la final del Mundial 2030",
     "url": "https://as.com/futbol/mundial/fifa-visita-el-camp-nou-candidato-a-sede-para-la-final-del-mundial-2030-f202611-n/",
     "summary": "La delegación del organismo ha continuado su ronda de viajes en el estadio del Barça, que es uno de los posibles estadios que podrían albergar el partido por el título junto al Bernabéu y Casablanca.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUHTYSD2s9kRluRJHaPhkbJ"
-    }
-  },
-  {
-    "title": "Raba vivió la explosión de Diomande muy de cerca",
-    "url": "https://as.com/futbol/primera/raba-vivio-la-explosion-de-diomande-muy-de-cerca-f202611-n/",
-    "summary": "El cántabro y el costamarfileño coincidieron en el Leganés. “Este futbolista es muy bueno”, desveló el actual jugador del Valencia. Mestalla les reencuentra.",
-    "published": "Fri, 06 Nov 2026 16:45:33 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6QYE5EUOQFCR7BRUGJEC274XYA.jpg?auth=fe972aef584b35bc8e56aebc7c496042eab00bcba447477e5799e87762625b0f",
-    "media_type": "image/jpeg",
-    "arabic_title": "شهدت رابا انفجار ديوماندي عن كثب",
-    "arabic_summary": "تزامنت مباراة كانتابريا وساحل العاج في ليجانيس. وكشف لاعب فالنسيا الحالي: \"لاعب كرة القدم هذا جيد جدًا\". يلتقي بهم ميستايا مرة أخرى.",
-    "translation_status": "translated",
-    "post_title": "شهدت رابا انفجار ديوماندي عن كثب",
-    "post_text": "🚨 شهدت رابا انفجار ديوماندي عن كثب\n\n📝 تزامنت مباراة كانتابريا وساحل العاج في ليجانيس. وكشف لاعب فالنسيا الحالي: \"لاعب كرة القدم هذا جيد جدًا\". يلتقي بهم ميستايا مرة أخرى.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100853315913312",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شهدت_رابا_انفجار_ديوماندي_عن_كثب.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/raba-vivio-la-explosion-de-diomande-muy-de-cerca-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZd7T2FNMJd8M6wanktAAlD"
     }
   }
 ]
