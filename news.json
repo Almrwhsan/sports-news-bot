@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bellingham a Pepelu: \"A mí me da igual el Balón de Oro, no me importa\"",
+    "url": "https://www.marca.com/futbol/primera-division/2026/11/09/bellingham-pepelu-mi-me-da-igual-balon-oro-me-importa.html",
+    "summary": "El centrocampista del Real Madrid se revolvió en una guerra dialéctica con Maffeo y Pepelu",
+    "published": "Mon, 09 Nov 2026 23:55:37 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af24f5d592f5.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بيلينجهام لبيبلو: \"أنا لا أهتم بالكرة الذهبية، لا أهتم\"",
+    "arabic_summary": "دخل لاعب خط وسط ريال مدريد في حرب كلامية مع مافيو وبيبيلو",
+    "translation_status": "translated",
+    "post_title": "بيلينجهام لبيبلو: \"أنا لا أهتم بالكرة الذهبية، لا أهتم\"",
+    "post_text": "🚨 بيلينجهام لبيبلو: \"أنا لا أهتم بالكرة الذهبية، لا أهتم\"\n\n📝 دخل لاعب خط وسط ريال مدريد في حرب كلامية مع مافيو وبيبيلو\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104201415578502",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيلينجهام_لبيبلو_أنا_لا_أهتم_بالكرة_الذهبية،_لا_أهتم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/2026/11/09/bellingham-pepelu-mi-me-da-igual-balon-oro-me-importa.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZE1fH9b7Cl9BMO8Xs2UyTI"
+    }
+  },
+  {
     "title": "Visita sorpresa de los 'vampiros' a Las Rozas",
     "url": "https://www.marca.com/futbol/seleccion/2026/11/09/visita-sorpresa-vampiros-rozas.html",
     "summary": "Seis jugadores se sometieron a un control antidopaje.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A2moIgbCeDD0ZCRMs7uJUAf"
-    }
-  },
-  {
-    "title": "Javier Aguirre: \"Mbappé tiene un uno contra uno indefendible\"",
-    "url": "https://www.marca.com/futbol/valencia/2026/11/06/javier-aguirre-mbappe-indefendible.html",
-    "summary": "El entrenador del Valencia trabaja para que su equipo encuentre la fórmula para frenar a un Real Madrid que llega a Mestalla en una racha espectacular",
-    "published": "Fri, 06 Nov 2026 13:48:19 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/gh7rU1gxU4vdDFaRF.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "خافيير أغيري: \"مبابي لديه مواجهة لا يمكن الدفاع عنها\"",
-    "arabic_summary": "يعمل مدرب فالنسيا حتى يجد فريقه الصيغة اللازمة لإيقاف ريال مدريد الذي يصل إلى ميستايا بخط مذهل",
-    "translation_status": "translated",
-    "post_title": "خافيير أغيري: \"مبابي لديه مواجهة لا يمكن الدفاع عنها\"",
-    "post_text": "🚨 خافيير أغيري: \"مبابي لديه مواجهة لا يمكن الدفاع عنها\"\n\n📝 يعمل مدرب فالنسيا حتى يجد فريقه الصيغة اللازمة لإيقاف ريال مدريد الذي يصل إلى ميستايا بخط مذهل\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100475865951057",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خافيير_أغيري_مبابي_لديه_مواجهة_لا_يمكن_الدفاع_عنها.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/valencia/2026/11/06/javier-aguirre-mbappe-indefendible.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1OsCzDSfiIsDRI0ww3Lhri"
     }
   }
 ]
