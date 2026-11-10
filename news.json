@@ -1,5 +1,39 @@
 [
   {
+    "title": "Poca aportación de los fichajes",
+    "url": "https://www.marca.com/futbol/celta/2026/11/10/poca-aportacion-fichajes.html",
+    "summary": "No han conseguido elevar el nivel de la plantilla",
+    "published": "Tue, 10 Nov 2026 10:55:58 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af2e96eb6478.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مساهمة قليلة من التوقيعات",
+    "arabic_summary": "لم يتمكنوا من رفع مستوى الموظفين",
+    "translation_status": "translated",
+    "post_title": "مساهمة قليلة من التوقيعات",
+    "post_text": "🚨 مساهمة قليلة من التوقيعات\n\n📝 لم يتمكنوا من رفع مستوى الموظفين\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104385608893416",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مساهمة_قليلة_من_التوقيعات.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/celta/2026/11/10/poca-aportacion-fichajes.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A_bCG_0bFNbO-nlZ98DJkMz"
+    }
+  },
+  {
     "title": "La Real, segunda entre parón y parón",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/11/10/real-segunda-paron-paron.html",
     "summary": "El equipo txuriurdin ha sumado 12 de los 15 puntos disputados, sólo menos que el Real Madrid, y abre hueco en la clasificación con algunos de sus rivales por Europa",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-7vWiVNpa38Zjsiea4JeqN"
-    }
-  },
-  {
-    "title": "El Madrid se asegura un muro: Castaño renueva hasta 2030",
-    "url": "https://as.com/futbol/el-madrid-se-asegura-un-muro-castano-renueva-hasta-2030-f202611-n/",
-    "summary": "El central avilesino, de 17 años, es un proyecto de mucho futuro de La Fábrica. Madridista de carné, ya aparece en la dinámica del Juvenil A de los récords.",
-    "published": "Fri, 06 Nov 2026 16:31:12 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MD4CEHHOMJD4DPEQLRLA74S2ME.jpeg?auth=a51329517b4547788bc74ab9879f8f88a0d3e272cdb0cf963d847f0fe8ecad5e",
-    "media_type": "image/jpeg",
-    "arabic_title": "مدريد يؤمن جدارًا: كاستانيو يجدد حتى عام 2030",
-    "arabic_summary": "يعد مصنع Aviles البالغ من العمر 17 عامًا مشروعًا له مستقبل عظيم لشركة La Fábrica. مدريديستا يحمل البطاقة، وقد ظهر بالفعل في ديناميكيات السجلات في Juvenil A.",
-    "translation_status": "translated",
-    "post_title": "مدريد يؤمن جدارًا: كاستانيو يجدد حتى عام 2030",
-    "post_text": "🚨 مدريد يؤمن جدارًا: كاستانيو يجدد حتى عام 2030\n\n📝 يعد مصنع Aviles البالغ من العمر 17 عامًا مشروعًا له مستقبل عظيم لشركة La Fábrica. مدريديستا يحمل البطاقة، وقد ظهر بالفعل في ديناميكيات السجلات في Juvenil A.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100806189251358",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مدريد_يؤمن_جدارًا_كاستانيو_يجدد_حتى_عام_2030.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/el-madrid-se-asegura-un-muro-castano-renueva-hasta-2030-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKJ2n_YhvP44lOzexpGFk3I"
     }
   }
 ]
