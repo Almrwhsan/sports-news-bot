@@ -1,5 +1,39 @@
 [
   {
+    "title": "Felicia Schröder es de oro",
+    "url": "https://as.com/futbol/femenino/felicia-schroder-es-de-oro-f202611-n/",
+    "summary": "La delantera del Real Madrid, campeona de la Europa Cup con el Häcken, es reconocida con el Golden Girl 2026 después de quedar quinta en el Trofeo Kopa.",
+    "published": "Mon, 09 Nov 2026 15:26:46 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/E5CC74K3IBAINECISSUW4DWZCQ.jpg?auth=a7e44b816e0c66a752fa423e630eecfe900031b50beefd9601611825fde5b846",
+    "media_type": "image/jpeg",
+    "arabic_title": "فيليسيا شرودر ذهبية",
+    "arabic_summary": "فازت مهاجمة ريال مدريد، بطلة كأس أوروبا مع هاكن، بجائزة الفتاة الذهبية 2026 بعد حصولها على المركز الخامس في كأس كوبا.",
+    "translation_status": "translated",
+    "post_title": "فيليسيا شرودر ذهبية",
+    "post_text": "🚨 فيليسيا شرودر ذهبية\n\n📝 فازت مهاجمة ريال مدريد، بطلة كأس أوروبا مع هاكن، بجائزة الفتاة الذهبية 2026 بعد حصولها على المركز الخامس في كأس كوبا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104420495556594",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيليسيا_شرودر_ذهبية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/femenino/felicia-schroder-es-de-oro-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVTfggvr_xp0_w3ADuxHPm6"
+    }
+  },
+  {
     "title": "Sinner aiming for Australian Open return",
     "url": "https://www.skysports.com/tennis/news/12040/13610594/jannik-sinner-world-no-2-confirms-aim-to-return-to-tennis-at-australian-open-after-lengthy-absence-with-knee-injury",
     "summary": "Jannik Sinner has confirmed he plans to compete at the Australian Open in January.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AmWhfrcgfJ91zVzbjCJhUUF"
-    }
-  },
-  {
-    "title": "“Ojalá tuviésemos muchos Iñakis en el Athletic”",
-    "url": "https://as.com/futbol/ojala-tuviesemos-muchos-inakis-en-el-athletic-f202611-n/",
-    "summary": "Suances, su primer entrenador en Lezama, y sus excompañeros De Eguino, Santamaría y Bengoa hablan sobre la carrera del capitán y si lo ven más de extremo o delantero.",
-    "published": "Fri, 06 Nov 2026 23:04:28 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/RET7GLM2PNMUJFKGURG5LK2MNM.jpg?auth=f6576119bdac0199c3b7f908dae64d85dafa9fa0ac8b0f689c729aa987a69bc8",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"أتمنى أن يكون لدينا العديد من الإيناكيين في أتلتيك\"",
-    "arabic_summary": "يتحدث سوانسس، مدربه الأول في ليزاما، وزملاؤه السابقون دي إيجوينو وسانتاماريا وبينجوا عن مسيرة الكابتن وما إذا كانوا يرونه كجناح أم مهاجم.",
-    "translation_status": "translated",
-    "post_title": "\"أتمنى أن يكون لدينا العديد من الإيناكيين في أتلتيك\"",
-    "post_text": "🚨 \"أتمنى أن يكون لدينا العديد من الإيناكيين في أتلتيك\"\n\n📝 يتحدث سوانسس، مدربه الأول في ليزاما، وزملاؤه السابقون دي إيجوينو وسانتاماريا وبينجوا عن مسيرة الكابتن وما إذا كانوا يرونه كجناح أم مهاجم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100899192575391",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أتمنى_أن_يكون_لدينا_العديد_من_الإيناكيين_في_أتلتيك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/ojala-tuviesemos-muchos-inakis-en-el-athletic-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWe9eS6qz0AE4tCEcXfdxgm"
     }
   }
 ]
