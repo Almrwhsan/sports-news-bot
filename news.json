@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los 9, señalados",
+    "url": "https://www.marca.com/futbol/atletico/2026/11/09/9-senalados.html",
+    "summary": "Los delanteros del Atlético, cinco goles en toda la temporada, quedan retratados en las dos últimas derrotas ante Bayern y Barça.",
+    "published": "Mon, 09 Nov 2026 16:28:44 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1bcd73da70.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وأشار الـ9",
+    "arabic_summary": "مهاجمو أتلتيكو، الذين سجلوا خمسة أهداف طوال الموسم، انعكسوا في الهزيمتين الأخيرتين أمام بايرن وبرشلونة.",
+    "translation_status": "translated",
+    "post_title": "وأشار الـ9",
+    "post_text": "🚨 وأشار الـ9\n\n📝 مهاجمو أتلتيكو، الذين سجلوا خمسة أهداف طوال الموسم، انعكسوا في الهزيمتين الأخيرتين أمام بايرن وبرشلونة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104062652259045",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وأشار_الـ9.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/11/09/9-senalados.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxXwqsFE4ZBr-scddYeJOL3"
+    }
+  },
+  {
     "title": "Why a thrilling F1 era beckons after Mercedes' title double",
     "url": "https://www.skysports.com/f1/news/12040/13610252/why-a-thrilling-era-beckons-for-f1-despite-mercedes-starting-new-era-with-dominant-title-double-for-kimi-antonelli-and-team",
     "summary": "Mercedes have begun Formula 1's latest generation of rules with a dominant title double, but all indications suggest the sport could be in for a thrilling era of competition.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFOfxnW4LH3tXr17BN5CnvC"
-    }
-  },
-  {
-    "title": "Forlán recupera a Valverde",
-    "url": "https://as.com/futbol/internacional/forlan-recupera-a-valverde-f202611-n/",
-    "summary": "Uruguay afrontará un nuevo parón internacional con la vuelta del centrocampista del Real Madrid. Vuelve tras su ausencia en septiembre-octubre.",
-    "published": "Fri, 06 Nov 2026 12:26:38 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7SOUEGMEZJLW7A5NPEH5CYMH44.jpg?auth=c88ec87cc2bccdbc313a07a3cbd2923c4e4d7843f3ff3c24152179638a29bac3",
-    "media_type": "image/jpeg",
-    "arabic_title": "فورلان يستعيد فالفيردي",
-    "arabic_summary": "ستواجه الأوروغواي فترة راحة دولية جديدة مع عودة لاعب خط وسط ريال مدريد. يعود بعد غيابه في سبتمبر وأكتوبر.",
-    "translation_status": "translated",
-    "post_title": "فورلان يستعيد فالفيردي",
-    "post_text": "🚨 فورلان يستعيد فالفيردي\n\n📝 ستواجه الأوروغواي فترة راحة دولية جديدة مع عودة لاعب خط وسط ريال مدريد. يعود بعد غيابه في سبتمبر وأكتوبر.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100305609301416",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فورلان_يستعيد_فالفيردي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/forlan-recupera-a-valverde-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARz7ZVBoEhBs3youaJK5-ff"
     }
   }
 ]
