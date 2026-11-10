@@ -1,5 +1,39 @@
 [
   {
+    "title": "Las Palmas - Eldense en directo | Última hora de LALIGA Hypermotion en vivo hoy",
+    "url": "https://www.marca.com/futbol/segunda-division/2026/11/09/01-0102-20261109-407-10182.html",
+    "summary": "",
+    "published": "Mon, 09 Nov 2026 19:00:00 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "لاس بالماس - إلدينسي مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "لاس بالماس - إلدينسي مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم",
+    "post_text": "🚨 لاس بالماس - إلدينسي مباشر | الأخبار العاجلة من LALIGA Hypermotion مباشرة اليوم\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104101378921839",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لاس_بالماس_-_إلدينسي_مباشر_الأخبار_العاجلة_من_LALIGA_Hypermotion_مباشرة_اليوم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aw4KKno5FYD9yUVflY9H_6s"
+    }
+  },
+  {
     "title": "El Athletic blinda a Iker Monreal hasta 2029",
     "url": "https://www.marca.com/futbol/athletic/2026/11/09/athletic-blinda-iker-monreal-2029.html",
     "summary": "La ascensión del central de Pamplona ha sido muy rápida",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AoRErWOHq4LpIl4FRi-4kC8"
-    }
-  },
-  {
-    "title": "Makaay: \"No sé de cómo ficharon a Aubameyang o Giménez, pero el Deportivo pertenece a Primera\"",
-    "url": "https://www.marca.com/futbol/bundesliga/2026/11/06/makaay-ficharon-aubameyang-gimenez-deportivo-pertenece-primera.html",
-    "summary": "El ahora embajador del Bayern no olvida su paso por Riazor",
-    "published": "Fri, 06 Nov 2026 10:29:52 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed9cda9bdbe.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ماكاي: لا أعرف كيف تعاقدوا مع أوباميانج أو خيمينيز، لكن ديبورتيفو ينتمي إلى الدرجة الأولى",
-    "arabic_summary": "سفير بايرن الحالي لا ينسى الفترة التي قضاها في ريازور",
-    "translation_status": "translated",
-    "post_title": "ماكاي: لا أعرف كيف تعاقدوا مع أوباميانج أو خيمينيز، لكن ديبورتيفو ينتمي إلى الدرجة الأولى",
-    "post_text": "🚨 ماكاي: لا أعرف كيف تعاقدوا مع أوباميانج أو خيمينيز، لكن ديبورتيفو ينتمي إلى الدرجة الأولى\n\n📝 سفير بايرن الحالي لا ينسى الفترة التي قضاها في ريازور\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100305065968137",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماكاي_لا_أعرف_كيف_تعاقدوا_مع_أوباميانج_أو_خيمينيز،_لكن_ديبورتيفو_ينتمي_إلى_الدرج.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/bundesliga/2026/11/06/makaay-ficharon-aubameyang-gimenez-deportivo-pertenece-primera.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxNnS0fP8l_oX6PhZDUgm7c"
     }
   }
 ]
