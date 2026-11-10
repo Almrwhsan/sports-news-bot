@@ -1,5 +1,39 @@
 [
   {
+    "title": "FIFA visita el Camp Nou, candidato a sede para la final del Mundial 2030",
+    "url": "https://as.com/futbol/mundial/fifa-visita-el-camp-nou-candidato-a-sede-para-la-final-del-mundial-2030-f202611-n/",
+    "summary": "La delegación del organismo ha continuado su ronda de viajes en el estadio del Barça, que es uno de los posibles estadios que podrían albergar el partido por el título junto al Bernabéu y Casablanca.",
+    "published": "Mon, 09 Nov 2026 17:17:58 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZYTIMRGYRZHQBCPOQ6BDV2UWJQ.jpeg?auth=120233f1d8f4d6602143addd8897ea1f7fec046a7b505cbafaa2d838b64ca4a4",
+    "media_type": "image/jpeg",
+    "arabic_title": "الفيفا يزور كامب نو المرشح لاستضافة نهائي كأس العالم 2030",
+    "arabic_summary": "وواصل وفد المنظمة جولته من الرحلات إلى ملعب برشلونة، وهو أحد الملاعب المحتملة التي يمكن أن تستضيف مباراة اللقب إلى جانب ملعبي البرنابيو والدار البيضاء.",
+    "translation_status": "translated",
+    "post_title": "الفيفا يزور كامب نو المرشح لاستضافة نهائي كأس العالم 2030",
+    "post_text": "🚨 الفيفا يزور كامب نو المرشح لاستضافة نهائي كأس العالم 2030\n\n📝 وواصل وفد المنظمة جولته من الرحلات إلى ملعب برشلونة، وهو أحد الملاعب المحتملة التي يمكن أن تستضيف مباراة اللقب إلى جانب ملعبي البرنابيو والدار البيضاء.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1104389468893030",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الفيفا_يزور_كامب_نو_المرشح_لاستضافة_نهائي_كأس_العالم_2030.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/mundial/fifa-visita-el-camp-nou-candidato-a-sede-para-la-final-del-mundial-2030-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdRMGmNR4TqB5I3uGo37ivp"
+    }
+  },
+  {
     "title": "Poca aportación de los fichajes",
     "url": "https://www.marca.com/futbol/celta/2026/11/10/poca-aportacion-fichajes.html",
     "summary": "No han conseguido elevar el nivel de la plantilla",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZd7T2FNMJd8M6wanktAAlD"
-    }
-  },
-  {
-    "title": "Iñigo : “En ningún momento he notado un distanciamiento de la ilusión o de la confianza en mí por parte del club”",
-    "url": "https://www.marca.com/futbol/villarreal/2026/11/06/inigo-momento-he-notado-distanciamiento-ilusion-confianza-mi-parte-club.html",
-    "summary": "El técnico amarillo confía en revertir la situación a partir de este domingo ante el Getafe",
-    "published": "Fri, 06 Nov 2026 15:00:51 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8b55d1b55e.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "إنييجو: \"لم ألاحظ في أي وقت من الأوقات تباعدًا في حماس النادي أو ثقته بي\"",
-    "arabic_summary": "ويأمل المدرب الأصفر أن يقلب الوضع الأمور رأساً على عقب بدءاً من يوم الأحد أمام خيتافي",
-    "translation_status": "translated",
-    "post_title": "إنييجو: \"لم ألاحظ في أي وقت من الأوقات تباعدًا في حماس النادي أو ثقته بي\"",
-    "post_text": "🚨 إنييجو: \"لم ألاحظ في أي وقت من الأوقات تباعدًا في حماس النادي أو ثقته بي\"\n\n📝 ويأمل المدرب الأصفر أن يقلب الوضع الأمور رأساً على عقب بدءاً من يوم الأحد أمام خيتافي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1100812225917421",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنييجو_لم_ألاحظ_في_أي_وقت_من_الأوقات_تباعدًا_في_حماس_النادي_أو_ثقته_بي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/villarreal/2026/11/06/inigo-momento-he-notado-distanciamiento-ilusion-confianza-mi-parte-club.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-7vWiVNpa38Zjsiea4JeqN"
     }
   }
 ]
