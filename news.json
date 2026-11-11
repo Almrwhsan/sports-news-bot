@@ -1,5 +1,39 @@
 [
   {
+    "title": "Every goal from the Women's Super League - matchweek nine",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss",
+    "summary": "Watch every goal from across the WSL in matchweek nine, from a London City Lionesses first-half wonder goal to Khadija Shaw's first hat-trick of the Women's Super League season.",
+    "published": "Mon, 09 Nov 2026 15:25:55 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdc/live/037938d0-dc4b-11f1-93e1-3b657b665bcf.jpg",
+    "media_type": null,
+    "arabic_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة التاسعة",
+    "arabic_summary": "شاهد كل الأهداف من جميع أنحاء دوري WSL في الجولة التاسعة، بدءًا من الهدف الرائع الذي سجله فريق London City Lioneses في الشوط الأول وحتى أول ثلاثية لخديجة شاو في موسم الدوري الممتاز للسيدات.",
+    "translation_status": "translated",
+    "post_title": "جميع أهداف الدوري الممتاز للسيدات - الجولة التاسعة",
+    "post_text": "🚨 جميع أهداف الدوري الممتاز للسيدات - الجولة التاسعة\n\n📝 شاهد كل الأهداف من جميع أنحاء دوري WSL في الجولة التاسعة، بدءًا من الهدف الرائع الذي سجله فريق London City Lioneses في الشوط الأول وحتى أول ثلاثية لخديجة شاو في موسم الدوري الممتاز للسيدات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105156375483006",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جميع_أهداف_الدوري_الممتاز_للسيدات_-_الجولة_التاسعة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AazwcOQc0iN1znRvRDL1xNX"
+    }
+  },
+  {
     "title": "Bronze named in World 11 for record ninth time",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
     "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJC8pXJbsCWgUvFBLKleX_9"
-    }
-  },
-  {
-    "title": "El Celta paga su bisoñez ante el Burgos",
-    "url": "https://as.com/futbol/segunda/el-celta-paga-su-bisonez-ante-el-burgos-f202611-n/",
-    "summary": "Los blanquinegros sufrieron para remontar un gol inicial de Marín.",
-    "published": "Sat, 07 Nov 2026 15:58:18 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "سيلتا يدفع ثمن قلة خبرته ضد بورغوس",
-    "arabic_summary": "عانى الأسود والأبيض للتغلب على الهدف الأولي لمارين.",
-    "translation_status": "translated",
-    "post_title": "سيلتا يدفع ثمن قلة خبرته ضد بورغوس",
-    "post_text": "🚨 سيلتا يدفع ثمن قلة خبرته ضد بورغوس\n\n📝 عانى الأسود والأبيض للتغلب على الهدف الأولي لمارين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101292939202683",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيلتا_يدفع_ثمن_قلة_خبرته_ضد_بورغوس.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlX9I8xKbM9goCObgRZnytd"
     }
   }
 ]
