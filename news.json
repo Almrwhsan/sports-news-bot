@@ -1,5 +1,39 @@
 [
   {
+    "title": "\"Hablaremos con el Real Madrid, pero Jacobo Ramón se quedará en el Como el resto de la temporada\"",
+    "url": "https://www.marca.com/futbol/liga-italiana/2026/11/11/hablaremos-real-madrid-jacobo-ramon-quedara-resto-temporada.html",
+    "summary": "Carlalberto Ludi, director deportivo del Como, analizó en 'Calciomercato' la situación del central",
+    "published": "Wed, 11 Nov 2026 11:30:57 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/11/gq9hw1gz0EakceizH.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"سنتحدث مع ريال مدريد، لكن جاكوبو رامون سيبقى في كومو حتى نهاية الموسم\".",
+    "arabic_summary": "قام كارلالبرتو لودي، المدير الرياضي لكومو، بتحليل وضع قلب الدفاع في \"كالتشيو ميركاتو\".",
+    "translation_status": "translated",
+    "post_title": "\"سنتحدث مع ريال مدريد، لكن جاكوبو رامون سيبقى في كومو حتى نهاية الموسم\".",
+    "post_text": "🚨 \"سنتحدث مع ريال مدريد، لكن جاكوبو رامون سيبقى في كومو حتى نهاية الموسم\".\n\n📝 قام كارلالبرتو لودي، المدير الرياضي لكومو، بتحليل وضع قلب الدفاع في \"كالتشيو ميركاتو\".\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105708445427799",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سنتحدث_مع_ريال_مدريد،_لكن_جاكوبو_رامون_سيبقى_في_كومو_حتى_نهاية_الموسم..png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/liga-italiana/2026/11/11/hablaremos-real-madrid-jacobo-ramon-quedara-resto-temporada.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AB3zw8mxzhQJGo4z1W24GOr"
+    }
+  },
+  {
     "title": "Los Bellingham, por fin juntos: \"Jobe no va con Inglaterra por ser el hermano de Jude\"",
     "url": "https://www.marca.com/futbol/2026/11/11/bellingham-jobe-inglaterra-hermano-jude.html",
     "summary": "Los hermanos, convocados por Tuchel, podrían compartir equipo por primera vez",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AETwjpxGeJ76Ol3Q7hOX-fw"
-    }
-  },
-  {
-    "title": "Simeone: \"Julián está muy bien\"",
-    "url": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-julian-bien.html",
-    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
-    "published": "Sat, 07 Nov 2026 12:51:46 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/07/jG9Vd0w.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيميوني: \"جوليان جيد جدًا\"",
-    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
-    "translation_status": "translated",
-    "post_title": "سيميوني: \"جوليان جيد جدًا\"",
-    "post_text": "🚨 سيميوني: \"جوليان جيد جدًا\"\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101540545844589",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_جوليان_جيد_جدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-julian-bien.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcwHZiikdH2GXs_xF3dA66B"
     }
   }
 ]
