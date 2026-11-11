@@ -1,5 +1,39 @@
 [
   {
+    "title": "Golf leaderboards: DP World Tour Championship and more",
+    "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+    "summary": "Latest golf scores and results from around the world, including the DP World Tour Championship, PGA Tour, LPGA Tour and more.",
+    "published": "Mon, 09 Nov 2026 15:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-tyrrell-hatton-golf_7356860.jpg?20260920104158",
+    "media_type": "image/jpg",
+    "arabic_title": "لوحات المتصدرين للجولف: بطولة جولة موانئ دبي العالمية والمزيد",
+    "arabic_summary": "أحدث نتائج ونتائج لعبة الجولف من جميع أنحاء العالم، بما في ذلك بطولة جولة موانئ دبي العالمية، وجولة PGA، وجولة LPGA والمزيد.",
+    "translation_status": "translated",
+    "post_title": "لوحات المتصدرين للجولف: بطولة جولة موانئ دبي العالمية والمزيد",
+    "post_text": "🚨 لوحات المتصدرين للجولف: بطولة جولة موانئ دبي العالمية والمزيد\n\n📝 أحدث نتائج ونتائج لعبة الجولف من جميع أنحاء العالم، بما في ذلك بطولة جولة موانئ دبي العالمية، وجولة PGA، وجولة LPGA والمزيد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105784052086905",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لوحات_المتصدرين_للجولف_بطولة_جولة_موانئ_دبي_العالمية_والمزيد.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQRSi1iJlk7y1KHIVb5_Iq2"
+    }
+  },
+  {
     "title": "Australia dredge up past blunders as England learn from theirs",
     "url": "https://www.skysports.com/cricket/news/12040/13610678/england-learn-from-ashes-mistakes-ahead-of-odis-vs-australia-side-engulfed-by-usman-khawaja-sandpapergate-claims",
     "summary": "As Australia dredge up the past, England seem determined to learn from theirs.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_IoEjwTNPiMi6DeuhCf75p"
-    }
-  },
-  {
-    "title": "Ruedas de prensa de Simeone y Hansi Flick: previa del Atlético-Barcelona, en directo",
-    "url": "https://as.com/futbol/primera/ruedas-de-prensa-de-simeone-y-hansi-flick-previa-del-atletico-barcelona-en-directo-f202611-d/",
-    "summary": "Ruedas de prensa de Simeone y Hansi Flick: previa del Atlético-Barcelona, en directo",
-    "published": "Sat, 07 Nov 2026 12:31:06 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://www.youtube.com/watch?v=JLG2g9X3suI",
-    "media_type": "application/octet-stream",
-    "arabic_title": "المؤتمر الصحفي لسيميوني وهانسي فليك: معاينة مباراة أتلتيكو وبرشلونة، مباشرة",
-    "arabic_summary": "المؤتمر الصحفي لسيميوني وهانسي فليك: معاينة مباراة أتلتيكو وبرشلونة، مباشرة",
-    "translation_status": "translated",
-    "post_title": "المؤتمر الصحفي لسيميوني وهانسي فليك: معاينة مباراة أتلتيكو وبرشلونة، مباشرة",
-    "post_text": "🚨 المؤتمر الصحفي لسيميوني وهانسي فليك: معاينة مباراة أتلتيكو وبرشلونة، مباشرة\n\n📝 المؤتمر الصحفي لسيميوني وهانسي فليك: معاينة مباراة أتلتيكو وبرشلونة، مباشرة\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101617035836940",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لسيميوني_وهانسي_فليك_معاينة_مباراة_أتلتيكو_وبرشلونة،_مباشرة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/ruedas-de-prensa-de-simeone-y-hansi-flick-previa-del-atletico-barcelona-en-directo-f202611-d/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9HcBzQaBOH8hs2NPK2F5bE"
     }
   }
 ]
