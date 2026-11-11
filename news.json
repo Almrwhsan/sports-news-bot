@@ -1,5 +1,39 @@
 [
   {
+    "title": "Primera eliminatoria de la Copa del Rey | Ya hay 46 equipos clasificados",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/11/10/6af31ad6020dbf8b21663616.html",
+    "summary": "El Amorebieta protagonizó la sorpresa eliminando a un Primera Federación como la UD Logroñés",
+    "published": "Tue, 10 Nov 2026 17:01:15 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/17943174717658.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الجولة الأولى من كأس الملك | يوجد بالفعل 46 فريقًا مصنفًا",
+    "arabic_summary": "لعب أموريبيتا دور البطولة في المفاجأة من خلال القضاء على الاتحاد الأول مثل UD Logroñés",
+    "translation_status": "translated",
+    "post_title": "الجولة الأولى من كأس الملك | يوجد بالفعل 46 فريقًا مصنفًا",
+    "post_text": "🚨 الجولة الأولى من كأس الملك | يوجد بالفعل 46 فريقًا مصنفًا\n\n📝 لعب أموريبيتا دور البطولة في المفاجأة من خلال القضاء على الاتحاد الأول مثل UD Logroñés\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105192202146090",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الجولة_الأولى_من_كأس_الملك_يوجد_بالفعل_46_فريقًا_مصنفًا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/10/6af31ad6020dbf8b21663616.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AN5tWCQYPAmaEHjDYauxX5J"
+    }
+  },
+  {
     "title": "José Ignacio Navarro: \"Tenemos que mantener este ritmo de puntos\"",
     "url": "https://www.marca.com/futbol/sevilla/2026/11/10/jose-ignacio-navarro-mantener-ritmo-puntos.html",
     "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "At0b3s1qzreS5JBlW0KZiM0"
-    }
-  },
-  {
-    "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
-    "published": "Fri, 06 Nov 2026 21:08:04 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png",
-    "media_type": null,
-    "arabic_title": "ريال مدريد وباريس سان جيرمان حريصان على سوزوكي - ثرثرة يوم السبت",
-    "arabic_summary": "باريس سان جيرمان وريال مدريد مهتمان بحارس أستون فيلا زيون سوزوكي، وإنتر ميلان يفكر في ضم كريس ريتشاردز لاعب كريستال بالاس، بالإضافة إلى المزيد.",
-    "translation_status": "translated",
-    "post_title": "ريال مدريد وباريس سان جيرمان حريصان على سوزوكي - ثرثرة يوم السبت",
-    "post_text": "🚨 ريال مدريد وباريس سان جيرمان حريصان على سوزوكي - ثرثرة يوم السبت\n\n📝 باريس سان جيرمان وريال مدريد مهتمان بحارس أستون فيلا زيون سوزوكي، وإنتر ميلان يفكر في ضم كريس ريتشاردز لاعب كريستال بالاس، بالإضافة إلى المزيد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101292195869424",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_وباريس_سان_جيرمان_حريصان_على_سوزوكي_-_ثرثرة_يوم_السبت.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AIzJEQqxZbt9bFfTvkBg96E"
     }
   }
 ]
