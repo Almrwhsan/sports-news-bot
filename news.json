@@ -1,5 +1,39 @@
 [
   {
+    "title": "Australia dredge up past blunders as England learn from theirs",
+    "url": "https://www.skysports.com/cricket/news/12040/13610678/england-learn-from-ashes-mistakes-ahead-of-odis-vs-australia-side-engulfed-by-usman-khawaja-sandpapergate-claims",
+    "summary": "As Australia dredge up the past, England seem determined to learn from theirs.",
+    "published": "Wed, 11 Nov 2026 17:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-jofra-archer-harry-brook_7403640.jpg?20261111084805",
+    "media_type": "image/jpg",
+    "arabic_title": "أستراليا تصحح الأخطاء الفادحة الماضية بينما تتعلم إنجلترا من أخطائها",
+    "arabic_summary": "بينما تستعيد أستراليا ماضيها، تبدو إنجلترا عازمة على التعلم من ماضيها.",
+    "translation_status": "translated",
+    "post_title": "أستراليا تصحح الأخطاء الفادحة الماضية بينما تتعلم إنجلترا من أخطائها",
+    "post_text": "🚨 أستراليا تصحح الأخطاء الفادحة الماضية بينما تتعلم إنجلترا من أخطائها\n\n📝 بينما تستعيد أستراليا ماضيها، تبدو إنجلترا عازمة على التعلم من ماضيها.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105773725421271",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أستراليا_تصحح_الأخطاء_الفادحة_الماضية_بينما_تتعلم_إنجلترا_من_أخطائها.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/cricket/news/12040/13610678/england-learn-from-ashes-mistakes-ahead-of-odis-vs-australia-side-engulfed-by-usman-khawaja-sandpapergate-claims",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AGHNZgal3ZHQCQmiOnhT84m"
+    }
+  },
+  {
     "title": "Palace latest: Talks progressing for Frank to succeed Sage",
     "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9HcBzQaBOH8hs2NPK2F5bE"
-    }
-  },
-  {
-    "title": "La respuesta de Simeone sobre Julián antes del Barça: no pudo ser más contundente",
-    "url": "https://as.com/futbol/videos/la-respuesta-de-simeone-sobre-julian-antes-del-barca-no-pudo-ser-mas-contundente-f202611-v/",
-    "summary": "El entrenador del Atlético de Madrid fue preguntado por el delantero argentino antes de recibir al FC Barcelona.",
-    "published": "Sat, 07 Nov 2026 12:38:34 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261107/1235014_120239_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رد سيميوني على جوليان قبل برشلونة: لم يكن من الممكن أن يكون أكثر قوة",
-    "arabic_summary": "وسئل مدرب أتلتيكو مدريد عن المهاجم الأرجنتيني قبل استقبال برشلونة.",
-    "translation_status": "translated",
-    "post_title": "رد سيميوني على جوليان قبل برشلونة: لم يكن من الممكن أن يكون أكثر قوة",
-    "post_text": "🚨 رد سيميوني على جوليان قبل برشلونة: لم يكن من الممكن أن يكون أكثر قوة\n\n📝 وسئل مدرب أتلتيكو مدريد عن المهاجم الأرجنتيني قبل استقبال برشلونة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101617152503595",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رد_سيميوني_على_جوليان_قبل_برشلونة_لم_يكن_من_الممكن_أن_يكون_أكثر_قوة.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARs2TO46Ip7iJDqZ0Q2H6dq"
     }
   }
 ]
