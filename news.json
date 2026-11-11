@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jorge Martínez empieza a construir su sueño en el Leganés",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/11/11/jorge-martinez-empieza-construir-sueno-leganes.html",
+    "summary": "Su apuesta por salir del Madrid, recuperar sensaciones en Las Rozas y seguir creciendo empieza a dar sus frutos: debut con el primer equipo en la Copa del Rey",
+    "published": "Wed, 11 Nov 2026 11:00:48 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/11/6af43c8752ec9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يبدأ خورخي مارتينيز في بناء حلمه في ليغانيس",
+    "arabic_summary": "التزامه بمغادرة مدريد، واستعادة الأحاسيس في لاس روزاس والاستمرار في النمو بدأ يؤتي ثماره: الظهور الأول مع الفريق الأول في كأس الملك",
+    "translation_status": "translated",
+    "post_title": "يبدأ خورخي مارتينيز في بناء حلمه في ليغانيس",
+    "post_text": "🚨 يبدأ خورخي مارتينيز في بناء حلمه في ليغانيس\n\n📝 التزامه بمغادرة مدريد، واستعادة الأحاسيس في لاس روزاس والاستمرار في النمو بدأ يؤتي ثماره: الظهور الأول مع الفريق الأول في كأس الملك\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105660205432623",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يبدأ_خورخي_مارتينيز_في_بناء_حلمه_في_ليغانيس.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/11/jorge-martinez-empieza-construir-sueno-leganes.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AcdfpCfVdySXpoQyLHQ-eie"
+    }
+  },
+  {
     "title": "'Pretty brutal!' - Could new Grand Slam format cause more jeopardy?",
     "url": "https://www.skysports.com/watch/video/13611043/love-the-darts-podcast-could-new-grand-slam-format-cause-more-jeopardy",
     "summary": "Speaking on Love The Darts, Laura Turner and Chris Murphy discuss the new Grand Slam of Darts format and expanded field.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANU-pg1rfG2-jIZcRVxHIIX"
-    }
-  },
-  {
-    "title": "Giráldez convoca a todos los disponibles para enfrentarse al Levante",
-    "url": "https://www.marca.com/futbol/celta/2026/11/07/giraldez-convoca-todos-disponibles-enfrentarse-levante.html",
-    "summary": "Marcó el primer tanto, un golazo, de los célticos, que alcanzan la séptima plaza tras ocho jornadas sin perder",
-    "published": "Sat, 07 Nov 2026 14:21:32 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/21/6ad8fa4d954a9.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جيرالديز يستدعي كل الموجودين لمواجهة ليفانتي",
-    "arabic_summary": "وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة",
-    "translation_status": "translated",
-    "post_title": "جيرالديز يستدعي كل الموجودين لمواجهة ليفانتي",
-    "post_text": "🚨 جيرالديز يستدعي كل الموجودين لمواجهة ليفانتي\n\n📝 وسجل الهدف الأول، وهو هدف رائع، لصالح فريق سيلتيكس الذي يصل إلى المركز السابع بعد ثمانية أيام دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101509245847719",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيرالديز_يستدعي_كل_الموجودين_لمواجهة_ليفانتي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/celta/2026/11/07/giraldez-convoca-todos-disponibles-enfrentarse-levante.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9wdVQIeT9Tf1fCCWKJGt_1"
     }
   }
 ]
