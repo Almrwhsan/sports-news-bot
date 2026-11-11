@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Pretty brutal!' - Could new Grand Slam format cause more jeopardy?",
+    "url": "https://www.skysports.com/watch/video/13611043/love-the-darts-podcast-could-new-grand-slam-format-cause-more-jeopardy",
+    "summary": "Speaking on Love The Darts, Laura Turner and Chris Murphy discuss the new Grand Slam of Darts format and expanded field.",
+    "published": "Wed, 11 Nov 2026 14:11:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-darts-grand-slam_7404008.jpg?20261111143847",
+    "media_type": "image/jpg",
+    "arabic_title": "\"وحشية جداً!\" - هل يمكن لشكل جراند سلام الجديد أن يسبب المزيد من المخاطر؟",
+    "arabic_summary": "أثناء التحدث في برنامج Love The Darts، ناقشت Laura Turner وChris Murphy تنسيق Grand Slam of Darts الجديد والمجال الموسع.",
+    "translation_status": "translated",
+    "post_title": "\"وحشية جداً!\" - هل يمكن لشكل جراند سلام الجديد أن يسبب المزيد من المخاطر؟",
+    "post_text": "🚨 \"وحشية جداً!\" - هل يمكن لشكل جراند سلام الجديد أن يسبب المزيد من المخاطر؟\n\n📝 أثناء التحدث في برنامج Love The Darts، ناقشت Laura Turner وChris Murphy تنسيق Grand Slam of Darts الجديد والمجال الموسع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105626938769283",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وحشية_جداً!_-_هل_يمكن_لشكل_جراند_سلام_الجديد_أن_يسبب_المزيد_من_المخاطر؟.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13611043/love-the-darts-podcast-could-new-grand-slam-format-cause-more-jeopardy",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AuNjoDZReepbNntk-eJ3Aqd"
+    }
+  },
+  {
     "title": "Jesé y Jefté, el buen rollo también marca goles en Las Palmas",
     "url": "https://www.marca.com/futbol/las-palmas/2026/11/11/jese-jefte-buen-rollo-tambien-marca-goles-palmas.html",
     "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9wdVQIeT9Tf1fCCWKJGt_1"
-    }
-  },
-  {
-    "title": "Tangana al descanso entre los jugadores del Madrid y del Valencia",
-    "url": "https://as.com/futbol/videos/carrusel-tangana-al-descanso-entre-los-jugadores-del-madrid-y-del-valencia-f202611-v/",
-    "summary": "Tras las palabras de Maffeo a DAZN, Carrusel Deportivo informó de la discusión subida de tono que tuvo lugar en las entrañas de Mestalla.",
-    "published": "Sat, 07 Nov 2026 21:16:02 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261107/1235173_212116_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "تنجانا في الشوط الأول بين لاعبي ريال مدريد وفالنسيا",
-    "arabic_summary": "بعد كلمات مافيو لـ DAZN، أبلغ كاروسيل ديبورتيفو عن المناقشة المفعمة بالحيوية التي جرت في أحشاء ميستايا.",
-    "translation_status": "translated",
-    "post_title": "تنجانا في الشوط الأول بين لاعبي ريال مدريد وفالنسيا",
-    "post_text": "🚨 تنجانا في الشوط الأول بين لاعبي ريال مدريد وفالنسيا\n\n📝 بعد كلمات مافيو لـ DAZN، أبلغ كاروسيل ديبورتيفو عن المناقشة المفعمة بالحيوية التي جرت في أحشاء ميستايا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101509319181045",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تنجانا_في_الشوط_الأول_بين_لاعبي_ريال_مدريد_وفالنسيا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aq70YTyHctG1nhntNVMZefk"
     }
   }
 ]
