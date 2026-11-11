@@ -1,5 +1,39 @@
 [
   {
+    "title": "Riemer: “¿Christensen? Estaba casi llorando cuando le llamé”",
+    "url": "https://as.com/futbol/primera/riemer-christensen-estaba-casi-llorando-cuando-le-llame-f202611-n/",
+    "summary": "El seleccionador de Dinamarca sacó a la luz los detalles de la conversación que mantuvo con el central del Barcelona, quien finalmente renunció a la convocatoria para este parón internacional.",
+    "published": "Tue, 10 Nov 2026 19:46:57 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/O5TBAPLAUA6VBPJHUCDBQXV6O4.jpg?auth=e66af85ad07b8f6aced0dc4009bdaf84111ee4c3f8c0b5e7fd2176d4dde67fa4",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريمر: \"كريستنسن؟ لقد كان على وشك البكاء عندما اتصلت به\"",
+    "arabic_summary": "سلط مدرب الدنمارك الضوء على تفاصيل المحادثة التي أجراها مع قلب دفاع برشلونة، الذي استقال أخيرًا من الدعوة لفترة التوقف الدولي.",
+    "translation_status": "translated",
+    "post_title": "ريمر: \"كريستنسن؟ لقد كان على وشك البكاء عندما اتصلت به\"",
+    "post_text": "🚨 ريمر: \"كريستنسن؟ لقد كان على وشك البكاء عندما اتصلت به\"\n\n📝 سلط مدرب الدنمارك الضوء على تفاصيل المحادثة التي أجراها مع قلب دفاع برشلونة، الذي استقال أخيرًا من الدعوة لفترة التوقف الدولي.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105693718762605",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريمر_كريستنسن؟_لقد_كان_على_وشك_البكاء_عندما_اتصلت_به.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/riemer-christensen-estaba-casi-llorando-cuando-le-llame-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AnWk_RoHHenVj1dZjoS5Hcd"
+    }
+  },
+  {
     "title": "El perfume del Madrid",
     "url": "https://as.com/futbol/primera/el-perfume-del-madrid-f202611-n/",
     "summary": "Recital de Güler en Mestalla... y en la temporada. Élite liguera y europea en varios aspectos. Participa en un tanto cada 77′. Capital en ese “huele bien” que lanza Mou.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGkqycbygPpL5GS_SxrDlG8"
-    }
-  },
-  {
-    "title": "Flick y Simeone, un duelo con memoria",
-    "url": "https://as.com/futbol/primera/flick-y-simeone-un-duelo-con-memoria-f202611-n/",
-    "summary": "El entrenador del Barcelona tiene un balance positivo contra el Atlético del ‘Cholo’, que el curso pasado los dejó fuera de la Copa y la Champions.",
-    "published": "Sat, 07 Nov 2026 10:21:05 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/O2RPRZ2F3MLLIPWJM563TRYOYA.JPG?auth=51da0dd4cf9116cab6314e8a0f795c052e5833f9ab9b55b3accd416a8521a398",
-    "media_type": "image/jpeg",
-    "arabic_title": "فليك وسيميوني، مبارزة مع الذاكرة",
-    "arabic_summary": "ويملك مدرب برشلونة رصيدا إيجابيا أمام أتلتيكو ديل تشولو الذي أبعدهم العام الماضي عن الكأس ودوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "فليك وسيميوني، مبارزة مع الذاكرة",
-    "post_text": "🚨 فليك وسيميوني، مبارزة مع الذاكرة\n\n📝 ويملك مدرب برشلونة رصيدا إيجابيا أمام أتلتيكو ديل تشولو الذي أبعدهم العام الماضي عن الكأس ودوري أبطال أوروبا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101532499178727",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فليك_وسيميوني،_مبارزة_مع_الذاكرة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/flick-y-simeone-un-duelo-con-memoria-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvwFsfmeiU5OJ4HF9mOiw-5"
     }
   }
 ]
