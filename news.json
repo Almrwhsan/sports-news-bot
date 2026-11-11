@@ -1,5 +1,39 @@
 [
   {
+    "title": "El perfume del Madrid",
+    "url": "https://as.com/futbol/primera/el-perfume-del-madrid-f202611-n/",
+    "summary": "Recital de Güler en Mestalla... y en la temporada. Élite liguera y europea en varios aspectos. Participa en un tanto cada 77′. Capital en ese “huele bien” que lanza Mou.",
+    "published": "Wed, 11 Nov 2026 09:33:30 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261107/1235209_230954_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "عطر مدريد",
+    "arabic_summary": "حفل جولر في الميستايا... وفي الموسم. الدوري والنخبة الأوروبية في عدة جوانب. شارك في هدف واحد كل 77 دقيقة. رأس المال في \"الرائحة الطيبة\" التي تطلقها مو.",
+    "translation_status": "translated",
+    "post_title": "عطر مدريد",
+    "post_text": "🚨 عطر مدريد\n\n📝 حفل جولر في الميستايا... وفي الموسم. الدوري والنخبة الأوروبية في عدة جوانب. شارك في هدف واحد كل 77 دقيقة. رأس المال في \"الرائحة الطيبة\" التي تطلقها مو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1105691042096206",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عطر_مدريد.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABqOMriTcecbk8tqcuxz3-P"
+    }
+  },
+  {
     "title": "El Camp Nou espera a Paredes",
     "url": "https://as.com/futbol/femenino/el-camp-nou-espera-a-paredes-f202611-n/",
     "summary": "Pere Romeu confirmó en rueda de prensa que la central vasca trabaja con el grupo y podría ser la novedad en la convocatoria para el partido de Champions ante el Arsenal.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvwFsfmeiU5OJ4HF9mOiw-5"
-    }
-  },
-  {
-    "title": "La celebración del 0-2 de Rüdiger que nadie entendió pero todos comentaron en redes: inefable",
-    "url": "https://as.com/futbol/videos/la-celebracion-del-0-2-de-rudiger-que-nadie-entendio-pero-todos-comentaron-en-redes-inefable-f202611-v/",
-    "summary": "El polémico partido de Mestalla tuvo esta divertida acción cuando el alemán festejo el gol de Güler tras el jugadón de Bellingham de esta manera.",
-    "published": "Sat, 07 Nov 2026 21:54:40 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "احتفال روديجر بنتيجة 0-2 والذي لم يفهمه أحد ولكن الجميع علق على الشبكات: لا يوصف",
-    "arabic_summary": "شهدت مباراة ميستايا المثيرة للجدل هذا الحدث الممتع عندما احتفل الألماني بهدف جولر بعد لعب بيلينجهام بهذه الطريقة.",
-    "translation_status": "translated",
-    "post_title": "احتفال روديجر بنتيجة 0-2 والذي لم يفهمه أحد ولكن الجميع علق على الشبكات: لا يوصف",
-    "post_text": "🚨 احتفال روديجر بنتيجة 0-2 والذي لم يفهمه أحد ولكن الجميع علق على الشبكات: لا يوصف\n\n📝 شهدت مباراة ميستايا المثيرة للجدل هذا الحدث الممتع عندما احتفل الألماني بهدف جولر بعد لعب بيلينجهام بهذه الطريقة.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1101532579178719",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/احتفال_روديجر_بنتيجة_0-2_والذي_لم_يفهمه_أحد_ولكن_الجميع_علق_على_الشبكات_لا_يوصف.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/videos/la-celebracion-del-0-2-de-rudiger-que-nadie-entendio-pero-todos-comentaron-en-redes-inefable-f202611-v/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHNicvoUUbK9w7UGUpL7PJS"
     }
   }
 ]
