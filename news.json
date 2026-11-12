@@ -1,5 +1,39 @@
 [
   {
+    "title": "England latest: 'We will get what we want' in Spain, insists Tuchel",
+    "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+    "summary": "",
+    "published": "Thu, 12 Nov 2026 12:55:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار إنجلترا: \"سنحصل على ما نريد\" في إسبانيا، يصر توخيل",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار إنجلترا: \"سنحصل على ما نريد\" في إسبانيا، يصر توخيل",
+    "post_text": "🚨 آخر أخبار إنجلترا: \"سنحصل على ما نريد\" في إسبانيا، يصر توخيل\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106826128649364",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_إنجلترا_سنحصل_على_ما_نريد_في_إسبانيا،_يصر_توخيل.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Af46UVZ5CEohp1do1ThqEhF"
+    }
+  },
+  {
     "title": "Life as a Wag in the transfer window",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
     "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APu3gdHGZgcTOIn4ftkjZ-N"
-    }
-  },
-  {
-    "title": "Papers: Carrick will not resign after draw leaves Man Utd in drop zone",
-    "url": "https://www.skysports.com/football/news/12040/13610018/michael-carrick-will-not-resign-at-manchester-united-after-draw-leaves-side-one-place-off-bottom-paper-talk",
-    "summary": "The top stories and transfer rumours from Monday's newspapers...",
-    "published": "Fri, 06 Nov 2026 22:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-    "media_type": "image/jpg",
-    "arabic_title": "الأوراق: كاريك لن يستقيل بعد التعادل يترك مانشستر يونايتد في منطقة الهبوط",
-    "arabic_summary": "أهم الأخبار والإشاعات المنقولة من صحف الإثنين..",
-    "translation_status": "translated",
-    "post_title": "الأوراق: كاريك لن يستقيل بعد التعادل يترك مانشستر يونايتد في منطقة الهبوط",
-    "post_text": "🚨 الأوراق: كاريك لن يستقيل بعد التعادل يترك مانشستر يونايتد في منطقة الهبوط\n\n📝 أهم الأخبار والإشاعات المنقولة من صحف الإثنين..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102608639071113",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_كاريك_لن_يستقيل_بعد_التعادل_يترك_مانشستر_يونايتد_في_منطقة_الهبوط.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13610018/michael-carrick-will-not-resign-at-manchester-united-after-draw-leaves-side-one-place-off-bottom-paper-talk",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6yZmFAoj5Jzkq8ISiri-q6"
     }
   }
 ]
