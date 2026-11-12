@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Overwhelming' - Record-breaker Kane celebrates 'amazing' Wembley night",
+    "url": "https://www.skysports.com/football/news/12040/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
+    "summary": "Harry Kane says the reaction to his Ballon d'Or win and record appearance for England has been \"overwhelming\".&#160;",
+    "published": "Thu, 12 Nov 2026 10:16:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-football-harry-kane_7405425.jpg?20261112212020",
+    "media_type": "image/jpg",
+    "arabic_title": "\"ساحق\" - كين صاحب الأرقام القياسية يحتفل بليلة ويمبلي \"المذهلة\".",
+    "arabic_summary": "قال هاري كين إن رد الفعل على فوزه بالكرة الذهبية وظهوره القياسي مع منتخب إنجلترا كان \"ساحقًا\".",
+    "translation_status": "translated",
+    "post_title": "\"ساحق\" - كين صاحب الأرقام القياسية يحتفل بليلة ويمبلي \"المذهلة\".",
+    "post_text": "🚨 \"ساحق\" - كين صاحب الأرقام القياسية يحتفل بليلة ويمبلي \"المذهلة\".\n\n📝 قال هاري كين إن رد الفعل على فوزه بالكرة الذهبية وظهوره القياسي مع منتخب إنجلترا كان \"ساحقًا\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106834125315231",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساحق_-_كين_صاحب_الأرقام_القياسية_يحتفل_بليلة_ويمبلي_المذهلة..png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhZk2-VKYaUpDHkI5P54LX3"
+    }
+  },
+  {
     "title": "England latest: 'We will get what we want' in Spain, insists Tuchel",
     "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Abhe3UZkwn9I0knHYsjbL-4"
-    }
-  },
-  {
-    "title": "Manotazo a los dos Madrid",
-    "url": "https://as.com/futbol/femenino/manotazo-a-los-dos-madrid-f202611-n/",
-    "summary": "El Barça golea al equipo blanco y rosa con tantos de Brugts, Pajor, Julià, Patri y Pina y amplía su ventaja con las merengues. Marta Torrejón cumplió 500 partidos.",
-    "published": "Sun, 08 Nov 2026 16:54:50 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5CJ7J7JD4RK3FIITCEZWVB2PP4.jpg?auth=2d397f4544eb74f4095849cec9429e98d982ada06fdd7c14d9656c8e8d783b05",
-    "media_type": "image/jpeg",
-    "arabic_title": "صفعة على كل من مدريد",
-    "arabic_summary": "سحق برشلونة الفريق الأبيض والوردي بأهداف بروجتس وباجور وجوليا وباتري وبينا ووسع تفوقه بالمرنغ. أكملت مارتا توريخون 500 مباراة.",
-    "translation_status": "translated",
-    "post_title": "صفعة على كل من مدريد",
-    "post_text": "🚨 صفعة على كل من مدريد\n\n📝 سحق برشلونة الفريق الأبيض والوردي بأهداف بروجتس وباجور وجوليا وباتري وبينا ووسع تفوقه بالمرنغ. أكملت مارتا توريخون 500 مباراة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102608552404455",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/صفعة_على_كل_من_مدريد.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/femenino/manotazo-a-los-dos-madrid-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APu3gdHGZgcTOIn4ftkjZ-N"
     }
   }
 ]
