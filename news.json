@@ -1,5 +1,39 @@
 [
   {
+    "title": "Tomas Soucek y el infierno del insomnio",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/12/tomas-soucek-infierno-insomnio.html",
+    "summary": "Su autobiografía es un escalofriante viaje por los miedos de un deportista de élite con dos vidas: el éxito exterior y sus demonios",
+    "published": "Thu, 12 Nov 2026 09:16:58 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af37e6231730.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "توماس سوسيك وجحيم الأرق",
+    "arabic_summary": "سيرته الذاتية عبارة عن رحلة تقشعر لها الأبدان عبر مخاوف رياضي من النخبة له حياتين: النجاح الخارجي وشياطينه.",
+    "translation_status": "translated",
+    "post_title": "توماس سوسيك وجحيم الأرق",
+    "post_text": "🚨 توماس سوسيك وجحيم الأرق\n\n📝 سيرته الذاتية عبارة عن رحلة تقشعر لها الأبدان عبر مخاوف رياضي من النخبة له حياتين: النجاح الخارجي وشياطينه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106581448673832",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توماس_سوسيك_وجحيم_الأرق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/12/tomas-soucek-infierno-insomnio.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmRwlPqXeb2ihYtGmgDcB_Q"
+    }
+  },
+  {
     "title": "Una posición con opciones en Zubieta",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/11/12/posicion-opciones-zubieta.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlvLw7VK3mkb1XuQUk54pmB"
-    }
-  },
-  {
-    "title": "Ortiz y Sergio Moreno firman tablas en Pinilla",
-    "url": "https://as.com/futbol/primera-rfef/ortiz-y-sergio-moreno-firman-tablas-en-pinilla-f202611-n/",
-    "summary": "El gol del Ibiza fue contrarrestado rápidamente por el delantero local desde los once metros. El Teruel jugó los últimos minutos con uno menos por expulsión de Nicholas.",
-    "published": "Sun, 08 Nov 2026 13:27:56 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VRCMLNQX3FBHNCJ32PRZOTK2OE.jpg?auth=93ebaebab474abe7be0d56851456393eba9ed0f81a19007f3367025b73342e4f",
-    "media_type": "image/jpeg",
-    "arabic_title": "أورتيز وسيرجيو مورينو يوقعان التعادل في بينيلا",
-    "arabic_summary": "تم التصدي لهدف إيبيزا بسرعة من قبل المهاجم المحلي من أحد عشر مترا. ولعب تيرويل الدقائق الأخيرة بفارق هدف واحد بسبب طرد نيكولاس.",
-    "translation_status": "translated",
-    "post_title": "أورتيز وسيرجيو مورينو يوقعان التعادل في بينيلا",
-    "post_text": "🚨 أورتيز وسيرجيو مورينو يوقعان التعادل في بينيلا\n\n📝 تم التصدي لهدف إيبيزا بسرعة من قبل المهاجم المحلي من أحد عشر مترا. ولعب تيرويل الدقائق الأخيرة بفارق هدف واحد بسبب طرد نيكولاس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102321045766539",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أورتيز_وسيرجيو_مورينو_يوقعان_التعادل_في_بينيلا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera-rfef/ortiz-y-sergio-moreno-firman-tablas-en-pinilla-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AysMBwudGy4oMMdKvCrIJsK"
     }
   }
 ]
