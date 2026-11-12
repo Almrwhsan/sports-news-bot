@@ -1,5 +1,39 @@
 [
   {
+    "title": "Parón de reflexión y éxodo masivo: el Atleti se queda sin 18 jugadores",
+    "url": "https://as.com/futbol/primera/paron-de-reflexion-y-exodo-masivo-el-atleti-se-queda-sin-18-jugadores-f202611-n/",
+    "summary": "Simeone pierde durante al menos una semana a los internacionales citados por sus selecciones. Se quedan siete de la primera plantilla, uno de ellos, el lesionado Cuti Romero.",
+    "published": "Mon, 09 Nov 2026 19:21:13 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/D3MVCN55KFML3JPNT7S5DJRZMQ.jpg?auth=02d444d11d72c6cde23c71761e08d76b16fd3ff805dee398017f009aa8487f15",
+    "media_type": "image/jpeg",
+    "arabic_title": "استراحة للتفكير ونزوح جماعي: الأتليتي بقي بدون 18 لاعبًا",
+    "arabic_summary": "يخسر سيميوني اللاعبين الدوليين الذين استدعتهم منتخباته الوطنية لمدة أسبوع على الأقل. بقي سبعة من أعضاء الفريق الأول، أحدهم المصاب كوتي روميرو.",
+    "translation_status": "translated",
+    "post_title": "استراحة للتفكير ونزوح جماعي: الأتليتي بقي بدون 18 لاعبًا",
+    "post_text": "🚨 استراحة للتفكير ونزوح جماعي: الأتليتي بقي بدون 18 لاعبًا\n\n📝 يخسر سيميوني اللاعبين الدوليين الذين استدعتهم منتخباته الوطنية لمدة أسبوع على الأقل. بقي سبعة من أعضاء الفريق الأول، أحدهم المصاب كوتي روميرو.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106359608696016",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/استراحة_للتفكير_ونزوح_جماعي_الأتليتي_بقي_بدون_18_لاعبًا.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/paron-de-reflexion-y-exodo-masivo-el-atleti-se-queda-sin-18-jugadores-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOZbOigNgPcB2blLb0mhdFy"
+    }
+  },
+  {
     "title": "Retaining titles is tough but Arteta's Arsenal are built differently",
     "url": "https://www.skysports.com/football/news/12040/13607189/mikel-artetas-hunger-for-arsenal-to-retain-the-premier-league-can-help-them-defy-the-odds-and-maintain-their-standards",
     "summary": "The great basketball coach Phil Jackson is the most successful in NBA history having won 11 championships. Nevertheless, in his famous book Eleven Rings, he is still moved to claim that the year after winning a championship is always the hardest.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhCEIyvhfS2WEmcLTP2gmTy"
-    }
-  },
-  {
-    "title": "Eterno Jesús De Miguel",
-    "url": "https://as.com/futbol/segunda/eterno-jesus-de-miguel-f202611-n/",
-    "summary": "Unos diez mil aficionados le homenajearon en el Heliodoro que respiró tristeza. Enric Gallego, Felipe Miñambres y Rayco García tomaron la palabra para recordarlo.",
-    "published": "Sat, 07 Nov 2026 19:42:23 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261107/1235128_184902_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "يسوع الأبدي ميغيل",
-    "arabic_summary": "وقد أشاد به نحو عشرة آلاف من المشجعين في ملعب هيليودورو، الأمر الذي تنفس الحزن. أخذ إنريك غاليغو، وفيليبي ميامبريس، ورايكو غارسيا الكلمة لتأبينه.",
-    "translation_status": "translated",
-    "post_title": "يسوع الأبدي ميغيل",
-    "post_text": "🚨 يسوع الأبدي ميغيل\n\n📝 وقد أشاد به نحو عشرة آلاف من المشجعين في ملعب هيليودورو، الأمر الذي تنفس الحزن. أخذ إنريك غاليغو، وفيليبي ميامبريس، ورايكو غارسيا الكلمة لتأبينه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102104659121511",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يسوع_الأبدي_ميغيل.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhGXhMNNegJRLGAlOfB4sH5"
     }
   }
 ]
