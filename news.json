@@ -1,5 +1,39 @@
 [
   {
+    "title": "The six DAMNING stats that made Carrick's job untenable",
+    "url": "https://www.skysports.com/watch/video/13610249/the-six-damning-statistics-that-made-michael-carricks-manchester-united-job-untenable",
+    "summary": "Sky Sports' Adam Binnie shares six stats that show Manchester United's troubles so far this season, and why Michael Carrick's job became untenable.",
+    "published": "Mon, 09 Nov 2026 15:10:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-football-man-utd_7402287.jpg?20261109153030",
+    "media_type": "image/jpg",
+    "arabic_title": "الإحصائيات الستة المذهلة التي جعلت مهمة كاريك لا يمكن الدفاع عنها",
+    "arabic_summary": "يشارك آدم بيني من سكاي سبورتس ستة إحصائيات توضح مشاكل مانشستر يونايتد حتى الآن هذا الموسم، ولماذا أصبحت وظيفة مايكل كاريك غير قابلة للاستمرار.",
+    "translation_status": "translated",
+    "post_title": "الإحصائيات الستة المذهلة التي جعلت مهمة كاريك لا يمكن الدفاع عنها",
+    "post_text": "🚨 الإحصائيات الستة المذهلة التي جعلت مهمة كاريك لا يمكن الدفاع عنها\n\n📝 يشارك آدم بيني من سكاي سبورتس ستة إحصائيات توضح مشاكل مانشستر يونايتد حتى الآن هذا الموسم، ولماذا أصبحت وظيفة مايكل كاريك غير قابلة للاستمرار.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106270052038305",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الإحصائيات_الستة_المذهلة_التي_جعلت_مهمة_كاريك_لا_يمكن_الدفاع_عنها.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13610249/the-six-damning-statistics-that-made-michael-carricks-manchester-united-job-untenable",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYOlCZ0ubqPXstG_N4HracE"
+    }
+  },
+  {
     "title": "The Unpromotables: Germany's league champions who can't go up",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
     "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "API-4B_Pwh5PR6BsfQIs0ht"
-    }
-  },
-  {
-    "title": "Ipswich vs Bournemouth team news LIVE!",
-    "url": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/live/559539",
-    "summary": "",
-    "published": "Sun, 08 Nov 2026 09:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-ipswich-town-bournemouth_7394998.jpg?20261102151052",
-    "media_type": "image/jpg",
-    "arabic_title": "أخبار فريق إبسويتش وبورنموث بث مباشر!",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "أخبار فريق إبسويتش وبورنموث بث مباشر!",
-    "post_text": "🚨 أخبار فريق إبسويتش وبورنموث بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102099875788656",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أخبار_فريق_إبسويتش_وبورنموث_بث_مباشر!.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/live/559539",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqV43rEiqWlUvG-7PXqaQUM"
     }
   }
 ]
