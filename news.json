@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los 20 futbolistas Sub-21 más valiosos del mundo",
+    "url": "https://as.com/futbol/fotorrelato/los-20-futbolistas-sub-21-mas-valiosos-del-mundo-f202611-f/",
+    "summary": "Hacemos un repaso por los jugadores menores de 21 años con mayor valor de mercado en la actualidad según Transfermarkt. Algunos, a pesar de su juventud, ya están en lo más alto, otros, van subiendo como la espuma.",
+    "published": "Thu, 12 Nov 2026 07:16:35 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "transfers",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/T5L6VZBATFESFKXV5QJLVISRH4.JPG?auth=c95c6c432120f5eb00b8de3a4b7c4b009fc2d480f0a1d49343af965b20f354c2",
+    "media_type": "image/jpeg",
+    "arabic_title": "أغلى 20 لاعب كرة قدم تحت 21 سنة في العالم",
+    "arabic_summary": "نستعرض اللاعبين الذين تقل أعمارهم عن 21 عامًا أصحاب القيمة السوقية الأعلى حاليًا وفقًا لموقع Transfermarkt. البعض، على الرغم من شبابهم، هم بالفعل في القمة، والبعض الآخر يرتفع مثل الرغوة.",
+    "translation_status": "translated",
+    "post_title": "أغلى 20 لاعب كرة قدم تحت 21 سنة في العالم",
+    "post_text": "🚨 أغلى 20 لاعب كرة قدم تحت 21 سنة في العالم\n\n📝 نستعرض اللاعبين الذين تقل أعمارهم عن 21 عامًا أصحاب القيمة السوقية الأعلى حاليًا وفقًا لموقع Transfermarkt. البعض، على الرغم من شبابهم، هم بالفعل في القمة، والبعض الآخر يرتفع مثل الرغوة.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106132765385367",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أغلى_20_لاعب_كرة_قدم_تحت_21_سنة_في_العالم.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/fotorrelato/los-20-futbolistas-sub-21-mas-valiosos-del-mundo-f202611-f/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIrE4ZRrhLYOATF8dVfvWbF"
+    }
+  },
+  {
     "title": "Cummins to address Khawaja 'Sandpapergate' claims on Friday",
     "url": "https://www.skysports.com/cricket/news/12040/13611274/sandpapergate-australia-captain-pat-cummins-to-address-usman-khawaja-claims-on-friday",
     "summary": "Australia captain Pat Cummins has called a press conference for Friday to have his say on 'Sandpapergate' after former team-mate Usman Khawaja's explosive claims that the entire dressing room knew about the ball-tampering scheme that took place on the tour of South Africa in 2018.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AL_dvejcOo7jueTD2HG8URp"
-    }
-  },
-  {
-    "title": "Los famosos del Atlético de Madrid y del Barcelona",
-    "url": "https://as.com/tikitakas/fotorrelato/los-famosos-del-atletico-de-madrid-y-del-barcelona-f202611-f/",
-    "summary": "Presidentes del Gobierno, actores, cantantes, cocineros... Descubre las celebridades del Atleti y del Barça que se enorgullecen de sus colores.",
-    "published": "Sat, 07 Nov 2026 23:22:12 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/AQ527MLB7FH4TEN7ZX537W6YOM.JPG?auth=67e937804b859f9e937e4972d327342f82abf451fdd0c3d078d08893134a7114",
-    "media_type": "image/jpeg",
-    "arabic_title": "المشاهير من أتلتيكو مدريد وبرشلونة",
-    "arabic_summary": "رؤساء الحكومة والممثلون والمغنون والطهاة... اكتشف مشاهير أتلتيكو وبرشلونة الذين يفتخرون بألوانهم.",
-    "translation_status": "translated",
-    "post_title": "المشاهير من أتلتيكو مدريد وبرشلونة",
-    "post_text": "🚨 المشاهير من أتلتيكو مدريد وبرشلونة\n\n📝 رؤساء الحكومة والممثلون والمغنون والطهاة... اكتشف مشاهير أتلتيكو وبرشلونة الذين يفتخرون بألوانهم.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102003085798335",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المشاهير_من_أتلتيكو_مدريد_وبرشلونة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/tikitakas/fotorrelato/los-famosos-del-atletico-de-madrid-y-del-barcelona-f202611-f/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZPXXotZvivNRha-cp39_h5"
     }
   }
 ]
