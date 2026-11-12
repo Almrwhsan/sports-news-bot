@@ -1,5 +1,39 @@
 [
   {
+    "title": "Euro latest: Esposito double helps Italy beat France",
+    "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+    "summary": "",
+    "published": "Thu, 12 Nov 2026 14:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-pio-esposito-italy_7405496.jpg?20261112224957",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار اليورو: ثنائية إسبوزيتو تساعد إيطاليا على الفوز على فرنسا",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار اليورو: ثنائية إسبوزيتو تساعد إيطاليا على الفوز على فرنسا",
+    "post_text": "🚨 آخر أخبار اليورو: ثنائية إسبوزيتو تساعد إيطاليا على الفوز على فرنسا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106846245314019",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_اليورو_ثنائية_إسبوزيتو_تساعد_إيطاليا_على_الفوز_على_فرنسا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7AwrtX8WDHjfoi_ZMKbY-s"
+    }
+  },
+  {
     "title": "'Overwhelming' - Record-breaker Kane celebrates 'amazing' Wembley night",
     "url": "https://www.skysports.com/football/news/12040/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
     "summary": "Harry Kane says the reaction to his Ballon d'Or win and record appearance for England has been \"overwhelming\".&#160;",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsZxGz2-7OFE4c8okS4dmSf"
-    }
-  },
-  {
-    "title": "Iker Luque, el don de saber esperar",
-    "url": "https://as.com/futbol/primera/iker-luque-el-don-de-saber-esperar-f202611-n/",
-    "summary": "La paciencia define la historia del crack del Racing en La Rosaleda. Chema Aragón lo quería desde el inicio del mercado y aguantó hasta el finales de agosto. El velocísimo extremo comenzó de suplente, no bajó en ningún momento los brazos y saboreó la gloria en Málaga.",
-    "published": "Sun, 08 Nov 2026 10:40:33 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/4T3LJLRD65HOZKBAOCRSQIXIUM.png?auth=1cb86062baf5129a0a33ddd9d5fb001e54bfa17c0c9a0e097a1d22e415e88349",
-    "media_type": "image/png",
-    "arabic_title": "إيكر لوك، موهبة معرفة كيفية الانتظار",
-    "arabic_summary": "الصبر يحدد قصة نجم السباق في لا روزاليدا. لقد أرادها Chema Aragón منذ بداية السوق وصمد حتى نهاية أغسطس. بدأ الجناح السريع للغاية كبديل، ولم يستسلم أبدًا وتذوق المجد في ملقة.",
-    "translation_status": "translated",
-    "post_title": "إيكر لوك، موهبة معرفة كيفية الانتظار",
-    "post_text": "🚨 إيكر لوك، موهبة معرفة كيفية الانتظار\n\n📝 الصبر يحدد قصة نجم السباق في لا روزاليدا. لقد أرادها Chema Aragón منذ بداية السوق وصمد حتى نهاية أغسطس. بدأ الجناح السريع للغاية كبديل، ولم يستسلم أبدًا وتذوق المجد في ملقة.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102608465737797",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيكر_لوك،_موهبة_معرفة_كيفية_الانتظار.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/iker-luque-el-don-de-saber-esperar-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Abhe3UZkwn9I0knHYsjbL-4"
     }
   }
 ]
