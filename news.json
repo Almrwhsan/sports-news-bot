@@ -1,5 +1,39 @@
 [
   {
+    "title": "La vida de España sin Lamine",
+    "url": "https://as.com/futbol/seleccion/la-vida-de-espana-sin-lamine-f202611-n/",
+    "summary": "De la Fuente salió, molesto, a defender al de Rocafonda, para cortar suspicacias. “No tiene ningún privilegio”, lanzó. No será la primera vez para La Roja sin el azulgrana.",
+    "published": "Thu, 12 Nov 2026 10:57:35 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/PT4X2FSNQFGDBNF5OCGOXRLULI.jpg?auth=3c1b6ab380241b40361fb9eca9a0315e8a80ab3c03db38f5443e9a00b1787a2b",
+    "media_type": "image/jpeg",
+    "arabic_title": "حياة اسبانيا بدون لامين",
+    "arabic_summary": "وخرج دي لا فوينتي منزعجا للدفاع عن الرجل من روكافوندا ليقطع الشبهات. وأضاف: \"ليس لديه أي امتيازات\". لن تكون هذه هي المرة الأولى التي يلعب فيها لاروخا بدون البلوجرانا.",
+    "translation_status": "translated",
+    "post_title": "حياة اسبانيا بدون لامين",
+    "post_text": "🚨 حياة اسبانيا بدون لامين\n\n📝 وخرج دي لا فوينتي منزعجا للدفاع عن الرجل من روكافوندا ليقطع الشبهات. وأضاف: \"ليس لديه أي امتيازات\". لن تكون هذه هي المرة الأولى التي يلعب فيها لاروخا بدون البلوجرانا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106285192036791",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حياة_اسبانيا_بدون_لامين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/seleccion/la-vida-de-espana-sin-lamine-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfuNnfJEVcaTFkFKO9ZHL6B"
+    }
+  },
+  {
     "title": "El Real Madrid, desde el punto de vista de Tomás Roncero: suscríbete a la nueva newsletter de AS",
     "url": "https://as.com/futbol/primera/el-real-madrid-desde-el-punto-de-vista-de-tomas-roncero-suscribete-a-la-nueva-newsletter-de-as-f202611-n/",
     "summary": "Los lectores de AS podrán acceder a la mejor información del club blanco de la mano del subdirector de AS, que aportará información exclusiva, opinión, anécdotas... y se podrá interactuar con él.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGCJPHh5wCZA-wVOfaHe3e9"
-    }
-  },
-  {
-    "title": "White: Billam-Smith was stopped too soon",
-    "url": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke",
-    "summary": "Chris Billam-Smith finished the fight on his feet, shaking his head in protest, when referee Lee Every halted him in the seventh round against Cheavon Clarke.",
-    "published": "Sun, 08 Nov 2026 07:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400666.jpg?20261108004022",
-    "media_type": "image/jpg",
-    "arabic_title": "الأبيض: تم إيقاف بيلام سميث في وقت مبكر جدًا",
-    "arabic_summary": "أنهى كريس بيلام سميث القتال واقفا على قدميه، وهو يهز رأسه احتجاجا، عندما أوقفه الحكم لي إيفري في الجولة السابعة ضد تشيفون كلارك.",
-    "translation_status": "translated",
-    "post_title": "الأبيض: تم إيقاف بيلام سميث في وقت مبكر جدًا",
-    "post_text": "🚨 الأبيض: تم إيقاف بيلام سميث في وقت مبكر جدًا\n\n📝 أنهى كريس بيلام سميث القتال واقفا على قدميه، وهو يهز رأسه احتجاجا، عندما أوقفه الحكم لي إيفري في الجولة السابعة ضد تشيفون كلارك.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102099519122025",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأبيض_تم_إيقاف_بيلام_سميث_في_وقت_مبكر_جدًا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbeutXn-_BaRt4lRRjwD8iV"
     }
   }
 ]
