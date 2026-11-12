@@ -1,5 +1,39 @@
 [
   {
+    "title": "FIFA, en el Bernabéu: las claves de una visita de suma importancia",
+    "url": "https://as.com/futbol/mundial/fifa-en-el-bernabeu-las-claves-de-una-visita-de-suma-importancia-f202611-n/",
+    "summary": "Una delegación inspecciona el estadio madridista junto a miembros del Gobierno y RFEF. AS tuvo testimonio de primera mano de la visita. Esta tarde les recibe Louzán",
+    "published": "Thu, 12 Nov 2026 11:09:04 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/77SHRKSZFVGJ7DRY6LVUHBG3XU.jpg?auth=c7e66016f477f08e7f29fc6d3747a3ff50fb7ec61bfc474c8bc3adf351b9d245",
+    "media_type": "image/jpeg",
+    "arabic_title": "FIFA، في البرنابيو: مفاتيح الزيارة بالغة الأهمية",
+    "arabic_summary": "وفد يتفقد ملعب مدريد مع أعضاء الحكومة والاتحاد الإسباني لكرة القدم. وكان لدى AS شهادة مباشرة عن الزيارة. بعد ظهر هذا اليوم، ترحب بكم لوزان",
+    "translation_status": "translated",
+    "post_title": "FIFA، في البرنابيو: مفاتيح الزيارة بالغة الأهمية",
+    "post_text": "🚨 FIFA، في البرنابيو: مفاتيح الزيارة بالغة الأهمية\n\n📝 وفد يتفقد ملعب مدريد مع أعضاء الحكومة والاتحاد الإسباني لكرة القدم. وكان لدى AS شهادة مباشرة عن الزيارة. بعد ظهر هذا اليوم، ترحب بكم لوزان\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106295098702467",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/FIFA،_في_البرنابيو_مفاتيح_الزيارة_بالغة_الأهمية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/mundial/fifa-en-el-bernabeu-las-claves-de-una-visita-de-suma-importancia-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ADzHBz6FJ3qzV2GsjjvY0qV"
+    }
+  },
+  {
     "title": "La vida de España sin Lamine",
     "url": "https://as.com/futbol/seleccion/la-vida-de-espana-sin-lamine-f202611-n/",
     "summary": "De la Fuente salió, molesto, a defender al de Rocafonda, para cortar suspicacias. “No tiene ningún privilegio”, lanzó. No será la primera vez para La Roja sin el azulgrana.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A5wwsRRIkPlLaHPMg9Ln-AX"
-    }
-  },
-  {
-    "title": "WSL LIVE! Liverpool hit back against Arsenal! Villa facing Man Utd",
-    "url": "https://www.skysports.com/football/live-blog/12040/13608974/wsl-live-arsenal-man-utd-and-london-city-lionesses-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
-    "summary": "",
-    "published": "Fri, 06 Nov 2026 17:14:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-beata-olsson-liverpool_7400799.jpg?20261108122155",
-    "media_type": "image/jpg",
-    "arabic_title": "WSL لايف! ليفربول يرد بقوة على أرسنال! فيلا تواجه مانشستر يونايتد",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "WSL لايف! ليفربول يرد بقوة على أرسنال! فيلا تواجه مانشستر يونايتد",
-    "post_text": "🚨 WSL لايف! ليفربول يرد بقوة على أرسنال! فيلا تواجه مانشستر يونايتد\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102099402455370",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/WSL_لايف!_ليفربول_يرد_بقوة_على_أرسنال!_فيلا_تواجه_مانشستر_يونايتد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13608974/wsl-live-arsenal-man-utd-and-london-city-lionesses-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGCJPHh5wCZA-wVOfaHe3e9"
     }
   }
 ]
