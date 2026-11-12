@@ -1,5 +1,39 @@
 [
   {
+    "title": "Manchester y el Teatro de los Sueños... rotos",
+    "url": "https://www.marca.com/futbol/premier-league/2026/11/12/manchester-teatro-suenos-rotos.html",
+    "summary": "El equipo inglés sigue con su máquina de 'triturar' entrenadores con Michael Carrick como su última 'víctima' · Han pasado siete entrenadores y cinco interinos en 13 años desde la despedida de Sir Alex Ferguson",
+    "published": "Thu, 12 Nov 2026 12:05:18 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/12/6af59b385cf96.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مانشستر ومسرح الأحلام... مكسور",
+    "arabic_summary": "يواصل الفريق الإنجليزي آلة \"تمزيق\" المدربين حيث أصبح مايكل كاريك آخر \"ضحيته\" · سبعة مدربين وخمسة مدربين مؤقتين مروا خلال 13 عامًا على وداع السير أليكس فيرجسون",
+    "translation_status": "translated",
+    "post_title": "مانشستر ومسرح الأحلام... مكسور",
+    "post_text": "🚨 مانشستر ومسرح الأحلام... مكسور\n\n📝 يواصل الفريق الإنجليزي آلة \"تمزيق\" المدربين حيث أصبح مايكل كاريك آخر \"ضحيته\" · سبعة مدربين وخمسة مدربين مؤقتين مروا خلال 13 عامًا على وداع السير أليكس فيرجسون\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106696035329040",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانشستر_ومسرح_الأحلام..._مكسور.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/12/manchester-teatro-suenos-rotos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ASdCsQZVDK6LQgmc56g-M6f"
+    }
+  },
+  {
     "title": "Al Celta Fortuna lo desangran los goles encajados",
     "url": "https://www.marca.com/futbol/celta-fortuna/2026/11/12/celta-fortuna-desangran-goles-encajados.html",
     "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASH7_T667lIVcrH72j4gwGV"
-    }
-  },
-  {
-    "title": "La doble alegría de Ander Herrera sin jugar: gana el derbi con el Zaragoza y sale campeón con Boca",
-    "url": "https://www.marca.com/futbol/zaragoza/2026/11/08/doble-alegria-ander-herrera-jugar-gana-derbi-zaragoza-sale-campeon-boca.html",
-    "summary": "\"Antes los futbolistas éramos más duros. Hoy en día todo les afecta\", asegura el técnico del Málaga",
-    "published": "Sun, 08 Nov 2026 14:43:02 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/08/6af079de92b09.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فرحة مزدوجة لأندير هيريرا بدون لعب: يفوز بالديربي مع سرقسطة ويصبح بطلاً مع بوكا",
-    "arabic_summary": "يقول مدرب ملقا: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".",
-    "translation_status": "translated",
-    "post_title": "فرحة مزدوجة لأندير هيريرا بدون لعب: يفوز بالديربي مع سرقسطة ويصبح بطلاً مع بوكا",
-    "post_text": "🚨 فرحة مزدوجة لأندير هيريرا بدون لعب: يفوز بالديربي مع سرقسطة ويصبح بطلاً مع بوكا\n\n📝 يقول مدرب ملقا: \"في السابق، كنا نحن لاعبي كرة القدم أكثر صرامة. أما الآن، فكل شيء يؤثر عليهم\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102588129073164",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فرحة_مزدوجة_لأندير_هيريرا_بدون_لعب_يفوز_بالديربي_مع_سرقسطة_ويصبح_بطلاً_مع_بوكا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/zaragoza/2026/11/08/doble-alegria-ander-herrera-jugar-gana-derbi-zaragoza-sale-campeon-boca.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADGxkX34c7X9S1XYUYyCKt4"
     }
   }
 ]
