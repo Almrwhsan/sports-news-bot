@@ -1,5 +1,39 @@
 [
   {
+    "title": "El milagro de Asencio",
+    "url": "https://as.com/futbol/primera/el-milagro-de-asencio-f202611-n/",
+    "summary": "El canterano ha acortado en mes y medio los plazos de su recuperación tras operarse de su fisura de tibia. Quiere ir convocado ante el Arsenal.",
+    "published": "Fri, 13 Nov 2026 12:31:28 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MIEKQYRC65AC5DHUOZYKGSH5QM.JPG?auth=d5a4323f057a9f8db00ecbc49d706ed1d4f2db5fa7484c23140959496a60db75",
+    "media_type": "image/jpeg",
+    "arabic_title": "معجزة أسينسيو",
+    "arabic_summary": "قام فريق الشباب بتقصير وقت تعافيه بمقدار شهر ونصف بعد خضوعه لعملية جراحية لشق قصبة الساق. يريد أن يتم استدعاؤه ضد أرسنال.",
+    "translation_status": "translated",
+    "post_title": "معجزة أسينسيو",
+    "post_text": "🚨 معجزة أسينسيو\n\n📝 قام فريق الشباب بتقصير وقت تعافيه بمقدار شهر ونصف بعد خضوعه لعملية جراحية لشق قصبة الساق. يريد أن يتم استدعاؤه ضد أرسنال.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107415991923711",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/معجزة_أسينسيو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-milagro-de-asencio-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AS8ophV2LNbHHpL9mczu2Xg"
+    }
+  },
+  {
     "title": "Zidane, tras la derrota ante Italia: “Forma parte del aprendizaje”",
     "url": "https://www.marca.com/futbol/2026/11/13/zidane-derrota-italia-forma-parte-aprendizaj-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-D5hc2Esjjd00W7NkwZZM8"
-    }
-  },
-  {
-    "title": "El saludo de Lamine con Julián más comentado en redes",
-    "url": "https://as.com/futbol/videos/el-saludo-de-lamine-con-julian-mas-comentado-en-redes-f202611-v/",
-    "summary": "El jugador del FC Barcelona se cruzó todo el campo para saludar a la estrella del Atlético de Madrid.",
-    "published": "Mon, 09 Nov 2026 12:31:08 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261108/1235498_223641_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "تحية لامين لجوليان هي الأكثر تعليقًا على الشبكات",
-    "arabic_summary": "وعبر لاعب نادي برشلونة الملعب بأكمله لتحية نجم أتلتيكو مدريد.",
-    "translation_status": "translated",
-    "post_title": "تحية لامين لجوليان هي الأكثر تعليقًا على الشبكات",
-    "post_text": "🚨 تحية لامين لجوليان هي الأكثر تعليقًا على الشبكات\n\n📝 وعبر لاعب نادي برشلونة الملعب بأكمله لتحية نجم أتلتيكو مدريد.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1103300195668624",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تحية_لامين_لجوليان_هي_الأكثر_تعليقًا_على_الشبكات.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AUt0qoExvGFWUfpksGvcnop"
     }
   }
 ]
