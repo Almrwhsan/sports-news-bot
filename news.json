@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un equipo brasileño tiene cuatro canteranos llamados Cristiano Ronaldo: “Pensé que era el único, pero había otros tres”",
+    "url": "https://as.com/futbol/internacional/un-equipo-brasileno-tiene-cuatro-canteranos-llamados-cristiano-ronaldo-pense-que-era-el-unico-pero-habia-otros-tres-f202611-n/",
+    "summary": "El legado del astro portugués llega hasta la cantera del Gremio. Cuatro jugadores tienen el mismo nompre que el exjugador del Real Madrid.",
+    "published": "Fri, 13 Nov 2026 11:44:27 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/CXWQV2XM7FNOLK7P2WASU4ETJU.jpg?auth=37ade73236d7c2d1e1b5dbce22f326b685188dc62d3d78adf48ceeec5db53451",
+    "media_type": "image/jpeg",
+    "arabic_title": "فريق برازيلي لديه أربعة لاعبين شباب يدعى كريستيانو رونالدو: \"اعتقدت أنني الوحيد، ولكن كان هناك ثلاثة آخرين\"",
+    "arabic_summary": "إرث النجم البرتغالي يصل إلى فريق شباب جريميو. أربعة لاعبين لديهم نفس اسم لاعب ريال مدريد السابق.",
+    "translation_status": "translated",
+    "post_title": "فريق برازيلي لديه أربعة لاعبين شباب يدعى كريستيانو رونالدو: \"اعتقدت أنني الوحيد، ولكن كان هناك ثلاثة آخرين\"",
+    "post_text": "🚨 فريق برازيلي لديه أربعة لاعبين شباب يدعى كريستيانو رونالدو: \"اعتقدت أنني الوحيد، ولكن كان هناك ثلاثة آخرين\"\n\n📝 إرث النجم البرتغالي يصل إلى فريق شباب جريميو. أربعة لاعبين لديهم نفس اسم لاعب ريال مدريد السابق.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107373375261306",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فريق_برازيلي_لديه_أربعة_لاعبين_شباب_يدعى_كريستيانو_رونالدو_اعتقدت_أنني_الوحيد،_و.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/un-equipo-brasileno-tiene-cuatro-canteranos-llamados-cristiano-ronaldo-pense-que-era-el-unico-pero-habia-otros-tres-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAXVq2TPfUnFW75yg27YVma"
+    }
+  },
+  {
     "title": "Sancet, del “sueño” con España al “sueño” con Euskadi",
     "url": "https://as.com/futbol/internacional/sancet-con-euskadi-desde-pequeno-suenas-con-jugar-con-la-seleccion-que-amas-f202611-n/",
     "summary": "El jugador del Athletic reclama la oficialidad de la selección vasca y poder participar en Mundiales “contra los más grandes”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AjWDbp4H_wONb3BT-piXscF"
-    }
-  },
-  {
-    "title": "Piastri splits from manager Webber",
-    "url": "https://www.skysports.com/f1/news/12040/13610108/oscar-piastri-mclaren-driver-splits-from-mark-webber-management-after-sao-paulo-grand-prix-in-brazil",
-    "summary": "Oscar Piastri has split from his management team, led by former Red Bull driver and nine-time Formula 1 winner Mark Webber and his partner Ann Webber.",
-    "published": "Mon, 09 Nov 2026 11:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-oscar-piastri_7401995.jpg?20261109105916",
-    "media_type": "image/jpg",
-    "arabic_title": "ينفصل بياستري عن المدير ويبر",
-    "arabic_summary": "انفصل أوسكار بياستري عن فريقه الإداري، بقيادة سائق ريد بول السابق والفائز تسع مرات ببطولة الفورمولا 1 مارك ويبر وشريكته آن ويبر.",
-    "translation_status": "translated",
-    "post_title": "ينفصل بياستري عن المدير ويبر",
-    "post_text": "🚨 ينفصل بياستري عن المدير ويبر\n\n📝 انفصل أوسكار بياستري عن فريقه الإداري، بقيادة سائق ريد بول السابق والفائز تسع مرات ببطولة الفورمولا 1 مارك ويبر وشريكته آن ويبر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1103216715676972",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ينفصل_بياستري_عن_المدير_ويبر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13610108/oscar-piastri-mclaren-driver-splits-from-mark-webber-management-after-sao-paulo-grand-prix-in-brazil",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AsKOjMtgOBBHUQgPc82ivCQ"
     }
   }
 ]
