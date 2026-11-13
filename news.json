@@ -1,5 +1,39 @@
 [
   {
+    "title": "Zubimendi: \"Sobre mi futuro se han dicho muchas mentiras\"",
+    "url": "https://www.marca.com/futbol/nations-league/2026/11/13/zubimendi-sobre-mi-futuro-han-dicho-muchas-mentiras.html",
+    "summary": "\"No es fácil venir a la selección con pocos minutos\"",
+    "published": "Fri, 13 Nov 2026 06:21:57 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/6af69e6dd7779.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "زوبيمندي: \"لقد قيلت الكثير من الأكاذيب حول مستقبلي\"",
+    "arabic_summary": "\"ليس من السهل الانضمام إلى المنتخب الوطني في دقائق معدودة\"",
+    "translation_status": "translated",
+    "post_title": "زوبيمندي: \"لقد قيلت الكثير من الأكاذيب حول مستقبلي\"",
+    "post_text": "🚨 زوبيمندي: \"لقد قيلت الكثير من الأكاذيب حول مستقبلي\"\n\n📝 \"ليس من السهل الانضمام إلى المنتخب الوطني في دقائق معدودة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107096735288970",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زوبيمندي_لقد_قيلت_الكثير_من_الأكاذيب_حول_مستقبلي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/nations-league/2026/11/13/zubimendi-sobre-mi-futuro-han-dicho-muchas-mentiras.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1-WoxfyLjp3dBzSWPaplYD"
+    }
+  },
+  {
     "title": "Harry Kane desafía a España desvelando el mensaje del vestuario de Inglaterra",
     "url": "https://www.marca.com/futbol/nations-league/2026/11/13/harry-kane-desafia-espana-desvelando-mensaje-vestuario-inglaterra.html",
     "summary": "\"Nos dijimos: 'Vamos a ganar todos los partidos hasta el próximo y a ver qué pasa'. Ahora tenemos la oportunidad perfecta para demostrar de lo que somos capaces\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ARCDnLuXN38TCh5_0RovY5_"
-    }
-  },
-  {
-    "title": "How Rahm's Abu Dhabi win starts 'next page' in career after LIV exit",
-    "url": "https://www.skysports.com/golf/news/12040/13609668/jon-rahm-how-dp-world-tour-win-in-abu-dhabi-marks-start-of-next-page-in-career-after-mental-strain-of-liv-golf-exit",
-    "summary": "Jon Rahm has experienced plenty of change on - and off - the golf course in recent months, with the Spaniard pleased to begin the \"next page\" of his career with a victory.",
-    "published": "Mon, 09 Nov 2026 06:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-jon-rahm-abu-dhabi_7400981.jpg?20261108145952",
-    "media_type": "image/jpg",
-    "arabic_title": "كيف يبدأ فوز رام في أبو ظبي \"الصفحة التالية\" في حياته المهنية بعد خروج LIV",
-    "arabic_summary": "شهد جون رام الكثير من التغييرات داخل وخارج ملعب الجولف في الأشهر الأخيرة، حيث كان الإسباني سعيدًا ببدء \"الصفحة التالية\" من مسيرته بانتصار.",
-    "translation_status": "translated",
-    "post_title": "كيف يبدأ فوز رام في أبو ظبي \"الصفحة التالية\" في حياته المهنية بعد خروج LIV",
-    "post_text": "🚨 كيف يبدأ فوز رام في أبو ظبي \"الصفحة التالية\" في حياته المهنية بعد خروج LIV\n\n📝 شهد جون رام الكثير من التغييرات داخل وخارج ملعب الجولف في الأشهر الأخيرة، حيث كان الإسباني سعيدًا ببدء \"الصفحة التالية\" من مسيرته بانتصار.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102911522374158",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_يبدأ_فوز_رام_في_أبو_ظبي_الصفحة_التالية_في_حياته_المهنية_بعد_خروج_LIV.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/golf/news/12040/13609668/jon-rahm-how-dp-world-tour-win-in-abu-dhabi-marks-start-of-next-page-in-career-after-mental-strain-of-liv-golf-exit",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ama1NTNuQMEjvsCxbrLWgSR"
     }
   }
 ]
