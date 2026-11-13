@@ -1,5 +1,39 @@
 [
   {
+    "title": "Oihan Sancet, del \"sueño\" de defender a España al \"sueño\" de jugar con Euskadi un Mundial",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/13/oihan-sancet-sueno-defender-espana-sueno-jugar-euskadi-mundial.html",
+    "summary": "El navarro Oihan Sancet fue convocado por primera vez con España en 2023 y acaba de ser convocado por la seleccion de Euskadi",
+    "published": "Fri, 13 Nov 2026 07:49:03 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/gtfT21gzhNxRA4Q9r.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أويهان سانسيت، من \"حلم\" الدفاع عن إسبانيا إلى \"حلم\" اللعب مع أوسكادي في كأس العالم",
+    "arabic_summary": "تم استدعاء نافاريس أويهان سانسيت لأول مرة مع إسبانيا في عام 2023 وتم استدعاؤه للتو من قبل منتخب أوسكادي.",
+    "translation_status": "translated",
+    "post_title": "أويهان سانسيت، من \"حلم\" الدفاع عن إسبانيا إلى \"حلم\" اللعب مع أوسكادي في كأس العالم",
+    "post_text": "🚨 أويهان سانسيت، من \"حلم\" الدفاع عن إسبانيا إلى \"حلم\" اللعب مع أوسكادي في كأس العالم\n\n📝 تم استدعاء نافاريس أويهان سانسيت لأول مرة مع إسبانيا في عام 2023 وتم استدعاؤه للتو من قبل منتخب أوسكادي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107377138594263",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أويهان_سانسيت،_من_حلم_الدفاع_عن_إسبانيا_إلى_حلم_اللعب_مع_أوسكادي_في_كأس_العالم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/13/oihan-sancet-sueno-defender-espana-sueno-jugar-euskadi-mundial.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvT7mGuCEwBKLiYtaKqqXHn"
+    }
+  },
+  {
     "title": "Un equipo brasileño tiene cuatro canteranos llamados Cristiano Ronaldo: “Pensé que era el único, pero había otros tres”",
     "url": "https://as.com/futbol/internacional/un-equipo-brasileno-tiene-cuatro-canteranos-llamados-cristiano-ronaldo-pense-que-era-el-unico-pero-habia-otros-tres-f202611-n/",
     "summary": "El legado del astro portugués llega hasta la cantera del Gremio. Cuatro jugadores tienen el mismo nompre que el exjugador del Real Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsGDsuOWZZTIAVMIjd0Xk5g"
-    }
-  },
-  {
-    "title": "El Tenerife retoma los entrenamientos",
-    "url": "https://as.com/futbol/segunda/el-tenerife-retoma-los-entrenamientos-f202611-n/",
-    "summary": "Tras una semana muy difícil para la plantilla blanquiazul, los futbolistas vuelven al trabajo para preparar el partido del domingo ante el Ceuta.",
-    "published": "Mon, 09 Nov 2026 09:04:29 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OATJQZ3OSZEUDBTV2CJ2FTTMF4.JPG?auth=9531968b7c52143d64142cda27bdf0cab5014068e1bbc35e372ea5a8a66c95b2",
-    "media_type": "image/jpeg",
-    "arabic_title": "تينيريفي يستأنف التدريبات",
-    "arabic_summary": "بعد أسبوع صعب للغاية على فريق الأزرق والأبيض، يعود اللاعبون إلى التدريب من أجل الاستعداد لمباراة الأحد ضد سبتة.",
-    "translation_status": "translated",
-    "post_title": "تينيريفي يستأنف التدريبات",
-    "post_text": "🚨 تينيريفي يستأنف التدريبات\n\n📝 بعد أسبوع صعب للغاية على فريق الأزرق والأبيض، يعود اللاعبون إلى التدريب من أجل الاستعداد لمباراة الأحد ضد سبتة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1103216585676985",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تينيريفي_يستأنف_التدريبات.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/segunda/el-tenerife-retoma-los-entrenamientos-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AjWDbp4H_wONb3BT-piXscF"
     }
   }
 ]
