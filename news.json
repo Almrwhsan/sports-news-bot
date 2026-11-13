@@ -1,5 +1,39 @@
 [
   {
+    "title": "Greaves 'excited' to face Littler at Grand Slam of Darts",
+    "url": "https://www.skysports.com/darts/news/12040/13611422/beau-greaves-excited-to-face-luke-littler-at-grand-slam-of-darts-in-wolverhampton-this-saturday",
+    "summary": "Beau Greaves says she is \"excited\" to face Luke Littler on the opening day of the Grand Slam of Darts this weekend.",
+    "published": "Thu, 12 Nov 2026 14:10:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-beau-greaves_7404959.jpg?20261112123509",
+    "media_type": "image/jpg",
+    "arabic_title": "جريفز \"متحمس\" لمواجهة ليتلر في Grand Slam of Darts",
+    "arabic_summary": "تقول بو جريفز إنها \"متحمسة\" لمواجهة لوك ليتلر في يوم افتتاح بطولة Grand Slam of Darts في نهاية هذا الأسبوع.",
+    "translation_status": "translated",
+    "post_title": "جريفز \"متحمس\" لمواجهة ليتلر في Grand Slam of Darts",
+    "post_text": "🚨 جريفز \"متحمس\" لمواجهة ليتلر في Grand Slam of Darts\n\n📝 تقول بو جريفز إنها \"متحمسة\" لمواجهة لوك ليتلر في يوم افتتاح بطولة Grand Slam of Darts في نهاية هذا الأسبوع.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106890085309635",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جريفز_متحمس_لمواجهة_ليتلر_في_Grand_Slam_of_Darts.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/darts/news/12040/13611422/beau-greaves-excited-to-face-luke-littler-at-grand-slam-of-darts-in-wolverhampton-this-saturday",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AF7kDns4GDfCjkYG5yPNZ54"
+    }
+  },
+  {
     "title": "Inconsistencies continue for Arsenal, even against a vulnerable Barcelona",
     "url": "https://www.espn.com/soccer/story/_/id/50464177/inconsistencies-continue-arsenal-vulnerable-barcelona-uwcl",
     "summary": "In a matchup between two of the best teams in the UEFA Women's Champions League, neither Arsenal nor Barcelona was able to stand out.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVVmD9BbXJc--jxM1TBPcL2"
-    }
-  },
-  {
-    "title": "El Torremolinos sorprende al filial y da el liderato en solitario al Zaragoza",
-    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/09/torremolinos-sorprende-filial-da-liderato-solitario-zaragoza.html",
-    "summary": "El Villarreal B no pasa del empate en un espeso partido de los muchachos de David Albelda",
-    "published": "Mon, 09 Nov 2026 00:29:36 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1056278078.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "توريمولينوس يفاجئ الفريق الرديف ويمنح سرقسطة الصدارة منفردا",
-    "arabic_summary": "فياريال ب لا يتجاوز التعادل في مباراة سميكة بين أولاد ديفيد البيلدا",
-    "translation_status": "translated",
-    "post_title": "توريمولينوس يفاجئ الفريق الرديف ويمنح سرقسطة الصدارة منفردا",
-    "post_text": "🚨 توريمولينوس يفاجئ الفريق الرديف ويمنح سرقسطة الصدارة منفردا\n\n📝 فياريال ب لا يتجاوز التعادل في مباراة سميكة بين أولاد ديفيد البيلدا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102616155737028",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توريمولينوس_يفاجئ_الفريق_الرديف_ويمنح_سرقسطة_الصدارة_منفردا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/09/torremolinos-sorprende-filial-da-liderato-solitario-zaragoza.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuTJM1z-6rNbfxT59ImijdD"
     }
   }
 ]
