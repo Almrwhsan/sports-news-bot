@@ -1,5 +1,39 @@
 [
   {
+    "title": "Dumfries, en el escaparate",
+    "url": "https://as.com/futbol/internacional/dumfries-en-el-escaparate-f202611-n/",
+    "summary": "El lateral holandés volverá a jugar tras haber perdido la titularidad con el Madrid después del último parón. En aquellos partidos, costó varios goles para la Oranje.",
+    "published": "Fri, 13 Nov 2026 00:15:04 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XCJ32G45Y5FKPJYSDQY74PEDMI.jpg?auth=861c85f9e6b25ebf473e80440c96e5c439c98a9ee99e6aa2727d92dda2ac8ab5",
+    "media_type": "image/jpeg",
+    "arabic_title": "دومفريز، في النافذة",
+    "arabic_summary": "سيلعب الظهير الهولندي مرة أخرى بعد أن فقد مركزه الأساسي مع ريال مدريد بعد الاستراحة الأخيرة. وفي تلك المباريات كلف الفريق البرتقالي عدة أهداف.",
+    "translation_status": "translated",
+    "post_title": "دومفريز، في النافذة",
+    "post_text": "🚨 دومفريز، في النافذة\n\n📝 سيلعب الظهير الهولندي مرة أخرى بعد أن فقد مركزه الأساسي مع ريال مدريد بعد الاستراحة الأخيرة. وفي تلك المباريات كلف الفريق البرتقالي عدة أهداف.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106901145308529",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دومفريز،_في_النافذة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/dumfries-en-el-escaparate-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Az2nD0qQKGq38c-3ouTPg4s"
+    }
+  },
+  {
     "title": "Neville 'disgusted' at Man Utd's treatment of Carrick",
     "url": "https://www.skysports.com/football/news/12040/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford",
     "summary": "Sky Sports' Gary Neville has described Manchester United's treatment of Michael Carrick as \"disgusting\" after the club legend was sacked as head coach, with Mauricio Pochettino set to succeed him at Old Trafford.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJR4vsorkEkDi2gLDeE_9Lw"
-    }
-  },
-  {
-    "title": "La Ponferradina dio vida a la Cultural, que logró igualar en inferioridad",
-    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/09/ponferradina-dio-vida-cultural-logro-igualar-inferioridad.html",
-    "summary": "El culturalista Antón Escobar fue expulsado en el minuto 44 de la primera mitad cuando el equipo berciano dominaba por 0-1",
-    "published": "Mon, 09 Nov 2026 00:35:11 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af106ab99f40.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "أعطى Ponferradina الحياة للثقافة، التي تمكنت من المساواة في الدونية",
-    "arabic_summary": "وطرد المثقف أنطون إسكوبار في الدقيقة 44 من الشوط الأول عندما سيطر الفريق البرسيان 0-1.",
-    "translation_status": "translated",
-    "post_title": "أعطى Ponferradina الحياة للثقافة، التي تمكنت من المساواة في الدونية",
-    "post_text": "🚨 أعطى Ponferradina الحياة للثقافة، التي تمكنت من المساواة في الدونية\n\n📝 وطرد المثقف أنطون إسكوبار في الدقيقة 44 من الشوط الأول عندما سيطر الفريق البرسيان 0-1.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102619422403368",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أعطى_Ponferradina_الحياة_للثقافة،_التي_تمكنت_من_المساواة_في_الدونية.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/09/ponferradina-dio-vida-cultural-logro-igualar-inferioridad.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApWMwQr0sYHCbeeVOOvYjRr"
     }
   }
 ]
