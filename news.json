@@ -1,5 +1,39 @@
 [
   {
+    "title": "JJ Gabriel ultima su puesta a punto",
+    "url": "https://as.com/futbol/primera/jj-gabriel-ultima-su-puesta-a-punto-f202611-n/",
+    "summary": "Mientras sigue cocinándose el fichaje de la gran perla inglesa de 16 años por el Real Madrid, AS fue testigo de cómo se ejercita en la capital española.",
+    "published": "Fri, 13 Nov 2026 05:42:37 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OCBUK63GUZPZ7JXADEB5BLLVBM.jpg?auth=15c0ebd12d57076823f7e016b5b3f43070c0e56cc1982400b7c98477ce811be2",
+    "media_type": "image/jpeg",
+    "arabic_title": "جي جي غابرييل ينهي ضبطه",
+    "arabic_summary": "في حين أن التعاقد مع اللؤلؤة الإنجليزية الكبيرة البالغة من العمر 16 عامًا لريال مدريد لا يزال قيد الإعداد، فقد شهدت صحيفة AS كيف يتدرب في العاصمة الإسبانية.",
+    "translation_status": "translated",
+    "post_title": "جي جي غابرييل ينهي ضبطه",
+    "post_text": "🚨 جي جي غابرييل ينهي ضبطه\n\n📝 في حين أن التعاقد مع اللؤلؤة الإنجليزية الكبيرة البالغة من العمر 16 عامًا لريال مدريد لا يزال قيد الإعداد، فقد شهدت صحيفة AS كيف يتدرب في العاصمة الإسبانية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107115505287093",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جي_جي_غابرييل_ينهي_ضبطه.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/jj-gabriel-ultima-su-puesta-a-punto-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5S787ntbjfvz4glU2SlPNN"
+    }
+  },
+  {
     "title": "El desaguisado de Gourlay",
     "url": "https://as.com/futbol/primera/el-desaguisado-de-gourlay-f202611-n/",
     "summary": "De los siete fichajes que hizo el escocés en verano, solo Maffeo es titular y algunos ni cuentan para Aguirre.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASlDrOad1BmghKZSNcBI_wW"
-    }
-  },
-  {
-    "title": "Tennager Brown secures maiden PGA Tour title in Mexico",
-    "url": "https://www.skysports.com/watch/video/13610058/world-wide-technology-championship-day-four-highlights",
-    "summary": "Highlights from day four of the World Wide Technology Championship, as Blades Brown secured his maiden PGA Tour title in Mexico, at the El Cardonal Golf Course.",
-    "published": "Mon, 09 Nov 2026 06:53:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-gol-highlights-brown_7401795.jpg?20261109070824",
-    "media_type": "image/jpg",
-    "arabic_title": "تيناجر براون يحصل على لقب جولة PGA الأولى في المكسيك",
-    "arabic_summary": "أبرز أحداث اليوم الرابع من بطولة العالم للتكنولوجيا، حيث حصل Blades Brown على لقبه الأول في جولة PGA في المكسيك، في ملعب El Cardonal للغولف.",
-    "translation_status": "translated",
-    "post_title": "تيناجر براون يحصل على لقب جولة PGA الأولى في المكسيك",
-    "post_text": "🚨 تيناجر براون يحصل على لقب جولة PGA الأولى في المكسيك\n\n📝 أبرز أحداث اليوم الرابع من بطولة العالم للتكنولوجيا، حيث حصل Blades Brown على لقبه الأول في جولة PGA في المكسيك، في ملعب El Cardonal للغولف.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102920289039948",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تيناجر_براون_يحصل_على_لقب_جولة_PGA_الأولى_في_المكسيك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13610058/world-wide-technology-championship-day-four-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AelYu8n5GBMj3-5bHqbWtbw"
     }
   }
 ]
