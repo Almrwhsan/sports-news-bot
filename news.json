@@ -1,5 +1,39 @@
 [
   {
+    "title": "Zidane, tras la derrota ante Italia: “Forma parte del aprendizaje”",
+    "url": "https://www.marca.com/futbol/2026/11/13/zidane-derrota-italia-forma-parte-aprendizaj-video.html",
+    "summary": "",
+    "published": "Fri, 13 Nov 2026 08:37:10 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/gtgbY1gzhu06cpdEr.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "زيدان بعد الهزيمة أمام إيطاليا: \"إنه جزء من التعلم\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "زيدان بعد الهزيمة أمام إيطاليا: \"إنه جزء من التعلم\"",
+    "post_text": "🚨 زيدان بعد الهزيمة أمام إيطاليا: \"إنه جزء من التعلم\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107412308590746",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زيدان_بعد_الهزيمة_أمام_إيطاليا_إنه_جزء_من_التعلم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/13/zidane-derrota-italia-forma-parte-aprendizaj-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsjKbzFJpHk-nHQeGMa-PXt"
+    }
+  },
+  {
     "title": "Gerard López asegura haber utilizado los informes de Negreira cuando dirigía al Barça B",
     "url": "https://as.com/futbol/primera/gerard-lopez-asegura-haber-utilizado-los-informes-de-negreira-cuando-dirigia-al-barca-b-f202611-n/",
     "summary": "Junto con el exdelegado del filial, Toni Alonso, han defendido que esos informes desvelaban los criterios arbitrales que utilizaban los distintos colegiados.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUt0qoExvGFWUfpksGvcnop"
-    }
-  },
-  {
-    "title": "Aihen Muñoz: “Se me han subido los cuádriceps, los gemelos, pero estaba disfrutando”",
-    "url": "https://as.com/futbol/primera/aihen-munoz-se-me-han-subido-los-cuadriceps-los-gemelos-pero-estaba-disfrutando-f202611-n/",
-    "summary": "El lateral de la Real Sociedad volvió a la titularidad ante el Rayo y fue uno de los destacados. “Ir al parón con otra victoria nos da subidón”, señala.",
-    "published": "Mon, 09 Nov 2026 09:24:16 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2VPLJ7A7ANPVZAM2YNHICKIHGE.jpg?auth=13d99636bcac5f6d5ef1d0efff0c699718cd8963db1b6f9889b0c6a858717d34",
-    "media_type": "image/jpeg",
-    "arabic_title": "أيهن مونيوز: \"لقد ارتفعت عضلاتي الرباعية والعجول، لكنني كنت أستمتع بذلك\"",
-    "arabic_summary": "عاد ظهير ريال سوسيداد إلى التشكيلة الأساسية ضد رايو وكان أحد أبرز اللاعبين. ويقول: \"إن دخول الاستراحة بانتصار آخر يمنحنا دفعة قوية\".",
-    "translation_status": "translated",
-    "post_title": "أيهن مونيوز: \"لقد ارتفعت عضلاتي الرباعية والعجول، لكنني كنت أستمتع بذلك\"",
-    "post_text": "🚨 أيهن مونيوز: \"لقد ارتفعت عضلاتي الرباعية والعجول، لكنني كنت أستمتع بذلك\"\n\n📝 عاد ظهير ريال سوسيداد إلى التشكيلة الأساسية ضد رايو وكان أحد أبرز اللاعبين. ويقول: \"إن دخول الاستراحة بانتصار آخر يمنحنا دفعة قوية\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1103227785675865",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أيهن_مونيوز_لقد_ارتفعت_عضلاتي_الرباعية_والعجول،_لكنني_كنت_أستمتع_بذلك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/aihen-munoz-se-me-han-subido-los-cuadriceps-los-gemelos-pero-estaba-disfrutando-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ahtf8zYV3gjx5Zmsw2C-Kig"
     }
   }
 ]
