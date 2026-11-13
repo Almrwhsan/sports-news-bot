@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los Talleres de Reminiscencia: estimular la memoria a través del fútbol.",
+    "url": "https://as.com/futbol/primera/los-talleres-de-reminiscencia-estimular-la-memoria-a-traves-del-futbol-f202611-n/",
+    "summary": "Fundación LaLiga y Siempre Futbolistas renuevan otra temporada más la iniciativa, que se desarrollará en 20 ciudades.",
+    "published": "Fri, 13 Nov 2026 19:34:01 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FO3TRFVZABDCXAZCZEGQV36IBE.jpeg?auth=dfbf1c847d517fe248850c96b09bddbf195b53da13782292c5b0cc82c07e2d7b",
+    "media_type": "image/jpeg",
+    "arabic_title": "ورش الذكريات: تحفيز الذاكرة من خلال كرة القدم.",
+    "arabic_summary": "تجدد مؤسسة LaLiga وSiempre Futbolistas المبادرة لموسم آخر سيقام في 20 مدينة.",
+    "translation_status": "translated",
+    "post_title": "ورش الذكريات: تحفيز الذاكرة من خلال كرة القدم.",
+    "post_text": "🚨 ورش الذكريات: تحفيز الذاكرة من خلال كرة القدم.\n\n📝 تجدد مؤسسة LaLiga وSiempre Futbolistas المبادرة لموسم آخر سيقام في 20 مدينة.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107747801890530",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ورش_الذكريات_تحفيز_الذاكرة_من_خلال_كرة_القدم..png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/los-talleres-de-reminiscencia-estimular-la-memoria-a-traves-del-futbol-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwQgaq3mlmMPM1YXGtmBODP"
+    }
+  },
+  {
     "title": "Cubarsí y Huijsen: el futuro ya está aquí",
     "url": "https://www.marca.com/futbol/seleccion/2026/11/13/cubarsi-huijsen-futuro-aqui.html",
     "summary": "Huijsen y Cubarsí, que jugaron todo el partido ante la República Checa, son una realidad para la próxima década.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AktuymknwQp8Jb5LH-FBGGm"
-    }
-  },
-  {
-    "title": "Cinco españolas son elegidas en el once ideal para FIFPro",
-    "url": "https://www.marca.com/futbol/futbol-femenino/2026/11/09/cinco-espanolas-son-elegidas-once-ideal-fifpro.html",
-    "summary": "Mapi León, Irene Paredes, Alexia Putellas, Aitana Bonmatí y Claudia Pina han sido elegidas por sus compañeras como las mejores del pasado curso",
-    "published": "Mon, 09 Nov 2026 14:57:34 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1d10f0f170.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يتم اختيار خمسة أسبان ضمن التشكيلة المثالية للاتحاد الدولي لكرة القدم (FIFPro).",
-    "arabic_summary": "تم اختيار مابي ليون، وإيرين باريديس، وأليكسيا بوتيلاس، وأيتانا بونماتي، وكلوديا بينا من قبل زملائهم في الفصل كأفضل الطلاب في العام الماضي.",
-    "translation_status": "translated",
-    "post_title": "يتم اختيار خمسة أسبان ضمن التشكيلة المثالية للاتحاد الدولي لكرة القدم (FIFPro).",
-    "post_text": "🚨 يتم اختيار خمسة أسبان ضمن التشكيلة المثالية للاتحاد الدولي لكرة القدم (FIFPro).\n\n📝 تم اختيار مابي ليون، وإيرين باريديس، وأليكسيا بوتيلاس، وأيتانا بونماتي، وكلوديا بينا من قبل زملائهم في الفصل كأفضل الطلاب في العام الماضي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1103588232306487",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتم_اختيار_خمسة_أسبان_ضمن_التشكيلة_المثالية_للاتحاد_الدولي_لكرة_القدم_(FIFPro)..png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/futbol-femenino/2026/11/09/cinco-espanolas-son-elegidas-once-ideal-fifpro.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ad-3f1nSjQnI_lE3eCS9AEC"
     }
   }
 ]
