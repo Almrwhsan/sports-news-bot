@@ -1,5 +1,39 @@
 [
   {
+    "title": "España-Inglaterra, el mejor fútbol del mundo",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/13/espana-inglaterra-mejor-futbol-mundo.html",
+    "summary": "La campeona del mundo contra la tercera clasificada, dos escuelas dominantes, Bellingham frente al mejor centro del campo, Kane y Lamine, la cantera, las finales femeninas...",
+    "published": "Fri, 13 Nov 2026 07:11:37 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/6af6532018575.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إسبانيا وإنجلترا، أفضل كرة قدم في العالم",
+    "arabic_summary": "بطل العالم ضد الفريق صاحب المركز الثالث، مدرستان مسيطرتان، بيلينجهام ضد أفضل خط وسط، كين ولامين، المحجر، نهائيات السيدات...",
+    "translation_status": "translated",
+    "post_title": "إسبانيا وإنجلترا، أفضل كرة قدم في العالم",
+    "post_text": "🚨 إسبانيا وإنجلترا، أفضل كرة قدم في العالم\n\n📝 بطل العالم ضد الفريق صاحب المركز الثالث، مدرستان مسيطرتان، بيلينجهام ضد أفضل خط وسط، كين ولامين، المحجر، نهائيات السيدات...\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107135298618447",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إسبانيا_وإنجلترا،_أفضل_كرة_قدم_في_العالم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/13/espana-inglaterra-mejor-futbol-mundo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsmFvr4aj3c-liBHBcz9kJF"
+    }
+  },
+  {
     "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
     "url": "https://www.skysports.com/f1/news/12040/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports",
     "summary": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AheU2vq4Npw-XtKjx0Dtcox"
-    }
-  },
-  {
-    "title": "Confusion as lights go out during NFL game at the Bernabeu!",
-    "url": "https://www.skysports.com/watch/video/13609870/confusion-as-lights-go-out-during-nfl-game-at-the-bernabeu",
-    "summary": "There was confusion during a Bengals play as the lights went out at the Bernabeu!",
-    "published": "Sun, 08 Nov 2026 17:49:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-nfl-bengals_7401305.jpg?20261108175116",
-    "media_type": "image/jpg",
-    "arabic_title": "ارتباك مع انطفاء الأضواء أثناء مباراة الدوري الوطني لكرة القدم الأمريكية في البرنابيو!",
-    "arabic_summary": "كان هناك ارتباك خلال مباراة البنغالز حيث انطفأت الأضواء في البرنابيو!",
-    "translation_status": "translated",
-    "post_title": "ارتباك مع انطفاء الأضواء أثناء مباراة الدوري الوطني لكرة القدم الأمريكية في البرنابيو!",
-    "post_text": "🚨 ارتباك مع انطفاء الأضواء أثناء مباراة الدوري الوطني لكرة القدم الأمريكية في البرنابيو!\n\n📝 كان هناك ارتباك خلال مباراة البنغالز حيث انطفأت الأضواء في البرنابيو!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102995905699053",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ارتباك_مع_انطفاء_الأضواء_أثناء_مباراة_الدوري_الوطني_لكرة_القدم_الأمريكية_في_البر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13609870/confusion-as-lights-go-out-during-nfl-game-at-the-bernabeu",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A_NHYHRi4zXkAyNDhJh_nDd"
     }
   }
 ]
