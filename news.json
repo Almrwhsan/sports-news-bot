@@ -1,5 +1,39 @@
 [
   {
+    "title": "'It's over' - The games that spelt the end for Man Utd managers",
+    "url": "https://www.skysports.com/watch/video/13611843/the-games-that-spelt-the-end-for-man-utd-managers",
+    "summary": "Take a look at the final games for permanent Manchester United managers since Sir Alex Ferguson left the club.",
+    "published": "Fri, 13 Nov 2026 10:18:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-man-utd-managers_7405695.jpg?20261113102243",
+    "media_type": "image/jpg",
+    "arabic_title": "\"لقد انتهت\" - المباريات التي حددت النهاية لمدربي مانشستر يونايتد",
+    "arabic_summary": "ألقِ نظرة على المباريات النهائية للمدربين الدائمين لمانشستر يونايتد منذ مغادرة السير أليكس فيرجسون للنادي.",
+    "translation_status": "translated",
+    "post_title": "\"لقد انتهت\" - المباريات التي حددت النهاية لمدربي مانشستر يونايتد",
+    "post_text": "🚨 \"لقد انتهت\" - المباريات التي حددت النهاية لمدربي مانشستر يونايتد\n\n📝 ألقِ نظرة على المباريات النهائية للمدربين الدائمين لمانشستر يونايتد منذ مغادرة السير أليكس فيرجسون للنادي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1107392695259374",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_انتهت_-_المباريات_التي_حددت_النهاية_لمدربي_مانشستر_يونايتد.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13611843/the-games-that-spelt-the-end-for-man-utd-managers",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHAheVBMsAsRHEmXdxpFM7r"
+    }
+  },
+  {
     "title": "Oihan Sancet, del \"sueño\" de defender a España al \"sueño\" de jugar con Euskadi un Mundial",
     "url": "https://www.marca.com/futbol/seleccion/2026/11/13/oihan-sancet-sueno-defender-espana-sueno-jugar-euskadi-mundial.html",
     "summary": "El navarro Oihan Sancet fue convocado por primera vez con España en 2023 y acaba de ser convocado por la seleccion de Euskadi",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AN7HS2dJegQsPfGgxeEAhaU"
-    }
-  },
-  {
-    "title": "Oficial: Raúl González, nuevo entrenador del Oviedo",
-    "url": "https://as.com/futbol/segunda/oficial-raul-gonzalez-nuevo-entrenador-del-oviedo-f202611-n/",
-    "summary": "Pachuca ordena un cambio radical en el banquillo del Oviedo: los mexicanos echan a Calero a pesar de ganar en Cádiz y contratan al exjugador del Madrid y exentrenador del Castilla que debutará el sábado.",
-    "published": "Mon, 09 Nov 2026 08:52:57 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261109/1235637_124316_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رسميًا: راؤول جونزاليس، المدرب الجديد لأوفييدو",
-    "arabic_summary": "يأمر باتشوكا بإجراء تغيير جذري على مقاعد بدلاء أوفييدو: يطرد المكسيكيون كاليرو على الرغم من فوزهم في قادس ويوظفون لاعب ريال مدريد السابق ومدرب كاستيا السابق الذي سيظهر لأول مرة يوم السبت.",
-    "translation_status": "translated",
-    "post_title": "رسميًا: راؤول جونزاليس، المدرب الجديد لأوفييدو",
-    "post_text": "🚨 رسميًا: راؤول جونزاليس، المدرب الجديد لأوفييدو\n\n📝 يأمر باتشوكا بإجراء تغيير جذري على مقاعد بدلاء أوفييدو: يطرد المكسيكيون كاليرو على الرغم من فوزهم في قادس ويوظفون لاعب ريال مدريد السابق ومدرب كاستيا السابق الذي سيظهر لأول مرة يوم السبت.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1103216382343672",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رسميًا_راؤول_جونزاليس،_المدرب_الجديد_لأوفييدو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AsGDsuOWZZTIAVMIjd0Xk5g"
     }
   }
 ]
