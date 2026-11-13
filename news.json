@@ -1,5 +1,39 @@
 [
   {
+    "title": "Así les va a los cedidos del Barcelona",
+    "url": "https://as.com/futbol/primera/asi-les-va-a-los-cedidos-del-barcelona-f202611-n/",
+    "summary": "La situación es desigual, siendo Araújo, Ter Stegen y Kochen los que más están aprovechando su salida del club azulgrana.",
+    "published": "Fri, 13 Nov 2026 00:42:51 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DJ7JCOAIMBEL7MZJ4BHE42LZ6U.jpeg?auth=19eff472384011ab280e1fdd911b576df163c58e6890a207ccd4ac16452f1a1c",
+    "media_type": "image/jpeg",
+    "arabic_title": "هكذا يفعل اللاعبون المعارون في برشلونة",
+    "arabic_summary": "الوضع غير متكافئ، حيث أن أراوجو وتير شتيجن وكوشين هم الذين استفادوا إلى أقصى حد من رحيلهم عن نادي برشلونة.",
+    "translation_status": "translated",
+    "post_title": "هكذا يفعل اللاعبون المعارون في برشلونة",
+    "post_text": "🚨 هكذا يفعل اللاعبون المعارون في برشلونة\n\n📝 الوضع غير متكافئ، حيث أن أراوجو وتير شتيجن وكوشين هم الذين استفادوا إلى أقصى حد من رحيلهم عن نادي برشلونة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1106919578640019",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هكذا_يفعل_اللاعبون_المعارون_في_برشلونة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/asi-les-va-a-los-cedidos-del-barcelona-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AKEhYUtDxO7raStUyTPVVkS"
+    }
+  },
+  {
     "title": "Fresneda: “La Sub-21 es un equipazo y hay que darle mérito a volver”",
     "url": "https://as.com/futbol/seleccion/fresneda-la-sub-21-es-un-equipazo-y-hay-que-darle-merito-a-volver-f202611-n/",
     "summary": "El lateral, que vuelve a la Sub-21 tras debutar con la Absoluta en octubre, charla con AS sobre su gran momento en la previa del amistoso ante Japón.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Akv-YBbPb4xvegs7wW9y-8c"
-    }
-  },
-  {
-    "title": "Australia drop Labuschagne for New Zealand Test series",
-    "url": "https://www.skysports.com/cricket/news/12040/13610038/marnus-labuschagne-australia-drop-out-of-form-batter-for-four-test-series-at-home-to-new-zealand",
-    "summary": "Australia have dropped Marnus Labuschagne for the four-Test series at home to New Zealand.",
-    "published": "Mon, 09 Nov 2026 03:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-marnus-labuschagne_7320238.jpg?20261013190800",
-    "media_type": "image/jpg",
-    "arabic_title": "أستراليا تتخلى عن Labuschagne لسلسلة اختبارات نيوزيلندا",
-    "arabic_summary": "أسقطت أستراليا Marnus Labuschagne لسلسلة الاختبارات الأربعة على أرضها أمام نيوزيلندا.",
-    "translation_status": "translated",
-    "post_title": "أستراليا تتخلى عن Labuschagne لسلسلة اختبارات نيوزيلندا",
-    "post_text": "🚨 أستراليا تتخلى عن Labuschagne لسلسلة اختبارات نيوزيلندا\n\n📝 أسقطت أستراليا Marnus Labuschagne لسلسلة الاختبارات الأربعة على أرضها أمام نيوزيلندا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1102782262387084",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أستراليا_تتخلى_عن_Labuschagne_لسلسلة_اختبارات_نيوزيلندا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13610038/marnus-labuschagne-australia-drop-out-of-form-batter-for-four-test-series-at-home-to-new-zealand",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqSSBZeDPnVWdc7cuIsxYju"
     }
   }
 ]
