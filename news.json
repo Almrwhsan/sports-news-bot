@@ -1,5 +1,39 @@
 [
   {
+    "title": "WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace",
+    "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
+    "summary": "",
+    "published": "Sat, 14 Nov 2026 11:15:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527",
+    "media_type": "image/jpg",
+    "arabic_title": "WSL لايف! تشيلسي ضد مانشستر سيتي جارية، مانشستر يونايتد يتصدر بالاس",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "WSL لايف! تشيلسي ضد مانشستر سيتي جارية، مانشستر يونايتد يتصدر بالاس",
+    "post_text": "🚨 WSL لايف! تشيلسي ضد مانشستر سيتي جارية، مانشستر يونايتد يتصدر بالاس\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108452691820041",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/WSL_لايف!_تشيلسي_ضد_مانشستر_سيتي_جارية،_مانشستر_يونايتد_يتصدر_بالاس.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFtN05EE_SXilScWKd9y-RG"
+    }
+  },
+  {
     "title": "Warner claims sandpapergate investigation 'stinks of a cover-up'",
     "url": "https://www.skysports.com/cricket/news/12040/13612120/sandpapergate-david-warner-claims-cricket-australias-investigation-into-2018-scandal-stinks-of-a-cover-up",
     "summary": "David Warner has claimed Cricket Australia&#8217;s investigation into the 2018 ball tampering scandal &#8220;stinks of a cover-up&#8221;.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AafttosEwmroOlitsoQCjDJ"
-    }
-  },
-  {
-    "title": "Desmontando el bulo viral sobre Julián Alvarez y su supuesto error de salir al campo con el Barcelona",
-    "url": "https://www.marca.com/futbol/atletico/2026/11/10/desmontando-bulo-viral-sobre-julian-alvarez-supuesto-error-salir-campo-barcelona.html",
-    "summary": "Los futbolistas de Atlético y Barcelona salieron intercalados al campo, por petición de Alberola Rojas, para el homenaje a Jesús de Miguel",
-    "published": "Tue, 10 Nov 2026 07:14:26 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af2b502eae1d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تفكيك الخدعة المنتشرة حول جوليان ألفاريز وخطئه المزعوم بالخروج إلى الملعب مع برشلونة",
-    "arabic_summary": "نزل لاعبو أتلتيكو وبرشلونة إلى أرض الملعب بالتناوب، بناءً على طلب ألبيرولا روخاس، لتكريم خيسوس دي ميغيل.",
-    "translation_status": "translated",
-    "post_title": "تفكيك الخدعة المنتشرة حول جوليان ألفاريز وخطئه المزعوم بالخروج إلى الملعب مع برشلونة",
-    "post_text": "🚨 تفكيك الخدعة المنتشرة حول جوليان ألفاريز وخطئه المزعوم بالخروج إلى الملعب مع برشلونة\n\n📝 نزل لاعبو أتلتيكو وبرشلونة إلى أرض الملعب بالتناوب، بناءً على طلب ألبيرولا روخاس، لتكريم خيسوس دي ميغيل.\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104320032233307",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تفكيك_الخدعة_المنتشرة_حول_جوليان_ألفاريز_وخطئه_المزعوم_بالخروج_إلى_الملعب_مع_برش.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/11/10/desmontando-bulo-viral-sobre-julian-alvarez-supuesto-error-salir-campo-barcelona.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A0A1hcKaq6_eI0piYmAVLnT"
     }
   }
 ]
