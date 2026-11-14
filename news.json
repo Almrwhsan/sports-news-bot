@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nàstic 0 - Real Madrid Castilla 1: resumen, resultado y goles",
+    "url": "https://as.com/futbol/primera-rfef/nastic-real-madrid-castilla-en-directo-primera-federacion-en-vivo-f202611-d/",
+    "summary": "El filial blanco logra con sufrimiento su primera victoria fuera de casa de la temporada. El Nàstic luchó sin premio hasta el final con uno menos.",
+    "published": "Fri, 13 Nov 2026 22:37:48 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/I4CAQ45DYBEYBPOAP5IJF7Z47Y.jpeg?auth=2ec1b8544a4741d9f1711cb0e2ca7750c84cdf7c0ff4ab94228fb6bc332f5dbc",
+    "media_type": "image/jpeg",
+    "arabic_title": "ناستيك 0 - ريال مدريد كاستيا 1: ملخص، نتيجة وأهداف",
+    "arabic_summary": "وحقق الفريق الرديف الأبيض فوزه الأول خارج أرضه هذا الموسم بمعاناة. قاتل Nàstic بدون جائزة حتى النهاية بواحدة أقل.",
+    "translation_status": "translated",
+    "post_title": "ناستيك 0 - ريال مدريد كاستيا 1: ملخص، نتيجة وأهداف",
+    "post_text": "🚨 ناستيك 0 - ريال مدريد كاستيا 1: ملخص، نتيجة وأهداف\n\n📝 وحقق الفريق الرديف الأبيض فوزه الأول خارج أرضه هذا الموسم بمعاناة. قاتل Nàstic بدون جائزة حتى النهاية بواحدة أقل.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108807015117942",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ناستيك_0_-_ريال_مدريد_كاستيا_1_ملخص،_نتيجة_وأهداف.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera-rfef/nastic-real-madrid-castilla-en-directo-primera-federacion-en-vivo-f202611-d/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHR9DY1xgyimT1z9th-biX4"
+    }
+  },
+  {
     "title": "Apuestas y pronósticos Francia vs Turquía",
     "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/13/apuestas-pronosticos-francia-vs-turquia.html",
     "summary": "Codere te ofrece el pronóstico del partido que enfrenta a Francia y Turquía en el Matmut Stadium correspondiente a la jornada 6 del Grupo 1 de la Liga A de la Nations League",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANdvcYiaB-jZ8EGATzdbE8n"
-    }
-  },
-  {
-    "title": "City claim first win of European campaign in Inter thrashing",
-    "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
-    "summary": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
-    "published": "Mon, 09 Nov 2026 21:55:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "champions_league",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-man-city_7403449.jpg?20261110213156",
-    "media_type": "image/jpg",
-    "arabic_title": "سيتي يحقق فوزه الأول في الحملة الأوروبية بفوز ساحق على إنتر",
-    "arabic_summary": "حافظ مانشستر سيتي على آماله في ضمان المركز الرابع في دوري أبطال أوروبا بفوز مقنع على إنتر ميلان.",
-    "translation_status": "translated",
-    "post_title": "سيتي يحقق فوزه الأول في الحملة الأوروبية بفوز ساحق على إنتر",
-    "post_text": "🚨 سيتي يحقق فوزه الأول في الحملة الأوروبية بفوز ساحق على إنتر\n\n📝 حافظ مانشستر سيتي على آماله في ضمان المركز الرابع في دوري أبطال أوروبا بفوز مقنع على إنتر ميلان.\n\n🏷️ دوري أبطال أوروبا\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104618052203505",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيتي_يحقق_فوزه_الأول_في_الحملة_الأوروبية_بفوز_ساحق_على_إنتر.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ApYoNlp5Lf-txR1vSWE96-d"
     }
   }
 ]
