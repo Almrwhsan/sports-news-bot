@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los dos hombres de Mou en la sombra que explican el milagro",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/13/dos-hombres-mourinho-sombra-explican-milagro.html",
+    "summary": "António Dias y Sandro Carriço están detrás de una nueva estructura de preparación física y control de cargas que ha permitido al Madrid cambiar su tendencia con las lesiones",
+    "published": "Fri, 13 Nov 2026 15:53:11 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/11/6af4baf4f0a83.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "رجلا مو في الظل يشرحان المعجزة",
+    "arabic_summary": "أنطونيو دياس وساندرو كاريكو يقفان وراء هيكل جديد للإعداد البدني والتحكم في الأحمال، مما سمح لريال مدريد بتغيير اتجاهه مع الإصابات",
+    "translation_status": "translated",
+    "post_title": "رجلا مو في الظل يشرحان المعجزة",
+    "post_text": "🚨 رجلا مو في الظل يشرحان المعجزة\n\n📝 أنطونيو دياس وساندرو كاريكو يقفان وراء هيكل جديد للإعداد البدني والتحكم في الأحمال، مما سمح لريال مدريد بتغيير اتجاهه مع الإصابات\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108369595161684",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رجلا_مو_في_الظل_يشرحان_المعجزة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/13/dos-hombres-mourinho-sombra-explican-milagro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AwJ8OM1JDIQa57hW3I01t70"
+    }
+  },
+  {
     "title": "El cambio detrás del mejor Baena de su carrera",
     "url": "https://www.marca.com/futbol/atletico/2026/11/13/cambio-detras-mejor-baena-carrera.html",
     "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnvnVwI0xA71pbK4YWkWuf4"
-    }
-  },
-  {
-    "title": "Tavernes – Valencia | “Quedamos a las cinco y media en el bar Avenida, un café y a Mestalla”",
-    "url": "https://www.marca.com/futbol/copa-rey/2026/11/10/tavernes-valencia-quedamos-cinco-media-bar-avenida-cafe-mestalla.html",
-    "summary": "Edu Palomares ‘Tomaca’ mantiene la rutina de un equipo de sexta categoría para la noche más grande del Tavernes • “Creo que el pueblo se va a quedar vacío”",
-    "published": "Tue, 10 Nov 2026 06:53:19 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1ebefa5c08.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الحانات – فالنسيا | \"التقينا في الساعة الخامسة والنصف في بار Avenida، وتناول القهوة وميستالا\"",
-    "arabic_summary": "يحافظ إيدو بالوماريس \"توماكا\" على روتين فريق من الدرجة السادسة في أكبر ليلة في تافيرنيس • \"أعتقد أن المدينة ستكون فارغة\"",
-    "translation_status": "translated",
-    "post_title": "الحانات – فالنسيا | \"التقينا في الساعة الخامسة والنصف في بار Avenida، وتناول القهوة وميستالا\"",
-    "post_text": "🚨 الحانات – فالنسيا | \"التقينا في الساعة الخامسة والنصف في بار Avenida، وتناول القهوة وميستالا\"\n\n📝 يحافظ إيدو بالوماريس \"توماكا\" على روتين فريق من الدرجة السادسة في أكبر ليلة في تافيرنيس • \"أعتقد أن المدينة ستكون فارغة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104220792243231",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحانات_–_فالنسيا_التقينا_في_الساعة_الخامسة_والنصف_في_بار_Avenida،_وتناول_القهوة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/10/tavernes-valencia-quedamos-cinco-media-bar-avenida-cafe-mestalla.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvuypzVNp4PqjmxrVtaD424"
     }
   }
 ]
