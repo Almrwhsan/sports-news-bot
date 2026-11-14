@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pablo Hernández: \"No hay mejor manera de rendir homenaje a De Miguel que luchar por nuestro objetivo\"",
+    "url": "https://www.marca.com/futbol/castellon/2026/11/13/pablo-hernandez-hay-mejor-manera-rendir-homenaje-miguel-luchar-nuestro-objetivo.html",
+    "summary": "El entrenador del Castellón recuerda al que fuera compañero suyo de vestuario en el conjunto albinegro",
+    "published": "Fri, 13 Nov 2026 14:37:50 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cd2c545b671.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بابلو هيرنانديز: \"ليس هناك طريقة أفضل لتكريم دي ميغيل من القتال من أجل هدفنا\"",
+    "arabic_summary": "يتذكر مدرب كاستيلون زميله السابق في غرفة خلع الملابس في فريق ألبينيغرو",
+    "translation_status": "translated",
+    "post_title": "بابلو هيرنانديز: \"ليس هناك طريقة أفضل لتكريم دي ميغيل من القتال من أجل هدفنا\"",
+    "post_text": "🚨 بابلو هيرنانديز: \"ليس هناك طريقة أفضل لتكريم دي ميغيل من القتال من أجل هدفنا\"\n\n📝 يتذكر مدرب كاستيلون زميله السابق في غرفة خلع الملابس في فريق ألبينيغرو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108307451834565",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بابلو_هيرنانديز_ليس_هناك_طريقة_أفضل_لتكريم_دي_ميغيل_من_القتال_من_أجل_هدفنا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/castellon/2026/11/13/pablo-hernandez-hay-mejor-manera-rendir-homenaje-miguel-luchar-nuestro-objetivo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdWRb0xWCOjUZuhw8aH47Ca"
+    }
+  },
+  {
     "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
     "url": "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel",
     "summary": "Andorra goalkeeper Jesús Owono has been suspended for 12 games for an on-field collision with Jesús de Miguel that resulted in the death of the Tenerife striker.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AZE1fH9b7Cl9BMO8Xs2UyTI"
-    }
-  },
-  {
-    "title": "Visita sorpresa de los 'vampiros' a Las Rozas",
-    "url": "https://www.marca.com/futbol/seleccion/2026/11/09/visita-sorpresa-vampiros-rozas.html",
-    "summary": "Seis jugadores se sometieron a un control antidopaje.",
-    "published": "Mon, 09 Nov 2026 23:26:20 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af2486cd4140.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "زيارة مفاجئة لـ \"مصاصي الدماء\" إلى لاس روزاس",
-    "arabic_summary": "خضع ستة لاعبين لاختبار المنشطات.",
-    "translation_status": "translated",
-    "post_title": "زيارة مفاجئة لـ \"مصاصي الدماء\" إلى لاس روزاس",
-    "post_text": "🚨 زيارة مفاجئة لـ \"مصاصي الدماء\" إلى لاس روزاس\n\n📝 خضع ستة لاعبين لاختبار المنشطات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104193225579321",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زيارة_مفاجئة_لـ_مصاصي_الدماء_إلى_لاس_روزاس.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/09/visita-sorpresa-vampiros-rozas.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A56evvVEaNX8Grut-dYZitK"
     }
   }
 ]
