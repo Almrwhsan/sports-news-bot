@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Real Madrid del futuro pide paso: \"Son jugadoras proyecto que para nosotros son ya una realidad\"",
+    "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/11/13/real-madrid-futuro-pide-paso-son-jugadoras-proyecto-nosotros-son-realidad.html",
+    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
+    "published": "Fri, 13 Nov 2026 14:47:10 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/12/6af5f3309ce13.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريال مدريد المستقبلي يطلب خطوة: \"إنهم لاعبو المشروع الذين أصبحوا حقيقة بالنسبة لنا\"",
+    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
+    "translation_status": "translated",
+    "post_title": "ريال مدريد المستقبلي يطلب خطوة: \"إنهم لاعبو المشروع الذين أصبحوا حقيقة بالنسبة لنا\"",
+    "post_text": "🚨 ريال مدريد المستقبلي يطلب خطوة: \"إنهم لاعبو المشروع الذين أصبحوا حقيقة بالنسبة لنا\"\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108310845167559",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_المستقبلي_يطلب_خطوة_إنهم_لاعبو_المشروع_الذين_أصبحوا_حقيقة_بالنسبة_لنا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/11/13/real-madrid-futuro-pide-paso-son-jugadoras-proyecto-nosotros-son-realidad.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AmYE6SqXDMqLQQUOhj0hF-F"
+    }
+  },
+  {
     "title": "Pablo Hernández: \"No hay mejor manera de rendir homenaje a De Miguel que luchar por nuestro objetivo\"",
     "url": "https://www.marca.com/futbol/castellon/2026/11/13/pablo-hernandez-hay-mejor-manera-rendir-homenaje-miguel-luchar-nuestro-objetivo.html",
     "summary": "El entrenador del Castellón recuerda al que fuera compañero suyo de vestuario en el conjunto albinegro",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AIC_CbB1VH5WIO_Xo6ZNeRJ"
-    }
-  },
-  {
-    "title": "Bellingham a Pepelu: \"A mí me da igual el Balón de Oro, no me importa\"",
-    "url": "https://www.marca.com/futbol/primera-division/2026/11/09/bellingham-pepelu-mi-me-da-igual-balon-oro-me-importa.html",
-    "summary": "El centrocampista del Real Madrid se revolvió en una guerra dialéctica con Maffeo y Pepelu",
-    "published": "Mon, 09 Nov 2026 23:55:37 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af24f5d592f5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيلينجهام لبيبلو: \"أنا لا أهتم بالكرة الذهبية، لا أهتم\"",
-    "arabic_summary": "دخل لاعب خط وسط ريال مدريد في حرب كلامية مع مافيو وبيبيلو",
-    "translation_status": "translated",
-    "post_title": "بيلينجهام لبيبلو: \"أنا لا أهتم بالكرة الذهبية، لا أهتم\"",
-    "post_text": "🚨 بيلينجهام لبيبلو: \"أنا لا أهتم بالكرة الذهبية، لا أهتم\"\n\n📝 دخل لاعب خط وسط ريال مدريد في حرب كلامية مع مافيو وبيبيلو\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104201415578502",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيلينجهام_لبيبلو_أنا_لا_أهتم_بالكرة_الذهبية،_لا_أهتم.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/11/09/bellingham-pepelu-mi-me-da-igual-balon-oro-me-importa.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZE1fH9b7Cl9BMO8Xs2UyTI"
     }
   }
 ]
