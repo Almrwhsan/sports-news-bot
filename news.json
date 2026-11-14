@@ -1,5 +1,39 @@
 [
   {
+    "title": "Papers: Man Utd eyeing move for Como star Paz",
+    "url": "https://www.skysports.com/football/news/12040/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
+    "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+    "published": "Fri, 13 Nov 2026 22:51:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+    "media_type": "image/jpg",
+    "arabic_title": "الأوراق: مانشستر يونايتد يتطلع إلى التحرك لنجم كومو باز",
+    "arabic_summary": "أبرز الأخبار والإشاعات المنقولة من صحف السبت..",
+    "translation_status": "translated",
+    "post_title": "الأوراق: مانشستر يونايتد يتطلع إلى التحرك لنجم كومو باز",
+    "post_text": "🚨 الأوراق: مانشستر يونايتد يتطلع إلى التحرك لنجم كومو باز\n\n📝 أبرز الأخبار والإشاعات المنقولة من صحف السبت..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108373228494654",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_مانشستر_يونايتد_يتطلع_إلى_التحرك_لنجم_كومو_باز.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHYvyYxb5bv9XZuyhzwowz0"
+    }
+  },
+  {
     "title": "Los dos hombres de Mou en la sombra que explican el milagro",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/13/dos-hombres-mourinho-sombra-explican-milagro.html",
     "summary": "António Dias y Sandro Carriço están detrás de una nueva estructura de preparación física y control de cargas que ha permitido al Madrid cambiar su tendencia con las lesiones",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnGaRzbPuxcaj0JL8s1MP74"
-    }
-  },
-  {
-    "title": "Valdano entiende las dos derrotas consecutivas del Atlético de Simeone",
-    "url": "https://www.marca.com/futbol/atletico/2026/11/10/valdano-entiende-dos-derrotas-consecutivas-atletico-simeone.html",
-    "summary": "\"Cuando te tocan dos partidos de ese nivel, de esa exigencia,.... Emocional y físicamente te desgasta mucho\"",
-    "published": "Tue, 10 Nov 2026 06:57:44 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af2b1b4bf4d4.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فالدانو يتفهم الهزيمتين المتتاليتين لأتلتيكو بقيادة سيميوني",
-    "arabic_summary": "\"عندما تلعب مباراتين بهذا المستوى، وهذا الطلب،... فإن ذلك يرهقك كثيرًا عاطفيًا وجسديًا\"",
-    "translation_status": "translated",
-    "post_title": "فالدانو يتفهم الهزيمتين المتتاليتين لأتلتيكو بقيادة سيميوني",
-    "post_text": "🚨 فالدانو يتفهم الهزيمتين المتتاليتين لأتلتيكو بقيادة سيميوني\n\n📝 \"عندما تلعب مباراتين بهذا المستوى، وهذا الطلب،... فإن ذلك يرهقك كثيرًا عاطفيًا وجسديًا\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104228842242426",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالدانو_يتفهم_الهزيمتين_المتتاليتين_لأتلتيكو_بقيادة_سيميوني.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/atletico/2026/11/10/valdano-entiende-dos-derrotas-consecutivas-atletico-simeone.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnvnVwI0xA71pbK4YWkWuf4"
     }
   }
 ]
