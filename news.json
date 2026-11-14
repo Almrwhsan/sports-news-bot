@@ -1,5 +1,39 @@
 [
   {
+    "title": "La mujer de Courtois se hace viral tras dejar al portero así: la escena es buenísima",
+    "url": "https://as.com/tikitakas/videos/la-mujer-de-courtois-le-sorprende-asi-en-plena-cocina-la-reaccion-del-portero-es-increible-f202611-v/",
+    "summary": "La model israelí y mujer del portero del Real Madrid, Mishel Gerzig, ha compartido este vídeo en el que muestra una gran sorpresa que le hizo a su marido.",
+    "published": "Fri, 13 Nov 2026 13:32:36 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261113/1237428_133011_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "زوجة كورتوا تنتشر بشكل كبير بعد رحيلها عن حارس المرمى بهذا الشكل: المشهد رائع",
+    "arabic_summary": "شاركت عارضة الأزياء الإسرائيلية وزوجة حارس مرمى ريال مدريد، ميشيل غيرزيج، هذا الفيديو الذي أظهرت فيه مفاجأة كبيرة صنعتها لزوجها.",
+    "translation_status": "translated",
+    "post_title": "زوجة كورتوا تنتشر بشكل كبير بعد رحيلها عن حارس المرمى بهذا الشكل: المشهد رائع",
+    "post_text": "🚨 زوجة كورتوا تنتشر بشكل كبير بعد رحيلها عن حارس المرمى بهذا الشكل: المشهد رائع\n\n📝 شاركت عارضة الأزياء الإسرائيلية وزوجة حارس مرمى ريال مدريد، ميشيل غيرزيج، هذا الفيديو الذي أظهرت فيه مفاجأة كبيرة صنعتها لزوجها.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108157335182910",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زوجة_كورتوا_تنتشر_بشكل_كبير_بعد_رحيلها_عن_حارس_المرمى_بهذا_الشكل_المشهد_رائع.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aki3_8hT1LDm6LDz6dPwtzQ"
+    }
+  },
+  {
     "title": "The 10 Best List: The top soccer players in the world right now, ranked again",
     "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
     "summary": "Who is the best soccer player in the world at the November international break? ESPN's latest rankings are here.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aw4KKno5FYD9yUVflY9H_6s"
-    }
-  },
-  {
-    "title": "El Athletic blinda a Iker Monreal hasta 2029",
-    "url": "https://www.marca.com/futbol/athletic/2026/11/09/athletic-blinda-iker-monreal-2029.html",
-    "summary": "La ascensión del central de Pamplona ha sido muy rápida",
-    "published": "Mon, 09 Nov 2026 18:11:37 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1fe7f4723e.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "درع أتلتيك إيكر مونريال حتى عام 2029",
-    "arabic_summary": "لقد كان صعود قلب دفاع بامبلونا سريعًا للغاية",
-    "translation_status": "translated",
-    "post_title": "درع أتلتيك إيكر مونريال حتى عام 2029",
-    "post_text": "🚨 درع أتلتيك إيكر مونريال حتى عام 2029\n\n📝 لقد كان صعود قلب دفاع بامبلونا سريعًا للغاية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104084848923492",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/درع_أتلتيك_إيكر_مونريال_حتى_عام_2029.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/athletic/2026/11/09/athletic-blinda-iker-monreal-2029.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AB5QJiBN2LDN16y9xp2R2RN"
     }
   }
 ]
