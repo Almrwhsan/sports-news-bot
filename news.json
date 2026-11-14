@@ -1,5 +1,39 @@
 [
   {
+    "title": "El adiós gélido y fugaz de José Juan Romero al Ceuta",
+    "url": "https://www.marca.com/futbol/ceuta/2026/11/13/adios-gelido-fugaz-jose-juan-romero-ceuta.html",
+    "summary": "Sin comparecencia pública de por medio, el entrenador se ha limitado a lanzar unas escuetas líneas en sus redes sociales",
+    "published": "Fri, 13 Nov 2026 18:27:52 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/iFM1gk0ZCBqyUA8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وداع خوسيه خوان روميرو الجليدي والعابر لسبتة",
+    "arabic_summary": "ومن دون الظهور العلني، اقتصر المدرب على إطلاق بضعة أسطر مختصرة على شبكات التواصل الاجتماعي الخاصة به",
+    "translation_status": "translated",
+    "post_title": "وداع خوسيه خوان روميرو الجليدي والعابر لسبتة",
+    "post_text": "🚨 وداع خوسيه خوان روميرو الجليدي والعابر لسبتة\n\n📝 ومن دون الظهور العلني، اقتصر المدرب على إطلاق بضعة أسطر مختصرة على شبكات التواصل الاجتماعي الخاصة به\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108413378490639",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وداع_خوسيه_خوان_روميرو_الجليدي_والعابر_لسبتة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/ceuta/2026/11/13/adios-gelido-fugaz-jose-juan-romero-ceuta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVUYw721Q7F1_RPDf6GhDWA"
+    }
+  },
+  {
     "title": "WTA Finals: Svitolina defeats Sabalenka to reach semi-finals",
     "url": "https://www.skysports.com/tennis/news/12040/13612096/wta-finals-elina-svitolina-defeats-aryna-sabalenka-to-reach-semi-finals-as-mirra-andreeva-overwhelms-diana-shnaider",
     "summary": "Elina Svitolina defeated Aryna Sabalenka over three compelling sets to reach the semi-finals of the WTA Finals in Indian Wells.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aa13RdDP2KlloM6K_v-_N3d"
-    }
-  },
-  {
-    "title": "Tom Brady deja el Birmingham City en plena lucha por ascender a la Premier League",
-    "url": "https://www.marca.com/futbol/premier-league/2026/11/10/tom-brady-deja-birmingham-city-plena-lucha-ascender-premier-league.html",
-    "summary": "Tom Brady se convirtió en accionista minoritario del Birmingham City en agosto de 2023",
-    "published": "Tue, 10 Nov 2026 08:19:44 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af2c497c93ca.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "توم برادي يغادر برمنغهام سيتي في منتصف المعركة من أجل الترقية إلى الدوري الممتاز",
-    "arabic_summary": "أصبح توم برادي مساهمًا صغيرًا في برمنغهام سيتي في أغسطس 2023",
-    "translation_status": "translated",
-    "post_title": "توم برادي يغادر برمنغهام سيتي في منتصف المعركة من أجل الترقية إلى الدوري الممتاز",
-    "post_text": "🚨 توم برادي يغادر برمنغهام سيتي في منتصف المعركة من أجل الترقية إلى الدوري الممتاز\n\n📝 أصبح توم برادي مساهمًا صغيرًا في برمنغهام سيتي في أغسطس 2023\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104314488900528",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/توم_برادي_يغادر_برمنغهام_سيتي_في_منتصف_المعركة_من_أجل_الترقية_إلى_الدوري_الممتاز.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/10/tom-brady-deja-birmingham-city-plena-lucha-ascender-premier-league.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AA92F_LhfvTBpZwP1ICwlqN"
     }
   }
 ]
