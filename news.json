@@ -1,5 +1,39 @@
 [
   {
+    "title": "El cambio detrás del mejor Baena de su carrera",
+    "url": "https://www.marca.com/futbol/atletico/2026/11/13/cambio-detras-mejor-baena-carrera.html",
+    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
+    "published": "Fri, 13 Nov 2026 15:32:26 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/6af71da17c8e0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "التغيير وراء أفضل باينا في مسيرته",
+    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "التغيير وراء أفضل باينا في مسيرته",
+    "post_text": "🚨 التغيير وراء أفضل باينا في مسيرته\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1108361988495778",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التغيير_وراء_أفضل_باينا_في_مسيرته.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/atletico/2026/11/13/cambio-detras-mejor-baena-carrera.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AqrgZPhzlIbHWRwLl2IWFfw"
+    }
+  },
+  {
     "title": "Ojo a la reacción del padre de Arda Güler cuando su hijo marca este golazo",
     "url": "https://as.com/futbol/videos/sale-a-la-luz-la-reaccion-del-padre-de-arda-guler-al-golazo-de-su-hijo-no-se-lo-pierdan-f202611-v/",
     "summary": "El centrocampista del Real Madrid anotó ante Bélgica un golazo de falta directa. Su padre lo vio así desde la grada.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvuypzVNp4PqjmxrVtaD424"
-    }
-  },
-  {
-    "title": "La nueva vida de éxitos de Vozinha no se detiene tras el Mundial",
-    "url": "https://www.marca.com/futbol/2026/11/10/nueva-vida-exitos-vozinha-detiene-mundial.html",
-    "summary": "Vozinha (40 años) da la vuelta olímpica en Chile en festejo de Colo Colo en el Monumental",
-    "published": "Tue, 10 Nov 2026 04:44:53 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af292b9dd5a3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "لا تتوقف حياة فوزينها الجديدة المليئة بالنجاح بعد كأس العالم",
-    "arabic_summary": "فوزينها (40 عاما) تقوم بالجولة الأولمبية في تشيلي في احتفال كولو كولو في مونومنتال",
-    "translation_status": "translated",
-    "post_title": "لا تتوقف حياة فوزينها الجديدة المليئة بالنجاح بعد كأس العالم",
-    "post_text": "🚨 لا تتوقف حياة فوزينها الجديدة المليئة بالنجاح بعد كأس العالم\n\n📝 فوزينها (40 عاما) تقوم بالجولة الأولمبية في تشيلي في احتفال كولو كولو في مونومنتال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1104216062243704",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لا_تتوقف_حياة_فوزينها_الجديدة_المليئة_بالنجاح_بعد_كأس_العالم.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/11/10/nueva-vida-exitos-vozinha-detiene-mundial.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AYhB2VBDClCcN0SXihTiBLk"
     }
   }
 ]
