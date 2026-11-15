@@ -1,5 +1,39 @@
 [
   {
+    "title": "Hatton targets Ryder Cup return and majors after Dubai victory",
+    "url": "https://www.skysports.com/golf/news/12040/13612487/tyrrell-hatton-targets-ryder-cup-return-for-team-europe-and-major-breakthrough-after-dp-world-tour-championship-win",
+    "summary": "Tyrrell Hatton has set his sights on a Ryder Cup return and challenging for majors next season after storming to a five-shot victory at the DP World Tour Championship.",
+    "published": "Sun, 15 Nov 2026 15:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-tyrrell-hatton-golf_7407060.jpg?20261115145449",
+    "media_type": "image/jpg",
+    "arabic_title": "هاتون يستهدف عودة كأس رايدر والبطولات الكبرى بعد فوز دبي",
+    "arabic_summary": "وضع تيريل هاتون نصب عينيه العودة إلى كأس رايدر وخوض تحديات كبرى في الموسم المقبل بعد فوزه بخمس طلقات في بطولة جولة موانئ دبي العالمية.",
+    "translation_status": "translated",
+    "post_title": "هاتون يستهدف عودة كأس رايدر والبطولات الكبرى بعد فوز دبي",
+    "post_text": "🚨 هاتون يستهدف عودة كأس رايدر والبطولات الكبرى بعد فوز دبي\n\n📝 وضع تيريل هاتون نصب عينيه العودة إلى كأس رايدر وخوض تحديات كبرى في الموسم المقبل بعد فوزه بخمس طلقات في بطولة جولة موانئ دبي العالمية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109644418367535",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هاتون_يستهدف_عودة_كأس_رايدر_والبطولات_الكبرى_بعد_فوز_دبي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/13612487/tyrrell-hatton-targets-ryder-cup-return-for-team-europe-and-major-breakthrough-after-dp-world-tour-championship-win",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAndQ67ZvRTZs0BagaAT_h1"
+    }
+  },
+  {
     "title": "Pablo Hernández alcanza los 100 puntos como entrenador del Castellón",
     "url": "https://www.marca.com/futbol/castellon/2026/11/15/pablo-hernandez-alcanza-100-puntos-entrenador-castellon.html",
     "summary": "El técnico albinegro llega a esa cifra en 50 partidos de Liga",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AzDrRsWShqaufDfR21kbZlK"
-    }
-  },
-  {
-    "title": "‘Mili y ‘Toni’ prometen pelea",
-    "url": "https://as.com/futbol/primera/mili-y-toni-prometen-pelea-f202611-n/",
-    "summary": "Militao y Rüdiger aprovechan el parón para afinarse físicamente y dar la batalla a Huijsen y Konaté, los elegidos de gala de Mourinho por ahora.",
-    "published": "Wed, 11 Nov 2026 10:01:25 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GQVFZZEAANMC7AEYFONFCIPDQQ.jpg?auth=8e112a0be9d7af4ff381be168563fd206f7cebcc632074988d5df802bcda2764",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعد \"ميلي\" و \"توني\" بالقتال",
-    "arabic_summary": "استغل ميليتاو وروديجر فترة الاستراحة للاستعداد بدنيًا ومحاربة هويسين وكوناتي، أفضل اختيارات مورينيو في الوقت الحالي.",
-    "translation_status": "translated",
-    "post_title": "يعد \"ميلي\" و \"توني\" بالقتال",
-    "post_text": "🚨 يعد \"ميلي\" و \"توني\" بالقتال\n\n📝 استغل ميليتاو وروديجر فترة الاستراحة للاستعداد بدنيًا ومحاربة هويسين وكوناتي، أفضل اختيارات مورينيو في الوقت الحالي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1105807238751253",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعد_ميلي_و_توني_بالقتال.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/mili-y-toni-prometen-pelea-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgWRIIEq-jH3Be1PoPK5a_k"
     }
   }
 ]
