@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pioneer Pete sparks jubilant Greatwood scenes at Cheltenham",
+    "url": "https://www.skysports.com/racing/news/12040/13612521/cheltenham-pioneer-pete-sparks-jubilant-greatwood-scenes-at-november-meeting",
+    "summary": "Pioneer Pete could have the County Hurdle back at Cheltenham in March as a target after continuing his charge up the two-mile hurdling rankings in the Unibet Greatwood Handicap Hurdle.",
+    "published": "Sun, 15 Nov 2026 16:34:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-pioneer-pete-racing_7407146.jpg?20261115163827",
+    "media_type": "image/jpg",
+    "arabic_title": "يُشعل الرائد بيت مشاهد غريتوود المبهجة في شلتنهام",
+    "arabic_summary": "يمكن أن يستعيد Pioneer Pete County Hurdle في شلتنهام في مارس كهدف بعد مواصلة مسيرته في تصنيفات الحواجز التي يبلغ طولها ميلين في Unibet Greatwood Handicap Hurdle.",
+    "translation_status": "translated",
+    "post_title": "يُشعل الرائد بيت مشاهد غريتوود المبهجة في شلتنهام",
+    "post_text": "🚨 يُشعل الرائد بيت مشاهد غريتوود المبهجة في شلتنهام\n\n📝 يمكن أن يستعيد Pioneer Pete County Hurdle في شلتنهام في مارس كهدف بعد مواصلة مسيرته في تصنيفات الحواجز التي يبلغ طولها ميلين في Unibet Greatwood Handicap Hurdle.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109687081696602",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يُشعل_الرائد_بيت_مشاهد_غريتوود_المبهجة_في_شلتنهام.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/racing/news/12040/13612521/cheltenham-pioneer-pete-sparks-jubilant-greatwood-scenes-at-november-meeting",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AXKDNNCKFRfJVvdpErZuxa9"
+    }
+  },
+  {
     "title": "Andrew Gilding pins BULLSEYE finish to defeat Charlie Manby!",
     "url": "https://www.skysports.com/watch/video/13612515/andrew-gilding-pins-bullseye-finish-to-defeat-charlie-manby",
     "summary": "Andrew Gilding punished Charlie Manby's wayward finishing to win their Grand Slam match on the bullseye after averaging barely over 81.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AftG_enj_L-03PCnFlNCBmj"
-    }
-  },
-  {
-    "title": "El seleccionador inflamado",
-    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/11/12/seleccionador-inflamado.html",
-    "summary": "'En Copa de Balón', una opinión de Elías Israel",
-    "published": "Thu, 12 Nov 2026 06:21:34 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/11/6af4b2b9d9e4f.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "المحدد الملتهب",
-    "arabic_summary": "\"في كأس الكرة\" رأي إلياس إسرائيل",
-    "translation_status": "translated",
-    "post_title": "المحدد الملتهب",
-    "post_text": "🚨 المحدد الملتهب\n\n📝 \"في كأس الكرة\" رأي إلياس إسرائيل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106060422059268",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المحدد_الملتهب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/11/12/seleccionador-inflamado.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATq4zHRdkUsjzLovpV9Dg4h"
     }
   }
 ]
