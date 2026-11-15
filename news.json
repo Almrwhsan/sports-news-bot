@@ -1,5 +1,39 @@
 [
   {
+    "title": "Raúl no pierde la fe: \"Este club y esta ciudad nunca se rinden\"",
+    "url": "https://www.marca.com/futbol/oviedo/2026/11/14/raul-sido-pena-teniamos-ilusion-esto-da-motivacion-siguiente.html",
+    "summary": "El entrenador del Oviedo lamenta los errores que propiciaron la remontada del Girona, comprende el enfado de la afición y mantiene su confianza: “Hay mucho potencial”",
+    "published": "Sat, 14 Nov 2026 23:33:02 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/14/6af8dd4fc894b.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "راؤول لا يفقد الثقة: \"هذا النادي وهذه المدينة لا يستسلمان أبداً\"",
+    "arabic_summary": "مدرب أوفييدو يأسف للأخطاء التي أدت إلى عودة جيرونا ويتفهم غضب الجماهير ويحافظ على ثقته: \"هناك الكثير من الإمكانات\"",
+    "translation_status": "translated",
+    "post_title": "راؤول لا يفقد الثقة: \"هذا النادي وهذه المدينة لا يستسلمان أبداً\"",
+    "post_text": "🚨 راؤول لا يفقد الثقة: \"هذا النادي وهذه المدينة لا يستسلمان أبداً\"\n\n📝 مدرب أوفييدو يأسف للأخطاء التي أدت إلى عودة جيرونا ويتفهم غضب الجماهير ويحافظ على ثقته: \"هناك الكثير من الإمكانات\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109452798386697",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راؤول_لا_يفقد_الثقة_هذا_النادي_وهذه_المدينة_لا_يستسلمان_أبداً.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/oviedo/2026/11/14/raul-sido-pena-teniamos-ilusion-esto-da-motivacion-siguiente.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A_F-MU2qwVbbQ_L1Klskoz2"
+    }
+  },
+  {
     "title": "Australia win record fourth Women's Rugby League World Cup",
     "url": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
     "summary": "Jaime Chapman guided Australia to a historic 34-10 victory in the Women's Rugby League World Cup final on Sunday in Brisbane.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aknq-TVNvHA4ijgVUZfgdZv"
-    }
-  },
-  {
-    "title": "“En la Masía llamé varias veces a mi padre llorando...”",
-    "url": "https://as.com/futbol/primera/en-la-masia-llame-varias-veces-a-mi-padre-llorando-f202611-n/",
-    "summary": "Pedro Rodríguez, en una entrevista en ‘Radioestadio Noche’ de Onda Cero, contó detalles de la dureza de su carrera profesional. Explicó las razones por las que no terminó en el Tenerife: “No quería decepcionar...”.",
-    "published": "Tue, 10 Nov 2026 11:20:48 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MCBUSOUH7FA4DGRHALK64DCSUM.jpg?auth=d930f05668e51886677c90af57a12cf235618d7f8bb639b74b337e771041d08a",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"في الماسيا اتصلت بأبي عدة مرات وهو يبكي...\"",
-    "arabic_summary": "روى بيدرو رودريغيز، في مقابلة مع برنامج Radioestadio Noche على قناة Onda Cero، تفاصيل عن صعوبة مسيرته الاحترافية. وأوضح أسباب عدم وصوله إلى تينيريفي: \"لم أرغب في أن أخيب الآمال...\".",
-    "translation_status": "translated",
-    "post_title": "\"في الماسيا اتصلت بأبي عدة مرات وهو يبكي...\"",
-    "post_text": "🚨 \"في الماسيا اتصلت بأبي عدة مرات وهو يبكي...\"\n\n📝 روى بيدرو رودريغيز، في مقابلة مع برنامج Radioestadio Noche على قناة Onda Cero، تفاصيل عن صعوبة مسيرته الاحترافية. وأوضح أسباب عدم وصوله إلى تينيريفي: \"لم أرغب في أن أخيب الآمال...\".\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1105407315457912",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/في_الماسيا_اتصلت_بأبي_عدة_مرات_وهو_يبكي....png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/en-la-masia-llame-varias-veces-a-mi-padre-llorando-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AN0XnNqvp65yVQ8P_UfqLRL"
     }
   }
 ]
