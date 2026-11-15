@@ -1,5 +1,39 @@
 [
   {
+    "title": "Andrew Gilding pins BULLSEYE finish to defeat Charlie Manby!",
+    "url": "https://www.skysports.com/watch/video/13612515/andrew-gilding-pins-bullseye-finish-to-defeat-charlie-manby",
+    "summary": "Andrew Gilding punished Charlie Manby's wayward finishing to win their Grand Slam match on the bullseye after averaging barely over 81.",
+    "published": "Sun, 15 Nov 2026 16:09:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-andrew-gilding-finish_7407142.jpg?20261115162405",
+    "media_type": "image/jpg",
+    "arabic_title": "أندرو جيلدينج يثبت نهاية BULLSEYE ليهزم تشارلي مانبي!",
+    "arabic_summary": "عاقب أندرو جيلدينج أسلوب تشارلي مانبي الضال في إنهاء المباراة ليفوز بمباراة جراند سلام على نقطة الهدف بعد أن كان متوسطه بالكاد يزيد عن 81.",
+    "translation_status": "translated",
+    "post_title": "أندرو جيلدينج يثبت نهاية BULLSEYE ليهزم تشارلي مانبي!",
+    "post_text": "🚨 أندرو جيلدينج يثبت نهاية BULLSEYE ليهزم تشارلي مانبي!\n\n📝 عاقب أندرو جيلدينج أسلوب تشارلي مانبي الضال في إنهاء المباراة ليفوز بمباراة جراند سلام على نقطة الهدف بعد أن كان متوسطه بالكاد يزيد عن 81.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109671418364835",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أندرو_جيلدينج_يثبت_نهاية_BULLSEYE_ليهزم_تشارلي_مانبي!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13612515/andrew-gilding-pins-bullseye-finish-to-defeat-charlie-manby",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvoxLXKmOHcfXqRi8pEpV1m"
+    }
+  },
+  {
     "title": "Emocionante homenaje a De Miguel: “Eterno blanquiazul”",
     "url": "https://as.com/futbol/segunda/el-primer-dia-sin-demi-f202611-n/",
     "summary": "Volvió el fútbol al Heliodoro doce días después del fallecimiento de Jesús de Miguel con un estremecedor homenaje de la afición del Tenerife.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATq4zHRdkUsjzLovpV9Dg4h"
-    }
-  },
-  {
-    "title": "En Praga pensando en Inglaterra",
-    "url": "https://www.marca.com/futbol/seleccion/opinion/2026/11/12/praga-pensando-inglaterra.html",
-    "summary": "'Al otro lado del espejo', una opinión de Alfredo Relaño",
-    "published": "Thu, 12 Nov 2026 06:22:41 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/11/6af4af8e7ba6d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "في براغ أفكر في إنجلترا",
-    "arabic_summary": "\"على الجانب الآخر من المرآة\"، رأي ألفريدو ريلانيو",
-    "translation_status": "translated",
-    "post_title": "في براغ أفكر في إنجلترا",
-    "post_text": "🚨 في براغ أفكر في إنجلترا\n\n📝 \"على الجانب الآخر من المرآة\"، رأي ألفريدو ريلانيو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106060525392591",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/في_براغ_أفكر_في_إنجلترا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/opinion/2026/11/12/praga-pensando-inglaterra.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADnt5hfsPbsdfgCvmj8zpuf"
     }
   }
 ]
