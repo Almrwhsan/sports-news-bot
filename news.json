@@ -1,5 +1,39 @@
 [
   {
+    "title": "Australia win record fourth Women's Rugby League World Cup",
+    "url": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
+    "summary": "Jaime Chapman guided Australia to a historic 34-10 victory in the Women's Rugby League World Cup final on Sunday in Brisbane.",
+    "published": "Sun, 15 Nov 2026 10:07:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-kelly-australia-jillaroos_7407004.jpg?20261115132007",
+    "media_type": "image/jpg",
+    "arabic_title": "أستراليا تفوز بكأس العالم لدوري الرجبي للسيدات للمرة الرابعة",
+    "arabic_summary": "قاد خايمي تشابمان أستراليا إلى فوز تاريخي 34-10 في نهائي كأس العالم لدوري الرجبي للسيدات يوم الأحد في برزبين.",
+    "translation_status": "translated",
+    "post_title": "أستراليا تفوز بكأس العالم لدوري الرجبي للسيدات للمرة الرابعة",
+    "post_text": "🚨 أستراليا تفوز بكأس العالم لدوري الرجبي للسيدات للمرة الرابعة\n\n📝 قاد خايمي تشابمان أستراليا إلى فوز تاريخي 34-10 في نهائي كأس العالم لدوري الرجبي للسيدات يوم الأحد في برزبين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109421585056485",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أستراليا_تفوز_بكأس_العالم_لدوري_الرجبي_للسيدات_للمرة_الرابعة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8HVbZ20079r-5cCehM3FPP"
+    }
+  },
+  {
     "title": "Suecia y Austria regresan a la élite",
     "url": "https://www.marca.com/futbol/nations-league/2026/11/14/suecia-austria-regresan-elite.html",
     "summary": "Las dos selecciones ascienden a la Liga A de la Nations League",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AN0XnNqvp65yVQ8P_UfqLRL"
-    }
-  },
-  {
-    "title": "Deco abre una nueva vía para captar talento",
-    "url": "https://as.com/futbol/primera/deco-abre-una-nueva-via-para-captar-talento-f202611-n/",
-    "summary": "El Barcelona firma un acuerdo de colaboración de cinco años con el Sfera FC para controlar a las jóvenes promesas de Brasil.",
-    "published": "Tue, 10 Nov 2026 12:47:21 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/SXLEC6OHOZNEVPWL23J4GBHG34.jpg?auth=b0e3ce30c36fdcf7278d936b460033e222a5e3c94d16abb4354abdea20be3bf9",
-    "media_type": "image/jpeg",
-    "arabic_title": "يفتح ديكو طريقة جديدة لجذب المواهب",
-    "arabic_summary": "برشلونة يوقع اتفاقية تعاون مدتها خمس سنوات مع نادي Sfera FC للسيطرة على المواهب البرازيلية الشابة.",
-    "translation_status": "translated",
-    "post_title": "يفتح ديكو طريقة جديدة لجذب المواهب",
-    "post_text": "🚨 يفتح ديكو طريقة جديدة لجذب المواهب\n\n📝 برشلونة يوقع اتفاقية تعاون مدتها خمس سنوات مع نادي Sfera FC للسيطرة على المواهب البرازيلية الشابة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1105407432124567",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يفتح_ديكو_طريقة_جديدة_لجذب_المواهب.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/deco-abre-una-nueva-via-para-captar-talento-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AujS9FtfMI-Qk_yf1Fj7nts"
     }
   }
 ]
