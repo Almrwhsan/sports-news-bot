@@ -20,7 +20,7 @@ MAX_NEWS_PER_SOURCE = 8
 
 
 # إعدادات النشر الأولية
-MAX_NEW_NEWS = 3
+MAX_NEW_NEWS = 8
 
 
 # الحد الأقصى للأخبار المحفوظة
