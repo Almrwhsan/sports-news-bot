@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Coria se desata ante un rival directo",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/15/coria-desata-rival.html",
+    "summary": "Los celestes aprovecharon el juego por bandas y las transiciones para imponerse a un rival que reaccionó tras el descanso, pero no pudo frenar el acierto local",
+    "published": "Sun, 15 Nov 2026 00:53:35 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/15/6af8f42e00d24.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "تطلق \"كوريا\" العنان لنفسها في مواجهة منافس مباشر",
+    "arabic_summary": "واستغل الفريق الأزرق الخفيف اللعب على الجناح والانتقالات ليتغلب على منافسه الذي تفاعل بعد الاستراحة، لكنه لم يتمكن من إيقاف النجاح المحلي.",
+    "translation_status": "translated",
+    "post_title": "تطلق \"كوريا\" العنان لنفسها في مواجهة منافس مباشر",
+    "post_text": "🚨 تطلق \"كوريا\" العنان لنفسها في مواجهة منافس مباشر\n\n📝 واستغل الفريق الأزرق الخفيف اللعب على الجناح والانتقالات ليتغلب على منافسه الذي تفاعل بعد الاستراحة، لكنه لم يتمكن من إيقاف النجاح المحلي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109494861715824",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تطلق_كوريا_العنان_لنفسها_في_مواجهة_منافس_مباشر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/15/coria-desata-rival.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AOFWgFwFliuPws-kz2W1aKv"
+    }
+  },
+  {
     "title": "El debut de Portillo no aportó soluciones a la Cultural",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/11/15/debut-portillo-aporto-soluciones-cultural.html",
     "summary": "Nueva derrota del equipo leonés que lleva en 2026 las mismas victorias que entrenadores (5) y que podría acabar la jornada en puestos de descenso",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AohxeezB4CBjDZ1zugKehZu"
-    }
-  },
-  {
-    "title": "Is Pochettino a short-term fix? Man Utd pursuit of Carrick replacement questioned",
-    "url": "https://www.skysports.com/football/news/12040/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
-    "summary": "Sky Sports News' Kaveh Solhekol has questioned Manchester United's pursuit of Mauricio Pochettino, suggesting there are better options available.",
-    "published": "Wed, 11 Nov 2026 12:44:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346135.jpg?20260909143140",
-    "media_type": "image/jpg",
-    "arabic_title": "هل يعتبر بوتشيتينو حلاً على المدى القصير؟ شكك في سعي مانشستر يونايتد لاستبدال كاريك",
-    "arabic_summary": "شكك كافيه سولهيكول، من سكاي سبورتس نيوز، في سعي مانشستر يونايتد للتعاقد مع ماوريسيو بوتشيتينو، مشيرًا إلى أن هناك خيارات أفضل متاحة.",
-    "translation_status": "translated",
-    "post_title": "هل يعتبر بوتشيتينو حلاً على المدى القصير؟ شكك في سعي مانشستر يونايتد لاستبدال كاريك",
-    "post_text": "🚨 هل يعتبر بوتشيتينو حلاً على المدى القصير؟ شكك في سعي مانشستر يونايتد لاستبدال كاريك\n\n📝 شكك كافيه سولهيكول، من سكاي سبورتس نيوز، في سعي مانشستر يونايتد للتعاقد مع ماوريسيو بوتشيتينو، مشيرًا إلى أن هناك خيارات أفضل متاحة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1105546245444019",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هل_يعتبر_بوتشيتينو_حلاً_على_المدى_القصير؟_شكك_في_سعي_مانشستر_يونايتد_لاستبدال_كا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AVtPDBMTGeFF3o5SsWJF3tx"
     }
   }
 ]
