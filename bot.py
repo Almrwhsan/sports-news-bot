@@ -1,14 +1,25 @@
+
 # ============================================================
-# SPORTS NEWS BOT
+# REAL MADRID NEWS BOT
+# بوت أخبار ريال مدريد - نبض مدريد
 # ============================================================
 
 import json
 import os
 import re
 
-from sources.sources_config import ALL_SOURCES
+from sources.real_madrid_config import (
+    ALL_SOURCES,
+    MAX_NEWS_PER_SOURCE,
+    MAX_NEW_NEWS,
+    MAX_NEWS,
+)
+
+from sources.real_madrid_filter import (
+    filter_real_madrid_news
+)
+
 from sources.source_manager import fetch_all_sources
-from sources.news_filter import filter_news
 from sources.news_deduplicator import deduplicate_news
 from sources.news_translator import translate_news
 from sources.news_formatter import format_news
@@ -21,15 +32,12 @@ from facebook_publisher import (
     publish_comment
 )
 
+
 # ============================================================
 # إعدادات
 # ============================================================
 
 NEWS_FILE = "news.json"
-
-MAX_NEWS_PER_SOURCE = 10
-MAX_NEW_NEWS = 20
-MAX_NEWS = 500
 
 MAX_SUMMARY_LENGTH = 450
 
@@ -434,12 +442,12 @@ def prepare_news_image(news):
         or news.get(
             "title"
         )
-        or "Football News"
+        or "Real Madrid News"
     )
 
     category = news.get(
         "category",
-        "football"
+        "real_madrid"
     )
 
     print()
@@ -661,7 +669,7 @@ def main():
 
     print()
     print("===================================")
-    print("      SPORTS NEWS BOT")
+    print("      REAL MADRID NEWS BOT")
     print("===================================")
 
     # ========================================================
@@ -677,12 +685,12 @@ def main():
     )
 
     # ========================================================
-    # 2. جلب جميع المصادر
+    # 2. جلب مصادر ريال مدريد
     # ========================================================
 
     print()
     print("===================================")
-    print("1. FETCHING SOURCES")
+    print("1. FETCHING REAL MADRID SOURCES")
     print("===================================")
 
     raw_news = fetch_all_sources(
@@ -774,21 +782,21 @@ def main():
         return
 
     # ========================================================
-    # 6. فلترة الأخبار
+    # 6. فلترة أخبار ريال مدريد فقط
     # ========================================================
 
     print()
     print("===================================")
-    print("2. FILTERING")
+    print("2. FILTERING REAL MADRID NEWS")
     print("===================================")
 
-    filtered_news = filter_news(
+    filtered_news = filter_real_madrid_news(
         new_candidate_news
     )
 
     print()
     print(
-        f"Filtered football news: "
+        f"Filtered Real Madrid news: "
         f"{len(filtered_news)}"
     )
 
@@ -796,7 +804,7 @@ def main():
 
         print()
         print(
-            "No football news remained."
+            "No Real Madrid news remained."
         )
 
         return
@@ -835,7 +843,7 @@ def main():
         return
 
     # ========================================================
-    # 8. الحد الأقصى للأخبار الجديدة
+    # 8. الحد الأقصى للأخبار الجديدة في كل تشغيل
     # ========================================================
 
     unique_news = unique_news[
@@ -1327,7 +1335,7 @@ def main():
 
         print()
         print(
-            "No new football news were published."
+            "No new Real Madrid news were published."
         )
 
     # ========================================================
