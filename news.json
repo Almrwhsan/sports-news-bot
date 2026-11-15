@@ -1,5 +1,39 @@
 [
   {
+    "title": "El líder no afloja: el Almería vuelve a ganar con goles de su gran pareja atacante",
+    "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/11/14/lider-afloja-almeria-vuelve-ganar-goles-gran-pareja-atacante.html",
+    "summary": "Marcaron Arribas y Miguel de la Fuente y los indálicos ya encadenan once jornadas sin perder",
+    "published": "Sat, 14 Nov 2026 20:25:21 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/14/192735.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الزعيم لا يستسلم: ألميريا يفوز مرة أخرى بأهداف من شريكه المهاجم العظيم",
+    "arabic_summary": "سجل أريباس وميغيل دي لا فوينتي هدفين، وقد مر فريق إنداليكوس بالفعل لمدة 11 يومًا دون خسارة",
+    "translation_status": "translated",
+    "post_title": "الزعيم لا يستسلم: ألميريا يفوز مرة أخرى بأهداف من شريكه المهاجم العظيم",
+    "post_text": "🚨 الزعيم لا يستسلم: ألميريا يفوز مرة أخرى بأهداف من شريكه المهاجم العظيم\n\n📝 سجل أريباس وميغيل دي لا فوينتي هدفين، وقد مر فريق إنداليكوس بالفعل لمدة 11 يومًا دون خسارة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109408908391086",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الزعيم_لا_يستسلم_ألميريا_يفوز_مرة_أخرى_بأهداف_من_شريكه_المهاجم_العظيم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/segunda-division/cronica/2026/11/14/lider-afloja-almeria-vuelve-ganar-goles-gran-pareja-atacante.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AQRdNApWf5hFFoxXBzvGgXB"
+    }
+  },
+  {
     "title": "Walsh: We were disrespected pre-tournament - 'How's that for culture!'",
     "url": "https://www.skysports.com/rugby-league/live-blog/12040/13612146/rugby-league-world-cup-mens-final-live-score-and-updates-as-australia-take-on-new-zealand-in-showpiece-match",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJdLEEksP-282dNKkpYkkCS"
-    }
-  },
-  {
-    "title": "El Leganés sufre lo suyo",
-    "url": "https://www.marca.com/futbol/copa-rey/2026/11/10/leganes-sufriendo-esperado-clasifica-lluvia.html",
-    "summary": "Un gol de Álex Millán al inicio de la segunda mitad permite a los pepineros superar a un combativo Trival Valderas",
-    "published": "Tue, 10 Nov 2026 22:00:55 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af37d96145fd.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ليغانيس يعاني من تلقاء نفسه",
-    "arabic_summary": "سمح هدف أليكس ميلان في بداية الشوط الثاني لفريق بيبينيروس بالتغلب على تريفال فالديراس القتالي.",
-    "translation_status": "translated",
-    "post_title": "ليغانيس يعاني من تلقاء نفسه",
-    "post_text": "🚨 ليغانيس يعاني من تلقاء نفسه\n\n📝 سمح هدف أليكس ميلان في بداية الشوط الثاني لفريق بيبينيروس بالتغلب على تريفال فالديراس القتالي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1105402415458402",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليغانيس_يعاني_من_تلقاء_نفسه.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/10/leganes-sufriendo-esperado-clasifica-lluvia.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9aQJQo9MqHOOhfVYeV2X8m"
     }
   }
 ]
