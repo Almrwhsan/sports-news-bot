@@ -1,5 +1,39 @@
 [
   {
+    "title": "Primera derrota en casa marcada por la roja a Jorquera",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/16/primera-derrota-casa-marcada-roja-jorquera.html",
+    "summary": "La expulsión en la primera mitad condena a los granas, que se adelantaron en el marcador pero terminaron sucumbiendo ante el empuje del Alcorcón",
+    "published": "Mon, 16 Nov 2026 00:35:27 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afa414ec3c45.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الهزيمة الأولى على أرضه تميزت باللون الأحمر لخوركيرا",
+    "arabic_summary": "أدى الطرد في الشوط الأول إلى إدانة فريق Granas، الذي تقدم في لوحة النتائج ولكن انتهى به الأمر بالاستسلام لضغط ألكوركون.",
+    "translation_status": "translated",
+    "post_title": "الهزيمة الأولى على أرضه تميزت باللون الأحمر لخوركيرا",
+    "post_text": "🚨 الهزيمة الأولى على أرضه تميزت باللون الأحمر لخوركيرا\n\n📝 أدى الطرد في الشوط الأول إلى إدانة فريق Granas، الذي تقدم في لوحة النتائج ولكن انتهى به الأمر بالاستسلام لضغط ألكوركون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109864898345487",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهزيمة_الأولى_على_أرضه_تميزت_باللون_الأحمر_لخوركيرا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/16/primera-derrota-casa-marcada-roja-jorquera.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AoF2HCuQhoNb_41qRG1tJYp"
+    }
+  },
+  {
     "title": "El Algeciras impone su ley en el Nuevo Mirador",
     "url": "https://www.marca.com/futbol/primera-rfef/2026/11/16/algeciras-impone-ley-nuevo-mirador.html",
     "summary": "Cuarta victoria consecutiva para los de Adrián Colunga en casa tras imponerse a un rival combativo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOZbOigNgPcB2blLb0mhdFy"
-    }
-  },
-  {
-    "title": "Retaining titles is tough but Arteta's Arsenal are built differently",
-    "url": "https://www.skysports.com/football/news/12040/13607189/mikel-artetas-hunger-for-arsenal-to-retain-the-premier-league-can-help-them-defy-the-odds-and-maintain-their-standards",
-    "summary": "The great basketball coach Phil Jackson is the most successful in NBA history having won 11 championships. Nevertheless, in his famous book Eleven Rings, he is still moved to claim that the year after winning a championship is always the hardest.",
-    "published": "Thu, 12 Nov 2026 10:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7370268.jpg?20261007094114",
-    "media_type": "image/jpg",
-    "arabic_title": "الاحتفاظ بالألقاب أمر صعب لكن آرسنال أرتيتا مبني بشكل مختلف",
-    "arabic_summary": "يعد مدرب كرة السلة الكبير فيل جاكسون هو الأكثر نجاحا في تاريخ الدوري الاميركي للمحترفين حيث فاز بـ 11 بطولة. ومع ذلك، في كتابه الشهير أحد عشر حلقة، ما زال متأثرا بالادعاء بأن العام الذي يلي الفوز بالبطولة هو دائما الأصعب.",
-    "translation_status": "translated",
-    "post_title": "الاحتفاظ بالألقاب أمر صعب لكن آرسنال أرتيتا مبني بشكل مختلف",
-    "post_text": "🚨 الاحتفاظ بالألقاب أمر صعب لكن آرسنال أرتيتا مبني بشكل مختلف\n\n📝 يعد مدرب كرة السلة الكبير فيل جاكسون هو الأكثر نجاحا في تاريخ الدوري الاميركي للمحترفين حيث فاز بـ 11 بطولة. ومع ذلك، في كتابه الشهير أحد عشر حلقة، ما زال متأثرا بالادعاء بأن العام الذي يلي الفوز بالبطولة هو دائما الأصعب.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106355845363059",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الاحتفاظ_بالألقاب_أمر_صعب_لكن_آرسنال_أرتيتا_مبني_بشكل_مختلف.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13607189/mikel-artetas-hunger-for-arsenal-to-retain-the-premier-league-can-help-them-defy-the-odds-and-maintain-their-standards",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ac7BuRJKCvtb4bOboM_YL1g"
     }
   }
 ]
