@@ -1,5 +1,39 @@
 [
   {
+    "title": "Histórico autogol: un portero la mete en propia meta al sacar con la mano",
+    "url": "https://www.marca.com/futbol/2026/11/16/historico-autogol-portero-mete-propia-meta-sacar-man-video.html",
+    "summary": "",
+    "published": "Mon, 16 Nov 2026 07:20:58 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/g1cf1uaA8.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "هدف تاريخي في مرماه: يضعه حارس المرمى في مرماه عندما يرسل بيده",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "هدف تاريخي في مرماه: يضعه حارس المرمى في مرماه عندما يرسل بيده",
+    "post_text": "🚨 هدف تاريخي في مرماه: يضعه حارس المرمى في مرماه عندما يرسل بيده\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1110543921610918",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_تاريخي_في_مرماه_يضعه_حارس_المرمى_في_مرماه_عندما_يرسل_بيده.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/16/historico-autogol-portero-mete-propia-meta-sacar-man-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfGP40iiYIBW8wAsjaXACXw"
+    }
+  },
+  {
     "title": "Los posibles rivales de España: Francia, Portugal o Dinamarca y la ecuación a despejar con Xavi y Klopp como implicados",
     "url": "https://www.marca.com/futbol/nations-league/2026/11/16/ecuacion-despejar-nations-mantiene-vilo-paises-bajos-alemania-grecia.html",
     "summary": "En el Grupo 2 de la Liga A podría haber un triple empate entre Países Bajos, Alemania y Grecia",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AS0uU9uNpmmvfb38D8cacsC"
-    }
-  },
-  {
-    "title": "Live updates, reaction as Man United sack Michael Carrick as manager",
-    "url": "https://www.espn.com/soccer/story/_/id/50441200/live-updates-reaction-man-united-sack-michael-carrick",
-    "summary": "Manchester United have sacked manager Michael Carrick after a poor run of results. Catch up on the latest reaction to the news.",
-    "published": "Thu, 12 Nov 2026 10:41:05 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "تحديثات مباشرة وردود أفعال بعد إقالة مانشستر يونايتد لمايكل كاريك من منصب المدير الفني",
-    "arabic_summary": "أعلن نادي مانشستر يونايتد الإنجليزي إقالة مدربه مايكل كاريك بعد سلسلة من النتائج السيئة. تابع آخر ردود الفعل على الأخبار.",
-    "translation_status": "translated",
-    "post_title": "تحديثات مباشرة وردود أفعال بعد إقالة مانشستر يونايتد لمايكل كاريك من منصب المدير الفني",
-    "post_text": "🚨 تحديثات مباشرة وردود أفعال بعد إقالة مانشستر يونايتد لمايكل كاريك من منصب المدير الفني\n\n📝 أعلن نادي مانشستر يونايتد الإنجليزي إقالة مدربه مايكل كاريك بعد سلسلة من النتائج السيئة. تابع آخر ردود الفعل على الأخبار.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106668551998455",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تحديثات_مباشرة_وردود_أفعال_بعد_إقالة_مانشستر_يونايتد_لمايكل_كاريك_من_منصب_المدير.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Au9MmyI3rzx_pOTMHFgl92I"
     }
   }
 ]
