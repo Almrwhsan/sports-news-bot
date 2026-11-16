@@ -1,5 +1,39 @@
 [
   {
+    "title": "De la Fuente: \"Orgullosísimo del recorrido de este equipo y lo mejor está por llegar\"",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/16/fuente-orgullosisimo-recorrido-equipo-mejor-llegar-video.html",
+    "summary": "",
+    "published": "Mon, 16 Nov 2026 01:10:53 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/aY7AUABUk.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "دي لا فوينتي: \"فخور جدًا بمشوار هذا الفريق والأفضل لم يأت بعد\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "دي لا فوينتي: \"فخور جدًا بمشوار هذا الفريق والأفضل لم يأت بعد\"",
+    "post_text": "🚨 دي لا فوينتي: \"فخور جدًا بمشوار هذا الفريق والأفضل لم يأت بعد\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109894081675902",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دي_لا_فوينتي_فخور_جدًا_بمشوار_هذا_الفريق_والأفضل_لم_يأت_بعد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/16/fuente-orgullosisimo-recorrido-equipo-mejor-llegar-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AGmeY-nofZHcCPP8ndGgiti"
+    }
+  },
+  {
     "title": "España 2-3 Inglaterra | Resumen",
     "url": "https://www.marca.com/futbol/seleccion/2026/11/16/espana-2-3-inglaterra-resumen-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AiDWyNpV6AjuqME1UNSzM1l"
-    }
-  },
-  {
-    "title": "Beirne captains strong Ireland selection vs Fiji as Gibson-Park returns",
-    "url": "https://www.skysports.com/rugby-union/news/12040/13611433/nations-championship-tadhg-beirne-captains-strong-ireland-selection-vs-fiji-as-jamison-gibson-park-returns-rob-baloucoune-passed-fit",
-    "summary": "Tadhg Beirne will captain a strong Ireland selection vs Fiji in the Nations Championship on Saturday, despite head coach Andy Farrell making seven changes.",
-    "published": "Thu, 12 Nov 2026 10:46:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-tadhg-beirne-ireland_7405047.jpg?20261112135332",
-    "media_type": "image/jpg",
-    "arabic_title": "اختيار فريق بيرن القوي لأيرلندا ضد فيجي مع عودة جيبسون-بارك",
-    "arabic_summary": "سيقود تادج بيرن تشكيلة أيرلندا القوية أمام فيجي في بطولة الأمم يوم السبت، على الرغم من قيام المدرب آندي فاريل بإجراء سبعة تغييرات.",
-    "translation_status": "translated",
-    "post_title": "اختيار فريق بيرن القوي لأيرلندا ضد فيجي مع عودة جيبسون-بارك",
-    "post_text": "🚨 اختيار فريق بيرن القوي لأيرلندا ضد فيجي مع عودة جيبسون-بارك\n\n📝 سيقود تادج بيرن تشكيلة أيرلندا القوية أمام فيجي في بطولة الأمم يوم السبت، على الرغم من قيام المدرب آندي فاريل بإجراء سبعة تغييرات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106468648685112",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اختيار_فريق_بيرن_القوي_لأيرلندا_ضد_فيجي_مع_عودة_جيبسون-بارك.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-union/news/12040/13611433/nations-championship-tadhg-beirne-captains-strong-ireland-selection-vs-fiji-as-jamison-gibson-park-returns-rob-baloucoune-passed-fit",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ar1vOHieNhjaVon-LugqqyN"
     }
   }
 ]
