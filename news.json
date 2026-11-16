@@ -1,5 +1,39 @@
 [
   {
+    "title": "España 2-3 Inglaterra | Resumen",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/16/espana-2-3-inglaterra-resumen-video.html",
+    "summary": "",
+    "published": "Mon, 16 Nov 2026 01:08:06 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/aBhVduSik.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إسبانيا 2-3 إنجلترا | ملخص",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "إسبانيا 2-3 إنجلترا | ملخص",
+    "post_text": "🚨 إسبانيا 2-3 إنجلترا | ملخص\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1109890318342945",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إسبانيا_2-3_إنجلترا_ملخص.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/16/espana-2-3-inglaterra-resumen-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "As9S21NTV65MD0LOi3XklbC"
+    }
+  },
+  {
     "title": "How did England cling on against Spain and what did Tuchel do differently?",
     "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
     "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ar1vOHieNhjaVon-LugqqyN"
-    }
-  },
-  {
-    "title": "Sy(nne) Jensen, sí ‘party’",
-    "url": "https://as.com/futbol/femenino/synne-jensen-si-party-f202611-n/",
-    "summary": "La noruega, de vuelta tras lesión, Calligaris y Kühl marcan en la victoria que aúpa a las rojiblancas a la tercera plaza, de Champions.",
-    "published": "Mon, 09 Nov 2026 19:55:32 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VTFTYKK6HBKBBMUY32B5SLWIWA.jpg?auth=44ecf20516aaabcc7c82a172eed169643dee67d11c94a20a49a8fee97dcac549",
-    "media_type": "image/jpeg",
-    "arabic_title": "Sy(nne) جنسن، sí 'party'",
-    "arabic_summary": "سجل النرويجي، العائد من الإصابة، كاليجاريس وكول هدف الفوز الذي رفع الفريق الأحمر والأبيض إلى المركز الثالث في دوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "Sy(nne) جنسن، sí 'party'",
-    "post_text": "🚨 Sy(nne) جنسن، sí 'party'\n\n📝 سجل النرويجي، العائد من الإصابة، كاليجاريس وكول هدف الفوز الذي رفع الفريق الأحمر والأبيض إلى المركز الثالث في دوري أبطال أوروبا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106429605355683",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Sy(nne)_جنسن،_sí_'party'.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/femenino/synne-jensen-si-party-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdNnxhrlfYfUrvzhdycFRrv"
     }
   }
 ]
