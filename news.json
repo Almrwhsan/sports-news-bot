@@ -1,5 +1,39 @@
 [
   {
+    "title": "Cañizares habla del racismo en España: \"Lo de San Mamés (\"español el que no bote\") no ayuda\"",
+    "url": "https://www.marca.com/futbol/2026/11/16/canizares-habla-racismo-espana-san-mames-espanol-bote-ayuda-video.html",
+    "summary": "",
+    "published": "Mon, 16 Nov 2026 07:23:32 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/g4n0p5xzM.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كانيزاريس يتحدث عن العنصرية في إسبانيا: \"شيء سان ماميس (\"الإسباني الذي لا يرتد\") لا يساعد\"",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "كانيزاريس يتحدث عن العنصرية في إسبانيا: \"شيء سان ماميس (\"الإسباني الذي لا يرتد\") لا يساعد\"",
+    "post_text": "🚨 كانيزاريس يتحدث عن العنصرية في إسبانيا: \"شيء سان ماميس (\"الإسباني الذي لا يرتد\") لا يساعد\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1110548834943760",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كانيزاريس_يتحدث_عن_العنصرية_في_إسبانيا_شيء_سان_ماميس_(الإسباني_الذي_لا_يرتد)_لا_.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/16/canizares-habla-racismo-espana-san-mames-espanol-bote-ayuda-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ay_gfkA9jJYFcsjsDExPlsR"
+    }
+  },
+  {
     "title": "Histórico autogol: un portero la mete en propia meta al sacar con la mano",
     "url": "https://www.marca.com/futbol/2026/11/16/historico-autogol-portero-mete-propia-meta-sacar-man-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AGb8pKZeUoxPH9upSDkEfzM"
-    }
-  },
-  {
-    "title": "Transfer rumors, news: Arsenal, Chelsea, Liverpool to battle for Scott signature",
-    "url": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
-    "summary": "Arsenal will challenge Chelsea and Liverpool for the signing of AFC Bournemouth midfielder Alex Scott. Transfer Talk has the latest.",
-    "published": "Thu, 12 Nov 2026 08:01:21 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "شائعات النقل والأخبار: أرسنال وتشيلسي وليفربول يتنافسون من أجل توقيع سكوت",
-    "arabic_summary": "ينافس آرسنال تشيلسي وليفربول على التعاقد مع لاعب خط وسط بورنموث أليكس سكوت. نقل الحديث لديه الأحدث.",
-    "translation_status": "translated",
-    "post_title": "شائعات النقل والأخبار: أرسنال وتشيلسي وليفربول يتنافسون من أجل توقيع سكوت",
-    "post_text": "🚨 شائعات النقل والأخبار: أرسنال وتشيلسي وليفربول يتنافسون من أجل توقيع سكوت\n\n📝 ينافس آرسنال تشيلسي وليفربول على التعاقد مع لاعب خط وسط بورنموث أليكس سكوت. نقل الحديث لديه الأحدث.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106668468665130",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شائعات_النقل_والأخبار_أرسنال_وتشيلسي_وليفربول_يتنافسون_من_أجل_توقيع_سكوت.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AS0uU9uNpmmvfb38D8cacsC"
     }
   }
 ]
