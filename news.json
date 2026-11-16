@@ -1,5 +1,39 @@
 [
   {
+    "title": "La noche en la que Swedberg silenció el Bernabéu",
+    "url": "https://www.marca.com/futbol/celta/2026/11/16/noche-swedberg-silencio-bernabeu.html",
+    "summary": "El Celta busca repetir la gesta de hace un año ante el Real Madrid",
+    "published": "Mon, 16 Nov 2026 11:09:47 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/05/22/682f31e98aa4f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الليلة التي أسكت فيها سويدبيرغ جماهير البرنابيو",
+    "arabic_summary": "يسعى سيلتا إلى تكرار إنجاز العام الماضي ضد ريال مدريد",
+    "translation_status": "translated",
+    "post_title": "الليلة التي أسكت فيها سويدبيرغ جماهير البرنابيو",
+    "post_text": "🚨 الليلة التي أسكت فيها سويدبيرغ جماهير البرنابيو\n\n📝 يسعى سيلتا إلى تكرار إنجاز العام الماضي ضد ريال مدريد\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1110702931595017",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الليلة_التي_أسكت_فيها_سويدبيرغ_جماهير_البرنابيو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/celta/2026/11/16/noche-swedberg-silencio-bernabeu.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkQdw9Gvt1a0Q6adUJC0uaC"
+    }
+  },
+  {
     "title": "Brilliant Alcaraz dominates Tiafoe for first win at ATP Finals",
     "url": "https://www.skysports.com/watch/video/13612863/carlos-alcaraz-vs-frances-tiafoe-atp-finals-highlights",
     "summary": "Highlights of the ATP Finals match between Carlos Alcaraz and Frances Tiafoe.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AF7kDns4GDfCjkYG5yPNZ54"
-    }
-  },
-  {
-    "title": "Inconsistencies continue for Arsenal, even against a vulnerable Barcelona",
-    "url": "https://www.espn.com/soccer/story/_/id/50464177/inconsistencies-continue-arsenal-vulnerable-barcelona-uwcl",
-    "summary": "In a matchup between two of the best teams in the UEFA Women's Champions League, neither Arsenal nor Barcelona was able to stand out.",
-    "published": "Thu, 12 Nov 2026 16:02:37 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "تستمر التناقضات بالنسبة لأرسنال، حتى ضد برشلونة الضعيف",
-    "arabic_summary": "في مباراة بين اثنين من أفضل الفرق في دوري أبطال أوروبا للسيدات، لم يتمكن أرسنال ولا برشلونة من التفوق.",
-    "translation_status": "translated",
-    "post_title": "تستمر التناقضات بالنسبة لأرسنال، حتى ضد برشلونة الضعيف",
-    "post_text": "🚨 تستمر التناقضات بالنسبة لأرسنال، حتى ضد برشلونة الضعيف\n\n📝 في مباراة بين اثنين من أفضل الفرق في دوري أبطال أوروبا للسيدات، لم يتمكن أرسنال ولا برشلونة من التفوق.\n\n🏷️ برشلونة\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1106879341977376",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تستمر_التناقضات_بالنسبة_لأرسنال،_حتى_ضد_برشلونة_الضعيف.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADb42WbI6M-AHHSOnXM__0s"
     }
   }
 ]
