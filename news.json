@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un ensayo en la meta",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/17/ensayo-meta.html",
+    "summary": "La sub-21 se mide en un amistoso a Albania en el escenario que albergará la final del Europeo de 2027, donde España está clasificada y conocerá sus rivales en nueve días",
+    "published": "Tue, 17 Nov 2026 06:51:47 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afb659c188e9.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "اختبار عند خط النهاية",
+    "arabic_summary": "ويواجه منتخب تحت 21 عاما ألبانيا وديا على المرحلة التي ستستضيف نهائي أوروبا 2027، حيث تصنف إسبانيا وتلتقي مع منافسيها في تسعة أيام.",
+    "translation_status": "translated",
+    "post_title": "اختبار عند خط النهاية",
+    "post_text": "🚨 اختبار عند خط النهاية\n\n📝 ويواجه منتخب تحت 21 عاما ألبانيا وديا على المرحلة التي ستستضيف نهائي أوروبا 2027، حيث تصنف إسبانيا وتلتقي مع منافسيها في تسعة أيام.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1111434108188566",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اختبار_عند_خط_النهاية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/17/ensayo-meta.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0f_oZ97PJozbm1kAwnO4YO"
+    }
+  },
+  {
     "title": "Alberola Rojas, tras ver de cerca a la muerte: \"Ninguno de los que te critica hubiese ido a tu entierro\"",
     "url": "https://www.marca.com/futbol/2026/11/17/alberola-rojas-ver-cerca-muerte-ninguno-te-critica-hubiese-ido-entierro.html",
     "summary": "\"Tengo una cicatriz de 60 puntos, fue una avería bastante gorda\"",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnnaOzWNYugEo9cZhF4VNB-"
-    }
-  },
-  {
-    "title": "La ‘10′ busca heredero",
-    "url": "https://as.com/futbol/internacional/la-10-busca-heredero-f202611-n/",
-    "summary": "Nico Paz es el favorito entre los candidatos que aspiran a vestir la camiseta de Messi. Leyendas eternas y grandes olvidados tuvieron el privilegio de portarla en el pasado. Scaloni anunció que nadie lo usará hasta torneos oficiales.",
-    "published": "Fri, 13 Nov 2026 10:04:33 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261031/1232291_082355_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "\"العشرة\" يبحث عن وريث",
-    "arabic_summary": "ويعد نيكو باز هو الأوفر حظا بين المرشحين الذين يطمحون لارتداء قميص ميسي. وكان للأساطير الخالدة والعظماء المنسيين شرف ارتدائه في الماضي. وأعلن سكالوني أنه لن يستخدمه أحد حتى البطولات الرسمية.",
-    "translation_status": "translated",
-    "post_title": "\"العشرة\" يبحث عن وريث",
-    "post_text": "🚨 \"العشرة\" يبحث عن وريث\n\n📝 ويعد نيكو باز هو الأوفر حظا بين المرشحين الذين يطمحون لارتداء قميص ميسي. وكان للأساطير الخالدة والعظماء المنسيين شرف ارتدائه في الماضي. وأعلن سكالوني أنه لن يستخدمه أحد حتى البطولات الرسمية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1107543585244285",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/العشرة_يبحث_عن_وريث.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A_qfi2v_Kb12rppgXYIKyM4"
     }
   }
 ]
