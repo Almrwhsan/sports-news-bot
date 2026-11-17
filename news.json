@@ -1,5 +1,39 @@
 [
   {
+    "title": "Jude vuelve a donde estuvo en 2023",
+    "url": "https://www.marca.com/futbol/primera-division/opinion/2026/11/17/jude-vuelve-estuvo-2023.html",
+    "summary": "Después de su exhibición en el Metropolitano, el inglés parece estar de regreso al punto de influencia en el juego que demostró en sus primeros meses con el Real Madrid",
+    "published": "Tue, 17 Nov 2026 06:57:08 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afb73ccea4b7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يعود جود إلى حيث كان في عام 2023",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "يعود جود إلى حيث كان في عام 2023",
+    "post_text": "🚨 يعود جود إلى حيث كان في عام 2023\n\n📝 Después de su exhibición en el Metropolitano, el inglés parece estar de regreso al punto de influencia en el juego que demostró en sus primeros meses con el Real Madrid\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1111468024851841",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_جود_إلى_حيث_كان_في_عام_2023.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/opinion/2026/11/17/jude-vuelve-estuvo-2023.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHY97jM8rpL08dbW5P_EIpI"
+    }
+  },
+  {
     "title": "Un ensayo en la meta",
     "url": "https://www.marca.com/futbol/seleccion/2026/11/17/ensayo-meta.html",
     "summary": "La sub-21 se mide en un amistoso a Albania en el escenario que albergará la final del Europeo de 2027, donde España está clasificada y conocerá sus rivales en nueve días",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyflrQm5wr4J34YeRKsgftE"
-    }
-  },
-  {
-    "title": "La redención de Grealish: el 'Party Boy' pide \"perdón\" por su última liada",
-    "url": "https://www.marca.com/futbol/premier-league/2026/11/13/redencion-grealish-party-boy-pide-perdon-ultima-liada.html",
-    "summary": "\"Quiero pedir disculpas a los aficionados y a todos en el club por no haber podido ayudar al equipo durante las últimas semanas. Me encanta jugar para este club\"",
-    "published": "Fri, 13 Nov 2026 09:55:09 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/6af6cfa07d1d0.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فداء غريليش: \"فتى الحفلة\" يطلب \"المغفرة\" عن علاقته الأخيرة",
-    "arabic_summary": "\"أريد أن أعتذر للجماهير وكل شخص في النادي لعدم تمكني من مساعدة الفريق خلال الأسابيع القليلة الماضية. أحب اللعب لهذا النادي\"",
-    "translation_status": "translated",
-    "post_title": "فداء غريليش: \"فتى الحفلة\" يطلب \"المغفرة\" عن علاقته الأخيرة",
-    "post_text": "🚨 فداء غريليش: \"فتى الحفلة\" يطلب \"المغفرة\" عن علاقته الأخيرة\n\n📝 \"أريد أن أعتذر للجماهير وكل شخص في النادي لعدم تمكني من مساعدة الفريق خلال الأسابيع القليلة الماضية. أحب اللعب لهذا النادي\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1107543475244296",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فداء_غريليش_فتى_الحفلة_يطلب_المغفرة_عن_علاقته_الأخيرة.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/13/redencion-grealish-party-boy-pide-perdon-ultima-liada.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnnaOzWNYugEo9cZhF4VNB-"
     }
   }
 ]
