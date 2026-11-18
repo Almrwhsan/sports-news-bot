@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Cádiz completa una ampliación de capital de 6,6 millones de euros",
+    "url": "https://www.marca.com/futbol/cadiz/2026/11/17/cadiz-completa-ampliacion-capital-6-6-millones-euros.html",
+    "summary": "El club ha cerrado la tercera fase de la operación y fija su capital social en 8.243.752 euros",
+    "published": "Tue, 17 Nov 2026 16:23:33 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/17/6afc71692d5b3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "قادس يكمل زيادة رأس المال بقيمة 6.6 مليون يورو",
+    "arabic_summary": "أنهى النادي المرحلة الثالثة من العملية وحدد رأس ماله بمبلغ 8,243,752 يورو",
+    "translation_status": "translated",
+    "post_title": "قادس يكمل زيادة رأس المال بقيمة 6.6 مليون يورو",
+    "post_text": "🚨 قادس يكمل زيادة رأس المال بقيمة 6.6 مليون يورو\n\n📝 أنهى النادي المرحلة الثالثة من العملية وحدد رأس ماله بمبلغ 8,243,752 يورو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1112183874780256",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قادس_يكمل_زيادة_رأس_المال_بقيمة_6.6_مليون_يورو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/cadiz/2026/11/17/cadiz-completa-ampliacion-capital-6-6-millones-euros.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJ3IHBrSnHVhItB7EPPTSaL"
+    }
+  },
+  {
     "title": "Papers: Poch to appoint Man Utd's first-ever female coach",
     "url": "https://www.skysports.com/football/news/12040/13613427/man-utd-boss-mauricio-pochettino-to-appoint-clubs-first-ever-female-coach-paper-talk",
     "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQwBCWfQyq_-Dm6oLGipNmz"
-    }
-  },
-  {
-    "title": "Choi pushing for first LPGA win at The Annika as Korda drops back",
-    "url": "https://www.skysports.com/golf/news/12040/13612080/the-annika-hye-jin-choi-shares-lead-as-she-seeks-first-lpga-win-while-nelly-korda-drops-four-shots-back",
-    "summary": "Hye-Jin Choi opened with two bogeys, made up ground with a 15-foot eagle putt late and finished with a three-under 67 on Friday that gave her part of a three-way share of the lead at The Annika.",
-    "published": "Fri, 13 Nov 2026 22:51:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-hye-jin-choi-the-annika_7406201.jpg?20261114072740",
-    "media_type": "image/jpg",
-    "arabic_title": "يسعى تشوي لتحقيق أول فوز في بطولة LPGA في The Annika بينما يتراجع كوردا",
-    "arabic_summary": "افتتحت Hye-Jin Choi بتسديدة نسر بطول 15 قدمًا وانتهت بثلاثة أهداف تحت 67 يوم الجمعة مما منحها جزءًا من حصة ثلاثية من الصدارة في The Annika.",
-    "translation_status": "translated",
-    "post_title": "يسعى تشوي لتحقيق أول فوز في بطولة LPGA في The Annika بينما يتراجع كوردا",
-    "post_text": "🚨 يسعى تشوي لتحقيق أول فوز في بطولة LPGA في The Annika بينما يتراجع كوردا\n\n📝 افتتحت Hye-Jin Choi بتسديدة نسر بطول 15 قدمًا وانتهت بثلاثة أهداف تحت 67 يوم الجمعة مما منحها جزءًا من حصة ثلاثية من الصدارة في The Annika.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1108340225164621",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يسعى_تشوي_لتحقيق_أول_فوز_في_بطولة_LPGA_في_The_Annika_بينما_يتراجع_كوردا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/golf/news/12040/13612080/the-annika-hye-jin-choi-shares-lead-as-she-seeks-first-lpga-win-while-nelly-korda-drops-four-shots-back",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArBP8Rq9Uv26DfdyzoxtziK"
     }
   }
 ]
