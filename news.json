@@ -1,5 +1,39 @@
 [
   {
+    "title": "Who makes the cut?! Sky Sports' Championship Team of the Season so far!",
+    "url": "https://www.skysports.com/watch/video/13613194/sky-sports-championship-team-of-the-season-so-far-who-makes-the-cut-based-on-the-power-rankings",
+    "summary": "Sky Sports EFL editor Simeon Gholam takes us through the Sky Sports Championship team of the season so far according the power rankings.",
+    "published": "Tue, 17 Nov 2026 12:26:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-champ-tots-so-far_7408626.jpg?20261117123619",
+    "media_type": "image/jpg",
+    "arabic_title": "من الذي يقطع؟! فريق بطولة سكاي سبورتس لهذا الموسم حتى الآن!",
+    "arabic_summary": "يأخذنا محرر Sky Sports EFL، Simeon Gholam، عبر فريق بطولة Sky Sports لهذا الموسم حتى الآن وفقًا لتصنيفات القوة.",
+    "translation_status": "translated",
+    "post_title": "من الذي يقطع؟! فريق بطولة سكاي سبورتس لهذا الموسم حتى الآن!",
+    "post_text": "🚨 من الذي يقطع؟! فريق بطولة سكاي سبورتس لهذا الموسم حتى الآن!\n\n📝 يأخذنا محرر Sky Sports EFL، Simeon Gholam، عبر فريق بطولة Sky Sports لهذا الموسم حتى الآن وفقًا لتصنيفات القوة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1112198161445494",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_الذي_يقطع؟!_فريق_بطولة_سكاي_سبورتس_لهذا_الموسم_حتى_الآن!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13613194/sky-sports-championship-team-of-the-season-so-far-who-makes-the-cut-based-on-the-power-rankings",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AyloWYDD-MkcQ-ZYkwNRUkx"
+    }
+  },
+  {
     "title": "Poch signs off with 'dream' USMNT finish, predicts 'big things in the future'",
     "url": "https://www.espn.com/soccer/story/_/id/50516389/pochettino-dream-usmnt-finish",
     "summary": "After coaching his last game as United States coach, Mauricio Pochettino said he thinks the team will \"achieve big things\" in the wake of his departure to Manchester United.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AecOerjDqZiX3zfcwbBoqql"
-    }
-  },
-  {
-    "title": "El Eric García más solidario",
-    "url": "https://www.marca.com/futbol/barcelona/2026/11/13/eric-garcia-solidario.html",
-    "summary": "Ha visitado este viernes las instalaciones de la Fundación AVAN",
-    "published": "Fri, 13 Nov 2026 18:26:25 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/13/6af746f0751bc.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الأكثر دعما إريك غارسيا",
-    "arabic_summary": "زار يوم الجمعة مرافق مؤسسة AVAN",
-    "translation_status": "translated",
-    "post_title": "الأكثر دعما إريك غارسيا",
-    "post_text": "🚨 الأكثر دعما إريك غارسيا\n\n📝 زار يوم الجمعة مرافق مؤسسة AVAN\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1108397208492256",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأكثر_دعما_إريك_غارسيا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/13/eric-garcia-solidario.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcSUSn37FMmfvvEvK0WPQoR"
     }
   }
 ]
