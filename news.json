@@ -1,5 +1,39 @@
 [
   {
+    "title": "FREE STREAM: Watch 'Unfinished Business' Transfer Show on Sky Sports News",
+    "url": "https://www.skysports.com/football/news/12040/13613662/free-stream-watch-special-unfinished-business-transfer-show-on-sky-sports-news-with-guest-alan-pardew",
+    "summary": "",
+    "published": "Wed, 18 Nov 2026 18:55:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "transfers",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703",
+    "media_type": "image/jpg",
+    "arabic_title": "بث مجاني: شاهد عرض نقل \"الأعمال غير المكتملة\" على قناة Sky Sports News",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "بث مجاني: شاهد عرض نقل \"الأعمال غير المكتملة\" على قناة Sky Sports News",
+    "post_text": "🚨 بث مجاني: شاهد عرض نقل \"الأعمال غير المكتملة\" على قناة Sky Sports News\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1112768728055104",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بث_مجاني_شاهد_عرض_نقل_الأعمال_غير_المكتملة_على_قناة_Sky_Sports_News.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13613662/free-stream-watch-special-unfinished-business-transfer-show-on-sky-sports-news-with-guest-alan-pardew",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYSF5Vk8lTeNqhgwlfHsLvs"
+    }
+  },
+  {
     "title": "Álvaro Cervera, indignado: \"¿Que no he estado afortunado? No merece la pena\"",
     "url": "https://www.marca.com/futbol/tenerife/2026/11/19/alvaro-cervera-indignado-he-afortunado-merece-pena.html",
     "summary": "El técnico, perplejo cuando le dicen que no había estado afortunado en su contestación a Piqué",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aotgpz1DNpNxSNg-DYfF6ms"
-    }
-  },
-  {
-    "title": "Pulisic leads USMNT to 6-goal rout of Haiti ahead of Pochettino's farewell",
-    "url": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
-    "summary": "The USMNT beat Haiti 6-0 in the first leg of its Concacaf Nations League quarterfinal, in what was Mauricio Pochettino's penultimate game in charge.",
-    "published": "Sat, 14 Nov 2026 18:41:33 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "بوليسيتش يقود USMNT للفوز على هايتي بستة أهداف قبل وداع بوتشيتينو",
-    "arabic_summary": "فاز منتخب الولايات المتحدة على هايتي بنتيجة 6-0 في مباراة الذهاب من ربع نهائي دوري أمم الكونكاكاف، في المباراة قبل الأخيرة للمدرب ماوريسيو بوتشيتينو.",
-    "translation_status": "translated",
-    "post_title": "بوليسيتش يقود USMNT للفوز على هايتي بستة أهداف قبل وداع بوتشيتينو",
-    "post_text": "🚨 بوليسيتش يقود USMNT للفوز على هايتي بستة أهداف قبل وداع بوتشيتينو\n\n📝 فاز منتخب الولايات المتحدة على هايتي بنتيجة 6-0 في مباراة الذهاب من ربع نهائي دوري أمم الكونكاكاف، في المباراة قبل الأخيرة للمدرب ماوريسيو بوتشيتينو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1108914248440552",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوليسيتش_يقود_USMNT_للفوز_على_هايتي_بستة_أهداف_قبل_وداع_بوتشيتينو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ar_J6qHzkRINer7E_0w-zQ8"
     }
   }
 ]
