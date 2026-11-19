@@ -1,5 +1,39 @@
 [
   {
+    "title": "FIA to introduce full-time F1 stewards",
+    "url": "https://www.skysports.com/f1/news/12040/13614150/fia-announce-introduction-of-full-time-f1-stewards-from-2027-ahead-of-las-vegas-grand-prix",
+    "summary": "The FIA has announced it will introduce full-time Formula 1 stewards from 2027 with the aim of having \"greater consistency in decision-making\".",
+    "published": "Thu, 19 Nov 2026 20:37:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/23/10/1920x1080/skysports-fia-logo-formula-1_6327822.jpg?20231020083614",
+    "media_type": "image/jpg",
+    "arabic_title": "الاتحاد الدولي للسيارات يقدم مضيفي الفورمولا 1 بدوام كامل",
+    "arabic_summary": "أعلن الاتحاد الدولي للسيارات أنه سيعيّن مشرفين بدوام كامل في الفورمولا 1 اعتبارًا من عام 2027 بهدف تحقيق \"اتساق أكبر في عملية صنع القرار\".",
+    "translation_status": "translated",
+    "post_title": "الاتحاد الدولي للسيارات يقدم مضيفي الفورمولا 1 بدوام كامل",
+    "post_text": "🚨 الاتحاد الدولي للسيارات يقدم مضيفي الفورمولا 1 بدوام كامل\n\n📝 أعلن الاتحاد الدولي للسيارات أنه سيعيّن مشرفين بدوام كامل في الفورمولا 1 اعتبارًا من عام 2027 بهدف تحقيق \"اتساق أكبر في عملية صنع القرار\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113778824620761",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الاتحاد_الدولي_للسيارات_يقدم_مضيفي_الفورمولا_1_بدوام_كامل.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsVZQNrtL62pvfBeBD107u6"
+    }
+  },
+  {
     "title": "Leader in his own way Haaland making 'natural' progression as City veteran",
     "url": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
     "summary": "Erling Haaland said it is \"natural\" for him to take on more responsibility as one of Manchester City's captains this season, but wants to do it in his own way.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AHxuL6eio04c9bhIgQfHpAk"
-    }
-  },
-  {
-    "title": "Primera derrota del líder en el Anxo Carro",
-    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/16/primera-derrota-lider-anxo-carro.html",
-    "summary": "Importante victoria para el conjunto rojillo en un partido con mucha eficacia",
-    "published": "Mon, 16 Nov 2026 00:19:04 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afa3d5c0af0c.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الهزيمة الأولى للزعيم في أنكسو كارو",
-    "arabic_summary": "فوز مهم لفريق الروخييو في مباراة فعالة للغاية",
-    "translation_status": "translated",
-    "post_title": "الهزيمة الأولى للزعيم في أنكسو كارو",
-    "post_text": "🚨 الهزيمة الأولى للزعيم في أنكسو كارو\n\n📝 فوز مهم لفريق الروخييو في مباراة فعالة للغاية\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109845098347467",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهزيمة_الأولى_للزعيم_في_أنكسو_كارو.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/16/primera-derrota-lider-anxo-carro.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWdhHYpF9zP3VazxhEDObT5"
     }
   }
 ]
