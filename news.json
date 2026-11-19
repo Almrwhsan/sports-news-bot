@@ -1,5 +1,39 @@
 [
   {
+    "title": "EFL latest: Swansea favourites set to join as interim coaches",
+    "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+    "summary": "",
+    "published": "Thu, 19 Nov 2026 11:48:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-joe-allen-swansea_7410349.jpg?20261119114632",
+    "media_type": "image/jpg",
+    "arabic_title": "آخر أخبار الدوري الإنجليزي الممتاز: من المقرر أن ينضم فريق سوانزي المفضل كمدربين مؤقتين",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "آخر أخبار الدوري الإنجليزي الممتاز: من المقرر أن ينضم فريق سوانزي المفضل كمدربين مؤقتين",
+    "post_text": "🚨 آخر أخبار الدوري الإنجليزي الممتاز: من المقرر أن ينضم فريق سوانزي المفضل كمدربين مؤقتين\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113390437992933",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_الدوري_الإنجليزي_الممتاز_من_المقرر_أن_ينضم_فريق_سوانزي_المفضل_كمدربين_.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Augopwrnay0seUT_W3LDCGy"
+    }
+  },
+  {
     "title": "Pochettino vows to 'change things' at Man Utd",
     "url": "https://www.skysports.com/football/news/12040/13613821/mauricio-pochettino-at-manchester-united-new-boss-vows-to-change-situation-at-old-trafford-in-first-interview",
     "summary": "Mauricio Pochettino has vowed to \"change things\" at Old Trafford in a confident first interview as Manchester United boss.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_F-MU2qwVbbQ_L1Klskoz2"
-    }
-  },
-  {
-    "title": "Australia win record fourth Women's Rugby League World Cup",
-    "url": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
-    "summary": "Jaime Chapman guided Australia to a historic 34-10 victory in the Women's Rugby League World Cup final on Sunday in Brisbane.",
-    "published": "Sun, 15 Nov 2026 10:07:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-kelly-australia-jillaroos_7407004.jpg?20261115132007",
-    "media_type": "image/jpg",
-    "arabic_title": "أستراليا تفوز بكأس العالم لدوري الرجبي للسيدات للمرة الرابعة",
-    "arabic_summary": "قاد خايمي تشابمان أستراليا إلى فوز تاريخي 34-10 في نهائي كأس العالم لدوري الرجبي للسيدات يوم الأحد في برزبين.",
-    "translation_status": "translated",
-    "post_title": "أستراليا تفوز بكأس العالم لدوري الرجبي للسيدات للمرة الرابعة",
-    "post_text": "🚨 أستراليا تفوز بكأس العالم لدوري الرجبي للسيدات للمرة الرابعة\n\n📝 قاد خايمي تشابمان أستراليا إلى فوز تاريخي 34-10 في نهائي كأس العالم لدوري الرجبي للسيدات يوم الأحد في برزبين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109421585056485",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أستراليا_تفوز_بكأس_العالم_لدوري_الرجبي_للسيدات_للمرة_الرابعة.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8HVbZ20079r-5cCehM3FPP"
     }
   }
 ]
