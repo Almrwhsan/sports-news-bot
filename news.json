@@ -1,5 +1,39 @@
 [
   {
+    "title": "“Era más feliz en la cárcel que ganando millones de euros con el fútbol”",
+    "url": "https://as.com/futbol/videos/era-mas-feliz-en-la-carcel-que-ganando-millones-de-euros-con-el-futbol-f202611-v/",
+    "summary": "Dani Alves sorprendió a todo el mundo en una de sus nuevas charlas. En ella habló sobre su pasado y su felicidad más plena.",
+    "published": "Thu, 19 Nov 2026 14:31:53 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261119/1239662_142848_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "\"كنت أكثر سعادة في السجن من كسب ملايين اليورو من خلال كرة القدم\"",
+    "arabic_summary": "داني ألفيس فاجأ الجميع في إحدى محادثاته الجديدة. تحدث فيه عن ماضيه وعن سعادته الكاملة.",
+    "translation_status": "translated",
+    "post_title": "\"كنت أكثر سعادة في السجن من كسب ملايين اليورو من خلال كرة القدم\"",
+    "post_text": "🚨 \"كنت أكثر سعادة في السجن من كسب ملايين اليورو من خلال كرة القدم\"\n\n📝 داني ألفيس فاجأ الجميع في إحدى محادثاته الجديدة. تحدث فيه عن ماضيه وعن سعادته الكاملة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113401007991876",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كنت_أكثر_سعادة_في_السجن_من_كسب_ملايين_اليورو_من_خلال_كرة_القدم.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AvcFieL8EbcngKamdFhnwg6"
+    }
+  },
+  {
     "title": "Esperando a Valverde",
     "url": "https://as.com/futbol/esperando-a-valverde-f202611-n/",
     "summary": "Todos los internacionales de vuelta, menos el charrúa: aterriza esta tarde. Bernardo y Tchouameni, con el grupo pero todavía son duda para el Celta.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfWBbl1-LICnBvqMSqTIjkc"
-    }
-  },
-  {
-    "title": "Former Australia bowler Sayers claims everyone knew about ‘Sandpapergate'",
-    "url": "https://www.skysports.com/watch/video/13612445/chadd-sayers-believes-everyone-knew-about-sandpapergate",
-    "summary": "Australian cricketer Chadd Sayers, who was involved in the 'sandpapergate&#8217; Test, believes everyone knew about it, stating there were numerous conversations about it at the time. Pictures courtesy of Sports Entertainment Network.",
-    "published": "Sun, 15 Nov 2026 11:18:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-chadd-sayers_7406963.jpg?20261115113804",
-    "media_type": "image/jpg",
-    "arabic_title": "يدعي لاعب الرامي الأسترالي السابق سايرز أن الجميع كانوا على علم بـ \"Sandpapergate\"",
-    "arabic_summary": "يعتقد لاعب الكريكيت الأسترالي تشاد سايرز، الذي شارك في اختبار \"sandpapergate\"، أن الجميع كانوا على علم بالأمر، مشيرًا إلى أنه كانت هناك العديد من المحادثات حول هذا الموضوع في ذلك الوقت. الصور مقدمة من شبكة الترفيه الرياضية.",
-    "translation_status": "translated",
-    "post_title": "يدعي لاعب الرامي الأسترالي السابق سايرز أن الجميع كانوا على علم بـ \"Sandpapergate\"",
-    "post_text": "🚨 يدعي لاعب الرامي الأسترالي السابق سايرز أن الجميع كانوا على علم بـ \"Sandpapergate\"\n\n📝 يعتقد لاعب الكريكيت الأسترالي تشاد سايرز، الذي شارك في اختبار \"sandpapergate\"، أن الجميع كانوا على علم بالأمر، مشيرًا إلى أنه كانت هناك العديد من المحادثات حول هذا الموضوع في ذلك الوقت. الصور مقدمة من شبكة الترفيه الرياضية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109461611719149",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يدعي_لاعب_الرامي_الأسترالي_السابق_سايرز_أن_الجميع_كانوا_على_علم_بـ_Sandpapergate.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13612445/chadd-sayers-believes-everyone-knew-about-sandpapergate",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMD9c_puBawrqt9ZTVj3eYo"
     }
   }
 ]
