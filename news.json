@@ -1,5 +1,39 @@
 [
   {
+    "title": "Simeone, todavía sin el Cuti y con Jonathan David",
+    "url": "https://as.com/futbol/primera/simeone-todavia-sin-el-cuti-y-con-jonathan-david-f202611-n/",
+    "summary": "El canadiense se suma al grupo. Por la tarde trabajarán Julián, Giuliano, Musso, Kang-in, Hjulmand, Sorloth, Mendoza y Vargas. Mañana, primera prueba grupal.",
+    "published": "Thu, 19 Nov 2026 11:08:14 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/VEETBVH2YVK4VMZIMD473UDS5Q.jpg?auth=a73fbeab599e7f23cd9151de3281a14d49a74bcd0518008801a2c5d148ce3d00",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيميوني، لا يزال بدون كوتي ومع جوناثان ديفيد",
+    "arabic_summary": "الكندي ينضم إلى المجموعة. في فترة ما بعد الظهر، سيعمل جوليان وجوليانو وموسو وكانغ إن وهيولماند وسورلوث وميندوزا وفارجاس. غدا اختبار المجموعة الأولى.",
+    "translation_status": "translated",
+    "post_title": "سيميوني، لا يزال بدون كوتي ومع جوناثان ديفيد",
+    "post_text": "🚨 سيميوني، لا يزال بدون كوتي ومع جوناثان ديفيد\n\n📝 الكندي ينضم إلى المجموعة. في فترة ما بعد الظهر، سيعمل جوليان وجوليانو وموسو وكانغ إن وهيولماند وسورلوث وميندوزا وفارجاس. غدا اختبار المجموعة الأولى.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113219561343354",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني،_لا_يزال_بدون_كوتي_ومع_جوناثان_ديفيد.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/simeone-todavia-sin-el-cuti-y-con-jonathan-david-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdBHIpEZIzPEJQ8rynRqLEs"
+    }
+  },
+  {
     "title": "El Barça fue minoría en cada revés con De la Fuente",
     "url": "https://as.com/futbol/seleccion/el-barca-fue-minoria-en-cada-reves-con-de-la-fuente-f202611-n/",
     "summary": "En el caos de Escocia (2-0) sólo jugó de inicio Íñigo Martínez, frente a Colombia (0-1) no hubo ningún blaugrana en el once y ante Inglaterra, en la última derrota, Cubarsí y Lamine, con Pedri y Fermín suplentes.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A43dwmuWtnr5sykL5N2wJ0J"
-    }
-  },
-  {
-    "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-    "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
-    "published": "Fri, 13 Nov 2026 22:53:17 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg",
-    "media_type": null,
-    "arabic_title": "مهووس باللياقة البدنية و\"مهووس بالسيطرة\" - ما الذي يمكن أن يتوقعه مانشستر يونايتد من بوتشيتينو؟",
-    "arabic_summary": "ما الذي يمكن أن يتوقعه مشجعو مانشستر يونايتد من مدربهم الجديد ماوريسيو بوتشيتينو؟ حصلت بي بي سي سبورت على نظرة ثاقبة من توبي ألديرفيريلد، الذي لعب تحت قيادته في توتنهام.",
-    "translation_status": "translated",
-    "post_title": "مهووس باللياقة البدنية و\"مهووس بالسيطرة\" - ما الذي يمكن أن يتوقعه مانشستر يونايتد من بوتشيتينو؟",
-    "post_text": "🚨 مهووس باللياقة البدنية و\"مهووس بالسيطرة\" - ما الذي يمكن أن يتوقعه مانشستر يونايتد من بوتشيتينو؟\n\n📝 ما الذي يمكن أن يتوقعه مشجعو مانشستر يونايتد من مدربهم الجديد ماوريسيو بوتشيتينو؟ حصلت بي بي سي سبورت على نظرة ثاقبة من توبي ألديرفيريلد، الذي لعب تحت قيادته في توتنهام.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109339161731394",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مهووس_باللياقة_البدنية_ومهووس_بالسيطرة_-_ما_الذي_يمكن_أن_يتوقعه_مانشستر_يونايتد_.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aw7ckV4FmzxyB27-y643iOy"
     }
   }
 ]
