@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los secretos de Zabiri al descubierto: \"Tiene cosas de Villa\"",
+    "url": "https://www.marca.com/futbol/racing-santander/2026/11/19/secretos-zabiri-descubierto-cosas-villa.html",
+    "summary": "André Vilas Boas, director deportivo del Famalicao, analiza la explosión del 'jugador revelación' de LaLiga. Le descubrió cuando jugaba en Marruecos",
+    "published": "Thu, 19 Nov 2026 07:51:21 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/18/6afdc72305504.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كشفت أسرار الزبيري: \"لديه أشياء فيلا\"",
+    "arabic_summary": "أندريه فيلاس بواس، المدير الرياضي في فاماليكاو، يحلل الانفجار الكبير الذي حققه \"اللاعب الصاعد\" في الدوري الإسباني. اكتشفه عندما كان يلعب في المغرب",
+    "translation_status": "translated",
+    "post_title": "كشفت أسرار الزبيري: \"لديه أشياء فيلا\"",
+    "post_text": "🚨 كشفت أسرار الزبيري: \"لديه أشياء فيلا\"\n\n📝 أندريه فيلاس بواس، المدير الرياضي في فاماليكاو، يحلل الانفجار الكبير الذي حققه \"اللاعب الصاعد\" في الدوري الإسباني. اكتشفه عندما كان يلعب في المغرب\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113446901320620",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كشفت_أسرار_الزبيري_لديه_أشياء_فيلا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/racing-santander/2026/11/19/secretos-zabiri-descubierto-cosas-villa.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjLacL1jVgmLnv34tcefSyL"
+    }
+  },
+  {
     "title": "Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January",
     "url": "https://www.skysports.com/football/news/12040/13613937/premier-league-fixtures-on-sky-sports-man-city-vs-arsenal-and-man-utd-vs-liverpool-live-in-january",
     "summary": "Arsenal's trip to Man City and Man Utd hosting Liverpool at Old Trafford are two of the standout fixtures live on Sky Sports in January.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AoTJyQU5U1HANxsHO5tTcRK"
-    }
-  },
-  {
-    "title": "DP World Tour: Every result from the 2026 Race to Dubai season",
-    "url": "https://www.skysports.com/golf/news/12040/13428182/dp-world-tour-2026-schedule-tournament-dates-and-venues-for-golf-majors-rolex-series-events-and-more",
-    "summary": "Week-by-week results from the 2026 DP World Tour season, where Rory McIlroy claimed a record-equalling eighth Race to Dubai title.",
-    "published": "Sun, 15 Nov 2026 12:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/25/09/1920x1080/skysports-rory-mcilroy-golf_7013590.jpg?20250907151708",
-    "media_type": "image/jpg",
-    "arabic_title": "جولة موانئ دبي العالمية: كل نتيجة من موسم السباق إلى دبي 2026",
-    "arabic_summary": "نتائج أسبوعية من موسم جولة موانئ دبي العالمية 2026، حيث حقق روري ماكلروي لقب السباق إلى دبي الثامن ليعادل الرقم القياسي.",
-    "translation_status": "translated",
-    "post_title": "جولة موانئ دبي العالمية: كل نتيجة من موسم السباق إلى دبي 2026",
-    "post_text": "🚨 جولة موانئ دبي العالمية: كل نتيجة من موسم السباق إلى دبي 2026\n\n📝 نتائج أسبوعية من موسم جولة موانئ دبي العالمية 2026، حيث حقق روري ماكلروي لقب السباق إلى دبي الثامن ليعادل الرقم القياسي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109503338381643",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جولة_موانئ_دبي_العالمية_كل_نتيجة_من_موسم_السباق_إلى_دبي_2026.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/golf/news/12040/13428182/dp-world-tour-2026-schedule-tournament-dates-and-venues-for-golf-majors-rolex-series-events-and-more",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ao5S5MfGAH38Jv9KasMCZ9Z"
     }
   }
 ]
