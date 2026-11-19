@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lampard: \"Es pronto para decir que el Arsenal se ha escapado\"",
+    "url": "https://www.marca.com/futbol/premier-league/2026/11/19/lampard-pronto-decir-arsenal-escapa-video.html",
+    "summary": "",
+    "published": "Thu, 19 Nov 2026 09:49:09 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/19/6afeb7eb93316.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لامبارد: من المبكر القول أن أرسنال هرب",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "لامبارد: من المبكر القول أن أرسنال هرب",
+    "post_text": "🚨 لامبارد: من المبكر القول أن أرسنال هرب\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113590587972918",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لامبارد_من_المبكر_القول_أن_أرسنال_هرب.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/19/lampard-pronto-decir-arsenal-escapa-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2YrhqKSHfG2_kyZ03rjpfK"
+    }
+  },
+  {
     "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
     "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
     "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ACsIJm_f0tL1kC3SsxnfzwY"
-    }
-  },
-  {
-    "title": "El Madrileño coge aire con lo justo",
-    "url": "https://as.com/futbol/primera-rfef/el-madrileno-coge-aire-con-lo-justo-f202611-n/",
-    "summary": "El filial, que llevaba ocho partidos sin ganar, rompe la racha gracias a un gol de David García, tras jugada de Romeo. Mal partido del equipo rojiblanco, que solo reaccionó al final. El Teruel también se quedó corto.",
-    "published": "Sun, 15 Nov 2026 13:08:11 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/5NMQJXGKVNHT5NDVOFDWX7IHE4.jpg?auth=b10f47fdb8aaf39d53fc30381fbce03c47d6127c6ea3afd7fcf7d5bfbe326f35",
-    "media_type": "image/jpeg",
-    "arabic_title": "المدريليني يلتقط أنفاسه بما فيه الكفاية",
-    "arabic_summary": "الفريق الفرعي، الذي خاض ثماني مباريات دون تحقيق أي فوز، كسر السلسلة بفضل هدف ديفيد غارسيا، بعد مسرحية من روميو. مباراة سيئة للفريق الأحمر والأبيض الذي لم يتفاعل إلا في النهاية. كما فشل تيرويل.",
-    "translation_status": "translated",
-    "post_title": "المدريليني يلتقط أنفاسه بما فيه الكفاية",
-    "post_text": "🚨 المدريليني يلتقط أنفاسه بما فيه الكفاية\n\n📝 الفريق الفرعي، الذي خاض ثماني مباريات دون تحقيق أي فوز، كسر السلسلة بفضل هدف ديفيد غارسيا، بعد مسرحية من روميو. مباراة سيئة للفريق الأحمر والأبيض الذي لم يتفاعل إلا في النهاية. كما فشل تيرويل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109637071701603",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المدريليني_يلتقط_أنفاسه_بما_فيه_الكفاية.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera-rfef/el-madrileno-coge-aire-con-lo-justo-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbkUfl2bfhgTPBNyKmVw0W9"
     }
   }
 ]
