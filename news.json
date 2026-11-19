@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kompany, en su regreso con el micrófono: \"Los jugadores como Musiala son la razón por la que la gente va al estadio\"",
+    "url": "https://www.marca.com/futbol/bundesliga/2026/11/19/kompany-regreso-microfono-jugadores-musiala-son-razon-gente-estadio.html",
+    "summary": "El técnico del Bayern defiende al internacional alemán en su primera rueda de prensa tras su vuelta y se marca un objetivo: \"Quiero que dentro de seis meses estemos contando una historia completamente diferente\"",
+    "published": "Thu, 19 Nov 2026 11:45:42 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afb31106e1eb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "كومباني بعد عودته بالمايكرفون: \"اللاعبون مثل موسيالا هم السبب وراء ذهاب الناس إلى الملعب\"",
+    "arabic_summary": "مدرب بايرن يدافع عن الدولي الألماني في أول مؤتمر صحفي له بعد عودته ويضع لنفسه هدفا: \"أريد أن نروي قصة مختلفة تماما في ستة أشهر\"",
+    "translation_status": "translated",
+    "post_title": "كومباني بعد عودته بالمايكرفون: \"اللاعبون مثل موسيالا هم السبب وراء ذهاب الناس إلى الملعب\"",
+    "post_text": "🚨 كومباني بعد عودته بالمايكرفون: \"اللاعبون مثل موسيالا هم السبب وراء ذهاب الناس إلى الملعب\"\n\n📝 مدرب بايرن يدافع عن الدولي الألماني في أول مؤتمر صحفي له بعد عودته ويضع لنفسه هدفا: \"أريد أن نروي قصة مختلفة تماما في ستة أشهر\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113709924627651",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كومباني_بعد_عودته_بالمايكرفون_اللاعبون_مثل_موسيالا_هم_السبب_وراء_ذهاب_الناس_إلى_.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/bundesliga/2026/11/19/kompany-regreso-microfono-jugadores-musiala-son-razon-gente-estadio.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "APfg8Hwlktor-jR_3KNF3px"
+    }
+  },
+  {
     "title": "Draper hires new coach to work alongside Murray for upcoming season",
     "url": "https://www.skysports.com/tennis/live-blog/12040/13523297/jack-draper-tennis-results-next-match-news-ranking-video-and-how-to-watch-on-sky-sports-tennis",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AVszeH6isDi3b2g7me695Q4"
-    }
-  },
-  {
-    "title": "A Las Palmas le sale ‘Caro’ el viaje",
-    "url": "https://as.com/futbol/segunda/a-las-palmas-le-sale-caro-el-viaje-f202611-n/",
-    "summary": "El Granada ganó con un error garrafal del portero y una decisión del VAR en el descuento. Es la sexta victoria seguida de los rojiblancos.",
-    "published": "Sun, 15 Nov 2026 17:17:44 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "الرحلة إلى لاس بالماس \"باهظة الثمن\"",
-    "arabic_summary": "فاز غرناطة بخطأ فادح من حارس المرمى وقرار VAR في الوقت المحتسب بدل الضائع. وهو الفوز السادس على التوالي للروخيبلانكوس.",
-    "translation_status": "translated",
-    "post_title": "الرحلة إلى لاس بالماس \"باهظة الثمن\"",
-    "post_text": "🚨 الرحلة إلى لاس بالماس \"باهظة الثمن\"\n\n📝 فاز غرناطة بخطأ فادح من حارس المرمى وقرار VAR في الوقت المحتسب بدل الضائع. وهو الفوز السادس على التوالي للروخيبلانكوس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109700328361944",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الرحلة_إلى_لاس_بالماس_باهظة_الثمن.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/segunda/a-las-palmas-le-sale-caro-el-viaje-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbL8e0VAalk8rDy4A_8tW0P"
     }
   }
 ]
