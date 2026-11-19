@@ -1,5 +1,39 @@
 [
   {
+    "title": "Pablo Sarabia: \"A Mourinho le estaré eternamente agradecido\"",
+    "url": "https://www.marca.com/futbol/2026/11/19/pablo-sarabia-mourinho-le-estare-eternamente-agradecido.html",
+    "summary": "El ex jugador de Real Madrid, Getafe, Sevilla o PSG, internacional en 27 ocasiones con España y, actualmente, en Al Arabi de la Qatar Stars League, atiende a MARCA para repasar su trayectoria",
+    "published": "Thu, 19 Nov 2026 06:28:54 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/12/6af5cace10f3e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بابلو سارابيا: \"سأكون ممتنًا لمورينيو إلى الأبد\"",
+    "arabic_summary": "اللاعب السابق لريال مدريد وخيتافي وإشبيلية وباريس سان جيرمان، دوليًا 27 مرة مع منتخب إسبانيا وحاليًا في العربي بدوري نجوم قطر، تحدث إلى صحيفة ماركا لمراجعة مسيرته",
+    "translation_status": "translated",
+    "post_title": "بابلو سارابيا: \"سأكون ممتنًا لمورينيو إلى الأبد\"",
+    "post_text": "🚨 بابلو سارابيا: \"سأكون ممتنًا لمورينيو إلى الأبد\"\n\n📝 اللاعب السابق لريال مدريد وخيتافي وإشبيلية وباريس سان جيرمان، دوليًا 27 مرة مع منتخب إسبانيا وحاليًا في العربي بدوري نجوم قطر، تحدث إلى صحيفة ماركا لمراجعة مسيرته\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1112985268033450",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بابلو_سارابيا_سأكون_ممتنًا_لمورينيو_إلى_الأبد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/19/pablo-sarabia-mourinho-le-estare-eternamente-agradecido.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A1nJ1cvQz-npsfd5BjN3LN9"
+    }
+  },
+  {
     "title": "El Mundial de los 1.000 talentos arranca sin algunos de sus nombres más esperados",
     "url": "https://www.marca.com/futbol/mundial-sub-17/2026/11/19/mundial-1-000-talentos-arranca-nombres-esperados.html",
     "summary": "Catar vuelve a citarse con el fútbol acogiendo desde este jueves el Mundial Sub-17 con 48 selecciones que disputarán 104 partidos hasta diciembre",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AEJp5kUclXTj-NzIszM0w0I"
-    }
-  },
-  {
-    "title": "Crowe one clear after round three of Austin Championship",
-    "url": "https://www.skysports.com/watch/video/13612379/austin-championship-day-three-highlights",
-    "summary": "Highlights from the third round of the Austin Championship from Fazio Canyons Course in Austin.",
-    "published": "Sun, 15 Nov 2026 00:13:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-golf-pga_7406787.jpg?20261115002441",
-    "media_type": "image/jpg",
-    "arabic_title": "كرو واضح بعد الجولة الثالثة من بطولة أوستن",
-    "arabic_summary": "مقتطفات من الجولة الثالثة لبطولة أوستن من ملعب فازيو كانيونز في أوستن.",
-    "translation_status": "translated",
-    "post_title": "كرو واضح بعد الجولة الثالثة من بطولة أوستن",
-    "post_text": "🚨 كرو واضح بعد الجولة الثالثة من بطولة أوستن\n\n📝 مقتطفات من الجولة الثالثة لبطولة أوستن من ملعب فازيو كانيونز في أوستن.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109289771736333",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كرو_واضح_بعد_الجولة_الثالثة_من_بطولة_أوستن.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13612379/austin-championship-day-three-highlights",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AN4rJYPOiuOJ4uJXK06EnVH"
     }
   }
 ]
