@@ -1,5 +1,39 @@
 [
   {
+    "title": "Nacua handed three-match suspension by NFL for policy violation",
+    "url": "https://www.skysports.com/nfl/news/12040/13614165/puka-nacua-los-angeles-rams-wide-receiver-handed-three-match-suspension-by-nfl-for-violating-personal-conduct-policy",
+    "summary": "Los Angeles Rams receiver Puka Nacua has been suspended for three games for violating the NFL's personal conduct policy.",
+    "published": "Thu, 19 Nov 2026 21:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-puka-nacua-los-angeles_7321103.jpg?20260814001929",
+    "media_type": "image/jpg",
+    "arabic_title": "تم إيقاف Nacua ثلاث مباريات من قبل NFL بسبب انتهاك السياسة",
+    "arabic_summary": "تم إيقاف بوكا ناكوا، لاعب فريق لوس أنجلوس رامز، لثلاث مباريات بسبب انتهاكه لسياسة السلوك الشخصي في اتحاد كرة القدم الأميركي.",
+    "translation_status": "translated",
+    "post_title": "تم إيقاف Nacua ثلاث مباريات من قبل NFL بسبب انتهاك السياسة",
+    "post_text": "🚨 تم إيقاف Nacua ثلاث مباريات من قبل NFL بسبب انتهاك السياسة\n\n📝 تم إيقاف بوكا ناكوا، لاعب فريق لوس أنجلوس رامز، لثلاث مباريات بسبب انتهاكه لسياسة السلوك الشخصي في اتحاد كرة القدم الأميركي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113784771286833",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_إيقاف_Nacua_ثلاث_مباريات_من_قبل_NFL_بسبب_انتهاك_السياسة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/nfl/news/12040/13614165/puka-nacua-los-angeles-rams-wide-receiver-handed-three-match-suspension-by-nfl-for-violating-personal-conduct-policy",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-HZqEZD0esUlkgGHSJQ7TL"
+    }
+  },
+  {
     "title": "FIA to introduce full-time F1 stewards",
     "url": "https://www.skysports.com/f1/news/12040/13614150/fia-announce-introduction-of-full-time-f1-stewards-from-2027-ahead-of-las-vegas-grand-prix",
     "summary": "The FIA has announced it will introduce full-time Formula 1 stewards from 2027 with the aim of having \"greater consistency in decision-making\".",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AauRFzQrjot0qwOp2FRIkPk"
-    }
-  },
-  {
-    "title": "Un penalti en el minuto 98 deja helado al Zamora",
-    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/16/penalti-minuto-98-deja-helado-zamora.html",
-    "summary": "El equipo rojiblanco pudo haber goleado pero su rival supo sobreponerse a la expulsión de Carmona a la media hora de juego",
-    "published": "Mon, 16 Nov 2026 00:14:03 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afa3bd3c1264.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ركلة جزاء في الدقيقة 98 تجمد رصيد زامورا",
-    "arabic_summary": "كان بإمكان الفريق الأحمر والأبيض أن يسجل لكن منافسه عرف كيف يتغلب على طرد كارمونا بعد نصف ساعة من المباراة.",
-    "translation_status": "translated",
-    "post_title": "ركلة جزاء في الدقيقة 98 تجمد رصيد زامورا",
-    "post_text": "🚨 ركلة جزاء في الدقيقة 98 تجمد رصيد زامورا\n\n📝 كان بإمكان الفريق الأحمر والأبيض أن يسجل لكن منافسه عرف كيف يتغلب على طرد كارمونا بعد نصف ساعة من المباراة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109844995014144",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ركلة_جزاء_في_الدقيقة_98_تجمد_رصيد_زامورا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/16/penalti-minuto-98-deja-helado-zamora.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHxuL6eio04c9bhIgQfHpAk"
     }
   }
 ]
