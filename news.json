@@ -1,5 +1,39 @@
 [
   {
+    "title": "La cuenta pendiente de Oyarzabal en El Sardinero",
+    "url": "https://as.com/futbol/primera/la-cuenta-pendiente-de-oyarzabal-en-el-sardinero-f202611-n/",
+    "summary": "El capitán de la Real se mide por primera vez al Racing de Santander, uno de los dos clubes de Primera a los que todavía no ha marcado en su carrera.",
+    "published": "Fri, 20 Nov 2026 08:38:10 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KI7O2YE6AVO2DNGRTQLER4MSXA.jpg?auth=cf87e50be7a8b3d560af29cad2733013b0e33a290bd94efb05f803f0aa5a9da8",
+    "media_type": "image/jpeg",
+    "arabic_title": "حساب Oyarzabal المعلق في El Sardinero",
+    "arabic_summary": "يواجه كابتن ريال مدريد فريق راسينغ سانتاندير للمرة الأولى، وهو أحد فريقي الدرجة الأولى اللذين لم يسجل في مرمىهما أي هدف خلال مسيرته.",
+    "translation_status": "translated",
+    "post_title": "حساب Oyarzabal المعلق في El Sardinero",
+    "post_text": "🚨 حساب Oyarzabal المعلق في El Sardinero\n\n📝 يواجه كابتن ريال مدريد فريق راسينغ سانتاندير للمرة الأولى، وهو أحد فريقي الدرجة الأولى اللذين لم يسجل في مرمىهما أي هدف خلال مسيرته.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114229981242312",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حساب_Oyarzabal_المعلق_في_El_Sardinero.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/la-cuenta-pendiente-de-oyarzabal-en-el-sardinero-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AklqAvdy5oDXs48OXfcRC5D"
+    }
+  },
+  {
     "title": "Flick sabe volver de un parón",
     "url": "https://as.com/futbol/primera/flick-sabe-volver-de-un-paron-f202611-n/",
     "summary": "Con el alemán en el banquillo no han perdido tras volver de partidos de selecciones.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AF0HY1vklt5j95TViLP_kIM"
-    }
-  },
-  {
-    "title": "Joao Félix se entrega a Jorge Jesus: “Me dio confianza para sacar lo mejor de mí”",
-    "url": "https://www.marca.com/futbol/nations-league/2026/11/16/jorge-jesus-entrega-joao-felix-me-dio-confianza-sacar-mejor-mi.html",
-    "summary": "Su posición como ‘10’ evidencia su intención de convertirle en la nueva estrella de Portugal tras el adiós de Cristiano Ronaldo",
-    "published": "Mon, 16 Nov 2026 06:26:43 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/15/6af9d196bd112.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جواو فيليكس يسلم نفسه لخورخي جيسوس: \"لقد منحني الثقة لأخرج أفضل ما لدي\"",
-    "arabic_summary": "يُظهر موقعه بالرقم \"10\" نيته في جعله نجم البرتغال الجديد بعد وداع كريستيانو رونالدو",
-    "translation_status": "translated",
-    "post_title": "جواو فيليكس يسلم نفسه لخورخي جيسوس: \"لقد منحني الثقة لأخرج أفضل ما لدي\"",
-    "post_text": "🚨 جواو فيليكس يسلم نفسه لخورخي جيسوس: \"لقد منحني الثقة لأخرج أفضل ما لدي\"\n\n📝 يُظهر موقعه بالرقم \"10\" نيته في جعله نجم البرتغال الجديد بعد وداع كريستيانو رونالدو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110413138290663",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جواو_فيليكس_يسلم_نفسه_لخورخي_جيسوس_لقد_منحني_الثقة_لأخرج_أفضل_ما_لدي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/11/16/jorge-jesus-entrega-joao-felix-me-dio-confianza-sacar-mejor-mi.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ArY8VNegacdymJhI5n-PgtT"
     }
   }
 ]
