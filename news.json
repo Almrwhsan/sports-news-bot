@@ -1,5 +1,39 @@
 [
   {
+    "title": "Courtois, renovado hasta 2028",
+    "url": "https://as.com/futbol/primera/courtois-renovado-hasta-2028-f202611-n/",
+    "summary": "El Real Madrid sigue anunciando renovaciones. El portero belga amplía su contrato por una temporada más.",
+    "published": "Fri, 20 Nov 2026 11:14:59 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6A36RVUVWBP7ZC7HURZDVRXAQQ.jpg?auth=10ea3fa11ec3a5adef030798209e96974121ab07454d5cea93c8fbd7cbdc5daf",
+    "media_type": "image/jpeg",
+    "arabic_title": "كورتوا، جدد عقده حتى عام 2028",
+    "arabic_summary": "يواصل ريال مدريد الإعلان عن التجديدات. الحارس البلجيكي يمدد عقده لموسم إضافي.",
+    "translation_status": "translated",
+    "post_title": "كورتوا، جدد عقده حتى عام 2028",
+    "post_text": "🚨 كورتوا، جدد عقده حتى عام 2028\n\n📝 يواصل ريال مدريد الإعلان عن التجديدات. الحارس البلجيكي يمدد عقده لموسم إضافي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114261531239157",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كورتوا،_جدد_عقده_حتى_عام_2028.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/courtois-renovado-hasta-2028-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AAbzLsfbwF-WMLyW-1zhq9b"
+    }
+  },
+  {
     "title": "El día que Arambarri derrumbó la maldición de Simeone",
     "url": "https://as.com/futbol/primera/el-dia-que-arambarri-derrumbo-la-maldicion-de-simeone-f202611-n/",
     "summary": "Dos goles del uruguayo supusieron la única victoria del conjunto azulón desde que Diego Pablo Simeone entrena al Atlético de Madrid.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQvvi3gCZ-E_f3EnquU52bj"
-    }
-  },
-  {
-    "title": "La bronca de Zidane para despertar a Francia, que acecha a España: \"Nos alzó la voz\"",
-    "url": "https://www.marca.com/futbol/nations-league/2026/11/16/bronca-zidane-despertar-francia-acecha-espana-alzo-voz.html",
-    "summary": "Zinedine Zidane logró levantar a Francia ante Turquía con una reprimenda en el descanso",
-    "published": "Mon, 16 Nov 2026 07:20:13 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afa9ffd5774d.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "غضب زيدان لإيقاظ فرنسا المتربصة بإسبانيا: \"رفع صوته علينا\"",
-    "arabic_summary": "تمكن زين الدين زيدان من رفع مستوى فرنسا أمام تركيا بتوبيخ في الشوط الأول",
-    "translation_status": "translated",
-    "post_title": "غضب زيدان لإيقاظ فرنسا المتربصة بإسبانيا: \"رفع صوته علينا\"",
-    "post_text": "🚨 غضب زيدان لإيقاظ فرنسا المتربصة بإسبانيا: \"رفع صوته علينا\"\n\n📝 تمكن زين الدين زيدان من رفع مستوى فرنسا أمام تركيا بتوبيخ في الشوط الأول\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110525981612712",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غضب_زيدان_لإيقاظ_فرنسا_المتربصة_بإسبانيا_رفع_صوته_علينا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/11/16/bronca-zidane-despertar-francia-acecha-espana-alzo-voz.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AnnHggUhCSn9ZcXkfBPsWDw"
     }
   }
 ]
