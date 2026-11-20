@@ -1,5 +1,39 @@
 [
   {
+    "title": "El día que Arambarri derrumbó la maldición de Simeone",
+    "url": "https://as.com/futbol/primera/el-dia-que-arambarri-derrumbo-la-maldicion-de-simeone-f202611-n/",
+    "summary": "Dos goles del uruguayo supusieron la única victoria del conjunto azulón desde que Diego Pablo Simeone entrena al Atlético de Madrid.",
+    "published": "Fri, 20 Nov 2026 10:55:54 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GJFGYMSFI7VAQH6NHWYQCBM6QI.JPG?auth=2bc4f5ca820a94ce22ad914fcfa340d97d1232bf897426d6ce1feda487c63e2d",
+    "media_type": "image/jpeg",
+    "arabic_title": "اليوم الذي كسر فيه أرامباري لعنة سيميوني",
+    "arabic_summary": "هدفان من الأوروغواي كانا بمثابة الفوز الوحيد للفريق الأزرق منذ أن درب دييغو بابلو سيميوني أتلتيكو مدريد.",
+    "translation_status": "translated",
+    "post_title": "اليوم الذي كسر فيه أرامباري لعنة سيميوني",
+    "post_text": "🚨 اليوم الذي كسر فيه أرامباري لعنة سيميوني\n\n📝 هدفان من الأوروغواي كانا بمثابة الفوز الوحيد للفريق الأزرق منذ أن درب دييغو بابلو سيميوني أتلتيكو مدريد.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114250137906963",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليوم_الذي_كسر_فيه_أرامباري_لعنة_سيميوني.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-dia-que-arambarri-derrumbo-la-maldicion-de-simeone-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AlhjGQuJ5FTgsEVpIWV1fm0"
+    }
+  },
+  {
     "title": "En busca del mejor Kang-in Lee",
     "url": "https://as.com/futbol/primera/en-busca-del-mejor-kang-in-lee-f202611-n/",
     "summary": "El surcoreano recibe el premio a mejor jugador asiático en el fútbol internacional de 2026. No se irá en enero a la Copa Asia y Simeone debe exprimirle.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AnnHggUhCSn9ZcXkfBPsWDw"
-    }
-  },
-  {
-    "title": "Gruda, el ‘genio’ que ha conquistado a Klopp: “¡Fue una locura!”",
-    "url": "https://www.marca.com/futbol/nations-league/2026/11/16/gruda-genio-conquistado-klopp-locura.html",
-    "summary": "El extremo del Leipzig, cedido por el Brighton, redondeó con un gol su debut con Alemania",
-    "published": "Mon, 16 Nov 2026 06:28:11 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/14/6af86d84685da.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "جرودا، \"العبقري\" الذي تغلب على كلوب: \"لقد كان الأمر جنونيًا!\"",
-    "arabic_summary": "واختتم جناح لايبزيج، المعار من برايتون، مباراته الأولى مع ألمانيا بهدف",
-    "translation_status": "translated",
-    "post_title": "جرودا، \"العبقري\" الذي تغلب على كلوب: \"لقد كان الأمر جنونيًا!\"",
-    "post_text": "🚨 جرودا، \"العبقري\" الذي تغلب على كلوب: \"لقد كان الأمر جنونيًا!\"\n\n📝 واختتم جناح لايبزيج، المعار من برايتون، مباراته الأولى مع ألمانيا بهدف\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110471578284819",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جرودا،_العبقري_الذي_تغلب_على_كلوب_لقد_كان_الأمر_جنونيًا!.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/11/16/gruda-genio-conquistado-klopp-locura.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbQHUYpICdtiOT5qc_3k5ub"
     }
   }
 ]
