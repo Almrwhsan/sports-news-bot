@@ -1,5 +1,39 @@
 [
   {
+    "title": "España se medirá en cuartos a la Francia de Zidane y si pasa... ¿a los Países Bajos de Xavi?",
+    "url": "https://www.marca.com/futbol/nations-league/2026/11/20/espana-medira-cuartos-francia-zidane-pasa-paises-bajos-xavi.html",
+    "summary": "Ya hay fechas oficiales: el 25 de marzo se jugará en Mestalla la ida, mientras que la vuelta será en Saint-Denis el día 28",
+    "published": "Fri, 20 Nov 2026 12:36:42 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/6b00329b18454.png",
+    "media_type": "image/jpeg",
+    "arabic_title": "ستواجه إسبانيا فرنسا زيدان في ربع النهائي، وإذا تأهلت... هولندا تشافي؟",
+    "arabic_summary": "هناك مواعيد رسمية بالفعل: مباراة الذهاب ستقام في ميستايا يوم 25 مارس، بينما مباراة الإياب ستكون في سان دوني يوم 28.",
+    "translation_status": "translated",
+    "post_title": "ستواجه إسبانيا فرنسا زيدان في ربع النهائي، وإذا تأهلت... هولندا تشافي؟",
+    "post_text": "🚨 ستواجه إسبانيا فرنسا زيدان في ربع النهائي، وإذا تأهلت... هولندا تشافي؟\n\n📝 هناك مواعيد رسمية بالفعل: مباراة الذهاب ستقام في ميستايا يوم 25 مارس، بينما مباراة الإياب ستكون في سان دوني يوم 28.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114637061201604",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ستواجه_إسبانيا_فرنسا_زيدان_في_ربع_النهائي،_وإذا_تأهلت..._هولندا_تشافي؟.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/nations-league/2026/11/20/espana-medira-cuartos-francia-zidane-pasa-paises-bajos-xavi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVZFzEa_EJcDOxURGEfAF8x"
+    }
+  },
+  {
     "title": "Cubarsí y Koundé apuntan al Villarreal",
     "url": "https://www.marca.com/futbol/barcelona/2026/11/20/cubarsi-kounde-apuntan-villarreal.html",
     "summary": "Los dos jugadores, junto a Olmo, se han ejercitado este viernes con el grupo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AUw-Uqrn4SRd6TSY599G5a_"
-    }
-  },
-  {
-    "title": "Vote for the best men's European striker this century",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
-    "summary": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
-    "published": "Mon, 16 Nov 2026 07:59:20 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1253/live/86ce4590-df57-11f1-b441-2b33b063138f.png",
-    "media_type": null,
-    "arabic_title": "التصويت لأفضل مهاجم أوروبي في هذا القرن",
-    "arabic_summary": "من هو أفضل مهاجم أوروبي في هذا القرن؟ قم بالتصويت لأفضل ثلاثة لاعبين قبل ظهور النتائج في الدوريات الأوروبية.",
-    "translation_status": "translated",
-    "post_title": "التصويت لأفضل مهاجم أوروبي في هذا القرن",
-    "post_text": "🚨 التصويت لأفضل مهاجم أوروبي في هذا القرن\n\n📝 من هو أفضل مهاجم أوروبي في هذا القرن؟ قم بالتصويت لأفضل ثلاثة لاعبين قبل ظهور النتائج في الدوريات الأوروبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111142651551045",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التصويت_لأفضل_مهاجم_أوروبي_في_هذا_القرن.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMXRrBWDYBlwVgEDQIzoyMO"
     }
   }
 ]
