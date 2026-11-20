@@ -1,5 +1,39 @@
 [
   {
+    "title": "Ceballos no se entrena con el grupo y apunta a baja para el derbi",
+    "url": "https://www.marca.com/futbol/betis/2026/11/20/ceballos-entrena-grupo-apunta-baja-derbi.html",
+    "summary": "El utrerano se probó ayer, pero hoy no ha pisado el césped a un día del partido",
+    "published": "Fri, 20 Nov 2026 12:00:52 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/18/6aad1b95e1d59.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيبايوس لا يتدرب مع المجموعة ويهدف للانسحاب من الديربي",
+    "arabic_summary": "اختبر الرجل من أوتريرا نفسه بالأمس، لكنه اليوم لم يطأ العشب قبل يوم واحد من المباراة",
+    "translation_status": "translated",
+    "post_title": "سيبايوس لا يتدرب مع المجموعة ويهدف للانسحاب من الديربي",
+    "post_text": "🚨 سيبايوس لا يتدرب مع المجموعة ويهدف للانسحاب من الديربي\n\n📝 اختبر الرجل من أوتريرا نفسه بالأمس، لكنه اليوم لم يطأ العشب قبل يوم واحد من المباراة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114607284537915",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيبايوس_لا_يتدرب_مع_المجموعة_ويهدف_للانسحاب_من_الديربي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/betis/2026/11/20/ceballos-entrena-grupo-apunta-baja-derbi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A40ReGfG5OAEaQk4MtNnDwJ"
+    }
+  },
+  {
     "title": "Suazo llega a tiempo para el derbi",
     "url": "https://www.marca.com/futbol/sevilla/2026/11/20/suazo-llega-derbi.html",
     "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-e-jnGCxr-kjSyoZVhcGys"
-    }
-  },
-  {
-    "title": "El Valencia pregunta por Dovbyk",
-    "url": "https://as.com/futbol/primera/el-valencia-pregunta-por-dovbyk-f202611-n/",
-    "summary": "El ucraniano, sin minutos en el Bolonia, es una de las alternativas que maneja Braulio para reforzar la delantera de Javier Aguirre.",
-    "published": "Mon, 16 Nov 2026 17:14:26 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KN7L7AMQORA75LTXKGRJ6HUJAE.jpg?auth=4cbb062d5634be65a08eb9648fb1b9693c825b8fd32b1a091fccaf0545941888",
-    "media_type": "image/jpeg",
-    "arabic_title": "فالنسيا يطلب دوفبيك",
-    "arabic_summary": "ويعد الأوكراني، الذي لم يلعب دقائق في بولونيا، أحد البدائل التي يستخدمها براوليو لتعزيز خط هجوم خافيير أغيري.",
-    "translation_status": "translated",
-    "post_title": "فالنسيا يطلب دوفبيك",
-    "post_text": "🚨 فالنسيا يطلب دوفبيك\n\n📝 ويعد الأوكراني، الذي لم يلعب دقائق في بولونيا، أحد البدائل التي يستخدمها براوليو لتعزيز خط هجوم خافيير أغيري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111143251550985",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فالنسيا_يطلب_دوفبيك.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-valencia-pregunta-por-dovbyk-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AQYiXbqS6Hs-LFye5eYrDwn"
     }
   }
 ]
