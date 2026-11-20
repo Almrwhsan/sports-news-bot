@@ -1,5 +1,39 @@
 [
   {
+    "title": "En busca del mejor Kang-in Lee",
+    "url": "https://as.com/futbol/primera/en-busca-del-mejor-kang-in-lee-f202611-n/",
+    "summary": "El surcoreano recibe el premio a mejor jugador asiático en el fútbol internacional de 2026. No se irá en enero a la Copa Asia y Simeone debe exprimirle.",
+    "published": "Fri, 20 Nov 2026 10:36:03 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/KCRQXJXD7NLABA2LC6CL6BLVBE.jpg?auth=55e53b6b5322eb2c305f673252511b67f383c8442816eb5859d5952da6b38104",
+    "media_type": "image/jpeg",
+    "arabic_title": "بحثًا عن أفضل كانغ إن لي",
+    "arabic_summary": "يحصل الكوري الجنوبي على جائزة أفضل لاعب آسيوي في كرة القدم الدولية عام 2026. ولن يذهب إلى كأس آسيا في يناير ويجب على سيميوني الضغط عليه.",
+    "translation_status": "translated",
+    "post_title": "بحثًا عن أفضل كانغ إن لي",
+    "post_text": "🚨 بحثًا عن أفضل كانغ إن لي\n\n📝 يحصل الكوري الجنوبي على جائزة أفضل لاعب آسيوي في كرة القدم الدولية عام 2026. ولن يذهب إلى كأس آسيا في يناير ويجب على سيميوني الضغط عليه.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114233817908595",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بحثًا_عن_أفضل_كانغ_إن_لي.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/en-busca-del-mejor-kang-in-lee-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A13WGHChXhde19jJt9A3HBD"
+    }
+  },
+  {
     "title": "La cuenta pendiente de Oyarzabal en El Sardinero",
     "url": "https://as.com/futbol/primera/la-cuenta-pendiente-de-oyarzabal-en-el-sardinero-f202611-n/",
     "summary": "El capitán de la Real se mide por primera vez al Racing de Santander, uno de los dos clubes de Primera a los que todavía no ha marcado en su carrera.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AbQHUYpICdtiOT5qc_3k5ub"
-    }
-  },
-  {
-    "title": "Veerman, el Xavi de Xavi recuperado del 'destierro': “Decidí apagar internet”",
-    "url": "https://www.marca.com/futbol/nations-league/2026/11/16/veerman-xavi-xavi-recuperado-destierro-decidi-apagar-internet.html",
-    "summary": "El centrocampista del Borussia Dortmund se ha erigido en el director de orquesta de Países Bajos tras ser apartado por Koeman",
-    "published": "Mon, 16 Nov 2026 06:29:51 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/14/6af870e117750.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "فيرمان، تشافي تشافي الذي تعافى من \"المنفى\": \"قررت إيقاف تشغيل الإنترنت\"",
-    "arabic_summary": "وبرز لاعب خط وسط بوروسيا دورتموند كقائد لأوركسترا هولندا بعد انفصاله عن كومان",
-    "translation_status": "translated",
-    "post_title": "فيرمان، تشافي تشافي الذي تعافى من \"المنفى\": \"قررت إيقاف تشغيل الإنترنت\"",
-    "post_text": "🚨 فيرمان، تشافي تشافي الذي تعافى من \"المنفى\": \"قررت إيقاف تشغيل الإنترنت\"\n\n📝 وبرز لاعب خط وسط بوروسيا دورتموند كقائد لأوركسترا هولندا بعد انفصاله عن كومان\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110471681618142",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيرمان،_تشافي_تشافي_الذي_تعافى_من_المنفى_قررت_إيقاف_تشغيل_الإنترنت.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/2026/11/16/veerman-xavi-xavi-recuperado-destierro-decidi-apagar-internet.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AF0HY1vklt5j95TViLP_kIM"
     }
   }
 ]
