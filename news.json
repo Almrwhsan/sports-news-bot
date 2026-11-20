@@ -1,5 +1,39 @@
 [
   {
+    "title": "Un 'tridente' tembile",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/20/tridente-tembile.html",
+    "summary": "España conoce mañana en Nyon su rival en los cuartos de la Nations: Alemania, Francia o Portugal",
+    "published": "Fri, 20 Nov 2026 01:02:17 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/19/6aff5c5e4a313.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"ترايدنت\" مخيف",
+    "arabic_summary": "وتلتقي إسبانيا غدا في نيون مع منافستها في ربع نهائي الأمم: ألمانيا أو فرنسا أو البرتغال",
+    "translation_status": "translated",
+    "post_title": "\"ترايدنت\" مخيف",
+    "post_text": "🚨 \"ترايدنت\" مخيف\n\n📝 وتلتقي إسبانيا غدا في نيون مع منافستها في ربع نهائي الأمم: ألمانيا أو فرنسا أو البرتغال\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113799991285311",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ترايدنت_مخيف.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/20/tridente-tembile.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6k9F2x9tXTrxyIqyHo0QdW"
+    }
+  },
+  {
     "title": "El Illes Balears Palma Futsal vende muy cara su hegemonía en la Copa Intercontinental (4-5)",
     "url": "https://www.marca.com/futbol/futbol-sala/2026/11/20/illes-balears-palma-futsal-vende-cara-hegemonia-copa-intercontinental-4-5.html",
     "summary": "El Sporting Clube gana su primera Copa Intercontinental e inscribe el nombre de Portugal en el palmarés de la competición",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQZTFaf3OSqcLMRSZvr0D2I"
-    }
-  },
-  {
-    "title": "The Unpromotables: Germany's league champions who can't go up",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
-    "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
-    "published": "Fri, 02 Oct 2026 06:37:49 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/5df4b650-bcbf-11f1-810a-9579202680fa.jpg",
-    "media_type": null,
-    "arabic_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
-    "arabic_summary": "تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.",
-    "translation_status": "translated",
-    "post_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
-    "post_text": "🚨 غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود\n\n📝 تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109856845012959",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غير_القابلين_للترقية_أبطال_الدوري_الألماني_الذين_لا_يستطيعون_الصعود.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlaOFPua7_Ns_Yo9AQKDp78"
     }
   }
 ]
