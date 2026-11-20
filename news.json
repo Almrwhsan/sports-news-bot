@@ -1,5 +1,39 @@
 [
   {
+    "title": "Flick sabe volver de un parón",
+    "url": "https://as.com/futbol/primera/flick-sabe-volver-de-un-paron-f202611-n/",
+    "summary": "Con el alemán en el banquillo no han perdido tras volver de partidos de selecciones.",
+    "published": "Fri, 20 Nov 2026 10:34:00 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/YK3U44SWIFIRLL6YVMPXCAF7ZA.jpg?auth=41955c0e300217e2af23b6af5ef36617fe2ab734ab241d4632406a9fd0a611cd",
+    "media_type": "image/jpeg",
+    "arabic_title": "فليك يعرف كيف يعود من الاستراحة",
+    "arabic_summary": "ومع وجود الألماني على مقاعد البدلاء، لم يخسروا بعد عودتهم من مباريات المنتخب الوطني.",
+    "translation_status": "translated",
+    "post_title": "فليك يعرف كيف يعود من الاستراحة",
+    "post_text": "🚨 فليك يعرف كيف يعود من الاستراحة\n\n📝 ومع وجود الألماني على مقاعد البدلاء، لم يخسروا بعد عودتهم من مباريات المنتخب الوطني.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114225457909431",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فليك_يعرف_كيف_يعود_من_الاستراحة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/flick-sabe-volver-de-un-paron-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AxSSvUoLOnWx-Irtha9Lnrn"
+    }
+  },
+  {
     "title": "La pesadilla sueca vuelve al Bernabéu",
     "url": "https://as.com/futbol/videos/la-pesadilla-sueca-vuelve-al-bernabeu-f202611-v/",
     "summary": "El Atleti visita al dentista en el Coliseum y el Real Madrid recibe al Celta, cuya victoria en el Bernabéu la temporada pasada supuso el principio del fin de Xabi Alonso. Barça-Villarreal y el derbi sevillano, acaparan todos los focos este fin de semana. Regresan los Pronósticos de As con las mejores predicciones de la jornada 13 de LaLiga EA Sports.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ArY8VNegacdymJhI5n-PgtT"
-    }
-  },
-  {
-    "title": "La reacción de Bellingham cuando le preguntan por su choque con Cucurella",
-    "url": "https://as.com/futbol/videos/la-reaccion-de-bellingham-cuando-le-preguntan-por-su-choque-con-cucurella-f202611-v/",
-    "summary": "El jugador inglés abandonó el Metropolitano cuando le preguntaron por su pugna con su compañero del Real Madrid.",
-    "published": "Mon, 16 Nov 2026 12:58:14 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261116/1238312_125223_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رد فعل بيلينجهام عندما سئل عن صراعه مع كوكوريلا",
-    "arabic_summary": "غادر اللاعب الإنجليزي متروبوليتانو عندما سألوه عن قتاله مع زميله في ريال مدريد.",
-    "translation_status": "translated",
-    "post_title": "رد فعل بيلينجهام عندما سئل عن صراعه مع كوكوريلا",
-    "post_text": "🚨 رد فعل بيلينجهام عندما سئل عن صراعه مع كوكوريلا\n\n📝 غادر اللاعب الإنجليزي متروبوليتانو عندما سألوه عن قتاله مع زميله في ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110413224957321",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رد_فعل_بيلينجهام_عندما_سئل_عن_صراعه_مع_كوكوريلا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AKJdg-OQ9Fiv83gs28fAa68"
     }
   }
 ]
