@@ -1,5 +1,39 @@
 [
   {
+    "title": "Etxeberria, el relevo que más ha rendido en Segunda",
+    "url": "https://www.marca.com/futbol/albacete/2026/11/20/etxeberria-relevo-rendido-segunda.html",
+    "summary": "Ningún técnico contratado con la Liga en marcha ha mejorado tanto a su equipo: el Alba ha pasado del 4,2 % de los puntos al 66,7 % con el de Elgoibar",
+    "published": "Fri, 20 Nov 2026 12:31:09 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/6ac65fb20074b.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "Etxeberria، البديل الذي حقق أعلى أداء في المركز الثاني",
+    "arabic_summary": "لم يتمكن أي مدرب تم تعيينه في الدوري الحالي من تحسين فريقه كثيرًا: ارتفع معدل ألبا من 4.2% من النقاط إلى 66.7% مع الجوبار",
+    "translation_status": "translated",
+    "post_title": "Etxeberria، البديل الذي حقق أعلى أداء في المركز الثاني",
+    "post_text": "🚨 Etxeberria، البديل الذي حقق أعلى أداء في المركز الثاني\n\n📝 لم يتمكن أي مدرب تم تعيينه في الدوري الحالي من تحسين فريقه كثيرًا: ارتفع معدل ألبا من 4.2% من النقاط إلى 66.7% مع الجوبار\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114622447869732",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Etxeberria،_البديل_الذي_حقق_أعلى_أداء_في_المركز_الثاني.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/albacete/2026/11/20/etxeberria-relevo-rendido-segunda.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aw1RjX9KjfGT6knwpEUUP51"
+    }
+  },
+  {
     "title": "Miami Magic fancied for Newbury gold as ante-post selections revealed",
     "url": "https://www.skysports.com/racing/news/12040/13614284/racing-tips-miami-magic-fancied-for-newbury-gold-as-ante-post-selections-revealed-on-weekend-winners",
     "summary": "On the latest episode of Weekend Winners, the panel reveal their top ante-post bets for the upcoming winter months.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABk1FjYCiTZbPQZbupTzqIq"
-    }
-  },
-  {
-    "title": "Jesús Rodríguez, de visita en la Ciudad Deportiva con el duelo de Champions en el horizonte",
-    "url": "https://www.marca.com/futbol/betis/2026/11/16/jesus-rodriguez-visita-ciudad-deportiva-duelo-champions-horizonte.html",
-    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
-    "published": "Mon, 16 Nov 2026 13:58:55 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afafc1076df0.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "خيسوس رودريغيز، يزور سيوداد ديبورتيفا مع اقتراب مباراة دوري أبطال أوروبا",
-    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
-    "translation_status": "translated",
-    "post_title": "خيسوس رودريغيز، يزور سيوداد ديبورتيفا مع اقتراب مباراة دوري أبطال أوروبا",
-    "post_text": "🚨 خيسوس رودريغيز، يزور سيوداد ديبورتيفا مع اقتراب مباراة دوري أبطال أوروبا\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111143038217673",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خيسوس_رودريغيز،_يزور_سيوداد_ديبورتيفا_مع_اقتراب_مباراة_دوري_أبطال_أوروبا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/11/16/jesus-rodriguez-visita-ciudad-deportiva-duelo-champions-horizonte.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AfkX6ZXsaKtGmzP8HPsGugh"
     }
   }
 ]
