@@ -1,5 +1,39 @@
 [
   {
+    "title": "F1 Academy champion Palmowski claims dominant Las Vegas pole",
+    "url": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+    "summary": "",
+    "published": "Fri, 20 Nov 2026 06:35:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-alisha-palmowski_7411112.jpg?20261120063215",
+    "media_type": "image/jpg",
+    "arabic_title": "بطل أكاديمية الفورمولا 1 بالموفسكي يفوز بالقطب المهيمن في لاس فيغاس",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "بطل أكاديمية الفورمولا 1 بالموفسكي يفوز بالقطب المهيمن في لاس فيغاس",
+    "post_text": "🚨 بطل أكاديمية الفورمولا 1 بالموفسكي يفوز بالقطب المهيمن في لاس فيغاس\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114058771259433",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بطل_أكاديمية_الفورمولا_1_بالموفسكي_يفوز_بالقطب_المهيمن_في_لاس_فيغاس.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AGrf5T-SqTwc0OcmXCUWt1I"
+    }
+  },
+  {
     "title": "Rondón, con MARCA: \"En Oviedo me costó, pero ahora estoy en mi 'cuarto prime'\"",
     "url": "https://www.marca.com/futbol/2026/11/20/rondon-marca-oviedo-me-costo-mi-cuarto-prime.html",
     "summary": "Entrevista exclusiva en México con el legendario delantero venezolano del Club Pachuca",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ACRfCjAdjAXqgG5CFOOs405"
-    }
-  },
-  {
-    "title": "Exclusivo Registrados: Te invitamos al partido Atlético de Madrid vs Real Betis",
-    "url": "https://as.com/futbol/exclusivo-registrados-te-invitamos-al-partido-atletico-de-madrid-vs-real-betis-f202611-n/",
-    "summary": "Accede con tu clave y participa en el sorteo de una entrada doble para el partido",
-    "published": "Mon, 16 Nov 2026 10:08:08 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NRMVPI6N7NFMFMUSRPZX3MDLIE.png?auth=477cb3d709d5dcc274c6d84cc7d6974fde11bb73a76ca0ab399b260f9ba2cfed",
-    "media_type": "image/png",
-    "arabic_title": "مسجل حصريًا: ندعوك لحضور مباراة أتلتيكو مدريد وريال بيتيس",
-    "arabic_summary": "الدخول باستخدام كلمة المرور الخاصة بك والمشاركة في السحب على تذكرة مزدوجة للمباراة",
-    "translation_status": "translated",
-    "post_title": "مسجل حصريًا: ندعوك لحضور مباراة أتلتيكو مدريد وريال بيتيس",
-    "post_text": "🚨 مسجل حصريًا: ندعوك لحضور مباراة أتلتيكو مدريد وريال بيتيس\n\n📝 الدخول باستخدام كلمة المرور الخاصة بك والمشاركة في السحب على تذكرة مزدوجة للمباراة\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110298481635462",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مسجل_حصريًا_ندعوك_لحضور_مباراة_أتلتيكو_مدريد_وريال_بيتيس.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/exclusivo-registrados-te-invitamos-al-partido-atletico-de-madrid-vs-real-betis-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ahz2EmrB9j1t7eiXghGuBTr"
     }
   }
 ]
