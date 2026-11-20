@@ -1,5 +1,39 @@
 [
   {
+    "title": "Alcaraz eases past Cobolli in 65-minute straight-sets win",
+    "url": "https://www.skysports.com/watch/video/13614380/carlos-alcaraz-vs-flavio-cobolli-atp-finals-highlights",
+    "summary": "Highlights of Carlos Alcaraz against Flavio Cobolli in the ATP Finals in Turin.",
+    "published": "Fri, 20 Nov 2026 14:33:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-tennis-highlights_7411499.jpg?20261120144117",
+    "media_type": "image/jpg",
+    "arabic_title": "Alcaraz يتغلب على كوبولي في فوز مدته 65 دقيقة بمجموعتين متتاليتين",
+    "arabic_summary": "أبرز لقطات كارلوس الكاراز ضد فلافيو كوبولي في نهائيات اتحاد لاعبي التنس المحترفين في تورينو.",
+    "translation_status": "translated",
+    "post_title": "Alcaraz يتغلب على كوبولي في فوز مدته 65 دقيقة بمجموعتين متتاليتين",
+    "post_text": "🚨 Alcaraz يتغلب على كوبولي في فوز مدته 65 دقيقة بمجموعتين متتاليتين\n\n📝 أبرز لقطات كارلوس الكاراز ضد فلافيو كوبولي في نهائيات اتحاد لاعبي التنس المحترفين في تورينو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114626254536018",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Alcaraz_يتغلب_على_كوبولي_في_فوز_مدته_65_دقيقة_بمجموعتين_متتاليتين.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13614380/carlos-alcaraz-vs-flavio-cobolli-atp-finals-highlights",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AkEmUAlLERMvwlGDaFEsUnG"
+    }
+  },
+  {
     "title": "Etxeberria, el relevo que más ha rendido en Segunda",
     "url": "https://www.marca.com/futbol/albacete/2026/11/20/etxeberria-relevo-rendido-segunda.html",
     "summary": "Ningún técnico contratado con la Liga en marcha ha mejorado tanto a su equipo: el Alba ha pasado del 4,2 % de los puntos al 66,7 % con el de Elgoibar",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxfR056yp_jsImclLaJNwwl"
-    }
-  },
-  {
-    "title": "La derrota no hace dudar a España",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/16/derrota-dudar-espana.html",
-    "summary": "El entrenador del equipo gallego todavía no ha recibido ninguna oferta de renovación del club",
-    "published": "Mon, 16 Nov 2026 13:13:38 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afacf0469424.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الهزيمة لا تجعل إسبانيا موضع شك",
-    "arabic_summary": "ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي",
-    "translation_status": "translated",
-    "post_title": "الهزيمة لا تجعل إسبانيا موضع شك",
-    "post_text": "🚨 الهزيمة لا تجعل إسبانيا موضع شك\n\n📝 ولم يتلق مدرب الفريق الجاليكي حتى الآن أي عرض تجديد من النادي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111142948217682",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهزيمة_لا_تجعل_إسبانيا_موضع_شك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/16/derrota-dudar-espana.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABk1FjYCiTZbPQZbupTzqIq"
     }
   }
 ]
