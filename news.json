@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rondón, con MARCA: \"En Oviedo me costó, pero ahora estoy en mi 'cuarto prime'\"",
+    "url": "https://www.marca.com/futbol/2026/11/20/rondon-marca-oviedo-me-costo-mi-cuarto-prime.html",
+    "summary": "Entrevista exclusiva en México con el legendario delantero venezolano del Club Pachuca",
+    "published": "Fri, 20 Nov 2026 07:23:21 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/18/6afe28d924aeb.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "روندون، مع ماركا: \"كان الأمر صعبًا بالنسبة لي في أوفييدو، لكنني الآن في برايمتي الرابعة\"",
+    "arabic_summary": "مقابلة حصرية في المكسيك مع المهاجم الفنزويلي الأسطوري لنادي باتشوكا",
+    "translation_status": "translated",
+    "post_title": "روندون، مع ماركا: \"كان الأمر صعبًا بالنسبة لي في أوفييدو، لكنني الآن في برايمتي الرابعة\"",
+    "post_text": "🚨 روندون، مع ماركا: \"كان الأمر صعبًا بالنسبة لي في أوفييدو، لكنني الآن في برايمتي الرابعة\"\n\n📝 مقابلة حصرية في المكسيك مع المهاجم الفنزويلي الأسطوري لنادي باتشوكا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114052827926694",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روندون،_مع_ماركا_كان_الأمر_صعبًا_بالنسبة_لي_في_أوفييدو،_لكنني_الآن_في_برايمتي_ال.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/20/rondon-marca-oviedo-me-costo-mi-cuarto-prime.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Acd0QzDdL0H_rwrpRZrNrlt"
+    }
+  },
+  {
     "title": "La historia que cambió la rivalidad del derbi sevillano",
     "url": "https://as.com/videos/minuto-116/la-historia-que-cambio-la-rivalidad-del-derbi-sevillano-f202611-v/",
     "summary": "Sevilla y Betis se miden en el Sánchez-Pizjuán en un nuevo derbi sevillano. Hubo un tiempo en el que los partido se jugaba más allá del terreno de juego. Lopera y Del Nido convirtieron este enfrentamiento en una guerra de egos que terminó con la trágica muerte de Antonio Puerta. José María López y Daniel Lagos, periodistas de Sevilla, relatan como se vivió aquella época y como ha evolucionado la rivalidad entre Sevilla y Betis hasta la actualidad.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ahz2EmrB9j1t7eiXghGuBTr"
-    }
-  },
-  {
-    "title": "En vilo por las pruebas a Pubill",
-    "url": "https://as.com/futbol/primera/en-vilo-por-las-pruebas-a-pubill-f202611-n/",
-    "summary": "El defensa será sometido hoy a un examen médico para saber el alcance de su lesión en el tobillo. El problema se agrava para Simeone, por cuanto Cuti Romero está lesionado. El parón de selecciones le sale caro al Atlético: Lookman también se lastimó.",
-    "published": "Mon, 16 Nov 2026 10:28:18 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IJUMSZLWWFPPXK3UB6KNPHFKOA.jpg?auth=e2c64f6fb711d3b22ef56dbe4dac7ad6500bd3a643c22fc1f492780b13dbdee6",
-    "media_type": "image/jpeg",
-    "arabic_title": "في حالة تشويق بشأن اختبارات Pubill",
-    "arabic_summary": "ومن المقرر أن يخضع المدافع لفحص طبي اليوم لمعرفة مدى إصابة كاحله. وتتفاقم المشكلة بالنسبة لسيميوني، مع إصابة كوتي روميرو. إن فترة راحة المنتخب الوطني مكلفة بالنسبة لأتلتيكو: فقد أصيب لوكمان أيضًا.",
-    "translation_status": "translated",
-    "post_title": "في حالة تشويق بشأن اختبارات Pubill",
-    "post_text": "🚨 في حالة تشويق بشأن اختبارات Pubill\n\n📝 ومن المقرر أن يخضع المدافع لفحص طبي اليوم لمعرفة مدى إصابة كاحله. وتتفاقم المشكلة بالنسبة لسيميوني، مع إصابة كوتي روميرو. إن فترة راحة المنتخب الوطني مكلفة بالنسبة لأتلتيكو: فقد أصيب لوكمان أيضًا.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110298634968780",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/في_حالة_تشويق_بشأن_اختبارات_Pubill.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/en-vilo-por-las-pruebas-a-pubill-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aj-DoxHLIiMCvulzoh_UCj3"
     }
   }
 ]
