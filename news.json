@@ -1,5 +1,39 @@
 [
   {
+    "title": "“El Real Madrid no es tan diferente al del año pasado”",
+    "url": "https://as.com/futbol/primera/el-real-madrid-no-es-tan-diferente-al-del-ano-pasado-f202611-n/",
+    "summary": "El entrenador del Celta valora aplicar en parte el plan que le dio la victoria en su última visita al Bernabéu. Borja Iglesias no se ha recuperado a tiempo para entrar en la convocatoria.",
+    "published": "Fri, 20 Nov 2026 13:39:58 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261120/1240190_132408_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "\"ريال مدريد لا يختلف كثيرًا عن العام الماضي\"",
+    "arabic_summary": "يفكر مدرب سيلتا في تطبيق الخطة التي منحته الفوز في زيارته الأخيرة إلى البرنابيو. لم يتعاف بورخا إجليسياس في الوقت المناسب لدخول الفريق.",
+    "translation_status": "translated",
+    "post_title": "\"ريال مدريد لا يختلف كثيرًا عن العام الماضي\"",
+    "post_text": "🚨 \"ريال مدريد لا يختلف كثيرًا عن العام الماضي\"\n\n📝 يفكر مدرب سيلتا في تطبيق الخطة التي منحته الفوز في زيارته الأخيرة إلى البرنابيو. لم يتعاف بورخا إجليسياس في الوقت المناسب لدخول الفريق.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114831704515473",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_لا_يختلف_كثيرًا_عن_العام_الماضي.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZxOQC64uMTT-oy_t5OLV-W"
+    }
+  },
+  {
     "title": "'Unreal....how about that!' - Leader Kim sinks wonderful ace in Florida",
     "url": "https://www.skysports.com/watch/video/13614529/unreal-how-about-that-a-lim-kim-sinks-wonderful-ace-at-2026-cme-group-tour-championship-in-florida",
     "summary": "Take a look as A Lim Kim sunk a wonderful ace during her second round at the 2026 CME Group Tour Championship in Florida.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A4PCUnP7OBQbMHkQfE9R_Iv"
-    }
-  },
-  {
-    "title": "What is going wrong for Pocognoli and Scotland?",
-    "url": "https://www.skysports.com/football/news/12040/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around",
-    "summary": "A year is a long time in football and that is certainly the case when it comes to Scotland's fortunes.",
-    "published": "Tue, 17 Nov 2026 08:54:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-sebastien-pocognoli_7408472.jpg?20261117101348",
-    "media_type": "image/jpg",
-    "arabic_title": "ما الخطأ الذي يحدث في بوكوجنولي واسكتلندا؟",
-    "arabic_summary": "العام هو وقت طويل في كرة القدم، وهذا هو الحال بالتأكيد عندما يتعلق الأمر بمستقبل أسكتلندا.",
-    "translation_status": "translated",
-    "post_title": "ما الخطأ الذي يحدث في بوكوجنولي واسكتلندا؟",
-    "post_text": "🚨 ما الخطأ الذي يحدث في بوكوجنولي واسكتلندا؟\n\n📝 العام هو وقت طويل في كرة القدم، وهذا هو الحال بالتأكيد عندما يتعلق الأمر بمستقبل أسكتلندا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "108314655086024_1111358961529414",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_الخطأ_الذي_يحدث_في_بوكوجنولي_واسكتلندا؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) You do not have sufficient permissions to perform this action",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aw-pyID6aReulNCuiNnJ1XC"
     }
   }
 ]
