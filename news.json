@@ -1,5 +1,39 @@
 [
   {
+    "title": "\"Lamine, de chaval, ya apuntaba maneras\"",
+    "url": "https://www.marca.com/futbol/cordoba/2026/11/20/lamine-chaval-apuntaba-maneras.html",
+    "summary": "Adnane Ghailan, que compartió partidillos en Rocafonda con el crack del Barça, una sensación en Segunda: \"Sentía que podía encajar en el Córdoba\"",
+    "published": "Fri, 20 Nov 2026 07:26:57 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/18/6afde57c5268f.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"لامين، عندما كان طفلاً، أشار بالفعل إلى الطرق\"",
+    "arabic_summary": "عدنان غيلان، الذي شارك في مباريات روكافوندا مع نجم برشلونة، أحدث ضجة كبيرة في دوري الدرجة الثانية: \"شعرت وكأنني أستطيع التأقلم مع قرطبة\"",
+    "translation_status": "translated",
+    "post_title": "\"لامين، عندما كان طفلاً، أشار بالفعل إلى الطرق\"",
+    "post_text": "🚨 \"لامين، عندما كان طفلاً، أشار بالفعل إلى الطرق\"\n\n📝 عدنان غيلان، الذي شارك في مباريات روكافوندا مع نجم برشلونة، أحدث ضجة كبيرة في دوري الدرجة الثانية: \"شعرت وكأنني أستطيع التأقلم مع قرطبة\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114393761225934",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لامين،_عندما_كان_طفلاً،_أشار_بالفعل_إلى_الطرق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/cordoba/2026/11/20/lamine-chaval-apuntaba-maneras.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A80zso0rX9KzeZrLQfxr4b4"
+    }
+  },
+  {
     "title": "Juan Miranda: \"En los Juegos Olímpicos descubrí lo afortunado que soy\"",
     "url": "https://www.marca.com/futbol/liga-italiana/2026/11/20/juan-miranda-juegos-olimpicos-descubri-afortunado.html",
     "summary": "El lateral del Bolonia, Oro Olímpico en París 2024, atiende a MARCA tras un gran arranque de Serie A 2026-27",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9s9Uf0FUv5yS8exi3hYXZo"
-    }
-  },
-  {
-    "title": "Pochettino won't be drawn on U.S. players he might bring to Manchester United",
-    "url": "https://www.espn.com/soccer/story/_/id/50502495/pochettino-not-speculate-us-players-man-united",
-    "summary": "USMNT coach Mauricio Pochettino declined to be drawn into speculation on whether he would recruit players from the USMNT for his new job with Manchester United.",
-    "published": "Mon, 16 Nov 2026 13:08:52 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "لن يتم الاستعانة ببوكيتينو في اللاعبين الأمريكيين الذين قد يجلبهم إلى مانشستر يونايتد",
-    "arabic_summary": "رفض ماوريسيو بوتشيتينو مدرب اتحاد كرة القدم الأميركي الانجرار إلى التكهنات حول ما إذا كان سيتعاقد مع لاعبين من اتحاد كرة القدم الأميركي لوظيفته الجديدة مع مانشستر يونايتد.",
-    "translation_status": "translated",
-    "post_title": "لن يتم الاستعانة ببوكيتينو في اللاعبين الأمريكيين الذين قد يجلبهم إلى مانشستر يونايتد",
-    "post_text": "🚨 لن يتم الاستعانة ببوكيتينو في اللاعبين الأمريكيين الذين قد يجلبهم إلى مانشستر يونايتد\n\n📝 رفض ماوريسيو بوتشيتينو مدرب اتحاد كرة القدم الأميركي الانجرار إلى التكهنات حول ما إذا كان سيتعاقد مع لاعبين من اتحاد كرة القدم الأميركي لوظيفته الجديدة مع مانشستر يونايتد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110678404930803",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لن_يتم_الاستعانة_ببوكيتينو_في_اللاعبين_الأمريكيين_الذين_قد_يجلبهم_إلى_مانشستر_يو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ae3EjAhTbJZZKiB85qQ4dQv"
     }
   }
 ]
