@@ -1,5 +1,39 @@
 [
   {
+    "title": "Suazo llega a tiempo para el derbi",
+    "url": "https://www.marca.com/futbol/sevilla/2026/11/20/suazo-llega-derbi.html",
+    "summary": "El técnico da por conseguida la permanencia virtual y busca retos mayores",
+    "published": "Fri, 20 Nov 2026 11:54:56 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/6b0025cfc2e2a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "سوازو يصل في الوقت المناسب للديربي",
+    "arabic_summary": "يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر",
+    "translation_status": "translated",
+    "post_title": "سوازو يصل في الوقت المناسب للديربي",
+    "post_text": "🚨 سوازو يصل في الوقت المناسب للديربي\n\n📝 يأخذ الفني في الاعتبار الدوام الافتراضي الذي تم تحقيقه ويبحث عن تحديات أكبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114603351204975",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سوازو_يصل_في_الوقت_المناسب_للديربي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/sevilla/2026/11/20/suazo-llega-derbi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AHBOymVbvdoW5Z3izyLHtMs"
+    }
+  },
+  {
     "title": "Gabriel Jesus: \"Formar parte de un grupo con tanta hambre de gol lo hace todo más fácil\"",
     "url": "https://www.marca.com/futbol/barcelona/2026/11/20/gabriel-jesus-formar-parte-grupo-tanta-hambre-gol-facil.html",
     "summary": "El atacante atesora 4 goles y 2 asistencias en sus primeros cruces como azulgrana",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AQYiXbqS6Hs-LFye5eYrDwn"
-    }
-  },
-  {
-    "title": "El Barça vuelve a la tierra: no encadenaba dos pinchazos desde 2019",
-    "url": "https://as.com/futbol/femenino/el-barca-vuelve-a-la-tierra-no-encadenaba-dos-pinchazos-desde-2019-f202611-n/",
-    "summary": "La marcha de estrellas, las lesiones y el reparto de cargas, entre los posibles motivos de la pérdida de fiabilidad de las culés.",
-    "published": "Mon, 16 Nov 2026 18:41:54 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DVG4BQLGHBDALDR2PCJ5YDEOXA.jpg?auth=ede11bf12df83f0c1e27aa621c56c1a15283063ed31ae77f391d791d1dfe17a1",
-    "media_type": "image/jpeg",
-    "arabic_title": "يعود برشلونة إلى الأرض: لم يتعرض لثقب واحد منذ عام 2019",
-    "arabic_summary": "رحيل النجوم والإصابات وتوزيع الأحمال من الأسباب المحتملة لفقدان موثوقية الركلات.",
-    "translation_status": "translated",
-    "post_title": "يعود برشلونة إلى الأرض: لم يتعرض لثقب واحد منذ عام 2019",
-    "post_text": "🚨 يعود برشلونة إلى الأرض: لم يتعرض لثقب واحد منذ عام 2019\n\n📝 رحيل النجوم والإصابات وتوزيع الأحمال من الأسباب المحتملة لفقدان موثوقية الركلات.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111143408217636",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يعود_برشلونة_إلى_الأرض_لم_يتعرض_لثقب_واحد_منذ_عام_2019.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/femenino/el-barca-vuelve-a-la-tierra-no-encadenaba-dos-pinchazos-desde-2019-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Askz8__-l_ypk7w1HrDGONi"
     }
   }
 ]
