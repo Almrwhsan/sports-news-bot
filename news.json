@@ -1,5 +1,39 @@
 [
   {
+    "title": "Julián Alvarez, derecho al once titular",
+    "url": "https://as.com/futbol/julian-alvarez-derecho-al-once-titular-f202611-n/",
+    "summary": "El Cholo volvió a ensayar con un posible equipo ante el Getafe. El argentino estuvo en el once en detrimento de Arnau. Giuliano también apunta a salir de inicio ante el conjunto de Bordalás.",
+    "published": "Fri, 20 Nov 2026 12:38:29 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/A7E5Y5HKZFJJJMP3OJCVKHFQQE.jpg?auth=98eec9527076e054adc98a68d5ffb0e50b16643c1f293fce5b89df3b38877701",
+    "media_type": "image/jpeg",
+    "arabic_title": "جوليان ألفاريز، مباشرة في التشكيلة الأساسية",
+    "arabic_summary": "وتدرب تشولو مرة أخرى مع الفريق المحتمل أمام خيتافي. وكان الأرجنتيني في الحادية عشرة على حساب أرناو. يهدف جوليانو أيضًا إلى البدء ضد فريق بوردالاس.",
+    "translation_status": "translated",
+    "post_title": "جوليان ألفاريز، مباشرة في التشكيلة الأساسية",
+    "post_text": "🚨 جوليان ألفاريز، مباشرة في التشكيلة الأساسية\n\n📝 وتدرب تشولو مرة أخرى مع الفريق المحتمل أمام خيتافي. وكان الأرجنتيني في الحادية عشرة على حساب أرناو. يهدف جوليانو أيضًا إلى البدء ضد فريق بوردالاس.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114328734565770",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جوليان_ألفاريز،_مباشرة_في_التشكيلة_الأساسية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/julian-alvarez-derecho-al-once-titular-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4zM3PYDveFDseuOBvOqKye"
+    }
+  },
+  {
     "title": "Erasmus running risk of breaching World Rugby ban with watchalong",
     "url": "https://www.skysports.com/rugby-union/news/12040/13614260/rassie-erasmus-sky-sports-understands-south-africa-head-coach-running-the-risk-of-breaching-suspension-with-watchalong",
     "summary": "South Africa head coach Rassie Erasmus would risk breaching the terms of his six-Test ban if he holds his planned online watchalong of Saturday's Nations Championship clash with Ireland, Sky Sports understands.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ABJJA-p5db3rGbNQ93tw79l"
-    }
-  },
-  {
-    "title": "El Celta, ante el mes de la muerte",
-    "url": "https://as.com/futbol/primera/el-celta-ante-el-mes-de-la-muerte-f202611-n/",
-    "summary": "Los vigueses inauguran ante el Madrid el último tramo de 2026, en el que se miden a cuatro rivales de Champions en Liga y a dos cocos de Europa League",
-    "published": "Mon, 16 Nov 2026 15:52:13 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NAJU6NEG55HZZC4UBU6PRLW7W4.jpeg?auth=da966ed2b3e4045f5fe8d7be3823e0db7520e922da62319dfccb40603ed2267d",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيلتا، قبل شهر الوفاة",
-    "arabic_summary": "يفتتح فريق Vigueses المرحلة الأخيرة من عام 2026 ضد مدريد، حيث سيواجهون أربعة منافسين من دوري أبطال أوروبا في الدوري واثنين من جوز الهند من الدوري الأوروبي.",
-    "translation_status": "translated",
-    "post_title": "سيلتا، قبل شهر الوفاة",
-    "post_text": "🚨 سيلتا، قبل شهر الوفاة\n\n📝 يفتتح فريق Vigueses المرحلة الأخيرة من عام 2026 ضد مدريد، حيث سيواجهون أربعة منافسين من دوري أبطال أوروبا في الدوري واثنين من جوز الهند من الدوري الأوروبي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1110671131598197",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيلتا،_قبل_شهر_الوفاة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-celta-ante-el-mes-de-la-muerte-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ai6wXvUyM25fyT0fmpCw0CF"
     }
   }
 ]
