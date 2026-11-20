@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rodman eyes 'full-circle moment' with NWSL title: 'Would mean everything'",
+    "url": "https://www.espn.com/soccer/story/_/id/50535011/spirit-rodman-nwsl-title",
+    "summary": "Washington Spirit forward Trinity Rodman said it would mean \"everything\" to win another NWSL Championship on home soil at Audi Field on Saturday.",
+    "published": "Thu, 19 Nov 2026 18:33:13 EST",
+    "source": "ESPN FC",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "رودمان يتطلع إلى \"لحظة الدائرة الكاملة\" بلقب NWSL: \"سيعني كل شيء\"",
+    "arabic_summary": "قال مهاجم واشنطن سبيريت ترينيتي رودمان إن الفوز ببطولة NWSL أخرى على أرض الوطن في ملعب أودي فيلد يوم السبت يعني \"كل شيء\".",
+    "translation_status": "translated",
+    "post_title": "رودمان يتطلع إلى \"لحظة الدائرة الكاملة\" بلقب NWSL: \"سيعني كل شيء\"",
+    "post_text": "🚨 رودمان يتطلع إلى \"لحظة الدائرة الكاملة\" بلقب NWSL: \"سيعني كل شيء\"\n\n📝 قال مهاجم واشنطن سبيريت ترينيتي رودمان إن الفوز ببطولة NWSL أخرى على أرض الوطن في ملعب أودي فيلد يوم السبت يعني \"كل شيء\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1113917414606902",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رودمان_يتطلع_إلى_لحظة_الدائرة_الكاملة_بلقب_NWSL_سيعني_كل_شيء.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Al-zPS7tjdlNq7hG3kEZWmJ"
+    }
+  },
+  {
     "title": "Fanática invade el campo por conocer a Robert Lewandowski",
     "url": "https://as.com/us/videos/fanatica-invade-el-campo-por-conocer-a-robert-lewandowski-f202611-v/",
     "summary": "En redes sociales se volvió viral el momento en el que una chica burlo la seguridad para poder acercarse al nueve de Polonia y así poder obtener su jersey y una fotografía.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AhRjYAoFbPiYBKoKYx8-R42"
-    }
-  },
-  {
-    "title": "Primera derrota en casa marcada por la roja a Jorquera",
-    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/16/primera-derrota-casa-marcada-roja-jorquera.html",
-    "summary": "La expulsión en la primera mitad condena a los granas, que se adelantaron en el marcador pero terminaron sucumbiendo ante el empuje del Alcorcón",
-    "published": "Mon, 16 Nov 2026 00:35:27 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afa414ec3c45.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "الهزيمة الأولى على أرضه تميزت باللون الأحمر لخوركيرا",
-    "arabic_summary": "أدى الطرد في الشوط الأول إلى إدانة فريق Granas، الذي تقدم في لوحة النتائج ولكن انتهى به الأمر بالاستسلام لضغط ألكوركون.",
-    "translation_status": "translated",
-    "post_title": "الهزيمة الأولى على أرضه تميزت باللون الأحمر لخوركيرا",
-    "post_text": "🚨 الهزيمة الأولى على أرضه تميزت باللون الأحمر لخوركيرا\n\n📝 أدى الطرد في الشوط الأول إلى إدانة فريق Granas، الذي تقدم في لوحة النتائج ولكن انتهى به الأمر بالاستسلام لضغط ألكوركون.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1109864898345487",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهزيمة_الأولى_على_أرضه_تميزت_باللون_الأحمر_لخوركيرا.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/16/primera-derrota-casa-marcada-roja-jorquera.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoF2HCuQhoNb_41qRG1tJYp"
     }
   }
 ]
