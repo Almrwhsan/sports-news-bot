@@ -1,5 +1,39 @@
 [
   {
+    "title": "Raúl pierde a Pablo Sáenz para su primera salida con el Oviedo",
+    "url": "https://www.marca.com/futbol/oviedo/2026/11/20/raul-pierde-pablo-saenz-primera-salida-oviedo.html",
+    "summary": "El extremo, goleador esta temporada en Albacete y Valladolid, sufre una lesión muscular y se pierde la cita de El Arcángel",
+    "published": "Fri, 20 Nov 2026 12:56:49 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/6b0035411ab11.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "راؤول يخسر بابلو ساينز في أول مباراة له مع أوفييدو",
+    "arabic_summary": "الجناح هداف ألباسيتي وبلد الوليد هذا الموسم يعاني من إصابة عضلية ويغيب عن لقاء الأركانجيل",
+    "translation_status": "translated",
+    "post_title": "راؤول يخسر بابلو ساينز في أول مباراة له مع أوفييدو",
+    "post_text": "🚨 راؤول يخسر بابلو ساينز في أول مباراة له مع أوفييدو\n\n📝 الجناح هداف ألباسيتي وبلد الوليد هذا الموسم يعاني من إصابة عضلية ويغيب عن لقاء الأركانجيل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1114672027864774",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راؤول_يخسر_بابلو_ساينز_في_أول_مباراة_له_مع_أوفييدو.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/oviedo/2026/11/20/raul-pierde-pablo-saenz-primera-salida-oviedo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsxmXcYcFzEHhH0h0HmR4m9"
+    }
+  },
+  {
     "title": "España ya conoce su camino en la Nations League: fechas de los cuartos ante Francia y de la Final Four",
     "url": "https://www.marca.com/futbol/nations-league/2026/11/20/espana-conoce-camino-nations-league-fechas-cuartos-francia-final-four.html",
     "summary": "Las fechas clave de las rondas finales: la ida el jueves 25 de marzo en Mestalla y la vuelta en París el domingo 28",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AiuLYnLdZurUrconJdeHt6_"
-    }
-  },
-  {
-    "title": "Record-breaker Robertson speaks out after Scotland's bad loss to Switzerland",
-    "url": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
-    "summary": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
-    "published": "Mon, 16 Nov 2026 21:35:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135",
-    "media_type": "image/jpg",
-    "arabic_title": "روبرتسون صاحب الأرقام القياسية يتحدث بعد خسارة اسكتلندا السيئة أمام سويسرا",
-    "arabic_summary": "صنع آندي روبرتسون تاريخ اسكتلندا، ثم قدم تقييمًا لاذعًا لانهيار دوري الأمم الأوروبية أمام سويسرا.",
-    "translation_status": "translated",
-    "post_title": "روبرتسون صاحب الأرقام القياسية يتحدث بعد خسارة اسكتلندا السيئة أمام سويسرا",
-    "post_text": "🚨 روبرتسون صاحب الأرقام القياسية يتحدث بعد خسارة اسكتلندا السيئة أمام سويسرا\n\n📝 صنع آندي روبرتسون تاريخ اسكتلندا، ثم قدم تقييمًا لاذعًا لانهيار دوري الأمم الأوروبية أمام سويسرا.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111199518212025",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/روبرتسون_صاحب_الأرقام_القياسية_يتحدث_بعد_خسارة_اسكتلندا_السيئة_أمام_سويسرا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARqWc19D4M7IQLKHLM8vCkR"
     }
   }
 ]
