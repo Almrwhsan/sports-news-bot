@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Madrid se vuelca en recuerdo de Jesús de Miguel",
+    "url": "https://as.com/futbol/el-madrid-se-vuelca-en-recuerdo-de-jesus-de-miguel-f202611-n/",
+    "summary": "Minutos antes del pitido inicial ante el Celta, el club homenajeó al futbolista madrileño junto a su familia y le rindió tributo en la puerta 9 del Bernabéu.",
+    "published": "Sat, 21 Nov 2026 20:22:31 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261121/1240699_203539_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "مدريد تكرس نفسها لذكرى خيسوس دي ميغيل",
+    "arabic_summary": "قبل دقائق من انطلاق المباراة ضد سيلتا، قام النادي بتكريم اللاعب المدريديستا مع عائلته وتكريمه عند البوابة رقم 9 في البرنابيو.",
+    "translation_status": "translated",
+    "post_title": "مدريد تكرس نفسها لذكرى خيسوس دي ميغيل",
+    "post_text": "🚨 مدريد تكرس نفسها لذكرى خيسوس دي ميغيل\n\n📝 قبل دقائق من انطلاق المباراة ضد سيلتا، قام النادي بتكريم اللاعب المدريديستا مع عائلته وتكريمه عند البوابة رقم 9 في البرنابيو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115844707747506",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مدريد_تكرس_نفسها_لذكرى_خيسوس_دي_ميغيل.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARxmgd4QBzeQoNyEEqLps6u"
+    }
+  },
+  {
     "title": "A qué hora es el Real Madrid - Celta: horario, dónde ver hoy en TV y canal del partido de LaLiga EA Sports",
     "url": "https://www.marca.com/futbol/primera-division/2026/11/21/real-madrid-celta-horario-ver-hoy-tv-canal-partido-laliga-ea-sports.html",
     "summary": "Se disputará en el Estadio Santiago Bernabéu un mes después del último compromiso liguero de los blancos en su feudo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A1kBvp6XvvxGQfbA4pMQQzS"
-    }
-  },
-  {
-    "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
-    "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-    "summary": "Based on a simple combination of ability and tactical importance, we've reranked the best players in order at the top Premier League clubs.",
-    "published": "Wed, 18 Nov 2026 03:24:35 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "إعادة الترتيب: من هو أفضل لاعب في كل من أفضل أندية الدوري الإنجليزي الممتاز؟",
-    "arabic_summary": "استنادًا إلى مزيج بسيط من القدرة والأهمية التكتيكية، قمنا بإعادة ترتيب أفضل اللاعبين بالترتيب في أفضل أندية الدوري الإنجليزي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "إعادة الترتيب: من هو أفضل لاعب في كل من أفضل أندية الدوري الإنجليزي الممتاز؟",
-    "post_text": "🚨 إعادة الترتيب: من هو أفضل لاعب في كل من أفضل أندية الدوري الإنجليزي الممتاز؟\n\n📝 استنادًا إلى مزيج بسيط من القدرة والأهمية التكتيكية، قمنا بإعادة ترتيب أفضل اللاعبين بالترتيب في أفضل أندية الدوري الإنجليزي الممتاز.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112319718100005",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إعادة_الترتيب_من_هو_أفضل_لاعب_في_كل_من_أفضل_أندية_الدوري_الإنجليزي_الممتاز؟.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AxMCI7Q_K52mdEb3rt1hDSe"
     }
   }
 ]
