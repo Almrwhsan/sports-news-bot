@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Bayern vive su peor pesadilla",
+    "url": "https://as.com/futbol/internacional/el-bayern-vive-su-peor-pesadilla-f202611-n/",
+    "summary": "El campeón de la Bundesliga pincha contra el Colonia y pierde a Kane y a Olise, ambos lesionados.",
+    "published": "Fri, 20 Nov 2026 21:49:17 GMT",
+    "source": "AS Football",
+    "language": "es",
+    "type": "global",
+    "category": "bundesliga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/FIBJBSHQNFL5PJ7GIF5WF5DORQ.jpg?auth=9766ae60096ced0f5a0a2aac88327dfdcca7ca959b7d9ff495054b5cf03d151d",
+    "media_type": "image/jpeg",
+    "arabic_title": "ويعيش بايرن أسوأ كابوس له",
+    "arabic_summary": "بطل الدوري الألماني يثقب أمام كولونيا ويخسر كين وأوليز للإصابة.",
+    "translation_status": "translated",
+    "post_title": "ويعيش بايرن أسوأ كابوس له",
+    "post_text": "🚨 ويعيش بايرن أسوأ كابوس له\n\n📝 بطل الدوري الألماني يثقب أمام كولونيا ويخسر كين وأوليز للإصابة.\n\n🏷️ الدوري الألماني\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115189194479724",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ويعيش_بايرن_أسوأ_كابوس_له.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/internacional/el-bayern-vive-su-peor-pesadilla-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Awx7MW3cywnvx7s2NXzTyJu"
+    }
+  },
+  {
     "title": "Cummins to remain captain after 'unanimous support' from Cricket Australia",
     "url": "https://www.skysports.com/cricket/news/12040/13614603/pat-cummins-to-remain-australia-captain-given-unanimous-support-by-cricket-board-amid-sandpapergate-fallout",
     "summary": "Pat Cummins will remain as Test and ODI captain after being given \"unanimous support\" by Cricket Australia, with the skipper confirming he will take part in the independent forum launched following Usman Khawaja's Sandpapergate allegations.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AOMjLBlk8LocszYcDbfGbeh"
-    }
-  },
-  {
-    "title": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
-    "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
-    "summary": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
-    "published": "Tue, 17 Nov 2026 07:55:15 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "شائعات الانتقالات والأخبار: مانشستر يونايتد يتطلع إلى مدافع نيوكاسل ثياو",
-    "arabic_summary": "مانشستر يونايتد من بين الأندية المهتمة بمدافع نيوكاسل يونايتد مالك ثياو. نقل الحديث لديه الأحدث.",
-    "translation_status": "translated",
-    "post_title": "شائعات الانتقالات والأخبار: مانشستر يونايتد يتطلع إلى مدافع نيوكاسل ثياو",
-    "post_text": "🚨 شائعات الانتقالات والأخبار: مانشستر يونايتد يتطلع إلى مدافع نيوكاسل ثياو\n\n📝 مانشستر يونايتد من بين الأندية المهتمة بمدافع نيوكاسل يونايتد مالك ثياو. نقل الحديث لديه الأحدث.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111422224856421",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شائعات_الانتقالات_والأخبار_مانشستر_يونايتد_يتطلع_إلى_مدافع_نيوكاسل_ثياو.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcStxjij8m_aERwKXg-lL3X"
     }
   }
 ]
