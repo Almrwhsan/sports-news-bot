@@ -1,5 +1,39 @@
 [
   {
+    "title": "OH NO! Price's Panenka goes horribly wrong!",
+    "url": "https://www.skysports.com/watch/video/13614954/isaac-prices-panenka-penalty-saved-despite-swansea-goalkeeper-diving-the-wrong-way",
+    "summary": "West Brom's Isaac Price won't want to watch his sees his attempted Panenka penalty saved by Swansea goalkeeper Lawrence Vigouroux.",
+    "published": "Sat, 21 Nov 2026 18:02:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-goal-panenka-wba_7412874.jpg?20261121193723",
+    "media_type": "image/jpg",
+    "arabic_title": "أوه لا! بانينكا برايس تسير بشكل خاطئ!",
+    "arabic_summary": "لن يرغب إسحاق برايس لاعب وست بروميتش في مشاهدة محاولته لركلة جزاء بانينكا التي تصدى لها حارس مرمى سوانزي لورانس فيجورو.",
+    "translation_status": "translated",
+    "post_title": "أوه لا! بانينكا برايس تسير بشكل خاطئ!",
+    "post_text": "🚨 أوه لا! بانينكا برايس تسير بشكل خاطئ!\n\n📝 لن يرغب إسحاق برايس لاعب وست بروميتش في مشاهدة محاولته لركلة جزاء بانينكا التي تصدى لها حارس مرمى سوانزي لورانس فيجورو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115769784421665",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أوه_لا!_بانينكا_برايس_تسير_بشكل_خاطئ!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13614954/isaac-prices-panenka-penalty-saved-despite-swansea-goalkeeper-diving-the-wrong-way",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AoPpGnfc224lB-Rf8PeiICM"
+    }
+  },
+  {
     "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
     "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
     "summary": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfEOVBwn5e7gKRDsMGWr7SE"
-    }
-  },
-  {
-    "title": "Haaland sends Norway to Nations League quarters on last-minute penalty",
-    "url": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
-    "summary": "Erling Haaland delivered for Norway on one of the last plays of the game to give his team a 3-2 win over Denmark to advance to the Nations League quarterfinals.",
-    "published": "Wed, 18 Nov 2026 00:53:03 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "هالاند يرسل النرويج إلى ربع نهائي دوري الأمم الأوروبية بركلة جزاء في اللحظة الأخيرة",
-    "arabic_summary": "قدم إيرلينج هالاند هدفًا للنرويج في واحدة من آخر المباريات في المباراة ليمنح فريقه الفوز 3-2 على الدنمارك ليتأهل إلى ربع نهائي دوري الأمم الأوروبية.",
-    "translation_status": "translated",
-    "post_title": "هالاند يرسل النرويج إلى ربع نهائي دوري الأمم الأوروبية بركلة جزاء في اللحظة الأخيرة",
-    "post_text": "🚨 هالاند يرسل النرويج إلى ربع نهائي دوري الأمم الأوروبية بركلة جزاء في اللحظة الأخيرة\n\n📝 قدم إيرلينج هالاند هدفًا للنرويج في واحدة من آخر المباريات في المباراة ليمنح فريقه الفوز 3-2 على الدنمارك ليتأهل إلى ربع نهائي دوري الأمم الأوروبية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112195028112474",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هالاند_يرسل_النرويج_إلى_ربع_نهائي_دوري_الأمم_الأوروبية_بركلة_جزاء_في_اللحظة_الأخ.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqhGlcIq0Xdfb0bE8OMfgF8"
     }
   }
 ]
