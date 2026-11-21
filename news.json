@@ -1,5 +1,39 @@
 [
   {
+    "title": "Southampton give head coach Eckert new deal",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
+    "published": "Fri, 20 Nov 2026 13:10:33 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg",
+    "media_type": null,
+    "arabic_title": "ساوثامبتون يمنح مدربه إيكيرت عقدًا جديدًا",
+    "arabic_summary": "وقع توندا إيكرت، مدرب ساوثهامبتون، عقدًا جديدًا مع النادي حتى عام 2029.",
+    "translation_status": "translated",
+    "post_title": "ساوثامبتون يمنح مدربه إيكيرت عقدًا جديدًا",
+    "post_text": "🚨 ساوثامبتون يمنح مدربه إيكيرت عقدًا جديدًا\n\n📝 وقع توندا إيكرت، مدرب ساوثهامبتون، عقدًا جديدًا مع النادي حتى عام 2029.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115085464490097",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساوثامبتون_يمنح_مدربه_إيكيرت_عقدًا_جديدًا.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2QI67EYt0OOvOiNcnDT-Ym"
+    }
+  },
+  {
     "title": "Kane set to miss three months with ankle injury",
     "url": "https://www.skysports.com/football/news/12040/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury",
     "summary": "Harry Kane is expected to be sidelined for three months after suffering an ankle injury during Bayern Munich's Bundesliga game with Cologne on Friday.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXnAknIF_ZnRHqDctFRI5bU"
-    }
-  },
-  {
-    "title": "Klopp y Alemania exprimen a la 'Oranje' de Xavi",
-    "url": "https://www.marca.com/futbol/nations-league/cronica/2026/11/16/klopp-alemania-sacan-rodillo-humillar-paises-bajos-xavi.html",
-    "summary": "La 'Mannschaft' cierra la Nations como primera de grupo; Paises Bajos, segunda",
-    "published": "Mon, 16 Nov 2026 22:35:03 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afb74b2701f5.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كلوب وألمانيا يعصران \"البرتقالي\" لتشافي",
-    "arabic_summary": "يغلق \"مانشافت\" الأمم في المركز الأول في المجموعة؛ هولندا ثانيا",
-    "translation_status": "translated",
-    "post_title": "كلوب وألمانيا يعصران \"البرتقالي\" لتشافي",
-    "post_text": "🚨 كلوب وألمانيا يعصران \"البرتقالي\" لتشافي\n\n📝 يغلق \"مانشافت\" الأمم في المركز الأول في المجموعة؛ هولندا ثانيا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111358491529461",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كلوب_وألمانيا_يعصران_البرتقالي_لتشافي.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/nations-league/cronica/2026/11/16/klopp-alemania-sacan-rodillo-humillar-paises-bajos-xavi.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AhyuVsNJe8x_xS_q4a8Xe4t"
     }
   }
 ]
