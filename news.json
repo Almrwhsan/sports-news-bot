@@ -1,5 +1,39 @@
 [
   {
+    "title": "'CSKA Sofia interested in Rangers' Cortes' - gossip",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckregwp3glwwo?at_medium=RSS&at_campaign=rss",
+    "summary": "AC Milan, Manchester United and Real Madrid are reportedly interested in Napoli's Scott McTominay, while it is claimed Celtic would be interested in Aston Villa's John McGinn.",
+    "published": "Fri, 20 Nov 2026 08:07:48 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377b/live/e209e470-e58b-11f1-a094-5fdc692f3e33.png",
+    "media_type": null,
+    "arabic_title": "\"سسكا صوفيا مهتم بكورتيس رينجرز\" - ثرثرة",
+    "arabic_summary": "يقال إن ميلان ومانشستر يونايتد وريال مدريد مهتمون بسكوت مكتوميناي لاعب نابولي، بينما يقال إن سيلتيك سيكون مهتمًا بجون ماكجين لاعب أستون فيلا.",
+    "translation_status": "translated",
+    "post_title": "\"سسكا صوفيا مهتم بكورتيس رينجرز\" - ثرثرة",
+    "post_text": "🚨 \"سسكا صوفيا مهتم بكورتيس رينجرز\" - ثرثرة\n\n📝 يقال إن ميلان ومانشستر يونايتد وريال مدريد مهتمون بسكوت مكتوميناي لاعب نابولي، بينما يقال إن سيلتيك سيكون مهتمًا بجون ماكجين لاعب أستون فيلا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115209647811012",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سسكا_صوفيا_مهتم_بكورتيس_رينجرز_-_ثرثرة.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/ckregwp3glwwo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AJ6rCC48HN50VPwXuIWXLjh"
+    }
+  },
+  {
     "title": "Un efecto Sarabia como una catedral",
     "url": "https://as.com/futbol/un-efecto-sarabia-como-una-catedral-f202611-n/",
     "summary": "Fortuño hace de Joan García en la zaga y Roberto se exhibe como internacional con un golazo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A8seHaAKEbF2DOh6Ey47Ymf"
-    }
-  },
-  {
-    "title": "India's Dhoni retires from playing role with Chennai Super Kings",
-    "url": "https://www.skysports.com/cricket/news/12040/13613181/ms-dhoni-former-india-captain-retires-from-playing-role-with-ipls-chennai-super-kings-aged-45",
-    "summary": "Former India captain MS Dhoni has retired from playing with Chennai Super Kings in the Indian Premier League and will take up a new role as team mentor from the 2027 season.",
-    "published": "Tue, 17 Nov 2026 11:59:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-ms-dhoni-ipl-chennai-super-kings_7408726.jpg?20261117141431",
-    "media_type": "image/jpg",
-    "arabic_title": "الهندي دوني يعتزل اللعب مع تشيناي سوبر كينغز",
-    "arabic_summary": "تقاعد كابتن الهند السابق إم إس دوني من اللعب مع تشيناي سوبر كينغز في الدوري الهندي الممتاز وسيتولى دورًا جديدًا كمرشد للفريق اعتبارًا من موسم 2027.",
-    "translation_status": "translated",
-    "post_title": "الهندي دوني يعتزل اللعب مع تشيناي سوبر كينغز",
-    "post_text": "🚨 الهندي دوني يعتزل اللعب مع تشيناي سوبر كينغز\n\n📝 تقاعد كابتن الهند السابق إم إس دوني من اللعب مع تشيناي سوبر كينغز في الدوري الهندي الممتاز وسيتولى دورًا جديدًا كمرشد للفريق اعتبارًا من موسم 2027.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111493644849279",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الهندي_دوني_يعتزل_اللعب_مع_تشيناي_سوبر_كينغز.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13613181/ms-dhoni-former-india-captain-retires-from-playing-role-with-ipls-chennai-super-kings-aged-45",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZfZDMAI9LUu8CLo2ESLjTI"
     }
   }
 ]
