@@ -1,5 +1,39 @@
 [
   {
+    "title": "Vini y Diomande, al rojo vivo",
+    "url": "https://as.com/futbol/primera/vini-y-diomande-al-rojo-vivo-f202611-n/",
+    "summary": "Llega la hora de la verdad. Con Güler con la etiqueta de titularísimo, ambos se disputan un puesto ante el Celta. Los dos cabrían juntos si Güler juega de mediocentro.",
+    "published": "Sat, 21 Nov 2026 12:30:24 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NONG45UKQJLM7O67D66BJW4SS4.jpg?auth=a2f28a4311c194fabfeea150958101ad14c5a3b2477da07cbe1406f0f3aed356",
+    "media_type": "image/jpeg",
+    "arabic_title": "فيني و ديوماندي، أحمر حار",
+    "arabic_summary": "تأتي لحظة الحقيقة. مع اختيار جولر أساسيًا، يتنافس كلاهما على مكان في مواجهة سيلتا فيجو. سيكون الاثنان مناسبين معًا إذا لعب جولر كلاعب خط وسط.",
+    "translation_status": "translated",
+    "post_title": "فيني و ديوماندي، أحمر حار",
+    "post_text": "🚨 فيني و ديوماندي، أحمر حار\n\n📝 تأتي لحظة الحقيقة. مع اختيار جولر أساسيًا، يتنافس كلاهما على مكان في مواجهة سيلتا فيجو. سيكون الاثنان مناسبين معًا إذا لعب جولر كلاعب خط وسط.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115821627749814",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيني_و_ديوماندي،_أحمر_حار.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/vini-y-diomande-al-rojo-vivo-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A0cRHf_xTq-fez3hyIcWULj"
+    }
+  },
+  {
     "title": "Está metidísimo ya: la reacción final de Nadal al discurso de Florentino contra Tebas, los árbitros y “los enemigos”",
     "url": "https://as.com/futbol/videos/esta-metidisimo-ya-la-reaccion-final-de-nadal-al-agresivo-discurso-de-florentino-contra-tebas-los-arbitros-y-los-enemigos-f202611-v/",
     "summary": "El flamante nuevo directivo blanco dejó, de esta manera que captaron las cámaras al final del discurso del presidente, estar totalmente alineado con las posiciones del club.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ah9YwFQH24JZUgVfcGqThra"
-    }
-  },
-  {
-    "title": "Griezmann se rinde ante Cristiano y lo respalda tras su retiro de Portugal",
-    "url": "https://as.com/us/videos/griezmann-se-rinde-ante-cristiano-y-lo-respalda-tras-su-retiro-de-portugal-f202611-v/",
-    "summary": "El jugador francés aprovechó para mandar un mensaje a Cristiano tras su retiro de la selección y no dudó en elogiar al astro portugués en plena conferencia.",
-    "published": "Tue, 17 Nov 2026 21:15:13 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261117/1238920_211044_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "جريزمان يستسلم لكريستيانو ويدعمه بعد اعتزاله البرتغال",
-    "arabic_summary": "وانتهز اللاعب الفرنسي الفرصة لتوجيه رسالة إلى كريستيانو بعد اعتزاله المنتخب الوطني ولم يتردد في الإشادة بالنجم البرتغالي وسط المؤتمر.",
-    "translation_status": "translated",
-    "post_title": "جريزمان يستسلم لكريستيانو ويدعمه بعد اعتزاله البرتغال",
-    "post_text": "🚨 جريزمان يستسلم لكريستيانو ويدعمه بعد اعتزاله البرتغال\n\n📝 وانتهز اللاعب الفرنسي الفرصة لتوجيه رسالة إلى كريستيانو بعد اعتزاله المنتخب الوطني ولم يتردد في الإشادة بالنجم البرتغالي وسط المؤتمر.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112246228107354",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جريزمان_يستسلم_لكريستيانو_ويدعمه_بعد_اعتزاله_البرتغال.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AzY4Fdci3khSsvBx13goNBo"
     }
   }
 ]
