@@ -1,5 +1,39 @@
 [
   {
+    "title": "Grand Slam of Darts LIVE! Van Veen vs Aspinall after MVG beats Sykes in nine-dart fest",
+    "url": "https://www.skysports.com/darts/live-blog/12040/13614704/grand-slam-of-darts-commentary-updates-scores-analysis-with-michael-van-gerwen-nathan-aspinall-gian-van-veen-in-action",
+    "summary": "",
+    "published": "Sat, 21 Nov 2026 18:30:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-darts-grand-slam-of-darts_7411138.jpg?20261120071111",
+    "media_type": "image/jpg",
+    "arabic_title": "جراند سلام للسهام لايف! فان فين ضد أسبينال بعد فوز MVG على سايكس في مهرجان السهام التسعة",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "جراند سلام للسهام لايف! فان فين ضد أسبينال بعد فوز MVG على سايكس في مهرجان السهام التسعة",
+    "post_text": "🚨 جراند سلام للسهام لايف! فان فين ضد أسبينال بعد فوز MVG على سايكس في مهرجان السهام التسعة\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115796844418959",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جراند_سلام_للسهام_لايف!_فان_فين_ضد_أسبينال_بعد_فوز_MVG_على_سايكس_في_مهرجان_السها.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/darts/live-blog/12040/13614704/grand-slam-of-darts-commentary-updates-scores-analysis-with-michael-van-gerwen-nathan-aspinall-gian-van-veen-in-action",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AErELljCObgcJMFRdfusqoE"
+    }
+  },
+  {
     "title": "Man City at a crossroads as a shell of themselves",
     "url": "https://www.espn.com/soccer/story/_/id/50550244/man-city-fulham-premier-league-erling-haaland-maresca",
     "summary": "When Man City can't beat Fulham -- a team they had beaten 20 times in a row entering Saturday -- you know they're struggling.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AyloWYDD-MkcQ-ZYkwNRUkx"
-    }
-  },
-  {
-    "title": "Poch signs off with 'dream' USMNT finish, predicts 'big things in the future'",
-    "url": "https://www.espn.com/soccer/story/_/id/50516389/pochettino-dream-usmnt-finish",
-    "summary": "After coaching his last game as United States coach, Mauricio Pochettino said he thinks the team will \"achieve big things\" in the wake of his departure to Manchester United.",
-    "published": "Wed, 18 Nov 2026 00:53:03 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "يوقع Poch بنهاية USMNT \"الحلم\" ويتوقع \"أشياء كبيرة في المستقبل\"",
-    "arabic_summary": "بعد تدريبه في آخر مباراة له كمدرب للولايات المتحدة، قال ماوريسيو بوكيتينو إنه يعتقد أن الفريق \"سيحقق أشياء كبيرة\" في أعقاب رحيله إلى مانشستر يونايتد.",
-    "translation_status": "translated",
-    "post_title": "يوقع Poch بنهاية USMNT \"الحلم\" ويتوقع \"أشياء كبيرة في المستقبل\"",
-    "post_text": "🚨 يوقع Poch بنهاية USMNT \"الحلم\" ويتوقع \"أشياء كبيرة في المستقبل\"\n\n📝 بعد تدريبه في آخر مباراة له كمدرب للولايات المتحدة، قال ماوريسيو بوكيتينو إنه يعتقد أن الفريق \"سيحقق أشياء كبيرة\" في أعقاب رحيله إلى مانشستر يونايتد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112194501445860",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يوقع_Poch_بنهاية_USMNT_الحلم_ويتوقع_أشياء_كبيرة_في_المستقبل.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AgLUqKWFuvT_cdsv1psPMXE"
     }
   }
 ]
