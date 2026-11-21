@@ -1,5 +1,39 @@
 [
   {
+    "title": "El ‘last dance’ de Iago Aspas en el Bernabéu",
+    "url": "https://as.com/futbol/primera/el-last-dance-de-iago-aspas-en-el-bernabeu-f202611-n/",
+    "summary": "El capitán del Celta se retira a final de temporada y este sábado jugará su último partido en el estadio del Real Madrid.",
+    "published": "Fri, 20 Nov 2026 23:43:05 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IKUDC4DEGOARA4BYF44MHFZYDM.JPG?auth=8eed5b59e355706134e3d9a9ee335f92cb94c0bbf6668df3fc3af0ffe2f25a8d",
+    "media_type": "image/jpeg",
+    "arabic_title": "رقصة ياجو أسباس الأخيرة في البرنابيو",
+    "arabic_summary": "سيعتزل قائد سيلتا فيغو نهاية الموسم وسيلعب يوم السبت مباراته الأخيرة في ملعب ريال مدريد.",
+    "translation_status": "translated",
+    "post_title": "رقصة ياجو أسباس الأخيرة في البرنابيو",
+    "post_text": "🚨 رقصة ياجو أسباس الأخيرة في البرنابيو\n\n📝 سيعتزل قائد سيلتا فيغو نهاية الموسم وسيلعب يوم السبت مباراته الأخيرة في ملعب ريال مدريد.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1115221311143179",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رقصة_ياجو_أسباس_الأخيرة_في_البرنابيو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/el-last-dance-de-iago-aspas-en-el-bernabeu-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AL9N-M8SYvGb19OFguH58tq"
+    }
+  },
+  {
     "title": "Sevilla-Betis: enemigos íntimos",
     "url": "https://as.com/futbol/fotorrelato/sevilla-betis-enemigos-intimos-f202611-f/",
     "summary": "Los derbis sevillanos entre el Sevilla FC y el Real Betis son duelos que van más allá de ser simplemente encuentros deportivos...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AbA8Ij2BiNWp3YCqLOIj_ev"
-    }
-  },
-  {
-    "title": "Declan Rice renueva con el Arsenal hasta 2031 y ganará... ¡más de 419.000 euros a la semana!",
-    "url": "https://www.marca.com/futbol/premier-league/2026/11/17/declan-rice-renueva-arsenal-2031-ganara-419-000-euros-semana.html",
-    "summary": "Declan Rice llega a un acuerdo con el Arsenal para ampliar cinco años su contrato y convertirse en su jugador mejor pagado junto a Saka",
-    "published": "Tue, 17 Nov 2026 07:21:04 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/17/6afbf207cff44.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ديكلان رايس يجدد مع أرسنال حتى 2031 وسيتقاضى... أكثر من 419 ألف يورو أسبوعيًا!",
-    "arabic_summary": "توصل ديكلان رايس إلى اتفاق مع أرسنال لتمديد عقده لمدة خمس سنوات ليصبح اللاعب الأعلى أجرًا إلى جانب ساكا",
-    "translation_status": "translated",
-    "post_title": "ديكلان رايس يجدد مع أرسنال حتى 2031 وسيتقاضى... أكثر من 419 ألف يورو أسبوعيًا!",
-    "post_text": "🚨 ديكلان رايس يجدد مع أرسنال حتى 2031 وسيتقاضى... أكثر من 419 ألف يورو أسبوعيًا!\n\n📝 توصل ديكلان رايس إلى اتفاق مع أرسنال لتمديد عقده لمدة خمس سنوات ليصبح اللاعب الأعلى أجرًا إلى جانب ساكا\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1111492831516027",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ديكلان_رايس_يجدد_مع_أرسنال_حتى_2031_وسيتقاضى..._أكثر_من_419_ألف_يورو_أسبوعيًا!.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/17/declan-rice-renueva-arsenal-2031-ganara-419-000-euros-semana.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AqB6zTs0CRmJ5fDsstZK-wb"
     }
   }
 ]
