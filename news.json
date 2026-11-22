@@ -1,5 +1,39 @@
 [
   {
+    "title": "Harrison: The animosity Fury and AJ have is genuine",
+    "url": "https://www.skysports.com/boxing/news/12040/13615082/tyson-fury-and-anthony-joshua-have-a-genuine-animosity-says-olympic-gold-medallist-audley-harrison-we-need-to-see-it",
+    "summary": "Audley Harrison has backed Anthony Joshua and Tyson Fury to deliver when they fight on December 11 in Cardiff.",
+    "published": "Sun, 22 Nov 2026 07:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-fury-joshua-boxing_7365941.jpg?20261001174117",
+    "media_type": "image/jpg",
+    "arabic_title": "هاريسون: العداء بين فيوري وAJ حقيقي",
+    "arabic_summary": "دعمت أودلي هاريسون أنتوني جوشوا وتايسون فيوري لتحقيق النجاح عندما يتقاتلان في 11 ديسمبر في كارديف.",
+    "translation_status": "translated",
+    "post_title": "هاريسون: العداء بين فيوري وAJ حقيقي",
+    "post_text": "🚨 هاريسون: العداء بين فيوري وAJ حقيقي\n\n📝 دعمت أودلي هاريسون أنتوني جوشوا وتايسون فيوري لتحقيق النجاح عندما يتقاتلان في 11 ديسمبر في كارديف.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116493194349324",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هاريسون_العداء_بين_فيوري_وAJ_حقيقي.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/boxing/news/12040/13615082/tyson-fury-and-anthony-joshua-have-a-genuine-animosity-says-olympic-gold-medallist-audley-harrison-we-need-to-see-it",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AR6TNplGuQR44WPY4JAiWRX"
+    }
+  },
+  {
     "title": "Gabriel Jesus, segunda llamada",
     "url": "https://as.com/futbol/primera/gabriel-jesus-segunda-llamada-f202611-n/",
     "summary": "Después de un despegue espectacular, su estrella se ha apagado en el último mes. En los cuatro partidos ‘gordos’ (PSG, Madrid, Atlético y Villa), apenas sumó 25’. Es un buen mes para coger altura.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AgUHOdCR-pse7esX80s1T8Z"
-    }
-  },
-  {
-    "title": "Pablo Sarabia: \"A Mourinho le estaré eternamente agradecido\"",
-    "url": "https://www.marca.com/futbol/2026/11/19/pablo-sarabia-mourinho-le-estare-eternamente-agradecido.html",
-    "summary": "El ex jugador de Real Madrid, Getafe, Sevilla o PSG, internacional en 27 ocasiones con España y, actualmente, en Al Arabi de la Qatar Stars League, atiende a MARCA para repasar su trayectoria",
-    "published": "Thu, 19 Nov 2026 06:28:54 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/12/6af5cace10f3e.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بابلو سارابيا: \"سأكون ممتنًا لمورينيو إلى الأبد\"",
-    "arabic_summary": "اللاعب السابق لريال مدريد وخيتافي وإشبيلية وباريس سان جيرمان، دوليًا 27 مرة مع منتخب إسبانيا وحاليًا في العربي بدوري نجوم قطر، تحدث إلى صحيفة ماركا لمراجعة مسيرته",
-    "translation_status": "translated",
-    "post_title": "بابلو سارابيا: \"سأكون ممتنًا لمورينيو إلى الأبد\"",
-    "post_text": "🚨 بابلو سارابيا: \"سأكون ممتنًا لمورينيو إلى الأبد\"\n\n📝 اللاعب السابق لريال مدريد وخيتافي وإشبيلية وباريس سان جيرمان، دوليًا 27 مرة مع منتخب إسبانيا وحاليًا في العربي بدوري نجوم قطر، تحدث إلى صحيفة ماركا لمراجعة مسيرته\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112985268033450",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بابلو_سارابيا_سأكون_ممتنًا_لمورينيو_إلى_الأبد.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/11/19/pablo-sarabia-mourinho-le-estare-eternamente-agradecido.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1nJ1cvQz-npsfd5BjN3LN9"
     }
   }
 ]
