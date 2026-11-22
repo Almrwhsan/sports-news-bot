@@ -1,5 +1,39 @@
 [
   {
+    "title": "Simeone: “Si estamos donde estamos sin goles de los delanteros, cuando estos lleguen...”",
+    "url": "https://as.com/futbol/primera/simeone-si-estamos-donde-estamos-sin-goles-de-los-delanteros-cuando-estos-lleguen-f202611-n/",
+    "summary": "El técnico compareció ante los medios en la previa del partido ante el Getafe que supone el regreso a la competición de los de Simeone.",
+    "published": "Sat, 21 Nov 2026 11:56:50 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/TWOIANLUFBHD5BBPCQOIXK7TDY.jpg?auth=0705762600abc4f3dd5308872f008e8f1f54941e9148f754a7c0a8cbf8d4c783",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيميوني: \"إذا كنا في المكان الذي نحن فيه بدون أهداف من المهاجمين، فعندما يصلون...\"",
+    "arabic_summary": "وظهر المدرب أمام وسائل الإعلام في العرض التمهيدي للمباراة أمام خيتافي، والتي تمثل عودة فريق سيميوني للمنافسة.",
+    "translation_status": "translated",
+    "post_title": "سيميوني: \"إذا كنا في المكان الذي نحن فيه بدون أهداف من المهاجمين، فعندما يصلون...\"",
+    "post_text": "🚨 سيميوني: \"إذا كنا في المكان الذي نحن فيه بدون أهداف من المهاجمين، فعندما يصلون...\"\n\n📝 وظهر المدرب أمام وسائل الإعلام في العرض التمهيدي للمباراة أمام خيتافي، والتي تمثل عودة فريق سيميوني للمنافسة.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116689927662984",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني_إذا_كنا_في_المكان_الذي_نحن_فيه_بدون_أهداف_من_المهاجمين،_فعندما_يصلون....png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/simeone-si-estamos-donde-estamos-sin-goles-de-los-delanteros-cuando-estos-lleguen-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ao64jQcaCIwnNy-7bMyMjdo"
+    }
+  },
+  {
     "title": "2-0 down, Yamal misses pen, but Barcelona STILL beat Villarreal",
     "url": "https://www.skysports.com/watch/video/13615299/barcelona-3-2-villarreal-la-liga-highlights",
     "summary": "Watch highlights of Barcelona 3-2 Villarreal, as the home side come from 2-0 down, Lamine Yamal misses a penalty, but still come back to win.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AvQdPVO5mKHT7CWf7jC4ZzR"
-    }
-  },
-  {
-    "title": "EFL latest: Swansea favourites set to join as interim coaches",
-    "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-    "summary": "",
-    "published": "Thu, 19 Nov 2026 11:48:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-joe-allen-swansea_7410349.jpg?20261119114632",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار الدوري الإنجليزي الممتاز: من المقرر أن ينضم فريق سوانزي المفضل كمدربين مؤقتين",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار الدوري الإنجليزي الممتاز: من المقرر أن ينضم فريق سوانزي المفضل كمدربين مؤقتين",
-    "post_text": "🚨 آخر أخبار الدوري الإنجليزي الممتاز: من المقرر أن ينضم فريق سوانزي المفضل كمدربين مؤقتين\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113390437992933",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_الدوري_الإنجليزي_الممتاز_من_المقرر_أن_ينضم_فريق_سوانزي_المفضل_كمدربين_.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Augopwrnay0seUT_W3LDCGy"
     }
   }
 ]
