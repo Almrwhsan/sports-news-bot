@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kim hangs on to lead at CME Group Tour Championship",
+    "url": "https://www.skysports.com/golf/news/12040/13615068/lpga-tour-a-lim-kim-hangs-on-to-lead-at-cme-group-tour-championship-with-nelly-korda-two-shots-back",
+    "summary": "A Lim Kim held on to the lead, reduced to one shot, going into the final round of the CME Group Tour Championship.",
+    "published": "Sat, 21 Nov 2026 22:07:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-a-lim-kim-lpga-cme-group-tour_7413021.jpg?20261121220647",
+    "media_type": "image/jpg",
+    "arabic_title": "يتمسك كيم بالقيادة في بطولة CME Group Tour",
+    "arabic_summary": "احتفظ Lim Kim بالمقدمة، وتقلص إلى طلقة واحدة، ليدخل الجولة الأخيرة من بطولة CME Group Tour.",
+    "translation_status": "translated",
+    "post_title": "يتمسك كيم بالقيادة في بطولة CME Group Tour",
+    "post_text": "🚨 يتمسك كيم بالقيادة في بطولة CME Group Tour\n\n📝 احتفظ Lim Kim بالمقدمة، وتقلص إلى طلقة واحدة، ليدخل الجولة الأخيرة من بطولة CME Group Tour.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116111847720792",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يتمسك_كيم_بالقيادة_في_بطولة_CME_Group_Tour.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/golf/news/12040/13615068/lpga-tour-a-lim-kim-hangs-on-to-lead-at-cme-group-tour-championship-with-nelly-korda-two-shots-back",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Aq8EBpzNkSTXYLP-qdbP9R_"
+    }
+  },
+  {
     "title": "El 'tiburón' Copete vuelve a morder: \"Lo ha pasado muy mal\"",
     "url": "https://www.marca.com/futbol/valencia/2026/11/21/tiburon-copete-vuelve-morder-pasado-mal.html",
     "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A7wRHCIIIRpw5gWmF5D4vlz"
-    }
-  },
-  {
-    "title": "“El Real Madrid es mi casa”",
-    "url": "https://as.com/futbol/primera/el-real-madrid-es-mi-casa-f202611-n/",
-    "summary": "José Mourinho inauguró el curso académico 2026/27 de la Escuela Universitaria Europea del Real Madrid. “Siempre he querido el bien del club. Me he identificado desde el primer día con lo que es el Real Madrid”.",
-    "published": "Wed, 18 Nov 2026 07:57:27 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/3WQSOBUVBFBGJDMPRIXVCN4S4M.JPG?auth=4cd1735b4b6d7f68d80719d26923aba1aa321da528387100fe3b187fceecd374",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"ريال مدريد هو بيتي\"",
-    "arabic_summary": "افتتح جوزيه مورينيو العام الدراسي 2026/27 لمدرسة الجامعة الأوروبية ريال مدريد. \"لطالما أردت مصلحة النادي. منذ اليوم الأول تعرفت على ريال مدريد.\"",
-    "translation_status": "translated",
-    "post_title": "\"ريال مدريد هو بيتي\"",
-    "post_text": "🚨 \"ريال مدريد هو بيتي\"\n\n📝 افتتح جوزيه مورينيو العام الدراسي 2026/27 لمدرسة الجامعة الأوروبية ريال مدريد. \"لطالما أردت مصلحة النادي. منذ اليوم الأول تعرفت على ريال مدريد.\"\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112519564746687",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_مدريد_هو_بيتي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-real-madrid-es-mi-casa-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Asw_2TmuNVHEGjIBlTUofcC"
     }
   }
 ]
