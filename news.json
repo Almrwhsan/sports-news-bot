@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lamine quiere volver a castigar al Villarreal",
+    "url": "https://as.com/futbol/primera/lamine-quiere-volver-a-castigar-al-villarreal-f202611-n/",
+    "summary": "El delantero del Barcelona suma cinco goles y dos asistencias en sus enfrentamientos contra el conjunto castellonense.",
+    "published": "Sat, 21 Nov 2026 18:36:36 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/2YXEAYVYGVNNDBCCYPA4L7BPEI.jpg?auth=ec51fb3bee833429a84b76cbb346762e2d2c28bb90fd0a91bb6a47e5a8631ff4",
+    "media_type": "image/jpeg",
+    "arabic_title": "لامين يريد معاقبة فياريال مرة أخرى",
+    "arabic_summary": "مهاجم برشلونة لديه خمسة أهداف وتمريرتين حاسمتين في مبارياته ضد فريق كاستيلون.",
+    "translation_status": "translated",
+    "post_title": "لامين يريد معاقبة فياريال مرة أخرى",
+    "post_text": "🚨 لامين يريد معاقبة فياريال مرة أخرى\n\n📝 مهاجم برشلونة لديه خمسة أهداف وتمريرتين حاسمتين في مبارياته ضد فريق كاستيلون.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116539797677997",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لامين_يريد_معاقبة_فياريال_مرة_أخرى.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/lamine-quiere-volver-a-castigar-al-villarreal-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AU96dQxzeTnr5p7OFHridw_"
+    }
+  },
+  {
     "title": "Flick ‘espía’ a Tunkara y Pesquer",
     "url": "https://as.com/futbol/internacional/flick-espia-a-tunkara-y-pesquer-f202611-n/",
     "summary": "Las dos perlas de la cantera del Barça lideraron el triunfo de la Sub-17 en su debut en el Mundial. El club piensa en ellos de cara a un futuro cercano.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0k4lEONLHXQnzf0bPLxTmv"
-    }
-  },
-  {
-    "title": "Álvaro Benito retrata la nueva realidad de Vinicius en el Madrid y le señala su \"camino\" a recorrer",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/19/alvaro-benito-retrata-nueva-realidad-vinicius-madrid-le-senala-camino-recorrer.html",
-    "summary": "\"Podemos trazar hipótesis de todo tipo, pero la realidad es que el equipo ha estado mucho mejor sin Vinicius que con él\"",
-    "published": "Thu, 19 Nov 2026 07:36:12 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/19/6afe98c5dc761.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "يصور ألفارو بينيتو واقع فينيسيوس الجديد في مدريد ويظهر له \"الطريق\" الذي يجب أن يتبعه",
-    "arabic_summary": "\"يمكننا وضع جميع أنواع الفرضيات، لكن الحقيقة هي أن الفريق كان أفضل بكثير بدون فينيسيوس منه معه\"",
-    "translation_status": "translated",
-    "post_title": "يصور ألفارو بينيتو واقع فينيسيوس الجديد في مدريد ويظهر له \"الطريق\" الذي يجب أن يتبعه",
-    "post_text": "🚨 يصور ألفارو بينيتو واقع فينيسيوس الجديد في مدريد ويظهر له \"الطريق\" الذي يجب أن يتبعه\n\n📝 \"يمكننا وضع جميع أنواع الفرضيات، لكن الحقيقة هي أن الفريق كان أفضل بكثير بدون فينيسيوس منه معه\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113046004694043",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يصور_ألفارو_بينيتو_واقع_فينيسيوس_الجديد_في_مدريد_ويظهر_له_الطريق_الذي_يجب_أن_يتب.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/19/alvaro-benito-retrata-nueva-realidad-vinicius-madrid-le-senala-camino-recorrer.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Al4w3H9faALxVvU8gstj-nu"
     }
   }
 ]
