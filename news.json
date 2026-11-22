@@ -1,5 +1,39 @@
 [
   {
+    "title": "Price sets up Grand Slam final showdown with Van Veen",
+    "url": "https://www.skysports.com/darts/news/12040/13615201/gerwyn-price-sets-up-grand-slam-final-showdown-with-gian-van-veen-with-michael-van-gerwen-defeated-in-semis",
+    "summary": "Gerwyn Price will take on Gian van Veen in the Grand Slam of Darts final, live on Sky Sports from 7.30pm on Sunday.",
+    "published": "Sun, 22 Nov 2026 11:31:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7413503.jpg?20261122142751",
+    "media_type": "image/jpg",
+    "arabic_title": "يحدد برايس المواجهة النهائية في جراند سلام مع فان فين",
+    "arabic_summary": "سيواجه جيروين برايس جيان فان فين في نهائي Grand Slam of Darts، على الهواء مباشرة على قناة Sky Sports من الساعة 7.30 مساءً يوم الأحد.",
+    "translation_status": "translated",
+    "post_title": "يحدد برايس المواجهة النهائية في جراند سلام مع فان فين",
+    "post_text": "🚨 يحدد برايس المواجهة النهائية في جراند سلام مع فان فين\n\n📝 سيواجه جيروين برايس جيان فان فين في نهائي Grand Slam of Darts، على الهواء مباشرة على قناة Sky Sports من الساعة 7.30 مساءً يوم الأحد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116630161002294",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يحدد_برايس_المواجهة_النهائية_في_جراند_سلام_مع_فان_فين.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/darts/news/12040/13615201/gerwyn-price-sets-up-grand-slam-final-showdown-with-gian-van-veen-with-michael-van-gerwen-defeated-in-semis",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-LXxN7ackSW03tC-eN0xcE"
+    }
+  },
+  {
     "title": "El Ibiza destroza al Huesca y desata una crisis en El Alcoraz",
     "url": "https://as.com/futbol/primera-rfef/el-ibiza-destroza-al-huesca-y-desata-una-crisis-en-el-alcoraz-f202611-n/",
     "summary": "Los baleares, con tantos de Yoldi, Astals y Varela, por partida doble, golean y encienden todas las alarmas en el equipo azulgrana, que ya mira de reojo al descenso.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AT6gLwEK4WhuVsc_LvTQ-_o"
-    }
-  },
-  {
-    "title": "Koundé ya está aquí",
-    "url": "https://as.com/futbol/kounde-ya-esta-aqui-f202611-n/",
-    "summary": "El francés completó este jueves una parte del entrenamiento con el grupo y podría ser la gran novedad en la lista contra el Villarreal.",
-    "published": "Thu, 19 Nov 2026 10:56:11 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/66QHDVOLNRJMDJUXL4K3S774LA.jpg?auth=9292c9d704b1aa2aefebf080e0c514de1c397cd2833eae61ecbd673007f2cb33",
-    "media_type": "image/jpeg",
-    "arabic_title": "كوندي هنا",
-    "arabic_summary": "أكمل الفرنسي جزءًا من الجلسة التدريبية مع المجموعة يوم الخميس وقد يكون هو الخبر الأهم في القائمة ضد فياريال.",
-    "translation_status": "translated",
-    "post_title": "كوندي هنا",
-    "post_text": "🚨 كوندي هنا\n\n📝 أكمل الفرنسي جزءًا من الجلسة التدريبية مع المجموعة يوم الخميس وقد يكون هو الخبر الأهم في القائمة ضد فياريال.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113212978010679",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوندي_هنا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/kounde-ya-esta-aqui-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFWqFBuAL0ciH467JSFHoyx"
     }
   }
 ]
