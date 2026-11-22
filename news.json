@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Real Unión se recupera de la dolorosa derrota copera",
+    "url": "https://www.marca.com/futbol/primera-rfef/2026/11/23/real-union-recupera-dolorosa-derrota-copera.html",
+    "summary": "Un gol de Sofiane a tres minutos para el final priva a los irundarras de sumar su segundo triunfo consecutivo tras adelantarse en el marcador",
+    "published": "Mon, 23 Nov 2026 00:32:12 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b037b2d35606.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "ريال يونيون يتعافى من هزيمة الكأس المؤلمة",
+    "arabic_summary": "هدف سفيان قبل ثلاث دقائق من نهاية المباراة يحرم فريق إيروندارا من إضافة فوزه الثاني على التوالي بعد تقدمه في لوحة النتائج",
+    "translation_status": "translated",
+    "post_title": "ريال يونيون يتعافى من هزيمة الكأس المؤلمة",
+    "post_text": "🚨 ريال يونيون يتعافى من هزيمة الكأس المؤلمة\n\n📝 هدف سفيان قبل ثلاث دقائق من نهاية المباراة يحرم فريق إيروندارا من إضافة فوزه الثاني على التوالي بعد تقدمه في لوحة النتائج\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116901537641823",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ريال_يونيون_يتعافى_من_هزيمة_الكأس_المؤلمة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-rfef/2026/11/23/real-union-recupera-dolorosa-derrota-copera.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ab11ewSFy0G8aH0P8F0atL0"
+    }
+  },
+  {
     "title": "ElPozo Murcia-Anderlecht: 14 años después, la Champions vuelve al Palacio",
     "url": "https://www.marca.com/futbol/futbol-sala/2026/11/23/elpozo-murcia-anderlecht-14-anos-despues-champions-vuelve-palacio.html",
     "summary": "Gréllo, que jugó cuatro años en Murcia, regresa liderando al conjunto belga",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ApUGkAY-7qSq495zzRsyIGg"
-    }
-  },
-  {
-    "title": "Grand Slam of Darts LIVE! MVG wins classic after Humphries loses final-leg thriller",
-    "url": "https://www.skysports.com/darts/live-blog/12040/13613976/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-humphries-michael-van-gerwen-nathan-aspinall-in-action",
-    "summary": "",
-    "published": "Thu, 19 Nov 2026 18:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-michael-van-gerwen_7373666.jpg?20261012065106",
-    "media_type": "image/jpg",
-    "arabic_title": "جراند سلام للسهام لايف! MVG يفوز بالكلاسيكية بعد خسارة همفريز في المباراة النهائية",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "جراند سلام للسهام لايف! MVG يفوز بالكلاسيكية بعد خسارة همفريز في المباراة النهائية",
-    "post_text": "🚨 جراند سلام للسهام لايف! MVG يفوز بالكلاسيكية بعد خسارة همفريز في المباراة النهائية\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113767137955263",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جراند_سلام_للسهام_لايف!_MVG_يفوز_بالكلاسيكية_بعد_خسارة_همفريز_في_المباراة_النهائ.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/darts/live-blog/12040/13613976/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-humphries-michael-van-gerwen-nathan-aspinall-in-action",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvNrgebcruA8vjWagF5HDmq"
     }
   }
 ]
