@@ -1,5 +1,39 @@
 [
   {
+    "title": "Boca Juniors win Copa Sudamericana, but can they keep budding stars?",
+    "url": "https://www.espn.com/soccer/story/_/id/50562471/boca-juniors-copa-sudamericana-atletico-mineiro-jagger",
+    "summary": "Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow.",
+    "published": "Sun, 22 Nov 2026 11:10:40 EST",
+    "source": "ESPN FC",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "بوكا جونيورز يفوز بكأس أمريكا الجنوبية، لكن هل يمكنهم الاحتفاظ بالنجوم الناشئين؟",
+    "arabic_summary": "لقد مضى بوكا جونيورز ما يقرب من 20 عامًا دون أي لقب قاري. وانتهى ذلك يوم السبت بالنجاح في بطولة كوبا سود أمريكانا، لكن قد يتبع ذلك رحيل جماعي.",
+    "translation_status": "translated",
+    "post_title": "بوكا جونيورز يفوز بكأس أمريكا الجنوبية، لكن هل يمكنهم الاحتفاظ بالنجوم الناشئين؟",
+    "post_text": "🚨 بوكا جونيورز يفوز بكأس أمريكا الجنوبية، لكن هل يمكنهم الاحتفاظ بالنجوم الناشئين؟\n\n📝 لقد مضى بوكا جونيورز ما يقرب من 20 عامًا دون أي لقب قاري. وانتهى ذلك يوم السبت بالنجاح في بطولة كوبا سود أمريكانا، لكن قد يتبع ذلك رحيل جماعي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116662357665741",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوكا_جونيورز_يفوز_بكأس_أمريكا_الجنوبية،_لكن_هل_يمكنهم_الاحتفاظ_بالنجوم_الناشئين؟.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AFc2ljQBkoG0vnSKLNj8H_G"
+    }
+  },
+  {
     "title": "Vinicius y Espí rescatan al Real Madrid ante el Celta",
     "url": "https://as.com/audio/podcast/tangana-fc/vinicius-y-espo-rescatan-al-real-madrid-ante-el-celta-f202611-n/",
     "summary": "El brasileño y el ariete español entraron en la segunda mitad y fueron decisivos para el equipo de Mourinho. Vinicius generó las dos acciones de gol y Espí remató el tanto de la victoria.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AON5sCy68JyE5qcG-LQcBfw"
-    }
-  },
-  {
-    "title": "Life as a Wag in the transfer window",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-    "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-    "published": "Sat, 08 Aug 2026 05:15:34 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
-    "media_type": null,
-    "arabic_title": "الحياة كهزات في فترة الانتقالات",
-    "arabic_summary": "كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟",
-    "translation_status": "translated",
-    "post_title": "الحياة كهزات في فترة الانتقالات",
-    "post_text": "🚨 الحياة كهزات في فترة الانتقالات\n\n📝 كيف تبدو الحياة بالنسبة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال؟\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113291304669513",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الحياة_كهزات_في_فترة_الانتقالات.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AMaiaVPiV7LEtSN8LXfH1IY"
     }
   }
 ]
