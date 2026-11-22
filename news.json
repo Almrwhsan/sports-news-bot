@@ -1,5 +1,39 @@
 [
   {
+    "title": "El 'tiburón' Copete vuelve a morder: \"Lo ha pasado muy mal\"",
+    "url": "https://www.marca.com/futbol/valencia/2026/11/21/tiburon-copete-vuelve-morder-pasado-mal.html",
+    "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
+    "published": "Sat, 21 Nov 2026 18:46:33 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/21/6b01d8a126433.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "عض \"القرش\" كوبيتي مرة أخرى: \"لقد كان وقتًا سيئًا للغاية\"",
+    "arabic_summary": "أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو",
+    "translation_status": "translated",
+    "post_title": "عض \"القرش\" كوبيتي مرة أخرى: \"لقد كان وقتًا سيئًا للغاية\"",
+    "post_text": "🚨 عض \"القرش\" كوبيتي مرة أخرى: \"لقد كان وقتًا سيئًا للغاية\"\n\n📝 أبرز المدرب قدرة الفريق على الرد بعد الهزيمة أمام رايو\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116069211058389",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عض_القرش_كوبيتي_مرة_أخرى_لقد_كان_وقتًا_سيئًا_للغاية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/11/21/tiburon-copete-vuelve-morder-pasado-mal.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ANiQGpwE0_q_-ul8qgUjiHq"
+    }
+  },
+  {
     "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
     "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
     "summary": "Inter Miami and star Lionel Messi are facing the prospect of an early exit from the MLS playoffs after a 3-0 home loss to the Columbus Crew in Game 1.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Asw_2TmuNVHEGjIBlTUofcC"
-    }
-  },
-  {
-    "title": "Piastri to serve grid penalty at Las Vegas GP",
-    "url": "https://www.skysports.com/f1/news/12040/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40",
-    "summary": "McLaren have confirmed that Oscar Piastri will serve a 10-place grid penalty at this weekend's Las Vegas Grand Prix as he will be forced to exceed his engine allowance for the season.",
-    "published": "Wed, 18 Nov 2026 14:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-oscar-piastri-mclaren_7409656.jpg?20261118144240",
-    "media_type": "image/jpg",
-    "arabic_title": "بياستري سيخدم عقوبة الشبكة في لاس فيجاس جي بي",
-    "arabic_summary": "أكد فريق مكلارين أن أوسكار بياستري سيتعرض لعقوبة التراجع 10 مراكز عند انطلاق سباق جائزة لاس فيغاس الكبرى نهاية هذا الأسبوع، حيث سيضطر إلى تجاوز الحد المسموح به للمحرك لهذا الموسم.",
-    "translation_status": "translated",
-    "post_title": "بياستري سيخدم عقوبة الشبكة في لاس فيجاس جي بي",
-    "post_text": "🚨 بياستري سيخدم عقوبة الشبكة في لاس فيجاس جي بي\n\n📝 أكد فريق مكلارين أن أوسكار بياستري سيتعرض لعقوبة التراجع 10 مراكز عند انطلاق سباق جائزة لاس فيغاس الكبرى نهاية هذا الأسبوع، حيث سيضطر إلى تجاوز الحد المسموح به للمحرك لهذا الموسم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1112519648080012",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بياستري_سيخدم_عقوبة_الشبكة_في_لاس_فيجاس_جي_بي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AbSf15BwEsHiRXcxZJym_Tv"
     }
   }
 ]
