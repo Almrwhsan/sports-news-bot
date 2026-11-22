@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+    "summary": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
+    "published": "Sat, 21 Nov 2026 19:04:09 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg",
+    "media_type": null,
+    "arabic_title": "\"هش\" و\"على بعد أميال منه\" - انتهى شهر عسل ألونسو في تشيلسي",
+    "arabic_summary": "انتهت فترة شهر العسل بالنسبة لمدير تشيلسي تشابي ألونسو، الذي أصبح الآن في وضع مكافحة النيران بعد الهزيمة 4-1 أمام ليدز على ملعب ستامفورد بريدج.",
+    "translation_status": "translated",
+    "post_title": "\"هش\" و\"على بعد أميال منه\" - انتهى شهر عسل ألونسو في تشيلسي",
+    "post_text": "🚨 \"هش\" و\"على بعد أميال منه\" - انتهى شهر عسل ألونسو في تشيلسي\n\n📝 انتهت فترة شهر العسل بالنسبة لمدير تشيلسي تشابي ألونسو، الذي أصبح الآن في وضع مكافحة النيران بعد الهزيمة 4-1 أمام ليدز على ملعب ستامفورد بريدج.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116771874321456",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هش_وعلى_بعد_أميال_منه_-_انتهى_شهر_عسل_ألونسو_في_تشيلسي.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AL3z82Ia2-mXoaIxdEUSxZH"
+    }
+  },
+  {
     "title": "Rapapolvo de Dani Garrido a Flick por el penalti fallado de Lamine: “Es una torpeza tremenda”",
     "url": "https://as.com/futbol/videos/rapapolvo-de-dani-garrido-a-flick-por-el-penalti-fallado-de-lamine-es-una-torpeza-tremenda-f202611-v/",
     "summary": "El director de Carrusel Deportivo cargó en la retransmisión del Barça-Villarreal contra el entrenador alemán, responsabilizándolo del lanzamiento desde los once metros del español.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AqVeV_3qkq80HQR52W00sJ4"
-    }
-  },
-  {
-    "title": "El pichichi txuriurdin de 2026, en juego",
-    "url": "https://www.marca.com/futbol/real-sociedad/2026/11/19/pichichi-txuriurdin-2026-juego.html",
-    "summary": "Oyarzabal, con 15 goles, y Óskarsson, con 14, se disputan ser el máximo realizador del año",
-    "published": "Thu, 19 Nov 2026 09:03:02 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/18/6afd7b760d023.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "هداف txuriurdin لعام 2026، على المحك",
-    "arabic_summary": "أويارزابال برصيد 15 هدفا وأوسكارسون برصيد 14 يتنافسان على لقب هداف العام",
-    "translation_status": "translated",
-    "post_title": "هداف txuriurdin لعام 2026، على المحك",
-    "post_text": "🚨 هداف txuriurdin لعام 2026، على المحك\n\n📝 أويارزابال برصيد 15 هدفا وأوسكارسون برصيد 14 يتنافسان على لقب هداف العام\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113512407980736",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هداف_txuriurdin_لعام_2026،_على_المحك.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-sociedad/2026/11/19/pichichi-txuriurdin-2026-juego.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANb4_o3BtymdhrmJLOtZM3g"
     }
   }
 ]
