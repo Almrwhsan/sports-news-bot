@@ -1,5 +1,39 @@
 [
   {
+    "title": "Beñat San José: \"Camello es ese jugador total y yo sigo viéndole así\"",
+    "url": "https://www.marca.com/futbol/rayo/2026/11/21/benat-san-jose-camello-ese-jugador-total-sigo-viendole-asi.html",
+    "summary": "El técnico del Girona analizó la derrota de su equipo contra el Alavés en Montilivi",
+    "published": "Sat, 21 Nov 2026 19:18:42 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/21/6b01e074a3fd7.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "بينيات سان خوسيه: \"كاميللو هو لاعب متكامل وما زلت أراه بهذه الطريقة\"",
+    "arabic_summary": "قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي",
+    "translation_status": "translated",
+    "post_title": "بينيات سان خوسيه: \"كاميللو هو لاعب متكامل وما زلت أراه بهذه الطريقة\"",
+    "post_text": "🚨 بينيات سان خوسيه: \"كاميللو هو لاعب متكامل وما زلت أراه بهذه الطريقة\"\n\n📝 قام مدرب جيرونا بتحليل هزيمة فريقه أمام ألافيس في مونتيليفي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1116694577662519",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بينيات_سان_خوسيه_كاميللو_هو_لاعب_متكامل_وما_زلت_أراه_بهذه_الطريقة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/rayo/2026/11/21/benat-san-jose-camello-ese-jugador-total-sigo-viendole-asi.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AksE4DyP8MBJaFNQrmSo8lL"
+    }
+  },
+  {
     "title": "Simeone: “Si estamos donde estamos sin goles de los delanteros, cuando estos lleguen...”",
     "url": "https://as.com/futbol/primera/simeone-si-estamos-donde-estamos-sin-goles-de-los-delanteros-cuando-estos-lleguen-f202611-n/",
     "summary": "El técnico compareció ante los medios en la previa del partido ante el Getafe que supone el regreso a la competición de los de Simeone.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AfaV6GlTvVYur3uVzWT-xR1"
-    }
-  },
-  {
-    "title": "Harmer stars as South Africa beat Bangladesh",
-    "url": "https://www.skysports.com/cricket/news/12040/13613920/south-africa-vs-bangladesh-simon-harmer-stars-as-proteas-seal-nine-wicket-first-test-win",
-    "summary": "Simon Harmer ran through Bangladesh's tail and South Africa knocked off the 12 runs required to win the first Test by nine wickets on Thursday, taking a 1-0 lead in the teams' two-match series.",
-    "published": "Thu, 19 Nov 2026 11:23:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-simon-harmer_7410362.jpg?20261119115656",
-    "media_type": "image/jpg",
-    "arabic_title": "نجوم هارمر في فوز جنوب أفريقيا على بنجلاديش",
-    "arabic_summary": "ركض سيمون هارمر عبر ذيل بنجلاديش وتخلصت جنوب أفريقيا من الـ 12 جولة المطلوبة للفوز بالاختبار الأول بتسعة ويكيت يوم الخميس، حيث تقدمت 1-0 في سلسلة المباراتين للفريق.",
-    "translation_status": "translated",
-    "post_title": "نجوم هارمر في فوز جنوب أفريقيا على بنجلاديش",
-    "post_text": "🚨 نجوم هارمر في فوز جنوب أفريقيا على بنجلاديش\n\n📝 ركض سيمون هارمر عبر ذيل بنجلاديش وتخلصت جنوب أفريقيا من الـ 12 جولة المطلوبة للفوز بالاختبار الأول بتسعة ويكيت يوم الخميس، حيث تقدمت 1-0 في سلسلة المباراتين للفريق.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1113392704659373",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/نجوم_هارمر_في_فوز_جنوب_أفريقيا_على_بنجلاديش.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13613920/south-africa-vs-bangladesh-simon-harmer-stars-as-proteas-seal-nine-wicket-first-test-win",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvQdPVO5mKHT7CWf7jC4ZzR"
     }
   }
 ]
