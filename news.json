@@ -1,5 +1,39 @@
 [
   {
+    "title": "Simeone, homenaje a la leyenda",
+    "url": "https://as.com/futbol/simeone-homenaje-a-la-leyenda-f202611-n/",
+    "summary": "La plantilla y los trabajadores entregan una camiseta al Cholo y le felicitan tras convertirse en el entrenador con más victorias en la historia de la Liga.",
+    "published": "Mon, 23 Nov 2026 18:09:12 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/INBCBUEK7JA73ET7ECY2NUCPKM.jpg?auth=26fcbca31f44e23d126fb3f2f54f72585d5c4533502ff2c1288cec886aec2301",
+    "media_type": "image/jpeg",
+    "arabic_title": "سيميوني، تحية للأسطورة",
+    "arabic_summary": "طاقم العمل والعمال يمنحون تشولو قميصًا ويهنئونه بعد أن أصبح المدرب صاحب أكبر عدد من الانتصارات في تاريخ الدوري.",
+    "translation_status": "translated",
+    "post_title": "سيميوني، تحية للأسطورة",
+    "post_text": "🚨 سيميوني، تحية للأسطورة\n\n📝 طاقم العمل والعمال يمنحون تشولو قميصًا ويهنئونه بعد أن أصبح المدرب صاحب أكبر عدد من الانتصارات في تاريخ الدوري.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117736544224989",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني،_تحية_للأسطورة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/simeone-homenaje-a-la-leyenda-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AiLZInTaaPIdPGpSiTVvHY6"
+    }
+  },
+  {
     "title": "\"Una vergüenza inadmisible para el malaguismo\"",
     "url": "https://www.marca.com/futbol/malaga/opinion/2026/11/23/vergueenza-inadmisible-malaguismo.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AT2GCPMFdQY0QZAD-BgUsKH"
-    }
-  },
-  {
-    "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
-    "url": "https://www.skysports.com/football/news/12040/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
-    "summary": "It's all eyes on Bruno Guimaraes this Saturday. The Newcastle hero who captained the team to cup success returns in Arsenal colours. And he returns as a growing cog in the Gunners' system.",
-    "published": "Fri, 20 Nov 2026 09:38:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7411193.jpg?20261120082419",
-    "media_type": "image/jpg",
-    "arabic_title": "غيمارايش ينمو في أرسنال – لكن أرتيتا لا يزال يريد المزيد",
-    "arabic_summary": "كل الأنظار ستتجه نحو برونو جيمارايش يوم السبت. يعود بطل نيوكاسل الذي قاد الفريق لتحقيق النجاح في الكأس بألوان أرسنال. ويعود باعتباره ترسًا متزايدًا في نظام الجانرز.",
-    "translation_status": "translated",
-    "post_title": "غيمارايش ينمو في أرسنال – لكن أرتيتا لا يزال يريد المزيد",
-    "post_text": "🚨 غيمارايش ينمو في أرسنال – لكن أرتيتا لا يزال يريد المزيد\n\n📝 كل الأنظار ستتجه نحو برونو جيمارايش يوم السبت. يعود بطل نيوكاسل الذي قاد الفريق لتحقيق النجاح في الكأس بألوان أرسنال. ويعود باعتباره ترسًا متزايدًا في نظام الجانرز.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114517127880264",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غيمارايش_ينمو_في_أرسنال_–_لكن_أرتيتا_لا_يزال_يريد_المزيد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AouOPLkxqCkZ1Uvn23KEa9c"
     }
   }
 ]
