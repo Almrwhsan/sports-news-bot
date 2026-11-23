@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sources: Man Utd plan to appeal Yoro red card against Liverpool",
+    "url": "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league",
+    "summary": "Manchester United have notified the Football Association of their intention to appeal Leny Yoro's red card in the 4-0 defeat to Liverpool, sources have told ESPN.",
+    "published": "Mon, 23 Nov 2026 08:44:45 EST",
+    "source": "ESPN FC",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "المصادر: خطة مانشستر يونايتد لاستئناف بطاقة يورو الحمراء ضد ليفربول",
+    "arabic_summary": "أبلغ مانشستر يونايتد اتحاد كرة القدم بنيته استئناف البطاقة الحمراء التي حصل عليها ليني يورو في الهزيمة 4-0 أمام ليفربول، حسبما قالت مصادر لـ ESPN.",
+    "translation_status": "translated",
+    "post_title": "المصادر: خطة مانشستر يونايتد لاستئناف بطاقة يورو الحمراء ضد ليفربول",
+    "post_text": "🚨 المصادر: خطة مانشستر يونايتد لاستئناف بطاقة يورو الحمراء ضد ليفربول\n\n📝 أبلغ مانشستر يونايتد اتحاد كرة القدم بنيته استئناف البطاقة الحمراء التي حصل عليها ليني يورو في الهزيمة 4-0 أمام ليفربول، حسبما قالت مصادر لـ ESPN.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117534460911864",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المصادر_خطة_مانشستر_يونايتد_لاستئناف_بطاقة_يورو_الحمراء_ضد_ليفربول.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A_WF1ltEPo8UoopGOdZsfyc"
+    }
+  },
+  {
     "title": "NEW ANGLES! Hamilton spins after contact with Ferrari team-mate Leclerc!",
     "url": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc",
     "summary": "Watch new angles of the collision between Lewis Hamilton and Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AaKxdPiJ0NmcISp8_w2N9OY"
-    }
-  },
-  {
-    "title": "Courtois, renovado hasta 2028",
-    "url": "https://as.com/futbol/primera/courtois-renovado-hasta-2028-f202611-n/",
-    "summary": "El Real Madrid sigue anunciando renovaciones. El portero belga amplía su contrato por una temporada más.",
-    "published": "Fri, 20 Nov 2026 11:14:59 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/6A36RVUVWBP7ZC7HURZDVRXAQQ.jpg?auth=10ea3fa11ec3a5adef030798209e96974121ab07454d5cea93c8fbd7cbdc5daf",
-    "media_type": "image/jpeg",
-    "arabic_title": "كورتوا، جدد عقده حتى عام 2028",
-    "arabic_summary": "يواصل ريال مدريد الإعلان عن التجديدات. الحارس البلجيكي يمدد عقده لموسم إضافي.",
-    "translation_status": "translated",
-    "post_title": "كورتوا، جدد عقده حتى عام 2028",
-    "post_text": "🚨 كورتوا، جدد عقده حتى عام 2028\n\n📝 يواصل ريال مدريد الإعلان عن التجديدات. الحارس البلجيكي يمدد عقده لموسم إضافي.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114261531239157",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كورتوا،_جدد_عقده_حتى_عام_2028.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/courtois-renovado-hasta-2028-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AAbzLsfbwF-WMLyW-1zhq9b"
     }
   }
 ]
