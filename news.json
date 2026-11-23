@@ -1,5 +1,39 @@
 [
   {
+    "title": "Gil Manzano explica por qué pitó el penalti a Sorloth tras la llamada del VAR",
+    "url": "https://www.marca.com/futbol/primera-division/2026/11/23/gil-manzano-explica-pito-penalti-sorloth-llamada-var.html",
+    "summary": "\"El defensor empuja al delantero en la zona DOGSO y le impide rematar\", ha asegurado en Movistar LaLiga",
+    "published": "Mon, 23 Nov 2026 00:47:55 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b037efae2fa3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "يشرح جيل مانزانو سبب منحه ركلة الجزاء لسورلوث بعد استدعاء VAR",
+    "arabic_summary": "وقال في Movistar LaLiga: \"المدافع يدفع المهاجم في منطقة DOGSO ويمنعه من إنهاء المباراة\".",
+    "translation_status": "translated",
+    "post_title": "يشرح جيل مانزانو سبب منحه ركلة الجزاء لسورلوث بعد استدعاء VAR",
+    "post_text": "🚨 يشرح جيل مانزانو سبب منحه ركلة الجزاء لسورلوث بعد استدعاء VAR\n\n📝 وقال في Movistar LaLiga: \"المدافع يدفع المهاجم في منطقة DOGSO ويمنعه من إنهاء المباراة\".\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117427744255869",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يشرح_جيل_مانزانو_سبب_منحه_ركلة_الجزاء_لسورلوث_بعد_استدعاء_VAR.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/primera-division/2026/11/23/gil-manzano-explica-pito-penalti-sorloth-llamada-var.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A8XL8dcifKKbaqO6FoE8Zpo"
+    }
+  },
+  {
     "title": "¡Ojo con Mendy que vuelve y se atreve con todo! Alucinen con su maniobra y las reacciones de sus compañeros",
     "url": "https://as.com/futbol/videos/ojo-con-mendy-que-vuelve-y-se-atreve-con-todo-alucinen-con-su-maniobra-y-las-reacciones-de-sus-companeros-f202611-v/",
     "summary": "El lateral francés ha salido de su última lesión y ya se entrena a tope con el resto de sus compañeros. Hoy ha dejado este detallazo.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ApSOLqktQidObXeneRpVx43"
-    }
-  },
-  {
-    "title": "“Quisimos fichar a Diomande”",
-    "url": "https://as.com/futbol/primera/quisimos-fichar-a-diomande-f202611-n/",
-    "summary": "El entrenador del Celta explica su proyecto en una visita a la redacción del Diario AS. El año pasado salió victorioso del Santiago Bernabéu",
-    "published": "Fri, 20 Nov 2026 08:01:15 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261119/1239831_200718_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "\"أردنا التوقيع مع ديوماندي\"",
-    "arabic_summary": "مدرب سيلتا فيجو يشرح مشروعه خلال زيارة لمكتب تحرير Diario AS. في العام الماضي خرج منتصرا من سانتياغو برنابيو",
-    "translation_status": "translated",
-    "post_title": "\"أردنا التوقيع مع ديوماندي\"",
-    "post_text": "🚨 \"أردنا التوقيع مع ديوماندي\"\n\n📝 مدرب سيلتا فيجو يشرح مشروعه خلال زيارة لمكتب تحرير Diario AS. في العام الماضي خرج منتصرا من سانتياغو برنابيو\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114155447916432",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أردنا_التوقيع_مع_ديوماندي.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AdocxskXw6-r_NYeeD_F5Un"
     }
   }
 ]
