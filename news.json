@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rangers plan January exit for Cifuentes - gossip",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6jeqweg7j2eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rangers plan January exit for midfielder as Hibs captain speaks of \"shame\" after 4-0 home loss.",
+    "published": "Mon, 23 Nov 2026 08:09:49 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b1/live/8c3bb880-e6b1-11f1-99b6-a35a62fa4264.png",
+    "media_type": null,
+    "arabic_title": "رينجرز يخطط للخروج في يناير لسيفوينتس - القيل والقال",
+    "arabic_summary": "يخطط رينجرز لخروج لاعب خط الوسط في يناير حيث يتحدث كابتن هيبس عن \"العار\" بعد الخسارة على أرضه 4-0.",
+    "translation_status": "translated",
+    "post_title": "رينجرز يخطط للخروج في يناير لسيفوينتس - القيل والقال",
+    "post_text": "🚨 رينجرز يخطط للخروج في يناير لسيفوينتس - القيل والقال\n\n📝 يخطط رينجرز لخروج لاعب خط الوسط في يناير حيث يتحدث كابتن هيبس عن \"العار\" بعد الخسارة على أرضه 4-0.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117649600900350",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رينجرز_يخطط_للخروج_في_يناير_لسيفوينتس_-_القيل_والقال.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/c6jeqweg7j2eo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9Q9WUMzeDiJUgeJygqjnhm"
+    }
+  },
+  {
     "title": "Neymar gana un torneo de póker y se embolsa 380.000 reales",
     "url": "https://www.marca.com/futbol/2026/11/23/neymar-gana-torneo-poker-embolsa-380-000-reales-video.html",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6-S56ngiJQpeVK1_Vd8B8-"
-    }
-  },
-  {
-    "title": "¿Cuál es la favorita en el España-Francia de cuartos?",
-    "url": "https://as.com/futbol/seleccion/que-te-parece-francia-como-rival-de-espana-en-los-cuartos-de-la-nations-league-f202611-n/",
-    "summary": "España ya conoce cuál será su rival en los cuartos de final de la Nations League y su camino hasta la final.",
-    "published": "Fri, 20 Nov 2026 11:28:35 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7R6Y5ADDD5BKDIRR46GG743BIE.jpg?auth=4a3cffe490f25909f33947964573021b966a1484ec3c52805cf506c75d703974",
-    "media_type": "image/jpeg",
-    "arabic_title": "من هو المرشح الأوفر حظا في ربع نهائي إسبانيا وفرنسا؟",
-    "arabic_summary": "وتعرف إسبانيا بالفعل من سيكون منافسها في الدور ربع النهائي لدوري الأمم الأوروبية وطريقها إلى النهائي.",
-    "translation_status": "translated",
-    "post_title": "من هو المرشح الأوفر حظا في ربع نهائي إسبانيا وفرنسا؟",
-    "post_text": "🚨 من هو المرشح الأوفر حظا في ربع نهائي إسبانيا وفرنسا؟\n\n📝 وتعرف إسبانيا بالفعل من سيكون منافسها في الدور ربع النهائي لدوري الأمم الأوروبية وطريقها إلى النهائي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114376081227702",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_هو_المرشح_الأوفر_حظا_في_ربع_نهائي_إسبانيا_وفرنسا؟.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/seleccion/que-te-parece-francia-como-rival-de-espana-en-los-cuartos-de-la-nations-league-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AquATnROCp-R-1JikoWni7j"
     }
   }
 ]
