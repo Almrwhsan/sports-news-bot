@@ -1,5 +1,39 @@
 [
   {
+    "title": "La loca historia de la pancarta reversible de Vallecas que acabó en el vestuario del Valencia",
+    "url": "https://www.marca.com/futbol/valencia/2026/11/23/loca-historia-pancarta-reversible-vallecas-masfeo-lloron-ratiu-mejor.html",
+    "summary": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+    "published": "Mon, 23 Nov 2026 06:26:10 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/22/6b036fc34cb4a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "القصة المجنونة لشعار فاليكاس القابل للعكس والذي انتهى به الأمر في غرفة تبديل الملابس في فالنسيا",
+    "arabic_summary": "خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي",
+    "translation_status": "translated",
+    "post_title": "القصة المجنونة لشعار فاليكاس القابل للعكس والذي انتهى به الأمر في غرفة تبديل الملابس في فالنسيا",
+    "post_text": "🚨 القصة المجنونة لشعار فاليكاس القابل للعكس والذي انتهى به الأمر في غرفة تبديل الملابس في فالنسيا\n\n📝 خضع حارس مرمى لاس بالماس لعملية جراحية بعد اصطدامه بمهاجم سيلتا في مباراة اليوم الماضي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117543480910962",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/القصة_المجنونة_لشعار_فاليكاس_القابل_للعكس_والذي_انتهى_به_الأمر_في_غرفة_تبديل_الم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/11/23/loca-historia-pancarta-reversible-vallecas-masfeo-lloron-ratiu-mejor.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ArCUunAI2rXxprwQDgZb-z4"
+    }
+  },
+  {
     "title": "Sources: Man Utd plan to appeal Yoro red card against Liverpool",
     "url": "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league",
     "summary": "Manchester United have notified the Football Association of their intention to appeal Leny Yoro's red card in the 4-0 defeat to Liverpool, sources have told ESPN.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ab1X54bvR89z2QnBjylV1js"
-    }
-  },
-  {
-    "title": "Sergio García, el derbi del desquite",
-    "url": "https://as.com/futbol/primera/sergio-garcia-el-derbi-del-desquite-f202611-n/",
-    "summary": "El entrenador del Espanyol B, invicto en casa, recibe al Barcelona B, líder. Como jugador perico, no logró ganar ninguno. Su último en la Dani Jarque fue como visitante, y perdió.",
-    "published": "Fri, 20 Nov 2026 11:37:18 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/WG26GY7LHVL6HABKXDY46LB53Q.jpg?auth=eb5f8bc9e89e18db0217dcbbcd4595f327eda5cae9a5b44cb3297b2e5d7e50c5",
-    "media_type": "application/octet-stream",
-    "arabic_title": "سيرجيو جارسيا، ديربي الانتقام",
-    "arabic_summary": "مدرب إسبانيول ب الذي لم يهزم على أرضه يستقبل برشلونة ب الزعيم. كلاعب ببغاء، فشل في الفوز بأي منها. آخر مرة له في داني جاركي كانت كزائر، وخسر.",
-    "translation_status": "translated",
-    "post_title": "سيرجيو جارسيا، ديربي الانتقام",
-    "post_text": "🚨 سيرجيو جارسيا، ديربي الانتقام\n\n📝 مدرب إسبانيول ب الذي لم يهزم على أرضه يستقبل برشلونة ب الزعيم. كلاعب ببغاء، فشل في الفوز بأي منها. آخر مرة له في داني جاركي كانت كزائر، وخسر.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114282834570360",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيرجيو_جارسيا،_ديربي_الانتقام.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/sergio-garcia-el-derbi-del-desquite-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AaKxdPiJ0NmcISp8_w2N9OY"
     }
   }
 ]
