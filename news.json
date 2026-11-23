@@ -1,5 +1,39 @@
 [
   {
+    "title": "Neymar gana un torneo de póker y se embolsa 380.000 reales",
+    "url": "https://www.marca.com/futbol/2026/11/23/neymar-gana-torneo-poker-embolsa-380-000-reales-video.html",
+    "summary": "",
+    "published": "Mon, 23 Nov 2026 08:14:26 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/h9mos1h0z_S6nOdKv.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "Neymar يفوز بدورة بوكر ويحصل على 380 ألف ريال برازيلي",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "Neymar يفوز بدورة بوكر ويحصل على 380 ألف ريال برازيلي",
+    "post_text": "🚨 Neymar يفوز بدورة بوكر ويحصل على 380 ألف ريال برازيلي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117645757567401",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Neymar_يفوز_بدورة_بوكر_ويحصل_على_380_ألف_ريال_برازيلي.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/23/neymar-gana-torneo-poker-embolsa-380-000-reales-video.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AZ9J_k8v8u_qx7EYHF4PYSq"
+    }
+  },
+  {
     "title": "Moody: I felt ready to play after receiving Haka",
     "url": "https://www.skysports.com/rugby-union/news/12040/13615608/england-lewis-moody-says-he-felt-ready-to-play-after-former-captain-joined-england-to-face-new-zealands-haka",
     "summary": "Lewis Moody says he \"felt ready to play\" after he joined England to receive New Zealand's Haka, ahead of Maro Itoje's side's 37-12 victory over the All Blacks on Saturday.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AquATnROCp-R-1JikoWni7j"
-    }
-  },
-  {
-    "title": "La reacción de Mourinho cuando le preguntan por Cristiano que va a causar furor en Portugal",
-    "url": "https://as.com/futbol/videos/la-reaccion-de-mourinho-cuando-le-preguntan-por-cristiano-que-va-a-causar-furor-en-portugal-f202611-v/",
-    "summary": "El entrenador portugués no se quiso mojar en la polémica entre Cristiano Ronaldo y la selección lusa, de la que se ha retirado tras su disputa con Jorge Jesus el pasado parón internacional.",
-    "published": "Fri, 20 Nov 2026 11:50:55 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261120/1240100_103003_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "رد فعل مورينيو عندما سئل عن كريستيانو الذي سيثير ضجة كبيرة في البرتغال",
-    "arabic_summary": "ولم يرغب المدرب البرتغالي في التورط في الجدل الدائر بين كريستيانو رونالدو والمنتخب البرتغالي الذي اعتزل اللعب فيه بعد خلافه مع جورجي جيسوس في فترة التوقف الدولي الأخيرة.",
-    "translation_status": "translated",
-    "post_title": "رد فعل مورينيو عندما سئل عن كريستيانو الذي سيثير ضجة كبيرة في البرتغال",
-    "post_text": "🚨 رد فعل مورينيو عندما سئل عن كريستيانو الذي سيثير ضجة كبيرة في البرتغال\n\n📝 ولم يرغب المدرب البرتغالي في التورط في الجدل الدائر بين كريستيانو رونالدو والمنتخب البرتغالي الذي اعتزل اللعب فيه بعد خلافه مع جورجي جيسوس في فترة التوقف الدولي الأخيرة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114376174561026",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رد_فعل_مورينيو_عندما_سئل_عن_كريستيانو_الذي_سيثير_ضجة_كبيرة_في_البرتغال.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGCE4J0YAdTJyubzcCmDqEg"
     }
   }
 ]
