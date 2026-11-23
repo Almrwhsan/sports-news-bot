@@ -1,5 +1,39 @@
 [
   {
+    "title": "What would relegation mean for Man Utd? Kaveh answers your questions!",
+    "url": "https://www.skysports.com/football/live-blog/12040/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
+    "summary": "",
+    "published": "Mon, 23 Nov 2026 16:14:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-kaveh-solhekol-ask-kaveh_7414639.jpg?20261123170845",
+    "media_type": "image/jpg",
+    "arabic_title": "ماذا يعني الهبوط بالنسبة لمانشستر يونايتد؟ كافيه يجيب على أسئلتك!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "ماذا يعني الهبوط بالنسبة لمانشستر يونايتد؟ كافيه يجيب على أسئلتك!",
+    "post_text": "🚨 ماذا يعني الهبوط بالنسبة لمانشستر يونايتد؟ كافيه يجيب على أسئلتك!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117897487542228",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماذا_يعني_الهبوط_بالنسبة_لمانشستر_يونايتد؟_كافيه_يجيب_على_أسئلتك!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ABVBsEZ1hQ-hfXfZeQ_bPVD"
+    }
+  },
+  {
     "title": "Valdano tiene claro qué necesita Vinicius: atentos a su reflexión",
     "url": "https://as.com/futbol/videos/valdano-da-con-la-tecla-del-momento-que-vive-vinicius-y-atentos-a-la-clave-para-su-cambio-f202611-v/",
     "summary": "Jorge Valdano habló en Movistar Plus + ‘La casa del futbol’ sobre el brasileño y todo lo que está sucediendo alrededor de él.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASenV9CNETh4VKonDEmzH1d"
-    }
-  },
-  {
-    "title": "Mourinho: \"Aquí no hay privilegios y nadie juega por decreto",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/20/mourinho-aqui-hay-privilegios-nadie-juega-decreto.html",
-    "summary": "El entrenador del Real Madrid insiste en que Vinicius puede ser decisivo y destaca el valor que tiene en el grupo, pero no garantiza el puesto a nadie",
-    "published": "Fri, 20 Nov 2026 10:41:38 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/h4nZQ1h018ucHPwN3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "مورينيو: \"لا توجد امتيازات هنا ولا أحد يلعب بموجب قرار",
-    "arabic_summary": "ويصر مدرب ريال مدريد على أن فينيسيوس يمكن أن يكون حاسما ويسلط الضوء على القيمة التي يتمتع بها في المجموعة، لكنه لا يضمن موقف أي شخص.",
-    "translation_status": "translated",
-    "post_title": "مورينيو: \"لا توجد امتيازات هنا ولا أحد يلعب بموجب قرار",
-    "post_text": "🚨 مورينيو: \"لا توجد امتيازات هنا ولا أحد يلعب بموجب قرار\n\n📝 ويصر مدرب ريال مدريد على أن فينيسيوس يمكن أن يكون حاسما ويسلط الضوء على القيمة التي يتمتع بها في المجموعة، لكنه لا يضمن موقف أي شخص.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114580274540616",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مورينيو_لا_توجد_امتيازات_هنا_ولا_أحد_يلعب_بموجب_قرار.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/20/mourinho-aqui-hay-privilegios-nadie-juega-decreto.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AZ7YNN7boQ3cQd2PVpTHNi3"
     }
   }
 ]
