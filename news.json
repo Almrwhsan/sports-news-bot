@@ -1,5 +1,39 @@
 [
   {
+    "title": "El rival del Barça está en el avión",
+    "url": "https://www.marca.com/futbol/barcelona/2026/11/23/rival-barca-avion.html",
+    "summary": "El largo desplazamiento a Bakú preocupa más que el Sabah",
+    "published": "Mon, 23 Nov 2026 09:57:54 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/22/6b031bb65bea2.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "منافس برشلونة على متن الطائرة",
+    "arabic_summary": "الرحلة الطويلة إلى باكو تقلق أكثر من صباح",
+    "translation_status": "translated",
+    "post_title": "منافس برشلونة على متن الطائرة",
+    "post_text": "🚨 منافس برشلونة على متن الطائرة\n\n📝 الرحلة الطويلة إلى باكو تقلق أكثر من صباح\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117755210889789",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/منافس_برشلونة_على_متن_الطائرة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/23/rival-barca-avion.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AEN5ZOKmzOY-gNrbPktOmCS"
+    }
+  },
+  {
     "title": "Braulio enfría la expectativa del mercado del Valencia: \"A lo mejor algunas opciones son que te escojan ellos a ti\"",
     "url": "https://www.marca.com/futbol/valencia/2026/11/23/braulio-enfria-expectativa-mercado-valencia-mejor-opciones-son-te-escojan-ti.html",
     "summary": "Braulio Vázquez admite que trabaja en fichajes para enero, pero descarta una \"macrorrevolución\" pese a la inyección de capital de Pitchwise",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJEGmRmlvjJlkUra5lwAY7c"
-    }
-  },
-  {
-    "title": "Pellegrini: “Prefiero ir a la Champions que ganar el derbi y quedar el 15″",
-    "url": "https://as.com/futbol/primera/pellegrini-prefiero-ir-a-la-champions-que-ganar-el-derbi-y-quedar-el-15-f202611-n/",
-    "summary": "El técnico del Betis no ve favorito a su equipo ante el Sevilla, descarta a Dani Ceballos y habla de Antony: “No está pasando su mejor momento”.",
-    "published": "Fri, 20 Nov 2026 12:17:42 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/BL5D42HYVZMRDELYMRGYMQHODY.jpg?auth=2e08fb31e81fdc19dbabf57c1c131114626fb971d96f03eb658814e91ac1167c",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيليجريني: \"أفضل الذهاب إلى دوري أبطال أوروبا بدلاً من الفوز بالديربي واحتلال المركز 15\"",
-    "arabic_summary": "ولا يرى مدرب بيتيس أن فريقه هو المرشح الأوفر حظا أمام إشبيلية، فهو يستبعد داني سيبايوس ويتحدث عن أنتوني: \"إنه لا يعيش أفضل لحظاته\".",
-    "translation_status": "translated",
-    "post_title": "بيليجريني: \"أفضل الذهاب إلى دوري أبطال أوروبا بدلاً من الفوز بالديربي واحتلال المركز 15\"",
-    "post_text": "🚨 بيليجريني: \"أفضل الذهاب إلى دوري أبطال أوروبا بدلاً من الفوز بالديربي واحتلال المركز 15\"\n\n📝 ولا يرى مدرب بيتيس أن فريقه هو المرشح الأوفر حظا أمام إشبيلية، فهو يستبعد داني سيبايوس ويتحدث عن أنتوني: \"إنه لا يعيش أفضل لحظاته\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114516457880331",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيليجريني_أفضل_الذهاب_إلى_دوري_أبطال_أوروبا_بدلاً_من_الفوز_بالديربي_واحتلال_المر.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/pellegrini-prefiero-ir-a-la-champions-que-ganar-el-derbi-y-quedar-el-15-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AFle-343qWjckHL6bRBaS4e"
     }
   }
 ]
