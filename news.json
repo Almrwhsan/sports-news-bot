@@ -1,5 +1,39 @@
 [
   {
+    "title": "NEW ANGLES! Hamilton spins after contact with Ferrari team-mate Leclerc!",
+    "url": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc",
+    "summary": "Watch new angles of the collision between Lewis Hamilton and Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix.",
+    "published": "Mon, 23 Nov 2026 11:02:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-ferrari-lewis-hamilon_7414321.jpg?20261123111822",
+    "media_type": "image/jpg",
+    "arabic_title": "زوايا جديدة! هاميلتون يدور بعد احتكاك مع زميله في فريق فيراري لوكلير!",
+    "arabic_summary": "شاهد زوايا جديدة للاصطدام بين لويس هاميلتون وزميله في فريق فيراري تشارلز لوكلير في سباق الجائزة الكبرى في لاس فيغاس.",
+    "translation_status": "translated",
+    "post_title": "زوايا جديدة! هاميلتون يدور بعد احتكاك مع زميله في فريق فيراري لوكلير!",
+    "post_text": "🚨 زوايا جديدة! هاميلتون يدور بعد احتكاك مع زميله في فريق فيراري لوكلير!\n\n📝 شاهد زوايا جديدة للاصطدام بين لويس هاميلتون وزميله في فريق فيراري تشارلز لوكلير في سباق الجائزة الكبرى في لاس فيغاس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117530084245635",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زوايا_جديدة!_هاميلتون_يدور_بعد_احتكاك_مع_زميله_في_فريق_فيراري_لوكلير!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AL0aEEu0fg6j4rV2QEZ41p9"
+    }
+  },
+  {
     "title": "Simeone, más que nadie",
     "url": "https://www.marca.com/futbol/atletico/2026/11/23/simeone-nadie.html",
     "summary": "El Cholo alcanza las 345 victorias en LaLiga superando a Luis Aragonés.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAbzLsfbwF-WMLyW-1zhq9b"
-    }
-  },
-  {
-    "title": "El día que Arambarri derrumbó la maldición de Simeone",
-    "url": "https://as.com/futbol/primera/el-dia-que-arambarri-derrumbo-la-maldicion-de-simeone-f202611-n/",
-    "summary": "Dos goles del uruguayo supusieron la única victoria del conjunto azulón desde que Diego Pablo Simeone entrena al Atlético de Madrid.",
-    "published": "Fri, 20 Nov 2026 10:55:54 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GJFGYMSFI7VAQH6NHWYQCBM6QI.JPG?auth=2bc4f5ca820a94ce22ad914fcfa340d97d1232bf897426d6ce1feda487c63e2d",
-    "media_type": "image/jpeg",
-    "arabic_title": "اليوم الذي كسر فيه أرامباري لعنة سيميوني",
-    "arabic_summary": "هدفان من الأوروغواي كانا بمثابة الفوز الوحيد للفريق الأزرق منذ أن درب دييغو بابلو سيميوني أتلتيكو مدريد.",
-    "translation_status": "translated",
-    "post_title": "اليوم الذي كسر فيه أرامباري لعنة سيميوني",
-    "post_text": "🚨 اليوم الذي كسر فيه أرامباري لعنة سيميوني\n\n📝 هدفان من الأوروغواي كانا بمثابة الفوز الوحيد للفريق الأزرق منذ أن درب دييغو بابلو سيميوني أتلتيكو مدريد.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114250137906963",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اليوم_الذي_كسر_فيه_أرامباري_لعنة_سيميوني.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-dia-que-arambarri-derrumbo-la-maldicion-de-simeone-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlhjGQuJ5FTgsEVpIWV1fm0"
     }
   }
 ]
