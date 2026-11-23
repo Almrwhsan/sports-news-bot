@@ -1,5 +1,39 @@
 [
   {
+    "title": "De joven promesa a tener que retirarse con 22 años: \"Es por mi bien y por mi futuro\"",
+    "url": "https://www.marca.com/futbol/futbol-sala/2026/11/23/joven-promesa-retirarse-22-anos-mi-bien-mi-futuro.html",
+    "summary": "Mario Cárceles, exjugador de ElPozo Murcia y la selección española, anunció el fin de su carrera debido a una mala operación en su rodilla y las secuelas que ello le ha dejado",
+    "published": "Mon, 23 Nov 2026 08:05:23 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b037d4740e09.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "من الوعد الصغير إلى الاضطرار إلى التقاعد في سن 22: \"هذا من أجل مصلحتي ومن أجل مستقبلي\"",
+    "arabic_summary": "أعلن ماريو كارسيليس، اللاعب السابق لنادي إلبوزو مورسيا والمنتخب الإسباني، نهاية مسيرته المهنية بسبب عملية جراحية سيئة في ركبته وما خلفته من تبعات.",
+    "translation_status": "translated",
+    "post_title": "من الوعد الصغير إلى الاضطرار إلى التقاعد في سن 22: \"هذا من أجل مصلحتي ومن أجل مستقبلي\"",
+    "post_text": "🚨 من الوعد الصغير إلى الاضطرار إلى التقاعد في سن 22: \"هذا من أجل مصلحتي ومن أجل مستقبلي\"\n\n📝 أعلن ماريو كارسيليس، اللاعب السابق لنادي إلبوزو مورسيا والمنتخب الإسباني، نهاية مسيرته المهنية بسبب عملية جراحية سيئة في ركبته وما خلفته من تبعات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117629374235706",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_الوعد_الصغير_إلى_الاضطرار_إلى_التقاعد_في_سن_22_هذا_من_أجل_مصلحتي_ومن_أجل_مستق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-sala/2026/11/23/joven-promesa-retirarse-22-anos-mi-bien-mi-futuro.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ACYpgqUfIM-gUi5oRUBET6K"
+    }
+  },
+  {
     "title": "El 'Grupo de Brasilia' provoca cambios en Brasil tras la polémica con Raphinha",
     "url": "https://www.marca.com/futbol/barcelona/2026/11/23/grupo-brasilia-provoca-cambios-brasil-polemica-raphinha.html",
     "summary": "La cúpula de la CBF debate cambios en la estructura de la selección brasileña tras la última fecha FIFA del año",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A_mRRYZRJKsdpb2CpjCbbBI"
-    }
-  },
-  {
-    "title": "España arrasa a Francia",
-    "url": "https://as.com/futbol/internacional/morbazo-ante-francia-f202611-n/",
-    "summary": "España ha sido la bestia negra de ‘Les Bleus’ en los últimos grandes torneos. La Roja echó en semifinales a los galos en el pasado Mundial y en la Eurocopa. Morbazo.",
-    "published": "Fri, 20 Nov 2026 11:56:57 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/HXYAWMQVA5JGVKOVLP6Z4XRJ4I.jpg?auth=fa30de638dee9bf11e1704967b1583725056cd5956ac74129de4bc92f731f8bb",
-    "media_type": "image/jpeg",
-    "arabic_title": "اسبانيا تدمر فرنسا",
-    "arabic_summary": "كانت أسبانيا هي العدو اللدود للمنتخب الفرنسي في البطولات الكبرى الأخيرة. أطاح لاروخا بالغاليين في نصف نهائي كأس العالم الأخيرة وفي بطولة أوروبا. موربازو.",
-    "translation_status": "translated",
-    "post_title": "اسبانيا تدمر فرنسا",
-    "post_text": "🚨 اسبانيا تدمر فرنسا\n\n📝 كانت أسبانيا هي العدو اللدود للمنتخب الفرنسي في البطولات الكبرى الأخيرة. أطاح لاروخا بالغاليين في نصف نهائي كأس العالم الأخيرة وفي بطولة أوروبا. موربازو.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114376424561001",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اسبانيا_تدمر_فرنسا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/internacional/morbazo-ante-francia-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "APmYECQ8MBRQWgikiftGO0y"
     }
   }
 ]
