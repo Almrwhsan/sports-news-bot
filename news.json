@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Eibar pierde fluidez en las áreas",
+    "url": "https://www.marca.com/futbol/eibar/2026/11/23/eibar-pierde-fluidez-areas.html",
+    "summary": "A los armeros les está penalizando la falta de acierto en la definición y, sobre todo, las desatenciones defensivas",
+    "published": "Mon, 23 Nov 2026 10:24:41 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b0477144297e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "إيبار يفقد السيولة في المناطق",
+    "arabic_summary": "تتم معاقبة تجار الأسلحة لعدم نجاحهم في التعريف، وقبل كل شيء، عدم الاهتمام الدفاعي",
+    "translation_status": "translated",
+    "post_title": "إيبار يفقد السيولة في المناطق",
+    "post_text": "🚨 إيبار يفقد السيولة في المناطق\n\n📝 تتم معاقبة تجار الأسلحة لعدم نجاحهم في التعريف، وقبل كل شيء، عدم الاهتمام الدفاعي\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117831320882178",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيبار_يفقد_السيولة_في_المناطق.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/eibar/2026/11/23/eibar-pierde-fluidez-areas.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdckGhNv8CwTEe6aptwJCOw"
+    }
+  },
+  {
     "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
     "url": "https://www.skysports.com/football/news/12040/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
     "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AdAQB8QsdnnwIQrhkjq7EKK"
-    }
-  },
-  {
-    "title": "James Bowen latest jockey to reveal death threat incident",
-    "url": "https://www.skysports.com/racing/news/12040/13614321/james-bowen-received-death-threat-from-disgruntled-punter-as-jockey-speaks-out-following-similar-nico-de-boinville-incident",
-    "summary": "James Bowen has become the latest jockey to reveal he has been subjected to death threats from disgruntled punters, with the 25-year-old disclosing that he and champion jockey brother Sean required security protection following an incident last year.",
-    "published": "Fri, 20 Nov 2026 11:29:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-james-bowen-jockey_7411342.jpg?20261120114442",
-    "media_type": "image/jpg",
-    "arabic_title": "جيمس بوين آخر فارس يكشف عن حادثة التهديد بالقتل",
-    "arabic_summary": "أصبح جيمس بوين أحدث الفارس الذي يكشف عن تعرضه لتهديدات بالقتل من المقامرين الساخطين، حيث كشف الشاب البالغ من العمر 25 عامًا أنه وشقيقه البطل شون يحتاجان إلى حماية أمنية بعد حادث وقع العام الماضي.",
-    "translation_status": "translated",
-    "post_title": "جيمس بوين آخر فارس يكشف عن حادثة التهديد بالقتل",
-    "post_text": "🚨 جيمس بوين آخر فارس يكشف عن حادثة التهديد بالقتل\n\n📝 أصبح جيمس بوين أحدث الفارس الذي يكشف عن تعرضه لتهديدات بالقتل من المقامرين الساخطين، حيث كشف الشاب البالغ من العمر 25 عامًا أنه وشقيقه البطل شون يحتاجان إلى حماية أمنية بعد حادث وقع العام الماضي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114551721210138",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جيمس_بوين_آخر_فارس_يكشف_عن_حادثة_التهديد_بالقتل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/racing/news/12040/13614321/james-bowen-received-death-threat-from-disgruntled-punter-as-jockey-speaks-out-following-similar-nico-de-boinville-incident",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANzLbAafjag4RBbZzTabDcH"
     }
   }
 ]
