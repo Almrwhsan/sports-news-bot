@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sorteo Copa del Rey: Cruces, partidos y emparejamientos de segunda ronda hoy",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/11/23/6b040cde5660fba9ddde194e.html",
+    "summary": "15 eliminatorias con equipos de LaLiga EA Sports y cinco duelos entre conjuntos de LaLiga Hypermotion",
+    "published": "Mon, 23 Nov 2026 10:59:33 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/afANKCTKqmQ.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "قرعة كأس الملك: عمليات الانتقال والمباريات وثنائيات الجولة الثانية اليوم",
+    "arabic_summary": "15 مباراة تأهيلية مع فرق LaLiga EA Sports وخمس مواجهات بين فرق LaLiga Hypermotion",
+    "translation_status": "translated",
+    "post_title": "قرعة كأس الملك: عمليات الانتقال والمباريات وثنائيات الجولة الثانية اليوم",
+    "post_text": "🚨 قرعة كأس الملك: عمليات الانتقال والمباريات وثنائيات الجولة الثانية اليوم\n\n📝 15 مباراة تأهيلية مع فرق LaLiga EA Sports وخمس مواجهات بين فرق LaLiga Hypermotion\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117921064206537",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/قرعة_كأس_الملك_عمليات_الانتقال_والمباريات_وثنائيات_الجولة_الثانية_اليوم.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/23/6b040cde5660fba9ddde194e.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A3yeC70HoO_KI5maW-4LKy-"
+    }
+  },
+  {
     "title": "Metcalf denies poking DeJean in the eyes as NFL rules out suspension",
     "url": "https://www.skysports.com/nfl/news/12040/13615745/dk-metcalf-denies-poking-cooper-dejean-in-the-eyes-after-ejection-from-pittsburgh-steelers-philadelphia-eagles-game",
     "summary": "Pittsburgh Steelers wide receiver DK Metcalf will not be suspended by the NFL for appearing to poke Philadelphia Eagles defensive back Cooper DeJean in the eyes but he could still be fined, according to sources.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AXjMDkQlh1bGavAN6eQWVGJ"
-    }
-  },
-  {
-    "title": "Albert Sánchez zanja el debate (si es que lo había): \"Caro y 10 más\"",
-    "url": "https://www.marca.com/futbol/las-palmas/2026/11/20/albert-sanchez-zanja-debate-habia-jugara-caro-diez.html",
-    "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
-    "published": "Fri, 20 Nov 2026 11:24:01 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/6b001fb6d4533.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ألبرت سانشيز يحسم الجدل (إن وجد): \"كارو و10 آخرون\"",
-    "arabic_summary": "ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل",
-    "translation_status": "translated",
-    "post_title": "ألبرت سانشيز يحسم الجدل (إن وجد): \"كارو و10 آخرون\"",
-    "post_text": "🚨 ألبرت سانشيز يحسم الجدل (إن وجد): \"كارو و10 آخرون\"\n\n📝 ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114584424540201",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ألبرت_سانشيز_يحسم_الجدل_(إن_وجد)_كارو_و10_آخرون.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/las-palmas/2026/11/20/albert-sanchez-zanja-debate-habia-jugara-caro-diez.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AlIlzw4DtatB5fEZXBBag3J"
     }
   }
 ]
