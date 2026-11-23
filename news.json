@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Manchester United de Pochettino se hunde con un problema de cuarta división: \"Es muy doloroso\"",
+    "url": "https://www.marca.com/futbol/premier-league/2026/11/23/manchester-united-pochettino-hunde-problema-cuarta-division-doloroso.html",
+    "summary": "Críticas de Roy Keane y Gary Neville a la defensa del Manchester United durante la goleada contra el Liverpool",
+    "published": "Mon, 23 Nov 2026 10:13:15 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b04039e299b1.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مانشستر يونايتد بقيادة بوتشيتينو يغرق في مشكلة الدرجة الرابعة: \"الأمر مؤلم للغاية\"",
+    "arabic_summary": "انتقادات لروي كين وغاري نيفيل لدفاع مانشستر يونايتد خلال الفوز على ليفربول",
+    "translation_status": "translated",
+    "post_title": "مانشستر يونايتد بقيادة بوتشيتينو يغرق في مشكلة الدرجة الرابعة: \"الأمر مؤلم للغاية\"",
+    "post_text": "🚨 مانشستر يونايتد بقيادة بوتشيتينو يغرق في مشكلة الدرجة الرابعة: \"الأمر مؤلم للغاية\"\n\n📝 انتقادات لروي كين وغاري نيفيل لدفاع مانشستر يونايتد خلال الفوز على ليفربول\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117770864221557",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مانشستر_يونايتد_بقيادة_بوتشيتينو_يغرق_في_مشكلة_الدرجة_الرابعة_الأمر_مؤلم_للغاية.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/premier-league/2026/11/23/manchester-united-pochettino-hunde-problema-cuarta-division-doloroso.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AdS3gvsgV6zrXEDKVrNaANh"
+    }
+  },
+  {
     "title": "El superordenador 'desconfía' del Real Madrid en la Champions",
     "url": "https://www.marca.com/futbol/champions-league/2026/11/23/superordenador-desconfia-real-madrid-champions.html",
     "summary": "El conjunto blanco 'vuela' en la fase liga pero no es favorito al título aunque alimenta las ilusiones del resto de equipos españoles en la máxima competición internacional",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Arce6-OBJuwGj_XvGkJk_kS"
-    }
-  },
-  {
-    "title": "Kane tiene claro quién será su sucesor en el Balón de Oro",
-    "url": "https://www.marca.com/futbol/2026/11/20/kane-claro-sera-sucesor-balon-oro.html",
-    "summary": "El delantero inglés se muestra orgulloso de haber ganado el preciado galardón y señala a un compañero de equipo para conquistarlo en 2027",
-    "published": "Fri, 20 Nov 2026 09:50:32 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/6b00093357670.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كين واضح بشأن من سيكون خليفته في جائزة الكرة الذهبية",
-    "arabic_summary": "يفتخر المهاجم الإنجليزي بفوزه بالجائزة المرموقة ويشير إلى زميله في الفريق للفوز بها في عام 2027",
-    "translation_status": "translated",
-    "post_title": "كين واضح بشأن من سيكون خليفته في جائزة الكرة الذهبية",
-    "post_text": "🚨 كين واضح بشأن من سيكون خليفته في جائزة الكرة الذهبية\n\n📝 يفتخر المهاجم الإنجليزي بفوزه بالجائزة المرموقة ويشير إلى زميله في الفريق للفوز بها في عام 2027\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114516121213698",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كين_واضح_بشأن_من_سيكون_خليفته_في_جائزة_الكرة_الذهبية.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/2026/11/20/kane-claro-sera-sucesor-balon-oro.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "An3M4ORce434NYgeYHLWDy5"
     }
   }
 ]
