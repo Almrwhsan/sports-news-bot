@@ -1,5 +1,39 @@
 [
   {
+    "title": "The Unpromotables: Germany's league champions who can't go up",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+    "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
+    "published": "Fri, 02 Oct 2026 06:37:49 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/5df4b650-bcbf-11f1-810a-9579202680fa.jpg",
+    "media_type": null,
+    "arabic_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
+    "arabic_summary": "تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.",
+    "translation_status": "translated",
+    "post_title": "غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود",
+    "post_text": "🚨 غير القابلين للترقية: أبطال الدوري الألماني الذين لا يستطيعون الصعود\n\n📝 تواجه كرة القدم الألمانية صعوبة في الحصول على مبلغ غير معقول، وهو أربعة مراكز للصعود لخمسة أبطال للدوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117265600938750",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/غير_القابلين_للترقية_أبطال_الدوري_الألماني_الذين_لا_يستطيعون_الصعود.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A9a-y1je5_AZDn4m93k3WBr"
+    }
+  },
+  {
     "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
     "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
     "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AO3HFuiFfJKYDGhm_NIzYQz"
-    }
-  },
-  {
-    "title": "Russell fastest as rain limits running in Las Vegas GP practice",
-    "url": "https://www.skysports.com/f1/news/12040/13614175/las-vegas-gp-george-russell-tops-practice-for-mercedes-as-rain-limits-running-on-first-day-of-track-action",
-    "summary": "Mercedes' George Russell topped Practice Two from Alpine's Pierre Gasly as rain limited running on the opening day of track action at the Las Vegas Grand Prix.",
-    "published": "Fri, 20 Nov 2026 05:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-george-russell_7411076.jpg?20261120050313",
-    "media_type": "image/jpg",
-    "arabic_title": "راسل الأسرع مع حدود المطر في تدريب Las Vegas GP",
-    "arabic_summary": "تصدرت سيارة مرسيدس جورج راسل التدريب الثاني من سائق جبال الألب بيير جاسلي حيث كانت الأمطار محدودة في اليوم الافتتاحي لسباق الجائزة الكبرى في لاس فيغاس.",
-    "translation_status": "translated",
-    "post_title": "راسل الأسرع مع حدود المطر في تدريب Las Vegas GP",
-    "post_text": "🚨 راسل الأسرع مع حدود المطر في تدريب Las Vegas GP\n\n📝 تصدرت سيارة مرسيدس جورج راسل التدريب الثاني من سائق جبال الألب بيير جاسلي حيث كانت الأمطار محدودة في اليوم الافتتاحي لسباق الجائزة الكبرى في لاس فيغاس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114022064596437",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/راسل_الأسرع_مع_حدود_المطر_في_تدريب_Las_Vegas_GP.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/f1/news/12040/13614175/las-vegas-gp-george-russell-tops-practice-for-mercedes-as-rain-limits-running-on-first-day-of-track-action",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aeet_iSkTq-OlgkRPgsBPyU"
     }
   }
 ]
