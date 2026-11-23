@@ -1,5 +1,39 @@
 [
   {
+    "title": "Los condicionantes de los próximos sorteos de Copa del Rey y de la Copa de la Reina",
+    "url": "https://www.marca.com/futbol/copa-rey/2026/11/23/condicionantes-proximos-sorteos-copa-rey-copa-reina.html",
+    "summary": "La Ciudad del Fútbol de Las Rozas será el escenario en el que se definirán los próximos cruces de ambas competiciones los días 23 y 26 de noviembre",
+    "published": "Mon, 23 Nov 2026 09:26:56 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/20/6b00b20dcd67a.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "شروط إجراء قرعة كأس الملك وكأس الملك المقبلة",
+    "arabic_summary": "ستكون مدينة لاس روزاس لكرة القدم هي المكان الذي سيتم فيه تحديد المباريات القادمة لكلا المسابقتين يومي 23 و26 نوفمبر",
+    "translation_status": "translated",
+    "post_title": "شروط إجراء قرعة كأس الملك وكأس الملك المقبلة",
+    "post_text": "🚨 شروط إجراء قرعة كأس الملك وكأس الملك المقبلة\n\n📝 ستكون مدينة لاس روزاس لكرة القدم هي المكان الذي سيتم فيه تحديد المباريات القادمة لكلا المسابقتين يومي 23 و26 نوفمبر\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1117721770893133",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/شروط_إجراء_قرعة_كأس_الملك_وكأس_الملك_المقبلة.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/23/condicionantes-proximos-sorteos-copa-rey-copa-reina.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AYs2WzmwqtQ-2gfJK7T90Uu"
+    }
+  },
+  {
     "title": "Gorrotxategi: \"Remiro y Óskarsson están haciendo una temporada buenísima\"",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/11/23/gorrotxategi-remiro-oskarsson-estan-haciendo-temporada-buenisima.html",
     "summary": "El centrocampista de Eibar sale en defensa del portero, tras su error en el 0-2, y el delantero, que no metió una ocasión muy clara",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWZeTJ4OfnglUsfW4Jhl9qo"
-    }
-  },
-  {
-    "title": "T20 the focus as batters bowl and 'Sandpapergate' saga rumbles on",
-    "url": "https://www.skysports.com/cricket/news/12040/13614268/england-in-australia-t20-cricket-the-new-focus-as-batters-bowl-adil-rashid-eyes-recall-and-sandpapergate-rumbles-on",
-    "summary": "\"You could see it going horribly wrong, couldn't you? You could see things imploding.\"",
-    "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-harry-brook-england_7411256.jpg?20261120100604",
-    "media_type": "image/jpg",
-    "arabic_title": "T20 يتم التركيز على وعاء المضاربين وملحمة \"Sandpapergate\".",
-    "arabic_summary": "\"يمكنك أن ترى أن الأمور تسير بشكل خاطئ للغاية، أليس كذلك؟ يمكنك أن ترى الأشياء تنهار من الداخل.\"",
-    "translation_status": "translated",
-    "post_title": "T20 يتم التركيز على وعاء المضاربين وملحمة \"Sandpapergate\".",
-    "post_text": "🚨 T20 يتم التركيز على وعاء المضاربين وملحمة \"Sandpapergate\".\n\n📝 \"يمكنك أن ترى أن الأمور تسير بشكل خاطئ للغاية، أليس كذلك؟ يمكنك أن ترى الأشياء تنهار من الداخل.\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1114517527880224",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/T20_يتم_التركيز_على_وعاء_المضاربين_وملحمة_Sandpapergate..png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/cricket/news/12040/13614268/england-in-australia-t20-cricket-the-new-focus-as-batters-bowl-adil-rashid-eyes-recall-and-sandpapergate-rumbles-on",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Avc6HtaWi2dIJF4Ov5DH06N"
     }
   }
 ]
