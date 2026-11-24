@@ -1,5 +1,39 @@
 [
   {
+    "title": "Villarrubia: mi pueblo y sus Bodas de Oro",
+    "url": "https://as.com/futbol/primera/villarrubia-mi-pueblo-y-sus-bodas-de-oro-f202611-n/",
+    "summary": "La peña madridista de Villarrubia de los Ojos celebra sus Bodas de Oro. Paco Bonet, central poderoso en el Madrid de los 80, nos acompañó.",
+    "published": "Tue, 24 Nov 2026 01:07:42 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/D4YH5UUKMFE7BAWNQQLNMB7CEQ.jpeg?auth=8062937c34d7ab1d03c33e98b154002813188ac0bc5ff38d617c380eacb1d48f",
+    "media_type": "image/jpeg",
+    "arabic_title": "فيلاروبيا: مدينتي وذكراها الذهبية",
+    "arabic_summary": "يحتفل نادي مشجعي Villarrubia de los Ojos في مدريد بالذكرى الذهبية لتأسيسه. رافقنا باكو بونيت، قلب الدفاع القوي في مدريد في الثمانينيات.",
+    "translation_status": "translated",
+    "post_title": "فيلاروبيا: مدينتي وذكراها الذهبية",
+    "post_text": "🚨 فيلاروبيا: مدينتي وذكراها الذهبية\n\n📝 يحتفل نادي مشجعي Villarrubia de los Ojos في مدريد بالذكرى الذهبية لتأسيسه. رافقنا باكو بونيت، قلب الدفاع القوي في مدريد في الثمانينيات.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1118389954159648",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/فيلاروبيا_مدينتي_وذكراها_الذهبية.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/villarrubia-mi-pueblo-y-sus-bodas-de-oro-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-QxBR_P-14kgIg0kLhjjwR"
+    }
+  },
+  {
     "title": "Houston says Herrera available for Dynamo playoff opener amid MLS probe",
     "url": "https://www.espn.com/soccer/story/_/id/50577651/houston-herrera-available-dynamo-playoff-opener-mls-probe",
     "summary": "MLS is gathering information regarding the reported arrest of Houston Dynamo FC midfielder Héctor Herrera for suspicion of driving while intoxicated ahead of the team's first game of the playoffs.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AmGhuRhtvTMPwfBwdyIEjij"
-    }
-  },
-  {
-    "title": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
-    "url": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
-    "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
-    "published": "Sat, 21 Nov 2026 01:30:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-russell_7411947.jpg?20261121013641",
-    "media_type": "image/jpg",
-    "arabic_title": "\"لقد دفعني إلى الحاجز!\" - اصطدام راسل وفيرستابين في التدريب النهائي",
-    "arabic_summary": "اصطدم جورج راسل وماكس فيرستابين ببعضهما البعض أثناء التدريب النهائي في سباق الجائزة الكبرى في لاس فيغاس.",
-    "translation_status": "translated",
-    "post_title": "\"لقد دفعني إلى الحاجز!\" - اصطدام راسل وفيرستابين في التدريب النهائي",
-    "post_text": "🚨 \"لقد دفعني إلى الحاجز!\" - اصطدام راسل وفيرستابين في التدريب النهائي\n\n📝 اصطدم جورج راسل وماكس فيرستابين ببعضهما البعض أثناء التدريب النهائي في سباق الجائزة الكبرى في لاس فيغاس.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1115158214482822",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_دفعني_إلى_الحاجز!_-_اصطدام_راسل_وفيرستابين_في_التدريب_النهائي.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AGu0wUjaRYyHcJlyRfeyL_S"
     }
   }
 ]
