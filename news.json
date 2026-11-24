@@ -1,5 +1,39 @@
 [
   {
+    "title": "Partidos de hoy, martes 24 de noviembre, de Champions League: horario y dónde ver en TV",
+    "url": "https://www.marca.com/futbol/champions-league/2026/11/24/partidos-hoy-martes-24-noviembre-champions-league-horario-ver-tv.html",
+    "summary": "Betis y Real Madrid, las bazas españolas del día",
+    "published": "Tue, 24 Nov 2026 08:58:40 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/gc2iQ1gwlq_vPlEaI.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "مباريات اليوم الثلاثاء 24 نوفمبر في دوري أبطال أوروبا: الجدول الزمني ومكان مشاهدتها على شاشة التلفزيون",
+    "arabic_summary": "بيتيس وريال مدريد، الأصول الإسبانية اليوم",
+    "translation_status": "translated",
+    "post_title": "مباريات اليوم الثلاثاء 24 نوفمبر في دوري أبطال أوروبا: الجدول الزمني ومكان مشاهدتها على شاشة التلفزيون",
+    "post_text": "🚨 مباريات اليوم الثلاثاء 24 نوفمبر في دوري أبطال أوروبا: الجدول الزمني ومكان مشاهدتها على شاشة التلفزيون\n\n📝 بيتيس وريال مدريد، الأصول الإسبانية اليوم\n\n🏷️ ريال مدريد\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1118732864125357",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مباريات_اليوم_الثلاثاء_24_نوفمبر_في_دوري_أبطال_أوروبا_الجدول_الزمني_ومكان_مشاهدت.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/champions-league/2026/11/24/partidos-hoy-martes-24-noviembre-champions-league-horario-ver-tv.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5S9Cktyefy_FUAxWBTacIE"
+    }
+  },
+  {
     "title": "La Real, ante una de sus etapas reinas",
     "url": "https://www.marca.com/futbol/real-sociedad/2026/11/24/real-etapas-reinas.html",
     "summary": "El técnico da mucho valor al triunfo de su equipo sin tres de sus titulares Gayá, Folquier y Rioja que no jugaron por acumulación de amarillas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ar2igdk1X9xGYSW9nt1Uh3w"
-    }
-  },
-  {
-    "title": "Celtic's Baur out for 10 weeks, says O'Neill",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says.",
-    "published": "Fri, 20 Nov 2026 14:47:54 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f456/live/ffbb6070-e4f0-11f1-8781-bf15c9202663.jpg",
-    "media_type": null,
-    "arabic_title": "يقول أونيل إن بور لاعب سلتيك سيغيب لمدة 10 أسابيع",
-    "arabic_summary": "قال مارتن أونيل مدرب سلتيك إن لاعب الوسط الألماني ميكا بور سيغيب عن الملاعب لمدة عشرة أسابيع تقريبا بسبب إصابة في أربطة الكاحل.",
-    "translation_status": "translated",
-    "post_title": "يقول أونيل إن بور لاعب سلتيك سيغيب لمدة 10 أسابيع",
-    "post_text": "🚨 يقول أونيل إن بور لاعب سلتيك سيغيب لمدة 10 أسابيع\n\n📝 قال مارتن أونيل مدرب سلتيك إن لاعب الوسط الألماني ميكا بور سيغيب عن الملاعب لمدة عشرة أسابيع تقريبا بسبب إصابة في أربطة الكاحل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1115565841108726",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يقول_أونيل_إن_بور_لاعب_سلتيك_سيغيب_لمدة_10_أسابيع.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9EIPiU2dnvtSVmjjRy3fx7"
     }
   }
 ]
