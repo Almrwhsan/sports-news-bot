@@ -1,5 +1,39 @@
 [
   {
+    "title": "Luís Castro: “Me han preguntado cinco veces por el árbitro y no puedo hablar”",
+    "url": "https://www.marca.com/futbol/levante/2026/11/23/luis-castro-me-han-preguntado-cinco-veces-arbitro-hablar.html",
+    "summary": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
+    "published": "Mon, 23 Nov 2026 23:55:13 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b04c44476e31.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "لويس كاسترو: \"لقد سألوني خمس مرات عن الحكم ولا أستطيع التحدث\"",
+    "arabic_summary": "وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا",
+    "translation_status": "translated",
+    "post_title": "لويس كاسترو: \"لقد سألوني خمس مرات عن الحكم ولا أستطيع التحدث\"",
+    "post_text": "🚨 لويس كاسترو: \"لقد سألوني خمس مرات عن الحكم ولا أستطيع التحدث\"\n\n📝 وقاوم بيتيس المتصدر واحتل المركز الخامس مؤقتا في الدوري الإسباني ويحلم بدوري أبطال أوروبا\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1118520190813291",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لويس_كاسترو_لقد_سألوني_خمس_مرات_عن_الحكم_ولا_أستطيع_التحدث.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/levante/2026/11/23/luis-castro-me-han-preguntado-cinco-veces-arbitro-hablar.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Azr8Nd3cr95ZajvDky5ouob"
+    }
+  },
+  {
     "title": "El Elche deja un daño colateral en el Levante",
     "url": "https://www.marca.com/futbol/levante/2026/11/23/elche-deja-dano-colateral-levante.html",
     "summary": "Jeremy Toljan y Manu Sánchez se retiraron por problemas musculares en el partido ante el Elche",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFqO0nbMV4LrZzEBcgJIZ6k"
-    }
-  },
-  {
-    "title": "Sonia Bermúdez: \"Los minutos que restemos ahora multiplicarán en Brasil\"",
-    "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/11/20/sonia-bermudez-minutos-restemos-multiplicaran-brasil.html",
-    "summary": "La seleccionadora puso en valor la cantera con la inclusión de hasta cinco novedades en la lista para los próximos amistosos",
-    "published": "Fri, 20 Nov 2026 13:02:47 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab922bd89d43.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "سونيا بيرموديز: \"الدقائق التي نطرحها الآن ستتضاعف في البرازيل\"",
-    "arabic_summary": "وشدد المدرب على قيمة فريق الشباب من خلال ضم ما يصل إلى خمسة لاعبين جدد في قائمة المباريات الودية المقبلة",
-    "translation_status": "translated",
-    "post_title": "سونيا بيرموديز: \"الدقائق التي نطرحها الآن ستتضاعف في البرازيل\"",
-    "post_text": "🚨 سونيا بيرموديز: \"الدقائق التي نطرحها الآن ستتضاعف في البرازيل\"\n\n📝 وشدد المدرب على قيمة فريق الشباب من خلال ضم ما يصل إلى خمسة لاعبين جدد في قائمة المباريات الودية المقبلة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1115273471137963",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سونيا_بيرموديز_الدقائق_التي_نطرحها_الآن_ستتضاعف_في_البرازيل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/11/20/sonia-bermudez-minutos-restemos-multiplicaran-brasil.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AExDgVZ9gWBttnFuLHeT1Cr"
     }
   }
 ]
