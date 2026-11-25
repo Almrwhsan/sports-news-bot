@@ -1,5 +1,39 @@
 [
   {
+    "title": "London Broncos confirmed as Super League's 15th team for 2027 season",
+    "url": "https://www.skysports.com/rugby-league/news/12040/13616443/super-league-london-broncos-confirmed-as-15th-team-for-2027-season-after-clubs-voted-in-favour-of-motion",
+    "summary": "London Broncos have been confirmed as Super League's 15th team for the 2027 season.",
+    "published": "Wed, 25 Nov 2026 17:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-rugby-league-london_7416398.jpg?20261125170747",
+    "media_type": "image/jpg",
+    "arabic_title": "تم تأكيد أن فريق لندن برونكو هو الفريق الخامس عشر في الدوري الممتاز لموسم 2027",
+    "arabic_summary": "تم تأكيد أن فريق لندن برونكو هو الفريق الخامس عشر في الدوري الممتاز لموسم 2027.",
+    "translation_status": "translated",
+    "post_title": "تم تأكيد أن فريق لندن برونكو هو الفريق الخامس عشر في الدوري الممتاز لموسم 2027",
+    "post_text": "🚨 تم تأكيد أن فريق لندن برونكو هو الفريق الخامس عشر في الدوري الممتاز لموسم 2027\n\n📝 تم تأكيد أن فريق لندن برونكو هو الفريق الخامس عشر في الدوري الممتاز لموسم 2027.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120008947331082",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_تأكيد_أن_فريق_لندن_برونكو_هو_الفريق_الخامس_عشر_في_الدوري_الممتاز_لموسم_2027.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/rugby-league/news/12040/13616443/super-league-london-broncos-confirmed-as-15th-team-for-2027-season-after-clubs-voted-in-favour-of-motion",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2fvWdwSoCxE8i9NoNMyIFQ"
+    }
+  },
+  {
     "title": "Newbury's Coral Gold Cup: Jamie Lynch's horse-by-horse guide",
     "url": "https://www.skysports.com/racing/news/12040/13616389/newburys-coral-gold-cup-jamie-lynchs-horse-by-horse-guide-to-saturdays-feature-handicap-chase-live-on-sky-sports-racing",
     "summary": "Jamie Lynch assesses the confirmations and reveals his top tip for one of the most prestigious handicaps of the season this Saturday, live on Sky Sports Racing.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AFem60njzEeYVs4QVxhEK72"
-    }
-  },
-  {
-    "title": "How did Spurs beat Man City?",
-    "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-    "summary": "",
-    "published": "Sun, 22 Nov 2026 17:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-man-city-women-tottenham-women_7413707.jpg?20261122165904",
-    "media_type": "image/jpg",
-    "arabic_title": "كيف فاز توتنهام على مان سيتي؟",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "كيف فاز توتنهام على مان سيتي؟",
-    "post_text": "🚨 كيف فاز توتنهام على مان سيتي؟\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116746914323952",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كيف_فاز_توتنهام_على_مان_سيتي؟.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A8B1ow5iUCX0NXthicx0bJP"
     }
   }
 ]
