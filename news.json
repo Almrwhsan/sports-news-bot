@@ -1,5 +1,39 @@
 [
   {
+    "title": "La guerra de Haaland contra un electricista polaco: su nombre está en juego",
+    "url": "https://www.marca.com/futbol/2026/11/25/guerra-haaland-electricista-polaco-nombre-juego.html",
+    "summary": "En 2023 el electricista Michael Wąs registró el nombre del noruego como marca para 16 tipos de productos",
+    "published": "Wed, 25 Nov 2026 07:00:42 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/25/6b0677ff733a5.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "حرب هالاند ضد كهربائي بولندي: اسمه على المحك",
+    "arabic_summary": "وفي عام 2023، سجل الكهربائي مايكل واس اسم النرويجي كعلامة تجارية لـ 16 نوعًا من المنتجات.",
+    "translation_status": "translated",
+    "post_title": "حرب هالاند ضد كهربائي بولندي: اسمه على المحك",
+    "post_text": "🚨 حرب هالاند ضد كهربائي بولندي: اسمه على المحك\n\n📝 وفي عام 2023، سجل الكهربائي مايكل واس اسم النرويجي كعلامة تجارية لـ 16 نوعًا من المنتجات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1119790000686310",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حرب_هالاند_ضد_كهربائي_بولندي_اسمه_على_المحك.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/25/guerra-haaland-electricista-polaco-nombre-juego.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AloeewqXPv_gXKtcdpGpyPT"
+    }
+  },
+  {
     "title": "Louzán confirma la salida de Gil Marín por un “préstamo” de LaLiga a la UEC",
     "url": "https://as.com/futbol/primera/louzan-confirma-la-salida-de-gil-marin-de-laliga-por-un-prestamo-f202611-n/",
     "summary": "“No es una ayuda, es un préstamo. Se viene haciendo desde hace cuatro años. Es un dinero de LaLiga, un préstamo”, dijo el presidente de la RFEF.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ASHao7yPC0D0ZBfYEAavkXT"
-    }
-  },
-  {
-    "title": "Antony enciende su luz",
-    "url": "https://as.com/futbol/primera/antony-enciende-su-luz-f202611-n/",
-    "summary": "El brasileño evidenció una mejor versión ante el Sevilla y marcó su primer gol de la temporada. Pellegrini cruza los dedos tras cambiarlo por lesión.",
-    "published": "Sun, 22 Nov 2026 11:35:37 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IP3QXE2T7JNKDNXJFRAO3RCG2A.jpg?auth=0839a22385f6affbfb4beba91768f552af4050de1d1e91b66e44b6eca436a869",
-    "media_type": "image/jpeg",
-    "arabic_title": "أنتوني يشعل نوره",
-    "arabic_summary": "أظهر البرازيلي نسخة أفضل ضد إشبيلية وسجل هدفه الأول هذا الموسم. بيليجريني يقطع أصابعه بعد استبداله بسبب الإصابة.",
-    "translation_status": "translated",
-    "post_title": "أنتوني يشعل نوره",
-    "post_text": "🚨 أنتوني يشعل نوره\n\n📝 أظهر البرازيلي نسخة أفضل ضد إشبيلية وسجل هدفه الأول هذا الموسم. بيليجريني يقطع أصابعه بعد استبداله بسبب الإصابة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116605667671410",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنتوني_يشعل_نوره.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/antony-enciende-su-luz-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ayubg39vBFFakjMdDanS6__"
     }
   }
 ]
