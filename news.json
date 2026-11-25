@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rinderknech denies refusing doping test and expects to be cleared",
+    "url": "https://www.skysports.com/tennis/news/12040/13616314/arthur-rinderknech-denies-refusing-to-take-anti-doping-test-after-charge-confirmed-for-french-tennis-player",
+    "summary": "France's Arthur Rinderknech is confident he will be cleared of an alleged refusal to undergo a doping test.",
+    "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/25/10/1920x1080/skysports-arthur-rinderknech_7048903.jpg?20261125095950",
+    "media_type": "image/jpg",
+    "arabic_title": "ينفي Rinderknech رفضه اختبار المنشطات ويتوقع تبرئته",
+    "arabic_summary": "أبدى الفرنسي آرثر ريندركنيش ثقته في تبرئته من تهمة رفض الخضوع لاختبار المنشطات.",
+    "translation_status": "translated",
+    "post_title": "ينفي Rinderknech رفضه اختبار المنشطات ويتوقع تبرئته",
+    "post_text": "🚨 ينفي Rinderknech رفضه اختبار المنشطات ويتوقع تبرئته\n\n📝 أبدى الفرنسي آرثر ريندركنيش ثقته في تبرئته من تهمة رفض الخضوع لاختبار المنشطات.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1119672064031437",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ينفي_Rinderknech_رفضه_اختبار_المنشطات_ويتوقع_تبرئته.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/tennis/news/12040/13616314/arthur-rinderknech-denies-refusing-to-take-anti-doping-test-after-charge-confirmed-for-french-tennis-player",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AfXJjkgcczLx6-1wCyYLbqH"
+    }
+  },
+  {
     "title": "“¿Mi mejoría? Mourinho, punto\"",
     "url": "https://as.com/futbol/champions/bellingham-mi-mejoria-mourinho-y-punto-f202611-n/",
     "summary": "“Vi lo de mi renovación en redes y pregunté a mis padres... ‘¿esto es verdad?“, responde en zona mixta. ”Mourinho estaba un poco enfadado en el descanso\", amplía. Defiende a Vinicius.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Al404bj3xR7XKFHscrumdob"
-    }
-  },
-  {
-    "title": "Alineación confirmada del Barcelona frente al Villarreal: De Jong, de central, y Gordon suplente",
-    "url": "https://www.marca.com/futbol/barcelona/2026/11/21/alineaciones-probables-barcelona-villarreal-correspondientes-jornada-13-laliga.html",
-    "summary": "Los onces de Hansi Flick e Iñigo",
-    "published": "Sat, 21 Nov 2026 18:11:39 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/21/6b0178788fdd8.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "التشكيلة المؤكدة لبرشلونة أمام فياريال: دي يونج قلب دفاع، وجوردون البديل",
-    "arabic_summary": "أحد عشر هانسي فليك وإينييجو",
-    "translation_status": "translated",
-    "post_title": "التشكيلة المؤكدة لبرشلونة أمام فياريال: دي يونج قلب دفاع، وجوردون البديل",
-    "post_text": "🚨 التشكيلة المؤكدة لبرشلونة أمام فياريال: دي يونج قلب دفاع، وجوردون البديل\n\n📝 أحد عشر هانسي فليك وإينييجو\n\n🏷️ برشلونة\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116359997695977",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التشكيلة_المؤكدة_لبرشلونة_أمام_فياريال_دي_يونج_قلب_دفاع،_وجوردون_البديل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/barcelona/2026/11/21/alineaciones-probables-barcelona-villarreal-correspondientes-jornada-13-laliga.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A1W6Us_6oY4l02QxvnNVLxp"
     }
   }
 ]
