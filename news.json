@@ -1,5 +1,39 @@
 [
   {
+    "title": "Usman Khawaja on 'Sandpapergate', Pat Cummins and what next for Australia",
+    "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
+    "summary": "",
+    "published": "Sun, 20 Sep 2026 08:00:00 BST",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-cricket-podcast_7236076.png?20261013070318",
+    "media_type": "image/jpg",
+    "arabic_title": "عثمان خواجة في برنامج \"Sandpapergate\"، وبات كامينز وماذا بعد بالنسبة لأستراليا",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "عثمان خواجة في برنامج \"Sandpapergate\"، وبات كامينز وماذا بعد بالنسبة لأستراليا",
+    "post_text": "🚨 عثمان خواجة في برنامج \"Sandpapergate\"، وبات كامينز وماذا بعد بالنسبة لأستراليا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1119644994034144",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/عثمان_خواجة_في_برنامج_Sandpapergate،_وبات_كامينز_وماذا_بعد_بالنسبة_لأستراليا.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ApnwjiEyXFYhentdULsRtTG"
+    }
+  },
+  {
     "title": "Valdano no da crédito con Bellingham: \"Hay que mirar dos veces la edad que tiene\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/25/valdano-da-credito-bellingham-hay-mirar-dos-veces-edad.html",
     "summary": "El argentino alaba el estado de forma del centrocampista del Real Madrid",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3I21rpyZE6FkHR6-8HoQyv"
-    }
-  },
-  {
-    "title": "Otra ‘remountada’",
-    "url": "https://as.com/opinion/otra-remountada-f202611-n/",
-    "summary": "Cuando un equipo termina con Güler como único centrocampista y cinco bestias al ataque no queda otra que felicitar al portugués por su valentía táctica.",
-    "published": "Sat, 21 Nov 2026 22:54:31 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/EPYR67GAMZO7ZATI4XXMKNLORM.jpg?auth=a13152fee6080848dcf5a4d9ef985303f8fb73cbed97da527bbf55f838ef063e",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"إعادة تحميل\" أخرى",
-    "arabic_summary": "عندما ينتهي الأمر بفريق ما باعتبار جولر لاعب خط الوسط الوحيد وخمسة وحوش مهاجمة، ليس هناك خيار سوى تهنئة البرتغالي على شجاعته التكتيكية.",
-    "translation_status": "translated",
-    "post_title": "\"إعادة تحميل\" أخرى",
-    "post_text": "🚨 \"إعادة تحميل\" أخرى\n\n📝 عندما ينتهي الأمر بفريق ما باعتبار جولر لاعب خط الوسط الوحيد وخمسة وحوش مهاجمة، ليس هناك خيار سوى تهنئة البرتغالي على شجاعته التكتيكية.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116360394362604",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إعادة_تحميل_أخرى.png",
-    "image_type": "real",
-    "image_source": "https://as.com/opinion/otra-remountada-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ANRi4_dKl-QZoM2TWAE-lvk"
     }
   }
 ]
