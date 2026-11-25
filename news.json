@@ -1,5 +1,39 @@
 [
   {
+    "title": "Charlton sweep to victory over Lincoln",
+    "url": "https://www.skysports.com/football/charlton-athletic-vs-lincoln-city/report/560692",
+    "summary": "Charlton swept Lincoln aside at The Valley with an impressive 4-0 Sky Bet Championship victory.",
+    "published": "Tue, 24 Nov 2026 21:35:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-charlton-athletic_7415692.jpg?20261124214140",
+    "media_type": "image/jpg",
+    "arabic_title": "تشارلتون يكتسح الفوز على لينكولن",
+    "arabic_summary": "اكتسح تشارلتون لينكولن جانبًا في The Valley بفوز مثير للإعجاب 4-0 في بطولة Sky Bet.",
+    "translation_status": "translated",
+    "post_title": "تشارلتون يكتسح الفوز على لينكولن",
+    "post_text": "🚨 تشارلتون يكتسح الفوز على لينكولن\n\n📝 اكتسح تشارلتون لينكولن جانبًا في The Valley بفوز مثير للإعجاب 4-0 في بطولة Sky Bet.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1119305214068122",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشارلتون_يكتسح_الفوز_على_لينكولن.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/charlton-athletic-vs-lincoln-city/report/560692",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AsvUBo4E3wp-Zz4TpFp35h_"
+    }
+  },
+  {
     "title": "Grimaldo, un defensa histórico",
     "url": "https://as.com/futbol/primera/grimaldo-un-defensa-historico-f202611-n/",
     "summary": "El valenciano suma cinco goles en Liga. Ningún defensa del Atlético superó los seis. Lanzador de penaltis, su protagonismo en campo rival cada vez es mayor.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsC1mwoedLhAmikOETj16G_"
-    }
-  },
-  {
-    "title": "Arsenal latest: Arteta gives update on Raya injury",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "summary": "",
-    "published": "Sat, 21 Nov 2026 20:33:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-    "media_type": "image/jpg",
-    "arabic_title": "آخر أخبار أرسنال: أرتيتا يقدم تحديثًا عن إصابة رايا",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "آخر أخبار أرسنال: أرتيتا يقدم تحديثًا عن إصابة رايا",
-    "post_text": "🚨 آخر أخبار أرسنال: أرتيتا يقدم تحديثًا عن إصابة رايا\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1115868334411810",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/آخر_أخبار_أرسنال_أرتيتا_يقدم_تحديثًا_عن_إصابة_رايا.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AvYxxezENj-NU4DsTLFbwk8"
     }
   }
 ]
