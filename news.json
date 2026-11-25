@@ -1,5 +1,39 @@
 [
   {
+    "title": "Miguel Ángel Gil dimite como vicepresidente de LaLiga",
+    "url": "https://as.com/futbol/primera/miguel-angel-gil-dimite-como-vicepresidente-de-laliga-f202611-n/",
+    "summary": "El consejero delegado del Atlético de Madrid había accedido al cargo en febrero de 2020.",
+    "published": "Tue, 24 Nov 2026 11:57:46 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/X5UK6YVDKRELDLQSPUL5PAM5RI.jpg?auth=8325777ffa212e1e3f9182e2022569707579d82633f41229c079ab9083b0d293",
+    "media_type": "image/jpeg",
+    "arabic_title": "ميغيل أنخيل جيل يستقيل من منصب نائب رئيس رابطة الدوري الإسباني",
+    "arabic_summary": "وتولى الرئيس التنفيذي لأتلتيكو مدريد هذا المنصب في فبراير 2020.",
+    "translation_status": "translated",
+    "post_title": "ميغيل أنخيل جيل يستقيل من منصب نائب رئيس رابطة الدوري الإسباني",
+    "post_text": "🚨 ميغيل أنخيل جيل يستقيل من منصب نائب رئيس رابطة الدوري الإسباني\n\n📝 وتولى الرئيس التنفيذي لأتلتيكو مدريد هذا المنصب في فبراير 2020.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1119545787377398",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ميغيل_أنخيل_جيل_يستقيل_من_منصب_نائب_رئيس_رابطة_الدوري_الإسباني.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/miguel-angel-gil-dimite-como-vicepresidente-de-laliga-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AP4Xw_tkf2kvRbvsdWOZ3Um"
+    }
+  },
+  {
     "title": "¡Bellingham es impresionante! El inglés cambia el partido ante el PSV y provoca la goleada",
     "url": "https://as.com/audio/podcast/tangana-fc/bellingham-es-impresionante-el-ingles-cambia-el-partido-ante-el-psv-y-provoca-la-goleada-f202611-n/",
     "summary": "Jude Bellingham volvió a demostrar su enorme importancia en el Real Madrid. El centrocampista inglés cambió el desarrollo del encuentro ante el PSV con su entrada al terreno de juego y fue una de las claves de la reacción madridista que terminó convirtiéndose en goleada.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A0m90yYqRBsRRYEJ1ulzCxv"
-    }
-  },
-  {
-    "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-    "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit",
-    "summary": "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final.",
-    "published": "Sun, 22 Nov 2026 01:32:44 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "هدف أوليمبيكو لديبيرناردو يقود كانساس سيتي إلى بطولة NWSL الأولى",
-    "arabic_summary": "فاز فريق كانساس سيتي كارنت بأول بطولة له في الدوري الوطني لكرة القدم الأمريكية، بفوزه على واشنطن سبيريت 2-1 ليمنح فريق سبيريت الخسارة الثالثة على التوالي في نهائي الدوري.",
-    "translation_status": "translated",
-    "post_title": "هدف أوليمبيكو لديبيرناردو يقود كانساس سيتي إلى بطولة NWSL الأولى",
-    "post_text": "🚨 هدف أوليمبيكو لديبيرناردو يقود كانساس سيتي إلى بطولة NWSL الأولى\n\n📝 فاز فريق كانساس سيتي كارنت بأول بطولة له في الدوري الوطني لكرة القدم الأمريكية، بفوزه على واشنطن سبيريت 2-1 ليمنح فريق سبيريت الخسارة الثالثة على التوالي في نهائي الدوري.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116224967709480",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/هدف_أوليمبيكو_لديبيرناردو_يقود_كانساس_سيتي_إلى_بطولة_NWSL_الأولى.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A47-EJMJV1N9iN6Uwu7EeYn"
     }
   }
 ]
