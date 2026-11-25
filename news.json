@@ -1,5 +1,39 @@
 [
   {
+    "title": "Louzán confirma la salida de Gil Marín por un “préstamo” de LaLiga a la UEC",
+    "url": "https://as.com/futbol/primera/louzan-confirma-la-salida-de-gil-marin-de-laliga-por-un-prestamo-f202611-n/",
+    "summary": "“No es una ayuda, es un préstamo. Se viene haciendo desde hace cuatro años. Es un dinero de LaLiga, un préstamo”, dijo el presidente de la RFEF.",
+    "published": "Tue, 24 Nov 2026 15:29:27 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261124/1241687_155009_video_1200.mp4",
+    "media_type": "video/mp4",
+    "arabic_title": "أكد لوزان رحيل جيل مارين بسبب \"الإعارة\" من الدوري الإسباني إلى الاتحاد الأوروبي لكرة القدم",
+    "arabic_summary": "وقال رئيس الاتحاد الإسباني لكرة القدم: \"إنها ليست مساعدة، إنها إعارة. لقد تم ذلك منذ أربع سنوات. إنها أموال من الدوري الإسباني، قرض\".",
+    "translation_status": "translated",
+    "post_title": "أكد لوزان رحيل جيل مارين بسبب \"الإعارة\" من الدوري الإسباني إلى الاتحاد الأوروبي لكرة القدم",
+    "post_text": "🚨 أكد لوزان رحيل جيل مارين بسبب \"الإعارة\" من الدوري الإسباني إلى الاتحاد الأوروبي لكرة القدم\n\n📝 وقال رئيس الاتحاد الإسباني لكرة القدم: \"إنها ليست مساعدة، إنها إعارة. لقد تم ذلك منذ أربع سنوات. إنها أموال من الدوري الإسباني، قرض\".\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1119785477353429",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أكد_لوزان_رحيل_جيل_مارين_بسبب_الإعارة_من_الدوري_الإسباني_إلى_الاتحاد_الأوروبي_لك.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AS-E09b4H5wFJZ2PzVIBtbU"
+    }
+  },
+  {
     "title": "Simeone: “¿Mi siguiente récord? Ganar al Viking”",
     "url": "https://as.com/futbol/simeone-mi-siguiente-record-ganar-al-viking-f202611-n/",
     "summary": "El Cholo no se sale del partido a partido. “El futuro de Sorloth no lo puedo ver yo, lo tiene que ver él. Sí veo los planes para él”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ayubg39vBFFakjMdDanS6__"
-    }
-  },
-  {
-    "title": "Boselli, lesionado en la pierna izquierda",
-    "url": "https://as.com/futbol/primera/boselli-lesionado-en-la-pierna-izquierda-f202611-n/",
-    "summary": "El central uruguayo se cae de la convocatoria para el partido de esta noche ante el Atlético de Madrid.",
-    "published": "Sun, 22 Nov 2026 12:20:47 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/OAWL46F2JVKTXCDFEUOYZVQ25U.jpg?auth=c877bc8fbd30800e8d306afd617c1eb090f69a6a3e17e273e6476a7629f09440",
-    "media_type": "image/jpeg",
-    "arabic_title": "بوسيلي أصيب في ساقه اليسرى",
-    "arabic_summary": "تم استبعاد قلب دفاع الأوروغواي من تشكيلة مباراة الليلة ضد أتلتيكو مدريد.",
-    "translation_status": "translated",
-    "post_title": "بوسيلي أصيب في ساقه اليسرى",
-    "post_text": "🚨 بوسيلي أصيب في ساقه اليسرى\n\n📝 تم استبعاد قلب دفاع الأوروغواي من تشكيلة مباراة الليلة ضد أتلتيكو مدريد.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116605771004733",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بوسيلي_أصيب_في_ساقه_اليسرى.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/boselli-lesionado-en-la-pierna-izquierda-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ar5rlEWnR5i13X-TttAkG_O"
     }
   }
 ]
