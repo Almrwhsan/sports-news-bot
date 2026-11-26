@@ -1,5 +1,39 @@
 [
   {
+    "title": "Primer examen para España",
+    "url": "https://www.marca.com/futbol/seleccion/2026/11/26/primer-examen-espana.html",
+    "summary": "La Sub-17, ya clasificada y con 20 goles a favor, busca asegurar el liderato ante una Marruecos (16.00 h, Teledeporte) que necesita puntuar y que cuenta con el 'Messi marroquí'",
+    "published": "Thu, 26 Nov 2026 06:33:56 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/26/6b078edb1dc89.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "الامتحان الأول لإسبانيا",
+    "arabic_summary": "يسعى فريق تحت 17 سنة، المصنف بالفعل ولديه 20 هدفًا لصالحه، إلى تأمين الصدارة ضد المغرب (4:00 مساءً، Teledeporte) الذي يحتاج إلى التسجيل والذي لديه \"ميسي المغربي\".",
+    "translation_status": "translated",
+    "post_title": "الامتحان الأول لإسبانيا",
+    "post_text": "🚨 الامتحان الأول لإسبانيا\n\n📝 يسعى فريق تحت 17 سنة، المصنف بالفعل ولديه 20 هدفًا لصالحه، إلى تأمين الصدارة ضد المغرب (4:00 مساءً، Teledeporte) الذي يحتاج إلى التسجيل والذي لديه \"ميسي المغربي\".\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120761213922522",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الامتحان_الأول_لإسبانيا.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/26/primer-examen-espana.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4NkwngVbwqP6SJw3nouehJ"
+    }
+  },
+  {
     "title": "Rabbaj, el 'Messi marroquí' que 'amenaza' a España: \"Es una auténtica alegría verlo jugar\"",
     "url": "https://www.marca.com/futbol/mundial-sub-17/2026/11/26/rabbaj-messi-marroqui-amenaza-espana-autentica-alegria-verlo-jugar.html",
     "summary": "El atacante del Chelsea, de 17 años, es una de las grandes promesas del fútbol marroquí. Su familia apostó por su talento desde pequeño y ahora busca sorprender a la selección de Cubillo en el Mundial Sub-17",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AH9CLmkRoqHTa2dou6EgsTh"
-    }
-  },
-  {
-    "title": "“El Madrid gana por goleada al Barça en su balance económico”",
-    "url": "https://as.com/futbol/primera/el-madrid-gana-por-goleada-al-barca-en-su-balance-economico-f202611-n/",
-    "summary": "Aunque el Barcelona supera por primera vez los 1.000 millones de ingresos “sin palancas”, la reforma integral del Camp Nou le condena a “hacer una gestión muy fina del estadio”.",
-    "published": "Mon, 23 Nov 2026 11:47:48 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/DH5KN7M4YBH5TJ2EILOVZVRZSM.jpg?auth=a96a036cf1a1dcce964bc288062a2be90c6c8af735c73e1abbe429ffb68aa66c",
-    "media_type": "image/jpeg",
-    "arabic_title": "\"مدريد يتفوق على برشلونة بأغلبية ساحقة في توازنه الاقتصادي\"",
-    "arabic_summary": "ورغم أن إيرادات برشلونة تتجاوز الألف مليون لأول مرة «من دون روافع»، فإن الإصلاح الشامل للكامب نو يدينه بـ«إدارة الملعب بعناية فائقة».",
-    "translation_status": "translated",
-    "post_title": "\"مدريد يتفوق على برشلونة بأغلبية ساحقة في توازنه الاقتصادي\"",
-    "post_text": "🚨 \"مدريد يتفوق على برشلونة بأغلبية ساحقة في توازنه الاقتصادي\"\n\n📝 ورغم أن إيرادات برشلونة تتجاوز الألف مليون لأول مرة «من دون روافع»، فإن الإصلاح الشامل للكامب نو يدينه بـ«إدارة الملعب بعناية فائقة».\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117412517590725",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/مدريد_يتفوق_على_برشلونة_بأغلبية_ساحقة_في_توازنه_الاقتصادي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/el-madrid-gana-por-goleada-al-barca-en-su-balance-economico-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AEAQzUqrCj5Xa7c175BMqCE"
     }
   }
 ]
