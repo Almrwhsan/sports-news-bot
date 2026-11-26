@@ -1,5 +1,39 @@
 [
   {
+    "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
+    "url": "https://www.espn.com/soccer/story/_/id/50603612/fifa-cyber-attack",
+    "summary": "FIFA has been hit by a criminal cyberattack in which hackers gained access to personal and business information.",
+    "published": "Thu, 26 Nov 2026 11:53:33 EST",
+    "source": "ESPN FC",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": null,
+    "media_type": null,
+    "arabic_title": "تعرض FIFA لهجوم إلكتروني حيث تمكن المتسللون من الوصول إلى البيانات الشخصية والتجارية",
+    "arabic_summary": "تعرض الاتحاد الدولي لكرة القدم (فيفا) لهجوم إلكتروني إجرامي تمكن من خلاله المتسللون من الوصول إلى المعلومات الشخصية والتجارية.",
+    "translation_status": "translated",
+    "post_title": "تعرض FIFA لهجوم إلكتروني حيث تمكن المتسللون من الوصول إلى البيانات الشخصية والتجارية",
+    "post_text": "🚨 تعرض FIFA لهجوم إلكتروني حيث تمكن المتسللون من الوصول إلى البيانات الشخصية والتجارية\n\n📝 تعرض الاتحاد الدولي لكرة القدم (فيفا) لهجوم إلكتروني إجرامي تمكن من خلاله المتسللون من الوصول إلى المعلومات الشخصية والتجارية.\n\n🏷️ كرة القدم\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120956687236308",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تعرض_FIFA_لهجوم_إلكتروني_حيث_تمكن_المتسللون_من_الوصول_إلى_البيانات_الشخصية_والتج.png",
+    "image_type": "generated",
+    "image_source": null,
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVxSV0KnVPRknsGKPrXUYuB"
+    }
+  },
+  {
     "title": "Enzo Pérez: “Nos tenemos que adaptar a la forma de juego del nuevo míster”",
     "url": "https://www.marca.com/futbol/oviedo/2026/11/26/enzo-perez-adaptar-forma-juego-nuevo-mister.html",
     "summary": "El centrocampista del Oviedo defiende al nuevo entrenador y reclama una reacción tras dos derrotas",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AxTdHsEfDmC8LE_ZyBFrOtS"
-    }
-  },
-  {
-    "title": "A qué hora es el sorteo de la segunda eliminatoria de Copa del Rey: horario y dónde ver hoy en TV y online",
-    "url": "https://www.marca.com/futbol/copa-rey/2026/11/23/hora-sorteo-segunda-eliminatoria-copa-rey-horario-ver-hoy-tv.html",
-    "summary": "Los 56 equipos clasificados conocerán el lunes 23 de noviembre sus emparejamientos para la segunda eliminatoria de la Copa del Rey",
-    "published": "Mon, 23 Nov 2026 09:01:50 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/12/69b2e1efd9340.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "ما هو موعد قرعة الجولة الثانية من كأس الملك: الجدول الزمني ومكان المشاهدة اليوم على شاشة التلفزيون وعبر الإنترنت",
-    "arabic_summary": "ستتعرف الفرق الـ56 المصنفة، يوم الاثنين 23 نوفمبر، على مواجهاتها في الجولة الثانية من كأس الملك.",
-    "translation_status": "translated",
-    "post_title": "ما هو موعد قرعة الجولة الثانية من كأس الملك: الجدول الزمني ومكان المشاهدة اليوم على شاشة التلفزيون وعبر الإنترنت",
-    "post_text": "🚨 ما هو موعد قرعة الجولة الثانية من كأس الملك: الجدول الزمني ومكان المشاهدة اليوم على شاشة التلفزيون وعبر الإنترنت\n\n📝 ستتعرف الفرق الـ56 المصنفة، يوم الاثنين 23 نوفمبر، على مواجهاتها في الجولة الثانية من كأس الملك.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117678144230829",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ما_هو_موعد_قرعة_الجولة_الثانية_من_كأس_الملك_الجدول_الزمني_ومكان_المشاهدة_اليوم_ع.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/copa-rey/2026/11/23/hora-sorteo-segunda-eliminatoria-copa-rey-horario-ver-hoy-tv.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADWkmWcFrbzqlzO5b0TKD2_"
     }
   }
 ]
