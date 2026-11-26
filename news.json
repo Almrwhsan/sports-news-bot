@@ -1,5 +1,39 @@
 [
   {
+    "title": "Acusan a un árbitro de dejar un partido por pitar bebido: \"¡Está borracho!\"",
+    "url": "https://www.marca.com/futbol/2026/11/26/acusan-arbitro-dejar-partido-pitar-bebido-borracho.html",
+    "summary": "El árbitro Hanna Hattab fue sustituido en el descanso tras graves acusaciones de pitar estando borracho.",
+    "published": "Thu, 26 Nov 2026 09:43:44 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/26/hGD6w1h1_3Osc8tk3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "اتهام حكم بمغادرة المباراة بسبب صفيره وهو في حالة سكر: \"إنه سكران!\"",
+    "arabic_summary": "تم استبدال الحكم حنا حطاب بين الشوطين بعد اتهامات خطيرة بالتصفير وهو في حالة سكر.",
+    "translation_status": "translated",
+    "post_title": "اتهام حكم بمغادرة المباراة بسبب صفيره وهو في حالة سكر: \"إنه سكران!\"",
+    "post_text": "🚨 اتهام حكم بمغادرة المباراة بسبب صفيره وهو في حالة سكر: \"إنه سكران!\"\n\n📝 تم استبدال الحكم حنا حطاب بين الشوطين بعد اتهامات خطيرة بالتصفير وهو في حالة سكر.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120892913909352",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/اتهام_حكم_بمغادرة_المباراة_بسبب_صفيره_وهو_في_حالة_سكر_إنه_سكران!.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/26/acusan-arbitro-dejar-partido-pitar-bebido-borracho.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AIImxIZOozy1LtEoCfEueFv"
+    }
+  },
+  {
     "title": "Ganar o ganar",
     "url": "https://www.marca.com/futbol/getafe/2026/11/26/ganar-ganar.html",
     "summary": "El Getafe necesita vencer en Tbilisi para seguir vivo en la competición",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AG7Nb1rYDFQuNd1KKZnAEle"
-    }
-  },
-  {
-    "title": "A vueltas con Fofana",
-    "url": "https://as.com/futbol/primera/a-vueltas-con-fofana-f202611-n/",
-    "summary": "El Sevilla colocó al francés por delante de su doble pivote con libertad, pero su rendimiento sigue alejado del que mostró a inicios de campaña.",
-    "published": "Mon, 23 Nov 2026 11:02:36 GMT",
-    "source": "AS Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GERHUKP75VNLJJSYTBNKQXODJY.jpg?auth=196acc6f207153d5d5304d1e401491e4b98750de6caf12635ee203f14205f183",
-    "media_type": "image/jpeg",
-    "arabic_title": "حول مع فوفانا",
-    "arabic_summary": "وضع إشبيلية الفرنسي بحرية في المقدمة، لكن أدائه لا يزال بعيدًا عما أظهره في بداية الموسم.",
-    "translation_status": "translated",
-    "post_title": "حول مع فوفانا",
-    "post_text": "🚨 حول مع فوفانا\n\n📝 وضع إشبيلية الفرنسي بحرية في المقدمة، لكن أدائه لا يزال بعيدًا عما أظهره في بداية الموسم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: AS Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117587240906586",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/حول_مع_فوفانا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/a-vueltas-con-fofana-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ABaO_kxiVmYQriUhoEt8qwy"
     }
   }
 ]
