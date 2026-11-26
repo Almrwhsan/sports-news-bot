@@ -1,5 +1,39 @@
 [
   {
+    "title": "De Aitona a Bakú: debutó Àlex Campos",
+    "url": "https://as.com/futbol/champions/de-aitona-a-baku-debuto-alex-campos-f202611-n/",
+    "summary": "La cantera del Barcelona presenta a otro central contra el Sabah en la Champions.",
+    "published": "Thu, 26 Nov 2026 01:04:05 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/QLMUFUPE75HLHEAEN3MH3RVNWA.webp?auth=b251b3fdf8bdf6757b6299802bd318af96d289739cfd586999291084eaff27ca",
+    "media_type": "image/webp",
+    "arabic_title": "من أيتونا إلى باكو: ظهر أليكس كامبوس لأول مرة",
+    "arabic_summary": "يقدم فريق شباب برشلونة قلب دفاع آخر أمام صباح في دوري أبطال أوروبا.",
+    "translation_status": "translated",
+    "post_title": "من أيتونا إلى باكو: ظهر أليكس كامبوس لأول مرة",
+    "post_text": "🚨 من أيتونا إلى باكو: ظهر أليكس كامبوس لأول مرة\n\n📝 يقدم فريق شباب برشلونة قلب دفاع آخر أمام صباح في دوري أبطال أوروبا.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120143743984269",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/من_أيتونا_إلى_باكو_ظهر_أليكس_كامبوس_لأول_مرة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/de-aitona-a-baku-debuto-alex-campos-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ah0sPF8VM3vCgPUZHAhCrL-"
+    }
+  },
+  {
     "title": "England's All Blacks Tests 'World Cup practice' | 'Ireland still not contenders'",
     "url": "https://www.skysports.com/rugby-union/news/12040/13616429/nations-championship-steve-borthwick-targets-world-cup-preparation-against-all-blacks-as-andy-farrell-plays-down-irelands-title-credentials",
     "summary": "Head coaches Steve Borthwick of England, Andy Farrell of Ireland and Dave Rennie of New Zealand speak to media ahead of the final weekend of the inaugural Nations Championship.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A-LI_Wy5EuFCT3TjNvLQDgt"
-    }
-  },
-  {
-    "title": "Posible once del Getafe en la jornada 13 de LaLiga EA Sports",
-    "url": "https://as.com/futbol/posible-once-del-getafe-en-la-jornada-13-de-laliga-ea-sports-f202611-n/",
-    "summary": "El cuadro de Bordalás recibe al Atlético de Madrid en el Coliseum.",
-    "published": "Sat, 21 Nov 2026 21:56:11 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/JDRZATUXRNPRFHSKOZSAHI5W4U.jpg?auth=7a8b8ecd0e97c5ac72f820d8c649bca1d6dbc9ed228002bec7dbdc5dc50b58a4",
-    "media_type": "image/jpeg",
-    "arabic_title": "احتمالات خيتافي الـ11 في الجولة الـ13 من الدوري الإسباني EA Sports",
-    "arabic_summary": "يستقبل فريق بوردالاس أتلتيكو مدريد على ملعب الكولوسيوم.",
-    "translation_status": "translated",
-    "post_title": "احتمالات خيتافي الـ11 في الجولة الـ13 من الدوري الإسباني EA Sports",
-    "post_text": "🚨 احتمالات خيتافي الـ11 في الجولة الـ13 من الدوري الإسباني EA Sports\n\n📝 يستقبل فريق بوردالاس أتلتيكو مدريد على ملعب الكولوسيوم.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116883884310255",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/احتمالات_خيتافي_الـ11_في_الجولة_الـ13_من_الدوري_الإسباني_EA_Sports.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/posible-once-del-getafe-en-la-jornada-13-de-laliga-ea-sports-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AX7-KBjhn8pJcytRJ3dy3HA"
     }
   }
 ]
