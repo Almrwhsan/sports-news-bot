@@ -1,5 +1,39 @@
 [
   {
+    "title": "Ro-Zangelo Daal, un extremo de la A la Z: \"Es como una anguila, va regateando a todos\"",
+    "url": "https://www.marca.com/futbol/2026/11/26/ro-zangelo-daal-extremo-z-anguila-regateando-todos.html",
+    "summary": "El atacante del AZ se ha erigido en el mejor regateador de la Eredivisie este curso",
+    "published": "Thu, 26 Nov 2026 06:28:06 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/25/6b070e046e926.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "رو زانجيلو دال، جناح من الألف إلى الياء: \"إنه مثل ثعبان البحر، يساوم على الجميع\"",
+    "arabic_summary": "برز مهاجم أريزونا كأفضل مراوغ في الدوري الهولندي هذا الموسم",
+    "translation_status": "translated",
+    "post_title": "رو زانجيلو دال، جناح من الألف إلى الياء: \"إنه مثل ثعبان البحر، يساوم على الجميع\"",
+    "post_text": "🚨 رو زانجيلو دال، جناح من الألف إلى الياء: \"إنه مثل ثعبان البحر، يساوم على الجميع\"\n\n📝 برز مهاجم أريزونا كأفضل مراوغ في الدوري الهولندي هذا الموسم\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120737793924864",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رو_زانجيلو_دال،_جناح_من_الألف_إلى_الياء_إنه_مثل_ثعبان_البحر،_يساوم_على_الجميع.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/26/ro-zangelo-daal-extremo-z-anguila-regateando-todos.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AhxJ3CCUzaMZwlnlDrF6jzp"
+    }
+  },
+  {
     "title": "Nerea Sánchez Millán: en el nombre de la madre",
     "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/11/26/nerea-sanchez-millan-nombre-madre.html",
     "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aic2TvEzb7PQFNO4nbgBadm"
-    }
-  },
-  {
-    "title": "Man United will need big January transfer spend to avoid relegation",
-    "url": "https://www.espn.com/soccer/story/_/id/50571270/man-united-january-transfers-premier-league-relegation",
-    "summary": "Manchester United have a choice: spend £150 million on new players in January, or lose £300 million if they get relegated at the end of the Premier League season.",
-    "published": "Mon, 23 Nov 2026 04:46:53 EST",
-    "source": "ESPN FC",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "سيحتاج مانشستر يونايتد إلى إنفاق مبالغ كبيرة في يناير لتجنب الهبوط",
-    "arabic_summary": "أمام مانشستر يونايتد خياران: إنفاق 150 مليون جنيه إسترليني على لاعبين جدد في يناير، أو خسارة 300 مليون جنيه إسترليني إذا هبطوا في نهاية موسم الدوري الإنجليزي الممتاز.",
-    "translation_status": "translated",
-    "post_title": "سيحتاج مانشستر يونايتد إلى إنفاق مبالغ كبيرة في يناير لتجنب الهبوط",
-    "post_text": "🚨 سيحتاج مانشستر يونايتد إلى إنفاق مبالغ كبيرة في يناير لتجنب الهبوط\n\n📝 أمام مانشستر يونايتد خياران: إنفاق 150 مليون جنيه إسترليني على لاعبين جدد في يناير، أو خسارة 300 مليون جنيه إسترليني إذا هبطوا في نهاية موسم الدوري الإنجليزي الممتاز.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: ESPN FC\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117404360924874",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيحتاج_مانشستر_يونايتد_إلى_إنفاق_مبالغ_كبيرة_في_يناير_لتجنب_الهبوط.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ALLDRcQA_CC55bDW4lH4Huq"
     }
   }
 ]
