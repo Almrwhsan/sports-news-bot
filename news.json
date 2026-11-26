@@ -1,5 +1,39 @@
 [
   {
+    "title": "Gordon vuelve a encontrar el gol en Azerbaiyán",
+    "url": "https://as.com/futbol/champions/gordon-vuelve-a-encontrar-el-gol-en-azerbaiyan-f202611-n/",
+    "summary": "El delantero inglés firmó un doblete ante el Sabah y mejora en su eficacia de cara a portería, lo que le pedían.",
+    "published": "Thu, 26 Nov 2026 01:04:37 GMT",
+    "source": "AS Barcelona",
+    "language": "es",
+    "type": "club",
+    "category": "barcelona",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/J5ESHWGX3NKDZJJ5AIBZJPZCR4.jpg?auth=8ca1035838ca0861e90bbf0d04e539b925cf98aa73684d52009d48f3a43221d8",
+    "media_type": "image/jpeg",
+    "arabic_title": "يجد جوردون الهدف مرة أخرى في أذربيجان",
+    "arabic_summary": "وسجل المهاجم الإنجليزي ثنائية في مرمى صباح وحسّن كفاءته أمام المرمى، وهو ما طلب منه.",
+    "translation_status": "translated",
+    "post_title": "يجد جوردون الهدف مرة أخرى في أذربيجان",
+    "post_text": "🚨 يجد جوردون الهدف مرة أخرى في أذربيجان\n\n📝 وسجل المهاجم الإنجليزي ثنائية في مرمى صباح وحسّن كفاءته أمام المرمى، وهو ما طلب منه.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120146767317300",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يجد_جوردون_الهدف_مرة_أخرى_في_أذربيجان.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/champions/gordon-vuelve-a-encontrar-el-gol-en-azerbaiyan-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AVD5N8KyuOoJkyKtW-RFdyI"
+    }
+  },
+  {
     "title": "De Aitona a Bakú: debutó Àlex Campos",
     "url": "https://as.com/futbol/champions/de-aitona-a-baku-debuto-alex-campos-f202611-n/",
     "summary": "La cantera del Barcelona presenta a otro central contra el Sabah en la Champions.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ATCccogW4-ITFdYYFj_JCNe"
-    }
-  },
-  {
-    "title": "Ünal, un viejo anhelo para Simeone",
-    "url": "https://as.com/futbol/unal-un-viejo-anhelo-para-simeone-f202611-n/",
-    "summary": "El delantero turco indicó que el Atlético intentó su fichaje para la delantera. También David Soria fue una alternativa a Oblak en la portería.",
-    "published": "Sat, 21 Nov 2026 19:20:17 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "transfers",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/GX5OS75HHSTLGIEZKCRQDMWVJU.jpg?auth=4ffe1095890dc1fffad44d7612e5123e9382ff31027806b8933f6d45a2a223cf",
-    "media_type": "image/jpeg",
-    "arabic_title": "أونال، رغبة قديمة لسيميوني",
-    "arabic_summary": "وأشار المهاجم التركي إلى أن أتلتيكو حاول التعاقد معه كمهاجم. وكان ديفيد سوريا أيضًا بديلاً لأوبلاك في المرمى.",
-    "translation_status": "translated",
-    "post_title": "أونال، رغبة قديمة لسيميوني",
-    "post_text": "🚨 أونال، رغبة قديمة لسيميوني\n\n📝 وأشار المهاجم التركي إلى أن أتلتيكو حاول التعاقد معه كمهاجم. وكان ديفيد سوريا أيضًا بديلاً لأوبلاك في المرمى.\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116883700976940",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أونال،_رغبة_قديمة_لسيميوني.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/unal-un-viejo-anhelo-para-simeone-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-LI_Wy5EuFCT3TjNvLQDgt"
     }
   }
 ]
