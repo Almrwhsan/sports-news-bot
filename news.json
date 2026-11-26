@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sir Jude Bellingham",
+    "url": "https://as.com/opinion/sir-jude-bellingham-f202611-n/",
+    "summary": "Lidera desde la generosidad de quien, pudiendo reclamar privilegios, asume más obligaciones que nadie. No hay en este momento un futbolista en el mundo que se acerque a su nivel...",
+    "published": "Thu, 26 Nov 2026 01:06:06 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/ZYXR2IJYENBJ3EZQOT2RRBUUTU.JPG?auth=7ed7a957987f65d6c472d1a0aab79b1e762d1bac1a1d9b9f125001b4b9043369",
+    "media_type": "image/jpeg",
+    "arabic_title": "السير جود بيلينجهام",
+    "arabic_summary": "إنه يقود من كرم شخص، قادر على المطالبة بالامتيازات، ويتحمل التزامات أكثر من أي شخص آخر. لا يوجد حالياً لاعب كرة قدم في العالم يقترب من مستواه..",
+    "translation_status": "translated",
+    "post_title": "السير جود بيلينجهام",
+    "post_text": "🚨 السير جود بيلينجهام\n\n📝 إنه يقود من كرم شخص، قادر على المطالبة بالامتيازات، ويتحمل التزامات أكثر من أي شخص آخر. لا يوجد حالياً لاعب كرة قدم في العالم يقترب من مستواه..\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120152883983355",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/السير_جود_بيلينجهام.png",
+    "image_type": "real",
+    "image_source": "https://as.com/opinion/sir-jude-bellingham-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A5qsCpzTPI_nfP5RNgJgKyA"
+    }
+  },
+  {
     "title": "Gordon vuelve a encontrar el gol en Azerbaiyán",
     "url": "https://as.com/futbol/champions/gordon-vuelve-a-encontrar-el-gol-en-azerbaiyan-f202611-n/",
     "summary": "El delantero inglés firmó un doblete ante el Sabah y mejora en su eficacia de cara a portería, lo que le pedían.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AAcp-jofIHZHiOG5kZ1Du0r"
-    }
-  },
-  {
-    "title": "Alineación confirmada del Atlético ante el Getafe en Liga",
-    "url": "https://as.com/futbol/primera/posible-once-del-atletico-ante-el-getafe-en-liga-f202611-n/",
-    "summary": "Simeone tiene bajas en el centro de la zaga y Le Normand acompañará a Hancko. Julián apunta a la titularidad pese a el desplazamiento internacional.",
-    "published": "Sat, 21 Nov 2026 18:49:25 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/EKTNIFP56RLP3MFUZNIFIIZW74.jpg?auth=d14540a7ce9e25275aa6d56538363c296c7df6091e490bb6a9c5ce86d2f67cc6",
-    "media_type": "image/jpeg",
-    "arabic_title": "التشكيل الرسمي لأتلتيكو ضد خيتافي في الدوري",
-    "arabic_summary": "لدى سيميوني إصابات في قلب الدفاع وسيرافق لو نورماند هانكو. يهدف جوليان إلى الملكية على الرغم من النزوح الدولي.",
-    "translation_status": "translated",
-    "post_title": "التشكيل الرسمي لأتلتيكو ضد خيتافي في الدوري",
-    "post_text": "🚨 التشكيل الرسمي لأتلتيكو ضد خيتافي في الدوري\n\n📝 لدى سيميوني إصابات في قلب الدفاع وسيرافق لو نورماند هانكو. يهدف جوليان إلى الملكية على الرغم من النزوح الدولي.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1116883637643613",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/التشكيل_الرسمي_لأتلتيكو_ضد_خيتافي_في_الدوري.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/posible-once-del-atletico-ante-el-getafe-en-liga-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ATCccogW4-ITFdYYFj_JCNe"
     }
   }
 ]
