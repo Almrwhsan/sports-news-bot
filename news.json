@@ -1,5 +1,39 @@
 [
   {
+    "title": "Sadiq sobre Aguirre: \"Me dijo vas a salir, vas a marcar y vas a venir a abrazarme...\"",
+    "url": "https://www.marca.com/futbol/valencia/2026/11/26/sadiq-sobre-aguirre-me-dijo-vas-salir-vas-marcar-vas-venir-abrazarme.html",
+    "summary": "El nigeriano destaca la capacidad de motivación del nuevo entrenador del Valencia y promete una gran temporada goleadora",
+    "published": "Thu, 26 Nov 2026 09:15:39 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/26/6b07ea5ed277e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "صادق عن أغيري: \"أخبرني أنك ستخرج، وستسجل، وستأتي لتعانقني...\"",
+    "arabic_summary": "يسلط النيجيري الضوء على القدرة التحفيزية لمدرب فالنسيا الجديد ويعد بموسم رائع للتسجيل",
+    "translation_status": "translated",
+    "post_title": "صادق عن أغيري: \"أخبرني أنك ستخرج، وستسجل، وستأتي لتعانقني...\"",
+    "post_text": "🚨 صادق عن أغيري: \"أخبرني أنك ستخرج، وستسجل، وستأتي لتعانقني...\"\n\n📝 يسلط النيجيري الضوء على القدرة التحفيزية لمدرب فالنسيا الجديد ويعد بموسم رائع للتسجيل\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120882510577059",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/صادق_عن_أغيري_أخبرني_أنك_ستخرج،_وستسجل،_وستأتي_لتعانقني....png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/valencia/2026/11/26/sadiq-sobre-aguirre-me-dijo-vas-salir-vas-marcar-vas-venir-abrazarme.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A6qeVlhDAx8FLl8TxD_b9Ku"
+    }
+  },
+  {
     "title": "El tío de Mbappé da por zanjada la polémica en China tras el vídeo sobre Mao",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/26/tio-mbappe-da-zanjada-polemica-china-video-sobre-mao.html",
     "summary": "Pierre Mbappé asegura a 365Scores que la situación se ha normalizado tras la polémica por Mao Tse-Tung, que llevó a tres empresas chinas a romper con el francés",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ag0uFrfef0i9HSFC6G_sK-l"
-    }
-  },
-  {
-    "title": "LaLiga y el Getafe, los chicos duros de Europa",
-    "url": "https://as.com/futbol/primera/laliga-y-el-getafe-los-chicos-duros-de-europa-f202611-n/",
-    "summary": "El conjunto azulón es el que más amarillas y rojas ve por partido entre las siete grandes ligas. En el otro extremo, Barça, Betis y Levante reciben menos de la mitad de amarillas que los getafenses.",
-    "published": "Mon, 23 Nov 2026 14:23:12 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/T5CVVA4N5NX3KU2SXWJGUANBZE.jpg?auth=89e8dab0d90c3d7988c811f53c6fd3dc0306e0c0441e6302d2fd3d07053a6768",
-    "media_type": "image/jpeg",
-    "arabic_title": "الدوري الإسباني وخيتافي، أقوى أولاد أوروبا",
-    "arabic_summary": "الفريق الأزرق هو الذي يرى أكبر عدد من الألوان الصفراء والحمراء في المباراة الواحدة من بين الدوريات السبع الكبرى. على الجانب الآخر، يتلقى برشلونة وبيتيس وليفانتي أقل من نصف عدد البطاقات الصفراء التي يحصل عليها خيتافينسيز.",
-    "translation_status": "translated",
-    "post_title": "الدوري الإسباني وخيتافي، أقوى أولاد أوروبا",
-    "post_text": "🚨 الدوري الإسباني وخيتافي، أقوى أولاد أوروبا\n\n📝 الفريق الأزرق هو الذي يرى أكبر عدد من الألوان الصفراء والحمراء في المباراة الواحدة من بين الدوريات السبع الكبرى. على الجانب الآخر، يتلقى برشلونة وبيتيس وليفانتي أقل من نصف عدد البطاقات الصفراء التي يحصل عليها خيتافينسيز.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117548407577136",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الدوري_الإسباني_وخيتافي،_أقوى_أولاد_أوروبا.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/primera/laliga-y-el-getafe-los-chicos-duros-de-europa-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AODPBaTwQYS5S71Yz5lSj9C"
     }
   }
 ]
