@@ -1,5 +1,39 @@
 [
   {
+    "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
+    "url": "https://www.skysports.com/football/news/12040/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
+    "summary": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
+    "published": "Thu, 26 Nov 2026 19:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-tonda-eckert-southampton_7324138.jpg?20260817143551",
+    "media_type": "image/jpg",
+    "arabic_title": "إيكرت: حان الوقت لإغلاق الفصل الخاص بـ Spygate قبل لم شمل Boro",
+    "arabic_summary": "\"أعتقد أننا مررنا في الأشهر الـ 12 الماضية أكثر قليلاً من المعتاد.\"",
+    "translation_status": "translated",
+    "post_title": "إيكرت: حان الوقت لإغلاق الفصل الخاص بـ Spygate قبل لم شمل Boro",
+    "post_text": "🚨 إيكرت: حان الوقت لإغلاق الفصل الخاص بـ Spygate قبل لم شمل Boro\n\n📝 \"أعتقد أننا مررنا في الأشهر الـ 12 الماضية أكثر قليلاً من المعتاد.\"\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1121148973883746",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إيكرت_حان_الوقت_لإغلاق_الفصل_الخاص_بـ_Spygate_قبل_لم_شمل_Boro.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/news/12040/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AjrtM0IZ-SHCExXR_tRRe-X"
+    }
+  },
+  {
     "title": "Hosting World Cup means decade of excitement - Weir",
     "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
     "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APkfTn2PGG1ULNMMH7G7CAC"
-    }
-  },
-  {
-    "title": "LaLiga sufre un ciberataque con acceso a datos personales de aficionados",
-    "url": "https://www.marca.com/futbol/primera-division/2026/11/23/laliga-sufre-ciberataque-acceso-datos-personales-aficionados.html",
-    "summary": "Los albinegros no pasaron del empate frente al Albacete tras un final polémico",
-    "published": "Mon, 23 Nov 2026 10:18:34 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b0404da9ecb3.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تتعرض رابطة الليجا لهجوم إلكتروني أدى إلى الوصول إلى البيانات الشخصية للجماهير",
-    "arabic_summary": "ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل",
-    "translation_status": "translated",
-    "post_title": "تتعرض رابطة الليجا لهجوم إلكتروني أدى إلى الوصول إلى البيانات الشخصية للجماهير",
-    "post_text": "🚨 تتعرض رابطة الليجا لهجوم إلكتروني أدى إلى الوصول إلى البيانات الشخصية للجماهير\n\n📝 ولم يتجاوز ألبينجروس التعادل أمام البسيط بعد نهاية مثيرة للجدل\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117778154220828",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تتعرض_رابطة_الليجا_لهجوم_إلكتروني_أدى_إلى_الوصول_إلى_البيانات_الشخصية_للجماهير.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/primera-division/2026/11/23/laliga-sufre-ciberataque-acceso-datos-personales-aficionados.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A05KWAkih6vHOIFIs3xAQNv"
     }
   }
 ]
