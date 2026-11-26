@@ -1,5 +1,39 @@
 [
   {
+    "title": "Incredible catch... on a motorbike that has gone VIRAL!",
+    "url": "https://www.skysports.com/watch/video/13616780/swat-premier-league-man-takes-incredible-catch-on-a-motorbike",
+    "summary": "The Swat Premier League saw one of the greatest catches ever when a passenger on a motorbike caught a six that was hit out of the ground.",
+    "published": "Thu, 26 Nov 2026 11:35:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "premier_league",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-cricket-catch_7416992.jpg?20261126115002",
+    "media_type": "image/jpg",
+    "arabic_title": "لقطة مذهلة... على دراجة نارية انتشرت بسرعة كبيرة!",
+    "arabic_summary": "شهد الدوري الممتاز في سوات واحدة من أعظم عمليات الصيد على الإطلاق عندما اصطدم راكب على دراجة نارية بستة اصطدامات من الأرض.",
+    "translation_status": "translated",
+    "post_title": "لقطة مذهلة... على دراجة نارية انتشرت بسرعة كبيرة!",
+    "post_text": "🚨 لقطة مذهلة... على دراجة نارية انتشرت بسرعة كبيرة!\n\n📝 شهد الدوري الممتاز في سوات واحدة من أعظم عمليات الصيد على الإطلاق عندما اصطدم راكب على دراجة نارية بستة اصطدامات من الأرض.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1120765590588751",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقطة_مذهلة..._على_دراجة_نارية_انتشرت_بسرعة_كبيرة!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13616780/swat-premier-league-man-takes-incredible-catch-on-a-motorbike",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A35RGepYjlxRDfdulsFrmWG"
+    }
+  },
+  {
     "title": "Primer examen para España",
     "url": "https://www.marca.com/futbol/seleccion/2026/11/26/primer-examen-espana.html",
     "summary": "La Sub-17, ya clasificada y con 20 goles a favor, busca asegurar el liderato ante una Marruecos (16.00 h, Teledeporte) que necesita puntuar y que cuenta con el 'Messi marroquí'",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWct0gcjS0XdJ4tnYj_ROHy"
-    }
-  },
-  {
-    "title": "Fury reveals schizophrenia diagnosis",
-    "url": "https://www.skysports.com/boxing/news/12040/13615550/tyson-fury-reveals-schizophrenia-and-bipolar-disorder-diagnosis-ahead-of-anthony-joshua-fight",
-    "summary": "Tyson Fury has opened up about being diagnosed with schizophrenia following his ascent to becoming world heavyweight champion in 2015.",
-    "published": "Mon, 23 Nov 2026 09:44:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-tyson-fury-mariusz-wach_7306080.jpg?20260724181509",
-    "media_type": "image/jpg",
-    "arabic_title": "الغضب يكشف عن تشخيص الفصام",
-    "arabic_summary": "تحدث تايسون فيوري عن تشخيص إصابته بالفصام بعد صعوده ليصبح بطل العالم للوزن الثقيل في عام 2015.",
-    "translation_status": "translated",
-    "post_title": "الغضب يكشف عن تشخيص الفصام",
-    "post_text": "🚨 الغضب يكشف عن تشخيص الفصام\n\n📝 تحدث تايسون فيوري عن تشخيص إصابته بالفصام بعد صعوده ليصبح بطل العالم للوزن الثقيل في عام 2015.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1117420277589949",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الغضب_يكشف_عن_تشخيص_الفصام.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/news/12040/13615550/tyson-fury-reveals-schizophrenia-and-bipolar-disorder-diagnosis-ahead-of-anthony-joshua-fight",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AH9CLmkRoqHTa2dou6EgsTh"
     }
   }
 ]
