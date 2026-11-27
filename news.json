@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rodrigo Mendoza encuentra recompensa",
+    "url": "https://as.com/futbol/primera/mendoza-encuentra-recompensa-f202611-n/",
+    "summary": "El mediocentro ha sumado minutos en los últimos dos partidos y se asienta entre el grupo de jugadores usados por Simeone para dar refresco. El jugador lleva meses con un importante trabajo físico para mejorar en ritmo y fuerza.",
+    "published": "Fri, 27 Nov 2026 17:47:28 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/IPOEZGER2BIWNGIYJALWDT2J3I.jpg?auth=ab390d4cb3236f2902c9e5c6123455dc013eafdcb2b0b8bc80fab1f45e246e3c",
+    "media_type": "image/jpeg",
+    "arabic_title": "يجد رودريغو ميندوزا المكافأة",
+    "arabic_summary": "أضاف لاعب خط الوسط دقائق في المباراتين الأخيرتين ويجلس ضمن مجموعة اللاعبين الذين يستخدمهم سيميوني لتقديم المرطبات. ويقوم اللاعب بعمل بدني مهم منذ أشهر لتحسين إيقاعه وقوته.",
+    "translation_status": "translated",
+    "post_title": "يجد رودريغو ميندوزا المكافأة",
+    "post_text": "🚨 يجد رودريغو ميندوزا المكافأة\n\n📝 أضاف لاعب خط الوسط دقائق في المباراتين الأخيرتين ويجلس ضمن مجموعة اللاعبين الذين يستخدمهم سيميوني لتقديم المرطبات. ويقوم اللاعب بعمل بدني مهم منذ أشهر لتحسين إيقاعه وقوته.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122014910463819",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يجد_رودريغو_ميندوزا_المكافأة.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/mendoza-encuentra-recompensa-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARTgIhSI2y9KHMwlRfuJx2R"
+    }
+  },
+  {
     "title": "La gran remontada de Bernardo Silva",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/27/gran-remontada-bernardo-silva.html",
     "summary": "El portugués, que llegó corto de forma, ahora es pìeza clave en la racha victoriosa del Madrid",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AWWcQMtlX7i-OhODeoVqV1y"
-    }
-  },
-  {
-    "title": "Rafa Cruz, la sonrisa canaria que ya es historia de España: \"Ni en el recreo lo había logrado\"",
-    "url": "https://www.marca.com/futbol/seleccion/2026/11/24/rafa-cruz-sonrisa-canaria-historia-espana-recreo-habia-logrado.html",
-    "summary": "El joven extremo de Las Palmas iguala el récord de contribuciones directas de gol en un partido oficial con la selección española masculina, contando todas sus categorías, desde que existen registros estadísticos",
-    "published": "Tue, 24 Nov 2026 06:48:43 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/24/6b04eee38e266.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "رافا كروز، الابتسامة الكنارية التي أصبحت الآن تاريخ إسبانيا: \"لم أحققها حتى خلال فترة الاستراحة\"",
-    "arabic_summary": "عادل الجناح الشاب من لاس بالماس الرقم القياسي للمساهمة المباشرة في الأهداف في مباراة رسمية مع المنتخب الإسباني للرجال، مع احتساب كافة فئاته، حيث أن السجلات الإحصائية موجودة.",
-    "translation_status": "translated",
-    "post_title": "رافا كروز، الابتسامة الكنارية التي أصبحت الآن تاريخ إسبانيا: \"لم أحققها حتى خلال فترة الاستراحة\"",
-    "post_text": "🚨 رافا كروز، الابتسامة الكنارية التي أصبحت الآن تاريخ إسبانيا: \"لم أحققها حتى خلال فترة الاستراحة\"\n\n📝 عادل الجناح الشاب من لاس بالماس الرقم القياسي للمساهمة المباشرة في الأهداف في مباراة رسمية مع المنتخب الإسباني للرجال، مع احتساب كافة فئاته، حيث أن السجلات الإحصائية موجودة.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118659937465983",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رافا_كروز،_الابتسامة_الكنارية_التي_أصبحت_الآن_تاريخ_إسبانيا_لم_أحققها_حتى_خلال_ف.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/seleccion/2026/11/24/rafa-cruz-sonrisa-canaria-historia-espana-recreo-habia-logrado.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AuQsZrBlUWiv-F7vvOOGP0k"
     }
   }
 ]
