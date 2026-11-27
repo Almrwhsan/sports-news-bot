@@ -1,5 +1,39 @@
 [
   {
+    "title": "Anselmi: “Tengo una profunda admiración por el Cholo”",
+    "url": "https://as.com/futbol/primera/anselmi-tengo-una-profunda-admiracion-por-el-cholo-f202611-n/",
+    "summary": "El técnico del Elche ensalza a su rival y recuerda que el Atlético “no perdona los detalles”.",
+    "published": "Fri, 27 Nov 2026 12:00:21 GMT",
+    "source": "AS Atlético Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "atletico_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/XUXSZ7JBNBPZXP2MS4WWO64G6I.jpg?auth=b709ef6c6b4c34427cc1d49c8b2b8d6b659b6fc2b1bef0b19bd5465c530ef2a0",
+    "media_type": "image/jpeg",
+    "arabic_title": "أنسيلمي: \"أنا معجب بشدة بتشولو\"",
+    "arabic_summary": "مدرب إلتشي يشيد بمنافسه ويتذكر أن أتلتيكو \"لا يغفر التفاصيل\".",
+    "translation_status": "translated",
+    "post_title": "أنسيلمي: \"أنا معجب بشدة بتشولو\"",
+    "post_text": "🚨 أنسيلمي: \"أنا معجب بشدة بتشولو\"\n\n📝 مدرب إلتشي يشيد بمنافسه ويتذكر أن أتلتيكو \"لا يغفر التفاصيل\".\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1121693250495985",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أنسيلمي_أنا_معجب_بشدة_بتشولو.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/anselmi-tengo-una-profunda-admiracion-por-el-cholo-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A36_uYif2GzEQry67b1i2Xr"
+    }
+  },
+  {
     "title": "Sources: Late decision on unwell Fernandes for Man United vs. Brentford",
     "url": "https://www.espn.com/soccer/story/_/id/50610575/bruno-fernandes-man-united-brentford",
     "summary": "Bruno Fernandes will be assessed ahead of Manchester United's Premier League clash with Brentford on Saturday after missing training on Friday because of illness, sources have told ESPN.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AcmIm7zBDjgDG9EHWRg8d1y"
-    }
-  },
-  {
-    "title": "Mustaki out of World Cup play-off with knee injury",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cw33g15zeemro?at_medium=RSS&at_campaign=rss",
-    "summary": "Republic of Ireland defender Chloe Mustaki is forced to withdraw from her side's 2027 Women's World Cup play-off final against Poland after rupturing her anterior cruciate ligament.",
-    "published": "Mon, 23 Nov 2026 11:35:50 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a9/live/ae500e30-e72e-11f1-8294-033bd8ee7e95.jpg",
-    "media_type": null,
-    "arabic_title": "موستاكي خارج تصفيات كأس العالم بسبب إصابة في الركبة",
-    "arabic_summary": "اضطرت مدافعة جمهورية أيرلندا، كلوي موستاكي، إلى الانسحاب من نهائي تصفيات كأس العالم للسيدات 2027 أمام بولندا بعد إصابتها بتمزق في الرباط الصليبي الأمامي.",
-    "translation_status": "translated",
-    "post_title": "موستاكي خارج تصفيات كأس العالم بسبب إصابة في الركبة",
-    "post_text": "🚨 موستاكي خارج تصفيات كأس العالم بسبب إصابة في الركبة\n\n📝 اضطرت مدافعة جمهورية أيرلندا، كلوي موستاكي، إلى الانسحاب من نهائي تصفيات كأس العالم للسيدات 2027 أمام بولندا بعد إصابتها بتمزق في الرباط الصليبي الأمامي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118409307491046",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/موستاكي_خارج_تصفيات_كأس_العالم_بسبب_إصابة_في_الركبة.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cw33g15zeemro?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ARgKB6o4TqToJw5FnFshZP8"
     }
   }
 ]
