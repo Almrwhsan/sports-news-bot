@@ -1,5 +1,39 @@
 [
   {
+    "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
+    "url": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea",
+    "summary": "Morgan Gibbs-White nets again to put Nottingham Forest within sight of victory over Chelsea.",
+    "published": "Fri, 27 Nov 2026 21:34:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-gibbs-white-forest_7418250.jpg?20261127213617",
+    "media_type": "image/jpg",
+    "arabic_title": "\"تم استعادة الميزة!\" - غيبس وايت يضع فورست في القيادة",
+    "arabic_summary": "سجل مورجان جيبس ​​وايت مرة أخرى ليضع نوتنجهام فورست على مرمى البصر من الفوز على تشيلسي.",
+    "translation_status": "translated",
+    "post_title": "\"تم استعادة الميزة!\" - غيبس وايت يضع فورست في القيادة",
+    "post_text": "🚨 \"تم استعادة الميزة!\" - غيبس وايت يضع فورست في القيادة\n\n📝 سجل مورجان جيبس ​​وايت مرة أخرى ليضع نوتنجهام فورست على مرمى البصر من الفوز على تشيلسي.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122248817107095",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تم_استعادة_الميزة!_-_غيبس_وايت_يضع_فورست_في_القيادة.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "ARe-F4McoREavXuVozJ24ds"
+    }
+  },
+  {
     "title": "Why Cambridgeshire derby could be season-defining",
     "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
     "summary": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AlcT5soP-ZmrGgAvtjlDwqI"
-    }
-  },
-  {
-    "title": "Resumen y goles del Getafe vs. Atlético de LaLiga EA Sports",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-getafe-vs-atletico-de-laliga-ea-sports-f202611-v/",
-    "summary": "Sólido triunfo de los de Simeone ante un Getafe sin alma. Siguen los rojiblancos a cinco del Barça y a dos del Madrid.",
-    "published": "Sun, 22 Nov 2026 22:12:09 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "la_liga",
-    "priority": 1,
-    "image_url": null,
-    "media_type": null,
-    "arabic_title": "ملخص وأهداف مباراة خيتافي وأتلتيكو الدوري الإسباني EA Sports",
-    "arabic_summary": "فوز قوي لفريق سيميوني على خيتافي بلا روح. لا يزال فريق الأحمر والأبيض يتخلف بخمسة أهداف عن برشلونة واثنين خلف ريال مدريد.",
-    "translation_status": "translated",
-    "post_title": "ملخص وأهداف مباراة خيتافي وأتلتيكو الدوري الإسباني EA Sports",
-    "post_text": "🚨 ملخص وأهداف مباراة خيتافي وأتلتيكو الدوري الإسباني EA Sports\n\n📝 فوز قوي لفريق سيميوني على خيتافي بلا روح. لا يزال فريق الأحمر والأبيض يتخلف بخمسة أهداف عن برشلونة واثنين خلف ريال مدريد.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118896597442317",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ملخص_وأهداف_مباراة_خيتافي_وأتلتيكو_الدوري_الإسباني_EA_Sports.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AWE5zLhuDwSGuo-B0NE5DSN"
     }
   }
 ]
