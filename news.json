@@ -1,5 +1,39 @@
 [
   {
+    "title": "El \"adulterio\" de Neuer, retratado: \"Engañar a una mujer embarazada es un nivel de maldad distinto\"",
+    "url": "https://www.marca.com/futbol/2026/11/27/adulterio-neuer-retratado-enganar-mujer-embarazada-nivel-maldad-distinto.html",
+    "summary": "Anika Bissel publica un duro mensaje acusando a Neuer, portero del Bayern, en pleno proceso de divorcio de la pareja",
+    "published": "Fri, 27 Nov 2026 10:44:17 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/27/6b094f7315fc0.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "\"زنا\" نوير يصور: \"خيانة المرأة الحامل هي مستوى مختلف من الشر\"",
+    "arabic_summary": "أنيكا بيسل تنشر رسالة قاسية تتهم فيها نوير حارس بايرن وسط عملية طلاق الزوجين",
+    "translation_status": "translated",
+    "post_title": "\"زنا\" نوير يصور: \"خيانة المرأة الحامل هي مستوى مختلف من الشر\"",
+    "post_text": "🚨 \"زنا\" نوير يصور: \"خيانة المرأة الحامل هي مستوى مختلف من الشر\"\n\n📝 أنيكا بيسل تنشر رسالة قاسية تتهم فيها نوير حارس بايرن وسط عملية طلاق الزوجين\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122081813790462",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/زنا_نوير_يصور_خيانة_المرأة_الحامل_هي_مستوى_مختلف_من_الشر.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/2026/11/27/adulterio-neuer-retratado-enganar-mujer-embarazada-nivel-maldad-distinto.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ajv3z0aGuCX2xCzb1NWgQti"
+    }
+  },
+  {
     "title": "Mourinho: \"El superordenador de la IA es una mierda\"",
     "url": "https://www.marca.com/futbol/real-madrid/2026/11/27/mourinho-superordenador-ia-mierda.html",
     "summary": "El entrenador portugués atendió a la prensa antes del partido frente al Alavés en el Bernabéu",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AH-k96-ZCaWL17KDMH0BdXl"
-    }
-  },
-  {
-    "title": "Luces para Brahim",
-    "url": "https://as.com/futbol/champions/luces-para-brahim-f202611-n/",
-    "summary": "La renovación hasta 2031, lista. La baja de Endrick abre el abanico de los minutos. Se avecina el fallo del TAS, que puede ratificar a Marruecos.",
-    "published": "Tue, 24 Nov 2026 05:36:12 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261106/1234495_073117_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "أضواء لإبراهيم",
-    "arabic_summary": "التجديد حتى 2031 جاهز. خسارة إندريك تفتح نطاق الدقائق. يقترب حكم محكمة التحكيم الرياضية التي يمكنها التصديق على المغرب.",
-    "translation_status": "translated",
-    "post_title": "أضواء لإبراهيم",
-    "post_text": "🚨 أضواء لإبراهيم\n\n📝 التجديد حتى 2031 جاهز. خسارة إندريك تفتح نطاق الدقائق. يقترب حكم محكمة التحكيم الرياضية التي يمكنها التصديق على المغرب.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118720884126555",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أضواء_لإبراهيم.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "ADAPmQtdL6bK3JfJ4xUyP0P"
     }
   }
 ]
