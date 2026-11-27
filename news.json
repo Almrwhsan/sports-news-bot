@@ -1,5 +1,39 @@
 [
   {
+    "title": "Qatar GP: Rivals bid to halt Verstappen momentum in first practice LIVE!",
+    "url": "https://www.skysports.com/f1/live-blog/12040/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+    "summary": "",
+    "published": "Fri, 27 Nov 2026 10:37:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7417809.jpg?20261127125152",
+    "media_type": "image/jpg",
+    "arabic_title": "جائزة قطر الكبرى: المنافسون يحاولون وقف زخم فيرستابين في التدريب الأول على الهواء مباشرة!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "جائزة قطر الكبرى: المنافسون يحاولون وقف زخم فيرستابين في التدريب الأول على الهواء مباشرة!",
+    "post_text": "🚨 جائزة قطر الكبرى: المنافسون يحاولون وقف زخم فيرستابين في التدريب الأول على الهواء مباشرة!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1121745217157455",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/جائزة_قطر_الكبرى_المنافسون_يحاولون_وقف_زخم_فيرستابين_في_التدريب_الأول_على_الهواء.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/f1/live-blog/12040/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Al0eCRtvwkQfJ_K2xCs5Brf"
+    }
+  },
+  {
     "title": "La épica vuelve a vestir de blanco",
     "url": "https://as.com/futbol/la-epica-vuelve-a-vestir-de-blanco-f202611-n/",
     "summary": "Con el gol de Espí ante el Celta, los blancos suman ya seis tantos ganadores a partir del minuto 85. Mourinho ha recuperado el espíritu de lucha hasta el final, aunque avisa: “Hay un día que no vas a remontar”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "ANMQhm1xNIXzr4CD0bueAWq"
-    }
-  },
-  {
-    "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
-    "url": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
-    "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-    "published": "Mon, 23 Nov 2026 22:40:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "transfers",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-    "media_type": "image/jpg",
-    "arabic_title": "الأوراق: مدافع برينتفورد يظهر كهدف لمانشستر يونايتد كما كشفت ميزانية يناير",
-    "arabic_summary": "أبرز الأخبار والإشاعات المنقولة من صحف الثلاثاء..",
-    "translation_status": "translated",
-    "post_title": "الأوراق: مدافع برينتفورد يظهر كهدف لمانشستر يونايتد كما كشفت ميزانية يناير",
-    "post_text": "🚨 الأوراق: مدافع برينتفورد يظهر كهدف لمانشستر يونايتد كما كشفت ميزانية يناير\n\n📝 أبرز الأخبار والإشاعات المنقولة من صحف الثلاثاء..\n\n🏷️ سوق الانتقالات\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118470964151547",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/الأوراق_مدافع_برينتفورد_يظهر_كهدف_لمانشستر_يونايتد_كما_كشفت_ميزانية_يناير.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcOXSAVBrzUhpJfxaO8Zr79"
     }
   }
 ]
