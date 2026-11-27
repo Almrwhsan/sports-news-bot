@@ -1,5 +1,39 @@
 [
   {
+    "title": "Super 6 £1m jackpot MUST BE WON on Sunday!",
+    "url": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
+    "summary": "",
+    "published": "Fri, 27 Nov 2026 11:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-carragher-super-6_7417778.jpg?20261127115054",
+    "media_type": "image/jpg",
+    "arabic_title": "يجب الفوز بالجائزة الكبرى البالغة 6 مليون جنيه إسترليني يوم الأحد!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "يجب الفوز بالجائزة الكبرى البالغة 6 مليون جنيه إسترليني يوم الأحد!",
+    "post_text": "🚨 يجب الفوز بالجائزة الكبرى البالغة 6 مليون جنيه إسترليني يوم الأحد!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1121697210495589",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يجب_الفوز_بالجائزة_الكبرى_البالغة_6_مليون_جنيه_إسترليني_يوم_الأحد!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2CYQDTMPKLpGp6IM_kfmLX"
+    }
+  },
+  {
     "title": "Anselmi: “Tengo una profunda admiración por el Cholo”",
     "url": "https://as.com/futbol/primera/anselmi-tengo-una-profunda-admiracion-por-el-cholo-f202611-n/",
     "summary": "El técnico del Elche ensalza a su rival y recuerda que el Atlético “no perdona los detalles”.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A3EcdFy6MO87VR5bN3oC9f-"
-    }
-  },
-  {
-    "title": "Las peñas del Real Oviedo señalan a Pachuca y a la plantilla",
-    "url": "https://www.marca.com/futbol/oviedo/2026/11/23/penas-real-oviedo-senalan-pachuca-plantilla.html",
-    "summary": "El técnico se muestra confiado para obtener el primer triunfo bajo su mando ante el Mirandés",
-    "published": "Mon, 23 Nov 2026 17:15:34 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/23/6b0464b8dce98.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "تشير أندية أنصار ريال أوفييدو إلى باتشوكا والفريق",
-    "arabic_summary": "ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس",
-    "translation_status": "translated",
-    "post_title": "تشير أندية أنصار ريال أوفييدو إلى باتشوكا والفريق",
-    "post_text": "🚨 تشير أندية أنصار ريال أوفييدو إلى باتشوكا والفريق\n\n📝 ويثق المدرب في تحقيق الفوز الأول تحت قيادته أمام ميرانديس\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118417347490242",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تشير_أندية_أنصار_ريال_أوفييدو_إلى_باتشوكا_والفريق.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/oviedo/2026/11/23/penas-real-oviedo-senalan-pachuca-plantilla.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AcmIm7zBDjgDG9EHWRg8d1y"
     }
   }
 ]
