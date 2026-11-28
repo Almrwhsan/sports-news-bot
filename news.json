@@ -1,5 +1,39 @@
 [
   {
+    "title": "José Alberto: \"Son números muy buenos, pero debemos tener los pies en el suelo\"",
+    "url": "https://www.marca.com/futbol/racing-santander/2026/11/28/jose-alberto-son-numeros-buenos-pies-suelo.html",
+    "summary": "El técnico del Racing elogió el trabajo de su equipo",
+    "published": "Sat, 28 Nov 2026 00:03:58 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/28/6b0a0bdf340c3.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "خوسيه ألبرتو: \"إنها أرقام جيدة جدًا، لكن يجب أن نبقي أقدامنا على الأرض\"",
+    "arabic_summary": "وأشاد مدرب الراسينغ بعمل فريقه",
+    "translation_status": "translated",
+    "post_title": "خوسيه ألبرتو: \"إنها أرقام جيدة جدًا، لكن يجب أن نبقي أقدامنا على الأرض\"",
+    "post_text": "🚨 خوسيه ألبرتو: \"إنها أرقام جيدة جدًا، لكن يجب أن نبقي أقدامنا على الأرض\"\n\n📝 وأشاد مدرب الراسينغ بعمل فريقه\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122950317036945",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/خوسيه_ألبرتو_إنها_أرقام_جيدة_جدًا،_لكن_يجب_أن_نبقي_أقدامنا_على_الأرض.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/racing-santander/2026/11/28/jose-alberto-son-numeros-buenos-pies-suelo.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A-uUg0A-Zr1knVnl4kPzc1p"
+    }
+  },
+  {
     "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
     "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
     "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AakqOyaCYPcVv2tA9TwbE-Q"
-    }
-  },
-  {
-    "title": "Cucho Hernández: \"Queremos pasar entre los ocho primeros\"",
-    "url": "https://www.marca.com/futbol/betis/2026/11/24/cucho-hernandez-queremos-pasar-ocho-primeros.html",
-    "summary": "El fantasma de la temporada 2028/19 se apodera del entorno viendo a su equipo incapaz de mejorar",
-    "published": "Tue, 24 Nov 2026 23:15:38 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/24/6b060a3836173.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "كوتشو هيرنانديز: \"نريد أن نكون ضمن الثمانية الأوائل\"",
-    "arabic_summary": "شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن",
-    "translation_status": "translated",
-    "post_title": "كوتشو هيرنانديز: \"نريد أن نكون ضمن الثمانية الأوائل\"",
-    "post_text": "🚨 كوتشو هيرنانديز: \"نريد أن نكون ضمن الثمانية الأوائل\"\n\n📝 شبح موسم 2028/19 يسيطر على البيئة، ويرى فريقه غير قادر على التحسن\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119493420715968",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/كوتشو_هيرنانديز_نريد_أن_نكون_ضمن_الثمانية_الأوائل.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/betis/2026/11/24/cucho-hernandez-queremos-pasar-ocho-primeros.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AtbG1Gx67kD2gt7FZuZ4wwA"
     }
   }
 ]
