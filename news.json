@@ -1,5 +1,39 @@
 [
   {
+    "title": "El Bernabéu expande sus dominios",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/28/bernabeu-expande-dominios.html",
+    "summary": "Bernabéu Market, inaugurado en noviembre de 2025, es la última incorporación a un catálogo VIP insuperable en el mundo del fútbol",
+    "published": "Sat, 28 Nov 2026 07:18:06 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/27/6b097686ae144.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "البرنابيو يوسع نطاقاته",
+    "arabic_summary": "يعد سوق البرنابيو، الذي تم افتتاحه في نوفمبر 2025، أحدث إضافة إلى قائمة كبار الشخصيات غير المسبوقة في عالم كرة القدم.",
+    "translation_status": "translated",
+    "post_title": "البرنابيو يوسع نطاقاته",
+    "post_text": "🚨 البرنابيو يوسع نطاقاته\n\n📝 يعد سوق البرنابيو، الذي تم افتتاحه في نوفمبر 2025، أحدث إضافة إلى قائمة كبار الشخصيات غير المسبوقة في عالم كرة القدم.\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122974620367848",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/البرنابيو_يوسع_نطاقاته.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/28/bernabeu-expande-dominios.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A4oLLnOtnvAVx7BcGEY-Ssr"
+    }
+  },
+  {
     "title": "Chapecoense, una década de dolor",
     "url": "https://www.marca.com/futbol/2026/11/28/chapecoense-decada-dolor.html",
     "summary": "El 28 de noviembre de 2016 el avión que trasladaba a la plantilla del equipo brasileño se estrelló poco antes de aterrizar en el aeropuerto de Medellíon (Colombia). Fallecieron 71 personas. De ellos, 19 eran fútbolistas y todo el cuerpo técnico.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Ar60qBxBVsDMaKWJdxlDE0Y"
-    }
-  },
-  {
-    "title": "Fury rules out fighting Jake Paul",
-    "url": "https://www.skysports.com/boxing/live-blog/12040/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
-    "summary": "",
-    "published": "Mon, 23 Nov 2026 14:00:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-jake-paul-boxing_7315286.jpg?20261028175430",
-    "media_type": "image/jpg",
-    "arabic_title": "يستبعد فيوري قتال جيك بول",
-    "arabic_summary": "",
-    "translation_status": "translated",
-    "post_title": "يستبعد فيوري قتال جيك بول",
-    "post_text": "🚨 يستبعد فيوري قتال جيك بول\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119544407377536",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يستبعد_فيوري_قتال_جيك_بول.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/boxing/live-blog/12040/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-Hq0rPvrKrDVeBnJXZ8WOE"
     }
   }
 ]
