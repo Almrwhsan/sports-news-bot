@@ -1,5 +1,39 @@
 [
   {
+    "title": "Zirkzee starts for first time in PL since May as Man Utd host Brentford LIVE!",
+    "url": "https://www.skysports.com/football/manchester-united-vs-brentford/live/559561",
+    "summary": "",
+    "published": "Sat, 28 Nov 2026 13:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-joshua-zirkzee-manchester-united_7401365.jpg?20261108183053",
+    "media_type": "image/jpg",
+    "arabic_title": "يبدأ Zirkzee لأول مرة في الدوري الإنجليزي منذ مايو حيث يستضيف Man Utd Brentford LIVE!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "يبدأ Zirkzee لأول مرة في الدوري الإنجليزي منذ مايو حيث يستضيف Man Utd Brentford LIVE!",
+    "post_text": "🚨 يبدأ Zirkzee لأول مرة في الدوري الإنجليزي منذ مايو حيث يستضيف Man Utd Brentford LIVE!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122923543706289",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/يبدأ_Zirkzee_لأول_مرة_في_الدوري_الإنجليزي_منذ_مايو_حيث_يستضيف_Man_Utd_Brentford_.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/manchester-united-vs-brentford/live/559561",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Ad3TxDcOUjhUUSK1kiY2Upz"
+    }
+  },
+  {
     "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts - Premiership key issues",
     "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
     "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "Aw_Dw4mj60gxLB7q7eGWGaw"
-    }
-  },
-  {
-    "title": "Rueda de prensa de Flick y Frenkie de Jong, previa al Sabah, en directo",
-    "url": "https://as.com/futbol/champions/rueda-de-prensa-de-flick-y-frenkie-de-jong-previa-al-sabah-en-directo-f202611-d/",
-    "summary": "Sigue la rueda de prensa de Flick y Frenkie de Jong, previa al Sabah, en directo.",
-    "published": "Tue, 24 Nov 2026 15:51:32 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/C4JFCSR4RFIOPKDVSSKRXCTPCM.jpg?auth=46a434b5f522d7dfc26094a2c41c658401426f6132b58ccaa23b3a2c5482a06b",
-    "media_type": "image/jpeg",
-    "arabic_title": "المؤتمر الصحفي لفليك وفرينكي دي يونج قبل صباح على الهواء مباشرة",
-    "arabic_summary": "تابع المؤتمر الصحفي لفليك وفرينكي دي يونج قبل صباح مباشرة.",
-    "translation_status": "translated",
-    "post_title": "المؤتمر الصحفي لفليك وفرينكي دي يونج قبل صباح على الهواء مباشرة",
-    "post_text": "🚨 المؤتمر الصحفي لفليك وفرينكي دي يونج قبل صباح على الهواء مباشرة\n\n📝 تابع المؤتمر الصحفي لفليك وفرينكي دي يونج قبل صباح مباشرة.\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119441324054511",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/المؤتمر_الصحفي_لفليك_وفرينكي_دي_يونج_قبل_صباح_على_الهواء_مباشرة.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/champions/rueda-de-prensa-de-flick-y-frenkie-de-jong-previa-al-sabah-en-directo-f202611-d/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A-Bhw7itzlW4QAGV_o4ioyC"
     }
   }
 ]
