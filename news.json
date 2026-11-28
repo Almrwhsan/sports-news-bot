@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rangers vs Falkirk LIVE!",
+    "url": "https://www.skysports.com/football/rangers-vs-falkirk/live/558421",
+    "summary": "",
+    "published": "Sat, 28 Nov 2026 13:30:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-naderi-rangers-ryan_7417719.jpg?20261127103614",
+    "media_type": "image/jpg",
+    "arabic_title": "رينجرز ضد فالكيرك لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "رينجرز ضد فالكيرك لايف!",
+    "post_text": "🚨 رينجرز ضد فالكيرك لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122937170371593",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/رينجرز_ضد_فالكيرك_لايف!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/rangers-vs-falkirk/live/558421",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7vVLPF2iVGRAQub3tnWfgq"
+    }
+  },
+  {
     "title": "Leeds vs Coventry LIVE!",
     "url": "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AJb9Jryq9QsFXQWa-qzsprZ"
-    }
-  },
-  {
-    "title": "Arsenal punished for bluntness in attack - but Man City also have problems",
-    "url": "https://www.skysports.com/football/news/12040/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
-    "summary": "Arsenal face Manchester City in a blockbuster Premier League contest this weekend, but in recent days and months, both teams have issues to overcome.",
-    "published": "Tue, 24 Nov 2026 22:54:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "premier_league",
-    "priority": 2,
-    "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-city-manchester_7415805.jpg?20261124224824",
-    "media_type": "image/jpg",
-    "arabic_title": "تمت معاقبة أرسنال بسبب فظاظته في الهجوم، لكن مان سيتي يعاني أيضًا من مشاكل",
-    "arabic_summary": "يواجه أرسنال مانشستر سيتي في مباراة مثيرة بالدوري الإنجليزي الممتاز في نهاية هذا الأسبوع، ولكن في الأيام والأشهر الأخيرة، يواجه كلا الفريقين مشكلات يجب التغلب عليها.",
-    "translation_status": "translated",
-    "post_title": "تمت معاقبة أرسنال بسبب فظاظته في الهجوم، لكن مان سيتي يعاني أيضًا من مشاكل",
-    "post_text": "🚨 تمت معاقبة أرسنال بسبب فظاظته في الهجوم، لكن مان سيتي يعاني أيضًا من مشاكل\n\n📝 يواجه أرسنال مانشستر سيتي في مباراة مثيرة بالدوري الإنجليزي الممتاز في نهاية هذا الأسبوع، ولكن في الأيام والأشهر الأخيرة، يواجه كلا الفريقين مشكلات يجب التغلب عليها.\n\n🏷️ الدوري الإنجليزي\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119493677382609",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/تمت_معاقبة_أرسنال_بسبب_فظاظته_في_الهجوم،_لكن_مان_سيتي_يعاني_أيضًا_من_مشاكل.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/news/12040/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A9ZTZCQYqBNsRNEyD3NsudF"
     }
   }
 ]
