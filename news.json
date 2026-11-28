@@ -1,5 +1,39 @@
 [
   {
+    "title": "West Ham vs Stoke as Parker searches for first win as Hammers boss LIVE!",
+    "url": "https://www.skysports.com/football/west-ham-united-vs-stoke-city/live/560712",
+    "summary": "",
+    "published": "Sat, 28 Nov 2026 10:54:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-jarrod-bowen-west-ham_7392759.jpg?20261031153910",
+    "media_type": "image/jpg",
+    "arabic_title": "وست هام vs ستوك بينما يبحث باركر عن الفوز الأول كمدرب هامرز لايف!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "وست هام vs ستوك بينما يبحث باركر عن الفوز الأول كمدرب هامرز لايف!",
+    "post_text": "🚨 وست هام vs ستوك بينما يبحث باركر عن الفوز الأول كمدرب هامرز لايف!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122928250372485",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وست_هام_vs_ستوك_بينما_يبحث_باركر_عن_الفوز_الأول_كمدرب_هامرز_لايف!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/west-ham-united-vs-stoke-city/live/560712",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AM2gW-5BcM87EuMC_iOxnTy"
+    }
+  },
+  {
     "title": "Zirkzee starts for first time in PL since May as Man Utd host Brentford LIVE!",
     "url": "https://www.skysports.com/football/manchester-united-vs-brentford/live/559561",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A6rJP0-_grMTdJTpJGPc6-j"
-    }
-  },
-  {
-    "title": "De Jong: “Ya hablé de mi lesión este verano; no quiero entrar más”",
-    "url": "https://as.com/futbol/de-jong-ya-hable-de-mi-lesion-este-verano-no-quiero-entrar-mas-f202611-n/",
-    "summary": "El jugador del Barça evita la polémica: “Mi relación con el míster es buena. Estoy fuerte y quiero centrarme en lo que pasa ahora. Espero jugar mucho como siempre”.",
-    "published": "Tue, 24 Nov 2026 15:46:30 GMT",
-    "source": "AS Barcelona",
-    "language": "es",
-    "type": "club",
-    "category": "barcelona",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261124/1241706_161312_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "دي يونج: \"لقد تحدثت بالفعل عن إصابتي هذا الصيف، ولا أريد الخوض في الأمر بعد الآن\"",
-    "arabic_summary": "ويتجنب لاعب برشلونة الجدل: \"علاقتي مع المدرب جيدة. أنا قوي وأريد التركيز على ما يحدث الآن. أتمنى أن ألعب كثيرًا كما هو الحال دائمًا\".",
-    "translation_status": "translated",
-    "post_title": "دي يونج: \"لقد تحدثت بالفعل عن إصابتي هذا الصيف، ولا أريد الخوض في الأمر بعد الآن\"",
-    "post_text": "🚨 دي يونج: \"لقد تحدثت بالفعل عن إصابتي هذا الصيف، ولا أريد الخوض في الأمر بعد الآن\"\n\n📝 ويتجنب لاعب برشلونة الجدل: \"علاقتي مع المدرب جيدة. أنا قوي وأريد التركيز على ما يحدث الآن. أتمنى أن ألعب كثيرًا كما هو الحال دائمًا\".\n\n🏷️ برشلونة\n\n🌐 المصدر: AS Barcelona\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119441210721189",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/دي_يونج_لقد_تحدثت_بالفعل_عن_إصابتي_هذا_الصيف،_ولا_أريد_الخوض_في_الأمر_بعد_الآن.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Aw_Dw4mj60gxLB7q7eGWGaw"
     }
   }
 ]
