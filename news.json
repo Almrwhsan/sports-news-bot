@@ -1,5 +1,39 @@
 [
   {
+    "title": "Huijsen y Konaté, mucho más que defensas",
+    "url": "https://as.com/futbol/primera/huijsen-y-konate-mucho-mas-que-defensas-f202611-n/",
+    "summary": "La visión ofensiva de ambos resultó diferencial ante el PSV. Dean está en el top-10 de la Liga en pases verticales y progresiones con balón.",
+    "published": "Fri, 27 Nov 2026 23:12:26 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "la_liga",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/7YKL3M3ADFCRHCAP24GXHWJSWE.jpg?auth=279b9cd9c3144ff6722702d0de1d1ee5dad39d47ddf054758dba512f8ee7be9c",
+    "media_type": "image/jpeg",
+    "arabic_title": "Huijsen وKonaté، أكثر بكثير من مجرد دفاعات",
+    "arabic_summary": "كانت الرؤية الهجومية لكليهما متباينة ضد آيندهوفن. دين هو من بين العشرة الأوائل في الدوري من حيث التمريرات الرأسية وتطور الكرة.",
+    "translation_status": "translated",
+    "post_title": "Huijsen وKonaté، أكثر بكثير من مجرد دفاعات",
+    "post_text": "🚨 Huijsen وKonaté، أكثر بكثير من مجرد دفاعات\n\n📝 كانت الرؤية الهجومية لكليهما متباينة ضد آيندهوفن. دين هو من بين العشرة الأوائل في الدوري من حيث التمريرات الرأسية وتطور الكرة.\n\n🏷️ الدوري الإسباني\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122658713732772",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/Huijsen_وKonaté،_أكثر_بكثير_من_مجرد_دفاعات.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/primera/huijsen-y-konate-mucho-mas-que-defensas-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Azxw0oahQQrf1234G1T66JL"
+    }
+  },
+  {
     "title": "Gary Speed: 15 Years On",
     "url": "https://www.bbc.co.uk/sounds/play/m0011xv1?at_medium=RSS&at_campaign=rss",
     "summary": "Fifteen years since the passing of Gary Speed, we hear from his family and friends.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AYGRqg0QwTlp7WjcWzdDBq2"
-    }
-  },
-  {
-    "title": "Southampton held at Sheffield United",
-    "url": "https://www.skysports.com/football/sheffield-united-vs-southampton/report/560696",
-    "summary": "Sydie Peck equalised in the 90th minute as Sheffield United came from behind to secure a 1-1 Championship draw with Southampton at Bramall Lane.",
-    "published": "Tue, 24 Nov 2026 21:35:00 GMT",
-    "source": "Sky Sports Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 2,
-    "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-sheffield-united_7415747.jpg?20261124220334",
-    "media_type": "image/jpg",
-    "arabic_title": "ساوثهامبتون يستضيف شيفيلد يونايتد",
-    "arabic_summary": "تعادل سيدي بيك في الدقيقة 90 ليعود شيفيلد يونايتد من الخلف ليحقق التعادل 1-1 مع ساوثهامبتون في برامال لين.",
-    "translation_status": "translated",
-    "post_title": "ساوثهامبتون يستضيف شيفيلد يونايتد",
-    "post_text": "🚨 ساوثهامبتون يستضيف شيفيلد يونايتد\n\n📝 تعادل سيدي بيك في الدقيقة 90 ليعود شيفيلد يونايتد من الخلف ليحقق التعادل 1-1 مع ساوثهامبتون في برامال لين.\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119026964095947",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ساوثهامبتون_يستضيف_شيفيلد_يونايتد.png",
-    "image_type": "real",
-    "image_source": "https://www.skysports.com/football/sheffield-united-vs-southampton/report/560696",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AHRLX9U7b2J57BlwCFuFzGu"
     }
   }
 ]
