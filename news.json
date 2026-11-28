@@ -1,5 +1,39 @@
 [
   {
+    "title": "Leeds vs Coventry LIVE!",
+    "url": "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
+    "summary": "",
+    "published": "Sat, 28 Nov 2026 13:00:00 GMT",
+    "source": "Sky Sports Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 2,
+    "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-dominic-calvert-lewin_7379902.jpg?20261107121130",
+    "media_type": "image/jpg",
+    "arabic_title": "ليدز ضد كوفنتري بث مباشر!",
+    "arabic_summary": "",
+    "translation_status": "translated",
+    "post_title": "ليدز ضد كوفنتري بث مباشر!",
+    "post_text": "🚨 ليدز ضد كوفنتري بث مباشر!\n\n🏷️ كرة القدم\n\n🌐 المصدر: Sky Sports Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122932783705365",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ليدز_ضد_كوفنتري_بث_مباشر!.png",
+    "image_type": "real",
+    "image_source": "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A7ckGT-5d6e22f7e-8mHOEX"
+    }
+  },
+  {
     "title": "West Ham vs Stoke as Parker searches for first win as Hammers boss LIVE!",
     "url": "https://www.skysports.com/football/west-ham-united-vs-stoke-city/live/560712",
     "summary": "",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "A9ZTZCQYqBNsRNEyD3NsudF"
-    }
-  },
-  {
-    "title": "Simeone, en modo incógnito",
-    "url": "https://as.com/futbol/simeone-en-modo-incognito-f202611-n/",
-    "summary": "El Atlético tuvo una corta sesión de trabajo ante la lluvia y el frío en Majadahonda. El Cholo no probó nada de cara a medirse ante el Viking. Podrían entrar jugadores como Kang-in Lee o Sorloth.",
-    "published": "Tue, 24 Nov 2026 11:23:51 GMT",
-    "source": "AS Atlético Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "atletico_madrid",
-    "priority": 1,
-    "image_url": "https://img.asmedia.epimg.net/resizer/v2/MAJMK2AAFVMMXOKIEDVFMMJ7PQ.jpg?auth=c23a2306daa1c555c239cbf0c3abc3cf39c88fdfa07b6eb725c9dd5039de3249",
-    "media_type": "image/jpeg",
-    "arabic_title": "سيميوني، في وضع التصفح المتخفي",
-    "arabic_summary": "أجرى أتلتيكو جلسة عمل قصيرة بسبب المطر والبرد في ماجاداهوندا. لم يحاول El Cholo أي شيء لمواجهة الفايكنج. يمكن للاعبين مثل Kang-in Lee أو Sorloth الدخول.",
-    "translation_status": "translated",
-    "post_title": "سيميوني، في وضع التصفح المتخفي",
-    "post_text": "🚨 سيميوني، في وضع التصفح المتخفي\n\n📝 أجرى أتلتيكو جلسة عمل قصيرة بسبب المطر والبرد في ماجاداهوندا. لم يحاول El Cholo أي شيء لمواجهة الفايكنج. يمكن للاعبين مثل Kang-in Lee أو Sorloth الدخول.\n\n🏷️ أتلتيكو مدريد\n\n🌐 المصدر: AS Atlético Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119441137387863",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/سيميوني،_في_وضع_التصفح_المتخفي.png",
-    "image_type": "real",
-    "image_source": "https://as.com/futbol/simeone-en-modo-incognito-f202611-n/",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "A6rJP0-_grMTdJTpJGPc6-j"
     }
   }
 ]
