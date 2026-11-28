@@ -1,5 +1,39 @@
 [
   {
+    "title": "La ilusión de la primera vez",
+    "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/11/28/ilusion-primera-vez.html",
+    "summary": "España se estrena en el Reino de León ante una Chile ante la que nunca se ha enfrentado y con ocho posibles debutantes",
+    "published": "Sat, 28 Nov 2026 08:05:02 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/27/6b0979087c227.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "وهم المرة الأولى",
+    "arabic_summary": "ظهرت إسبانيا لأول مرة في مملكة ليون ضد تشيلي التي لم تواجهها من قبل ومع ثمانية لاعبين محتملين لأول مرة",
+    "translation_status": "translated",
+    "post_title": "وهم المرة الأولى",
+    "post_text": "🚨 وهم المرة الأولى\n\n📝 ظهرت إسبانيا لأول مرة في مملكة ليون ضد تشيلي التي لم تواجهها من قبل ومع ثمانية لاعبين محتملين لأول مرة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1123000873698556",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/وهم_المرة_الأولى.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/11/28/ilusion-primera-vez.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AepgyCwwD_M3iLW7RloqMFW"
+    }
+  },
+  {
     "title": "Gavi se vuelve viral tras estas declaraciones: tienen que verlo",
     "url": "https://as.com/futbol/videos/esto-de-gavi-impacta-el-video-que-ha-compartido-el-barca-y-que-cuesta-creerlo-al-escucharlo-f202611-v/",
     "summary": "El club azulgrana ha compartido estas declaraciones de Gavi comparadas con unas que dio siendo un niño en La Masía.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AT2-WkEvrDx92dbQW4yhQBn"
-    }
-  },
-  {
-    "title": "Bellingham: \"¿Renovación? He hablado con mi madre y mi padre y les he dicho: '¿Esto es verdad o no?'\"",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/24/bellingham-renovacion-he-hablado-mi-madre-mi-padre-les-he-dicho-esto-verdad.html",
-    "summary": "El centrocampista atendió a la prensa en la zona mixta del Bernabéu",
-    "published": "Tue, 24 Nov 2026 23:58:10 +0100",
-    "source": "MARCA Football",
-    "language": "es",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/24/6b06166e1ae08.jpeg",
-    "media_type": "image/jpeg",
-    "arabic_title": "بيلينجهام: \"التجديد؟ لقد تحدثت مع أمي وأبي وقلت: هل هذا صحيح أم لا؟\"",
-    "arabic_summary": "تحدث لاعب خط الوسط إلى الصحافة في منطقة البرنابيو المختلطة",
-    "translation_status": "translated",
-    "post_title": "بيلينجهام: \"التجديد؟ لقد تحدثت مع أمي وأبي وقلت: هل هذا صحيح أم لا؟\"",
-    "post_text": "🚨 بيلينجهام: \"التجديد؟ لقد تحدثت مع أمي وأبي وقلت: هل هذا صحيح أم لا؟\"\n\n📝 تحدث لاعب خط الوسط إلى الصحافة في منطقة البرنابيو المختلطة\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119609647371012",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/بيلينجهام_التجديد؟_لقد_تحدثت_مع_أمي_وأبي_وقلت_هل_هذا_صحيح_أم_لا؟.png",
-    "image_type": "real",
-    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/24/bellingham-renovacion-he-hablado-mi-madre-mi-padre-les-he-dicho-esto-verdad.html",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AJcO6k-jNIL3C7j6jlGjxbA"
     }
   }
 ]
