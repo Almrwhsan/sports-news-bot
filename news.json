@@ -1,5 +1,39 @@
 [
   {
+    "title": "Arbeloa vuelve a pescar en el Madrid",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/27/arbeloa-vuelve-pescar-madrid.html",
+    "summary": "El técnico del Fulham incorpora a Jesús Rueda como segundo entrenador y continúa rodeándose de profesionales y jóvenes talentos con pasado blanco",
+    "published": "Fri, 27 Nov 2026 14:37:00 +0100",
+    "source": "MARCA Football",
+    "language": "es",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/27/6b0986c5da52e.jpeg",
+    "media_type": "image/jpeg",
+    "arabic_title": "أربيلوا يعود إلى الصيد في مدريد",
+    "arabic_summary": "مدرب فولهام يعين خيسوس رويدا كمدرب مساعد ويستمر في إحاطة نفسه بالمحترفين والمواهب الشابة ذات الماضي الأبيض",
+    "translation_status": "translated",
+    "post_title": "أربيلوا يعود إلى الصيد في مدريد",
+    "post_text": "🚨 أربيلوا يعود إلى الصيد في مدريد\n\n📝 مدرب فولهام يعين خيسوس رويدا كمدرب مساعد ويستمر في إحاطة نفسه بالمحترفين والمواهب الشابة ذات الماضي الأبيض\n\n🏷️ كرة القدم\n\n🌐 المصدر: MARCA Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122528503745793",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/أربيلوا_يعود_إلى_الصيد_في_مدريد.png",
+    "image_type": "real",
+    "image_source": "https://www.marca.com/futbol/real-madrid/2026/11/27/arbeloa-vuelve-pescar-madrid.html",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "AWuc6GntStseJ4MMyIHq4MJ"
+    }
+  },
+  {
     "title": "Edin Terzic: “Tenemos que ir hacia adelante y aprender de esta derrota”",
     "url": "https://www.marca.com/futbol/athletic/2026/11/27/edin-terzic-adelante-aprender-derrota.html",
     "summary": "El técnico destaca la capacidad de reacción del equipo tras la derrota ante el Rayo",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AsXR3BjY7-AAgnGY8q_vAI4"
-    }
-  },
-  {
-    "title": "¡Para verlo mil veces! El golazo de Bellingham que inició la goleada en Champions League",
-    "url": "https://as.com/us/videos/para-verlo-mil-veces-el-golazo-de-bellingham-que-le-dio-la-victoria-al-real-madrid-en-champions-f202611-v/",
-    "summary": "El jugador inglés del Real Madrid marcó un tremendo golazo con el que aumentó la ventaja ante un PSV que vino de más a menos en Champions.",
-    "published": "Tue, 24 Nov 2026 21:42:30 GMT",
-    "source": "AS Real Madrid",
-    "language": "es",
-    "type": "club",
-    "category": "real_madrid",
-    "priority": 1,
-    "image_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261124/1241860_214534_video_1200.mp4",
-    "media_type": "video/mp4",
-    "arabic_title": "لرؤيته ألف مرة! هدف بيلينجهام الرائع الذي بدأ الفوز في دوري أبطال أوروبا",
-    "arabic_summary": "سجل اللاعب الإنجليزي من ريال مدريد هدفاً رائعاً عزز به الفارق أمام آيندهوفن الذي انتقل من قوة إلى قوة في دوري أبطال أوروبا.",
-    "translation_status": "translated",
-    "post_title": "لرؤيته ألف مرة! هدف بيلينجهام الرائع الذي بدأ الفوز في دوري أبطال أوروبا",
-    "post_text": "🚨 لرؤيته ألف مرة! هدف بيلينجهام الرائع الذي بدأ الفوز في دوري أبطال أوروبا\n\n📝 سجل اللاعب الإنجليزي من ريال مدريد هدفاً رائعاً عزز به الفارق أمام آيندهوفن الذي انتقل من قوة إلى قوة في دوري أبطال أوروبا.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1118983584100285",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لرؤيته_ألف_مرة!_هدف_بيلينجهام_الرائع_الذي_بدأ_الفوز_في_دوري_أبطال_أوروبا.png",
-    "image_type": "generated",
-    "image_source": null,
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "Ai6Yk1Ui78lg70hKFHkn9VQ"
     }
   }
 ]
