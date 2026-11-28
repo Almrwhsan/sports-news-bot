@@ -1,5 +1,39 @@
 [
   {
+    "title": "EFL preview: Happy Potters face struggling Hammers",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+    "published": "Fri, 27 Nov 2026 11:03:43 GMT",
+    "source": "BBC Sport Football",
+    "language": "en",
+    "type": "global",
+    "category": "football",
+    "priority": 1,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png",
+    "media_type": null,
+    "arabic_title": "معاينة EFL: يواجه الخزافون السعيدون المطارق المتعثر",
+    "arabic_summary": "تستكشف بي بي سي سبورت خمسة أشياء ستلفت انتباهك في عطلة نهاية الأسبوع هذه.",
+    "translation_status": "translated",
+    "post_title": "معاينة EFL: يواجه الخزافون السعيدون المطارق المتعثر",
+    "post_text": "🚨 معاينة EFL: يواجه الخزافون السعيدون المطارق المتعثر\n\n📝 تستكشف بي بي سي سبورت خمسة أشياء ستلفت انتباهك في عطلة نهاية الأسبوع هذه.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122782667053710",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/معاينة_EFL_يواجه_الخزافون_السعيدون_المطارق_المتعثر.png",
+    "image_type": "real",
+    "image_source": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2kCwwJj2RJ1ZsTbseqBF_3"
+    }
+  },
+  {
     "title": "Papers: Man Utd in running for Paz, but Champions League key",
     "url": "https://www.skysports.com/football/news/12040/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
     "summary": "The top stories and transfer rumours from Saturday's newspapers...",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "AoPK_xvY6RFraWE47vzoEsK"
-    }
-  },
-  {
-    "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-    "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
-    "published": "Mon, 23 Nov 2026 15:09:50 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg",
-    "media_type": null,
-    "arabic_title": "إنجلترا وأيرلندا الشمالية واسكتلندا وويلز ستستضيف كأس العالم للسيدات 2035",
-    "arabic_summary": "ستستضيف المملكة المتحدة بطولة كأس العالم لكرة القدم للمرة الأولى منذ عام 1966.",
-    "translation_status": "translated",
-    "post_title": "إنجلترا وأيرلندا الشمالية واسكتلندا وويلز ستستضيف كأس العالم للسيدات 2035",
-    "post_text": "🚨 إنجلترا وأيرلندا الشمالية واسكتلندا وويلز ستستضيف كأس العالم للسيدات 2035\n\n📝 ستستضيف المملكة المتحدة بطولة كأس العالم لكرة القدم للمرة الأولى منذ عام 1966.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119117600753550",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/إنجلترا_وأيرلندا_الشمالية_واسكتلندا_وويلز_ستستضيف_كأس_العالم_للسيدات_2035.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AEs0iIdhOCD5Gm7BHufa9VC"
     }
   }
 ]
