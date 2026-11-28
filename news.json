@@ -1,5 +1,39 @@
 [
   {
+    "title": "Mariano, ante la nostalgia",
+    "url": "https://as.com/futbol/mariano-ante-la-nostalgia-f202611-n/",
+    "summary": "El delantero hispano-dominicano tiene la oportunidad de enfrentarse por primera vez al Madrid, en donde se educó y heredó el 7 de Cristiano.",
+    "published": "Fri, 27 Nov 2026 23:15:52 GMT",
+    "source": "AS Real Madrid",
+    "language": "es",
+    "type": "club",
+    "category": "real_madrid",
+    "priority": 1,
+    "image_url": "https://img.asmedia.epimg.net/resizer/v2/NXNWHQOQZFHGLHCE3QNA4BI26E.jpg?auth=4c622f28d99bb71eed6ba85682d3d3c1e16e66839014cae781d2d1eaf4773171",
+    "media_type": "image/jpeg",
+    "arabic_title": "ماريانو، في مواجهة الحنين",
+    "arabic_summary": "ويحظى المهاجم الإسباني الدومينيكاني بفرصة مواجهة ريال مدريد للمرة الأولى، حيث نشأ وورث الرقم 7 لكريستيانو.",
+    "translation_status": "translated",
+    "post_title": "ماريانو، في مواجهة الحنين",
+    "post_text": "🚨 ماريانو، في مواجهة الحنين\n\n📝 ويحظى المهاجم الإسباني الدومينيكاني بفرصة مواجهة ريال مدريد للمرة الأولى، حيث نشأ وورث الرقم 7 لكريستيانو.\n\n🏷️ ريال مدريد\n\n🌐 المصدر: AS Real Madrid\n\n📍 نبض مدريد",
+    "processed": true,
+    "published_to_facebook": true,
+    "facebook_post_id": "1122786643719979",
+    "facebook_error": null,
+    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/ماريانو،_في_مواجهة_الحنين.png",
+    "image_type": "real",
+    "image_source": "https://as.com/futbol/mariano-ante-la-nostalgia-f202611-n/",
+    "image_license": null,
+    "image_artist": null,
+    "facebook_comment_id": null,
+    "facebook_comment_error": {
+      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "A2hassTjGECddBak64gZEcg"
+    }
+  },
+  {
     "title": "EFL preview: Happy Potters face struggling Hammers",
     "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
@@ -16963,40 +16997,6 @@
       "type": "OAuthException",
       "code": 200,
       "fbtrace_id": "APpEh5ktCSEKWlCVd8zWahy"
-    }
-  },
-  {
-    "title": "'I persuaded my club to give me a job as a content creator'",
-    "url": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb?at_medium=RSS&at_campaign=rss",
-    "summary": "Jacob discusses his route into his job as a content creator for a football club. Find out more about his role, career progression and top tips for getting into a similar role.",
-    "published": "Fri, 25 Sep 2026 10:15:00 GMT",
-    "source": "BBC Sport Football",
-    "language": "en",
-    "type": "global",
-    "category": "football",
-    "priority": 1,
-    "image_url": "https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png",
-    "media_type": null,
-    "arabic_title": "\"لقد أقنعت النادي بإعطائي وظيفة كمنشئ محتوى\"",
-    "arabic_summary": "يناقش جاكوب طريقه إلى وظيفته كمنشئ محتوى لنادي كرة قدم. اكتشف المزيد حول دوره وتطوره الوظيفي وأهم النصائح للحصول على دور مماثل.",
-    "translation_status": "translated",
-    "post_title": "\"لقد أقنعت النادي بإعطائي وظيفة كمنشئ محتوى\"",
-    "post_text": "🚨 \"لقد أقنعت النادي بإعطائي وظيفة كمنشئ محتوى\"\n\n📝 يناقش جاكوب طريقه إلى وظيفته كمنشئ محتوى لنادي كرة قدم. اكتشف المزيد حول دوره وتطوره الوظيفي وأهم النصائح للحصول على دور مماثل.\n\n🏷️ كرة القدم\n\n🌐 المصدر: BBC Sport Football\n\n📍 نبض مدريد",
-    "processed": true,
-    "published_to_facebook": true,
-    "facebook_post_id": "1119117547420222",
-    "facebook_error": null,
-    "image": "/home/runner/work/sports-news-bot/sports-news-bot/generated_images/لقد_أقنعت_النادي_بإعطائي_وظيفة_كمنشئ_محتوى.png",
-    "image_type": "real",
-    "image_source": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb?at_medium=RSS&at_campaign=rss",
-    "image_license": null,
-    "image_artist": null,
-    "facebook_comment_id": null,
-    "facebook_comment_error": {
-      "message": "(#200) The permission(s) pages_read_user_content are not available. It could because either they are deprecated or need to be approved by App Review.",
-      "type": "OAuthException",
-      "code": 200,
-      "fbtrace_id": "AoPK_xvY6RFraWE47vzoEsK"
     }
   }
 ]
